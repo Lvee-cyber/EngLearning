@@ -251,5 +251,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "outline",
+    "type": "word",
+    "translation": "提纲；大纲；概述；轮廓",
+    "analysis": "既可作名词，表示“提纲/概要/轮廓”，也可作动词，表示“概述、勾勒出大致结构”。在写作或演示语境里常指结构化的要点列表。",
+    "phonetic": "/ˈaʊtlaɪn/",
+    "origin": "由 out + line 组成，原义与“外部线条”有关，后来引申为“轮廓、概要、提纲”。",
+    "expansions": [
+      "a suggested outline 建议的提纲",
+      "outline the plan 概述计划",
+      "outline of a presentation 演示文稿的提纲",
+      "outline key points 概括关键要点"
+    ],
+    "pronunciation": "英式 /ˈaʊtlaɪn/，美式 /ˈaʊtlaɪn/",
+    "accepted_answers": [
+      "提纲",
+      "大纲",
+      "概述",
+      "轮廓"
+    ],
+    "added_at": "2026-03-28T10:14:20+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
