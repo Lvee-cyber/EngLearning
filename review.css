@@ -149,34 +149,21 @@ p {
 
 .hero-aside {
   position: relative;
-  min-height: 240px;
+  min-height: 180px;
   display: grid;
-  gap: 16px;
+  gap: 12px;
   align-items: end;
   justify-items: end;
 }
 
-.hero-orb {
-  position: absolute;
-  top: 8px;
-  right: 10px;
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  background:
-    radial-gradient(circle at 35% 35%, rgba(255, 244, 233, 0.95), rgba(195, 107, 42, 0.55) 52%, rgba(127, 57, 16, 0.16) 78%, transparent 82%);
-  filter: blur(2px);
-  opacity: 0.95;
-}
-
 .calendar-card {
   position: relative;
-  width: min(100%, 260px);
-  padding: 18px 20px;
-  border-radius: 26px;
+  width: min(100%, 224px);
+  padding: 14px 16px;
+  border-radius: 22px;
   background: linear-gradient(180deg, rgba(122, 54, 15, 0.92), rgba(167, 85, 33, 0.94));
   color: #fff7f0;
-  box-shadow: 0 20px 40px rgba(127, 57, 16, 0.22);
+  box-shadow: 0 16px 30px rgba(127, 57, 16, 0.18);
 }
 
 .calendar-top {
@@ -184,7 +171,7 @@ p {
   justify-content: space-between;
   gap: 10px;
   align-items: center;
-  margin-bottom: 18px;
+  margin-bottom: 12px;
 }
 
 .calendar-kicker,
@@ -197,29 +184,29 @@ p {
 
 .calendar-body {
   display: flex;
-  gap: 14px;
+  gap: 10px;
   align-items: flex-end;
 }
 
 .calendar-day {
-  font-size: 68px;
+  font-size: 56px;
   line-height: 0.9;
   font-weight: 800;
 }
 
 .calendar-meta {
   display: grid;
-  gap: 4px;
-  padding-bottom: 8px;
+  gap: 2px;
+  padding-bottom: 6px;
 }
 
 .calendar-month {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
 }
 
 .calendar-date-text {
-  font-size: 14px;
+  font-size: 13px;
   opacity: 0.86;
 }
 
@@ -491,8 +478,6 @@ p {
 .slot-input {
   width: 56px;
   height: 72px;
-  border: 0;
-  border-bottom: 5px solid rgba(47, 36, 27, 0.9);
   background: transparent;
   text-align: center;
   color: var(--text);
@@ -500,16 +485,19 @@ p {
   font-size: clamp(32px, 5vw, 54px);
   line-height: 1;
   padding: 0 0 8px;
+  font-weight: 700;
 }
 
 .slot-fixed {
   display: inline-flex;
   align-items: flex-end;
   justify-content: center;
-  font-weight: 700;
+  border: 0;
 }
 
 .slot-input {
+  border: 0;
+  border-bottom: 5px solid rgba(47, 36, 27, 0.9);
   outline: none;
 }
 
@@ -1070,6 +1058,10 @@ code {
     gap: 6px;
   }
 
+  .setup-main {
+    max-width: 320px;
+  }
+
   .label,
   .block-label,
   .question-label {
@@ -1078,6 +1070,7 @@ code {
   }
 
   .control {
+    width: 100%;
     min-height: 48px;
     padding: 8px 12px;
     border-radius: 14px;
@@ -1139,8 +1132,11 @@ code {
     width: 24px;
     height: 38px;
     padding: 0 0 4px;
-    border-bottom-width: 3px;
     font-size: 24px;
+  }
+
+  .slot-input {
+    border-bottom-width: 3px;
   }
 
   .translation-text {
