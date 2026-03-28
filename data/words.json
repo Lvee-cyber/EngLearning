@@ -1,0 +1,255 @@
+[
+  {
+    "term": "conversation",
+    "type": "word",
+    "translation": "谈话；对话；交谈",
+    "analysis": "指两人或多人之间的口头交流，也常用于表示持续性的对话过程。在日常英语里既可指一次具体谈话，也可泛指交流内容。",
+    "phonetic": "/ˌkɒnvəˈseɪʃən/; /ˌkɑːnvərˈseɪʃən/",
+    "origin": "来自拉丁语 conversatio，原义与“交往、来往、相处”有关，后演变为“交谈、会话”。",
+    "expansions": [
+      "have a conversation with sb. 与某人交谈",
+      "start a conversation 开启一段对话",
+      "make conversation 寒暄、找话说",
+      "conversation practice 对话练习"
+    ],
+    "pronunciation": "英式 /ˌkɒnvəˈseɪʃən/，美式 /ˌkɑːnvərˈseɪʃən/",
+    "accepted_answers": [
+      "对话",
+      "谈话",
+      "交谈",
+      "会话"
+    ],
+    "added_at": "2026-03-25T17:37:38+0800",
+    "review": {
+      "correct_count": 2,
+      "incorrect_count": 0,
+      "review_history": [
+        {
+          "answered_at": "2026-03-25T22:56:28+0800",
+          "result": "correct",
+          "user_answer": "对话"
+        },
+        {
+          "answered_at": "2026-03-26T09:51:45+0800",
+          "result": "correct",
+          "user_answer": "conversation",
+          "mode": "spelling"
+        }
+      ]
+    }
+  },
+  {
+    "term": "streamline",
+    "type": "word",
+    "translation": "使简化；使更高效；精简",
+    "analysis": "这个词常用于流程、系统、管理、业务等语境，表示通过减少不必要环节，让事情更顺畅、更高效。它强调“优化流程”而不只是单纯减少内容。",
+    "phonetic": "/ˈstriːmlaɪn/",
+    "origin": "由 stream 和 line 构成，原本与“流线型”有关，后来引申为“使流程更顺畅、更高效”。",
+    "expansions": [
+      "streamline the process 精简流程",
+      "streamline operations 优化运营",
+      "streamline workflow 优化工作流",
+      "a streamlined system 一个更高效的系统"
+    ],
+    "pronunciation": "英式 /ˈstriːmlaɪn/，美式 /ˈstriːmlaɪn/",
+    "accepted_answers": [
+      "简化",
+      "精简",
+      "使简化",
+      "使更高效",
+      "优化流程"
+    ],
+    "added_at": "2026-03-25T17:41:32+0800",
+    "review": {
+      "correct_count": 1,
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "answered_at": "2026-03-25T22:57:00+0800",
+          "result": "incorrect",
+          "user_answer": "气流"
+        },
+        {
+          "answered_at": "2026-03-26T09:06:48+0800",
+          "result": "correct",
+          "user_answer": "streamline",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T09:40:19+0800",
+          "result": "incorrect",
+          "user_answer": "steamlines",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T09:45:50+0800",
+          "result": "incorrect",
+          "user_answer": "straemline",
+          "mode": "spelling"
+        }
+      ]
+    }
+  },
+  {
+    "term": "commentary",
+    "type": "word",
+    "translation": "评论；评述；解说",
+    "analysis": "这个词通常指对某个事件、文本、现象或比赛所做的解释、评论或说明。它既可以用于正式书面评论，也可以用于体育比赛中的现场解说。",
+    "phonetic": "/ˈkɒməntri/; /ˈkɑːmənteri/",
+    "origin": "来自拉丁语 commentarius，和“注释、说明、评论”有关，后来进入英语后表示评述或解说。",
+    "expansions": [
+      "political commentary 政治评论",
+      "social commentary 社会评论",
+      "live commentary 现场解说",
+      "provide commentary on sth. 对某事进行评论"
+    ],
+    "pronunciation": "英式 /ˈkɒməntri/，美式 /ˈkɑːmənteri/",
+    "accepted_answers": [
+      "评论",
+      "评述",
+      "解说",
+      "评论性说明"
+    ],
+    "added_at": "2026-03-25T17:43:29+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 6,
+      "review_history": [
+        {
+          "answered_at": "2026-03-25T22:57:19+0800",
+          "result": "incorrect",
+          "user_answer": "内容"
+        },
+        {
+          "answered_at": "2026-03-26T09:06:10+0800",
+          "result": "incorrect",
+          "user_answer": "criblibtlt",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T09:49:11+0800",
+          "result": "incorrect",
+          "user_answer": "convesatio",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T09:51:19+0800",
+          "result": "incorrect",
+          "user_answer": "commention",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T10:16:25+0800",
+          "result": "incorrect",
+          "user_answer": "cddddddddd",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T17:36:11+0800",
+          "result": "incorrect",
+          "user_answer": "cdcccccccd",
+          "mode": "spelling"
+        }
+      ]
+    }
+  },
+  {
+    "term": "motivation",
+    "type": "word",
+    "translation": "动机；动力；积极性",
+    "analysis": "既可以表示做某件事的原因或动机，也可以表示推动一个人持续行动的内在动力。在学习语境中常指学习动力，在心理学语境中也可表示行为背后的驱动因素。",
+    "phonetic": "/ˌməʊtɪˈveɪʃən/; /ˌmoʊtɪˈveɪʃən/",
+    "origin": "来自拉丁语 movere，意为“移动、推动”。后来演变出 motivate 和 motivation，核心含义是推动人去行动的力量。",
+    "expansions": [
+      "learning motivation 学习动力",
+      "motivation to do something 做某事的动力",
+      "lose motivation 失去动力",
+      "boost motivation 提升积极性"
+    ],
+    "pronunciation": "英式 /ˌməʊtɪˈveɪʃən/，美式 /ˌmoʊtɪˈveɪʃən/",
+    "accepted_answers": [
+      "动机",
+      "动力",
+      "积极性",
+      "驱动力"
+    ],
+    "added_at": "2026-03-25T17:45:28+0800",
+    "review": {
+      "correct_count": 1,
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "answered_at": "2026-03-25T22:56:02+0800",
+          "result": "correct",
+          "user_answer": "积极性"
+        },
+        {
+          "answered_at": "2026-03-26T09:06:36+0800",
+          "result": "incorrect",
+          "user_answer": "motiviable",
+          "mode": "spelling"
+        },
+        {
+          "answered_at": "2026-03-26T09:51:35+0800",
+          "result": "incorrect",
+          "user_answer": "motivatory",
+          "mode": "spelling"
+        }
+      ]
+    }
+  },
+  {
+    "term": "desirable",
+    "type": "word",
+    "translation": "理想的；值得拥有的；可取的",
+    "analysis": "表示某事值得追求、值得拥有，或者从评价上看是可取的、合适的。既可用于日常语境，也常见于正式写作中。在 desirable difficulties 里，它表示“有益的、值得保留的”。",
+    "phonetic": "/dɪˈzaɪərəbəl/; /dɪˈzaɪrəbəl/",
+    "origin": "来自 desire，加上形容词后缀 -able，核心含义是“值得被想要的”，后引申为理想的、可取的。",
+    "expansions": [
+      "desirable outcome 理想结果",
+      "desirable trait 可取的特质",
+      "highly desirable 非常理想的",
+      "desirable difficulties 有益的困难"
+    ],
+    "pronunciation": "英式 /dɪˈzaɪərəbəl/，美式 /dɪˈzaɪrəbəl/",
+    "accepted_answers": [
+      "理想的",
+      "可取的",
+      "值得拥有的",
+      "值得要的"
+    ],
+    "added_at": "2026-03-26T09:05:17+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mundane",
+    "type": "word",
+    "translation": "平凡的；日常的；乏味的；世俗的",
+    "analysis": "通常表示某事普通、琐碎、缺乏新意，常带一点无聊、平淡无奇的语气。在正式语境里也可以表示“世俗的、尘世的”。现代英语里最常见的是“平凡的、日常琐碎的”。",
+    "phonetic": "/mʌnˈdeɪn/",
+    "origin": "来自拉丁语 mundus，原本和“世界”有关，因此最早有“尘世的、世俗的”意思，后来发展出“日常的、普通的、平凡的”含义。",
+    "expansions": [
+      "mundane tasks 琐碎的日常任务",
+      "mundane life 平淡的生活",
+      "something mundane 平凡无奇的事",
+      "turn the mundane into something meaningful 把平凡的事变得有意义"
+    ],
+    "pronunciation": "英式 /mʌnˈdeɪn/，美式 /mʌnˈdeɪn/",
+    "accepted_answers": [
+      "平凡的",
+      "日常的",
+      "乏味的",
+      "世俗的"
+    ],
+    "added_at": "2026-03-26T16:52:23+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  }
+]

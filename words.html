@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>词库查看</title>
+    <link rel="stylesheet" href="./review.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js"></script>
+  </head>
+  <body>
+    <main class="page">
+      <section class="panel words-hero">
+        <div class="words-hero-row">
+          <div>
+            <p class="eyebrow">Vocabulary Library</p>
+            <h1 class="words-title">查看词库</h1>
+            <p class="intro">词条内容来自 GitHub 的 <code>words.json</code>，复习状态来自 Supabase，同步标识相同即可查看同一份学习进度。</p>
+          </div>
+          <div class="words-nav">
+            <a class="secondary-button link-button" href="./review.html">返回复习</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel words-controls">
+        <div class="words-toolbar">
+          <div class="setup-field">
+            <label class="label" for="words-profile-id">同步标识</label>
+            <input id="words-profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" />
+          </div>
+          <div class="setup-field">
+            <label class="label" for="words-filter">筛选状态</label>
+            <select id="words-filter" class="control">
+              <option value="all">全部词条</option>
+              <option value="reviewable">待复习</option>
+              <option value="mastered">熟词</option>
+              <option value="hard">高错词</option>
+            </select>
+          </div>
+          <div class="setup-field words-search">
+            <label class="label" for="words-search">搜索</label>
+            <input id="words-search" class="control text-control" type="search" placeholder="搜索单词、释义或解析" autocomplete="off" />
+          </div>
+        </div>
+
+        <div class="stats-row words-stats">
+          <div class="stat-pill">
+            <span class="stat-label">全部</span>
+            <strong id="words-total-count">0</strong>
+          </div>
+          <div class="stat-pill">
+            <span class="stat-label">待复习</span>
+            <strong id="words-reviewable-count">0</strong>
+          </div>
+          <div class="stat-pill">
+            <span class="stat-label">熟词</span>
+            <strong id="words-mastered-count">0</strong>
+          </div>
+        </div>
+
+        <p id="words-sync-status" class="status-text">正在读取词库与在线进度。</p>
+      </section>
+
+      <section class="panel words-list-panel">
+        <div id="words-list" class="words-list"></div>
+        <p id="words-empty" class="status-text hidden">当前没有符合条件的词条。</p>
+      </section>
+    </main>
+
+    <script src="./words.js" defer></script>
+  </body>
+</html>

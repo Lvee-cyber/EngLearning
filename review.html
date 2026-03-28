@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>生词拼写复习</title>
+    <link rel="stylesheet" href="./review.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js"></script>
+  </head>
+  <body>
+    <main class="page">
+      <div id="home-view" class="home-view">
+        <section class="hero panel">
+          <div class="hero-grid">
+            <div class="hero-copy">
+              <p class="eyebrow">EngLearning</p>
+          <h1>生词拼写复习</h1>
+              <p class="intro">
+                用更轻量的方式做单词回忆训练。词库内容来自 GitHub 上的 <code>words.json</code>，复习进度则同步到在线数据表，方便多端延续。
+              </p>
+
+              <div class="hero-tags">
+                <span class="hero-tag">Spelling Recall</span>
+                <span class="hero-tag">Local Vocabulary</span>
+                <span class="hero-tag">Focus Mode</span>
+              </div>
+
+              <div class="hero-tipbar hero-tipbar-inline" aria-label="复习提示">
+                <span class="tipbar-label">今日复习模式</span>
+                <strong>拼写补全</strong>
+                <p>固定首字母，强化完整拼写记忆。</p>
+              </div>
+            </div>
+
+            <div class="hero-aside">
+              <div class="hero-orb"></div>
+              <div class="calendar-card" aria-label="今日日期">
+                <div class="calendar-top">
+                  <span class="calendar-kicker">Today</span>
+                  <span id="calendar-weekday" class="calendar-weekday"></span>
+                </div>
+                <div class="calendar-body">
+                  <strong id="calendar-day" class="calendar-day"></strong>
+                  <div class="calendar-meta">
+                    <span id="calendar-month" class="calendar-month"></span>
+                    <span id="calendar-date-text" class="calendar-date-text"></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="setup panel">
+            <div class="setup-header">
+            <div>
+              <p class="section-kicker">Review Setup</p>
+              <h2 class="setup-title">开始一轮新的复习</h2>
+            </div>
+            <div class="stats-row" aria-label="词库统计">
+              <div class="stat-pill">
+                <span class="stat-label">生词</span>
+                <strong id="new-words-count">0</strong>
+              </div>
+              <div class="stat-pill">
+                <span class="stat-label">熟词</span>
+                <strong id="mastered-words-count">0</strong>
+              </div>
+            </div>
+          </div>
+
+          <div class="setup-grid">
+            <div class="setup-main">
+              <div class="setup-field">
+                <label class="label" for="profile-id">同步标识</label>
+                <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" />
+              </div>
+              <div class="setup-field">
+                <label class="label" for="review-count">复习数量</label>
+                <select id="review-count" class="control">
+                  <option value="5">5</option>
+                  <option value="10" selected>10</option>
+                  <option value="15">15</option>
+                  <option value="20">20</option>
+                </select>
+              </div>
+            </div>
+            <div class="setup-actions">
+              <button id="words-button" class="secondary-button" type="button">查看词库</button>
+              <button id="start-button" class="primary-button" type="button">开始复习</button>
+            </div>
+          </div>
+          <p class="control-hint">建议每轮控制在 5 到 10 个，保持节奏更稳定。所有设备填写同一个同步标识即可共享复习进度。</p>
+          <p id="sync-status" class="status-text">正在连接在线进度服务。</p>
+          <p id="setup-status" class="status-text">正在读取 <code>words.json</code>。</p>
+        </section>
+      </div>
+
+      <section class="quiz panel hidden" id="quiz-panel">
+        <div class="quiz-topbar">
+          <button id="exit-button" class="secondary-button" type="button">退出回到主页</button>
+        </div>
+
+        <div class="progress-row">
+          <span id="progress-text"></span>
+          <span id="library-count-text"></span>
+        </div>
+
+        <div class="question-card">
+          <p class="question-label">根据中文释义补全单词</p>
+          <div id="spelling-slots" class="spelling-slots" aria-label="单词拼写题"></div>
+          <p id="translation-text" class="translation-text"></p>
+        </div>
+
+        <div class="answer-row">
+          <button id="submit-button" class="primary-button" type="button">提交</button>
+        </div>
+      </section>
+
+      <section class="result-overlay hidden" id="result-panel" aria-live="polite">
+        <div class="result-backdrop"></div>
+        <div class="result-modal panel">
+          <div class="result-header">
+            <div id="result-stamp" class="result-stamp">
+              <div id="result-icon" class="result-icon" aria-hidden="true"></div>
+            </div>
+            <div class="result-heading">
+              <h3 id="result-title"></h3>
+              <p id="result-message" class="result-message"></p>
+            </div>
+          </div>
+
+          <div class="result-grid">
+            <div id="user-answer-block" class="result-block answer-block answer-user">
+              <span class="block-label">你的答案</span>
+              <strong id="user-answer-text"></strong>
+            </div>
+            <div class="result-block answer-block answer-correct">
+              <span class="block-label">标准答案</span>
+              <strong id="correct-answer-text"></strong>
+            </div>
+          </div>
+
+          <div class="explanation-block">
+            <div class="explanation-header">
+              <span class="block-label">答案解析</span>
+              <span id="pronunciation-text" class="pronunciation-chip hidden"></span>
+            </div>
+            <p id="analysis-text" class="analysis-text"></p>
+            <div id="expansions-list" class="expansions-list"></div>
+          </div>
+
+          <div class="history-block">
+            <span class="block-label">历史对错情况</span>
+            <p id="history-text"></p>
+          </div>
+
+          <div class="result-actions">
+            <button id="next-button" class="primary-button" type="button">下一题</button>
+            <button id="restart-button" class="secondary-button" type="button">重新开始</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./review.js" defer></script>
+  </body>
+  </html>
