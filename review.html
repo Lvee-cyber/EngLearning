@@ -71,9 +71,9 @@
                 <label class="label" for="profile-id">同步标识</label>
                 <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" />
               </div>
-              <div class="setup-field">
+              <div class="setup-field setup-field-compact">
                 <label class="label" for="review-count">复习数量</label>
-                <select id="review-count" class="control">
+                <select id="review-count" class="control control-compact">
                   <option value="5">5</option>
                   <option value="10" selected>10</option>
                   <option value="15">15</option>
@@ -81,10 +81,10 @@
                 </select>
               </div>
             </div>
-            <div class="setup-actions">
-              <button id="words-button" class="secondary-button" type="button">查看词库</button>
-              <button id="start-button" class="primary-button" type="button">开始复习</button>
-            </div>
+          </div>
+          <div class="setup-actions">
+            <button id="words-button" class="secondary-button" type="button">查看词库</button>
+            <button id="start-button" class="primary-button" type="button">开始复习</button>
           </div>
           <p class="control-hint">建议每轮控制在 5 到 10 个，保持节奏更稳定。所有设备填写同一个同步标识即可共享复习进度。</p>
           <p id="sync-status" class="status-text">正在连接在线进度服务。</p>

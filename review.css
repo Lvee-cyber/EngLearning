@@ -324,10 +324,7 @@ p {
 }
 
 .setup-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 280px;
-  gap: 20px 28px;
-  align-items: start;
+  display: block;
   margin-bottom: 14px;
 }
 
@@ -339,10 +336,11 @@ p {
 }
 
 .setup-actions {
-  align-items: stretch;
+  align-items: center;
   justify-content: flex-start;
-  display: grid;
+  display: flex;
   gap: 14px;
+  margin-bottom: 14px;
 }
 
 .result-actions {
@@ -362,7 +360,7 @@ p {
 
 .control {
   width: 100%;
-  max-width: 760px;
+  max-width: none;
   min-height: 66px;
   padding: 12px 18px;
   border: 1px solid rgba(77, 58, 37, 0.14);
@@ -381,8 +379,10 @@ p {
 
 .setup-main {
   display: grid;
-  gap: 12px;
+  grid-template-columns: minmax(280px, 420px) 118px;
+  gap: 16px;
   min-width: 0;
+  align-items: end;
 }
 
 .setup-field {
@@ -390,10 +390,20 @@ p {
   gap: 10px;
 }
 
+.setup-field-compact {
+  max-width: 118px;
+}
+
 .control-hint {
   margin: 0 0 8px;
   font-size: 14px;
   line-height: 1.5;
+}
+
+.control-compact {
+  width: 118px;
+  min-width: 118px;
+  padding-right: 40px;
 }
 
 .status-text {
@@ -1117,10 +1127,16 @@ code {
   }
 
   .setup-main {
-    max-width: 320px;
+    max-width: 460px;
+    grid-template-columns: minmax(0, 1fr) 102px;
+  }
+
+  .setup-field-compact {
+    max-width: 102px;
   }
 
   .setup-actions {
+    display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1139,6 +1155,12 @@ code {
     font-size: 16px;
   }
 
+  .control-compact {
+    width: 102px;
+    min-width: 102px;
+    padding-right: 32px;
+  }
+
   .control-hint,
   .status-text,
   .word-analysis,
@@ -1155,7 +1177,6 @@ code {
   .primary-button,
   .secondary-button,
   .link-button {
-    width: 100%;
     min-height: 44px;
     padding: 0 14px;
     font-size: 15px;
