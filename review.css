@@ -97,9 +97,15 @@ p {
 .hero-grid {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.7fr);
-  gap: 22px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
   align-items: stretch;
+}
+
+.hero-topbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 18px;
 }
 
 .hero-copy h1 {
@@ -147,15 +153,6 @@ p {
   -webkit-tap-highlight-color: transparent;
 }
 
-.hero-aside {
-  position: relative;
-  min-height: 180px;
-  display: grid;
-  gap: 12px;
-  align-items: end;
-  justify-items: end;
-}
-
 .calendar-card {
   position: relative;
   width: min(100%, 224px);
@@ -166,14 +163,6 @@ p {
   box-shadow: 0 16px 30px rgba(127, 57, 16, 0.18);
 }
 
-.calendar-top {
-  display: flex;
-  justify-content: space-between;
-  gap: 10px;
-  align-items: center;
-  margin-bottom: 12px;
-}
-
 .calendar-kicker,
 .calendar-weekday {
   font-size: 12px;
@@ -182,22 +171,10 @@ p {
   opacity: 0.82;
 }
 
-.calendar-body {
-  display: flex;
-  gap: 10px;
-  align-items: flex-end;
-}
-
 .calendar-day {
   font-size: 56px;
   line-height: 0.9;
   font-weight: 800;
-}
-
-.calendar-meta {
-  display: grid;
-  gap: 2px;
-  padding-bottom: 6px;
 }
 
 .calendar-month {
@@ -208,6 +185,41 @@ p {
 .calendar-date-text {
   font-size: 13px;
   opacity: 0.86;
+}
+
+.calendar-inline {
+  width: 100%;
+  max-width: none;
+  min-height: 54px;
+  padding: 10px 16px;
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  box-shadow: 0 12px 24px rgba(127, 57, 16, 0.14);
+  white-space: nowrap;
+}
+
+.calendar-inline .calendar-kicker,
+.calendar-inline .calendar-weekday {
+  font-size: 11px;
+  flex: 0 0 auto;
+}
+
+.calendar-inline .calendar-day {
+  font-size: 34px;
+}
+
+.calendar-inline .calendar-month {
+  font-size: 18px;
+}
+
+.calendar-inline .calendar-date-text {
+  font-size: 14px;
+}
+
+.calendar-inline .calendar-weekday {
+  margin-left: auto;
 }
 
 .section-kicker,
@@ -991,28 +1003,14 @@ code {
     line-height: 1.45;
   }
 
-  .hero-aside {
-    min-height: auto;
-    justify-items: stretch;
-    gap: 10px;
-  }
-
-  .hero-orb {
-    display: none;
+  .hero-topbar {
+    margin-bottom: 10px;
   }
 
   .calendar-card {
     width: 100%;
     padding: 12px 14px;
     border-radius: 18px;
-  }
-
-  .calendar-top {
-    margin-bottom: 8px;
-  }
-
-  .calendar-body {
-    gap: 8px;
   }
 
   .calendar-day {
@@ -1025,6 +1023,27 @@ code {
 
   .calendar-date-text {
     font-size: 12px;
+  }
+
+  .calendar-inline {
+    min-height: 44px;
+    padding: 9px 12px;
+    gap: 8px;
+    border-radius: 14px;
+  }
+
+  .calendar-inline .calendar-day {
+    font-size: 26px;
+  }
+
+  .calendar-inline .calendar-month {
+    font-size: 14px;
+  }
+
+  .calendar-inline .calendar-date-text,
+  .calendar-inline .calendar-kicker,
+  .calendar-inline .calendar-weekday {
+    font-size: 11px;
   }
 
   .setup-title {
