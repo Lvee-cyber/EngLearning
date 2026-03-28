@@ -939,14 +939,15 @@ code {
 
 @media (max-width: 430px) {
   .page {
-    width: calc(100vw - 14px);
-    margin: 8px auto 18px;
-    gap: 14px;
+    width: calc(100vw - 12px);
+    margin: 6px auto 14px;
+    gap: 10px;
   }
 
   .panel {
-    padding: 18px 16px;
-    border-radius: 22px;
+    padding: 14px 12px;
+    border-radius: 18px;
+    box-shadow: 0 10px 24px rgba(87, 53, 22, 0.09);
   }
 
   .eyebrow,
@@ -954,154 +955,156 @@ code {
   .tipbar-label,
   .calendar-kicker,
   .calendar-weekday {
-    font-size: 11px;
-    letter-spacing: 0.14em;
+    font-size: 10px;
+    letter-spacing: 0.12em;
   }
 
   .hero-copy h1,
   .words-title {
-    font-size: clamp(34px, 15vw, 48px);
-    margin-bottom: 12px;
+    font-size: clamp(30px, 13vw, 40px);
+    margin-bottom: 8px;
+    line-height: 0.95;
   }
 
   .hero-copy .intro,
   .intro {
-    font-size: 16px;
-    line-height: 1.65;
-    margin-bottom: 16px;
+    font-size: 14px;
+    line-height: 1.55;
+    margin-bottom: 10px;
   }
 
   .hero-tags {
-    gap: 8px;
-    margin-bottom: 14px;
+    gap: 6px;
+    margin-bottom: 10px;
   }
 
   .hero-tag {
-    min-height: 32px;
-    padding: 0 10px;
-    font-size: 11px;
+    min-height: 26px;
+    padding: 0 8px;
+    font-size: 10px;
     letter-spacing: 0.02em;
+    border-radius: 999px;
   }
 
   .hero-tipbar {
-    padding: 12px 14px;
-    border-radius: 16px;
+    padding: 10px 12px;
+    border-radius: 14px;
   }
 
   .hero-tipbar strong {
     display: block;
-    margin: 0 0 4px;
-    font-size: 16px;
+    margin: 0 0 2px;
+    font-size: 15px;
   }
 
   .hero-tipbar p {
     display: block;
-    font-size: 14px;
-    line-height: 1.55;
+    font-size: 13px;
+    line-height: 1.45;
   }
 
   .hero-aside {
     min-height: auto;
     justify-items: stretch;
+    gap: 10px;
   }
 
   .hero-orb {
-    width: 120px;
-    height: 120px;
-    top: -8px;
-    right: -4px;
-    opacity: 0.82;
+    display: none;
   }
 
   .calendar-card {
     width: 100%;
-    padding: 16px 16px 14px;
-    border-radius: 22px;
+    padding: 12px 14px;
+    border-radius: 18px;
   }
 
   .calendar-top {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
   }
 
   .calendar-body {
-    gap: 10px;
-  }
-
-  .calendar-day {
-    font-size: 52px;
-  }
-
-  .calendar-month {
-    font-size: 16px;
-  }
-
-  .calendar-date-text {
-    font-size: 13px;
-  }
-
-  .setup-title {
-    font-size: clamp(28px, 11vw, 42px);
-  }
-
-  .stats-row {
     gap: 8px;
   }
 
+  .calendar-day {
+    font-size: 42px;
+  }
+
+  .calendar-month {
+    font-size: 14px;
+  }
+
+  .calendar-date-text {
+    font-size: 12px;
+  }
+
+  .setup-title {
+    font-size: clamp(26px, 11vw, 34px);
+    line-height: 1;
+  }
+
+  .stats-row {
+    gap: 6px;
+  }
+
   .stat-pill {
-    min-width: 92px;
-    padding: 10px 12px;
-    border-radius: 16px;
+    min-width: 74px;
+    padding: 8px 10px;
+    border-radius: 14px;
   }
 
   .stat-pill strong {
-    font-size: 22px;
+    font-size: 18px;
+    margin-top: 4px;
   }
 
   .setup-grid,
   .words-toolbar {
-    gap: 12px;
+    gap: 10px;
+    margin-bottom: 10px;
   }
 
   .setup-main,
   .setup-field {
-    gap: 8px;
+    gap: 6px;
   }
 
   .label,
   .block-label,
   .question-label {
-    margin-bottom: 6px;
-    font-size: 13px;
+    margin-bottom: 4px;
+    font-size: 12px;
   }
 
   .control {
-    min-height: 56px;
-    padding: 10px 14px;
-    border-radius: 18px;
-    font-size: 18px;
+    min-height: 48px;
+    padding: 8px 12px;
+    border-radius: 14px;
+    font-size: 16px;
   }
 
   .control-hint,
   .status-text,
   .word-analysis,
   .word-translation {
-    font-size: 14px;
-    line-height: 1.6;
+    font-size: 13px;
+    line-height: 1.5;
   }
 
   .setup-actions,
   .result-actions {
-    gap: 10px;
+    gap: 8px;
   }
 
   .primary-button,
   .secondary-button,
   .link-button {
     width: 100%;
-    min-height: 50px;
-    padding: 0 16px;
-    font-size: 16px;
-    border-radius: 18px;
+    min-height: 44px;
+    padding: 0 14px;
+    font-size: 15px;
+    border-radius: 14px;
   }
 
   #start-button,
@@ -1110,117 +1113,117 @@ code {
   }
 
   .quiz-topbar {
-    margin-bottom: 10px;
+    margin-bottom: 6px;
   }
 
   .progress-row {
-    font-size: 13px;
+    font-size: 12px;
     flex-direction: column;
     align-items: flex-start;
-    gap: 4px;
+    gap: 2px;
   }
 
   .question-card {
-    margin: 14px 0;
-    padding: 18px 14px;
-    border-radius: 20px;
+    margin: 10px 0;
+    padding: 14px 10px;
+    border-radius: 16px;
   }
 
   .spelling-slots {
-    gap: 9px;
-    margin-bottom: 14px;
+    gap: 7px;
+    margin-bottom: 10px;
   }
 
   .slot-fixed,
   .slot-input {
-    width: 28px;
-    height: 44px;
-    padding: 0 0 6px;
-    border-bottom-width: 4px;
-    font-size: 28px;
+    width: 24px;
+    height: 38px;
+    padding: 0 0 4px;
+    border-bottom-width: 3px;
+    font-size: 24px;
   }
 
   .translation-text {
-    font-size: 17px;
-    line-height: 1.6;
-  }
-
-  .result-overlay {
-    padding: 10px;
-  }
-
-  .result-modal {
-    width: calc(100vw - 18px);
-    max-height: calc(100vh - 22px);
-    border-radius: 24px;
-  }
-
-  .result-header {
-    gap: 10px;
-    margin-bottom: 2px;
-  }
-
-  .result-heading h3 {
-    font-size: 32px;
-  }
-
-  .result-heading .result-message {
     font-size: 15px;
     line-height: 1.5;
   }
 
-  .result-stamp {
+  .result-overlay {
     padding: 6px;
   }
 
+  .result-modal {
+    width: calc(100vw - 12px);
+    max-height: calc(100vh - 14px);
+    border-radius: 18px;
+  }
+
+  .result-header {
+    gap: 8px;
+    margin-bottom: 2px;
+  }
+
+  .result-heading h3 {
+    font-size: 28px;
+  }
+
+  .result-heading .result-message {
+    font-size: 14px;
+    line-height: 1.45;
+  }
+
+  .result-stamp {
+    padding: 4px;
+  }
+
   .result-stamp::before {
-    inset: -5px;
-    border-radius: 22px;
+    inset: -4px;
+    border-radius: 18px;
   }
 
   .result-icon {
-    width: 68px;
-    height: 68px;
-    border-radius: 20px;
-    font-size: 34px;
+    width: 58px;
+    height: 58px;
+    border-radius: 16px;
+    font-size: 28px;
   }
 
   .result-block,
   .history-block,
   .explanation-block,
   .word-card {
-    padding: 14px;
-    border-radius: 16px;
+    padding: 12px;
+    border-radius: 14px;
   }
 
   .answer-block strong {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   .analysis-text,
   #history-text {
-    font-size: 14px;
-    line-height: 1.65;
+    font-size: 13px;
+    line-height: 1.55;
   }
 
   .pronunciation-chip {
-    min-height: 28px;
-    padding: 0 10px;
+    min-height: 24px;
+    padding: 0 8px;
     font-size: 12px;
   }
 
   .expansions-list {
-    gap: 8px;
+    gap: 6px;
   }
 
   .expansion-chip {
-    padding: 8px 10px;
-    border-radius: 12px;
-    font-size: 13px;
+    padding: 6px 8px;
+    border-radius: 10px;
+    font-size: 12px;
   }
 
   .words-hero-row {
-    gap: 12px;
+    gap: 8px;
   }
 
   .words-nav {
@@ -1228,37 +1231,38 @@ code {
   }
 
   .words-stats {
-    gap: 8px;
+    gap: 6px;
   }
 
   .word-card-head {
-    gap: 10px;
-    margin-bottom: 10px;
+    gap: 6px;
+    margin-bottom: 8px;
   }
 
   .word-card-head h3 {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   .word-pronunciation {
-    font-size: 14px;
-    margin-bottom: 6px;
+    font-size: 13px;
+    margin-bottom: 4px;
   }
 
   .word-meta {
-    gap: 8px;
-    margin-bottom: 12px;
-    font-size: 13px;
+    gap: 6px;
+    margin-bottom: 10px;
+    font-size: 12px;
   }
 
   .word-meta span {
-    padding: 7px 9px;
-    font-size: 12px;
+    padding: 5px 7px;
+    font-size: 11px;
+    border-radius: 10px;
   }
 
   .word-state {
-    min-height: 28px;
-    padding: 0 10px;
-    font-size: 12px;
+    min-height: 24px;
+    padding: 0 8px;
+    font-size: 11px;
   }
 }
