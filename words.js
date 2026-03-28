@@ -153,15 +153,15 @@ function renderWords() {
           <div class="word-card-head">
             <div>
               <h3>${escapeHtml(entry.term)}</h3>
+              <p class="word-pronunciation">${escapeHtml(entry.pronunciation || entry.phonetic || "暂无发音信息")}</p>
               <p class="word-translation">${escapeHtml(entry.translation)}</p>
             </div>
-            <span class="word-state ${isMastered(entry) ? "is-mastered" : "is-reviewable"}">${status}</span>
+            ${isMastered(entry) ? `<span class="word-state is-mastered">${status}</span>` : ""}
           </div>
           <p class="word-analysis">${escapeHtml(entry.analysis || "当前词条还没有解析说明。")}</p>
           <div class="word-meta">
             <span>答对 ${Number(progress.correct_count || 0)}</span>
             <span>答错 ${Number(progress.incorrect_count || 0)}</span>
-            <span>${escapeHtml(entry.pronunciation || entry.phonetic || "暂无发音信息")}</span>
           </div>
           <div class="expansions-list">${chips}</div>
         </article>

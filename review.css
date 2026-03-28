@@ -819,6 +819,13 @@ code {
   line-height: 1;
 }
 
+.word-pronunciation {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.45;
+}
+
 .word-translation,
 .word-analysis {
   margin-bottom: 10px;
