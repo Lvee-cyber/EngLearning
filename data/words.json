@@ -612,5 +612,137 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "police",
+    "type": "word",
+    "translation": "警察；警方；警察机关",
+    "analysis": "通常指执法机构或警察群体。英语里常作集合名词使用，常见表达是 the police are...。也可作动词，表示巡查、管制、维持治安。",
+    "phonetic": "/pəˈliːs/",
+    "origin": "来自法语 police，更早可追溯到拉丁语和希腊语中与城市治理、公共秩序有关的词。",
+    "expansions": [
+      "the police 警方",
+      "call the police 报警",
+      "police officer 警官",
+      "police station 警察局",
+      "police investigation 警方调查"
+    ],
+    "pronunciation": "英式 /pəˈliːs/，美式 /pəˈliːs/",
+    "accepted_answers": [
+      "警察",
+      "警方",
+      "警察机关"
+    ],
+    "added_at": "2026-03-28T14:01:40+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "norm",
+    "type": "word",
+    "translation": "规范；标准；常态；常规",
+    "analysis": "表示某个群体、社会或系统中通常被接受或默认的做法或标准。既可指社会规范，也可指统计或技术语境中的标准值、常态。",
+    "phonetic": "/nɔːm/; /nɔːrm/",
+    "origin": "来自拉丁语 norma，原义是“木工尺、标准”，后来引申为规范和准则。",
+    "expansions": [
+      "social norm 社会规范",
+      "industry norm 行业惯例",
+      "the norm rather than the exception 常态而非例外",
+      "return to the norm 恢复常态"
+    ],
+    "pronunciation": "英式 /nɔːm/，美式 /nɔːrm/",
+    "accepted_answers": [
+      "规范",
+      "标准",
+      "常态",
+      "常规"
+    ],
+    "added_at": "2026-03-28T14:08:07+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "system",
+    "type": "word",
+    "translation": "系统；体系；制度；方法",
+    "analysis": "表示由多个部分按一定规则组成并协同运作的整体。可用于技术语境中的软件/硬件系统，也可用于社会、制度或方法论语境。",
+    "phonetic": "/ˈsɪstəm/",
+    "origin": "来自希腊语 systema，意为“组合成的整体、组织体”。",
+    "expansions": [
+      "operating system 操作系统",
+      "management system 管理体系",
+      "system design 系统设计",
+      "education system 教育制度"
+    ],
+    "pronunciation": "英式 /ˈsɪstəm/，美式 /ˈsɪstəm/",
+    "accepted_answers": [
+      "系统",
+      "体系",
+      "制度",
+      "方法"
+    ],
+    "added_at": "2026-03-28T14:10:12+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "spyware",
+    "type": "word",
+    "translation": "间谍软件；监控软件",
+    "analysis": "指一种会在用户不知情或未明确授权的情况下，秘密收集信息并上传的数据监控软件。常见于网络安全语境，通常带有负面含义。",
+    "phonetic": "/ˈspaɪweə/; /ˈspaɪwer/",
+    "origin": "由 spy（间谍）+ software（软件）组成，字面意思就是“像间谍一样监视用户的软件”。",
+    "expansions": [
+      "install spyware 安装间谍软件",
+      "detect spyware 检测间谍软件",
+      "spyware infection 间谍软件感染",
+      "anti-spyware tool 反间谍软件工具"
+    ],
+    "pronunciation": "英式 /ˈspaɪweə/，美式 /ˈspaɪwer/",
+    "accepted_answers": [
+      "间谍软件",
+      "监控软件"
+    ],
+    "added_at": "2026-03-28T14:12:34+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "upstream",
+    "type": "word",
+    "translation": "上游的；前端的；前序阶段的",
+    "analysis": "本义是向上游的、逆流而上的。在技术、供应链、商业和开源开发语境中，常引申为更靠前的来源端、上游环节或原始项目。",
+    "phonetic": "/ˌʌpˈstriːm/",
+    "origin": "由 up + stream 组成，原义是“沿水流向上”，后引申为链路更前端或更源头的位置。",
+    "expansions": [
+      "upstream project 上游项目",
+      "upstream changes 上游变更",
+      "upstream supplier 上游供应商",
+      "send a fix upstream 把修复提交回上游"
+    ],
+    "pronunciation": "英式 /ˌʌpˈstriːm/，美式 /ˌʌpˈstriːm/",
+    "accepted_answers": [
+      "上游的",
+      "前端的",
+      "前序阶段的"
+    ],
+    "added_at": "2026-03-28T14:25:31+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
