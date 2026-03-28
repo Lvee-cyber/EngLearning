@@ -337,6 +337,7 @@ p {
 
 .result-actions {
   justify-content: center;
+  align-items: center;
 }
 
 .label,
@@ -492,25 +493,28 @@ p {
   height: 72px;
   background: transparent;
   text-align: center;
-  color: var(--text);
   font-family: "Georgia", "Times New Roman", serif;
   font-size: clamp(32px, 5vw, 54px);
   line-height: 1;
-  padding: 0 0 8px;
+  padding: 6px 0 8px;
   font-weight: 700;
+  vertical-align: bottom;
 }
 
 .slot-fixed {
   display: inline-flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
   border: 0;
+  color: var(--text);
 }
 
 .slot-input {
   border: 0;
   border-bottom: 5px solid rgba(47, 36, 27, 0.9);
   outline: none;
+  color: var(--accent);
+  caret-color: var(--accent);
 }
 
 .slot-input:focus {
@@ -934,6 +938,7 @@ code {
     width: 42px;
     height: 58px;
     font-size: 36px;
+    padding: 4px 0 6px;
   }
 }
 
@@ -1119,6 +1124,19 @@ code {
     border-radius: 14px;
   }
 
+  .result-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100%;
+    align-items: stretch;
+  }
+
+  .result-actions .primary-button,
+  .result-actions .secondary-button {
+    width: 100%;
+    min-width: 0;
+  }
+
   #start-button,
   #words-button {
     min-width: 0;
@@ -1150,7 +1168,7 @@ code {
   .slot-input {
     width: 24px;
     height: 38px;
-    padding: 0 0 4px;
+    padding: 2px 0 4px;
     font-size: 24px;
   }
 
@@ -1171,6 +1189,7 @@ code {
     width: calc(100vw - 12px);
     max-height: calc(100vh - 14px);
     border-radius: 18px;
+    padding-bottom: 16px;
   }
 
   .result-header {

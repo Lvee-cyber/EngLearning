@@ -35,6 +35,7 @@ const elements = {
   calendarDateText: document.querySelector("#calendar-date-text"),
   quizPanel: document.querySelector("#quiz-panel"),
   resultPanel: document.querySelector("#result-panel"),
+  resultModal: document.querySelector(".result-modal"),
   progressText: document.querySelector("#progress-text"),
   libraryCountText: document.querySelector("#library-count-text"),
   spellingSlots: document.querySelector("#spelling-slots"),
@@ -432,6 +433,8 @@ function renderResult() {
   setReviewMode(true);
   showElement(elements.quizPanel, false);
   showElement(elements.resultPanel, true);
+  window.scrollTo({ top: 0, behavior: "instant" });
+  if (elements.resultModal) elements.resultModal.scrollTop = 0;
   elements.resultTitle.textContent = correct ? "回答正确" : "回答错误";
   elements.resultTitle.className = correct ? "is-correct" : "is-wrong";
   elements.resultIcon.className = `result-icon ${correct ? "is-correct" : "is-wrong"}`;
@@ -449,6 +452,10 @@ function renderResult() {
   renderExpansions(entry.expansions);
   elements.historyText.textContent = formatHistory(entry);
   elements.nextButton.textContent = state.currentIndex + 1 >= state.queue.length ? "完成" : "下一题";
+  requestAnimationFrame(() => {
+    window.scrollTo({ top: 0, behavior: "instant" });
+    if (elements.resultModal) elements.resultModal.scrollTop = 0;
+  });
   elements.nextButton.focus();
 }
 
