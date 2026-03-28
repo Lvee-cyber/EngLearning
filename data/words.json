@@ -278,5 +278,339 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "diagrams",
+    "type": "word",
+    "translation": "图表；示意图；图解（复数）",
+    "analysis": "diagram 的复数形式。常用于指多个图表、流程图或示意图。在技术、教育、报告语境里非常常见。",
+    "phonetic": "/ˈdaɪəɡræmz/",
+    "origin": "来自 diagram，源于希腊语 diagramma，意为“图形、标记”。",
+    "expansions": [
+      "flow diagrams 流程图（复数）",
+      "network diagrams 网络图",
+      "diagram for explanation 用于解释的图解",
+      "visual diagrams 视觉示意图"
+    ],
+    "pronunciation": "英式 /ˈdaɪəɡræmz/，美式 /ˈdaɪəɡræmz/",
+    "accepted_answers": [
+      "图表",
+      "示意图",
+      "图解"
+    ],
+    "added_at": "2026-03-28T13:10:07+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "expansion",
+    "type": "word",
+    "translation": "扩展；扩张；展开",
+    "analysis": "表示范围、规模或内容的扩大，也可指把内容进一步展开说明。在商业、技术和写作语境中都常见。",
+    "phonetic": "/ɪkˈspænʃən/",
+    "origin": "来自 expand（扩展）+ 名词后缀 -sion，表示扩展这一动作或过程。",
+    "expansions": [
+      "business expansion 业务扩张",
+      "expansion of the market 市场扩展",
+      "further expansion 进一步扩展",
+      "topic expansion 主题展开"
+    ],
+    "pronunciation": "英式 /ɪkˈspænʃən/，美式 /ɪkˈspænʃən/",
+    "accepted_answers": [
+      "扩展",
+      "扩张",
+      "展开"
+    ],
+    "added_at": "2026-03-28T13:10:07+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "narrative",
+    "type": "word",
+    "translation": "叙事；故事；叙述",
+    "analysis": "既可以指具体的故事内容，也可以指讲述方式或一套解释框架。在新闻、电影、文学和商业语境里都常见。",
+    "phonetic": "/ˈnærətɪv/",
+    "origin": "来自拉丁语 narrare，意为“讲述、叙述”。",
+    "expansions": [
+      "a compelling narrative 引人入胜的叙事",
+      "narrative structure 叙事结构",
+      "shape the narrative 塑造叙事",
+      "dominant narrative 主流叙事"
+    ],
+    "pronunciation": "英式 /ˈnærətɪv/，美式 /ˈnærətɪv/",
+    "accepted_answers": [
+      "叙事",
+      "故事",
+      "叙述"
+    ],
+    "added_at": "2026-03-28T13:10:54+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "embodied AI",
+    "type": "phrase",
+    "translation": "具身智能；具身 AI",
+    "analysis": "指拥有具体载体或身体的 AI 系统，例如机器人或具身传感系统，强调智能与感知、动作及环境交互结合，而非纯软件对话系统。",
+    "phonetic": "/ɪmˈbɒdid/; /ɪmˈbɑːdid/ + /ˌeɪˈaɪ/",
+    "origin": "embodied 来自 embody（体现、赋形），AI 为 artificial intelligence 的缩写，合起来强调“智能被赋予具体载体”。",
+    "expansions": [
+      "embodied AI systems 具身智能系统",
+      "embodied AI research 具身智能研究",
+      "embodied intelligence 具身智能",
+      "embodied agent 具身智能体"
+    ],
+    "pronunciation": "embodied /ɪmˈbɒdid/ 或 /ɪmˈbɑːdid/；AI /ˌeɪˈaɪ/",
+    "accepted_answers": [
+      "具身智能",
+      "具身 AI"
+    ],
+    "added_at": "2026-03-28T13:17:44+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "embody",
+    "type": "word",
+    "translation": "体现；包含；具体表现为",
+    "analysis": "表示把抽象概念或特质具体化、体现出来，也可表示“包含、汇聚某些特征”。",
+    "phonetic": "/ɪmˈbɒdi/; /ɪmˈbɑːdi/",
+    "origin": "由 em-（使）+ body（身体）构成，核心含义是“使之有形、赋形”。",
+    "expansions": [
+      "embody an idea 体现某种思想",
+      "embody values 体现价值观",
+      "embody the spirit 体现精神",
+      "embody in practice 在实践中体现"
+    ],
+    "pronunciation": "英式 /ɪmˈbɒdi/，美式 /ɪmˈbɑːdi/",
+    "accepted_answers": [
+      "体现",
+      "包含",
+      "具体表现为"
+    ],
+    "added_at": "2026-03-28T13:17:44+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "standalone",
+    "type": "word",
+    "translation": "独立的；单独的；独立运行的",
+    "analysis": "指不依赖其他系统或组件即可运行或存在的事物。常用于软件、设备或功能模块语境，表示“可独立使用/部署”。",
+    "phonetic": "/ˈstændəˌləʊn/; /ˈstændəˌloʊn/",
+    "origin": "由 stand + alone 组合，字面意为“独自站立”，引申为“独立的、单独的”。",
+    "expansions": [
+      "standalone app 独立应用",
+      "standalone device 独立设备",
+      "standalone version 独立版本",
+      "standalone feature 独立功能"
+    ],
+    "pronunciation": "英式 /ˈstændəˌləʊn/，美式 /ˈstændəˌloʊn/",
+    "accepted_answers": [
+      "独立的",
+      "单独的",
+      "独立运行的"
+    ],
+    "added_at": "2026-03-28T13:19:23+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "Europe",
+    "type": "word",
+    "translation": "欧洲",
+    "analysis": "专有名词，指欧洲这一大洲。通常首字母大写，用于地理、历史、政治和文化语境。",
+    "phonetic": "/ˈjʊərəp/; /ˈjʊrəp/",
+    "origin": "来自拉丁语 Europa，更早来源于希腊语。",
+    "expansions": [
+      "European 欧洲的；欧洲人",
+      "Western Europe 西欧",
+      "Eastern Europe 东欧",
+      "Central Europe 中欧"
+    ],
+    "pronunciation": "英式 /ˈjʊərəp/，美式 /ˈjʊrəp/",
+    "accepted_answers": [
+      "欧洲"
+    ],
+    "added_at": "2026-03-28T13:22:19+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "thematic",
+    "type": "word",
+    "translation": "主题的；主题化的",
+    "analysis": "用于描述与“主题”相关的内容、结构或风格。常见于文学、艺术、电影、演讲、策划等语境。",
+    "phonetic": "/θɪˈmætɪk/; /θiˈmætɪk/",
+    "origin": "来自 theme（主题）+ 形容词后缀 -atic，表示“与主题相关的”。",
+    "expansions": [
+      "thematic analysis 主题分析",
+      "thematic elements 主题元素",
+      "thematic focus 主题重点",
+      "thematic design 主题化设计"
+    ],
+    "pronunciation": "英式 /θɪˈmætɪk/，美式 /θiˈmætɪk/",
+    "accepted_answers": [
+      "主题的",
+      "主题化的"
+    ],
+    "added_at": "2026-03-28T13:37:18+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "obsolete",
+    "type": "word",
+    "translation": "过时的；废弃的；淘汰的",
+    "analysis": "表示因技术或环境变化而不再被使用、失去价值。常用于技术、产品、制度、设备或观念语境。",
+    "phonetic": "/ˈɒbsəliːt/; /ˌɑːbsəˈliːt/",
+    "origin": "来自拉丁语 obsoletus，意为“过时、废弃”。",
+    "expansions": [
+      "obsolete technology 过时技术",
+      "obsolete device 淘汰设备",
+      "make something obsolete 使某物过时",
+      "become obsolete 变得过时"
+    ],
+    "pronunciation": "英式 /ˈɒbsəliːt/，美式 /ˌɑːbsəˈliːt/",
+    "accepted_answers": [
+      "过时的",
+      "废弃的",
+      "淘汰的"
+    ],
+    "added_at": "2026-03-28T13:39:21+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "distribution",
+    "type": "word",
+    "translation": "分配；分布；发行；配送",
+    "analysis": "表示资源或事物在空间或人群中的分配与分布，也可指产品的发行或配送体系。在数学里还表示“分布”。",
+    "phonetic": "/ˌdɪstrɪˈbjuːʃən/",
+    "origin": "来自拉丁语 distribuere，意为“分配、分散”。",
+    "expansions": [
+      "income distribution 收入分配",
+      "distribution channel 分销/发行渠道",
+      "normal distribution 正态分布",
+      "distribution system 配送系统"
+    ],
+    "pronunciation": "英式 /ˌdɪstrɪˈbjuːʃən/，美式 /ˌdɪstrɪˈbjuːʃən/",
+    "accepted_answers": [
+      "分配",
+      "分布",
+      "发行",
+      "配送"
+    ],
+    "added_at": "2026-03-28T13:42:36+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "infrastructure",
+    "type": "word",
+    "translation": "基础设施；基础架构",
+    "analysis": "指支撑系统运行的底层设施或架构。既可用于公共设施语境（交通、电力、通信），也常用于技术语境（系统架构、平台底座）。",
+    "phonetic": "/ˈɪnfrəˌstrʌktʃə/; /ˈɪnfrəˌstrʌktʃər/",
+    "origin": "由 infra-（下方、基础）+ structure（结构）构成。",
+    "expansions": [
+      "critical infrastructure 关键基础设施",
+      "infrastructure investment 基础设施投资",
+      "cloud infrastructure 云基础架构",
+      "infrastructure layer 基础架构层"
+    ],
+    "pronunciation": "英式 /ˈɪnfrəˌstrʌktʃə/，美式 /ˈɪnfrəˌstrʌktʃər/",
+    "accepted_answers": [
+      "基础设施",
+      "基础架构"
+    ],
+    "added_at": "2026-03-28T13:43:55+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "vulnerability",
+    "type": "word",
+    "translation": "脆弱性；漏洞；弱点",
+    "analysis": "表示容易受损的点。在技术语境中多指安全漏洞；在心理或社会语境里也可指脆弱性或弱点。",
+    "phonetic": "/ˌvʌlnərəˈbɪləti/",
+    "origin": "来自 vulnerable（易受伤害的）+ 名词后缀 -ity，表示“脆弱性/易受影响性”。",
+    "expansions": [
+      "security vulnerability 安全漏洞",
+      "vulnerability assessment 漏洞评估",
+      "expose a vulnerability 暴露弱点",
+      "emotional vulnerability 情感脆弱性"
+    ],
+    "pronunciation": "英式 /ˌvʌlnərəˈbɪləti/，美式 /ˌvʌlnərəˈbɪləti/",
+    "accepted_answers": [
+      "脆弱性",
+      "漏洞",
+      "弱点"
+    ],
+    "added_at": "2026-03-28T13:45:36+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "effectiveness",
+    "type": "word",
+    "translation": "有效性；效果；成效",
+    "analysis": "表示某事是否真正起作用、是否达到了预期目标。常用于评估方法、措施、系统、药物、策略或工作成果的实际效果。",
+    "phonetic": "/ɪˈfektɪvnəs/",
+    "origin": "来自 effective（有效的）+ 名词后缀 -ness，表示“有效这一性质或程度”。",
+    "expansions": [
+      "measure effectiveness 衡量效果",
+      "cost-effectiveness 成本效益",
+      "improve effectiveness 提升成效",
+      "the effectiveness of a treatment 某种治疗的有效性"
+    ],
+    "pronunciation": "英式 /ɪˈfektɪvnəs/，美式 /ɪˈfektɪvnəs/",
+    "accepted_answers": [
+      "有效性",
+      "效果",
+      "成效"
+    ],
+    "added_at": "2026-03-28T13:46:34+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
