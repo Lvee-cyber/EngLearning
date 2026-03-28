@@ -744,5 +744,58 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "alongside",
+    "type": "word",
+    "translation": "在...旁边；与...一起；同时",
+    "analysis": "既可以表示空间上的“在旁边”，也常表示“与某人/某事一起进行”或“并行地、同时地”。在书面和技术语境中很常见。",
+    "phonetic": "/əˌlɒŋˈsaɪd/; /əˌlɔːŋˈsaɪd/",
+    "origin": "由 along + side 构成，字面意思是“沿着旁边”。",
+    "expansions": [
+      "work alongside someone 与某人并肩工作",
+      "develop alongside 与...一起发展",
+      "sit alongside 坐在...旁边",
+      "alongside other tools 与其他工具一起"
+    ],
+    "pronunciation": "英式 /əˌlɒŋˈsaɪd/，美式 /əˌlɔːŋˈsaɪd/",
+    "accepted_answers": [
+      "在旁边",
+      "与...一起",
+      "同时"
+    ],
+    "added_at": "2026-03-28T17:19:34+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "depression",
+    "type": "word",
+    "translation": "抑郁；沮丧；萧条；凹陷",
+    "analysis": "在心理健康语境中通常指抑郁或抑郁症；在日常语境里也可表示情绪低落、沮丧；在经济语境中可表示萧条；在地理或物理语境中还可表示凹陷处。",
+    "phonetic": "/dɪˈpreʃən/",
+    "origin": "来自拉丁语 deprimere，意思是“向下压、压低”，后来引申为情绪低落、经济下行等含义。",
+    "expansions": [
+      "clinical depression 临床抑郁症",
+      "major depression 重度抑郁",
+      "economic depression 经济大萧条",
+      "a feeling of depression 沮丧感"
+    ],
+    "pronunciation": "英式 /dɪˈpreʃən/，美式 /dɪˈpreʃən/",
+    "accepted_answers": [
+      "抑郁",
+      "沮丧",
+      "萧条",
+      "凹陷"
+    ],
+    "added_at": "2026-03-28T17:27:36+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
