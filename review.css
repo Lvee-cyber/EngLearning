@@ -187,6 +187,12 @@ p {
   opacity: 0.86;
 }
 
+.calendar-time-text,
+.calendar-lunar-text {
+  font-size: 13px;
+  opacity: 0.92;
+}
+
 .calendar-inline {
   width: 100%;
   max-width: none;
@@ -214,7 +220,9 @@ p {
   font-size: 18px;
 }
 
-.calendar-inline .calendar-date-text {
+.calendar-inline .calendar-date-text,
+.calendar-inline .calendar-time-text,
+.calendar-inline .calendar-lunar-text {
   font-size: 14px;
 }
 
@@ -272,9 +280,9 @@ p {
 }
 
 .setup-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 20px;
   align-items: flex-start;
   margin-bottom: 22px;
 }
@@ -295,7 +303,7 @@ p {
 .stats-row {
   display: flex;
   gap: 12px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: flex-end;
 }
 
@@ -317,9 +325,9 @@ p {
 
 .setup-grid {
   display: grid;
-  grid-template-columns: minmax(260px, 420px) auto;
-  gap: 18px;
-  align-items: end;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 20px 28px;
+  align-items: start;
   margin-bottom: 14px;
 }
 
@@ -331,8 +339,10 @@ p {
 }
 
 .setup-actions {
-  align-items: center;
+  align-items: stretch;
   justify-content: flex-start;
+  display: grid;
+  gap: 14px;
 }
 
 .result-actions {
@@ -351,7 +361,8 @@ p {
 }
 
 .control {
-  width: min(100%, 420px);
+  width: 100%;
+  max-width: 760px;
   min-height: 66px;
   padding: 12px 18px;
   border: 1px solid rgba(77, 58, 37, 0.14);
@@ -371,6 +382,7 @@ p {
 .setup-main {
   display: grid;
   gap: 12px;
+  min-width: 0;
 }
 
 .setup-field {
@@ -896,7 +908,6 @@ code {
   }
 
   .hero-grid,
-  .setup-header,
   .setup-grid,
   .result-grid {
     grid-template-columns: 1fr;
@@ -913,10 +924,16 @@ code {
 
   .setup-header {
     display: grid;
+    grid-template-columns: 1fr;
   }
 
   .stats-row {
     justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .setup-actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .hero-copy h1 {
@@ -1030,15 +1047,25 @@ code {
     font-size: 12px;
   }
 
+  .calendar-time-text,
+  .calendar-lunar-text {
+    font-size: 12px;
+  }
+
   .calendar-inline {
-    min-height: 44px;
+    min-height: 54px;
     padding: 9px 12px;
-    gap: 8px;
+    gap: 6px 8px;
     border-radius: 14px;
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    align-items: center;
+    white-space: normal;
   }
 
   .calendar-inline .calendar-day {
     font-size: 26px;
+    grid-row: span 2;
   }
 
   .calendar-inline .calendar-month {
@@ -1046,9 +1073,16 @@ code {
   }
 
   .calendar-inline .calendar-date-text,
+  .calendar-inline .calendar-time-text,
+  .calendar-inline .calendar-lunar-text,
   .calendar-inline .calendar-kicker,
   .calendar-inline .calendar-weekday {
     font-size: 11px;
+  }
+
+  .calendar-inline .calendar-weekday {
+    margin-left: 0;
+    justify-self: end;
   }
 
   .setup-title {
@@ -1084,6 +1118,10 @@ code {
 
   .setup-main {
     max-width: 320px;
+  }
+
+  .setup-actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .label,

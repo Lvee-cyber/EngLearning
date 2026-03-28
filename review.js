@@ -33,6 +33,8 @@ const elements = {
   calendarDay: document.querySelector("#calendar-day"),
   calendarMonth: document.querySelector("#calendar-month"),
   calendarDateText: document.querySelector("#calendar-date-text"),
+  calendarTimeText: document.querySelector("#calendar-time-text"),
+  calendarLunarText: document.querySelector("#calendar-lunar-text"),
   quizPanel: document.querySelector("#quiz-panel"),
   resultPanel: document.querySelector("#result-panel"),
   resultModal: document.querySelector(".result-modal"),
@@ -163,6 +165,21 @@ function updateCalendarCard() {
   elements.calendarDay.textContent = String(now.getDate()).padStart(2, "0");
   elements.calendarMonth.textContent = months[now.getMonth()];
   elements.calendarDateText.textContent = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, "0")}.${String(now.getDate()).padStart(2, "0")}`;
+  elements.calendarTimeText.textContent = now.toLocaleTimeString("zh-CN", { hour12: false });
+  elements.calendarLunarText.textContent = formatLunarDate(now);
+}
+
+function formatLunarDate(date) {
+  try {
+    const formatter = new Intl.DateTimeFormat("zh-CN-u-ca-chinese", {
+      month: "long",
+      day: "numeric",
+    });
+    const formatted = formatter.format(date).replaceAll("/", "");
+    return `农历 ${formatted}`;
+  } catch {
+    return "农历 暂不可用";
+  }
 }
 
 function moveButtonFocus(container, direction) {
@@ -551,6 +568,7 @@ elements.actionRows.forEach((row) => row.addEventListener("keydown", handleActio
 
 hydrateProfileId();
 updateCalendarCard();
+window.setInterval(updateCalendarCard, 1000);
 bootData().catch((error) => {
   updateSetupStatus(`初始化失败：${error.message}`);
   updateSyncStatus("请检查 words.json 地址或 Supabase 配置。", "bad");
