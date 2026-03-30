@@ -56,11 +56,14 @@
 - 如果该词条尚未存在，则按当前词条结构写入 `data/words.json`
 - 如果已经存在，则提示“已存在”，不重复添加
 - 同时读取 `data/dictionary.json`
+- 当前查询词仍严格按原规则处理：先在线程中给出翻译解析，再对 `words.json` 与 `dictionary.json` 做查重和更新
 - 对当前单词额外触发一次“近邻词入辞典”流程：
   主动生成约 500 个近邻词并补充到 `data/dictionary.json`
-  近邻词定义为：优先与当前查询词首字母相同；如果同首字母不足以满足数量或质量要求，则继续随机扩展到其他首字母单词
-  这些近邻词不是从本地词池被动挑选，而是由系统主动生成候选词并按统一字段解析
-  近邻词按 `dictionary.json` 字段结构保存，并在写入前查重
+  近邻词定义为：优先与当前查询词首字母相同；如果同首字母不足以满足数量，则继续随机扩展到其他首字母单词
+  每个近邻词都必须先在本地 `data/DICT` 中命中；只有 `DICT` 中命中的近邻词，才允许写入 `dictionary.json`
+  命中后，应优先采信 `DICT` 中的单词解析内容来覆盖对应字段
+  若某个近邻词在 `DICT` 中没有找到，则直接放弃，不写入
+  命中的近邻词按 `dictionary.json` 字段结构保存，并在写入前查重
   当前查询词本身也应包含在这次辞典补充结果中
 - `dictionary.json` 与 `words.json` 保持同字段结构
 - 写入 `dictionary.json` 时必须补齐与 `words.json` 一致的字段，尤其是 `expansions` 不能留空
@@ -68,6 +71,11 @@
 - `words.json` 中的词条应优先保证 `phonetic` 与 `origin` 的真实性
 - `dictionary.json` 中若词条尚未经过真实查验，则 `phonetic` 与 `origin` 统一写为 `待查`
 - 只有当词条已经进入 `words.json` 或被单独做过真实查验时，才将真实 `phonetic` 与 `origin` 回写到 `dictionary.json`
+- 即使是近邻扩充词条，`translation`、`analysis`、`expansions`、`accepted_answers` 也必须是可读内容，不能使用“待补全”之类占位字样
+- 后续新添的近邻词条，应尽量为所有字段生成清晰解释；包括 `translation`、`analysis`、`expansions`、`accepted_answers`，以及尽量可读的 `phonetic`、`origin`
+- 只有在确实无法可靠生成时，才允许将 `phonetic` 或 `origin` 标为 `待查`，并应尽量减少这种情况
+- 近邻词扩充遵循“质量优于数量”原则：如果无法为某个近邻词生成足够具体、可查询的 `translation`、`analysis`、`expansions`，则不要为了凑数量写入该词条
+- 不允许仅凭后缀或通用模板生成过于空泛的释义；近邻词条应尽量达到可直接查询使用的质量
 - GitHub Action 将 `data/words.json` 与 `data/dictionary.json` 同步到 Supabase 时，按 `term` 查重；如果云端已存在同名词条，则直接用本地最新词条整体覆盖更新
 
 ### 3. 用户输入“词库复习”

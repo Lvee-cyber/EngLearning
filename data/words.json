@@ -1387,5 +1387,164 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "discourse",
+    "type": "word",
+    "translation": "话语；论述；讨论；言谈；语篇",
+    "analysis": "比较正式，既可指系统的论述或讨论，也可指语言学和社会学中的话语体系、语篇表达方式。",
+    "phonetic": "/ˈdɪskɔːs/; /ˈdɪskɔːrs/",
+    "origin": "来自拉丁语 discursus，有“来回奔走、展开讨论”的意味，后发展为论述、话语、讨论。",
+    "expansions": [
+      "public discourse：公共话语；公共讨论",
+      "political discourse：政治话语",
+      "discourse analysis：话语分析"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "话语",
+      "论述",
+      "讨论",
+      "言谈",
+      "语篇"
+    ],
+    "added_at": "2026-03-30T06:31:53.452Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "obeisantly",
+    "type": "word",
+    "translation": "恭顺地；顺从地；谦卑地",
+    "analysis": "较少见、偏书面或偏古风的副词，表示以恭敬顺从、甚至略带谄顺的方式行事或说话。",
+    "phonetic": "/əˈbeɪzəntli/",
+    "origin": "由 obeisant 加副词后缀 -ly 构成；obeisant 来自古法语，与服从、敬从、表示顺从有关。",
+    "expansions": [
+      "bow obeisantly 恭顺地鞠躬",
+      "speak obeisantly 毕恭毕敬地说话",
+      "act obeisantly toward someone 对某人表现得很顺从"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "恭顺地",
+      "顺从地",
+      "谦卑地"
+    ],
+    "added_at": "2026-03-30T06:52:55.878Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "nearness",
+    "type": "word",
+    "translation": "接近；邻近；亲近",
+    "analysis": "这个词是名词，表示“距离很近”或“关系上的亲近”。既可以用于空间上的接近，也可以用于抽象意义上的靠近、亲密或临近状态。",
+    "phonetic": "/ˈnɪənəs/; /ˈnɪrnəs/",
+    "origin": "来自 near 加名词后缀 -ness，表示“接近、邻近这一状态”。",
+    "expansions": [
+      "the nearness of the station 车站就在附近",
+      "a sense of nearness 一种接近感或亲近感",
+      "the nearness of danger 危险逼近",
+      "emotional nearness 情感上的亲近"
+    ],
+    "pronunciation": "英式 /ˈnɪənəs/，美式 /ˈnɪrnəs/",
+    "accepted_answers": [
+      "接近",
+      "邻近",
+      "亲近"
+    ],
+    "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sunset",
+    "type": "word",
+    "translation": "日落；落日；夕阳；衰落阶段",
+    "analysis": "这个词最常见的意思是“太阳落山时刻”或“日落景象”。它也常用于比喻义，表示某个事物进入“尾声、衰退期或终止阶段”。",
+    "phonetic": "/ˈsʌnset/",
+    "origin": "由 sun 和 set 组成，字面意思是“太阳落下”，后来发展出“日落”以及“终止阶段”的引申义。",
+    "expansions": [
+      "watch the sunset 看日落",
+      "at sunset 在日落时分",
+      "sunset view 夕阳景色",
+      "sunset clause 日落条款；到期失效条款"
+    ],
+    "pronunciation": "英式 /ˈsʌnset/，美式 /ˈsʌnset/",
+    "accepted_answers": [
+      "日落",
+      "落日",
+      "夕阳",
+      "衰落阶段"
+    ],
+    "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "Neutral to slightly positive.",
+    "type": "phrase",
+    "translation": "中性到略微积极；整体中性、稍偏正面",
+    "analysis": "这是一个常见的评价型短语，用来表达态度、情绪或结果并不强烈正面，但也不负面，而是轻微偏正向。常见于情绪判断、反馈分析、舆情评估和报告描述。",
+    "phonetic": "/ˈnjuːtrəl tə ˈslaɪtli ˈpɒzətɪv/; /ˈnuːtrəl tə ˈslaɪtli ˈpɑːzətɪv/",
+    "origin": "组合表达，由 neutral、slightly、positive 构成，用于描述轻度偏正向的评价区间。",
+    "expansions": [
+      "the overall tone is neutral to slightly positive 整体语气中性偏正面",
+      "customer sentiment is neutral to slightly positive 用户情绪整体中性偏积极",
+      "the reaction was neutral to slightly positive 反应总体中性略偏正面",
+      "results remain neutral to slightly positive 结果维持在中性到略微正面的区间"
+    ],
+    "pronunciation": "neutral /ˈnjuːtrəl/ or /ˈnuːtrəl/; slightly /ˈslaɪtli/; positive /ˈpɒzətɪv/ or /ˈpɑːzətɪv/",
+    "accepted_answers": [
+      "中性到略微积极",
+      "整体中性稍偏正面",
+      "中性偏积极"
+    ],
+    "added_at": "2026-03-30T15:30:14+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "consolidation",
+    "type": "word",
+    "translation": "巩固；整合；合并；强化",
+    "analysis": "这个词通常表示把分散的东西整合起来，使其更稳固、更统一、更有力量。可用于学习中的知识巩固、商业中的并购整合、组织结构强化以及技术资源整合等语境。",
+    "phonetic": "/kənˌsɒlɪˈdeɪʃən/; /kənˌsɑːləˈdeɪʃən/",
+    "origin": "来自 consolidate 加名词后缀 -ion，表示“巩固、整合、合并”这一过程或结果。",
+    "expansions": [
+      "knowledge consolidation 知识巩固",
+      "market consolidation 市场整合",
+      "industry consolidation 行业并购整合",
+      "memory consolidation 记忆巩固",
+      "consolidation of power 权力巩固"
+    ],
+    "pronunciation": "英式 /kənˌsɒlɪˈdeɪʃən/，美式 /kənˌsɑːləˈdeɪʃən/",
+    "accepted_answers": [
+      "巩固",
+      "整合",
+      "合并",
+      "强化"
+    ],
+    "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
