@@ -74,7 +74,8 @@
             <div class="setup-main">
               <div class="setup-field">
                 <label class="label" for="profile-id">同步标识</label>
-                <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" />
+                <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" list="profile-id-suggestions" />
+                <datalist id="profile-id-suggestions"></datalist>
               </div>
               <div class="setup-field setup-field-compact">
                 <label class="label" for="review-count">复习数量</label>
@@ -89,11 +90,16 @@
           </div>
           <div class="setup-actions">
             <button id="words-button" class="secondary-button" type="button">查看词库</button>
+            <button id="history-toggle-button" class="secondary-button" type="button" aria-expanded="false" aria-controls="history-overview-panel">查看历史记录</button>
             <button id="start-button" class="primary-button" type="button">开始复习</button>
           </div>
           <p class="control-hint">建议每轮控制在 5 到 10 个，保持节奏更稳定。所有设备填写同一个同步标识即可共享复习进度。</p>
           <p id="sync-status" class="status-text">正在连接在线进度服务。</p>
           <p id="setup-status" class="status-text">正在读取 <code>words.json</code>。</p>
+          <section id="history-overview-panel" class="setup-history hidden" aria-live="polite">
+            <div class="setup-history-summary" id="history-overview-summary"></div>
+            <div class="setup-history-records" id="history-overview-records"></div>
+          </section>
         </section>
       </div>
 

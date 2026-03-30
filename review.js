@@ -9,12 +9,14 @@ const state = {
   words: [],
   wordsSource: "json",
   progressByTerm: {},
+  profileSuggestions: [],
   queue: [],
   currentIndex: 0,
   currentItem: null,
   lastResult: null,
   supabase: null,
   syncReady: false,
+  historyVisible: false,
 };
 
 const elements = {
@@ -28,8 +30,13 @@ const elements = {
   dictionaryButton: document.querySelector("#dictionary-button"),
   reviewCount: document.querySelector("#review-count"),
   profileIdInput: document.querySelector("#profile-id"),
+  profileIdSuggestions: document.querySelector("#profile-id-suggestions"),
   setupStatus: document.querySelector("#setup-status"),
   syncStatus: document.querySelector("#sync-status"),
+  historyToggleButton: document.querySelector("#history-toggle-button"),
+  historyOverviewPanel: document.querySelector("#history-overview-panel"),
+  historyOverviewSummary: document.querySelector("#history-overview-summary"),
+  historyOverviewRecords: document.querySelector("#history-overview-records"),
   newWordsCount: document.querySelector("#new-words-count"),
   masteredWordsCount: document.querySelector("#mastered-words-count"),
   calendarWeekday: document.querySelector("#calendar-weekday"),
@@ -112,6 +119,11 @@ function saveProfileId() {
 function hydrateProfileId() {
   const fromStorage = window.localStorage.getItem(STORAGE_KEYS.profileId);
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
+}
+
+function renderProfileSuggestions() {
+  if (!elements.profileIdSuggestions) return;
+  elements.profileIdSuggestions.innerHTML = state.profileSuggestions.map((profileId) => `<option value="${escapeHtml(profileId)}"></option>`).join("");
 }
 
 function getEmbeddedReview(entry) {
@@ -229,13 +241,14 @@ async function loadProgress() {
   const profileId = getProfileId();
   if (!state.supabase || !profileId) {
     state.syncReady = false;
+    state.progressByTerm = {};
     updateSyncStatus("未启用在线同步。请填写同步标识并配置 Supabase。", "warn");
     return;
   }
 
   const { data, error } = await state.supabase
     .from(REVIEW_PROGRESS_TABLE)
-    .select("term, correct_count, incorrect_count, review_history")
+    .select("term, correct_count, incorrect_count, review_history, updated_at")
     .eq("profile_id", profileId);
 
   if (error) throw error;
@@ -247,6 +260,7 @@ async function loadProgress() {
         correct_count: Number(item.correct_count || 0),
         incorrect_count: Number(item.incorrect_count || 0),
         review_history: Array.isArray(item.review_history) ? item.review_history : [],
+        updated_at: item.updated_at || "",
       },
     ]),
   );
@@ -255,14 +269,140 @@ async function loadProgress() {
   updateSyncStatus(`在线同步已连接：${profileId}`, "ok");
 }
 
+async function fetchProfileSuggestions() {
+  if (!state.supabase) {
+    state.profileSuggestions = [];
+    renderProfileSuggestions();
+    return;
+  }
+
+  const seen = new Set();
+  const suggestions = [];
+  let offset = 0;
+  const pageSize = 1000;
+
+  while (true) {
+    const { data, error } = await state.supabase
+      .from(REVIEW_PROGRESS_TABLE)
+      .select("profile_id, updated_at")
+      .order("updated_at", { ascending: false })
+      .range(offset, offset + pageSize - 1);
+
+    if (error) throw error;
+
+    const batch = Array.isArray(data) ? data : [];
+    batch.forEach((item) => {
+      const profileId = String(item.profile_id || "").trim();
+      if (!profileId || seen.has(profileId)) return;
+      seen.add(profileId);
+      suggestions.push(profileId);
+    });
+
+    if (batch.length < pageSize) break;
+    offset += pageSize;
+  }
+
+  state.profileSuggestions = suggestions;
+  renderProfileSuggestions();
+}
+
 async function bootData() {
   state.supabase = window.ContentStore.createSupabaseClient();
   await fetchWords();
+  await fetchProfileSuggestions();
   await loadProgress();
   updateHomeStats();
   updateSetupStatus(
     `已读取${state.wordsSource === "supabase" ? " Supabase " : "本地 JSON "}词库，共 ${state.words.length} 个词条。当前待复习 ${getReviewableWords().length} 个。`,
   );
+}
+
+function renderHistoryOverview(message = "") {
+  if (message) {
+    elements.historyOverviewSummary.innerHTML = `<p class="status-text">${escapeHtml(message)}</p>`;
+    elements.historyOverviewRecords.innerHTML = "";
+    return;
+  }
+
+  const entries = Object.entries(state.progressByTerm);
+  if (!entries.length) {
+    elements.historyOverviewSummary.innerHTML = `<p class="status-text">当前同步标识还没有复习记录。</p>`;
+    elements.historyOverviewRecords.innerHTML = "";
+    return;
+  }
+
+  const totalCorrect = entries.reduce((sum, [, progress]) => sum + Number(progress.correct_count || 0), 0);
+  const totalIncorrect = entries.reduce((sum, [, progress]) => sum + Number(progress.incorrect_count || 0), 0);
+  const masteredCount = entries.filter(([, progress]) => Number(progress.correct_count || 0) >= MASTERED_THRESHOLD).length;
+  const reviewableCount = entries.length - masteredCount;
+
+  elements.historyOverviewSummary.innerHTML = `
+    <div class="history-overview-stats">
+      <span class="history-overview-chip">记录词条 ${entries.length}</span>
+      <span class="history-overview-chip">待复习 ${reviewableCount}</span>
+      <span class="history-overview-chip">熟词 ${masteredCount}</span>
+      <span class="history-overview-chip is-ok">累计答对 ${totalCorrect}</span>
+      <span class="history-overview-chip is-bad">累计答错 ${totalIncorrect}</span>
+    </div>
+  `;
+
+  const recentRecords = entries
+    .flatMap(([term, progress]) =>
+      (Array.isArray(progress.review_history) ? progress.review_history : []).map((item) => ({
+        term,
+        answered_at: item.answered_at || "",
+        result: item.result || "",
+        user_answer: item.user_answer || "",
+      })),
+    )
+    .sort((a, b) => String(b.answered_at).localeCompare(String(a.answered_at)))
+    .slice(0, 12);
+
+  if (!recentRecords.length) {
+    elements.historyOverviewRecords.innerHTML = `<p class="status-text">当前标识还没有可展示的详细作答记录。</p>`;
+    return;
+  }
+
+  elements.historyOverviewRecords.innerHTML = `
+    <div class="history-overview-list">
+      ${recentRecords
+        .map(
+          (item) => `
+            <div class="history-overview-item">
+              <strong>${escapeHtml(item.term)}</strong>
+              <span class="${item.result === "correct" ? "is-correct" : "is-wrong"}">${item.result === "correct" ? "答对" : "答错"}</span>
+              <span>${escapeHtml(item.user_answer || "-")}</span>
+              <time>${escapeHtml(String(item.answered_at || "").replace("T", " ").slice(0, 19))}</time>
+            </div>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
+async function toggleHistoryOverview() {
+  const nextVisible = !state.historyVisible;
+  state.historyVisible = nextVisible;
+  showElement(elements.historyOverviewPanel, nextVisible);
+  elements.historyToggleButton.textContent = nextVisible ? "收起历史记录" : "查看历史记录";
+  elements.historyToggleButton.setAttribute("aria-expanded", String(nextVisible));
+
+  if (!nextVisible) return;
+
+  const profileId = saveProfileId();
+  if (!profileId) {
+    renderHistoryOverview("请先填写同步标识，再查看该标识下的历史复习记录。");
+    return;
+  }
+
+  try {
+    await loadProgress();
+    updateHomeStats();
+    renderHistoryOverview();
+  } catch (error) {
+    renderHistoryOverview(`历史记录读取失败：${error.message}`);
+  }
 }
 
 function pickReviewItems() {
@@ -561,11 +701,17 @@ elements.restartButton.addEventListener("click", () => {
 elements.exitButton.addEventListener("click", exitToHome);
 elements.wordsButton?.addEventListener("click", openWordsPage);
 elements.dictionaryButton?.addEventListener("click", openDictionaryPage);
+elements.historyToggleButton?.addEventListener("click", () => {
+  toggleHistoryOverview().catch((error) => {
+    renderHistoryOverview(`历史记录读取失败：${error.message}`);
+  });
+});
 elements.profileIdInput.addEventListener("change", async () => {
   saveProfileId();
   try {
     await loadProgress();
     updateHomeStats();
+    if (state.historyVisible) renderHistoryOverview();
     updateSetupStatus(`已切换同步标识。当前待复习 ${getReviewableWords().length} 个，熟词 ${getMasteredWords().length} 个。`);
   } catch (error) {
     updateSyncStatus(`同步读取失败：${error.message}`, "bad");

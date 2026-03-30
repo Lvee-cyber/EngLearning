@@ -103,18 +103,20 @@ p {
 }
 
 .hero-topbar {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
   gap: 16px;
   margin-bottom: 18px;
 }
 
 .hero-topbar-actions {
-  display: inline-flex;
+  display: inline-grid;
+  grid-auto-flow: column;
   align-items: center;
   gap: 10px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  align-self: start;
 }
 
 .hero-dictionary-button {
@@ -221,7 +223,9 @@ p {
   align-items: center;
   gap: 14px;
   box-shadow: 0 12px 24px rgba(127, 57, 16, 0.14);
-  white-space: nowrap;
+  white-space: normal;
+  flex-wrap: wrap;
+  min-width: 0;
 }
 
 .calendar-inline .calendar-kicker,
@@ -232,20 +236,58 @@ p {
 
 .calendar-inline .calendar-day {
   font-size: 34px;
+  flex: 0 0 auto;
 }
 
 .calendar-inline .calendar-month {
   font-size: 18px;
+  flex: 0 0 auto;
 }
 
 .calendar-inline .calendar-date-text,
 .calendar-inline .calendar-time-text,
 .calendar-inline .calendar-lunar-text {
   font-size: 14px;
+  flex: 0 0 auto;
 }
 
 .calendar-inline .calendar-weekday {
   margin-left: auto;
+}
+
+@media (max-width: 1040px) {
+  .hero-topbar {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .hero-topbar-actions {
+    grid-auto-flow: column;
+    justify-content: flex-start;
+    width: fit-content;
+  }
+
+  .calendar-inline {
+    min-height: 50px;
+    padding: 9px 14px;
+    gap: 10px;
+    border-radius: 16px;
+  }
+
+  .calendar-inline .calendar-day {
+    font-size: 30px;
+  }
+
+  .calendar-inline .calendar-month {
+    font-size: 16px;
+  }
+
+  .calendar-inline .calendar-date-text,
+  .calendar-inline .calendar-time-text,
+  .calendar-inline .calendar-lunar-text {
+    font-size: 13px;
+  }
 }
 
 .section-kicker,
@@ -359,6 +401,69 @@ p {
   display: flex;
   gap: 14px;
   margin-bottom: 14px;
+}
+
+.setup-history {
+  margin-top: 12px;
+  padding: 16px 18px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.68);
+  border: 1px solid rgba(77, 58, 37, 0.12);
+}
+
+.history-overview-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.history-overview-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 0 12px;
+  border-radius: 999px;
+  background: rgba(255, 249, 241, 0.9);
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.history-overview-chip.is-ok {
+  color: var(--ok);
+  background: rgba(47, 106, 79, 0.1);
+}
+
+.history-overview-chip.is-bad {
+  color: var(--bad);
+  background: rgba(159, 47, 47, 0.1);
+}
+
+.history-overview-list {
+  display: grid;
+  gap: 10px;
+}
+
+.history-overview-item {
+  display: grid;
+  grid-template-columns: minmax(90px, 140px) auto minmax(0, 1fr) auto;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: rgba(255, 252, 247, 0.88);
+}
+
+.history-overview-item strong,
+.history-overview-item time {
+  color: var(--text);
+}
+
+.history-overview-item span,
+.history-overview-item time {
+  font-size: 14px;
+  color: var(--muted);
 }
 
 .result-actions {
@@ -1320,8 +1425,25 @@ code {
     justify-content: flex-start;
   }
 
+  .hero-topbar {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+  }
+
+  .hero-topbar-actions {
+    grid-auto-flow: row;
+    justify-content: flex-start;
+    width: fit-content;
+  }
+
   .setup-actions {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .history-overview-item {
+    grid-template-columns: 1fr;
+    gap: 4px;
+    align-items: flex-start;
   }
 
   .hero-copy h1 {
@@ -1590,6 +1712,34 @@ code {
   .setup-actions {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .setup-history {
+    margin-top: 10px;
+    padding: 12px;
+    border-radius: 14px;
+  }
+
+  .history-overview-stats {
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+
+  .history-overview-chip {
+    min-height: 28px;
+    padding: 0 10px;
+    font-size: 12px;
+  }
+
+  .history-overview-item {
+    padding: 8px 10px;
+    border-radius: 12px;
+  }
+
+  .history-overview-item span,
+  .history-overview-item time {
+    font-size: 12px;
+    line-height: 1.45;
   }
 
   .label,

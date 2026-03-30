@@ -1685,5 +1685,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "overaccumulation",
+    "type": "word",
+    "translation": "过度积累；过量聚集；过度累积",
+    "analysis": "这是一个构词比较清晰的学术或分析性词汇，通常表示某种资源、资本、库存、问题或压力积累得过多。它常见于经济学、社会理论、环境分析和系统问题讨论中。",
+    "phonetic": "/ˌəʊvərəˌkjuːmjəˈleɪʃən/; /ˌoʊvərəˌkjuːmjəˈleɪʃən/",
+    "origin": "由 over- 和 accumulation 组成，字面含义就是“积累过度”。accumulation 本身来自拉丁语，表示聚集、积累。",
+    "expansions": [
+      "capital overaccumulation 资本过度积累",
+      "overaccumulation of inventory 库存过度堆积",
+      "overaccumulation of waste 废弃物过度积累",
+      "a problem of overaccumulation 过度累积带来的问题",
+      "prevent overaccumulation 防止过度积累"
+    ],
+    "pronunciation": "英式 /ˌəʊvərəˌkjuːmjəˈleɪʃən/，美式 /ˌoʊvərəˌkjuːmjəˈleɪʃən/",
+    "accepted_answers": [
+      "过度积累",
+      "过量聚集",
+      "过度累积"
+    ],
+    "added_at": "2026-03-30T16:18:34+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
