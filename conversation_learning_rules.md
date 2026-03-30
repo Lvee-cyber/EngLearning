@@ -65,7 +65,9 @@
 - `dictionary.json` 与 `words.json` 保持同字段结构
 - 写入 `dictionary.json` 时必须补齐与 `words.json` 一致的字段，尤其是 `expansions` 不能留空
 - 如果是系统主动扩充的辞典词条，也必须生成非空的 `expansions` 数组；缺少精确信息时，可先写入可读的通用拓展模板，后续再细化
-- 写入 `dictionary.json` 时，`phonetic` 与 `origin` 也不能留空；若暂时缺少精确内容，应先写入可读的非空补位内容，后续再细化
+- `words.json` 中的词条应优先保证 `phonetic` 与 `origin` 的真实性
+- `dictionary.json` 中若词条尚未经过真实查验，则 `phonetic` 与 `origin` 统一写为 `待查`
+- 只有当词条已经进入 `words.json` 或被单独做过真实查验时，才将真实 `phonetic` 与 `origin` 回写到 `dictionary.json`
 - GitHub Action 将 `data/words.json` 与 `data/dictionary.json` 同步到 Supabase 时，按 `term` 查重；如果云端已存在同名词条，则直接用本地最新词条整体覆盖更新
 
 ### 3. 用户输入“词库复习”
