@@ -116,6 +116,55 @@ def extract_expansions(body: str):
     return cleaned
 
 
+def normalize_legacy_phonetic(raw: str):
+    text = (raw or "").strip()
+    if not text:
+        return ""
+    inner = text.strip("/").strip()
+    if not inner:
+        return text
+    variants = [part.strip() for part in inner.split(";") if part.strip()]
+    normalized = []
+    for var in variants:
+        v = re.sub(r"^\?@\s*", "", var)
+        v = v.replace(" ", "")
+        replacements = [
+            ("Rr", "ɔːr"),
+            ("eI", "eɪ"),
+            ("aI", "aɪ"),
+            ("EU", "əʊ"),
+            ("oU", "oʊ"),
+            ("i:", "iː"),
+            ("u:", "uː"),
+            ("R:", "ɔː"),
+            ("\\:", "ɜː"),
+            ("[", "ɜː"),
+            ("tF", "tʃ"),
+            ("dV", "dʒ"),
+            ("5", "ˈ"),
+            ("`", "ˈ"),
+            ("9", "ˌ"),
+            ("A", "æ"),
+            ("Z", "e"),
+            ("N", "ŋ"),
+            ("W", "θ"),
+            ("^", "g"),
+            ("L", "ə"),
+            ("R", "ɔː"),
+            ("C", "ɒ"),
+            ("B", "ɑː"),
+            ("Q", "ʌ"),
+            ("E", "ə"),
+            ("I", "ɪ"),
+            ("F", "ʃ"),
+            ("V", "ʒ"),
+        ]
+        for src, dst in replacements:
+            v = v.replace(src, dst)
+        normalized.append(v)
+    return "/ " + "; ".join(normalized) + "/"
+
+
 def build_index():
     index = {}
     for path in sorted(DICT_DIR.rglob("*.txt")):
@@ -150,7 +199,7 @@ def main():
 
         new_translation = ref["translation"] or str(item.get("translation", "")).strip()
         new_analysis = ref["body"] or str(item.get("analysis", "")).strip()
-        new_phonetic = ref["phonetic"] or str(item.get("phonetic", "")).strip()
+        new_phonetic = normalize_legacy_phonetic(ref["phonetic"]) or str(item.get("phonetic", "")).strip()
         new_expansions = ref["expansions"] or item.get("expansions", [])
         new_answers = [seg.strip() for seg in re.split(r"[；;]", new_translation) if seg.strip()]
 
