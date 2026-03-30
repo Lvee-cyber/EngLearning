@@ -1030,5 +1030,106 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "multiple",
+    "type": "word",
+    "translation": "多个的；多种的；倍数的",
+    "analysis": "常表示数量不止一个或类型不止一种；在数学里也可表示倍数。",
+    "phonetic": "/ˈmʌltɪpəl/",
+    "origin": "来自拉丁语 multiplex，和多重、复杂有关。",
+    "expansions": [
+      "multiple cameras：多个摄像机",
+      "multiple options：多个选项",
+      "multiple layers：多层结构"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "多个的",
+      "多种的",
+      "倍数的"
+    ],
+    "added_at": "2026-03-30T02:28:22.701Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sky",
+    "type": "word",
+    "translation": "天空；天际",
+    "analysis": "常见基础名词，表示天空，也可用于比喻极限、上限或广阔空间。",
+    "phonetic": "/skaɪ/",
+    "origin": "来自古诺斯语 ský，原义更接近“云”，后来演变为天空。",
+    "expansions": [
+      "blue sky：蓝天",
+      "in the sky：在天空中",
+      "the night sky：夜空"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "天空",
+      "天际"
+    ],
+    "added_at": "2026-03-30T02:30:59.085Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "brace",
+    "type": "word",
+    "translation": "支撑；托架；支架；使做好准备；咬紧牙关挺住",
+    "analysis": "既可作名词表示支架、托架，也可作动词表示支撑住或做好准备应对困难。",
+    "phonetic": "/breɪs/",
+    "origin": "来自古法语 brace，和手臂、支撑有关。",
+    "expansions": [
+      "brace for impact：做好迎接冲击的准备",
+      "knee brace：护膝；膝部支架",
+      "brace yourself：做好心理准备"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "支撑",
+      "托架",
+      "支架",
+      "使做好准备",
+      "咬紧牙关挺住"
+    ],
+    "added_at": "2026-03-30T02:32:00.037Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "artillery",
+    "type": "word",
+    "translation": "火炮；炮兵；炮兵部队",
+    "analysis": "通常用于军事语境，可指重型火炮装备，也可指操作这些武器的炮兵部队。",
+    "phonetic": "/ɑːˈtɪləri/",
+    "origin": "来自古法语 artillerie，后来专指火炮和炮兵系统。",
+    "expansions": [
+      "heavy artillery：重型火炮；重火力",
+      "artillery fire：炮火",
+      "field artillery：野战炮兵"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "火炮",
+      "炮兵",
+      "炮兵部队"
+    ],
+    "added_at": "2026-03-30T02:33:07.775Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
