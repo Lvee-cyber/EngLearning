@@ -958,6 +958,10 @@ code {
   overflow-y: auto;
 }
 
+.dictionary-suggestions.hidden {
+  display: none;
+}
+
 .dictionary-suggestion {
   width: 100%;
   padding: 12px 14px;
@@ -1263,6 +1267,7 @@ code {
 
   .hero-dictionary-button {
     width: fit-content;
+    min-width: 0;
   }
 
   .calendar-card {

@@ -1131,5 +1131,81 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lynx",
+    "type": "word",
+    "translation": "猞猁；山猫",
+    "analysis": "名词，指一种中型野生猫科动物，也可比喻目光敏锐、行动敏捷。",
+    "phonetic": "/lɪŋks/",
+    "origin": "来自拉丁语 lynx，更早可追溯到希腊语。",
+    "expansions": [
+      "a Eurasian lynx：欧亚猞猁",
+      "a lynx habitat：猞猁栖息地",
+      "sharp-eyed like a lynx：像猞猁一样目光敏锐"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "猞猁",
+      "山猫"
+    ],
+    "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "review",
+    "type": "word",
+    "translation": "复习；回顾；审查；评论",
+    "analysis": "既可作动词，也可作名词。常表示复习、回顾、审查或评论。",
+    "phonetic": "/rɪˈvjuː/",
+    "origin": "来自法语和拉丁语词源，核心含义是“再次看一遍”。",
+    "expansions": [
+      "review vocabulary：复习词汇",
+      "code review：代码审查",
+      "write a review：写评论"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "复习",
+      "回顾",
+      "审查",
+      "评论"
+    ],
+    "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "primary",
+    "type": "word",
+    "translation": "主要的；首要的；初级的；原始的",
+    "analysis": "通常表示最重要的、最先的、核心的；在教育语境里也可表示小学的、初级的。",
+    "phonetic": "/ˈpraɪməri/",
+    "origin": "来自拉丁语 primarius，核心含义是第一位的、最重要的。",
+    "expansions": [
+      "primary goal：主要目标",
+      "primary source：第一手资料",
+      "primary school：小学"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "主要的",
+      "首要的",
+      "初级的",
+      "原始的"
+    ],
+    "added_at": "2026-03-30T02:52:12.630Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

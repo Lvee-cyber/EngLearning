@@ -50,6 +50,19 @@ for select
 to anon
 using (true);
 
+create policy "public write vocabulary words"
+on public.vocabulary_words
+for insert
+to anon
+with check (true);
+
+create policy "public update vocabulary words"
+on public.vocabulary_words
+for update
+to anon
+using (true)
+with check (true);
+
 create policy "public read dictionary entries"
 on public.dictionary_entries
 for select
