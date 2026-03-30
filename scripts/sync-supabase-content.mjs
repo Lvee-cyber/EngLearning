@@ -19,6 +19,7 @@ const TABLES = [
     label: "dictionary",
   },
 ];
+const PAGE_SIZE = 1000;
 
 function getHeaders(extra = {}) {
   return {
@@ -81,10 +82,20 @@ function chunk(items, size) {
 }
 
 async function fetchExistingTerms(tableName) {
-  const data = await request(`${tableName}?select=term`, {
-    method: "GET",
-  });
-  return new Set((data || []).map((item) => String(item.term || "")));
+  const terms = new Set();
+  let offset = 0;
+
+  while (true) {
+    const data = await request(`${tableName}?select=term&limit=${PAGE_SIZE}&offset=${offset}`, {
+      method: "GET",
+    });
+    const batch = Array.isArray(data) ? data : [];
+    batch.forEach((item) => terms.add(String(item.term || "")));
+    if (batch.length < PAGE_SIZE) break;
+    offset += PAGE_SIZE;
+  }
+
+  return terms;
 }
 
 async function upsertEntries(tableName, entries) {

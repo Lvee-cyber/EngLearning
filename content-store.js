@@ -1,5 +1,6 @@
 (function attachContentStore(windowObject) {
   const APP_CONFIG = windowObject.APP_CONFIG || {};
+  const PAGE_SIZE = 1000;
 
   function createSupabaseClient() {
     if (!APP_CONFIG.supabaseUrl || !APP_CONFIG.supabaseAnonKey) return null;
@@ -17,10 +18,31 @@
 
   async function fetchCollection({ supabase, tableName, fallbackUrl, label }) {
     if (supabase && tableName) {
-      const { data, error } = await supabase.from(tableName).select("term, payload").order("term");
-      if (!error && Array.isArray(data) && data.length) {
+      const items = [];
+      let offset = 0;
+      let error = null;
+
+      while (true) {
+        const response = await supabase
+          .from(tableName)
+          .select("term, payload")
+          .order("term")
+          .range(offset, offset + PAGE_SIZE - 1);
+
+        if (response.error) {
+          error = response.error;
+          break;
+        }
+
+        const batch = Array.isArray(response.data) ? response.data : [];
+        items.push(...batch);
+        if (batch.length < PAGE_SIZE) break;
+        offset += PAGE_SIZE;
+      }
+
+      if (!error && items.length) {
         return {
-          items: data.map((item) => item.payload).filter((item) => item && typeof item === "object"),
+          items: items.map((item) => item.payload).filter((item) => item && typeof item === "object"),
           source: "supabase",
         };
       }

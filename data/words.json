@@ -1285,5 +1285,57 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "deprecate",
+    "type": "word",
+    "translation": "弃用；不推荐使用；反对；对……表示不赞成",
+    "analysis": "技术语境里常表示某个功能或接口仍存在，但已不建议继续使用，未来可能被移除；一般语境里也可表示反对。",
+    "phonetic": "/ˈdeprəkeɪt/",
+    "origin": "来自拉丁语 deprecari，后来引申为反对、不建议使用。",
+    "expansions": [
+      "deprecated API：已弃用的 API",
+      "deprecate a feature：弃用某个功能",
+      "officially deprecated：被官方正式弃用"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "弃用",
+      "不推荐使用",
+      "反对",
+      "对……表示不赞成"
+    ],
+    "added_at": "2026-03-30T03:23:54.159Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "origin",
+    "type": "word",
+    "translation": "起源；来源；出身；起点",
+    "analysis": "表示某事物最初从哪里来、从哪里开始，可用于词源、历史、地理、产品来源等语境。",
+    "phonetic": "/ˈɒrɪdʒɪn/",
+    "origin": "来自拉丁语 origo，意为起源、开端、血统。",
+    "expansions": [
+      "the origin of a word：一个单词的词源",
+      "country of origin：原产国",
+      "trace the origin：追溯起源"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "起源",
+      "来源",
+      "出身",
+      "起点"
+    ],
+    "added_at": "2026-03-30T03:30:42.102Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
