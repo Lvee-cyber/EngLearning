@@ -104,8 +104,15 @@ p {
 
 .hero-topbar {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
   margin-bottom: 18px;
+}
+
+.hero-dictionary-button {
+  min-width: 132px;
+  flex: 0 0 auto;
 }
 
 .hero-copy h1 {
@@ -912,21 +919,78 @@ code {
 
 .dictionary-form {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr);
   gap: 16px;
-  align-items: end;
-  margin-bottom: 18px;
+  align-items: start;
+  margin-bottom: 10px;
 }
 
 .dictionary-actions {
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .dictionary-actions .primary-button,
 .dictionary-actions .secondary-button {
   min-width: 136px;
+}
+
+.dictionary-search-wrap {
+  position: relative;
+}
+
+.dictionary-suggestions {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  z-index: 20;
+  display: grid;
+  gap: 6px;
+  padding: 10px;
+  border-radius: 22px;
+  background: rgba(255, 250, 242, 0.98);
+  border: 1px solid rgba(77, 58, 37, 0.12);
+  box-shadow: 0 18px 36px rgba(87, 53, 22, 0.12);
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.dictionary-suggestion {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid transparent;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.9);
+  text-align: left;
+  cursor: pointer;
+  transition:
+    border-color 160ms ease,
+    background 160ms ease,
+    transform 160ms ease;
+}
+
+.dictionary-suggestion:hover,
+.dictionary-suggestion.is-active {
+  border-color: rgba(167, 85, 33, 0.2);
+  background: rgba(255, 245, 232, 0.96);
+  transform: translateY(-1px);
+}
+
+.dictionary-suggestion-term {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.dictionary-suggestion-translation {
+  display: block;
+  color: var(--muted);
+  line-height: 1.5;
 }
 
 .dictionary-panel {
@@ -1067,6 +1131,11 @@ code {
     flex: 1 1 0;
   }
 
+  .dictionary-suggestions {
+    border-radius: 16px;
+    padding: 8px;
+  }
+
   .dictionary-head {
     display: grid;
   }
@@ -1175,7 +1244,13 @@ code {
   }
 
   .hero-topbar {
+    display: grid;
+    gap: 10px;
     margin-bottom: 10px;
+  }
+
+  .hero-dictionary-button {
+    width: fit-content;
   }
 
   .calendar-card {
@@ -1521,5 +1596,19 @@ code {
   .dictionary-meta-item {
     padding: 10px 12px;
     border-radius: 12px;
+  }
+
+  .dictionary-suggestion {
+    padding: 10px 12px;
+    border-radius: 12px;
+  }
+
+  .dictionary-suggestion-term {
+    font-size: 16px;
+  }
+
+  .dictionary-suggestion-translation {
+    font-size: 13px;
+    line-height: 1.45;
   }
 }

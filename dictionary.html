@@ -25,13 +25,16 @@
 
       <section class="panel">
         <div class="dictionary-form">
-          <div class="setup-field">
-            <label class="label" for="dictionary-search">待查询单词</label>
-            <input id="dictionary-search" class="control text-control" type="search" placeholder="例如 streamline" autocomplete="off" />
-          </div>
           <div class="dictionary-actions">
             <button id="dictionary-submit" class="primary-button" type="button">查询</button>
             <button id="dictionary-clear" class="secondary-button" type="button">清空</button>
+          </div>
+          <div class="setup-field">
+            <label class="label" for="dictionary-search">待查询单词</label>
+            <div class="dictionary-search-wrap">
+              <input id="dictionary-search" class="control text-control" type="search" placeholder="例如 streamline" autocomplete="off" spellcheck="false" />
+              <div id="dictionary-suggestions" class="dictionary-suggestions hidden" role="listbox" aria-label="辞典联想结果"></div>
+            </div>
           </div>
         </div>
         <p id="dictionary-status" class="status-text">正在读取本地辞典。</p>

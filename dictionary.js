@@ -3,6 +3,8 @@ const APP_CONFIG = window.APP_CONFIG || {};
 const state = {
   entries: [],
   dictionaryLoaded: false,
+  suggestions: [],
+  activeSuggestionIndex: -1,
 };
 
 const elements = {
@@ -12,6 +14,7 @@ const elements = {
   status: document.querySelector("#dictionary-status"),
   summary: document.querySelector("#dictionary-summary"),
   result: document.querySelector("#dictionary-result"),
+  suggestions: document.querySelector("#dictionary-suggestions"),
 };
 
 const COMMON_FIELDS = new Set([
@@ -115,6 +118,31 @@ function findMatches(query) {
   return state.entries.filter((entry) => getAliases(entry).includes(normalized));
 }
 
+function getSuggestionMatches(query) {
+  const normalized = normalizeText(query);
+  if (!normalized) return [];
+
+  const ranked = state.entries
+    .map((entry) => {
+      const aliases = getAliases(entry);
+      const startsWithTerm = normalizeText(entry.term).startsWith(normalized);
+      const startsWithAlias = aliases.some((alias) => alias.startsWith(normalized));
+      if (!startsWithAlias) return null;
+      return {
+        entry,
+        score: startsWithTerm ? 0 : 1,
+      };
+    })
+    .filter(Boolean)
+    .sort((a, b) => {
+      if (a.score !== b.score) return a.score - b.score;
+      return a.entry.term.localeCompare(b.entry.term);
+    })
+    .slice(0, 8);
+
+  return ranked.map((item) => item.entry);
+}
+
 function formatDate(value) {
   if (!value) return "";
   const date = new Date(value);
@@ -185,8 +213,68 @@ function updateSummary(message) {
   elements.summary.textContent = message;
 }
 
+function hideSuggestions() {
+  state.suggestions = [];
+  state.activeSuggestionIndex = -1;
+  elements.suggestions.innerHTML = "";
+  elements.suggestions.classList.add("hidden");
+}
+
+function selectSuggestion(index) {
+  const entry = state.suggestions[index];
+  if (!entry) return;
+  elements.searchInput.value = entry.term;
+  hideSuggestions();
+  runSearch();
+}
+
+function renderSuggestions() {
+  if (!state.suggestions.length) {
+    elements.suggestions.innerHTML = "";
+    elements.suggestions.classList.add("hidden");
+    return;
+  }
+
+  elements.suggestions.innerHTML = state.suggestions
+    .map((entry, index) => {
+      const isActive = index === state.activeSuggestionIndex;
+      return `
+        <button
+          class="dictionary-suggestion${isActive ? " is-active" : ""}"
+          type="button"
+          role="option"
+          aria-selected="${isActive ? "true" : "false"}"
+          data-index="${index}"
+        >
+          <span class="dictionary-suggestion-term">${escapeHtml(entry.term)}</span>
+          <span class="dictionary-suggestion-translation">${escapeHtml(entry.translation || "暂无释义")}</span>
+        </button>
+      `;
+    })
+    .join("");
+  elements.suggestions.classList.remove("hidden");
+}
+
+function updateSuggestions() {
+  const query = String(elements.searchInput.value || "").trim();
+  state.suggestions = getSuggestionMatches(query);
+  state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
+  renderSuggestions();
+}
+
+function moveActiveSuggestion(offset) {
+  if (!state.suggestions.length) return;
+  const total = state.suggestions.length;
+  state.activeSuggestionIndex = (state.activeSuggestionIndex + offset + total) % total;
+  renderSuggestions();
+
+  const activeButton = elements.suggestions.querySelector(`[data-index="${state.activeSuggestionIndex}"]`);
+  activeButton?.scrollIntoView({ block: "nearest" });
+}
+
 function runSearch() {
   const query = String(elements.searchInput.value || "").trim();
+  hideSuggestions();
   if (!query) {
     elements.result.innerHTML = "";
     updateSummary("输入单词后点击查询。");
@@ -207,6 +295,7 @@ function runSearch() {
 function clearSearch() {
   elements.searchInput.value = "";
   elements.result.innerHTML = "";
+  hideSuggestions();
   updateSummary("输入单词后点击查询。");
   elements.searchInput.focus();
 }
@@ -227,11 +316,53 @@ async function init() {
 
 elements.submitButton.addEventListener("click", runSearch);
 elements.clearButton.addEventListener("click", clearSearch);
+elements.searchInput.addEventListener("input", () => {
+  updateSuggestions();
+});
 elements.searchInput.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowDown") {
+    event.preventDefault();
+    if (!state.suggestions.length) {
+      updateSuggestions();
+    } else {
+      moveActiveSuggestion(1);
+    }
+    return;
+  }
+
+  if (event.key === "ArrowUp") {
+    event.preventDefault();
+    if (state.suggestions.length) moveActiveSuggestion(-1);
+    return;
+  }
+
   if (event.key === "Enter") {
     event.preventDefault();
+    if (state.suggestions.length && state.activeSuggestionIndex >= 0) {
+      selectSuggestion(state.activeSuggestionIndex);
+      return;
+    }
     runSearch();
+    return;
   }
+
+  if (event.key === "Escape") {
+    hideSuggestions();
+  }
+});
+elements.searchInput.addEventListener("blur", () => {
+  window.setTimeout(() => {
+    hideSuggestions();
+  }, 120);
+});
+elements.searchInput.addEventListener("focus", () => {
+  updateSuggestions();
+});
+elements.suggestions.addEventListener("mousedown", (event) => {
+  const button = event.target.closest("[data-index]");
+  if (!button) return;
+  event.preventDefault();
+  selectSuggestion(Number(button.dataset.index));
 });
 
 init().catch((error) => {
