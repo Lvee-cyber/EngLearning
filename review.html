@@ -18,15 +18,6 @@
               <a class="secondary-button link-button hero-home-button" href="./index.html">返回主页</a>
               <button id="dictionary-button" class="secondary-button hero-dictionary-button" type="button">查辞典</button>
             </div>
-            <div class="calendar-card calendar-inline" aria-label="今日日期">
-              <span class="calendar-kicker">Today</span>
-              <strong id="calendar-day" class="calendar-day"></strong>
-              <span id="calendar-month" class="calendar-month"></span>
-              <span id="calendar-date-text" class="calendar-date-text"></span>
-              <span id="calendar-time-text" class="calendar-time-text"></span>
-              <span id="calendar-lunar-text" class="calendar-lunar-text"></span>
-              <span id="calendar-weekday" class="calendar-weekday"></span>
-            </div>
           </div>
 
           <div class="hero-grid">
@@ -74,8 +65,11 @@
             <div class="setup-main">
               <div class="setup-field">
                 <label class="label" for="profile-id">同步标识</label>
-                <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" list="profile-id-suggestions" />
-                <datalist id="profile-id-suggestions"></datalist>
+                <div class="suggest-input-wrap">
+                  <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" />
+                  <button id="profile-id-toggle" class="suggest-toggle" type="button" aria-label="显示已有同步标识" aria-expanded="false" aria-controls="profile-id-suggestions"></button>
+                  <div id="profile-id-suggestions" class="suggest-panel hidden" role="listbox" aria-label="已有同步标识"></div>
+                </div>
               </div>
               <div class="setup-field setup-field-compact">
                 <label class="label" for="review-count">复习数量</label>

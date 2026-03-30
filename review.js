@@ -17,6 +17,8 @@ const state = {
   supabase: null,
   syncReady: false,
   historyVisible: false,
+  currentSessionId: "",
+  currentSessionStartedAt: "",
 };
 
 const elements = {
@@ -30,6 +32,7 @@ const elements = {
   dictionaryButton: document.querySelector("#dictionary-button"),
   reviewCount: document.querySelector("#review-count"),
   profileIdInput: document.querySelector("#profile-id"),
+  profileIdToggle: document.querySelector("#profile-id-toggle"),
   profileIdSuggestions: document.querySelector("#profile-id-suggestions"),
   setupStatus: document.querySelector("#setup-status"),
   syncStatus: document.querySelector("#sync-status"),
@@ -39,12 +42,6 @@ const elements = {
   historyOverviewRecords: document.querySelector("#history-overview-records"),
   newWordsCount: document.querySelector("#new-words-count"),
   masteredWordsCount: document.querySelector("#mastered-words-count"),
-  calendarWeekday: document.querySelector("#calendar-weekday"),
-  calendarDay: document.querySelector("#calendar-day"),
-  calendarMonth: document.querySelector("#calendar-month"),
-  calendarDateText: document.querySelector("#calendar-date-text"),
-  calendarTimeText: document.querySelector("#calendar-time-text"),
-  calendarLunarText: document.querySelector("#calendar-lunar-text"),
   quizPanel: document.querySelector("#quiz-panel"),
   resultPanel: document.querySelector("#result-panel"),
   resultModal: document.querySelector(".result-modal"),
@@ -121,9 +118,55 @@ function hydrateProfileId() {
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
 }
 
+function getFilteredProfileSuggestions() {
+  const keyword = normalizeWord(elements.profileIdInput?.value || "");
+  if (!keyword) return state.profileSuggestions.slice(0, 8);
+  return state.profileSuggestions.filter((profileId) => normalizeWord(profileId).includes(keyword)).slice(0, 8);
+}
+
+function closeProfileSuggestions() {
+  if (!elements.profileIdSuggestions || !elements.profileIdToggle) return;
+  elements.profileIdSuggestions.classList.add("hidden");
+  elements.profileIdToggle.setAttribute("aria-expanded", "false");
+}
+
+function openProfileSuggestions() {
+  if (!elements.profileIdSuggestions || !elements.profileIdToggle) return;
+  const suggestions = getFilteredProfileSuggestions();
+  if (!suggestions.length) {
+    closeProfileSuggestions();
+    return;
+  }
+  elements.profileIdSuggestions.classList.remove("hidden");
+  elements.profileIdToggle.setAttribute("aria-expanded", "true");
+}
+
+function selectProfileSuggestion(profileId) {
+  elements.profileIdInput.value = profileId;
+  saveProfileId();
+  closeProfileSuggestions();
+  elements.profileIdInput.focus();
+}
+
 function renderProfileSuggestions() {
   if (!elements.profileIdSuggestions) return;
-  elements.profileIdSuggestions.innerHTML = state.profileSuggestions.map((profileId) => `<option value="${escapeHtml(profileId)}"></option>`).join("");
+  const suggestions = getFilteredProfileSuggestions();
+  elements.profileIdSuggestions.innerHTML = suggestions
+    .map(
+      (profileId, index) =>
+        `<button class="suggest-option" type="button" role="option" data-profile-id="${escapeHtml(profileId)}" aria-selected="${index === 0 ? "true" : "false"}">${escapeHtml(profileId)}</button>`,
+    )
+    .join("");
+  if (!suggestions.length) {
+    closeProfileSuggestions();
+    return;
+  }
+  elements.profileIdSuggestions.querySelectorAll(".suggest-option").forEach((button) => {
+    button.addEventListener("mousedown", (event) => {
+      event.preventDefault();
+      selectProfileSuggestion(button.dataset.profileId || "");
+    });
+  });
 }
 
 function getEmbeddedReview(entry) {
@@ -164,29 +207,99 @@ function updateHomeStats() {
   elements.masteredWordsCount.textContent = String(getMasteredWords().length);
 }
 
-function updateCalendarCard() {
-  const now = new Date();
-  const weekdays = ["周日", "周一", "周二", "周三", "周四", "周五", "周六"];
-  const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-  elements.calendarWeekday.textContent = weekdays[now.getDay()];
-  elements.calendarDay.textContent = String(now.getDate()).padStart(2, "0");
-  elements.calendarMonth.textContent = months[now.getMonth()];
-  elements.calendarDateText.textContent = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, "0")}.${String(now.getDate()).padStart(2, "0")}`;
-  elements.calendarTimeText.textContent = now.toLocaleTimeString("zh-CN", { hour12: false });
-  elements.calendarLunarText.textContent = formatLunarDate(now);
+function parseAnsweredAt(value) {
+  if (!value) return Number.NaN;
+  const normalized = String(value).replace(/([+-]\d{2})(\d{2})$/, "$1:$2");
+  return Date.parse(normalized);
 }
 
-function formatLunarDate(date) {
-  try {
-    const formatter = new Intl.DateTimeFormat("zh-CN-u-ca-chinese", {
-      month: "long",
-      day: "numeric",
-    });
-    const formatted = formatter.format(date).replaceAll("/", "");
-    return `农历 ${formatted}`;
-  } catch {
-    return "农历 暂不可用";
-  }
+function formatDateTime(value) {
+  const time = parseAnsweredAt(value);
+  if (Number.isNaN(time)) return String(value || "");
+  return new Date(time).toLocaleString("zh-CN", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hour12: false,
+  });
+}
+
+function createSessionId() {
+  return `session-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+}
+
+function buildHistorySessions() {
+  const rawRecords = Object.entries(state.progressByTerm)
+    .flatMap(([term, progress]) =>
+      (Array.isArray(progress.review_history) ? progress.review_history : []).map((item) => ({
+        term,
+        answered_at: item.answered_at || "",
+        result: item.result || "",
+        user_answer: item.user_answer || "",
+        session_id: item.session_id || "",
+        session_started_at: item.session_started_at || "",
+      })),
+    )
+    .sort((a, b) => parseAnsweredAt(a.answered_at) - parseAnsweredAt(b.answered_at));
+
+  const sessions = [];
+  let legacyGroupIndex = 0;
+  const thresholdMs = 45 * 60 * 1000;
+
+  rawRecords.forEach((record) => {
+    const answeredAtMs = parseAnsweredAt(record.answered_at);
+    let sessionKey = record.session_id || "";
+    let sessionStartedAt = record.session_started_at || record.answered_at;
+
+    if (!sessionKey) {
+      const previous = sessions[sessions.length - 1];
+      const previousAnsweredAt = previous ? parseAnsweredAt(previous.lastAnsweredAt) : Number.NaN;
+      const shouldStartNew =
+        !previous ||
+        Number.isNaN(answeredAtMs) ||
+        Number.isNaN(previousAnsweredAt) ||
+        answeredAtMs - previousAnsweredAt > thresholdMs;
+
+      if (shouldStartNew) legacyGroupIndex += 1;
+      sessionKey = `legacy-${legacyGroupIndex}`;
+      sessionStartedAt = previous && !shouldStartNew ? previous.sessionStartedAt : record.answered_at;
+    }
+
+    let session = sessions.find((item) => item.id === sessionKey);
+    if (!session) {
+      session = {
+        id: sessionKey,
+        sessionStartedAt,
+        lastAnsweredAt: record.answered_at,
+        records: [],
+      };
+      sessions.push(session);
+    }
+
+    session.records.push(record);
+    session.lastAnsweredAt = record.answered_at;
+    if (!session.sessionStartedAt || parseAnsweredAt(record.answered_at) < parseAnsweredAt(session.sessionStartedAt)) {
+      session.sessionStartedAt = record.answered_at;
+    }
+  });
+
+  return sessions
+    .map((session) => {
+      const correctWords = session.records.filter((item) => item.result === "correct").map((item) => item.term);
+      const wrongWords = session.records.filter((item) => item.result !== "correct").map((item) => item.term);
+      return {
+        ...session,
+        total: session.records.length,
+        correctCount: correctWords.length,
+        wrongCount: wrongWords.length,
+        correctWords,
+        wrongWords,
+      };
+    })
+    .sort((a, b) => parseAnsweredAt(b.sessionStartedAt) - parseAnsweredAt(a.sessionStartedAt));
 }
 
 function moveButtonFocus(container, direction) {
@@ -335,9 +448,11 @@ function renderHistoryOverview(message = "") {
   const totalIncorrect = entries.reduce((sum, [, progress]) => sum + Number(progress.incorrect_count || 0), 0);
   const masteredCount = entries.filter(([, progress]) => Number(progress.correct_count || 0) >= MASTERED_THRESHOLD).length;
   const reviewableCount = entries.length - masteredCount;
+  const sessions = buildHistorySessions();
 
   elements.historyOverviewSummary.innerHTML = `
     <div class="history-overview-stats">
+      <span class="history-overview-chip">复习场次 ${sessions.length}</span>
       <span class="history-overview-chip">记录词条 ${entries.length}</span>
       <span class="history-overview-chip">待复习 ${reviewableCount}</span>
       <span class="history-overview-chip">熟词 ${masteredCount}</span>
@@ -346,34 +461,44 @@ function renderHistoryOverview(message = "") {
     </div>
   `;
 
-  const recentRecords = entries
-    .flatMap(([term, progress]) =>
-      (Array.isArray(progress.review_history) ? progress.review_history : []).map((item) => ({
-        term,
-        answered_at: item.answered_at || "",
-        result: item.result || "",
-        user_answer: item.user_answer || "",
-      })),
-    )
-    .sort((a, b) => String(b.answered_at).localeCompare(String(a.answered_at)))
-    .slice(0, 12);
-
-  if (!recentRecords.length) {
+  if (!sessions.length) {
     elements.historyOverviewRecords.innerHTML = `<p class="status-text">当前标识还没有可展示的详细作答记录。</p>`;
     return;
   }
 
   elements.historyOverviewRecords.innerHTML = `
     <div class="history-overview-list">
-      ${recentRecords
+      ${sessions
         .map(
-          (item) => `
-            <div class="history-overview-item">
-              <strong>${escapeHtml(item.term)}</strong>
-              <span class="${item.result === "correct" ? "is-correct" : "is-wrong"}">${item.result === "correct" ? "答对" : "答错"}</span>
-              <span>${escapeHtml(item.user_answer || "-")}</span>
-              <time>${escapeHtml(String(item.answered_at || "").replace("T", " ").slice(0, 19))}</time>
-            </div>
+          (session) => `
+            <article class="history-overview-item">
+              <div class="history-session-head">
+                <strong>${escapeHtml(formatDateTime(session.sessionStartedAt))}</strong>
+                <span class="history-session-meta">复习 ${session.total} 个单词，答对 ${session.correctCount} 个，答错 ${session.wrongCount} 个</span>
+              </div>
+              <div class="history-session-groups">
+                <div class="history-session-group">
+                  <span class="history-session-label is-ok">答对单词</span>
+                  <div class="history-session-words">
+                    ${
+                      session.correctWords.length
+                        ? session.correctWords.map((word) => `<span class="history-word-chip is-ok">${escapeHtml(word)}</span>`).join("")
+                        : `<span class="history-word-chip is-empty">本场无答对词</span>`
+                    }
+                  </div>
+                </div>
+                <div class="history-session-group">
+                  <span class="history-session-label is-bad">答错单词</span>
+                  <div class="history-session-words">
+                    ${
+                      session.wrongWords.length
+                        ? session.wrongWords.map((word) => `<span class="history-word-chip is-bad">${escapeHtml(word)}</span>`).join("")
+                        : `<span class="history-word-chip is-empty">本场无答错词</span>`
+                    }
+                  </div>
+                </div>
+              </div>
+            </article>
           `,
         )
         .join("")}
@@ -450,6 +575,8 @@ async function startReview() {
   }
 
   pickReviewItems();
+  state.currentSessionId = createSessionId();
+  state.currentSessionStartedAt = nowIso();
   renderQuestion();
 }
 
@@ -635,6 +762,8 @@ async function persistResult(correct, typedTail) {
     result: correct ? "correct" : "incorrect",
     user_answer: buildUserAnswer(entry, typedTail),
     mode: "spelling",
+    session_id: state.currentSessionId || createSessionId(),
+    session_started_at: state.currentSessionStartedAt || nowIso(),
   });
 
   const payload = {
@@ -701,6 +830,22 @@ elements.restartButton.addEventListener("click", () => {
 elements.exitButton.addEventListener("click", exitToHome);
 elements.wordsButton?.addEventListener("click", openWordsPage);
 elements.dictionaryButton?.addEventListener("click", openDictionaryPage);
+elements.profileIdToggle?.addEventListener("click", () => {
+  renderProfileSuggestions();
+  if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions();
+  else closeProfileSuggestions();
+});
+elements.profileIdInput?.addEventListener("focus", () => {
+  renderProfileSuggestions();
+  openProfileSuggestions();
+});
+elements.profileIdInput?.addEventListener("input", () => {
+  renderProfileSuggestions();
+  openProfileSuggestions();
+});
+elements.profileIdInput?.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") closeProfileSuggestions();
+});
 elements.historyToggleButton?.addEventListener("click", () => {
   toggleHistoryOverview().catch((error) => {
     renderHistoryOverview(`历史记录读取失败：${error.message}`);
@@ -718,10 +863,14 @@ elements.profileIdInput.addEventListener("change", async () => {
   }
 });
 elements.actionRows.forEach((row) => row.addEventListener("keydown", handleActionRowKeydown));
+document.addEventListener("pointerdown", (event) => {
+  const target = event.target;
+  if (!(target instanceof Element)) return;
+  if (target.closest(".suggest-input-wrap")) return;
+  closeProfileSuggestions();
+});
 
 hydrateProfileId();
-updateCalendarCard();
-window.setInterval(updateCalendarCard, 1000);
 bootData().catch((error) => {
   updateSetupStatus(`初始化失败：${error.message}`);
   updateSyncStatus("请检查 words.json 地址或 Supabase 配置。", "bad");
