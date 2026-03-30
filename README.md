@@ -57,6 +57,7 @@
 - 辞典查询页优先从 Supabase 表 `dictionary_entries` 读取辞典内容，空表或异常时回退到 `data/dictionary.json`。
 - 复习进度通过 Supabase 表 `review_progress` 读取和写入。
 - 当 `data/words.json` 或 `data/dictionary.json` 推到 `main` 后，GitHub Action 会把对应内容同步到 Supabase。
+- GitHub Action 按 `term` 做同步查重；如果 Supabase 中已存在同名词条，则直接用本地 JSON 的最新 `payload` 覆盖更新。
 - 不同设备只要填写同一个“同步标识”，就会读取同一份复习进度。
 - 熟词判定规则：`correct_count >= 10`。
 
