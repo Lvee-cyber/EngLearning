@@ -118,9 +118,9 @@ function hydrateProfileId() {
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
 }
 
-function getFilteredProfileSuggestions() {
+function getFilteredProfileSuggestions(includeAllWhenEmpty = false) {
   const keyword = normalizeWord(elements.profileIdInput?.value || "");
-  if (!keyword) return state.profileSuggestions.slice(0, 8);
+  if (!keyword) return includeAllWhenEmpty ? state.profileSuggestions.slice(0, 8) : [];
   return state.profileSuggestions.filter((profileId) => normalizeWord(profileId).includes(keyword)).slice(0, 8);
 }
 
@@ -130,10 +130,10 @@ function closeProfileSuggestions() {
   elements.profileIdToggle.setAttribute("aria-expanded", "false");
 }
 
-function openProfileSuggestions() {
+function openProfileSuggestions(includeAllWhenEmpty = false) {
   if (!elements.profileIdSuggestions || !elements.profileIdToggle) return;
-  renderProfileSuggestions();
-  const suggestions = getFilteredProfileSuggestions();
+  renderProfileSuggestions(includeAllWhenEmpty);
+  const suggestions = getFilteredProfileSuggestions(includeAllWhenEmpty);
   if (!suggestions.length) {
     closeProfileSuggestions();
     return;
@@ -149,9 +149,9 @@ function selectProfileSuggestion(profileId) {
   elements.profileIdInput.focus();
 }
 
-function renderProfileSuggestions() {
+function renderProfileSuggestions(includeAllWhenEmpty = false) {
   if (!elements.profileIdSuggestions) return;
-  const suggestions = getFilteredProfileSuggestions();
+  const suggestions = getFilteredProfileSuggestions(includeAllWhenEmpty);
   elements.profileIdSuggestions.innerHTML = suggestions
     .map(
       (profileId, index) =>
@@ -832,18 +832,26 @@ elements.exitButton.addEventListener("click", exitToHome);
 elements.wordsButton?.addEventListener("click", openWordsPage);
 elements.dictionaryButton?.addEventListener("click", openDictionaryPage);
 elements.profileIdToggle?.addEventListener("click", () => {
-  if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions();
+  if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions(true);
   else closeProfileSuggestions();
 });
+elements.profileIdInput?.addEventListener("focus", () => {
+  openProfileSuggestions(false);
+});
 elements.profileIdInput?.addEventListener("input", () => {
-  if (!elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions();
+  openProfileSuggestions(false);
 });
 elements.profileIdInput?.addEventListener("keydown", (event) => {
   if (event.key === "Escape") closeProfileSuggestions();
   if (event.key === "ArrowDown") {
     event.preventDefault();
-    openProfileSuggestions();
+    openProfileSuggestions(true);
   }
+});
+elements.profileIdInput?.addEventListener("blur", () => {
+  window.setTimeout(() => {
+    closeProfileSuggestions();
+  }, 120);
 });
 elements.historyToggleButton?.addEventListener("click", () => {
   toggleHistoryOverview().catch((error) => {
