@@ -1207,5 +1207,83 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "schema",
+    "type": "word",
+    "translation": "模式；架构；纲要；图式",
+    "analysis": "在技术领域常指数据库结构、数据模式或字段组织方式；在认知科学里也可指认知图式。",
+    "phonetic": "/ˈskiːmə/",
+    "origin": "来自希腊语 skhēma，意为形状、结构、安排。",
+    "expansions": [
+      "database schema：数据库模式",
+      "JSON schema：JSON 模式定义",
+      "cognitive schema：认知图式"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "模式",
+      "架构",
+      "纲要",
+      "图式"
+    ],
+    "added_at": "2026-03-30T02:57:33.430Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "build",
+    "type": "word",
+    "translation": "建造；构建；建立；逐步增强；版本构建",
+    "analysis": "既可指实体上的建造，也可指抽象上的构建；在技术语境里还可表示编译构建或一个构建版本。",
+    "phonetic": "/bɪld/",
+    "origin": "来自古英语 byldan，核心含义是建造、使形成。",
+    "expansions": [
+      "build a system：构建一个系统",
+      "build confidence：建立信心",
+      "latest build：最新构建版本"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建造",
+      "构建",
+      "建立",
+      "逐步增强",
+      "版本构建"
+    ],
+    "added_at": "2026-03-30T03:00:16.785Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "foment",
+    "type": "word",
+    "translation": "煽动；助长；挑起",
+    "analysis": "通常用于正式语境，表示故意激起某种负面情绪、冲突或不稳定局面，语义色彩偏负面。",
+    "phonetic": "/fəˈment/",
+    "origin": "来自拉丁语 fomentum，原本和“热敷、加热”有关，后来引申为激起、助长。",
+    "expansions": [
+      "foment unrest：煽动骚乱",
+      "foment conflict：挑起冲突",
+      "foment rebellion：煽动叛乱"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "煽动",
+      "助长",
+      "挑起"
+    ],
+    "added_at": "2026-03-30T03:04:37.993Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
