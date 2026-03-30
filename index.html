@@ -2,11 +2,100 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="0; url=./review.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>EngLearning</title>
+    <link rel="stylesheet" href="./review.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js"></script>
+    <script src="./content-store.js"></script>
   </head>
   <body>
-    <p>正在跳转到复习页。如果没有自动跳转，请打开 <a href="./review.html">review.html</a>。</p>
+    <main class="page">
+      <section class="panel landing-hero">
+        <div class="landing-topbar">
+          <div class="calendar-card calendar-inline" aria-label="今日日期">
+            <span class="calendar-kicker">Today</span>
+            <strong id="calendar-day" class="calendar-day"></strong>
+            <span id="calendar-month" class="calendar-month"></span>
+            <span id="calendar-date-text" class="calendar-date-text"></span>
+            <span id="calendar-time-text" class="calendar-time-text"></span>
+            <span id="calendar-lunar-text" class="calendar-lunar-text"></span>
+            <span id="calendar-weekday" class="calendar-weekday"></span>
+          </div>
+        </div>
+
+        <p class="eyebrow">EngLearning</p>
+        <h1 class="landing-title">英语词库与复习站</h1>
+        <p class="intro landing-intro">
+          把本地维护的词库、在线同步的复习进度和快速辞典查询整合在一个站点里。主页只保留高频入口，进入后再分别做复习、查词和词库管理。
+        </p>
+
+        <div class="landing-status-grid">
+          <div class="landing-status-card">
+            <span class="landing-status-label">内容来源</span>
+            <p id="landing-content-status" class="landing-status-text">正在读取词库与辞典。</p>
+          </div>
+          <div class="landing-status-card">
+            <span class="landing-status-label">同步状态</span>
+            <p id="landing-progress-status" class="landing-status-text">正在检测在线进度服务。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel landing-query-panel">
+        <div class="landing-section-head">
+          <div>
+            <p class="section-kicker">Quick Lookup</p>
+            <h2 class="landing-section-title">快速查单词</h2>
+          </div>
+          <a class="secondary-button link-button" href="./dictionary.html">打开完整辞典</a>
+        </div>
+
+        <div class="landing-query-row">
+          <div class="setup-field landing-query-field">
+            <label class="label" for="landing-dictionary-search">输入英文单词</label>
+            <input
+              id="landing-dictionary-search"
+              class="control text-control"
+              type="search"
+              placeholder="例如 streamline"
+              autocomplete="off"
+              spellcheck="false"
+            />
+          </div>
+          <button id="landing-dictionary-submit" class="primary-button" type="button">查询</button>
+        </div>
+
+        <div id="landing-query-result" class="landing-query-result">
+          <p class="status-text">输入单词后即可在主页快速查看简要释义。</p>
+        </div>
+      </section>
+
+      <section class="panel landing-nav-panel">
+        <div class="landing-section-head">
+          <div>
+            <p class="section-kicker">Navigation</p>
+            <h2 class="landing-section-title">进入各个页面</h2>
+          </div>
+        </div>
+
+        <div class="landing-nav-grid">
+          <a class="landing-nav-card" href="./review.html">
+            <strong>开始复习</strong>
+            <span>进入拼写补全模式，按同步标识读取在线进度。</span>
+          </a>
+          <a class="landing-nav-card" href="./words.html">
+            <strong>查看词库</strong>
+            <span>查看当前词库、熟词状态和高错词条。</span>
+          </a>
+          <a class="landing-nav-card" href="./dictionary.html">
+            <strong>查询辞典</strong>
+            <span>按单词检索完整词条，并可加入单词本。</span>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <script src="./index.js" defer></script>
   </body>
 </html>

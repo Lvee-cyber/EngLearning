@@ -321,6 +321,14 @@ function clearSearch() {
   elements.searchInput.focus();
 }
 
+function hydrateQueryFromUrl() {
+  const url = new URL(window.location.href);
+  const query = String(url.searchParams.get("q") || "").trim();
+  if (!query) return;
+  elements.searchInput.value = query;
+  runSearch();
+}
+
 async function fetchDictionary() {
   const { items, source } = await window.ContentStore.fetchCollection({
     supabase: state.supabase,
@@ -399,6 +407,7 @@ function renderCurrentResults() {
 async function init() {
   state.supabase = window.ContentStore.createSupabaseClient();
   await fetchDictionary();
+  hydrateQueryFromUrl();
 }
 
 elements.submitButton.addEventListener("click", runSearch);

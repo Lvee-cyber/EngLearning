@@ -16,9 +16,10 @@
           <div>
             <p class="eyebrow">Local Dictionary</p>
             <h1 class="words-title">查本地辞典</h1>
-            <p class="intro">查询源来自 GitHub 仓库中的 <code>data/dictionary.json</code>。输入英文单词后，页面会在本地辞典中精确匹配并呈现词条内容。</p>
+            <p class="intro">查询源优先读取 Supabase 的 <code>dictionary_entries</code>，未命中时再回退到仓库里的 <code>data/dictionary.json</code>。输入英文单词后，页面会精确匹配并呈现词条内容。</p>
           </div>
           <div class="words-nav">
+            <a class="secondary-button link-button" href="./index.html">返回主页</a>
             <a class="secondary-button link-button" href="./words.html">查看词库</a>
             <a class="secondary-button link-button" href="./review.html">返回复习</a>
           </div>
