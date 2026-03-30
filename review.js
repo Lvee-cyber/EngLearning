@@ -132,6 +132,7 @@ function closeProfileSuggestions() {
 
 function openProfileSuggestions() {
   if (!elements.profileIdSuggestions || !elements.profileIdToggle) return;
+  renderProfileSuggestions();
   const suggestions = getFilteredProfileSuggestions();
   if (!suggestions.length) {
     closeProfileSuggestions();
@@ -831,20 +832,18 @@ elements.exitButton.addEventListener("click", exitToHome);
 elements.wordsButton?.addEventListener("click", openWordsPage);
 elements.dictionaryButton?.addEventListener("click", openDictionaryPage);
 elements.profileIdToggle?.addEventListener("click", () => {
-  renderProfileSuggestions();
   if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions();
   else closeProfileSuggestions();
 });
-elements.profileIdInput?.addEventListener("focus", () => {
-  renderProfileSuggestions();
-  openProfileSuggestions();
-});
 elements.profileIdInput?.addEventListener("input", () => {
-  renderProfileSuggestions();
-  openProfileSuggestions();
+  if (!elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions();
 });
 elements.profileIdInput?.addEventListener("keydown", (event) => {
   if (event.key === "Escape") closeProfileSuggestions();
+  if (event.key === "ArrowDown") {
+    event.preventDefault();
+    openProfileSuggestions();
+  }
 });
 elements.historyToggleButton?.addEventListener("click", () => {
   toggleHistoryOverview().catch((error) => {

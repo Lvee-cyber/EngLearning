@@ -567,9 +567,15 @@ p {
 }
 
 .suggest-panel {
+  position: absolute;
+  z-index: 12;
+  left: 0;
+  right: 0;
+  top: calc(100% + 8px);
   display: grid;
   gap: 6px;
-  margin-top: 8px;
+  max-height: 220px;
+  overflow: auto;
   padding: 8px;
   border-radius: 18px;
   background: rgba(255, 250, 242, 0.98);
@@ -1524,13 +1530,14 @@ code {
 
   .hero-topbar {
     display: flex;
-    align-items: stretch;
+    align-items: center;
   }
 
   .hero-topbar-actions {
-    grid-auto-flow: row;
+    display: flex;
+    flex-wrap: nowrap;
     justify-content: flex-start;
-    width: fit-content;
+    width: auto;
   }
 
   .setup-actions {
@@ -1632,17 +1639,22 @@ code {
   }
 
   .hero-topbar {
-    display: grid;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
     gap: 10px;
     margin-bottom: 10px;
   }
 
   .hero-topbar-actions {
-    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    width: auto;
+    gap: 8px;
   }
 
   .hero-dictionary-button {
-    width: fit-content;
+    width: auto;
     min-width: 0;
   }
 
@@ -1799,6 +1811,7 @@ code {
   .setup-main {
     max-width: 460px;
     grid-template-columns: minmax(0, 1fr) 102px;
+    align-items: end;
   }
 
   .setup-field-compact {
@@ -1877,6 +1890,12 @@ code {
     right: 10px;
     width: 28px;
     height: 28px;
+  }
+
+  .suggest-panel {
+    top: calc(100% + 6px);
+    border-radius: 14px;
+    padding: 6px;
   }
 
   .suggest-option {
