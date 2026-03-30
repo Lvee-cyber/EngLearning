@@ -3,9 +3,11 @@ const STORAGE_KEYS = {
   profileId: "englearning.profile_id",
 };
 const MASTERED_THRESHOLD = Number(APP_CONFIG.masteredThreshold || 10);
+const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supabaseTable || "review_progress";
 
 const state = {
   words: [],
+  wordsSource: "json",
   progressByTerm: {},
   queue: [],
   currentIndex: 0,
@@ -112,14 +114,6 @@ function hydrateProfileId() {
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
 }
 
-function createSupabaseClient() {
-  if (!APP_CONFIG.supabaseUrl || !APP_CONFIG.supabaseAnonKey) return null;
-  if (!window.supabase?.createClient) return null;
-  return window.supabase.createClient(APP_CONFIG.supabaseUrl, APP_CONFIG.supabaseAnonKey, {
-    auth: { persistSession: false },
-  });
-}
-
 function getEmbeddedReview(entry) {
   const review = entry.review || {};
   return {
@@ -219,11 +213,16 @@ function handleActionRowKeydown(event) {
 }
 
 async function fetchWords() {
-  const response = await fetch(APP_CONFIG.wordsUrl || "./data/words.json", { cache: "no-store" });
-  if (!response.ok) throw new Error(`词库读取失败：${response.status}`);
-  const words = await response.json();
+  const { items, source } = await window.ContentStore.fetchCollection({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
+    label: "词库",
+  });
+  const words = items;
   if (!Array.isArray(words)) throw new Error("words.json 格式不正确");
   state.words = words;
+  state.wordsSource = source;
 }
 
 async function loadProgress() {
@@ -235,7 +234,7 @@ async function loadProgress() {
   }
 
   const { data, error } = await state.supabase
-    .from(APP_CONFIG.supabaseTable || "review_progress")
+    .from(REVIEW_PROGRESS_TABLE)
     .select("term, correct_count, incorrect_count, review_history")
     .eq("profile_id", profileId);
 
@@ -257,11 +256,13 @@ async function loadProgress() {
 }
 
 async function bootData() {
-  state.supabase = createSupabaseClient();
+  state.supabase = window.ContentStore.createSupabaseClient();
   await fetchWords();
   await loadProgress();
   updateHomeStats();
-  updateSetupStatus(`已读取词库，共 ${state.words.length} 个词条。当前待复习 ${getReviewableWords().length} 个。`);
+  updateSetupStatus(
+    `已读取${state.wordsSource === "supabase" ? " Supabase " : "本地 JSON "}词库，共 ${state.words.length} 个词条。当前待复习 ${getReviewableWords().length} 个。`,
+  );
 }
 
 function pickReviewItems() {
@@ -506,7 +507,7 @@ async function persistResult(correct, typedTail) {
   };
 
   const { error } = await state.supabase
-    .from(APP_CONFIG.supabaseTable || "review_progress")
+    .from(REVIEW_PROGRESS_TABLE)
     .upsert(payload, { onConflict: "profile_id,term" });
 
   if (error) throw error;

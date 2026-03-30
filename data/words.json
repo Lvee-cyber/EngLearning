@@ -979,5 +979,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "exactly",
+    "type": "word",
+    "translation": "确切地；正是；完全地；一点不差地",
+    "analysis": "通常用来强调精确无误或完全一致；也常用于口语中表示“没错，正是如此”。",
+    "phonetic": "/ɪɡˈzæktli/",
+    "origin": "来自 exact 加副词后缀 -ly，表示精确地、完全地。",
+    "expansions": [
+      "exactly the same：完全一样",
+      "not exactly：不完全是",
+      "exactly right：完全正确"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "确切地",
+      "正是",
+      "完全地",
+      "一点不差地"
+    ],
+    "added_at": "2026-03-30T02:23:05.682Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "cameras",
+    "type": "word",
+    "translation": "相机；摄像机；摄影设备（复数）",
+    "analysis": "camera 的复数形式，表示多个相机或摄像设备，可用于拍照、监控、影视和视频会议等场景。",
+    "phonetic": "/ˈkæmərəz/",
+    "origin": "来自拉丁语 camera，后来演变为光学成像设备名称。",
+    "expansions": [
+      "security cameras：监控摄像头",
+      "digital cameras：数码相机",
+      "multiple cameras：多个摄像机"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "相机",
+      "摄像机",
+      "摄影设备（复数）"
+    ],
+    "added_at": "2026-03-30T02:24:49.619Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

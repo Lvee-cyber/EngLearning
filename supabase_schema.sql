@@ -28,3 +28,30 @@ for update
 to anon
 using (true)
 with check (true);
+
+create table if not exists public.vocabulary_words (
+  term text primary key,
+  payload jsonb not null,
+  updated_at timestamptz not null default now()
+);
+
+create table if not exists public.dictionary_entries (
+  term text primary key,
+  payload jsonb not null,
+  updated_at timestamptz not null default now()
+);
+
+alter table public.vocabulary_words enable row level security;
+alter table public.dictionary_entries enable row level security;
+
+create policy "public read vocabulary words"
+on public.vocabulary_words
+for select
+to anon
+using (true);
+
+create policy "public read dictionary entries"
+on public.dictionary_entries
+for select
+to anon
+using (true);

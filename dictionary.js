@@ -3,8 +3,12 @@ const APP_CONFIG = window.APP_CONFIG || {};
 const state = {
   entries: [],
   dictionaryLoaded: false,
+  dictionarySource: "json",
   suggestions: [],
   activeSuggestionIndex: -1,
+  supabase: null,
+  addingTerms: new Set(),
+  addedTerms: new Set(),
 };
 
 const elements = {
@@ -185,6 +189,8 @@ function renderEntry(entry) {
   const pronunciation = entry.pronunciation || entry.phonetic || "";
   const acceptedAnswers = toArray(entry.accepted_answers);
   const meta = renderMetaItems(entry);
+  const term = normalizeText(entry.term);
+  const isAdded = state.addedTerms.has(term);
 
   return `
     <article class="dictionary-result-card">
@@ -195,6 +201,17 @@ function renderEntry(entry) {
           <p class="dictionary-translation">${escapeHtml(translation)}</p>
         </div>
         <span class="word-state is-reviewable">已收录</span>
+      </div>
+
+      <div class="dictionary-card-actions">
+        <button
+          class="secondary-button dictionary-add-button"
+          type="button"
+          data-term="${escapeHtml(entry.term)}"
+          ${isAdded ? "disabled" : ""}
+        >
+          ${isAdded ? "已加入单词本" : "添加到单词本"}
+        </button>
       </div>
 
       ${analysis ? `<section class="dictionary-section"><h3>词条解析</h3><p>${escapeHtml(analysis)}</p></section>` : ""}
@@ -211,6 +228,10 @@ function renderEmpty(query) {
 
 function updateSummary(message) {
   elements.summary.textContent = message;
+}
+
+function updateStatus(message) {
+  elements.status.textContent = message;
 }
 
 function hideSuggestions() {
@@ -301,16 +322,82 @@ function clearSearch() {
 }
 
 async function fetchDictionary() {
-  const response = await fetch(APP_CONFIG.dictionaryUrl || "./data/dictionary.json", { cache: "no-store" });
-  if (!response.ok) throw new Error(`辞典读取失败：${response.status}`);
-  const raw = await response.json();
+  const { items, source } = await window.ContentStore.fetchCollection({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+  });
+  const raw = items;
   state.entries = normalizeDictionary(raw);
   state.dictionaryLoaded = true;
-  elements.status.textContent = `本地辞典已载入，共 ${state.entries.length} 条记录。`;
+  state.dictionarySource = source;
+  updateStatus(`${source === "supabase" ? "Supabase" : "本地 JSON"} 辞典已载入，共 ${state.entries.length} 条记录。`);
   updateSummary("输入单词后点击查询。");
 }
 
+function buildWordPayload(entry) {
+  return {
+    ...entry,
+    review: entry.review || {
+      correct_count: 0,
+      incorrect_count: 0,
+      review_history: [],
+    },
+    added_at: entry.added_at || new Date().toISOString(),
+  };
+}
+
+async function addToVocabulary(term) {
+  if (!state.supabase) {
+    updateSummary("当前未配置 Supabase，无法加入单词本。");
+    return;
+  }
+
+  const normalizedTerm = normalizeText(term);
+  const entry = state.entries.find((item) => normalizeText(item.term) === normalizedTerm);
+  if (!entry || state.addingTerms.has(normalizedTerm)) return;
+
+  state.addingTerms.add(normalizedTerm);
+  updateStatus(`正在将 ${entry.term} 加入单词本...`);
+
+  const payload = buildWordPayload(entry);
+  const { error } = await state.supabase.from(APP_CONFIG.wordsTable || "vocabulary_words").upsert(
+    {
+      term: payload.term,
+      payload,
+      updated_at: new Date().toISOString(),
+    },
+    { onConflict: "term" },
+  );
+
+  state.addingTerms.delete(normalizedTerm);
+
+  if (error) {
+    updateStatus(`加入单词本失败：${error.message}`);
+    updateSummary(`未能把 ${entry.term} 写入单词本。`);
+    return;
+  }
+
+  state.addedTerms.add(normalizedTerm);
+  updateStatus(`${entry.term} 已同步加入单词本。`);
+  updateSummary(`已将 ${entry.term} 同步到 Supabase 单词本。`);
+  renderCurrentResults();
+}
+
+function renderCurrentResults() {
+  const query = String(elements.searchInput.value || "").trim();
+  if (!query) return;
+  const matches = findMatches(query);
+  if (!matches.length) {
+    renderEmpty(query);
+    return;
+  }
+  elements.result.innerHTML = matches.map((entry) => renderEntry(entry)).join("");
+}
+
 async function init() {
+  state.supabase = window.ContentStore.createSupabaseClient();
   await fetchDictionary();
 }
 
@@ -364,8 +451,15 @@ elements.suggestions.addEventListener("mousedown", (event) => {
   event.preventDefault();
   selectSuggestion(Number(button.dataset.index));
 });
+elements.result.addEventListener("click", (event) => {
+  const button = event.target.closest(".dictionary-add-button");
+  if (!button) return;
+  addToVocabulary(button.dataset.term).catch((error) => {
+    updateStatus(`加入单词本失败：${error.message}`);
+  });
+});
 
 init().catch((error) => {
-  elements.status.textContent = `初始化失败：${error.message}`;
+  updateStatus(`初始化失败：${error.message}`);
   updateSummary("请检查 dictionary.json 是否存在且格式正确。");
 });

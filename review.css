@@ -1015,6 +1015,18 @@ code {
   line-height: 1;
 }
 
+.dictionary-card-actions {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 14px;
+}
+
+.dictionary-add-button[disabled] {
+  cursor: default;
+  opacity: 0.72;
+  transform: none;
+}
+
 .dictionary-head {
   display: flex;
   justify-content: space-between;
@@ -1578,6 +1590,10 @@ code {
   .dictionary-empty {
     padding: 12px;
     border-radius: 14px;
+  }
+
+  .dictionary-card-actions {
+    margin-bottom: 10px;
   }
 
   .dictionary-result-card h2 {
