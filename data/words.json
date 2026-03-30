@@ -797,5 +797,187 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "protect",
+    "type": "word",
+    "translation": "保护；防护；保卫",
+    "analysis": "表示使某人或某物免受伤害、损失、攻击或不良影响。既可用于人身安全，也可用于法律、环境、数据和系统安全等语境。",
+    "phonetic": "/prəˈtekt/",
+    "origin": "来自拉丁语 protegere，意为“遮盖在前、守护”，后来引申为保护、防护。",
+    "expansions": [
+      "protect someone from harm 保护某人免受伤害",
+      "protect against attacks 防御攻击",
+      "protect the environment 保护环境",
+      "data protection 数据保护"
+    ],
+    "pronunciation": "英式 /prəˈtekt/，美式 /prəˈtekt/",
+    "accepted_answers": [
+      "保护",
+      "防护",
+      "保卫"
+    ],
+    "added_at": "2026-03-30T08:50:35+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "learning",
+    "type": "word",
+    "translation": "学习；学问；学习过程",
+    "analysis": "既可以表示学习这件事，也可以表示知识、学识，或学习过程中获得的成果。在教育、心理学、AI 和日常英语里都非常常见。",
+    "phonetic": "/ˈlɜːnɪŋ/; /ˈlɝːnɪŋ/",
+    "origin": "来自 learn（学习）加动名词后缀 -ing，表示学习这一行为或过程。",
+    "expansions": [
+      "learning process 学习过程",
+      "machine learning 机器学习",
+      "learning experience 学习体验",
+      "deep learning 深度学习"
+    ],
+    "pronunciation": "英式 /ˈlɜːnɪŋ/，美式 /ˈlɝːnɪŋ/",
+    "accepted_answers": [
+      "学习",
+      "学问",
+      "学习过程"
+    ],
+    "added_at": "2026-03-30T08:55:08+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "submarine",
+    "type": "word",
+    "translation": "潜艇；海底的；潜水艇",
+    "analysis": "最常见的是作名词，表示潜艇、潜水艇。也可作形容词，表示海底的、水下的。在军事、海洋工程和科技语境中很常见。",
+    "phonetic": "/ˌsʌbməˈriːn/",
+    "origin": "来自拉丁语词根 sub-（在下）和 marine（海的），字面意思是“在海下的”。",
+    "expansions": [
+      "autonomous submarine 自主潜艇",
+      "submarine fleet 潜艇编队",
+      "submarine cable 海底电缆",
+      "submarine warfare 潜艇战"
+    ],
+    "pronunciation": "英式 /ˌsʌbməˈriːn/，美式 /ˌsʌbməˈriːn/",
+    "accepted_answers": [
+      "潜艇",
+      "海底的",
+      "潜水艇"
+    ],
+    "added_at": "2026-03-30T08:59:48+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "analysis",
+    "type": "word",
+    "translation": "分析；解析；分析结果",
+    "analysis": "表示把事物拆开、研究其结构、原因或意义的过程，也可指分析后的结果。在学术、技术、商业、数据和语言学习语境里都非常常见。",
+    "phonetic": "/əˈnæləsɪs/",
+    "origin": "来自希腊语 analysis，原义是“拆解、分开”，后来引申为“分析、解析”。",
+    "expansions": [
+      "data analysis 数据分析",
+      "market analysis 市场分析",
+      "text analysis 文本分析",
+      "analysis result 分析结果"
+    ],
+    "pronunciation": "英式 /əˈnæləsɪs/，美式 /əˈnæləsɪs/",
+    "accepted_answers": [
+      "分析",
+      "解析",
+      "分析结果"
+    ],
+    "added_at": "2026-03-30T09:05:53+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "missing",
+    "type": "word",
+    "translation": "缺失的；不见的；失踪的",
+    "analysis": "通常表示某个东西缺了、不在了、找不到了。既可以用于数据、文件、零件等缺失，也可以用于人失踪、不见了的情况。",
+    "phonetic": "/ˈmɪsɪŋ/",
+    "origin": "来自 miss（错过；失去；未命中）加 -ing，表示“缺失的、不见的”。",
+    "expansions": [
+      "missing data 缺失数据",
+      "missing file 缺失文件",
+      "go missing 失踪；不见",
+      "something is missing 有东西缺了"
+    ],
+    "pronunciation": "英式 /ˈmɪsɪŋ/，美式 /ˈmɪsɪŋ/",
+    "accepted_answers": [
+      "缺失的",
+      "不见的",
+      "失踪的"
+    ],
+    "added_at": "2026-03-30T09:11:17+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "boomerang",
+    "type": "word",
+    "translation": "回旋镖；自食其果的事物；回飞",
+    "analysis": "最常见是作名词，表示一种掷出后会沿弧线飞回的投掷工具。引申义里也可表示反弹回来影响自身的事，或某种反噬效应。",
+    "phonetic": "/ˈbuːməræŋ/",
+    "origin": "来自澳大利亚原住民语言，原本就是指这种可回飞的投掷工具，后来进入英语并扩展出反作用、反弹回来的比喻义。",
+    "expansions": [
+      "a boomerang effect 回旋镖效应；反噬效应",
+      "the decision boomeranged 这个决定反过来害了自己",
+      "boomerang back 迅速返回",
+      "political boomerang 政治反噬"
+    ],
+    "pronunciation": "英式 /ˈbuːməræŋ/，美式 /ˈbuːməræŋ/",
+    "accepted_answers": [
+      "回旋镖",
+      "自食其果的事物",
+      "回飞"
+    ],
+    "added_at": "2026-03-30T09:19:35+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "deploy",
+    "type": "word",
+    "translation": "部署；调配；配置；展开使用",
+    "analysis": "常用于技术语境，表示把程序、系统或服务部署到可运行环境中；也可表示调动人员或资源。",
+    "phonetic": "/dɪˈplɔɪ/",
+    "origin": "来自古法语 desployer，原义和“展开”有关，后来引申为部署、配置。",
+    "expansions": [
+      "deploy an application：部署一个应用",
+      "deploy to production：部署到生产环境",
+      "deploy resources：调配资源"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "部署",
+      "调配",
+      "配置",
+      "展开使用"
+    ],
+    "added_at": "2026-03-30T01:26:57.607Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
