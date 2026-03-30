@@ -1337,5 +1337,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bilingual",
+    "type": "word",
+    "translation": "双语的；能说两种语言的；双语者",
+    "analysis": "既可作形容词，也可作名词。常用于教育、语言学习、文化背景和内容产品语境。",
+    "phonetic": "/baɪˈlɪŋɡwəl/",
+    "origin": "由 bi-（两个）和 lingual（语言的）构成。",
+    "expansions": [
+      "bilingual education：双语教育",
+      "bilingual dictionary：双语词典",
+      "grow up bilingual：在双语环境中长大"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "双语的",
+      "能说两种语言的",
+      "双语者"
+    ],
+    "added_at": "2026-03-30T05:12:25.617Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "strategic",
+    "type": "word",
+    "translation": "战略的；策略性的；关键性的",
+    "analysis": "通常表示与长期规划、整体布局或关键决策有关，可用于军事、商业、管理、产品等语境。",
+    "phonetic": "/strəˈtiːdʒɪk/",
+    "origin": "来自希腊语 strategos，原义与将军、统帅有关。",
+    "expansions": [
+      "strategic planning：战略规划",
+      "strategic decision：战略决策",
+      "strategic partner：战略合作伙伴"
+    ],
+    "pronunciation": "",
+    "accepted_answers": [
+      "战略的",
+      "策略性的",
+      "关键性的"
+    ],
+    "added_at": "2026-03-30T05:52:10.415Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

@@ -953,38 +953,14 @@ code {
 }
 
 .landing-nav-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 
-.landing-nav-card {
-  display: grid;
-  gap: 10px;
-  padding: 22px;
-  text-decoration: none;
-  color: var(--text);
-  transition:
-    transform 180ms ease,
-    border-color 180ms ease,
-    box-shadow 180ms ease;
-}
-
-.landing-nav-card strong {
-  font-size: 22px;
-  line-height: 1.1;
-  color: var(--accent-strong);
-}
-
-.landing-nav-card span {
-  color: var(--muted);
-  line-height: 1.6;
-}
-
-.landing-nav-card:hover {
-  transform: translateY(-1px);
-  border-color: rgba(167, 85, 33, 0.18);
-  box-shadow: 0 14px 28px rgba(87, 53, 22, 0.08);
+.landing-nav-button {
+  min-width: 0;
+  padding-inline: 20px;
 }
 
 .words-toolbar {
@@ -1295,7 +1271,6 @@ code {
   }
 
   .landing-status-grid,
-  .landing-nav-grid,
   .landing-query-row {
     grid-template-columns: 1fr;
   }
@@ -1540,14 +1515,12 @@ code {
   }
 
   .landing-status-card,
-  .landing-result-card,
-  .landing-nav-card {
+  .landing-result-card {
     border-radius: 16px;
   }
 
   .landing-status-card,
-  .landing-result-card,
-  .landing-nav-card {
+  .landing-result-card {
     padding: 14px;
   }
 
@@ -1568,8 +1541,15 @@ code {
     line-height: 1.5;
   }
 
-  .landing-nav-card strong {
-    font-size: 18px;
+  .landing-nav-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .landing-nav-button {
+    width: 100%;
+    padding-inline: 10px;
   }
 
   .stats-row {
