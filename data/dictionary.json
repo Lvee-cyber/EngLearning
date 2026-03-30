@@ -1,0 +1,6150 @@
+[
+  {
+    "term": "protect",
+    "type": "word",
+    "translation": "保护；防护；保卫",
+    "analysis": "表示使某人或某物免受伤害、损失、攻击或不良影响。既可用于人身安全，也可用于法律、环境、数据和系统安全等语境。",
+    "phonetic": "/prəˈtekt/",
+    "origin": "来自拉丁语 protegere，意为“遮盖在前、守护”，后来引申为保护、防护。",
+    "expansions": [
+      "protect someone from harm 保护某人免受伤害",
+      "protect against attacks 防御攻击",
+      "protect the environment 保护环境",
+      "data protection 数据保护"
+    ],
+    "pronunciation": "英式 /prəˈtekt/，美式 /prəˈtekt/",
+    "accepted_answers": [
+      "保护",
+      "防护",
+      "保卫"
+    ],
+    "added_at": "2026-03-30T08:50:35+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "learning",
+    "type": "word",
+    "translation": "学习；学问；学习过程",
+    "analysis": "既可以表示学习这件事，也可以表示知识、学识，或学习过程中获得的成果。在教育、心理学、AI 和日常英语里都非常常见。",
+    "phonetic": "/ˈlɜːnɪŋ/; /ˈlɝːnɪŋ/",
+    "origin": "来自 learn（学习）加动名词后缀 -ing，表示学习这一行为或过程。",
+    "expansions": [
+      "learning process 学习过程",
+      "machine learning 机器学习",
+      "learning experience 学习体验",
+      "deep learning 深度学习"
+    ],
+    "pronunciation": "英式 /ˈlɜːnɪŋ/，美式 /ˈlɝːnɪŋ/",
+    "accepted_answers": [
+      "学习",
+      "学问",
+      "学习过程"
+    ],
+    "added_at": "2026-03-30T08:55:08+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "submarine",
+    "type": "word",
+    "translation": "潜艇；海底的；潜水艇",
+    "analysis": "最常见的是作名词，表示潜艇、潜水艇。也可作形容词，表示海底的、水下的。在军事、海洋工程和科技语境中很常见。",
+    "phonetic": "/ˌsʌbməˈriːn/",
+    "origin": "来自拉丁语词根 sub-（在下）和 marine（海的），字面意思是“在海下的”。",
+    "expansions": [
+      "autonomous submarine 自主潜艇",
+      "submarine fleet 潜艇编队",
+      "submarine cable 海底电缆",
+      "submarine warfare 潜艇战"
+    ],
+    "pronunciation": "英式 /ˌsʌbməˈriːn/，美式 /ˌsʌbməˈriːn/",
+    "accepted_answers": [
+      "潜艇",
+      "海底的",
+      "潜水艇"
+    ],
+    "added_at": "2026-03-30T08:59:48+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "system",
+    "type": "word",
+    "translation": "系统；体系；制度；方法",
+    "analysis": "辞典扩充词条。常见含义为：系统；体系；制度；方法。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "系统",
+      "体系",
+      "制度",
+      "方法"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "spyware",
+    "type": "word",
+    "translation": "间谍软件；监控软件",
+    "analysis": "辞典扩充词条。常见含义为：间谍软件；监控软件。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "间谍软件",
+      "监控软件"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "standalone",
+    "type": "word",
+    "translation": "独立的；单独的；独立运行的",
+    "analysis": "辞典扩充词条。常见含义为：独立的；单独的；独立运行的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "独立的",
+      "单独的",
+      "独立运行的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "streamline",
+    "type": "word",
+    "translation": "使简化；使更高效；精简",
+    "analysis": "辞典扩充词条。常见含义为：使简化；使更高效；精简。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "使简化",
+      "使更高效",
+      "精简"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "social",
+    "type": "word",
+    "translation": "社会的；社交的",
+    "analysis": "辞典扩充词条。常见含义为：社会的；社交的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "社会的",
+      "社交的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "society",
+    "type": "word",
+    "translation": "社会；社团",
+    "analysis": "辞典扩充词条。常见含义为：社会；社团。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "社会",
+      "社团"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "signal",
+    "type": "word",
+    "translation": "信号；标志",
+    "analysis": "辞典扩充词条。常见含义为：信号；标志。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "信号",
+      "标志"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "simple",
+    "type": "word",
+    "translation": "简单的；简易的",
+    "analysis": "辞典扩充词条。常见含义为：简单的；简易的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "简单的",
+      "简易的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "simplify",
+    "type": "word",
+    "translation": "简化；使简单",
+    "analysis": "辞典扩充词条。常见含义为：简化；使简单。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "简化",
+      "使简单"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sincere",
+    "type": "word",
+    "translation": "真诚的；诚恳的",
+    "analysis": "辞典扩充词条。常见含义为：真诚的；诚恳的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "真诚的",
+      "诚恳的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "situation",
+    "type": "word",
+    "translation": "情况；处境",
+    "analysis": "辞典扩充词条。常见含义为：情况；处境。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "情况",
+      "处境"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "solution",
+    "type": "word",
+    "translation": "解决方案；解答",
+    "analysis": "辞典扩充词条。常见含义为：解决方案；解答。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "解决方案",
+      "解答"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "solve",
+    "type": "word",
+    "translation": "解决；解答",
+    "analysis": "辞典扩充词条。常见含义为：解决；解答。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "解决",
+      "解答"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "source",
+    "type": "word",
+    "translation": "来源；源头",
+    "analysis": "辞典扩充词条。常见含义为：来源；源头。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "来源",
+      "源头"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "software",
+    "type": "word",
+    "translation": "软件",
+    "analysis": "辞典扩充词条。常见含义为：软件。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "软件"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "security",
+    "type": "word",
+    "translation": "安全；保障",
+    "analysis": "辞典扩充词条。常见含义为：安全；保障。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "安全",
+      "保障"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "secure",
+    "type": "word",
+    "translation": "安全的；稳固的",
+    "analysis": "辞典扩充词条。常见含义为：安全的；稳固的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "安全的",
+      "稳固的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sensitive",
+    "type": "word",
+    "translation": "敏感的；灵敏的",
+    "analysis": "辞典扩充词条。常见含义为：敏感的；灵敏的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "敏感的",
+      "灵敏的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sentence",
+    "type": "word",
+    "translation": "句子；判决",
+    "analysis": "辞典扩充词条。常见含义为：句子；判决。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "句子",
+      "判决"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "service",
+    "type": "word",
+    "translation": "服务；维修",
+    "analysis": "辞典扩充词条。常见含义为：服务；维修。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "服务",
+      "维修"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "server",
+    "type": "word",
+    "translation": "服务器；服务员",
+    "analysis": "辞典扩充词条。常见含义为：服务器；服务员。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "服务器",
+      "服务员"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "serious",
+    "type": "word",
+    "translation": "严重的；严肃的",
+    "analysis": "辞典扩充词条。常见含义为：严重的；严肃的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "严重的",
+      "严肃的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "session",
+    "type": "word",
+    "translation": "会议；会话",
+    "analysis": "辞典扩充词条。常见含义为：会议；会话。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "会议",
+      "会话"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "setting",
+    "type": "word",
+    "translation": "设置；环境",
+    "analysis": "辞典扩充词条。常见含义为：设置；环境。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "设置",
+      "环境"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "skill",
+    "type": "word",
+    "translation": "技能；技巧",
+    "analysis": "辞典扩充词条。常见含义为：技能；技巧。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "技能",
+      "技巧"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "specific",
+    "type": "word",
+    "translation": "具体的；特定的",
+    "analysis": "辞典扩充词条。常见含义为：具体的；特定的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "具体的",
+      "特定的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "speed",
+    "type": "word",
+    "translation": "速度",
+    "analysis": "辞典扩充词条。常见含义为：速度。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "速度"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "speaker",
+    "type": "word",
+    "translation": "演讲者；扬声器",
+    "analysis": "辞典扩充词条。常见含义为：演讲者；扬声器。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "演讲者",
+      "扬声器"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "speech",
+    "type": "word",
+    "translation": "演讲；言语",
+    "analysis": "辞典扩充词条。常见含义为：演讲；言语。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "演讲",
+      "言语"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "special",
+    "type": "word",
+    "translation": "特别的；专门的",
+    "analysis": "辞典扩充词条。常见含义为：特别的；专门的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "特别的",
+      "专门的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "specialist",
+    "type": "word",
+    "translation": "专家；专科医生",
+    "analysis": "辞典扩充词条。常见含义为：专家；专科医生。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "专家",
+      "专科医生"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "spectrum",
+    "type": "word",
+    "translation": "范围；光谱",
+    "analysis": "辞典扩充词条。常见含义为：范围；光谱。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "范围",
+      "光谱"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "spirit",
+    "type": "word",
+    "translation": "精神；心灵",
+    "analysis": "辞典扩充词条。常见含义为：精神；心灵。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "精神",
+      "心灵"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "spite",
+    "type": "word",
+    "translation": "恶意；怨恨",
+    "analysis": "辞典扩充词条。常见含义为：恶意；怨恨。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "恶意",
+      "怨恨"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sponsor",
+    "type": "word",
+    "translation": "赞助者；赞助",
+    "analysis": "辞典扩充词条。常见含义为：赞助者；赞助。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "赞助者",
+      "赞助"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stable",
+    "type": "word",
+    "translation": "稳定的；稳固的",
+    "analysis": "辞典扩充词条。常见含义为：稳定的；稳固的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "稳定的",
+      "稳固的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stack",
+    "type": "word",
+    "translation": "堆；栈",
+    "analysis": "辞典扩充词条。常见含义为：堆；栈。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "堆",
+      "栈"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "staff",
+    "type": "word",
+    "translation": "员工；全体职员",
+    "analysis": "辞典扩充词条。常见含义为：员工；全体职员。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "员工",
+      "全体职员"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stage",
+    "type": "word",
+    "translation": "阶段；舞台",
+    "analysis": "辞典扩充词条。常见含义为：阶段；舞台。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "阶段",
+      "舞台"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "standard",
+    "type": "word",
+    "translation": "标准；标准的",
+    "analysis": "辞典扩充词条。常见含义为：标准；标准的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "标准",
+      "标准的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "state",
+    "type": "word",
+    "translation": "状态；国家",
+    "analysis": "辞典扩充词条。常见含义为：状态；国家。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "状态",
+      "国家"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "statement",
+    "type": "word",
+    "translation": "陈述；声明",
+    "analysis": "辞典扩充词条。常见含义为：陈述；声明。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "陈述",
+      "声明"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "static",
+    "type": "word",
+    "translation": "静态的；静电的",
+    "analysis": "辞典扩充词条。常见含义为：静态的；静电的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "静态的",
+      "静电的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "station",
+    "type": "word",
+    "translation": "车站；站点",
+    "analysis": "辞典扩充词条。常见含义为：车站；站点。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "车站",
+      "站点"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "status",
+    "type": "word",
+    "translation": "状态；地位",
+    "analysis": "辞典扩充词条。常见含义为：状态；地位。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "状态",
+      "地位"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "steady",
+    "type": "word",
+    "translation": "稳定的；平稳的",
+    "analysis": "辞典扩充词条。常见含义为：稳定的；平稳的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "稳定的",
+      "平稳的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "steel",
+    "type": "word",
+    "translation": "钢；钢铁",
+    "analysis": "辞典扩充词条。常见含义为：钢；钢铁。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "钢",
+      "钢铁"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "steep",
+    "type": "word",
+    "translation": "陡峭的；急剧的",
+    "analysis": "辞典扩充词条。常见含义为：陡峭的；急剧的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "陡峭的",
+      "急剧的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stem",
+    "type": "word",
+    "translation": "茎；干；词干",
+    "analysis": "辞典扩充词条。常见含义为：茎；干；词干。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "茎",
+      "干",
+      "词干"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "step",
+    "type": "word",
+    "translation": "步骤；步伐",
+    "analysis": "辞典扩充词条。常见含义为：步骤；步伐。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "步骤",
+      "步伐"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stock",
+    "type": "word",
+    "translation": "库存；股票",
+    "analysis": "辞典扩充词条。常见含义为：库存；股票。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "库存",
+      "股票"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "storage",
+    "type": "word",
+    "translation": "存储；仓储",
+    "analysis": "辞典扩充词条。常见含义为：存储；仓储。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "存储",
+      "仓储"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "store",
+    "type": "word",
+    "translation": "商店；储存",
+    "analysis": "辞典扩充词条。常见含义为：商店；储存。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "商店",
+      "储存"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "story",
+    "type": "word",
+    "translation": "故事；楼层",
+    "analysis": "辞典扩充词条。常见含义为：故事；楼层。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "故事",
+      "楼层"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "strategy",
+    "type": "word",
+    "translation": "策略；战略",
+    "analysis": "辞典扩充词条。常见含义为：策略；战略。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "策略",
+      "战略"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stream",
+    "type": "word",
+    "translation": "流；数据流",
+    "analysis": "辞典扩充词条。常见含义为：流；数据流。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "流",
+      "数据流"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "strength",
+    "type": "word",
+    "translation": "力量；优势",
+    "analysis": "辞典扩充词条。常见含义为：力量；优势。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "力量",
+      "优势"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "stress",
+    "type": "word",
+    "translation": "压力；强调",
+    "analysis": "辞典扩充词条。常见含义为：压力；强调。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "压力",
+      "强调"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "structure",
+    "type": "word",
+    "translation": "结构；组织",
+    "analysis": "辞典扩充词条。常见含义为：结构；组织。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "结构",
+      "组织"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "student",
+    "type": "word",
+    "translation": "学生",
+    "analysis": "辞典扩充词条。常见含义为：学生。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "学生"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "study",
+    "type": "word",
+    "translation": "学习；研究",
+    "analysis": "辞典扩充词条。常见含义为：学习；研究。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "学习",
+      "研究"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "style",
+    "type": "word",
+    "translation": "风格；样式",
+    "analysis": "辞典扩充词条。常见含义为：风格；样式。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "风格",
+      "样式"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "subject",
+    "type": "word",
+    "translation": "主题；科目；对象",
+    "analysis": "辞典扩充词条。常见含义为：主题；科目；对象。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "主题",
+      "科目",
+      "对象"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "submit",
+    "type": "word",
+    "translation": "提交；屈服",
+    "analysis": "辞典扩充词条。常见含义为：提交；屈服。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "提交",
+      "屈服"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "subtle",
+    "type": "word",
+    "translation": "微妙的；不明显的",
+    "analysis": "辞典扩充词条。常见含义为：微妙的；不明显的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "微妙的",
+      "不明显的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "succeed",
+    "type": "word",
+    "translation": "成功；接着发生",
+    "analysis": "辞典扩充词条。常见含义为：成功；接着发生。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "成功",
+      "接着发生"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "success",
+    "type": "word",
+    "translation": "成功",
+    "analysis": "辞典扩充词条。常见含义为：成功。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "成功"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "successful",
+    "type": "word",
+    "translation": "成功的",
+    "analysis": "辞典扩充词条。常见含义为：成功的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "成功的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sufficient",
+    "type": "word",
+    "translation": "足够的；充分的",
+    "analysis": "辞典扩充词条。常见含义为：足够的；充分的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "足够的",
+      "充分的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "suggest",
+    "type": "word",
+    "translation": "建议；表明",
+    "analysis": "辞典扩充词条。常见含义为：建议；表明。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建议",
+      "表明"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "suggestion",
+    "type": "word",
+    "translation": "建议",
+    "analysis": "辞典扩充词条。常见含义为：建议。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建议"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "summary",
+    "type": "word",
+    "translation": "总结；摘要",
+    "analysis": "辞典扩充词条。常见含义为：总结；摘要。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "总结",
+      "摘要"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "support",
+    "type": "word",
+    "translation": "支持；支撑",
+    "analysis": "辞典扩充词条。常见含义为：支持；支撑。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "支持",
+      "支撑"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "surface",
+    "type": "word",
+    "translation": "表面；表层的",
+    "analysis": "辞典扩充词条。常见含义为：表面；表层的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "表面",
+      "表层的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "surround",
+    "type": "word",
+    "translation": "围绕；包围",
+    "analysis": "辞典扩充词条。常见含义为：围绕；包围。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "围绕",
+      "包围"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "survey",
+    "type": "word",
+    "translation": "调查；测量",
+    "analysis": "辞典扩充词条。常见含义为：调查；测量。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "调查",
+      "测量"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "survive",
+    "type": "word",
+    "translation": "生存；幸存",
+    "analysis": "辞典扩充词条。常见含义为：生存；幸存。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "生存",
+      "幸存"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "suspect",
+    "type": "word",
+    "translation": "怀疑；嫌疑人",
+    "analysis": "辞典扩充词条。常见含义为：怀疑；嫌疑人。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "怀疑",
+      "嫌疑人"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sustain",
+    "type": "word",
+    "translation": "维持；支撑",
+    "analysis": "辞典扩充词条。常见含义为：维持；支撑。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "维持",
+      "支撑"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sustainable",
+    "type": "word",
+    "translation": "可持续的",
+    "analysis": "辞典扩充词条。常见含义为：可持续的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "可持续的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "symptom",
+    "type": "word",
+    "translation": "症状；征兆",
+    "analysis": "辞典扩充词条。常见含义为：症状；征兆。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "症状",
+      "征兆"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "synchronize",
+    "type": "word",
+    "translation": "同步；使同时发生",
+    "analysis": "辞典扩充词条。常见含义为：同步；使同时发生。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "同步",
+      "使同时发生"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "synthetic",
+    "type": "word",
+    "translation": "合成的；人造的",
+    "analysis": "辞典扩充词条。常见含义为：合成的；人造的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "合成的",
+      "人造的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "schedule",
+    "type": "word",
+    "translation": "日程安排；计划表",
+    "analysis": "辞典扩充词条。常见含义为：日程安排；计划表。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "日程安排",
+      "计划表"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "scheme",
+    "type": "word",
+    "translation": "方案；阴谋",
+    "analysis": "辞典扩充词条。常见含义为：方案；阴谋。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "方案",
+      "阴谋"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "scope",
+    "type": "word",
+    "translation": "范围；余地",
+    "analysis": "辞典扩充词条。常见含义为：范围；余地。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "范围",
+      "余地"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "science",
+    "type": "word",
+    "translation": "科学",
+    "analysis": "辞典扩充词条。常见含义为：科学。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "科学"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "scientific",
+    "type": "word",
+    "translation": "科学的",
+    "analysis": "辞典扩充词条。常见含义为：科学的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "科学的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "scientist",
+    "type": "word",
+    "translation": "科学家",
+    "analysis": "辞典扩充词条。常见含义为：科学家。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "科学家"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "script",
+    "type": "word",
+    "translation": "脚本；手稿",
+    "analysis": "辞典扩充词条。常见含义为：脚本；手稿。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "脚本",
+      "手稿"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "screen",
+    "type": "word",
+    "translation": "屏幕；筛查",
+    "analysis": "辞典扩充词条。常见含义为：屏幕；筛查。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "屏幕",
+      "筛查"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "search",
+    "type": "word",
+    "translation": "搜索；查找",
+    "analysis": "辞典扩充词条。常见含义为：搜索；查找。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "搜索",
+      "查找"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "season",
+    "type": "word",
+    "translation": "季节；赛季",
+    "analysis": "辞典扩充词条。常见含义为：季节；赛季。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "季节",
+      "赛季"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "secondary",
+    "type": "word",
+    "translation": "次要的；中等教育的",
+    "analysis": "辞典扩充词条。常见含义为：次要的；中等教育的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "次要的",
+      "中等教育的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sector",
+    "type": "word",
+    "translation": "部门；领域",
+    "analysis": "辞典扩充词条。常见含义为：部门；领域。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "部门",
+      "领域"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "segment",
+    "type": "word",
+    "translation": "部分；分段",
+    "analysis": "辞典扩充词条。常见含义为：部分；分段。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "部分",
+      "分段"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "select",
+    "type": "word",
+    "translation": "选择；精选的",
+    "analysis": "辞典扩充词条。常见含义为：选择；精选的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "选择",
+      "精选的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "selection",
+    "type": "word",
+    "translation": "选择；选集",
+    "analysis": "辞典扩充词条。常见含义为：选择；选集。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "选择",
+      "选集"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "semantic",
+    "type": "word",
+    "translation": "语义的",
+    "analysis": "辞典扩充词条。常见含义为：语义的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "语义的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "senior",
+    "type": "word",
+    "translation": "高级的；年长者",
+    "analysis": "辞典扩充词条。常见含义为：高级的；年长者。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "高级的",
+      "年长者"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sensation",
+    "type": "word",
+    "translation": "感觉；轰动",
+    "analysis": "辞典扩充词条。常见含义为：感觉；轰动。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "感觉",
+      "轰动"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "separate",
+    "type": "word",
+    "translation": "分开；分离的",
+    "analysis": "辞典扩充词条。常见含义为：分开；分离的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "分开",
+      "分离的"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sequence",
+    "type": "word",
+    "translation": "顺序；序列",
+    "analysis": "辞典扩充词条。常见含义为：顺序；序列。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "顺序",
+      "序列"
+    ],
+    "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "analysis",
+    "type": "word",
+    "translation": "分析；解析；分析结果",
+    "analysis": "表示把事物拆开、研究其结构、原因或意义的过程，也可指分析后的结果。在学术、技术、商业、数据和语言学习语境里都非常常见。",
+    "phonetic": "/əˈnæləsɪs/",
+    "origin": "来自希腊语 analysis，原义是“拆解、分开”，后来引申为“分析、解析”。",
+    "expansions": [
+      "data analysis 数据分析",
+      "market analysis 市场分析",
+      "text analysis 文本分析",
+      "analysis result 分析结果"
+    ],
+    "pronunciation": "英式 /əˈnæləsɪs/，美式 /əˈnæləsɪs/",
+    "accepted_answers": [
+      "分析",
+      "解析",
+      "分析结果"
+    ],
+    "added_at": "2026-03-30T09:05:53+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "ability",
+    "type": "word",
+    "translation": "能力；才能",
+    "analysis": "辞典扩充词条。常见含义为：能力；才能。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "能力",
+      "才能"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "able",
+    "type": "word",
+    "translation": "能够的；有能力的",
+    "analysis": "辞典扩充词条。常见含义为：能够的；有能力的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "能够的",
+      "有能力的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "abnormal",
+    "type": "word",
+    "translation": "反常的；异常的",
+    "analysis": "辞典扩充词条。常见含义为：反常的；异常的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "反常的",
+      "异常的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "abolish",
+    "type": "word",
+    "translation": "废除；取消",
+    "analysis": "辞典扩充词条。常见含义为：废除；取消。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "废除",
+      "取消"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "abroad",
+    "type": "word",
+    "translation": "在国外；到国外",
+    "analysis": "辞典扩充词条。常见含义为：在国外；到国外。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "在国外",
+      "到国外"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "absence",
+    "type": "word",
+    "translation": "缺席；缺乏",
+    "analysis": "辞典扩充词条。常见含义为：缺席；缺乏。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "缺席",
+      "缺乏"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "absolute",
+    "type": "word",
+    "translation": "绝对的；完全的",
+    "analysis": "辞典扩充词条。常见含义为：绝对的；完全的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "绝对的",
+      "完全的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "absorb",
+    "type": "word",
+    "translation": "吸收；理解",
+    "analysis": "辞典扩充词条。常见含义为：吸收；理解。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "吸收",
+      "理解"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "abstract",
+    "type": "word",
+    "translation": "抽象的；摘要",
+    "analysis": "辞典扩充词条。常见含义为：抽象的；摘要。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "抽象的",
+      "摘要"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "abuse",
+    "type": "word",
+    "translation": "滥用；虐待",
+    "analysis": "辞典扩充词条。常见含义为：滥用；虐待。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "滥用",
+      "虐待"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "academic",
+    "type": "word",
+    "translation": "学术的；学院的",
+    "analysis": "辞典扩充词条。常见含义为：学术的；学院的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "学术的",
+      "学院的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accelerate",
+    "type": "word",
+    "translation": "加速；促进",
+    "analysis": "辞典扩充词条。常见含义为：加速；促进。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "加速",
+      "促进"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accent",
+    "type": "word",
+    "translation": "口音；重音",
+    "analysis": "辞典扩充词条。常见含义为：口音；重音。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "口音",
+      "重音"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accept",
+    "type": "word",
+    "translation": "接受；承认",
+    "analysis": "辞典扩充词条。常见含义为：接受；承认。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "接受",
+      "承认"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "access",
+    "type": "word",
+    "translation": "访问；获取",
+    "analysis": "辞典扩充词条。常见含义为：访问；获取。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "访问",
+      "获取"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accident",
+    "type": "word",
+    "translation": "事故；意外",
+    "analysis": "辞典扩充词条。常见含义为：事故；意外。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "事故",
+      "意外"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accompany",
+    "type": "word",
+    "translation": "陪伴；伴随",
+    "analysis": "辞典扩充词条。常见含义为：陪伴；伴随。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "陪伴",
+      "伴随"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accomplish",
+    "type": "word",
+    "translation": "完成；实现",
+    "analysis": "辞典扩充词条。常见含义为：完成；实现。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "完成",
+      "实现"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "according",
+    "type": "word",
+    "translation": "根据；按照",
+    "analysis": "辞典扩充词条。常见含义为：根据；按照。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "根据",
+      "按照"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "account",
+    "type": "word",
+    "translation": "账户；解释",
+    "analysis": "辞典扩充词条。常见含义为：账户；解释。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "账户",
+      "解释"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accurate",
+    "type": "word",
+    "translation": "准确的；精确的",
+    "analysis": "辞典扩充词条。常见含义为：准确的；精确的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "准确的",
+      "精确的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "accuse",
+    "type": "word",
+    "translation": "指控；谴责",
+    "analysis": "辞典扩充词条。常见含义为：指控；谴责。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "指控",
+      "谴责"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "achieve",
+    "type": "word",
+    "translation": "实现；达到",
+    "analysis": "辞典扩充词条。常见含义为：实现；达到。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "实现",
+      "达到"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "achievement",
+    "type": "word",
+    "translation": "成就；成绩",
+    "analysis": "辞典扩充词条。常见含义为：成就；成绩。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "成就",
+      "成绩"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "acknowledge",
+    "type": "word",
+    "translation": "承认；确认",
+    "analysis": "辞典扩充词条。常见含义为：承认；确认。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "承认",
+      "确认"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "acquire",
+    "type": "word",
+    "translation": "获得；习得",
+    "analysis": "辞典扩充词条。常见含义为：获得；习得。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "获得",
+      "习得"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "across",
+    "type": "word",
+    "translation": "横跨；在对面",
+    "analysis": "辞典扩充词条。常见含义为：横跨；在对面。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "横跨",
+      "在对面"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "act",
+    "type": "word",
+    "translation": "行动；表演",
+    "analysis": "辞典扩充词条。常见含义为：行动；表演。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "行动",
+      "表演"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "action",
+    "type": "word",
+    "translation": "行动；措施",
+    "analysis": "辞典扩充词条。常见含义为：行动；措施。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "行动",
+      "措施"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "active",
+    "type": "word",
+    "translation": "积极的；活跃的",
+    "analysis": "辞典扩充词条。常见含义为：积极的；活跃的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "积极的",
+      "活跃的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "activity",
+    "type": "word",
+    "translation": "活动；活跃",
+    "analysis": "辞典扩充词条。常见含义为：活动；活跃。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "活动",
+      "活跃"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "actor",
+    "type": "word",
+    "translation": "演员；参与者",
+    "analysis": "辞典扩充词条。常见含义为：演员；参与者。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "演员",
+      "参与者"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "actual",
+    "type": "word",
+    "translation": "实际的；真实的",
+    "analysis": "辞典扩充词条。常见含义为：实际的；真实的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "实际的",
+      "真实的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adapt",
+    "type": "word",
+    "translation": "适应；改编",
+    "analysis": "辞典扩充词条。常见含义为：适应；改编。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "适应",
+      "改编"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "addiction",
+    "type": "word",
+    "translation": "上瘾；成瘾",
+    "analysis": "辞典扩充词条。常见含义为：上瘾；成瘾。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "上瘾",
+      "成瘾"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "addition",
+    "type": "word",
+    "translation": "增加；附加物",
+    "analysis": "辞典扩充词条。常见含义为：增加；附加物。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "增加",
+      "附加物"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "address",
+    "type": "word",
+    "translation": "地址；处理",
+    "analysis": "辞典扩充词条。常见含义为：地址；处理。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "地址",
+      "处理"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adequate",
+    "type": "word",
+    "translation": "足够的；适当的",
+    "analysis": "辞典扩充词条。常见含义为：足够的；适当的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "足够的",
+      "适当的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adjust",
+    "type": "word",
+    "translation": "调整；适应",
+    "analysis": "辞典扩充词条。常见含义为：调整；适应。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "调整",
+      "适应"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "administration",
+    "type": "word",
+    "translation": "管理；行政",
+    "analysis": "辞典扩充词条。常见含义为：管理；行政。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "管理",
+      "行政"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "admire",
+    "type": "word",
+    "translation": "钦佩；赞赏",
+    "analysis": "辞典扩充词条。常见含义为：钦佩；赞赏。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "钦佩",
+      "赞赏"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "admission",
+    "type": "word",
+    "translation": "承认；准许进入",
+    "analysis": "辞典扩充词条。常见含义为：承认；准许进入。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "承认",
+      "准许进入"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "admit",
+    "type": "word",
+    "translation": "承认；允许进入",
+    "analysis": "辞典扩充词条。常见含义为：承认；允许进入。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "承认",
+      "允许进入"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adolescent",
+    "type": "word",
+    "translation": "青少年的；青少年",
+    "analysis": "辞典扩充词条。常见含义为：青少年的；青少年。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "青少年的",
+      "青少年"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adopt",
+    "type": "word",
+    "translation": "采用；收养",
+    "analysis": "辞典扩充词条。常见含义为：采用；收养。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "采用",
+      "收养"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advance",
+    "type": "word",
+    "translation": "前进；进步",
+    "analysis": "辞典扩充词条。常见含义为：前进；进步。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "前进",
+      "进步"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advanced",
+    "type": "word",
+    "translation": "先进的；高级的",
+    "analysis": "辞典扩充词条。常见含义为：先进的；高级的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "先进的",
+      "高级的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advantage",
+    "type": "word",
+    "translation": "优势；好处",
+    "analysis": "辞典扩充词条。常见含义为：优势；好处。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "优势",
+      "好处"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adventure",
+    "type": "word",
+    "translation": "冒险；奇遇",
+    "analysis": "辞典扩充词条。常见含义为：冒险；奇遇。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "冒险",
+      "奇遇"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advertise",
+    "type": "word",
+    "translation": "做广告；宣传",
+    "analysis": "辞典扩充词条。常见含义为：做广告；宣传。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "做广告",
+      "宣传"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advertisement",
+    "type": "word",
+    "translation": "广告",
+    "analysis": "辞典扩充词条。常见含义为：广告。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "广告"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advice",
+    "type": "word",
+    "translation": "建议；忠告",
+    "analysis": "辞典扩充词条。常见含义为：建议；忠告。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建议",
+      "忠告"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advise",
+    "type": "word",
+    "translation": "建议；通知",
+    "analysis": "辞典扩充词条。常见含义为：建议；通知。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建议",
+      "通知"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "advocate",
+    "type": "word",
+    "translation": "提倡；拥护者",
+    "analysis": "辞典扩充词条。常见含义为：提倡；拥护者。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "提倡",
+      "拥护者"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "affair",
+    "type": "word",
+    "translation": "事务；事情",
+    "analysis": "辞典扩充词条。常见含义为：事务；事情。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "事务",
+      "事情"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "affect",
+    "type": "word",
+    "translation": "影响；感动",
+    "analysis": "辞典扩充词条。常见含义为：影响；感动。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "影响",
+      "感动"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "affection",
+    "type": "word",
+    "translation": "喜爱；感情",
+    "analysis": "辞典扩充词条。常见含义为：喜爱；感情。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "喜爱",
+      "感情"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "afford",
+    "type": "word",
+    "translation": "买得起；承担得起",
+    "analysis": "辞典扩充词条。常见含义为：买得起；承担得起。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "买得起",
+      "承担得起"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "afraid",
+    "type": "word",
+    "translation": "害怕的；担心的",
+    "analysis": "辞典扩充词条。常见含义为：害怕的；担心的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "害怕的",
+      "担心的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "agency",
+    "type": "word",
+    "translation": "机构；代理",
+    "analysis": "辞典扩充词条。常见含义为：机构；代理。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "机构",
+      "代理"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "agenda",
+    "type": "word",
+    "translation": "议程；待办事项",
+    "analysis": "辞典扩充词条。常见含义为：议程；待办事项。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "议程",
+      "待办事项"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "agent",
+    "type": "word",
+    "translation": "代理人；智能体",
+    "analysis": "辞典扩充词条。常见含义为：代理人；智能体。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "代理人",
+      "智能体"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "aggressive",
+    "type": "word",
+    "translation": "激进的；有攻击性的",
+    "analysis": "辞典扩充词条。常见含义为：激进的；有攻击性的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "激进的",
+      "有攻击性的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "agriculture",
+    "type": "word",
+    "translation": "农业",
+    "analysis": "辞典扩充词条。常见含义为：农业。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "农业"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "aid",
+    "type": "word",
+    "translation": "帮助；援助",
+    "analysis": "辞典扩充词条。常见含义为：帮助；援助。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "帮助",
+      "援助"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "aim",
+    "type": "word",
+    "translation": "目标；瞄准",
+    "analysis": "辞典扩充词条。常见含义为：目标；瞄准。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "目标",
+      "瞄准"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "aircraft",
+    "type": "word",
+    "translation": "飞机；航空器",
+    "analysis": "辞典扩充词条。常见含义为：飞机；航空器。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "飞机",
+      "航空器"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "alarm",
+    "type": "word",
+    "translation": "警报；惊慌",
+    "analysis": "辞典扩充词条。常见含义为：警报；惊慌。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "警报",
+      "惊慌"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "alert",
+    "type": "word",
+    "translation": "警觉的；警报",
+    "analysis": "辞典扩充词条。常见含义为：警觉的；警报。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "警觉的",
+      "警报"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "alien",
+    "type": "word",
+    "translation": "外来的；陌生的",
+    "analysis": "辞典扩充词条。常见含义为：外来的；陌生的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "外来的",
+      "陌生的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "allocate",
+    "type": "word",
+    "translation": "分配；拨出",
+    "analysis": "辞典扩充词条。常见含义为：分配；拨出。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "分配",
+      "拨出"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "allow",
+    "type": "word",
+    "translation": "允许；让",
+    "analysis": "辞典扩充词条。常见含义为：允许；让。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "允许",
+      "让"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "ally",
+    "type": "word",
+    "translation": "盟友；联合",
+    "analysis": "辞典扩充词条。常见含义为：盟友；联合。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "盟友",
+      "联合"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "almost",
+    "type": "word",
+    "translation": "几乎；差不多",
+    "analysis": "辞典扩充词条。常见含义为：几乎；差不多。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "几乎",
+      "差不多"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "alter",
+    "type": "word",
+    "translation": "改变；修改",
+    "analysis": "辞典扩充词条。常见含义为：改变；修改。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "改变",
+      "修改"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "alternative",
+    "type": "word",
+    "translation": "替代的；备选项",
+    "analysis": "辞典扩充词条。常见含义为：替代的；备选项。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "替代的",
+      "备选项"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "amazing",
+    "type": "word",
+    "translation": "令人惊异的",
+    "analysis": "辞典扩充词条。常见含义为：令人惊异的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "令人惊异的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "ambition",
+    "type": "word",
+    "translation": "雄心；抱负",
+    "analysis": "辞典扩充词条。常见含义为：雄心；抱负。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "雄心",
+      "抱负"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "amount",
+    "type": "word",
+    "translation": "数量；总额",
+    "analysis": "辞典扩充词条。常见含义为：数量；总额。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "数量",
+      "总额"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "amuse",
+    "type": "word",
+    "translation": "使发笑；逗乐",
+    "analysis": "辞典扩充词条。常见含义为：使发笑；逗乐。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "使发笑",
+      "逗乐"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "ancient",
+    "type": "word",
+    "translation": "古代的；古老的",
+    "analysis": "辞典扩充词条。常见含义为：古代的；古老的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "古代的",
+      "古老的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "angle",
+    "type": "word",
+    "translation": "角度；观点",
+    "analysis": "辞典扩充词条。常见含义为：角度；观点。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "角度",
+      "观点"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "announce",
+    "type": "word",
+    "translation": "宣布；公布",
+    "analysis": "辞典扩充词条。常见含义为：宣布；公布。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "宣布",
+      "公布"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "annual",
+    "type": "word",
+    "translation": "每年的；年度的",
+    "analysis": "辞典扩充词条。常见含义为：每年的；年度的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "每年的",
+      "年度的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "anonymous",
+    "type": "word",
+    "translation": "匿名的",
+    "analysis": "辞典扩充词条。常见含义为：匿名的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "匿名的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "anticipate",
+    "type": "word",
+    "translation": "预料；期待",
+    "analysis": "辞典扩充词条。常见含义为：预料；期待。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "预料",
+      "期待"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "anxiety",
+    "type": "word",
+    "translation": "焦虑；担忧",
+    "analysis": "辞典扩充词条。常见含义为：焦虑；担忧。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "焦虑",
+      "担忧"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "apparent",
+    "type": "word",
+    "translation": "明显的；表面的",
+    "analysis": "辞典扩充词条。常见含义为：明显的；表面的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "明显的",
+      "表面的"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "appeal",
+    "type": "word",
+    "translation": "呼吁；吸引力",
+    "analysis": "辞典扩充词条。常见含义为：呼吁；吸引力。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "呼吁",
+      "吸引力"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "appear",
+    "type": "word",
+    "translation": "出现；显得",
+    "analysis": "辞典扩充词条。常见含义为：出现；显得。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "出现",
+      "显得"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "appearance",
+    "type": "word",
+    "translation": "出现；外表",
+    "analysis": "辞典扩充词条。常见含义为：出现；外表。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "出现",
+      "外表"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "application",
+    "type": "word",
+    "translation": "应用；申请",
+    "analysis": "辞典扩充词条。常见含义为：应用；申请。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "应用",
+      "申请"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "apply",
+    "type": "word",
+    "translation": "应用；申请",
+    "analysis": "辞典扩充词条。常见含义为：应用；申请。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "应用",
+      "申请"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "appoint",
+    "type": "word",
+    "translation": "任命；指定",
+    "analysis": "辞典扩充词条。常见含义为：任命；指定。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "任命",
+      "指定"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "appreciate",
+    "type": "word",
+    "translation": "欣赏；感激",
+    "analysis": "辞典扩充词条。常见含义为：欣赏；感激。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "欣赏",
+      "感激"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "approach",
+    "type": "word",
+    "translation": "方法；接近",
+    "analysis": "辞典扩充词条。常见含义为：方法；接近。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "方法",
+      "接近"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "appropriate",
+    "type": "word",
+    "translation": "适当的；占用",
+    "analysis": "辞典扩充词条。常见含义为：适当的；占用。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "适当的",
+      "占用"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "approve",
+    "type": "word",
+    "translation": "批准；赞成",
+    "analysis": "辞典扩充词条。常见含义为：批准；赞成。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "批准",
+      "赞成"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "approximately",
+    "type": "word",
+    "translation": "大约；近似地",
+    "analysis": "辞典扩充词条。常见含义为：大约；近似地。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "大约",
+      "近似地"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "architect",
+    "type": "word",
+    "translation": "建筑师；架构师",
+    "analysis": "辞典扩充词条。常见含义为：建筑师；架构师。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建筑师",
+      "架构师"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "architecture",
+    "type": "word",
+    "translation": "建筑；架构",
+    "analysis": "辞典扩充词条。常见含义为：建筑；架构。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "建筑",
+      "架构"
+    ],
+    "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "missing",
+    "type": "word",
+    "translation": "缺失的；不见的；失踪的",
+    "analysis": "通常表示某个东西缺了、不在了、找不到了。既可以用于数据、文件、零件等缺失，也可以用于人失踪、不见了的情况。",
+    "phonetic": "/ˈmɪsɪŋ/",
+    "origin": "来自 miss（错过；失去；未命中）加 -ing，表示“缺失的、不见的”。",
+    "expansions": [
+      "missing data 缺失数据",
+      "missing file 缺失文件",
+      "go missing 失踪；不见",
+      "something is missing 有东西缺了"
+    ],
+    "pronunciation": "英式 /ˈmɪsɪŋ/，美式 /ˈmɪsɪŋ/",
+    "accepted_answers": [
+      "缺失的",
+      "不见的",
+      "失踪的"
+    ],
+    "added_at": "2026-03-30T09:11:17+0800",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "machine",
+    "type": "word",
+    "translation": "机器；机器装置",
+    "analysis": "辞典扩充词条。常见含义为：机器；机器装置。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "机器",
+      "机器装置"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "machinery",
+    "type": "word",
+    "translation": "机械；机器总称",
+    "analysis": "辞典扩充词条。常见含义为：机械；机器总称。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "机械",
+      "机器总称"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "magazine",
+    "type": "word",
+    "translation": "杂志；弹匣",
+    "analysis": "辞典扩充词条。常见含义为：杂志；弹匣。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "杂志",
+      "弹匣"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "magic",
+    "type": "word",
+    "translation": "魔法；神奇力量",
+    "analysis": "辞典扩充词条。常见含义为：魔法；神奇力量。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "魔法",
+      "神奇力量"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "magnetic",
+    "type": "word",
+    "translation": "磁性的",
+    "analysis": "辞典扩充词条。常见含义为：磁性的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "磁性的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "main",
+    "type": "word",
+    "translation": "主要的；主干",
+    "analysis": "辞典扩充词条。常见含义为：主要的；主干。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "主要的",
+      "主干"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "maintain",
+    "type": "word",
+    "translation": "维持；维护",
+    "analysis": "辞典扩充词条。常见含义为：维持；维护。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "维持",
+      "维护"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "maintenance",
+    "type": "word",
+    "translation": "维护；保养",
+    "analysis": "辞典扩充词条。常见含义为：维护；保养。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "维护",
+      "保养"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "major",
+    "type": "word",
+    "translation": "主要的；专业",
+    "analysis": "辞典扩充词条。常见含义为：主要的；专业。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "主要的",
+      "专业"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "majority",
+    "type": "word",
+    "translation": "大多数",
+    "analysis": "辞典扩充词条。常见含义为：大多数。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "大多数"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "make",
+    "type": "word",
+    "translation": "制作；使得",
+    "analysis": "辞典扩充词条。常见含义为：制作；使得。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "制作",
+      "使得"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "management",
+    "type": "word",
+    "translation": "管理",
+    "analysis": "辞典扩充词条。常见含义为：管理。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "管理"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manager",
+    "type": "word",
+    "translation": "经理；管理者",
+    "analysis": "辞典扩充词条。常见含义为：经理；管理者。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "经理",
+      "管理者"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mandatory",
+    "type": "word",
+    "translation": "强制的；必须的",
+    "analysis": "辞典扩充词条。常见含义为：强制的；必须的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "强制的",
+      "必须的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manifest",
+    "type": "word",
+    "translation": "表现；清单",
+    "analysis": "辞典扩充词条。常见含义为：表现；清单。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "表现",
+      "清单"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manipulate",
+    "type": "word",
+    "translation": "操纵；操作",
+    "analysis": "辞典扩充词条。常见含义为：操纵；操作。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "操纵",
+      "操作"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manner",
+    "type": "word",
+    "translation": "方式；举止",
+    "analysis": "辞典扩充词条。常见含义为：方式；举止。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "方式",
+      "举止"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manual",
+    "type": "word",
+    "translation": "手册；手动的",
+    "analysis": "辞典扩充词条。常见含义为：手册；手动的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "手册",
+      "手动的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manufacture",
+    "type": "word",
+    "translation": "制造；生产",
+    "analysis": "辞典扩充词条。常见含义为：制造；生产。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "制造",
+      "生产"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "manufacturer",
+    "type": "word",
+    "translation": "制造商",
+    "analysis": "辞典扩充词条。常见含义为：制造商。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "制造商"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "margin",
+    "type": "word",
+    "translation": "边缘；余地",
+    "analysis": "辞典扩充词条。常见含义为：边缘；余地。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "边缘",
+      "余地"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "marine",
+    "type": "word",
+    "translation": "海洋的；海军陆战队员",
+    "analysis": "辞典扩充词条。常见含义为：海洋的；海军陆战队员。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "海洋的",
+      "海军陆战队员"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "market",
+    "type": "word",
+    "translation": "市场；营销",
+    "analysis": "辞典扩充词条。常见含义为：市场；营销。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "市场",
+      "营销"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "marketing",
+    "type": "word",
+    "translation": "市场营销",
+    "analysis": "辞典扩充词条。常见含义为：市场营销。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "市场营销"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "marriage",
+    "type": "word",
+    "translation": "婚姻",
+    "analysis": "辞典扩充词条。常见含义为：婚姻。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "婚姻"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "massive",
+    "type": "word",
+    "translation": "巨大的；大量的",
+    "analysis": "辞典扩充词条。常见含义为：巨大的；大量的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "巨大的",
+      "大量的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "master",
+    "type": "word",
+    "translation": "掌握；大师",
+    "analysis": "辞典扩充词条。常见含义为：掌握；大师。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "掌握",
+      "大师"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "match",
+    "type": "word",
+    "translation": "匹配；比赛",
+    "analysis": "辞典扩充词条。常见含义为：匹配；比赛。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "匹配",
+      "比赛"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "material",
+    "type": "word",
+    "translation": "材料；物质",
+    "analysis": "辞典扩充词条。常见含义为：材料；物质。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "材料",
+      "物质"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mathematics",
+    "type": "word",
+    "translation": "数学",
+    "analysis": "辞典扩充词条。常见含义为：数学。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "数学"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "matter",
+    "type": "word",
+    "translation": "事情；物质",
+    "analysis": "辞典扩充词条。常见含义为：事情；物质。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "事情",
+      "物质"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mature",
+    "type": "word",
+    "translation": "成熟的；成熟",
+    "analysis": "辞典扩充词条。常见含义为：成熟的；成熟。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "成熟的",
+      "成熟"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "maximum",
+    "type": "word",
+    "translation": "最大值；最大的",
+    "analysis": "辞典扩充词条。常见含义为：最大值；最大的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "最大值",
+      "最大的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mean",
+    "type": "word",
+    "translation": "意思是；吝啬的",
+    "analysis": "辞典扩充词条。常见含义为：意思是；吝啬的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "意思是",
+      "吝啬的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "meaning",
+    "type": "word",
+    "translation": "意义；含义",
+    "analysis": "辞典扩充词条。常见含义为：意义；含义。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "意义",
+      "含义"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "measure",
+    "type": "word",
+    "translation": "衡量；措施",
+    "analysis": "辞典扩充词条。常见含义为：衡量；措施。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "衡量",
+      "措施"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mechanism",
+    "type": "word",
+    "translation": "机制；机械装置",
+    "analysis": "辞典扩充词条。常见含义为：机制；机械装置。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "机制",
+      "机械装置"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "media",
+    "type": "word",
+    "translation": "媒体",
+    "analysis": "辞典扩充词条。常见含义为：媒体。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "媒体"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "medical",
+    "type": "word",
+    "translation": "医学的；医疗的",
+    "analysis": "辞典扩充词条。常见含义为：医学的；医疗的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "医学的",
+      "医疗的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "medicine",
+    "type": "word",
+    "translation": "医学；药物",
+    "analysis": "辞典扩充词条。常见含义为：医学；药物。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "医学",
+      "药物"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "medium",
+    "type": "word",
+    "translation": "中等的；媒介",
+    "analysis": "辞典扩充词条。常见含义为：中等的；媒介。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "中等的",
+      "媒介"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "meeting",
+    "type": "word",
+    "translation": "会议；会面",
+    "analysis": "辞典扩充词条。常见含义为：会议；会面。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "会议",
+      "会面"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "member",
+    "type": "word",
+    "translation": "成员",
+    "analysis": "辞典扩充词条。常见含义为：成员。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "成员"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "memory",
+    "type": "word",
+    "translation": "记忆；存储器",
+    "analysis": "辞典扩充词条。常见含义为：记忆；存储器。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "记忆",
+      "存储器"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mental",
+    "type": "word",
+    "translation": "精神的；心理的",
+    "analysis": "辞典扩充词条。常见含义为：精神的；心理的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "精神的",
+      "心理的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mention",
+    "type": "word",
+    "translation": "提到",
+    "analysis": "辞典扩充词条。常见含义为：提到。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "提到"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "message",
+    "type": "word",
+    "translation": "信息；消息",
+    "analysis": "辞典扩充词条。常见含义为：信息；消息。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "信息",
+      "消息"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "method",
+    "type": "word",
+    "translation": "方法",
+    "analysis": "辞典扩充词条。常见含义为：方法。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "方法"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "metric",
+    "type": "word",
+    "translation": "指标；米制的",
+    "analysis": "辞典扩充词条。常见含义为：指标；米制的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "指标",
+      "米制的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "micro",
+    "type": "word",
+    "translation": "微小的；微型的",
+    "analysis": "辞典扩充词条。常见含义为：微小的；微型的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "微小的",
+      "微型的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "middle",
+    "type": "word",
+    "translation": "中间；中间的",
+    "analysis": "辞典扩充词条。常见含义为：中间；中间的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "中间",
+      "中间的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "migration",
+    "type": "word",
+    "translation": "迁移；移居",
+    "analysis": "辞典扩充词条。常见含义为：迁移；移居。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "迁移",
+      "移居"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "military",
+    "type": "word",
+    "translation": "军事的；军队",
+    "analysis": "辞典扩充词条。常见含义为：军事的；军队。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "军事的",
+      "军队"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "minimum",
+    "type": "word",
+    "translation": "最小值；最低限度",
+    "analysis": "辞典扩充词条。常见含义为：最小值；最低限度。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "最小值",
+      "最低限度"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "minister",
+    "type": "word",
+    "translation": "部长；牧师",
+    "analysis": "辞典扩充词条。常见含义为：部长；牧师。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "部长",
+      "牧师"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "minor",
+    "type": "word",
+    "translation": "次要的；未成年人",
+    "analysis": "辞典扩充词条。常见含义为：次要的；未成年人。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "次要的",
+      "未成年人"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "minute",
+    "type": "word",
+    "translation": "分钟；细微的",
+    "analysis": "辞典扩充词条。常见含义为：分钟；细微的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "分钟",
+      "细微的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "miracle",
+    "type": "word",
+    "translation": "奇迹",
+    "analysis": "辞典扩充词条。常见含义为：奇迹。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "奇迹"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mirror",
+    "type": "word",
+    "translation": "镜子；反映",
+    "analysis": "辞典扩充词条。常见含义为：镜子；反映。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "镜子",
+      "反映"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mission",
+    "type": "word",
+    "translation": "任务；使命",
+    "analysis": "辞典扩充词条。常见含义为：任务；使命。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "任务",
+      "使命"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mobile",
+    "type": "word",
+    "translation": "移动的；手机",
+    "analysis": "辞典扩充词条。常见含义为：移动的；手机。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "移动的",
+      "手机"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mode",
+    "type": "word",
+    "translation": "模式；方式",
+    "analysis": "辞典扩充词条。常见含义为：模式；方式。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "模式",
+      "方式"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "model",
+    "type": "word",
+    "translation": "模型；模特",
+    "analysis": "辞典扩充词条。常见含义为：模型；模特。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "模型",
+      "模特"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "moderate",
+    "type": "word",
+    "translation": "适度的；缓和",
+    "analysis": "辞典扩充词条。常见含义为：适度的；缓和。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "适度的",
+      "缓和"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "modern",
+    "type": "word",
+    "translation": "现代的",
+    "analysis": "辞典扩充词条。常见含义为：现代的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "现代的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "module",
+    "type": "word",
+    "translation": "模块",
+    "analysis": "辞典扩充词条。常见含义为：模块。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "模块"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "monitor",
+    "type": "word",
+    "translation": "监控；显示器",
+    "analysis": "辞典扩充词条。常见含义为：监控；显示器。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "监控",
+      "显示器"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "month",
+    "type": "word",
+    "translation": "月份",
+    "analysis": "辞典扩充词条。常见含义为：月份。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "月份"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "moral",
+    "type": "word",
+    "translation": "道德的；寓意",
+    "analysis": "辞典扩充词条。常见含义为：道德的；寓意。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "道德的",
+      "寓意"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "motion",
+    "type": "word",
+    "translation": "运动；提议",
+    "analysis": "辞典扩充词条。常见含义为：运动；提议。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "运动",
+      "提议"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "motivate",
+    "type": "word",
+    "translation": "激励；促使",
+    "analysis": "辞典扩充词条。常见含义为：激励；促使。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "激励",
+      "促使"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mount",
+    "type": "word",
+    "translation": "安装；登上",
+    "analysis": "辞典扩充词条。常见含义为：安装；登上。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "安装",
+      "登上"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "movement",
+    "type": "word",
+    "translation": "运动；移动",
+    "analysis": "辞典扩充词条。常见含义为：运动；移动。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "运动",
+      "移动"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "multiple",
+    "type": "word",
+    "translation": "多个的；倍数",
+    "analysis": "辞典扩充词条。常见含义为：多个的；倍数。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "多个的",
+      "倍数"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "murder",
+    "type": "word",
+    "translation": "谋杀",
+    "analysis": "辞典扩充词条。常见含义为：谋杀。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "谋杀"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "muscle",
+    "type": "word",
+    "translation": "肌肉",
+    "analysis": "辞典扩充词条。常见含义为：肌肉。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "肌肉"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "museum",
+    "type": "word",
+    "translation": "博物馆",
+    "analysis": "辞典扩充词条。常见含义为：博物馆。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "博物馆"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "music",
+    "type": "word",
+    "translation": "音乐",
+    "analysis": "辞典扩充词条。常见含义为：音乐。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "音乐"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "musical",
+    "type": "word",
+    "translation": "音乐的；音乐剧",
+    "analysis": "辞典扩充词条。常见含义为：音乐的；音乐剧。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "音乐的",
+      "音乐剧"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mutual",
+    "type": "word",
+    "translation": "相互的",
+    "analysis": "辞典扩充词条。常见含义为：相互的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "相互的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "myself",
+    "type": "word",
+    "translation": "我自己",
+    "analysis": "辞典扩充词条。常见含义为：我自己。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "我自己"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "map",
+    "type": "word",
+    "translation": "地图；映射",
+    "analysis": "辞典扩充词条。常见含义为：地图；映射。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "地图",
+      "映射"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mask",
+    "type": "word",
+    "translation": "口罩；掩饰",
+    "analysis": "辞典扩充词条。常见含义为：口罩；掩饰。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "口罩",
+      "掩饰"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "matrix",
+    "type": "word",
+    "translation": "矩阵；母体",
+    "analysis": "辞典扩充词条。常见含义为：矩阵；母体。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "矩阵",
+      "母体"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "matter-of-fact",
+    "type": "word",
+    "translation": "实事求是的",
+    "analysis": "辞典扩充词条。常见含义为：实事求是的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "实事求是的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "maximize",
+    "type": "word",
+    "translation": "最大化",
+    "analysis": "辞典扩充词条。常见含义为：最大化。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "最大化"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "meaningful",
+    "type": "word",
+    "translation": "有意义的",
+    "analysis": "辞典扩充词条。常见含义为：有意义的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "有意义的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "meanwhile",
+    "type": "word",
+    "translation": "与此同时",
+    "analysis": "辞典扩充词条。常见含义为：与此同时。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "与此同时"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mechanical",
+    "type": "word",
+    "translation": "机械的",
+    "analysis": "辞典扩充词条。常见含义为：机械的。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "机械的"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "mediation",
+    "type": "word",
+    "translation": "调解；中介",
+    "analysis": "辞典扩充词条。常见含义为：调解；中介。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "调解",
+      "中介"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "melody",
+    "type": "word",
+    "translation": "旋律",
+    "analysis": "辞典扩充词条。常见含义为：旋律。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "旋律"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "memo",
+    "type": "word",
+    "translation": "备忘录",
+    "analysis": "辞典扩充词条。常见含义为：备忘录。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "备忘录"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "merchant",
+    "type": "word",
+    "translation": "商人",
+    "analysis": "辞典扩充词条。常见含义为：商人。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "商人"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "merge",
+    "type": "word",
+    "translation": "合并",
+    "analysis": "辞典扩充词条。常见含义为：合并。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "合并"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "merit",
+    "type": "word",
+    "translation": "优点；价值",
+    "analysis": "辞典扩充词条。常见含义为：优点；价值。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "优点",
+      "价值"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "messenger",
+    "type": "word",
+    "translation": "信使；消息工具",
+    "analysis": "辞典扩充词条。常见含义为：信使；消息工具。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "信使",
+      "消息工具"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "metaphor",
+    "type": "word",
+    "translation": "隐喻",
+    "analysis": "辞典扩充词条。常见含义为：隐喻。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "隐喻"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "meteor",
+    "type": "word",
+    "translation": "流星",
+    "analysis": "辞典扩充词条。常见含义为：流星。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "流星"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "methodology",
+    "type": "word",
+    "translation": "方法论",
+    "analysis": "辞典扩充词条。常见含义为：方法论。",
+    "phonetic": "",
+    "origin": "",
+    "expansions": [],
+    "pronunciation": "",
+    "accepted_answers": [
+      "方法论"
+    ],
+    "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  }
+]

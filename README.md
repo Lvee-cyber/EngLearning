@@ -6,6 +6,8 @@
 
 - `data/words.json`
   由本地维护并提交到 GitHub，作为词条内容源
+- `data/dictionary.json`
+  由本地维护并提交到 GitHub，作为本地辞典查询源
 - `Supabase review_progress`
   由网页端读写，用于多端同步复习进度
 
@@ -17,6 +19,8 @@
   统一词库。
 - [review.html](/Users/levelee/Documents/CodeX_co/EngLearning/review.html)
   复习页。
+- [dictionary.html](/Users/levelee/Documents/CodeX_co/EngLearning/dictionary.html)
+  本地辞典查询页。
 - [words.html](/Users/levelee/Documents/CodeX_co/EngLearning/words.html)
   词库查看页。
 - [site-config.js](/Users/levelee/Documents/CodeX_co/EngLearning/site-config.js)
@@ -39,6 +43,7 @@
 ## 当前数据流
 
 - 词库查看页和复习页都通过 `fetch('./data/words.json')` 读取词条内容。
+- 辞典查询页通过 `fetch('./data/dictionary.json')` 读取本地辞典内容。
 - 复习进度通过 Supabase 表 `review_progress` 读取和写入。
 - 不同设备只要填写同一个“同步标识”，就会读取同一份复习进度。
 - 熟词判定规则：`correct_count >= 10`。
@@ -49,3 +54,5 @@
   支持拼写复习、结果弹窗、键盘操作、多端同步。
 - [words.html](/Users/levelee/Documents/CodeX_co/EngLearning/words.html)
   支持查看词库、搜索、筛选待复习/熟词/高错词。
+- [dictionary.html](/Users/levelee/Documents/CodeX_co/EngLearning/dictionary.html)
+  支持按单词精确查询本地辞典，未命中时显示“本地辞典查无此词”。

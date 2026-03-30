@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>本地辞典查询</title>
+    <link rel="stylesheet" href="./review.css" />
+    <script src="./site-config.js"></script>
+  </head>
+  <body>
+    <main class="page">
+      <section class="panel words-hero">
+        <div class="words-hero-row">
+          <div>
+            <p class="eyebrow">Local Dictionary</p>
+            <h1 class="words-title">查本地辞典</h1>
+            <p class="intro">查询源来自 GitHub 仓库中的 <code>data/dictionary.json</code>。输入英文单词后，页面会在本地辞典中精确匹配并呈现词条内容。</p>
+          </div>
+          <div class="words-nav">
+            <a class="secondary-button link-button" href="./words.html">查看词库</a>
+            <a class="secondary-button link-button" href="./review.html">返回复习</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="dictionary-form">
+          <div class="setup-field">
+            <label class="label" for="dictionary-search">待查询单词</label>
+            <input id="dictionary-search" class="control text-control" type="search" placeholder="例如 streamline" autocomplete="off" />
+          </div>
+          <div class="dictionary-actions">
+            <button id="dictionary-submit" class="primary-button" type="button">查询</button>
+            <button id="dictionary-clear" class="secondary-button" type="button">清空</button>
+          </div>
+        </div>
+        <p id="dictionary-status" class="status-text">正在读取本地辞典。</p>
+      </section>
+
+      <section class="panel dictionary-panel">
+        <p id="dictionary-summary" class="dictionary-summary status-text"></p>
+        <div id="dictionary-result"></div>
+      </section>
+    </main>
+
+    <script src="./dictionary.js" defer></script>
+  </body>
+</html>

@@ -23,6 +23,7 @@ const elements = {
   restartButton: document.querySelector("#restart-button"),
   exitButton: document.querySelector("#exit-button"),
   wordsButton: document.querySelector("#words-button"),
+  dictionaryButton: document.querySelector("#dictionary-button"),
   reviewCount: document.querySelector("#review-count"),
   profileIdInput: document.querySelector("#profile-id"),
   setupStatus: document.querySelector("#setup-status"),
@@ -542,6 +543,10 @@ function openWordsPage() {
   window.location.href = "./words.html";
 }
 
+function openDictionaryPage() {
+  window.location.href = "./dictionary.html";
+}
+
 elements.startButton.addEventListener("click", () => {
   startReview().catch((error) => updateSetupStatus(`开始复习失败：${error.message}`));
 });
@@ -554,6 +559,7 @@ elements.restartButton.addEventListener("click", () => {
 });
 elements.exitButton.addEventListener("click", exitToHome);
 elements.wordsButton?.addEventListener("click", openWordsPage);
+elements.dictionaryButton?.addEventListener("click", openDictionaryPage);
 elements.profileIdInput.addEventListener("change", async () => {
   saveProfileId();
   try {
