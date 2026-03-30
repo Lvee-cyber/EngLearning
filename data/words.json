@@ -1546,5 +1546,144 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "quantity",
+    "type": "word",
+    "translation": "数量；量；数额",
+    "analysis": "这个词表示“事物有多少”，强调数量上的多少，而不强调质量。它既可以用于可数事物，也可以用于不可数事物，常见于日常表达、数学、商业、统计和学术语境。",
+    "phonetic": "/ˈkwɒntəti/; /ˈkwɑːntəti/",
+    "origin": "来自拉丁语 quantitas，意思是“多少、量的大小”，后来进入英语表示“数量、数额”。",
+    "expansions": [
+      "a large quantity of 大量的",
+      "in quantity 大量地；批量地",
+      "quantity over quality 重数量轻质量",
+      "the quantity of data 数据量",
+      "increase the quantity 增加数量"
+    ],
+    "pronunciation": "英式 /ˈkwɒntəti/，美式 /ˈkwɑːntəti/",
+    "accepted_answers": [
+      "数量",
+      "量",
+      "数额"
+    ],
+    "added_at": "2026-03-30T16:03:47+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "judge",
+    "type": "word",
+    "translation": "法官；裁判；判断；评判",
+    "analysis": "这个词既可以作名词，也可以作动词。作名词时表示“法官”或“比赛裁判”；作动词时表示“判断、评判、判定”。它既能用于法律语境，也能用于日常评价、比赛评分和个人判断。",
+    "phonetic": "/dʒʌdʒ/",
+    "origin": "来自古法语 juger，再上溯到拉丁语 judicare，核心含义是“作出判断、裁定”。",
+    "expansions": [
+      "judge a case 审理案件",
+      "judge by appearance 以外表判断",
+      "do not judge too quickly 不要过快下结论",
+      "a judge in court 法院法官",
+      "judge the quality 判断质量"
+    ],
+    "pronunciation": "英式 /dʒʌdʒ/，美式 /dʒʌdʒ/",
+    "accepted_answers": [
+      "法官",
+      "裁判",
+      "判断",
+      "评判"
+    ],
+    "added_at": "2026-03-30T16:04:57+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "quit",
+    "type": "word",
+    "translation": "离开；退出；停止；辞职；戒掉",
+    "analysis": "这个词既可以表示“离开某个地方或职位”，也可以表示“停止做某事”。在日常英语里非常常见，语气通常比 resign 更口语化。",
+    "phonetic": "/kwɪt/",
+    "origin": "来自古法语 quiter，后进入英语，核心含义是“离开、释放、停止不再继续”。",
+    "expansions": [
+      "quit your job 辞去工作",
+      "quit smoking 戒烟",
+      "quit worrying 停止担心",
+      "quit the program 退出程序",
+      "never quit 永不放弃"
+    ],
+    "pronunciation": "英式 /kwɪt/，美式 /kwɪt/",
+    "accepted_answers": [
+      "离开",
+      "退出",
+      "停止",
+      "辞职",
+      "戒掉"
+    ],
+    "added_at": "2026-03-30T16:05:55+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "zero",
+    "type": "word",
+    "translation": "零；零点；完全没有；归零",
+    "analysis": "这个词既可以作名词、形容词，也可以作动词。作名词时表示数字 0 或“零”；作形容词时表示“没有的、零的”；作动词时表示“把数值调到零”或“归零”。它常用于数学、数据、设备、金融和日常表达中。",
+    "phonetic": "/ˈzɪərəʊ/; /ˈzɪroʊ/",
+    "origin": "来自法语 zéro，更早可追溯到阿拉伯语和意大利语中表示“空、零”的词，后来进入英语表示数字零。",
+    "expansions": [
+      "zero growth 零增长",
+      "zero tolerance 零容忍",
+      "zero in on something 集中注意于某事",
+      "start from zero 从零开始",
+      "zero the meter 把仪表归零"
+    ],
+    "pronunciation": "英式 /ˈzɪərəʊ/，美式 /ˈzɪroʊ/",
+    "accepted_answers": [
+      "零",
+      "零点",
+      "完全没有",
+      "归零"
+    ],
+    "added_at": "2026-03-30T16:07:00+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "rescue",
+    "type": "word",
+    "translation": "营救；救援；解救",
+    "analysis": "这个词既可以作动词，也可以作名词。作动词时表示“把人或物从危险、困境中救出来”；作名词时表示“救援行为”或“营救行动”。它常见于灾难、事故、战争、动物救助、医疗急救等语境，也可以用于比喻义，表示“把某事从糟糕局面中挽回”。",
+    "phonetic": "/ˈreskjuː/",
+    "origin": "来自拉丁语 rescutere 的相关演变路径，后经法语进入英语，核心含义是“救出、解救”。",
+    "expansions": [
+      "rescue workers 救援人员",
+      "rescue a victim 营救受害者",
+      "animal rescue 动物救助",
+      "come to the rescue 前来救援；挺身相助",
+      "rescue mission 救援任务"
+    ],
+    "pronunciation": "英式 /ˈreskjuː/，美式 /ˈreskjuː/",
+    "accepted_answers": [
+      "营救",
+      "救援",
+      "解救"
+    ],
+    "added_at": "2026-03-30T16:09:04+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
