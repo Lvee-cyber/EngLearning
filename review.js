@@ -19,6 +19,7 @@ const state = {
   historyVisible: false,
   currentSessionId: "",
   currentSessionStartedAt: "",
+  currentSlotChars: [],
 };
 
 const elements = {
@@ -619,7 +620,17 @@ function focusSlot(index) {
 }
 
 function getTypedTailFromSlots() {
-  return getSlotInputs().map((input) => input.value.trim()).join("");
+  const inputs = getSlotInputs();
+  let inputIndex = 0;
+  return state.currentSlotChars
+    .slice(1)
+    .map((char) => {
+      if (char === " ") return " ";
+      const input = inputs[inputIndex];
+      inputIndex += 1;
+      return input ? input.value.trim() : "";
+    })
+    .join("");
 }
 
 function handleSlotInput(event) {
@@ -687,11 +698,18 @@ function handleSlotPaste(event) {
 
 function renderSpellingSlots(term) {
   const chars = [...term];
+  state.currentSlotChars = chars;
+  let editableIndex = -1;
   const slotsHtml = [
     `<span class="slot-fixed">${escapeHtml(chars[0] || "")}</span>`,
     ...chars.slice(1).map(
-      (_, index) =>
-        `<input class="slot-input" data-index="${index}" maxlength="1" inputmode="text" autocapitalize="off" autocomplete="off" spellcheck="false" aria-label="第 ${index + 2} 个字母" />`,
+      (char, index) =>
+        char === " "
+          ? `<span class="slot-gap" aria-hidden="true"></span>`
+          : (() => {
+              editableIndex += 1;
+              return `<input class="slot-input" data-index="${editableIndex}" maxlength="1" inputmode="text" autocapitalize="off" autocomplete="off" spellcheck="false" aria-label="第 ${index + 2} 个字符" />`;
+            })(),
     ),
   ].join("");
 

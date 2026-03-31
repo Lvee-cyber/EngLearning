@@ -1712,5 +1712,256 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "entry",
+    "type": "word",
+    "translation": "进入；入口；条目；登记项；参赛作品",
+    "analysis": "这个词很常见，既可以表示“进入、入场”这个动作或资格，也可以表示“入口、通道”，还可以表示“词典条目、记录项、报名项”等。",
+    "phonetic": "/ˈentri/",
+    "origin": "来自古法语 entree，和“进入”有关，后来进入英语后发展出“入口、进入、条目”等多个含义。",
+    "expansions": [
+      "entry point 入口点；切入点",
+      "gain entry 获准进入",
+      "dictionary entry 词典条目",
+      "data entry 数据录入",
+      "an entry in a competition 比赛参赛作品"
+    ],
+    "pronunciation": "英式 /ˈentri/，美式 /ˈentri/",
+    "accepted_answers": [
+      "进入",
+      "入口",
+      "条目",
+      "登记项",
+      "参赛作品"
+    ],
+    "added_at": "2026-03-31T09:30:47+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "interpret",
+    "type": "word",
+    "translation": "解释；说明；诠释；口译；理解",
+    "analysis": "这个词既可以表示“解释某件事的含义”，也可以表示“对文本、现象、数据或行为作出理解和诠释”。在语言场景中，它还可以表示“口译”。",
+    "phonetic": "/ɪnˈtɜːprɪt/; /ɪnˈtɝːprət/",
+    "origin": "来自拉丁语 interpretari，核心含义是“解释、说明、充当中间解释者”。",
+    "expansions": [
+      "interpret the results 解读结果",
+      "interpret data correctly 正确解释数据",
+      "interpret a speech 为演讲做口译",
+      "how do you interpret this? 你如何理解这个？",
+      "interpret the law 解释法律"
+    ],
+    "pronunciation": "英式 /ɪnˈtɜːprɪt/，美式 /ɪnˈtɝːprət/",
+    "accepted_answers": [
+      "解释",
+      "说明",
+      "诠释",
+      "口译",
+      "理解"
+    ],
+    "added_at": "2026-03-31T09:32:37+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "converge",
+    "type": "word",
+    "translation": "汇聚；会合；趋同；集中于",
+    "analysis": "这个词表示多个事物朝同一个点、方向或结果靠近。它既可以用于物理空间上的汇合，也常用于抽象意义上的观点趋同、趋势收敛或注意力集中。",
+    "phonetic": "/kənˈvɜːdʒ/; /kənˈvɝːdʒ/",
+    "origin": "来自拉丁语 convergere，由 con-（共同）和与“转向、倾斜”相关的词根组成，核心含义是“向同一方向靠拢、汇集”。",
+    "expansions": [
+      "converge on a point 汇聚到一点",
+      "ideas converge 想法趋同",
+      "converge toward the same result 趋向同一结果",
+      "attention converges on the issue 注意力集中到这个问题上",
+      "parallel trends begin to converge 平行趋势开始收敛"
+    ],
+    "pronunciation": "英式 /kənˈvɜːdʒ/，美式 /kənˈvɝːdʒ/",
+    "accepted_answers": [
+      "汇聚",
+      "会合",
+      "趋同",
+      "集中于"
+    ],
+    "added_at": "2026-03-31T09:33:33+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "retention",
+    "type": "word",
+    "translation": "保留；保持；留存；记忆保持",
+    "analysis": "这个词表示“把某物保持住，不让其流失或消失”。它可以用于知识与记忆保持、客户留存、员工留任、权利或资料保留等多种语境，核心含义是持续保有。",
+    "phonetic": "/rɪˈtenʃən/",
+    "origin": "来自拉丁语 retentio，与“保留、 удерж住”相关，后来进入英语表示保留、维持、留存。",
+    "expansions": [
+      "memory retention 记忆保持",
+      "customer retention 客户留存",
+      "employee retention 员工留任",
+      "retention rate 留存率",
+      "knowledge retention 知识保持"
+    ],
+    "pronunciation": "英式 /rɪˈtenʃən/，美式 /rɪˈtenʃən/",
+    "accepted_answers": [
+      "保留",
+      "保持",
+      "留存",
+      "记忆保持"
+    ],
+    "added_at": "2026-03-31T09:34:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "valuation",
+    "type": "word",
+    "translation": "估价；估值；评价",
+    "analysis": "这个词通常表示对某个事物的价值进行评估或判定。它在金融、商业、会计、房地产和一般评价语境中都很常见。在投资语境中，valuation 常特指企业估值或资产估值。",
+    "phonetic": "/ˌvæljuˈeɪʃən/",
+    "origin": "来自 value 加名词后缀 -ation，表示“估值、评价这一过程或结果”。",
+    "expansions": [
+      "company valuation 公司估值",
+      "asset valuation 资产估值",
+      "market valuation 市场估值",
+      "valuation method 估值方法",
+      "a high valuation 较高的估值"
+    ],
+    "pronunciation": "英式 /ˌvæljuˈeɪʃən/，美式 /ˌvæljuˈeɪʃən/",
+    "accepted_answers": [
+      "估价",
+      "估值",
+      "评价"
+    ],
+    "added_at": "2026-03-31T09:38:37+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "regulator",
+    "type": "word",
+    "translation": "监管者；调节器；稳压器；管理机构",
+    "analysis": "这个词表示负责控制、调节或监督某个系统、过程或行业的人或装置。既可指金融或市场监管机构，也可指用于调节电压、温度、压力等的设备。核心含义是使某事保持在可控范围内。",
+    "phonetic": "/ˈreɡjʊleɪtə/; /ˈreɡjəleɪtər/",
+    "origin": "来自 regulate 加名词后缀 -or，表示进行调节或监管的人或装置。",
+    "expansions": [
+      "financial regulator 金融监管机构",
+      "market regulator 市场监管者",
+      "voltage regulator 稳压器",
+      "temperature regulator 温度调节器",
+      "act as a regulator 起到调节或监管作用"
+    ],
+    "pronunciation": "英式 /ˈreɡjʊleɪtə/，美式 /ˈreɡjəleɪtər/",
+    "accepted_answers": [
+      "监管者",
+      "调节器",
+      "稳压器",
+      "管理机构"
+    ],
+    "added_at": "2026-03-31T09:41:53+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sovereign",
+    "type": "word",
+    "translation": "主权的；拥有最高权力的；君主；最高统治者",
+    "analysis": "这个词既可以作形容词，也可以作名词。作形容词时表示拥有主权的、独立自主的、最高权力的；作名词时表示君主或最高统治者。它常见于政治、法律、国际关系和历史语境中。",
+    "phonetic": "/ˈsɒvrɪn/; /ˈsɑːvrɪn/",
+    "origin": "来自古法语 soverain，进一步可追溯到拉丁语 superanus，核心含义是“处于最高位置的、至上的”。",
+    "expansions": [
+      "a sovereign state 主权国家",
+      "sovereign power 主权权力",
+      "national sovereign rights 国家主权权利",
+      "the sovereign ruler 最高统治者",
+      "sovereign wealth fund 主权财富基金"
+    ],
+    "pronunciation": "英式 /ˈsɒvrɪn/，美式 /ˈsɑːvrɪn/",
+    "accepted_answers": [
+      "主权的",
+      "拥有最高权力的",
+      "君主",
+      "最高统治者"
+    ],
+    "added_at": "2026-03-31T09:42:48+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "moat",
+    "type": "word",
+    "translation": "护城河；壕沟；护城壕；竞争壁垒",
+    "analysis": "这个词本义是城堡或城墙周围的护城河。在现代商业和投资语境里，它常被引申为竞争壁垒，表示公司拥有难以被对手复制的优势。",
+    "phonetic": "/məʊt/; /moʊt/",
+    "origin": "来自中古英语和古法语中与“沟渠、壕沟”相关的词，最初指防御性水沟，后来在商业语境中被引申为护城河式的竞争优势。",
+    "expansions": [
+      "a castle moat 城堡护城河",
+      "economic moat 经济护城河；竞争壁垒",
+      "build a moat 建立竞争壁垒",
+      "a wide moat business 拥有强大壁垒的企业",
+      "defend the moat 守住竞争优势"
+    ],
+    "pronunciation": "英式 /məʊt/，美式 /moʊt/",
+    "accepted_answers": [
+      "护城河",
+      "壕沟",
+      "护城壕",
+      "竞争壁垒"
+    ],
+    "added_at": "2026-03-31T09:51:12+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "phish",
+    "type": "word",
+    "translation": "进行网络钓鱼；冒充骗取信息",
+    "analysis": "这个词通常作动词使用，指通过伪装成可信对象来骗取密码、银行卡信息、验证码或其他敏感数据。它主要出现在网络安全和反诈骗语境中。",
+    "phonetic": "/fɪʃ/",
+    "origin": "这是现代网络时代的新词，和 fish 发音相同，通过类比“钓鱼”引申出“在网络上钓取信息”的含义。",
+    "expansions": [
+      "phish for passwords 骗取密码",
+      "phish users through email 通过邮件对用户实施钓鱼",
+      "a phishing attack 网络钓鱼攻击",
+      "phish a victim 对受害者实施钓鱼欺骗",
+      "phishing scam 钓鱼诈骗"
+    ],
+    "pronunciation": "英式 /fɪʃ/，美式 /fɪʃ/",
+    "accepted_answers": [
+      "进行网络钓鱼",
+      "冒充骗取信息"
+    ],
+    "added_at": "2026-03-31T09:52:12+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

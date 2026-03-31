@@ -757,6 +757,12 @@ p {
   vertical-align: bottom;
 }
 
+.slot-gap {
+  width: 20px;
+  height: 72px;
+  flex: 0 0 20px;
+}
+
 .slot-fixed {
   display: inline-flex;
   align-items: center;
@@ -1574,6 +1580,12 @@ code {
     font-size: 36px;
     padding: 4px 0 6px;
   }
+
+  .slot-gap {
+    width: 14px;
+    height: 58px;
+    flex-basis: 14px;
+  }
 }
 
 @media (max-width: 430px) {
@@ -1977,6 +1989,12 @@ code {
     height: 38px;
     padding: 2px 0 4px;
     font-size: 24px;
+  }
+
+  .slot-gap {
+    width: 8px;
+    height: 38px;
+    flex-basis: 8px;
   }
 
   .slot-input {
