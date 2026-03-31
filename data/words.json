@@ -1963,5 +1963,199 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "inference",
+    "type": "word",
+    "translation": "推断；推理；推论",
+    "analysis": "这个词表示根据已有信息、证据或线索得出结论。它常见于逻辑、阅读理解、学术分析、法律论证和人工智能语境中。核心含义是根据事实或线索推出来，而不是直接看到答案。",
+    "phonetic": "/ˈɪnfərəns/",
+    "origin": "来自拉丁语 inferre 的相关演变形式，核心意思是“带来、引出”，后来发展为“由事实引出结论”。",
+    "expansions": [
+      "draw an inference 得出推论",
+      "make an inference from the data 根据数据进行推断",
+      "logical inference 逻辑推理",
+      "inference engine 推理引擎",
+      "model inference 模型推理"
+    ],
+    "pronunciation": "英式 /ˈɪnfərəns/，美式 /ˈɪnfərəns/",
+    "accepted_answers": [
+      "推断",
+      "推理",
+      "推论"
+    ],
+    "added_at": "2026-03-31T10:21:52+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "phase",
+    "type": "word",
+    "translation": "阶段；时期；相位；分阶段进行",
+    "analysis": "这个词最常见的意思是某个过程中的阶段或时期。它既可以表示发展过程中的某一阶段，也可以在 phase in/phase out 结构中表示分阶段引入或逐步淘汰。",
+    "phonetic": "/feɪz/",
+    "origin": "来自希腊语 phasis，原义与显现、出现有关，后来进入英语后发展出阶段、相位等含义。",
+    "expansions": [
+      "the first phase 第一阶段",
+      "in the early phase 在早期阶段",
+      "phase in a new policy 分阶段推行新政策",
+      "phase out old technology 逐步淘汰旧技术",
+      "phase difference 相位差"
+    ],
+    "pronunciation": "英式 /feɪz/，美式 /feɪz/",
+    "accepted_answers": [
+      "阶段",
+      "时期",
+      "相位",
+      "分阶段进行"
+    ],
+    "added_at": "2026-03-31T10:22:53+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "orchestration",
+    "type": "word",
+    "translation": "编排；协调；统筹；管弦乐配器",
+    "analysis": "这个词表示把多个部分有组织地协调起来，使其按预期方式协同运作。它既可以用于音乐语境，也常用于技术、项目管理和系统设计语境。",
+    "phonetic": "/ˌɔːkɪˈstreɪʃən/; /ˌɔːrkɪˈstreɪʃən/",
+    "origin": "来自 orchestrate 加名词后缀 -ion。词根与 orchestra 有关，最早和乐队编排相关，后来引申为对复杂系统或流程的统筹协调。",
+    "expansions": [
+      "workflow orchestration 工作流编排",
+      "service orchestration 服务编排",
+      "container orchestration 容器编排",
+      "the orchestration of resources 资源统筹调度",
+      "musical orchestration 音乐配器"
+    ],
+    "pronunciation": "英式 /ˌɔːkɪˈstreɪʃən/，美式 /ˌɔːrkɪˈstreɪʃən/",
+    "accepted_answers": [
+      "编排",
+      "协调",
+      "统筹",
+      "管弦乐配器"
+    ],
+    "added_at": "2026-03-31T10:23:57+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "segmentation",
+    "type": "word",
+    "translation": "分割；划分；分段；细分",
+    "analysis": "这个词表示把整体拆分成若干部分或类别。它常见于技术、图像处理、市场营销、用户分析和语言学语境中，核心意思是为了分析、管理或处理，把整体切分成更小的单元。",
+    "phonetic": "/ˌseɡmenˈteɪʃən/; /ˌseɡmənˈteɪʃən/",
+    "origin": "来自 segment 加名词后缀 -ation，表示“分割、划分这一过程或结果”。",
+    "expansions": [
+      "market segmentation 市场细分",
+      "customer segmentation 客户细分",
+      "image segmentation 图像分割",
+      "text segmentation 文本分段",
+      "segmentation strategy 细分策略"
+    ],
+    "pronunciation": "英式 /ˌseɡmenˈteɪʃən/，美式 /ˌseɡmənˈteɪʃən/",
+    "accepted_answers": [
+      "分割",
+      "划分",
+      "分段",
+      "细分"
+    ],
+    "added_at": "2026-03-31T10:24:59+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "orbital",
+    "type": "word",
+    "translation": "轨道的；眼眶的；环绕轨道运行的",
+    "analysis": "这个词通常作形容词，表示与轨道有关或环绕某物运行的。在天文和航天语境里常指轨道相关事物，在医学里也可指眼眶的、与眼窝有关的结构。",
+    "phonetic": "/ˈɔːbɪtəl/; /ˈɔːrbɪtəl/",
+    "origin": "来自 orbit 加形容词后缀 -al，表示与轨道或眼眶相关的。orbit 本身可追溯到拉丁语，含有轨道、圆周路径的意思。",
+    "expansions": [
+      "orbital motion 轨道运动",
+      "orbital path 轨道路径",
+      "orbital satellite 轨道卫星",
+      "orbital bone 眼眶骨",
+      "orbital mechanics 轨道力学"
+    ],
+    "pronunciation": "英式 /ˈɔːbɪtəl/，美式 /ˈɔːrbɪtəl/",
+    "accepted_answers": [
+      "轨道的",
+      "眼眶的",
+      "环绕轨道运行的"
+    ],
+    "added_at": "2026-03-31T10:34:35+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "rhetoric",
+    "type": "word",
+    "translation": "修辞；修辞学；华丽空洞的言辞；话术",
+    "analysis": "这个词既可以是中性词，也可以带有贬义，具体要看语境。中性时指修辞表达方式或修辞学；贬义时常指华而不实、只停留在口头上的说辞。",
+    "phonetic": "/ˈretərɪk/",
+    "origin": "来自希腊语 rhētorikē，原本指演说术、修辞术，后来进入拉丁语和英语，发展为修辞以及带有说服性的话语风格。",
+    "expansions": [
+      "political rhetoric 政治修辞；政治话语",
+      "empty rhetoric 空洞言辞",
+      "rhetoric and reality 言辞与现实",
+      "rhetorical strategy 修辞策略",
+      "anti-war rhetoric 反战言论"
+    ],
+    "pronunciation": "英式 /ˈretərɪk/，美式 /ˈretərɪk/",
+    "accepted_answers": [
+      "修辞",
+      "修辞学",
+      "华丽空洞的言辞",
+      "话术"
+    ],
+    "added_at": "2026-03-31T10:38:58+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "equity",
+    "type": "word",
+    "translation": "公平；公正；股权；净资产",
+    "analysis": "这个词有两个非常常见的大方向含义：一是社会、法律、教育语境中的公平公正，二是金融、投资、会计语境中的股权、权益或净资产。理解时要特别依赖上下文。",
+    "phonetic": "/ˈekwɪti/; /ˈekwəti/",
+    "origin": "来自拉丁语 aequitas，与平等、公平、均衡有关，后来进入法律、道德和金融语境，发展出“公平”和“权益/股权”两大含义。",
+    "expansions": [
+      "equity market 股票市场",
+      "private equity 私募股权",
+      "shareholder equity 股东权益",
+      "equity and fairness 公平与公正",
+      "promote educational equity 促进教育公平"
+    ],
+    "pronunciation": "英式 /ˈekwɪti/，美式 /ˈekwəti/",
+    "accepted_answers": [
+      "公平",
+      "公正",
+      "股权",
+      "净资产"
+    ],
+    "added_at": "2026-03-31T10:39:59+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
