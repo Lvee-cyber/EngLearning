@@ -2157,5 +2157,200 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "stealth",
+    "type": "word",
+    "translation": "隐蔽；秘密行动；隐身能力；低调行事",
+    "analysis": "这个词通常表示尽量不被发现地行动或存在。它既可以用于军事和技术语境，也可以用于日常表达中的悄悄进行，核心含义是避免被注意或被侦测。",
+    "phonetic": "/stelθ/",
+    "origin": "来自中古英语，与偷偷行动、暗中进行有关，后来发展为表示隐蔽性、隐身能力以及秘密进行的状态。",
+    "expansions": [
+      "stealth technology 隐身技术",
+      "stealth aircraft 隐形飞机",
+      "move with stealth 悄无声息地行动",
+      "a stealth startup 低调运营的初创公司",
+      "stealth mode 隐形模式；低调开发状态"
+    ],
+    "pronunciation": "英式 /stelθ/，美式 /stelθ/",
+    "accepted_answers": [
+      "隐蔽",
+      "秘密行动",
+      "隐身能力",
+      "低调行事"
+    ],
+    "added_at": "2026-03-31T10:46:56+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "granular",
+    "type": "word",
+    "translation": "颗粒状的；细粒度的；细致的；更具体的",
+    "analysis": "这个词原本表示由颗粒构成的、颗粒状的。在现代技术、数据、管理和分析语境中，它更常表示粒度更细、更详细、更具体。",
+    "phonetic": "/ˈɡrænjələ/; /ˈɡrænjələr/",
+    "origin": "来自拉丁语 granulum，意为小颗粒，与 grain 同源。后来由具体的颗粒状引申为抽象的细粒度、细致化。",
+    "expansions": [
+      "granular data 细粒度数据；更细致的数据",
+      "granular control 细粒度控制",
+      "granular analysis 细致分析",
+      "granular permissions 细粒度权限",
+      "a more granular view 更细化的视角"
+    ],
+    "pronunciation": "英式 /ˈɡrænjələ/，美式 /ˈɡrænjələr/",
+    "accepted_answers": [
+      "颗粒状的",
+      "细粒度的",
+      "细致的",
+      "更具体的"
+    ],
+    "added_at": "2026-03-31T10:47:48+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "liability",
+    "type": "word",
+    "translation": "责任；法律责任；负债；不利因素；累赘",
+    "analysis": "这个词有两个很常见的核心方向：法律或商业语境中的责任、赔偿责任、法律义务，以及会计财务语境中的负债。另外在日常表达里，它也可以表示麻烦人物、拖累或累赘。",
+    "phonetic": "/ˌlaɪəˈbɪləti/",
+    "origin": "来自 liable 加名词后缀 -ity，核心含义是负有责任或义务的状态，后来扩展到法律责任、财务负债以及“累赘”这类引申义。",
+    "expansions": [
+      "legal liability 法律责任",
+      "financial liability 财务负债",
+      "tax liability 税务义务；税务负债",
+      "limited liability 有限责任",
+      "a serious liability 严重的不利因素或重大负担"
+    ],
+    "pronunciation": "英式 /ˌlaɪəˈbɪləti/，美式 /ˌlaɪəˈbɪləti/",
+    "accepted_answers": [
+      "责任",
+      "法律责任",
+      "负债",
+      "不利因素",
+      "累赘"
+    ],
+    "added_at": "2026-03-31T10:51:12+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "fragment",
+    "type": "word",
+    "translation": "碎片；片段；残片；使碎裂",
+    "analysis": "这个词既可以作名词，也可以作动词。作名词时表示整体破碎后留下的一小部分，或文本、对话、记忆中的片段；作动词时表示使碎裂、使分裂。它常见于文学、写作、技术、数据处理和日常表达中。",
+    "phonetic": "/ˈfræɡmənt/",
+    "origin": "来自拉丁语 fragmentum，意为破片、残块，与打碎、折断相关。后来进入英语后既表示实体碎片，也引申为抽象意义上的片段。",
+    "expansions": [
+      "a fragment of information 一小段信息",
+      "sentence fragment 句子残片；不完整句",
+      "fragment into pieces 碎裂成片",
+      "fragmented data 碎片化数据",
+      "memory fragment 记忆片段"
+    ],
+    "pronunciation": "英式 /ˈfræɡmənt/，美式 /ˈfræɡmənt/",
+    "accepted_answers": [
+      "碎片",
+      "片段",
+      "残片",
+      "使碎裂"
+    ],
+    "added_at": "2026-04-01T11:12:01+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "turnkey",
+    "type": "word",
+    "translation": "交钥匙的；可直接投入使用的；一站式完成的",
+    "analysis": "这个词通常作形容词，表示某个项目、系统、产品或解决方案已经准备完毕，接手后几乎可以立刻使用，不需要再做大量额外配置或建设。它强调的是拿来就能用或整体已经完成并交付。",
+    "phonetic": "/ˈtɜːnkiː/; /ˈtɝːnkiː/",
+    "origin": "由 turn 和 key 组成，原本和转动钥匙有关，后来引申为把钥匙交给你就能直接使用，因此发展出交钥匙的、现成可用的意思。",
+    "expansions": [
+      "turnkey solution 交钥匙解决方案",
+      "turnkey project 交钥匙项目；工程",
+      "turnkey service 一站式服务",
+      "turnkey deployment 可直接上线的部署方案",
+      "a turnkey platform 开箱即用的平台"
+    ],
+    "pronunciation": "英式 /ˈtɜːnkiː/，美式 /ˈtɝːnkiː/",
+    "accepted_answers": [
+      "交钥匙的",
+      "可直接投入使用的",
+      "一站式完成的"
+    ],
+    "added_at": "2026-04-01T11:14:33+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "procurement",
+    "type": "word",
+    "translation": "采购；采办；获得；获取",
+    "analysis": "这个词通常指通过正式流程去购买、获取或筹措所需的商品、服务或资源。它最常见于商业、政府、供应链和项目管理语境中，不只是买东西，还可能包含供应商选择、合同签订、审批、招标和交付管理等环节。",
+    "phonetic": "/prəˈkjʊəmənt/; /prəˈkjʊrmənt/",
+    "origin": "来自 procure 加名词后缀 -ment，表示采购、取得这一过程或结果。procure 本身带有设法获得、筹措的含义。",
+    "expansions": [
+      "public procurement 政府采购",
+      "procurement process 采购流程",
+      "procurement team 采购团队",
+      "procurement strategy 采购策略",
+      "centralized procurement 集中采购"
+    ],
+    "pronunciation": "英式 /prəˈkjʊəmənt/，美式 /prəˈkjʊrmənt/",
+    "accepted_answers": [
+      "采购",
+      "采办",
+      "获得",
+      "获取"
+    ],
+    "added_at": "2026-04-01T11:15:21+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "utilization",
+    "type": "word",
+    "translation": "利用；使用；利用率",
+    "analysis": "这个词表示资源、设备、时间、能力或空间被使用的程度或方式。它常见于商业、运营、工程、计算机和数据分析语境中，既可以表示利用这个动作，也可以表示利用率这种量化结果。",
+    "phonetic": "/ˌjuːtɪlaɪˈzeɪʃən/; /ˌjuːtələˈzeɪʃən/",
+    "origin": "来自 utilize 加名词后缀 -ation，表示使用、利用这一过程或结果。utilize 本身与“有用、实用”这一词源有关。",
+    "expansions": [
+      "resource utilization 资源利用",
+      "CPU utilization CPU 使用率",
+      "capacity utilization 产能利用率",
+      "improve utilization 提高利用率",
+      "effective utilization 有效利用"
+    ],
+    "pronunciation": "英式 /ˌjuːtɪlaɪˈzeɪʃən/，美式 /ˌjuːtələˈzeɪʃən/",
+    "accepted_answers": [
+      "利用",
+      "使用",
+      "利用率"
+    ],
+    "added_at": "2026-04-01T11:17:12+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
