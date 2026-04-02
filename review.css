@@ -87,6 +87,29 @@ p {
   letter-spacing: 0.04em;
 }
 
+.sense-list {
+  display: grid;
+  gap: 8px;
+}
+
+.sense-item {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.sense-pos {
+  color: var(--accent-strong);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.sense-meaning {
+  color: var(--text);
+}
+
 .hero {
   position: relative;
   overflow: hidden;
@@ -1186,6 +1209,10 @@ code {
   color: var(--text);
 }
 
+.landing-result-translation.sense-list {
+  margin-bottom: 10px;
+}
+
 .landing-nav-grid {
   display: flex;
   gap: 12px;
@@ -1252,6 +1279,11 @@ code {
 .word-analysis {
   margin-bottom: 10px;
   line-height: 1.7;
+}
+
+.word-translation.sense-list,
+.dictionary-translation.sense-list {
+  margin-bottom: 10px;
 }
 
 .word-state {

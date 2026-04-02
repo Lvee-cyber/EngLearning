@@ -79,6 +79,44 @@ function joinReadable(value) {
     .join("；");
 }
 
+function getSenseItems(entry) {
+  if (!Array.isArray(entry?.senses)) return [];
+  return entry.senses
+    .map((item) => {
+      if (!item || typeof item !== "object") return null;
+      const pos = String(item.pos || "").trim();
+      const translation = String(item.translation || item.meaning || item.definition || "").trim();
+      if (!translation) return null;
+      return { pos, translation };
+    })
+    .filter(Boolean);
+}
+
+function getTranslationText(entry) {
+  const senses = getSenseItems(entry);
+  if (senses.length) return senses.map((item) => `${item.pos ? `${item.pos} ` : ""}${item.translation}`).join("；");
+  return entry.translation || joinReadable(entry.meaning || entry.meanings || entry.definition || entry.definitions) || "暂无释义";
+}
+
+function getTranslationHtml(entry, className = "dictionary-translation") {
+  const senses = getSenseItems(entry);
+  if (!senses.length) return `<p class="${className}">${escapeHtml(getTranslationText(entry))}</p>`;
+  return `
+    <div class="sense-list ${className}">
+      ${senses
+        .map(
+          (item) => `
+            <div class="sense-item">
+              ${item.pos ? `<span class="sense-pos">${escapeHtml(item.pos)}</span>` : ""}
+              <span class="sense-meaning">${escapeHtml(item.translation)}</span>
+            </div>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
 function pickTerm(entry, fallbackTerm = "") {
   return String(entry.term || entry.word || entry.headword || entry.title || entry.name || fallbackTerm || "").trim();
 }
@@ -192,7 +230,6 @@ function renderMetaItems(entry) {
 }
 
 function renderEntry(entry) {
-  const translation = entry.translation || joinReadable(entry.meaning || entry.meanings || entry.definition || entry.definitions) || "暂无释义";
   const analysis = entry.analysis || entry.explanation || joinReadable(entry.definition || entry.definitions);
   const examples = toArray(entry.expansions || entry.examples);
   const pronunciation = entry.pronunciation || entry.phonetic || "";
@@ -209,7 +246,7 @@ function renderEntry(entry) {
           <h2>${escapeHtml(entry.term)}</h2>
           ${posText ? `<p class="word-pos">${escapeHtml(`词性：${posText}`)}</p>` : ""}
           <p class="dictionary-pronunciation">${escapeHtml(pronunciation || "暂无发音信息")}</p>
-          <p class="dictionary-translation">${escapeHtml(translation)}</p>
+          ${getTranslationHtml(entry)}
         </div>
         <span class="word-state is-reviewable">已收录</span>
       </div>
@@ -279,7 +316,7 @@ function renderSuggestions() {
           data-index="${index}"
         >
           <span class="dictionary-suggestion-term">${escapeHtml(entry.term)}</span>
-          <span class="dictionary-suggestion-translation">${escapeHtml(entry.translation || "暂无释义")}</span>
+          <span class="dictionary-suggestion-translation">${escapeHtml(getTranslationText(entry))}</span>
         </button>
       `;
     })

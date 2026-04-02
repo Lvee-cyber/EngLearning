@@ -33,6 +33,44 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
+function getSenseItems(entry) {
+  if (!Array.isArray(entry?.senses)) return [];
+  return entry.senses
+    .map((item) => {
+      if (!item || typeof item !== "object") return null;
+      const pos = String(item.pos || "").trim();
+      const translation = String(item.translation || item.meaning || item.definition || "").trim();
+      if (!translation) return null;
+      return { pos, translation };
+    })
+    .filter(Boolean);
+}
+
+function getTranslationText(entry) {
+  const senses = getSenseItems(entry);
+  if (senses.length) return senses.map((item) => `${item.pos ? `${item.pos} ` : ""}${item.translation}`).join("；");
+  return String(entry.translation || "").trim();
+}
+
+function getTranslationHtml(entry) {
+  const senses = getSenseItems(entry);
+  if (!senses.length) return escapeHtml(getTranslationText(entry) || "暂无释义");
+  return `
+    <div class="sense-list word-translation">
+      ${senses
+        .map(
+          (item) => `
+            <div class="sense-item">
+              ${item.pos ? `<span class="sense-pos">${escapeHtml(item.pos)}</span>` : ""}
+              <span class="sense-meaning">${escapeHtml(item.translation)}</span>
+            </div>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
 function getPosText(entry) {
   if (!entry || typeof entry !== "object") return "";
   const direct = String(entry.pos || entry.part_of_speech || "").trim();
@@ -132,7 +170,7 @@ function applySearch(words) {
   const query = String(elements.search.value || "").trim().toLowerCase();
   if (!query) return words;
   return words.filter((entry) => {
-    const haystack = [entry.term, entry.translation, entry.analysis, ...(entry.expansions || [])].join(" ").toLowerCase();
+    const haystack = [entry.term, getTranslationText(entry), entry.analysis, ...(entry.expansions || [])].join(" ").toLowerCase();
     return haystack.includes(query);
   });
 }
@@ -163,7 +201,7 @@ function renderWords() {
               <h3>${escapeHtml(entry.term)}</h3>
               ${getPosText(entry) ? `<p class="word-pos">${escapeHtml(`词性：${getPosText(entry)}`)}</p>` : ""}
               <p class="word-pronunciation">${escapeHtml(entry.pronunciation || entry.phonetic || "暂无发音信息")}</p>
-              <p class="word-translation">${escapeHtml(entry.translation)}</p>
+              ${getTranslationHtml(entry)}
             </div>
             ${isMastered(entry) ? `<span class="word-state is-mastered">${status}</span>` : ""}
           </div>

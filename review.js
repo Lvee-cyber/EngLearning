@@ -96,6 +96,40 @@ function getPosText(entry) {
   return values.join(" / ");
 }
 
+function getSenseItems(entry) {
+  if (!Array.isArray(entry?.senses)) return [];
+  return entry.senses
+    .map((item) => {
+      if (!item || typeof item !== "object") return null;
+      const pos = String(item.pos || "").trim();
+      const translation = String(item.translation || item.meaning || item.definition || "").trim();
+      if (!translation) return null;
+      return { pos, translation };
+    })
+    .filter(Boolean);
+}
+
+function getTranslationText(entry) {
+  const senses = getSenseItems(entry);
+  if (senses.length) return senses.map((item) => `${item.pos ? `${item.pos} ` : ""}${item.translation}`).join("；");
+  return String(entry?.translation || "").trim();
+}
+
+function getTranslationHtml(entry) {
+  const senses = getSenseItems(entry);
+  if (!senses.length) return escapeHtml(getTranslationText(entry) || "暂无释义");
+  return senses
+    .map(
+      (item) => `
+        <span class="sense-item">
+          ${item.pos ? `<span class="sense-pos">${escapeHtml(item.pos)}</span>` : ""}
+          <span class="sense-meaning">${escapeHtml(item.translation)}</span>
+        </span>
+      `,
+    )
+    .join("");
+}
+
 function updateSetupStatus(message) {
   elements.setupStatus.innerHTML = message;
 }
@@ -565,7 +599,7 @@ function renderQuestion() {
   const posText = getPosText(entry);
   elements.questionPosText.textContent = posText ? `词性：${posText}` : "";
   showElement(elements.questionPosText, Boolean(posText));
-  elements.translationText.textContent = entry.translation;
+  elements.translationText.innerHTML = getTranslationHtml(entry);
 }
 
 async function startReview() {

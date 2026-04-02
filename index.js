@@ -50,6 +50,50 @@ function toArray(value) {
   return [value];
 }
 
+function getSenseItems(entry) {
+  if (!Array.isArray(entry?.senses)) return [];
+  return entry.senses
+    .map((item) => {
+      if (!item || typeof item !== "object") return null;
+      const pos = String(item.pos || "").trim();
+      const translation = String(item.translation || item.meaning || item.definition || "").trim();
+      if (!translation) return null;
+      return { pos, translation };
+    })
+    .filter(Boolean);
+}
+
+function getTranslationText(entry) {
+  const senses = getSenseItems(entry);
+  if (senses.length) return senses.map((item) => `${item.pos ? `${item.pos} ` : ""}${item.translation}`).join("；");
+  return (
+    entry.translation ||
+    toArray(entry.meaning || entry.meanings || entry.definition || entry.definitions)
+      .map((item) => String(item))
+      .join("；") ||
+    "暂无释义"
+  );
+}
+
+function getTranslationHtml(entry) {
+  const senses = getSenseItems(entry);
+  if (!senses.length) return `<p class="landing-result-translation">${escapeHtml(getTranslationText(entry))}</p>`;
+  return `
+    <div class="sense-list landing-result-translation">
+      ${senses
+        .map(
+          (item) => `
+            <div class="sense-item">
+              ${item.pos ? `<span class="sense-pos">${escapeHtml(item.pos)}</span>` : ""}
+              <span class="sense-meaning">${escapeHtml(item.translation)}</span>
+            </div>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
 function pickTerm(entry, fallbackTerm = "") {
   return String(entry.term || entry.word || entry.headword || entry.title || entry.name || fallbackTerm || "").trim();
 }
@@ -145,12 +189,6 @@ function renderLookupResult(entry, query) {
     return;
   }
 
-  const translation =
-    entry.translation ||
-    toArray(entry.meaning || entry.meanings || entry.definition || entry.definitions)
-      .map((item) => String(item))
-      .join("；") ||
-    "暂无释义";
   const analysis = entry.analysis || entry.explanation || "当前词条还没有更多解析说明。";
   const posText = getPosText(entry);
 
@@ -164,7 +202,7 @@ function renderLookupResult(entry, query) {
         </div>
         <a class="secondary-button link-button" href="./dictionary.html?q=${encodeURIComponent(entry.term)}">详细查询</a>
       </div>
-      <p class="landing-result-translation">${escapeHtml(translation)}</p>
+      ${getTranslationHtml(entry)}
       <p class="status-text">${escapeHtml(analysis)}</p>
     </article>
   `;
