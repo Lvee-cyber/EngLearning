@@ -21,6 +21,13 @@ const elements = {
   suggestions: document.querySelector("#dictionary-suggestions"),
 };
 
+const cacheHint = {
+  dictionary: null,
+};
+
+const DETAIL_CACHE_KEY = "englearning.dictionary.detail";
+const DETAIL_CACHE_TTL_MS = Number(APP_CONFIG.contentCacheTtlMs || 3 * 60 * 1000);
+
 const COMMON_FIELDS = new Set([
   "term",
   "word",
@@ -377,6 +384,61 @@ function hydrateQueryFromUrl() {
   runSearch();
 }
 
+function readDictionaryDetailCache() {
+  try {
+    const raw = window.sessionStorage?.getItem(DETAIL_CACHE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (!parsed || typeof parsed !== "object") return null;
+    if (Date.now() - Number(parsed.cachedAt || 0) > DETAIL_CACHE_TTL_MS) {
+      window.sessionStorage?.removeItem(DETAIL_CACHE_KEY);
+      return null;
+    }
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+function hydrateDetailCache() {
+  const url = new URL(window.location.href);
+  const query = String(url.searchParams.get("q") || "").trim();
+  const cached = readDictionaryDetailCache();
+  if (!cached?.entry) return false;
+  if (query && normalizeText(cached.term) !== normalizeText(query)) return false;
+
+  const entry = normalizeEntry(cached.entry, cached.term);
+  if (!entry) return false;
+
+  state.entries = state.entries.length ? state.entries : [entry];
+  elements.searchInput.value = entry.term;
+  elements.result.innerHTML = renderEntry(entry);
+  updateStatus("已命中最近查词结果，正在同步最新辞典。");
+  updateSummary("已优先展示最近查词结果。");
+  return true;
+}
+
+function hydrateDictionaryCache() {
+  if (!state.supabase) {
+    state.supabase = window.ContentStore.createSupabaseClient();
+  }
+
+  cacheHint.dictionary = window.ContentStore.peekCollectionCache({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+  });
+
+  if (!cacheHint.dictionary) return;
+
+  state.entries = normalizeDictionary(cacheHint.dictionary.items);
+  state.dictionaryLoaded = true;
+  state.dictionarySource = cacheHint.dictionary.source || "json";
+  updateStatus(`${state.dictionarySource === "supabase" ? "Supabase" : "本地 JSON"} 辞典已载入，共 ${state.entries.length} 条记录。`);
+  updateSummary("输入单词后点击查询。");
+}
+
 async function fetchDictionary() {
   const { items, source } = await window.ContentStore.fetchCollection({
     supabase: state.supabase,
@@ -453,7 +515,9 @@ function renderCurrentResults() {
 }
 
 async function init() {
-  state.supabase = window.ContentStore.createSupabaseClient();
+  if (!state.supabase) {
+    state.supabase = window.ContentStore.createSupabaseClient();
+  }
   await fetchDictionary();
   hydrateQueryFromUrl();
 }
@@ -516,6 +580,10 @@ elements.result.addEventListener("click", (event) => {
   });
 });
 
+hydrateDictionaryCache();
+if (!hydrateDetailCache()) {
+  hydrateQueryFromUrl();
+}
 init().catch((error) => {
   updateStatus(`初始化失败：${error.message}`);
   updateSummary("请检查 dictionary.json 是否存在且格式正确。");

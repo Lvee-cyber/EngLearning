@@ -118,8 +118,21 @@
     });
   }
 
+  function peekCollectionCache({ supabase, tableName, fallbackUrl, label }) {
+    const cacheKey = buildCacheKey({ tableName, fallbackUrl, label });
+    const cached = getFreshCache(cacheKey);
+    if (!cached) return null;
+    return {
+      items: cached.items,
+      source: cached.source,
+      cached: true,
+      hasSupabase: Boolean(supabase && tableName),
+    };
+  }
+
   windowObject.ContentStore = {
     createSupabaseClient,
     fetchCollection,
+    peekCollectionCache,
   };
 })(window);

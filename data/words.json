@@ -2943,5 +2943,92 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "churn",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "客户流失；搅乳桶；翻腾"
+      },
+      {
+        "pos": "V",
+        "translation": "搅拌；翻腾；大量流失"
+      }
+    ],
+    "translation": "客户流失；剧烈搅动；翻腾；搅拌",
+    "analysis": "既可以作名词，也可以作动词。在商业和互联网语境中，作名词时常指客户流失率或用户流失；作动词时表示搅动、翻腾，也可引申为人员或用户频繁流失。",
+    "phonetic": "/tʃɜːn/; /tʃɝːn/",
+    "origin": "最早与搅乳制黄油的桶有关，后来发展出“搅动、翻腾”的动词义，再引申到商业语境中的“频繁变动、流失”。",
+    "expansions": [
+      "customer churn 客户流失",
+      "churn rate 流失率",
+      "reduce churn 降低流失",
+      "the water churned 水面翻腾",
+      "a churn prediction model 流失预测模型"
+    ],
+    "pronunciation": "/tʃɜːn/; /tʃɝːn/",
+    "accepted_answers": [
+      "客户流失",
+      "翻腾",
+      "搅拌",
+      "流失率"
+    ],
+    "added_at": "2026-04-02T10:29:31+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "shit",
+    "type": "word",
+    "pos": "N / V / Interj / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "屎；废话；糟糕的事；烂东西"
+      },
+      {
+        "pos": "V",
+        "translation": "拉屎；胡扯；坑骗"
+      },
+      {
+        "pos": "Interj",
+        "translation": "靠；糟了；完了"
+      },
+      {
+        "pos": "Adj",
+        "translation": "糟糕的；很差的"
+      }
+    ],
+    "translation": "屎；废话；糟糕的事；胡扯；拉屎",
+    "analysis": "这是一个常见但比较粗俗的英语词。既可以作名词，也可以作动词，还能作感叹词，口语里有时也作形容词使用。正式场合一般不建议使用。",
+    "phonetic": "/ʃɪt/",
+    "origin": "来自古英语 scitte 一类词形，和排泄物、腹泻有关，后来在英语中保留下来，并扩展出大量粗口和俚语用法。",
+    "expansions": [
+      "holy shit 我的天；我靠",
+      "shit happens 倒霉事总会发生",
+      "talk shit 胡说八道；说垃圾话",
+      "give a shit 在乎",
+      "piece of shit 烂东西；垃圾货"
+    ],
+    "pronunciation": "/ʃɪt/",
+    "accepted_answers": [
+      "屎",
+      "废话",
+      "糟糕的事",
+      "胡扯",
+      "拉屎"
+    ],
+    "added_at": "2026-04-02T10:32:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

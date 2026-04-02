@@ -22,6 +22,13 @@ const elements = {
   calendarLunarText: document.querySelector("#calendar-lunar-text"),
 };
 
+const cacheHints = {
+  words: null,
+  dictionary: null,
+};
+
+const DETAIL_CACHE_KEY = "englearning.dictionary.detail";
+
 function escapeHtml(value) {
   return String(value || "")
     .replaceAll("&", "&amp;")
@@ -162,6 +169,37 @@ function renderLookupState(message) {
   elements.dictionaryResult.innerHTML = `<p class="status-text">${escapeHtml(message)}</p>`;
 }
 
+function cacheDictionaryDetail(entry) {
+  try {
+    window.sessionStorage?.setItem(
+      DETAIL_CACHE_KEY,
+      JSON.stringify({
+        term: entry.term,
+        entry,
+        cachedAt: Date.now(),
+      }),
+    );
+  } catch {}
+}
+
+function renderContentStatus() {
+  if (state.words.length || state.dictionary.length) {
+    elements.contentStatus.textContent = `词库 ${state.words.length} 条，辞典 ${state.dictionary.length} 条。当前读取来源：词库 ${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}，辞典 ${state.dictionarySource === "supabase" ? "Supabase" : "本地 JSON"}。`;
+    return;
+  }
+  if (cacheHints.words || cacheHints.dictionary) {
+    elements.contentStatus.textContent = "已命中最近缓存，正在同步最新内容。";
+    return;
+  }
+  elements.contentStatus.textContent = "正在读取词库与辞典。";
+}
+
+function renderProgressStatus() {
+  elements.progressStatus.textContent = state.supabase
+    ? "在线进度已配置。进入复习页后填写相同同步标识即可在多端共享记录。"
+    : "当前未检测到 Supabase 配置，复习页将只能读取本地基线内容。";
+}
+
 function findDictionaryEntry(query) {
   const normalized = normalizeText(query);
   if (!normalized) return null;
@@ -183,7 +221,7 @@ function renderLookupResult(entry, query) {
       <div class="landing-result-card">
         <strong>未命中词条</strong>
         <p class="status-text">没有找到 <code>${escapeHtml(query)}</code>，可前往完整辞典页继续查询。</p>
-        <a class="secondary-button link-button" href="./dictionary.html?q=${encodeURIComponent(query)}">去辞典页搜索</a>
+        <a class="secondary-button link-button dictionary-detail-link" href="./dictionary.html?q=${encodeURIComponent(query)}">去辞典页搜索</a>
       </div>
     `;
     return;
@@ -200,7 +238,7 @@ function renderLookupResult(entry, query) {
           ${posText ? `<p class="word-pos">${escapeHtml(`词性：${posText}`)}</p>` : ""}
           <p class="word-pronunciation">${escapeHtml(entry.pronunciation || entry.phonetic || "暂无发音信息")}</p>
         </div>
-        <a class="secondary-button link-button" href="./dictionary.html?q=${encodeURIComponent(entry.term)}">详细查询</a>
+        <a class="secondary-button link-button dictionary-detail-link" data-term="${escapeHtml(entry.term)}" href="./dictionary.html?q=${encodeURIComponent(entry.term)}">详细查询</a>
       </div>
       ${getTranslationHtml(entry)}
       <p class="status-text">${escapeHtml(analysis)}</p>
@@ -217,8 +255,39 @@ function runLookup() {
   renderLookupResult(findDictionaryEntry(query), query);
 }
 
-async function init() {
+function hydrateLandingCache() {
   state.supabase = window.ContentStore.createSupabaseClient();
+  cacheHints.words = window.ContentStore.peekCollectionCache({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
+    label: "词库",
+  });
+  cacheHints.dictionary = window.ContentStore.peekCollectionCache({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+  });
+
+  if (cacheHints.words) {
+    state.words = Array.isArray(cacheHints.words.items) ? cacheHints.words.items : [];
+    state.wordsSource = cacheHints.words.source || "json";
+  }
+
+  if (cacheHints.dictionary) {
+    state.dictionary = normalizeDictionary(cacheHints.dictionary.items);
+    state.dictionarySource = cacheHints.dictionary.source || "json";
+  }
+
+  renderContentStatus();
+  renderProgressStatus();
+}
+
+async function init() {
+  if (!state.supabase) {
+    state.supabase = window.ContentStore.createSupabaseClient();
+  }
 
   const [wordsResult, dictionaryResult] = await Promise.all([
     window.ContentStore.fetchCollection({
@@ -240,10 +309,8 @@ async function init() {
   state.dictionary = normalizeDictionary(dictionaryResult.items);
   state.dictionarySource = dictionaryResult.source;
 
-  elements.contentStatus.textContent = `词库 ${state.words.length} 条，辞典 ${state.dictionary.length} 条。当前读取来源：词库 ${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}，辞典 ${state.dictionarySource === "supabase" ? "Supabase" : "本地 JSON"}。`;
-  elements.progressStatus.textContent = state.supabase
-    ? "在线进度已配置。进入复习页后填写相同同步标识即可在多端共享记录。"
-    : "当前未检测到 Supabase 配置，复习页将只能读取本地基线内容。";
+  renderContentStatus();
+  renderProgressStatus();
   renderLookupState("输入单词后即可在主页快速查看简要释义。");
 }
 
@@ -254,10 +321,20 @@ elements.dictionaryInput?.addEventListener("keydown", (event) => {
     runLookup();
   }
 });
+elements.dictionaryResult?.addEventListener("click", (event) => {
+  const link = event.target.closest(".dictionary-detail-link");
+  if (!link) return;
+  const term = String(link.dataset.term || "").trim();
+  if (!term) return;
+  const entry = findDictionaryEntry(term);
+  if (!entry) return;
+  cacheDictionaryDetail(entry);
+});
 
 updateCalendarCard();
 window.setInterval(updateCalendarCard, 1000);
 
+hydrateLandingCache();
 init().catch((error) => {
   elements.contentStatus.textContent = `主页初始化失败：${error.message}`;
   elements.progressStatus.textContent = "请检查内容源或 Supabase 配置。";
