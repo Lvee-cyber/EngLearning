@@ -49,6 +49,7 @@ const elements = {
   progressText: document.querySelector("#progress-text"),
   libraryCountText: document.querySelector("#library-count-text"),
   spellingSlots: document.querySelector("#spelling-slots"),
+  questionPosText: document.querySelector("#question-pos-text"),
   translationText: document.querySelector("#translation-text"),
   resultTitle: document.querySelector("#result-title"),
   resultIcon: document.querySelector("#result-icon"),
@@ -56,6 +57,7 @@ const elements = {
   userAnswerText: document.querySelector("#user-answer-text"),
   userAnswerBlock: document.querySelector("#user-answer-block"),
   correctAnswerText: document.querySelector("#correct-answer-text"),
+  resultPosText: document.querySelector("#result-pos-text"),
   pronunciationText: document.querySelector("#pronunciation-text"),
   analysisText: document.querySelector("#analysis-text"),
   expansionsList: document.querySelector("#expansions-list"),
@@ -83,6 +85,15 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function getPosText(entry) {
+  if (!entry || typeof entry !== "object") return "";
+  const direct = String(entry.pos || entry.part_of_speech || "").trim();
+  if (direct) return direct;
+  if (!Array.isArray(entry.senses)) return "";
+  const values = [...new Set(entry.senses.map((item) => String(item?.pos || "").trim()).filter(Boolean))];
+  return values.join(" / ");
 }
 
 function updateSetupStatus(message) {
@@ -551,6 +562,9 @@ function renderQuestion() {
   elements.progressText.textContent = `第 ${state.currentIndex + 1} 题 / 共 ${state.queue.length} 题`;
   elements.libraryCountText.textContent = `待复习 ${getReviewableWords().length} 个`;
   renderSpellingSlots(entry.term);
+  const posText = getPosText(entry);
+  elements.questionPosText.textContent = posText ? `词性：${posText}` : "";
+  showElement(elements.questionPosText, Boolean(posText));
   elements.translationText.textContent = entry.translation;
 }
 
@@ -751,6 +765,9 @@ function renderResult() {
       : "拼写不正确，先看一眼正确拼写和用法。";
   elements.userAnswerText.textContent = userAnswer;
   elements.correctAnswerText.textContent = entry.term;
+  const posText = getPosText(entry);
+  elements.resultPosText.textContent = posText ? `词性：${posText}` : "";
+  showElement(elements.resultPosText, Boolean(posText));
   elements.analysisText.textContent = entry.analysis || "当前词条还没有解析说明。";
   elements.pronunciationText.textContent = entry.pronunciation || entry.phonetic || "";
   showElement(elements.pronunciationText, Boolean(elements.pronunciationText.textContent));

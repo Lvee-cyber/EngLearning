@@ -36,7 +36,8 @@
           "mode": "spelling"
         }
       ]
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "streamline",
@@ -88,7 +89,18 @@
           "mode": "spelling"
         }
       ]
-    }
+    },
+    "pos": "V / Adj",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "使简化；使更高效；精简"
+      },
+      {
+        "pos": "Adj",
+        "translation": "流线型的；精简高效的"
+      }
+    ]
   },
   {
     "term": "commentary",
@@ -151,7 +163,8 @@
           "mode": "spelling"
         }
       ]
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "motivation",
@@ -196,7 +209,8 @@
           "mode": "spelling"
         }
       ]
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "desirable",
@@ -223,7 +237,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj"
   },
   {
     "term": "mundane",
@@ -250,7 +265,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj"
   },
   {
     "term": "outline",
@@ -277,7 +293,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "提纲；大纲；轮廓"
+      },
+      {
+        "pos": "V",
+        "translation": "概述；勾勒；列出要点"
+      }
+    ]
   },
   {
     "term": "diagrams",
@@ -303,7 +330,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "expansion",
@@ -329,7 +357,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "narrative",
@@ -355,7 +384,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "叙事；故事；叙述"
+      },
+      {
+        "pos": "Adj",
+        "translation": "叙事的；讲述性的"
+      }
+    ]
   },
   {
     "term": "embodied AI",
@@ -380,7 +420,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "embody",
@@ -406,7 +447,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "standalone",
@@ -432,7 +474,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "独立的；单独的；独立运行的"
+      },
+      {
+        "pos": "N",
+        "translation": "独立版本；独立产品"
+      }
+    ]
   },
   {
     "term": "Europe",
@@ -456,7 +509,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "thematic",
@@ -481,7 +535,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj"
   },
   {
     "term": "obsolete",
@@ -507,7 +562,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj"
   },
   {
     "term": "distribution",
@@ -534,7 +590,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "infrastructure",
@@ -559,7 +616,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "vulnerability",
@@ -585,7 +643,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "effectiveness",
@@ -611,7 +670,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "police",
@@ -638,7 +698,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "警察；警方；警察机关"
+      },
+      {
+        "pos": "V",
+        "translation": "巡查；维持治安；管制"
+      }
+    ]
   },
   {
     "term": "norm",
@@ -665,7 +736,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "system",
@@ -692,7 +764,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "spyware",
@@ -717,7 +790,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "upstream",
@@ -743,7 +817,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / Adv",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "上游的；前端的"
+      },
+      {
+        "pos": "Adv",
+        "translation": "向上游；逆流而上"
+      }
+    ]
   },
   {
     "term": "alongside",
@@ -769,7 +854,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Prep / Adv",
+    "senses": [
+      {
+        "pos": "Prep",
+        "translation": "在……旁边；与……一起"
+      },
+      {
+        "pos": "Adv",
+        "translation": "并肩地；同时地"
+      }
+    ]
   },
   {
     "term": "depression",
@@ -796,7 +892,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "protect",
@@ -822,7 +919,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "learning",
@@ -848,7 +946,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "submarine",
@@ -874,7 +973,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "潜艇"
+      },
+      {
+        "pos": "Adj",
+        "translation": "水下的；潜艇的"
+      }
+    ]
   },
   {
     "term": "analysis",
@@ -900,7 +1010,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "missing",
@@ -926,7 +1037,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "缺失的；不见的；失踪的"
+      },
+      {
+        "pos": "N",
+        "translation": "失踪者；缺少的部分"
+      }
+    ]
   },
   {
     "term": "boomerang",
@@ -952,7 +1074,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "回旋镖"
+      },
+      {
+        "pos": "V",
+        "translation": "迅速返回；产生反作用"
+      }
+    ]
   },
   {
     "term": "deploy",
@@ -978,7 +1111,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "exactly",
@@ -1004,7 +1138,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adv"
   },
   {
     "term": "cameras",
@@ -1029,7 +1164,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "multiple",
@@ -1054,7 +1190,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "多个的；多重的"
+      },
+      {
+        "pos": "N",
+        "translation": "倍数"
+      }
+    ]
   },
   {
     "term": "sky",
@@ -1078,7 +1225,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "brace",
@@ -1105,7 +1253,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "支架；支撑物；括号"
+      },
+      {
+        "pos": "V",
+        "translation": "支撑；振作；使做好准备"
+      }
+    ]
   },
   {
     "term": "artillery",
@@ -1130,7 +1289,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "lynx",
@@ -1154,7 +1314,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "review",
@@ -1180,7 +1341,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "审查；复习；评论"
+      },
+      {
+        "pos": "V",
+        "translation": "审查；复查；复习"
+      }
+    ]
   },
   {
     "term": "primary",
@@ -1206,7 +1378,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "主要的；首要的；初级的"
+      },
+      {
+        "pos": "N",
+        "translation": "初选；初级阶段；原色"
+      }
+    ]
   },
   {
     "term": "schema",
@@ -1232,7 +1415,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "build",
@@ -1259,7 +1443,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "建造；建立；逐步增强"
+      },
+      {
+        "pos": "N",
+        "translation": "体格；版本构建；构造"
+      }
+    ]
   },
   {
     "term": "foment",
@@ -1284,7 +1479,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "deprecate",
@@ -1310,7 +1506,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "origin",
@@ -1336,7 +1533,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "bilingual",
@@ -1361,7 +1559,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "双语的"
+      },
+      {
+        "pos": "N",
+        "translation": "双语者"
+      }
+    ]
   },
   {
     "term": "strategic",
@@ -1386,7 +1595,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj"
   },
   {
     "term": "discourse",
@@ -1413,7 +1623,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "obeisantly",
@@ -1438,7 +1649,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adv"
   },
   {
     "term": "nearness",
@@ -1464,7 +1676,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "sunset",
@@ -1491,7 +1704,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "日落；黄昏；终止期"
+      },
+      {
+        "pos": "V",
+        "translation": "使终止；逐步淘汰"
+      }
+    ]
   },
   {
     "term": "Neutral to slightly positive.",
@@ -1517,7 +1741,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj phrase"
   },
   {
     "term": "consolidation",
@@ -1545,7 +1770,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "quantity",
@@ -1572,7 +1798,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "judge",
@@ -1600,7 +1827,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "法官；评判员"
+      },
+      {
+        "pos": "V",
+        "translation": "判断；评判；裁决"
+      }
+    ]
   },
   {
     "term": "quit",
@@ -1629,7 +1867,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "停止；离开；辞掉"
+      },
+      {
+        "pos": "N",
+        "translation": "离职；停止"
+      }
+    ]
   },
   {
     "term": "zero",
@@ -1657,7 +1906,26 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Num / N / Adj / V",
+    "senses": [
+      {
+        "pos": "Num",
+        "translation": "零"
+      },
+      {
+        "pos": "N",
+        "translation": "零；零点；无"
+      },
+      {
+        "pos": "Adj",
+        "translation": "零的；没有的"
+      },
+      {
+        "pos": "V",
+        "translation": "把……调到零；对准"
+      }
+    ]
   },
   {
     "term": "rescue",
@@ -1684,7 +1952,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "营救；救援"
+      },
+      {
+        "pos": "V",
+        "translation": "营救；挽救"
+      }
+    ]
   },
   {
     "term": "overaccumulation",
@@ -1711,7 +1990,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "entry",
@@ -1740,7 +2020,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "interpret",
@@ -1769,7 +2050,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "converge",
@@ -1797,7 +2079,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V"
   },
   {
     "term": "retention",
@@ -1825,7 +2108,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "valuation",
@@ -1852,7 +2136,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "regulator",
@@ -1880,7 +2165,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "sovereign",
@@ -1908,7 +2194,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "君主；统治者"
+      },
+      {
+        "pos": "Adj",
+        "translation": "主权的；最高的；至高无上的"
+      }
+    ]
   },
   {
     "term": "moat",
@@ -1936,7 +2233,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "phish",
@@ -1962,7 +2260,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "进行网络钓鱼；骗取信息"
+      },
+      {
+        "pos": "N",
+        "translation": "网络钓鱼行为"
+      }
+    ]
   },
   {
     "term": "inference",
@@ -1989,7 +2298,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "phase",
@@ -2017,7 +2327,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "阶段；时期；相位"
+      },
+      {
+        "pos": "V",
+        "translation": "逐步进行；分阶段实施"
+      }
+    ]
   },
   {
     "term": "orchestration",
@@ -2045,7 +2366,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "segmentation",
@@ -2073,7 +2395,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "orbital",
@@ -2100,7 +2423,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "轨道的；眼窝的"
+      },
+      {
+        "pos": "N",
+        "translation": "轨道电子"
+      }
+    ]
   },
   {
     "term": "rhetoric",
@@ -2128,7 +2462,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "equity",
@@ -2156,7 +2491,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "stealth",
@@ -2184,7 +2520,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "隐蔽；秘密行动；隐形能力"
+      },
+      {
+        "pos": "Adj",
+        "translation": "隐形的；隐秘的"
+      }
+    ]
   },
   {
     "term": "granular",
@@ -2212,7 +2559,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj"
   },
   {
     "term": "liability",
@@ -2241,7 +2589,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "fragment",
@@ -2269,7 +2618,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "碎片；片段；残篇"
+      },
+      {
+        "pos": "V",
+        "translation": "使碎裂；分裂"
+      }
+    ]
   },
   {
     "term": "turnkey",
@@ -2296,7 +2656,18 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "交钥匙的；现成可用的"
+      },
+      {
+        "pos": "N",
+        "translation": "狱卒；交钥匙工程"
+      }
+    ]
   },
   {
     "term": "procurement",
@@ -2324,7 +2695,8 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N"
   },
   {
     "term": "utilization",
@@ -2347,6 +2719,225 @@
       "利用率"
     ],
     "added_at": "2026-04-01T11:17:12+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "N"
+  },
+  {
+    "term": "pattern",
+    "type": "word",
+    "translation": "模式；图案；规律；样式",
+    "analysis": "这个词既可以表示可见的图案、花纹，也可以表示反复出现的模式、规律或结构。它常见于设计、行为分析、数据分析、编程和语言学习等语境。",
+    "phonetic": "/ˈpætən/; /ˈpætərn/",
+    "origin": "来自古法语 patron 的相关演变形式，后来进入英语，发展出样板、图案、模式、规律等含义。",
+    "expansions": [
+      "behavior pattern 行为模式",
+      "traffic pattern 交通规律；流量模式",
+      "design pattern 设计模式",
+      "recognize a pattern 识别规律",
+      "floral pattern 花卉图案"
+    ],
+    "pronunciation": "英式 /ˈpætən/，美式 /ˈpætərn/",
+    "accepted_answers": [
+      "模式",
+      "图案",
+      "规律",
+      "样式"
+    ],
+    "added_at": "2026-04-01T16:49:34+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "模式；规律；图案；范例"
+      },
+      {
+        "pos": "V",
+        "translation": "模仿；形成图案"
+      }
+    ]
+  },
+  {
+    "term": "recur",
+    "type": "word",
+    "translation": "再发生；重复出现；复发",
+    "analysis": "通常表示某件事再次发生，或在一段时间后重新出现。常用于疾病复发、问题重现、主题反复出现等语境。",
+    "phonetic": "/rɪˈkɜː/; /rɪˈkɝː/",
+    "origin": "来自拉丁语 recurrere，由 re-（再次）和 currere（跑）构成，原义是“跑回来”，后引申为“再次发生、重现”。",
+    "expansions": [
+      "the problem recurs 问题再次出现",
+      "symptoms recur 症状复发",
+      "a recurring theme 反复出现的主题",
+      "errors recur 错误再次出现",
+      "the issue may recur 这个问题可能会再次发生"
+    ],
+    "pronunciation": "/rɪˈkɜː/; /rɪˈkɝː/",
+    "accepted_answers": [
+      "再发生",
+      "重复出现",
+      "复发"
+    ],
+    "added_at": "2026-04-01T16:52:49+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "V"
+  },
+  {
+    "term": "validates",
+    "type": "word",
+    "translation": "验证；证实；确认有效",
+    "analysis": "通常表示确认某事是真实、正确或有效的。在技术语境中常指校验输入、验证数据或规则；在一般语境中也可表示证实某个观点、感受或结果。",
+    "phonetic": "/ˈvælɪdeɪts/; /ˈvæləˌdeɪts/",
+    "origin": "来自 validate，源于拉丁语 validus，意为“强有力的、有效的”，后来发展出“使有效、验证”的含义。",
+    "expansions": [
+      "the system validates input 系统会校验输入",
+      "the test validates the model 测试验证了模型",
+      "research validates the claim 研究证实了这一说法",
+      "this validates our approach 这证明了我们的方法有效",
+      "the form validates user data 表单会校验用户数据"
+    ],
+    "pronunciation": "/ˈvælɪdeɪts/; /ˈvæləˌdeɪts/",
+    "accepted_answers": [
+      "验证",
+      "证实",
+      "确认有效"
+    ],
+    "added_at": "2026-04-01T16:56:03+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "V"
+  },
+  {
+    "term": "commercialization",
+    "type": "word",
+    "translation": "商业化；市场化",
+    "analysis": "表示把产品、技术、研究成果或服务推向市场，使其具备商业价值的过程。常见于科技、医药、创业、产业化和学术成果转化语境。",
+    "phonetic": "/kəˌmɜːʃəlaɪˈzeɪʃən/; /kəˌmɝːʃələˈzeɪʃən/",
+    "origin": "来自 commercialize 加名词后缀 -ation。commercial 源于拉丁语 commercium，与“贸易、商业往来”有关。",
+    "expansions": [
+      "technology commercialization 技术商业化",
+      "commercialization strategy 商业化策略",
+      "the commercialization of research 科研成果商业化",
+      "accelerate commercialization 加速商业化",
+      "commercialization pathway 商业化路径"
+    ],
+    "pronunciation": "/kəˌmɜːʃəlaɪˈzeɪʃən/; /kəˌmɝːʃələˈzeɪʃən/",
+    "accepted_answers": [
+      "商业化",
+      "市场化"
+    ],
+    "added_at": "2026-04-01T16:57:14+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "N"
+  },
+  {
+    "term": "aggregator",
+    "type": "word",
+    "translation": "聚合器；汇总平台；信息整合工具",
+    "analysis": "通常指把多个来源的内容、数据、服务或商品集中起来进行整合和展示的事物。在互联网和商业语境里，常见含义是内容聚合平台、数据聚合工具或商品服务整合方。",
+    "phonetic": "/ˈæɡrɪɡeɪtə/; /ˈæɡrɪˌɡeɪtər/",
+    "origin": "来自 aggregate（聚合、合并）加后缀 -or，表示执行聚合的人或工具。",
+    "expansions": [
+      "news aggregator 新闻聚合平台",
+      "content aggregator 内容聚合器",
+      "data aggregator 数据聚合工具",
+      "travel aggregator 旅游比价整合平台",
+      "an aggregator collects data from multiple sources 聚合器会从多个来源收集数据"
+    ],
+    "pronunciation": "/ˈæɡrɪɡeɪtə/; /ˈæɡrɪˌɡeɪtər/",
+    "accepted_answers": [
+      "聚合器",
+      "汇总平台",
+      "信息整合工具"
+    ],
+    "added_at": "2026-04-01T16:58:20+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "N"
+  },
+  {
+    "term": "corridor",
+    "type": "word",
+    "translation": "走廊；通道；狭长地带；交通走廊",
+    "analysis": "最常见的意思是建筑物里的走廊。在更广的语境里，也可指连接两个区域的通道或狭长地带，如交通走廊、经济走廊、空中走廊等。",
+    "phonetic": "/ˈkɒrɪdɔː/; /ˈkɔːrɪdɔːr/",
+    "origin": "来自意大利语 corridore，与“奔跑、通行的地方”有关，后来进入英语后发展出“走廊、通道”的含义。",
+    "expansions": [
+      "walk down the corridor 沿着走廊往前走",
+      "a narrow corridor 狭窄的走廊",
+      "trade corridor 贸易走廊",
+      "transport corridor 交通走廊",
+      "humanitarian corridor 人道主义通道"
+    ],
+    "pronunciation": "/ˈkɒrɪdɔː/; /ˈkɔːrɪdɔːr/",
+    "accepted_answers": [
+      "走廊",
+      "通道",
+      "狭长地带",
+      "交通走廊"
+    ],
+    "added_at": "2026-04-01T17:06:38+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "N"
+  },
+  {
+    "term": "executive",
+    "type": "word",
+    "pos": "N / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "管理层人员；高管；主管"
+      },
+      {
+        "pos": "Adj",
+        "translation": "执行的；行政的"
+      }
+    ],
+    "translation": "管理层人员；高管；执行的；行政的",
+    "analysis": "既可作名词，也可作形容词。作名词时常指企业或机构中的高管、主管、负责人；作形容词时常表示执行的、行政的，用于描述管理、决策或执行层面的职能。",
+    "phonetic": "/ɪɡˈzekjətɪv/",
+    "origin": "来自拉丁语 exsequi / executivus 一系，核心含义与“执行、完成、贯彻”有关，后来进入英语形成“执行者、行政人员、执行的”这些含义。",
+    "expansions": [
+      "senior executive 高级管理人员",
+      "chief executive 首席执行官",
+      "executive branch 行政部门",
+      "executive decision 执行层决策",
+      "executive function 执行功能"
+    ],
+    "pronunciation": "/ɪɡˈzekjətɪv/",
+    "accepted_answers": [
+      "管理层人员",
+      "高管",
+      "执行的",
+      "行政的"
+    ],
+    "added_at": "2026-04-02T09:51:28+08:00",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

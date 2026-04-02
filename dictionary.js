@@ -58,6 +58,15 @@ function normalizeText(value) {
   return String(value || "").trim().toLowerCase();
 }
 
+function getPosText(entry) {
+  if (!entry || typeof entry !== "object") return "";
+  const direct = String(entry.pos || entry.part_of_speech || "").trim();
+  if (direct) return direct;
+  if (!Array.isArray(entry.senses)) return "";
+  const values = [...new Set(entry.senses.map((item) => String(item?.pos || "").trim()).filter(Boolean))];
+  return values.join(" / ");
+}
+
 function toArray(value) {
   if (Array.isArray(value)) return value.filter(Boolean);
   if (value == null || value === "") return [];
@@ -187,6 +196,7 @@ function renderEntry(entry) {
   const analysis = entry.analysis || entry.explanation || joinReadable(entry.definition || entry.definitions);
   const examples = toArray(entry.expansions || entry.examples);
   const pronunciation = entry.pronunciation || entry.phonetic || "";
+  const posText = getPosText(entry);
   const acceptedAnswers = toArray(entry.accepted_answers);
   const meta = renderMetaItems(entry);
   const term = normalizeText(entry.term);
@@ -197,6 +207,7 @@ function renderEntry(entry) {
       <div class="dictionary-head">
         <div>
           <h2>${escapeHtml(entry.term)}</h2>
+          ${posText ? `<p class="word-pos">${escapeHtml(`词性：${posText}`)}</p>` : ""}
           <p class="dictionary-pronunciation">${escapeHtml(pronunciation || "暂无发音信息")}</p>
           <p class="dictionary-translation">${escapeHtml(translation)}</p>
         </div>

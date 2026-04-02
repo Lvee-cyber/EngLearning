@@ -33,6 +33,15 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
+function getPosText(entry) {
+  if (!entry || typeof entry !== "object") return "";
+  const direct = String(entry.pos || entry.part_of_speech || "").trim();
+  if (direct) return direct;
+  if (!Array.isArray(entry.senses)) return "";
+  const values = [...new Set(entry.senses.map((item) => String(item?.pos || "").trim()).filter(Boolean))];
+  return values.join(" / ");
+}
+
 function getProfileId() {
   return String(elements.profileIdInput.value || "").trim();
 }
@@ -152,6 +161,7 @@ function renderWords() {
           <div class="word-card-head">
             <div>
               <h3>${escapeHtml(entry.term)}</h3>
+              ${getPosText(entry) ? `<p class="word-pos">${escapeHtml(`词性：${getPosText(entry)}`)}</p>` : ""}
               <p class="word-pronunciation">${escapeHtml(entry.pronunciation || entry.phonetic || "暂无发音信息")}</p>
               <p class="word-translation">${escapeHtml(entry.translation)}</p>
             </div>

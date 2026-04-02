@@ -35,6 +35,15 @@ function normalizeText(value) {
   return String(value || "").trim().toLowerCase();
 }
 
+function getPosText(entry) {
+  if (!entry || typeof entry !== "object") return "";
+  const direct = String(entry.pos || entry.part_of_speech || "").trim();
+  if (direct) return direct;
+  if (!Array.isArray(entry.senses)) return "";
+  const values = [...new Set(entry.senses.map((item) => String(item?.pos || "").trim()).filter(Boolean))];
+  return values.join(" / ");
+}
+
 function toArray(value) {
   if (Array.isArray(value)) return value.filter(Boolean);
   if (value == null || value === "") return [];
@@ -143,12 +152,14 @@ function renderLookupResult(entry, query) {
       .join("；") ||
     "暂无释义";
   const analysis = entry.analysis || entry.explanation || "当前词条还没有更多解析说明。";
+  const posText = getPosText(entry);
 
   elements.dictionaryResult.innerHTML = `
     <article class="landing-result-card">
       <div class="landing-result-head">
         <div>
           <h3>${escapeHtml(entry.term)}</h3>
+          ${posText ? `<p class="word-pos">${escapeHtml(`词性：${posText}`)}</p>` : ""}
           <p class="word-pronunciation">${escapeHtml(entry.pronunciation || entry.phonetic || "暂无发音信息")}</p>
         </div>
         <a class="secondary-button link-button" href="./dictionary.html?q=${encodeURIComponent(entry.term)}">详细查询</a>

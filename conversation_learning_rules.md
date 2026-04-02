@@ -50,6 +50,17 @@
 4. 音标或发音信息
 5. 词库写入结果提示
 
+其中“基本翻译”应尽量直接标注词性，常见格式例如：
+
+- `pattern`：模式；图案；范例（名词 N）
+- `validate`：验证；证实（动词 V）
+- `strategic`：战略性的；关键性的（形容词 Adj）
+- `carefully`：仔细地；谨慎地（副词 Adv）
+
+如果一个词有多个常见词性，应按主要用法同时标出，例如：
+
+- `review`：审查；复习（名词 N / 动词 V）
+
 并执行下面动作：
 
 - 先读取 `data/words.json`
@@ -96,6 +107,8 @@
 
 - `term`
 - `type`
+- `pos`
+- `senses`
 - `translation`
 - `analysis`
 - `phonetic`
@@ -107,6 +120,22 @@
 - `review.correct_count`
 - `review.incorrect_count`
 - `review.review_history`
+
+其中：
+
+- `pos` 用于保存词性信息
+- 建议使用简洁标注，如 `N`、`V`、`Adj`、`Adv`
+- 如果有多个常见词性，必须明确标注，不可省略
+- 多词性默认采用统一字符串格式保存，例如：`N / V`、`Adj / N`
+- 呈现给用户时，也应按同样格式直接展示在翻译行中
+- 词性顺序尽量按主要常见用法在前、次要用法在后
+- 如果一个词在不同词性下有不同中文义项，应新增 `senses` 字段保存分词性释义
+- `senses` 建议为数组结构，例如：
+  - `{ "pos": "N", "translation": "审查；复习；评论" }`
+  - `{ "pos": "V", "translation": "审查；复查；复习" }`
+- `pos` 保留总览值，如 `N / V`
+- `translation` 保留该词的高频总述或合并义项
+- 具体分词性差异以 `senses` 为准
 
 当前 `data/words.json` 中没有单独的熟词文件。
 

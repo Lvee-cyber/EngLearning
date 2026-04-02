@@ -79,6 +79,14 @@ p {
   color: var(--muted);
 }
 
+.word-pos {
+  margin-bottom: 6px;
+  color: var(--accent-strong);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
 .hero {
   position: relative;
   overflow: hidden;
@@ -955,6 +963,14 @@ p {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
+}
+
+.explanation-meta {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .pronunciation-chip {
