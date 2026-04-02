@@ -3030,5 +3030,43 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sota",
+    "type": "word",
+    "pos": "Abbr / N",
+    "senses": [
+      {
+        "pos": "Abbr",
+        "translation": "state of the art 的缩写"
+      },
+      {
+        "pos": "N",
+        "translation": "当前最先进水平；最优结果"
+      }
+    ],
+    "translation": "当前最先进水平；最优结果",
+    "analysis": "通常不是普通单词，而是 state of the art 的缩写。在 AI、机器学习、科研论文和工程评测语境里常表示当前公开已知的最佳水平或最先进结果。",
+    "phonetic": "/ˌes əʊ tiː ˈeɪ/; /ˈsəʊtə/; /ˈsoʊtə/",
+    "origin": "来自短语 state of the art 的首字母缩写，原义是某一领域当前发展到的最高水平。",
+    "expansions": [
+      "SOTA model 最先进模型",
+      "SOTA performance 最先进性能",
+      "reach SOTA 达到当前最佳水平",
+      "SOTA benchmark result 当前最佳基准测试结果",
+      "state-of-the-art system 最先进系统"
+    ],
+    "pronunciation": "/ˌes əʊ tiː ˈeɪ/; /ˈsəʊtə/; /ˈsoʊtə/",
+    "accepted_answers": [
+      "最先进水平",
+      "最优结果",
+      "当前最佳水平"
+    ],
+    "added_at": "2026-04-02T10:55:36+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
