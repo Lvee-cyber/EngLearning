@@ -3068,5 +3068,494 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "compromise",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "妥协；折中方案"
+      },
+      {
+        "pos": "V",
+        "translation": "妥协；让步；损害；危及"
+      }
+    ],
+    "translation": "妥协；折中方案；损害；危及",
+    "analysis": "既可以作名词，也可以作动词。作名词时常表示妥协、折中办法；作动词时表示妥协、让步，也常表示损害、危及，尤其常见于安全、原则、质量等语境。",
+    "phonetic": "/ˈkɒmprəmaɪz/; /ˈkɑːmprəmaɪz/",
+    "origin": "来自中古法语 compromis，更早可追溯到拉丁语 compromissum，原本与双方共同承诺接受某种裁决有关，后来发展出妥协、折中和损害、危及的含义。",
+    "expansions": [
+      "make a compromise 作出妥协",
+      "reach a compromise 达成折中",
+      "compromise on price 在价格上让步",
+      "compromise safety 损害安全",
+      "a reasonable compromise 合理的折中方案"
+    ],
+    "pronunciation": "/ˈkɒmprəmaɪz/; /ˈkɑːmprəmaɪz/",
+    "accepted_answers": [
+      "妥协",
+      "折中方案",
+      "损害",
+      "危及"
+    ],
+    "added_at": "2026-04-02T11:01:50+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "blast",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "爆炸；冲击波；一阵强风；猛烈一击"
+      },
+      {
+        "pos": "V",
+        "translation": "炸毁；爆破；猛击；严厉批评"
+      }
+    ],
+    "translation": "爆炸；冲击波；一阵强风；猛击；爆破；严厉批评",
+    "analysis": "既可以作名词，也可以作动词。作名词时常表示爆炸、爆破声、冲击波，也可引申为强劲的一阵风或强烈的冲击；作动词时表示炸毁、爆破、猛击，还可表示严厉批评。",
+    "phonetic": "/blɑːst/; /blæst/",
+    "origin": "来自中古英语，与吹气、爆裂、强风相关，后来逐渐发展出爆炸、爆破、猛烈冲击、猛烈批评等含义。",
+    "expansions": [
+      "a blast of wind 一阵强风",
+      "blast a hole in the wall 把墙炸出一个洞",
+      "blast music 大声播放音乐",
+      "blast the policy 猛烈批评这项政策",
+      "the explosion sent out a blast 爆炸产生了冲击波"
+    ],
+    "pronunciation": "/blɑːst/; /blæst/",
+    "accepted_answers": [
+      "爆炸",
+      "冲击波",
+      "爆破",
+      "严厉批评"
+    ],
+    "added_at": "2026-04-02T11:02:54+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "intrusion",
+    "type": "word",
+    "pos": "N",
+    "translation": "闯入；侵入；干扰；侵犯",
+    "analysis": "这是一个名词，表示未经允许地进入、介入或打扰。既可用于物理层面的闯入、侵入，也常用于信息安全、隐私、个人空间等语境，表示入侵、侵犯、干扰。",
+    "phonetic": "/ɪnˈtruːʒən/",
+    "origin": "来自拉丁语 intrudere 的相关词形，核心含义是“推进去、闯进去”，后来发展为“侵入、打扰、侵犯”。",
+    "expansions": [
+      "unauthorized intrusion 未经授权的入侵",
+      "network intrusion 网络入侵",
+      "an intrusion into privacy 对隐私的侵犯",
+      "detect intrusion 检测入侵",
+      "intrusion detection system 入侵检测系统"
+    ],
+    "pronunciation": "/ɪnˈtruːʒən/",
+    "accepted_answers": [
+      "闯入",
+      "侵入",
+      "干扰",
+      "侵犯"
+    ],
+    "added_at": "2026-04-02T11:03:59+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "absurd",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "荒谬的；荒唐的；不合理的",
+    "analysis": "这是一个形容词，用来形容某件事、某种说法或某种情况“荒谬得不合常理”。它常带有明显的否定评价，语气比 strange 更强，往往表示不仅奇怪，而且不合理。",
+    "phonetic": "/əbˈsɜːd/; /əbˈsɝːd/",
+    "origin": "来自拉丁语 absurdus，原本有“不和谐、刺耳”的意思，后来引申为“不合理、荒谬”。",
+    "expansions": [
+      "an absurd idea 一个荒谬的想法",
+      "it sounds absurd 这听起来很荒唐",
+      "an absurd claim 荒谬的说法",
+      "the situation is absurd 这种情况很荒唐",
+      "reduce something to an absurd conclusion 把某事推向荒谬结论"
+    ],
+    "pronunciation": "/əbˈsɜːd/; /əbˈsɝːd/",
+    "accepted_answers": [
+      "荒谬的",
+      "荒唐的",
+      "不合理的"
+    ],
+    "added_at": "2026-04-02T13:47:58+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "huge leap",
+    "type": "phrase",
+    "pos": "Phrase",
+    "translation": "巨大飞跃；重大进步；大幅提升",
+    "analysis": "这是一个常见短语，通常表示某件事取得了非常明显、跨度很大的进展。既可以用于技术、能力、成绩、效率等方面的提升，也可以用于更抽象的发展变化。",
+    "phonetic": "/hjuːdʒ liːp/",
+    "origin": "由 huge（巨大的）和 leap（跳跃、飞跃）组成，常用于强调跨越式的大进步。",
+    "expansions": [
+      "a huge leap forward 巨大的前进飞跃",
+      "make a huge leap 取得巨大进步",
+      "a huge leap in performance 性能上的大幅提升",
+      "a huge leap for the company 对公司而言是一次重大跨越",
+      "this is a huge leap from the previous version 和上一版本相比这是巨大的进步"
+    ],
+    "pronunciation": "/hjuːdʒ liːp/",
+    "accepted_answers": [
+      "巨大飞跃",
+      "重大进步",
+      "大幅提升"
+    ],
+    "added_at": "2026-04-02T13:49:54+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "not a huge leap",
+    "type": "phrase",
+    "pos": "Phrase",
+    "translation": "算不上巨大飞跃；提升不算大；并不是很大的跨越",
+    "analysis": "这是对 a huge leap 的否定表达，通常表示某种变化、提升或进展有一点，但没有大到可以称为飞跃。语气上往往带有别夸大、没有那么明显的意味。",
+    "phonetic": "/nɒt ə hjuːdʒ liːp/; /nɑːt ə hjuːdʒ liːp/",
+    "origin": "由否定词 not 加短语 a huge leap 构成，是一个自然的评价型表达，用来弱化“巨大飞跃”这种说法。",
+    "expansions": [
+      "It’s not a huge leap from the previous version. 和上一版本相比，这不算巨大的提升。",
+      "The improvement is useful, but not a huge leap. 这个改进有用，但算不上飞跃。",
+      "It’s not a huge leap forward. 这不算一次很大的前进。",
+      "The new model is better, but not a huge leap better. 新模型更好，但没有好到跨越式提升。",
+      "That’s progress, just not a huge leap. 这算进步，但谈不上大跨越。"
+    ],
+    "pronunciation": "/nɒt ə hjuːdʒ liːp/; /nɑːt ə hjuːdʒ liːp/",
+    "accepted_answers": [
+      "算不上巨大飞跃",
+      "提升不算大",
+      "并不是很大的跨越"
+    ],
+    "added_at": "2026-04-02T13:51:38+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "for all I know",
+    "type": "phrase",
+    "pos": "Phrase",
+    "translation": "据我所知；说不定；也许",
+    "analysis": "这是一个常见口语短语，用来表示按照我目前知道的情况来看。中性时表示“据我所知”，带不确定或讽刺语气时可表示“说不定、没准儿”。通常暗含“我掌握的信息有限”。",
+    "phonetic": "/fə ɔːl aɪ nəʊ/; /fər ɔːl aɪ noʊ/",
+    "origin": "由 for all 和 I know 组合而成，字面接近“就我所知道的一切而言”，后来固定化为表示“据我所知”或“说不定”的短语。",
+    "expansions": [
+      "For all I know, he may have left already. 据我所知，他可能已经走了。",
+      "For all I know, they never received the message. 说不定他们根本没收到消息。",
+      "For all I know, it could be true. 就我所知，这也许是真的。",
+      "For all I know, she’s still waiting. 没准她还在等。",
+      "That’s all I know, and for all I know, I could be wrong. 我只知道这些，而且说不定我还错了。"
+    ],
+    "pronunciation": "/fə ɔːl aɪ nəʊ/; /fər ɔːl aɪ noʊ/",
+    "accepted_answers": [
+      "据我所知",
+      "说不定",
+      "也许"
+    ],
+    "added_at": "2026-04-02T13:54:16+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "interstellar",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "星际的；恒星之间的",
+    "analysis": "这是一个形容词，用来描述恒星与恒星之间的空间、旅行、物质或现象。常见于天文学、科幻、航天语境。",
+    "phonetic": "/ˌɪntəˈstelə/; /ˌɪntərˈstelər/",
+    "origin": "由 inter-（在……之间）和 stellar（恒星的）组成，字面意思是“在恒星之间的”。",
+    "expansions": [
+      "interstellar space 星际空间",
+      "interstellar travel 星际旅行",
+      "interstellar dust 星际尘埃",
+      "interstellar mission 星际任务",
+      "interstellar communication 星际通信"
+    ],
+    "pronunciation": "/ˌɪntəˈstelə/; /ˌɪntərˈstelər/",
+    "accepted_answers": [
+      "星际的",
+      "恒星之间的"
+    ],
+    "added_at": "2026-04-02T13:56:21+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "upcycle",
+    "type": "word",
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "升级改造；再造利用；把废旧物改造成更有价值的东西"
+      },
+      {
+        "pos": "N",
+        "translation": "升级再造；再造利用的过程或结果"
+      }
+    ],
+    "translation": "升级改造；再造利用；把废旧物改造成更有价值的东西",
+    "analysis": "这个词既可以作动词，也可以作名词。作动词时，表示把旧物、废料或不再使用的材料重新设计、加工，变成更有价值或更有创意的新东西；作名词时，较少见，指这种升级再造的过程或结果。它和 recycle 不完全一样，upcycle 更强调价值提升。",
+    "phonetic": "/ˌʌpˈsaɪkəl/",
+    "origin": "由 up- 和 recycle 中的 cycle 组合而成，核心含义是“不只是再利用，而是提升价值后的再利用”。",
+    "expansions": [
+      "upcycle old clothes 把旧衣服升级改造",
+      "upcycle waste materials 再造利用废旧材料",
+      "an upcycled product 升级再造产品",
+      "upcycle furniture 改造旧家具",
+      "creative upcycling 创意升级再造"
+    ],
+    "pronunciation": "/ˌʌpˈsaɪkəl/",
+    "accepted_answers": [
+      "升级改造",
+      "再造利用",
+      "升级再造"
+    ],
+    "added_at": "2026-04-07T10:49:20+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "pilot",
+    "type": "word",
+    "pos": "N / V / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "飞行员；领航员；试点项目"
+      },
+      {
+        "pos": "V",
+        "translation": "驾驶；领航；试行"
+      },
+      {
+        "pos": "Adj",
+        "translation": "试点的；试验性的"
+      }
+    ],
+    "translation": "飞行员；领航员；试点项目；驾驶；试行",
+    "analysis": "这个词既可以作名词，也可以作动词，偶尔也作形容词。作名词时最常见意思是飞行员，也可指领航员或试点项目；作动词时表示驾驶或试行；作形容词时常用于 pilot project、pilot program，表示试点的。",
+    "phonetic": "/ˈpaɪlət/",
+    "origin": "来自意大利语 pilota，后经法语进入英语，最初与引导、领航有关，后来扩展到飞行、航海和试点项目等语境。",
+    "expansions": [
+      "airline pilot 航空公司飞行员",
+      "pilot a plane 驾驶飞机",
+      "pilot program 试点项目",
+      "pilot study 试点研究",
+      "run a pilot 开展试点"
+    ],
+    "pronunciation": "/ˈpaɪlət/",
+    "accepted_answers": [
+      "飞行员",
+      "领航员",
+      "试点项目",
+      "驾驶",
+      "试行"
+    ],
+    "added_at": "2026-04-07T10:51:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "crunch",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "嘎吱声；关键时刻；紧缩"
+      },
+      {
+        "pos": "V",
+        "translation": "嘎吱嘎吱地咬；压碎；碾碎；快速处理数据"
+      }
+    ],
+    "translation": "嘎吱作响；关键时刻；紧缩；碾碎；吃得嘎嘣响",
+    "analysis": "这个词既可以作名词，也可以作动词。作 V 时，常表示嘎吱嘎吱地咬、压碎、碾碎，也可引申为快速处理大量数据；作 N 时，常表示嘎吱声，也见于 the crunch、credit crunch 等表达中，表示关键关头或资金紧缩。",
+    "phonetic": "/krʌntʃ/",
+    "origin": "这个词带有拟声色彩，和“咔嚓、嘎吱”的声音有关，后来逐渐扩展出碾碎、挤压、紧要关头、紧缩等意义。",
+    "expansions": [
+      "crunch the numbers 快速处理数据；做数据测算",
+      "credit crunch 信贷紧缩",
+      "time crunch 时间紧张",
+      "crunch into an apple 咬苹果发出嘎吱声",
+      "the crunch moment 关键时刻"
+    ],
+    "pronunciation": "/krʌntʃ/",
+    "accepted_answers": [
+      "嘎吱作响",
+      "关键时刻",
+      "紧缩",
+      "碾碎"
+    ],
+    "added_at": "2026-04-07T10:52:51+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "explicitly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "明确地；清楚地；直截了当地",
+    "analysis": "这是副词，来自 explicit。表示某件事被明确说出、直接表达、毫不含糊地说明。常用于规则、要求、说明、声明、协议和学术写作语境。",
+    "phonetic": "/ɪkˈsplɪsɪtli/",
+    "origin": "来自 explicit 加副词后缀 -ly。explicit 源于拉丁语相关词根，核心含义是“展开说明、表达清楚”。",
+    "expansions": [
+      "state explicitly 明确说明",
+      "explicitly mention 明确提到",
+      "explicitly prohibit 明确禁止",
+      "explicitly requested 被明确要求",
+      "not explicitly stated 没有明确说明"
+    ],
+    "pronunciation": "/ɪkˈsplɪsɪtli/",
+    "accepted_answers": [
+      "明确地",
+      "清楚地",
+      "直截了当地"
+    ],
+    "added_at": "2026-04-07T10:53:59+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "tighter",
+    "type": "word",
+    "pos": "Adj / Adv",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "更紧的；更严格的；更紧密的；更紧张的"
+      },
+      {
+        "pos": "Adv",
+        "translation": "更紧密地；更牢地"
+      }
+    ],
+    "translation": "更紧的；更严格的；更紧密地",
+    "analysis": "这是 tight 的比较级形式。作形容词时表示更紧的、更严的、更严格的；作副词时常表示更紧密地、更牢地。具体含义随语境变化，可指物理上的更紧、规则上的更严、关系上的更紧密或预算上的更紧张。",
+    "phonetic": "/ˈtaɪtə/; /ˈtaɪtər/",
+    "origin": "来自 tight 的比较级形式。tight 本身表示“紧的、严的、密的”，加上比较级后缀 -er 后表示程度更强。",
+    "expansions": [
+      "tighter control 更严格的控制",
+      "tighter security 更严密的安全措施",
+      "a tighter budget 更紧张的预算",
+      "hold it tighter 把它抓得更紧",
+      "tighter integration 更紧密的整合"
+    ],
+    "pronunciation": "/ˈtaɪtə/; /ˈtaɪtər/",
+    "accepted_answers": [
+      "更紧的",
+      "更严格的",
+      "更紧密地"
+    ],
+    "added_at": "2026-04-07T15:02:21+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "entrench",
+    "type": "word",
+    "pos": "V",
+    "translation": "使根深蒂固；牢固确立；使陷入壕沟；挖壕防守",
+    "analysis": "这是一个动词。最常见的抽象含义是使某种制度、观念、利益或地位变得牢固、难以改变，常见于政治、社会、组织和制度语境。在较旧或军事语境里，它也可以表示挖壕沟设防或使驻扎于壕沟中。",
+    "phonetic": "/ɪnˈtrentʃ/",
+    "origin": "来自法语相关词形，词根和 trench（壕沟）有关。最初偏向“挖壕设防”，后来引申为“使某种局面牢固固定下来”。",
+    "expansions": [
+      "entrench power 巩固权力",
+      "entrench inequality 固化不平等",
+      "deeply entrenched belief 根深蒂固的观念",
+      "entrench a system 使某个体系牢固确立",
+      "entrench troops 使部队构筑壕沟防守"
+    ],
+    "pronunciation": "/ɪnˈtrentʃ/",
+    "accepted_answers": [
+      "使根深蒂固",
+      "牢固确立",
+      "挖壕防守"
+    ],
+    "added_at": "2026-04-07T15:09:35+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adjacent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "邻近的；毗连的；紧接着的",
+    "analysis": "这是一个形容词，表示两个事物在空间、位置或顺序上彼此相邻。常用于地理、建筑、图表、技术和抽象关系语境。与 nearby 相比，adjacent 更强调直接相邻。",
+    "phonetic": "/əˈdʒeɪsənt/",
+    "origin": "来自拉丁语 adjacere，由 ad-（靠近）和 jacere（躺、位于）构成，核心含义是“靠着、毗连”。",
+    "expansions": [
+      "adjacent room 隔壁房间",
+      "adjacent building 相邻建筑",
+      "adjacent to 与……相邻",
+      "adjacent cells 相邻单元格",
+      "adjacent category 相邻类别"
+    ],
+    "pronunciation": "/əˈdʒeɪsənt/",
+    "accepted_answers": [
+      "邻近的",
+      "毗连的",
+      "紧接着的"
+    ],
+    "added_at": "2026-04-07T16:13:21+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
