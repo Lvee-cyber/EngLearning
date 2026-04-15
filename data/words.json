@@ -3557,5 +3557,290 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sector",
+    "type": "word",
+    "pos": "N",
+    "translation": "部门；领域；行业；区域；扇形",
+    "analysis": "这是一个名词。它既可以表示经济、社会或组织中的部门、行业、领域，也可以表示空间或图形中的区域、扇区、扇形。常见于 public sector、technology sector 等表达。",
+    "phonetic": "/ˈsektə/; /ˈsektər/",
+    "origin": "来自拉丁语 sector，与“切开、分割”相关，后来发展出“被划分出来的一部分、一个区块、一个部门”的含义。",
+    "expansions": [
+      "public sector 公共部门",
+      "private sector 私营部门",
+      "technology sector 科技行业",
+      "in every sector 在各个领域",
+      "a sector of a circle 圆的扇形"
+    ],
+    "pronunciation": "/ˈsektə/; /ˈsektər/",
+    "accepted_answers": [
+      "部门",
+      "领域",
+      "行业",
+      "区域",
+      "扇形"
+    ],
+    "added_at": "2026-04-08T11:16:19+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "labor",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "劳动；劳工；劳力"
+      },
+      {
+        "pos": "V",
+        "translation": "艰难地做；费力工作"
+      }
+    ],
+    "translation": "劳动；劳工；费力做事",
+    "analysis": "既可作名词表示劳动、劳工或劳动力，也可作动词表示费力地工作或艰难地做某事。美式英语常写作 labor，英式对应拼写多为 labour。",
+    "phonetic": "/ˈleɪbər/",
+    "origin": "来自拉丁语 labor，意为辛劳、工作、努力。",
+    "expansions": [
+      "manual labor 体力劳动",
+      "labor market 劳动力市场",
+      "labor force 劳动力",
+      "labor over something 为某事费力",
+      "in labor 临产中"
+    ],
+    "pronunciation": "/ˈleɪbər/",
+    "accepted_answers": [
+      "劳动",
+      "劳工",
+      "劳力",
+      "费力工作"
+    ],
+    "added_at": "2026-04-08T15:29:35+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "suburb",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "郊区；市郊；城郊住宅区"
+      }
+    ],
+    "translation": "郊区；城郊住宅区",
+    "analysis": "表示城市外围的居住区，通常离市中心有一定距离，但仍属于城市生活圈。常用于描述住宅区、通勤区或城市边缘生活区。",
+    "phonetic": "/ˈsʌbɜːb; ˈsʌbɝːb/",
+    "origin": "来自拉丁语 suburbium，由 sub- 和 urbs 构成，原义是城外地区。",
+    "expansions": [
+      "live in the suburbs 住在郊区",
+      "suburban area 郊区地带",
+      "a suburb of Shanghai 上海的一个郊区",
+      "move to the suburbs 搬到郊区",
+      "suburb life 郊区生活"
+    ],
+    "pronunciation": "/ˈsʌbɜːb; ˈsʌbɝːb/",
+    "accepted_answers": [
+      "郊区",
+      "市郊",
+      "城郊住宅区"
+    ],
+    "added_at": "2026-04-09T09:13:53+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "rehearsal",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "排练；演练；彩排"
+      }
+    ],
+    "translation": "排练；演练；彩排",
+    "analysis": "指演出或活动正式开始前的练习和准备，也可指对某个计划或流程的演练。",
+    "phonetic": "/rɪˈhɜːsəl; rɪˈhɝːsəl/",
+    "origin": "来自动词 rehearse（排练），源自法语及拉丁语词根，表示重复练习。",
+    "expansions": [
+      "dress rehearsal 彩排",
+      "rehearsal room 排练室",
+      "final rehearsal 最终排练",
+      "rehearsal for a play 戏剧排练",
+      "run a rehearsal 进行排练"
+    ],
+    "pronunciation": "/rɪˈhɜːsəl; rɪˈhɝːsəl/",
+    "accepted_answers": [
+      "排练",
+      "演练",
+      "彩排"
+    ],
+    "added_at": "2026-04-13T10:51:06+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "concrete",
+    "type": "word",
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "具体的；实在的；有形的；实质性的"
+      },
+      {
+        "pos": "N",
+        "translation": "混凝土"
+      }
+    ],
+    "translation": "具体的；实在的；混凝土",
+    "analysis": "作形容词表示具体的、实在的、可感知或有形的；作名词指建筑材料“混凝土”。语境中常用来强调“不是抽象的而是具体可执行/可见的”。",
+    "phonetic": "/ˈkɒŋkriːt; ˈkɑːŋkriːt/",
+    "origin": "来自拉丁语 concretus，意为“凝结、结合在一起”。",
+    "expansions": [
+      "concrete plan 具体计划",
+      "concrete evidence 确凿证据",
+      "concrete example 具体例子",
+      "concrete steps 具体步骤",
+      "pour concrete 浇筑混凝土"
+    ],
+    "pronunciation": "/ˈkɒŋkriːt; ˈkɑːŋkriːt/",
+    "accepted_answers": [
+      "具体的",
+      "实在的",
+      "混凝土",
+      "实质性的"
+    ],
+    "added_at": "2026-04-13T11:06:18+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "threshold",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "门槛；阈值；起点"
+      }
+    ],
+    "translation": "门槛；阈值；起点",
+    "analysis": "指进入某种状态或发生变化所需达到的临界点，也可指物理门槛。常用于技术、统计、医学、政策语境。",
+    "phonetic": "/ˈθreʃhəʊld; ˈθreʃhoʊld/",
+    "origin": "源自古英语，原义为门槛，后引申为临界点/阈值。",
+    "expansions": [
+      "threshold value 阈值",
+      "pain threshold 疼痛阈值",
+      "poverty threshold 贫困线",
+      "cross the threshold 达到临界点",
+      "raise/lower the threshold 提高/降低阈值"
+    ],
+    "pronunciation": "/ˈθreʃhəʊld; ˈθreʃhoʊld/",
+    "accepted_answers": [
+      "门槛",
+      "阈值",
+      "起点"
+    ],
+    "added_at": "2026-04-13T11:14:00+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "displace",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "取代；替代；移开；使流离失所"
+      }
+    ],
+    "translation": "取代；替代；移开；使流离失所",
+    "analysis": "作动词表示取代、替代，或把某物从原位移开；在新闻语境中也常表示使人流离失所。",
+    "phonetic": "/dɪsˈpleɪs/",
+    "origin": "来自拉丁语词根，dis- 表示分开、离开，整体含义发展为从原位移开或取而代之。",
+    "expansions": [
+      "displace workers 取代工人",
+      "be displaced by AI 被 AI 取代",
+      "displace a part 移开一个部件",
+      "displaced people 流离失所的人",
+      "displace water 排开水"
+    ],
+    "pronunciation": "/dɪsˈpleɪs/",
+    "accepted_answers": [
+      "取代",
+      "替代",
+      "移开",
+      "使流离失所"
+    ],
+    "added_at": "2026-04-15T09:27:24+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "route",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "路线；路径；途径；航线"
+      },
+      {
+        "pos": "V",
+        "translation": "按路线发送；为……规划路线；转送"
+      }
+    ],
+    "translation": "路线；途径；路由；按路线发送",
+    "analysis": "作名词时表示从一处到另一处的路径、线路或途径；作动词时常用于物流、交通或网络语境，表示规划路径、转送或路由。",
+    "phonetic": "/ruːt; raʊt/",
+    "origin": "来自古法语 route，意为道路、路径，后进入英语并扩展出交通和网络中的路线/路由含义。",
+    "expansions": [
+      "travel route 旅行路线",
+      "escape route 逃生路线",
+      "route map 路线图",
+      "route traffic 引导交通 / 路由流量",
+      "route a package 安排包裹转送"
+    ],
+    "pronunciation": "/ruːt; raʊt/",
+    "accepted_answers": [
+      "路线",
+      "路径",
+      "途径",
+      "路由",
+      "转送"
+    ],
+    "added_at": "2026-04-15T10:45:34+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
