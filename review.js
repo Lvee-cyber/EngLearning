@@ -58,6 +58,7 @@ const elements = {
   quizPanel: document.querySelector("#quiz-panel"),
   resultPanel: document.querySelector("#result-panel"),
   resultModal: document.querySelector(".result-modal"),
+  questionCard: document.querySelector(".question-card"),
   progressText: document.querySelector("#progress-text"),
   libraryCountText: document.querySelector("#library-count-text"),
   questionLabel: document.querySelector("#question-label"),
@@ -787,6 +788,28 @@ function renderChoiceOptions(entry) {
   });
 }
 
+function reorderQuestionCard(isSpelling) {
+  const card = elements.questionCard;
+  if (!card) return;
+  if (isSpelling) {
+    card.append(
+      elements.questionLabel,
+      elements.spellingSlots,
+      elements.questionPosText,
+      elements.translationText,
+      elements.choiceOptions,
+    );
+    return;
+  }
+  card.append(
+    elements.questionLabel,
+    elements.translationText,
+    elements.questionPosText,
+    elements.choiceOptions,
+    elements.spellingSlots,
+  );
+}
+
 function renderQuestion() {
   const term = state.queue[state.currentIndex];
   const entry = state.words.find((item) => item.term === term);
@@ -799,6 +822,8 @@ function renderQuestion() {
   elements.libraryCountText.textContent = `待复习 ${getReviewableWords().length} 个`;
   const isSpelling = state.reviewMode === "spelling";
   elements.questionLabel.textContent = isSpelling ? "根据中文释义补全单词" : "根据中文释义选择正确单词";
+  elements.questionCard?.classList.toggle("is-choice-mode", !isSpelling);
+  reorderQuestionCard(isSpelling);
   showElement(elements.spellingSlots, isSpelling);
   showElement(elements.choiceOptions, !isSpelling);
   if (isSpelling) renderSpellingSlots(entry.term);

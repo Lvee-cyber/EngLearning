@@ -797,6 +797,11 @@ p {
   border: 1px solid var(--line);
 }
 
+.question-card.is-choice-mode {
+  display: flex;
+  flex-direction: column;
+}
+
 #masked-term {
   margin-bottom: 12px;
   font-size: clamp(28px, 5vw, 44px);
@@ -862,6 +867,40 @@ p {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
   margin-bottom: 16px;
+}
+
+.question-card.is-choice-mode .translation-text {
+  order: 0;
+  margin-bottom: 16px;
+  font-size: clamp(24px, 3.8vw, 36px);
+  line-height: 1.42;
+  font-weight: 900;
+  color: var(--text);
+}
+
+.question-card.is-choice-mode .sense-item {
+  gap: 12px;
+}
+
+.question-card.is-choice-mode .sense-pos {
+  font-size: 15px;
+}
+
+.question-card.is-choice-mode .sense-meaning {
+  font-weight: 800;
+}
+
+.question-card.is-choice-mode .word-pos {
+  order: 1;
+  margin: 0 0 12px;
+}
+
+.question-card.is-choice-mode .question-label {
+  margin-bottom: 10px;
+}
+
+.question-card.is-choice-mode .choice-options {
+  order: 2;
 }
 
 .choice-option {
@@ -2160,6 +2199,16 @@ code {
   .translation-text {
     font-size: 15px;
     line-height: 1.5;
+  }
+
+  .question-card.is-choice-mode .translation-text {
+    margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 1.45;
+  }
+
+  .question-card.is-choice-mode .sense-pos {
+    font-size: 13px;
   }
 
   .result-overlay {
