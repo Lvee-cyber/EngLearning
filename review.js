@@ -1,15 +1,20 @@
 const APP_CONFIG = window.APP_CONFIG || {};
 const STORAGE_KEYS = {
   profileId: "englearning.profile_id",
+  dictionaryChoiceSample: "englearning.dictionary_choice_sample",
 };
 const MASTERED_THRESHOLD = Number(APP_CONFIG.masteredThreshold || 10);
 const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supabaseTable || "review_progress";
+const CHOICE_SAMPLE_PAGE_SIZE = 60;
+const CHOICE_SAMPLE_TARGET = 240;
+const CHOICE_SAMPLE_TTL_MS = 3 * 60 * 1000;
 
 const state = {
   words: [],
   dictionaryEntries: [],
   wordsSource: "json",
   dictionarySource: "json",
+  dictionaryEntriesPromise: null,
   progressByTerm: {},
   profileSuggestions: [],
   queue: [],
@@ -148,6 +153,10 @@ function getPosTokens(entry) {
 
 function updateSetupStatus(message) {
   elements.setupStatus.innerHTML = message;
+}
+
+function getDefaultSetupStatus() {
+  return `已读取${state.wordsSource === "supabase" ? " Supabase " : "本地 JSON "}词库，共 ${state.words.length} 个词条。当前待复习 ${getReviewableWords().length} 个。`;
 }
 
 function updateSyncStatus(message, tone = "muted") {
@@ -415,15 +424,108 @@ async function fetchWords() {
 
 async function ensureDictionaryEntries() {
   if (state.dictionaryEntries.length) return;
-  const { items, source } = await window.ContentStore.fetchCollection({
-    supabase: state.supabase,
-    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
-    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
-    label: "辞典",
+  if (state.dictionaryEntriesPromise) {
+    await state.dictionaryEntriesPromise;
+    return;
+  }
+  state.dictionaryEntriesPromise = fetchDictionaryChoiceSample()
+    .then(({ items, source }) => {
+      state.dictionaryEntries = items;
+      state.dictionarySource = source;
+    })
+    .finally(() => {
+      state.dictionaryEntriesPromise = null;
+    });
+  await state.dictionaryEntriesPromise;
+}
+
+function readChoiceSampleCache() {
+  try {
+    const raw = window.sessionStorage.getItem(STORAGE_KEYS.dictionaryChoiceSample);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (!parsed || typeof parsed !== "object" || !Array.isArray(parsed.items)) return null;
+    if (Date.now() - Number(parsed.cachedAt || 0) > CHOICE_SAMPLE_TTL_MS) {
+      window.sessionStorage.removeItem(STORAGE_KEYS.dictionaryChoiceSample);
+      return null;
+    }
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+function writeChoiceSampleCache(items, source) {
+  try {
+    window.sessionStorage.setItem(
+      STORAGE_KEYS.dictionaryChoiceSample,
+      JSON.stringify({
+        items,
+        source,
+        cachedAt: Date.now(),
+      }),
+    );
+  } catch {}
+}
+
+async function fetchDictionaryChoiceSample() {
+  const cached = readChoiceSampleCache();
+  if (cached) {
+    return {
+      items: cached.items,
+      source: cached.source || "cache",
+    };
+  }
+
+  if (!state.supabase) {
+    const fallbackItems = shuffle(state.words).slice(0, Math.min(CHOICE_SAMPLE_TARGET, state.words.length));
+    writeChoiceSampleCache(fallbackItems, "words");
+    return { items: fallbackItems, source: "words" };
+  }
+
+  const tableName = APP_CONFIG.dictionaryTable || "dictionary_entries";
+  const { count, error: countError } = await state.supabase
+    .from(tableName)
+    .select("term", { count: "exact", head: true });
+
+  if (countError) throw countError;
+
+  const total = Number(count || 0);
+  if (!total) {
+    const fallbackItems = shuffle(state.words).slice(0, Math.min(CHOICE_SAMPLE_TARGET, state.words.length));
+    writeChoiceSampleCache(fallbackItems, "words");
+    return { items: fallbackItems, source: "words" };
+  }
+
+  const maxStart = Math.max(0, total - CHOICE_SAMPLE_PAGE_SIZE);
+  const requestCount = Math.max(2, Math.ceil(CHOICE_SAMPLE_TARGET / CHOICE_SAMPLE_PAGE_SIZE));
+  const offsets = new Set([0]);
+  while (offsets.size < requestCount) {
+    offsets.add(Math.floor(Math.random() * (maxStart + 1)));
+  }
+
+  const responses = await Promise.all(
+    [...offsets].map((offset) =>
+      state.supabase.from(tableName).select("term, payload").order("term").range(offset, offset + CHOICE_SAMPLE_PAGE_SIZE - 1),
+    ),
+  );
+
+  const items = [];
+  const seen = new Set();
+  responses.forEach(({ data, error }) => {
+    if (error) throw error;
+    (Array.isArray(data) ? data : []).forEach((row) => {
+      const payload = row?.payload;
+      const key = normalizeWord(payload?.term);
+      if (!payload || !key || seen.has(key)) return;
+      seen.add(key);
+      items.push(payload);
+    });
   });
-  const entries = Array.isArray(items) ? items : [];
-  state.dictionaryEntries = entries;
-  state.dictionarySource = source;
+
+  const finalItems = items.slice(0, CHOICE_SAMPLE_TARGET);
+  writeChoiceSampleCache(finalItems, "supabase-sample");
+  return { items: finalItems, source: "supabase-sample" };
 }
 
 async function loadProgress() {
@@ -501,9 +603,10 @@ async function bootData() {
   await fetchProfileSuggestions();
   await loadProgress();
   updateHomeStats();
-  updateSetupStatus(
-    `已读取${state.wordsSource === "supabase" ? " Supabase " : "本地 JSON "}词库，共 ${state.words.length} 个词条。当前待复习 ${getReviewableWords().length} 个。`,
-  );
+  updateSetupStatus(getDefaultSetupStatus());
+  ensureDictionaryEntries().catch((error) => {
+    console.warn("[review] 单选候选池预热失败。", error?.message || error);
+  });
 }
 
 function renderHistoryOverview(message = "") {
@@ -647,6 +750,15 @@ function buildChoiceOptions(entry) {
     distractors.push(candidate.term);
   });
 
+  if (distractors.length < 3) {
+    state.words.forEach((candidate) => {
+      const key = normalizeWord(candidate.term);
+      if (!candidate?.term || seen.has(key) || key === normalizeWord(entry.term)) return;
+      seen.add(key);
+      distractors.push(candidate.term);
+    });
+  }
+
   return shuffle([entry.term, ...distractors.slice(0, 3)]);
 }
 
@@ -720,7 +832,9 @@ async function startReview() {
   }
   if (state.reviewMode === "choice") {
     try {
+      updateSetupStatus("正在准备单选题候选词，请稍候。");
       await ensureDictionaryEntries();
+      updateSetupStatus(getDefaultSetupStatus());
     } catch (error) {
       updateSetupStatus(`单选题候选词读取失败：${error.message}`);
       return;
@@ -1016,6 +1130,7 @@ elements.modeSpellingButton?.addEventListener("click", () => {
   elements.modeChoiceButton.classList.remove("is-active");
   elements.modeSpellingButton.setAttribute("aria-checked", "true");
   elements.modeChoiceButton.setAttribute("aria-checked", "false");
+  updateSetupStatus(getDefaultSetupStatus());
 });
 elements.modeChoiceButton?.addEventListener("click", () => {
   state.reviewMode = "choice";
@@ -1023,6 +1138,16 @@ elements.modeChoiceButton?.addEventListener("click", () => {
   elements.modeSpellingButton.classList.remove("is-active");
   elements.modeChoiceButton.setAttribute("aria-checked", "true");
   elements.modeSpellingButton.setAttribute("aria-checked", "false");
+  if (!state.dictionaryEntries.length) {
+    updateSetupStatus("正在预加载单选题候选词。");
+    ensureDictionaryEntries()
+      .then(() => {
+        updateSetupStatus(getDefaultSetupStatus());
+      })
+      .catch((error) => {
+        updateSetupStatus(`单选题候选词读取失败：${error.message}`);
+      });
+  }
 });
 elements.profileIdToggle?.addEventListener("click", () => {
   if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions(true);
