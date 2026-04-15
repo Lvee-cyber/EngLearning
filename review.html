@@ -82,6 +82,10 @@
               </div>
             </div>
           </div>
+          <div class="review-mode-group" role="radiogroup" aria-label="复习模式">
+            <button id="mode-spelling-button" class="mode-chip is-active" type="button" role="radio" aria-checked="true" data-mode="spelling">拼写</button>
+            <button id="mode-choice-button" class="mode-chip" type="button" role="radio" aria-checked="false" data-mode="choice">单选</button>
+          </div>
           <div class="setup-actions">
             <button id="words-button" class="secondary-button" type="button">查看词库</button>
             <button id="history-toggle-button" class="secondary-button" type="button" aria-expanded="false" aria-controls="history-overview-panel">查看历史记录</button>
@@ -108,8 +112,9 @@
         </div>
 
         <div class="question-card">
-          <p class="question-label">根据中文释义补全单词</p>
+          <p id="question-label" class="question-label">根据中文释义补全单词</p>
           <div id="spelling-slots" class="spelling-slots" aria-label="单词拼写题"></div>
+          <div id="choice-options" class="choice-options hidden" aria-label="单选题候选项"></div>
           <p id="question-pos-text" class="word-pos hidden"></p>
           <p id="translation-text" class="translation-text"></p>
         </div>

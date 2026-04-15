@@ -7,12 +7,17 @@ const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supab
 
 const state = {
   words: [],
+  dictionaryEntries: [],
   wordsSource: "json",
+  dictionarySource: "json",
   progressByTerm: {},
   profileSuggestions: [],
   queue: [],
   currentIndex: 0,
   currentItem: null,
+  reviewMode: "spelling",
+  currentChoiceOptions: [],
+  currentChoiceSelection: "",
   lastResult: null,
   supabase: null,
   syncReady: false,
@@ -32,6 +37,8 @@ const elements = {
   wordsButton: document.querySelector("#words-button"),
   dictionaryButton: document.querySelector("#dictionary-button"),
   reviewCount: document.querySelector("#review-count"),
+  modeSpellingButton: document.querySelector("#mode-spelling-button"),
+  modeChoiceButton: document.querySelector("#mode-choice-button"),
   profileIdInput: document.querySelector("#profile-id"),
   profileIdToggle: document.querySelector("#profile-id-toggle"),
   profileIdSuggestions: document.querySelector("#profile-id-suggestions"),
@@ -48,7 +55,9 @@ const elements = {
   resultModal: document.querySelector(".result-modal"),
   progressText: document.querySelector("#progress-text"),
   libraryCountText: document.querySelector("#library-count-text"),
+  questionLabel: document.querySelector("#question-label"),
   spellingSlots: document.querySelector("#spelling-slots"),
+  choiceOptions: document.querySelector("#choice-options"),
   questionPosText: document.querySelector("#question-pos-text"),
   translationText: document.querySelector("#translation-text"),
   resultTitle: document.querySelector("#result-title"),
@@ -62,7 +71,7 @@ const elements = {
   analysisText: document.querySelector("#analysis-text"),
   expansionsList: document.querySelector("#expansions-list"),
   historyText: document.querySelector("#history-text"),
-  actionRows: Array.from(document.querySelectorAll(".setup-grid, .setup-actions, .quiz-topbar, .answer-row, .result-actions")),
+  actionRows: Array.from(document.querySelectorAll(".setup-grid, .review-mode-group, .setup-actions, .quiz-topbar, .answer-row, .result-actions")),
 };
 
 function shuffle(items) {
@@ -128,6 +137,13 @@ function getTranslationHtml(entry) {
       `,
     )
     .join("");
+}
+
+function getPosTokens(entry) {
+  return getPosText(entry)
+    .split("/")
+    .map((item) => item.trim().toLowerCase())
+    .filter(Boolean);
 }
 
 function updateSetupStatus(message) {
@@ -397,6 +413,19 @@ async function fetchWords() {
   state.wordsSource = source;
 }
 
+async function ensureDictionaryEntries() {
+  if (state.dictionaryEntries.length) return;
+  const { items, source } = await window.ContentStore.fetchCollection({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+  });
+  const entries = Array.isArray(items) ? items : [];
+  state.dictionaryEntries = entries;
+  state.dictionarySource = source;
+}
+
 async function loadProgress() {
   const profileId = getProfileId();
   if (!state.supabase || !profileId) {
@@ -585,6 +614,67 @@ function pickReviewItems() {
   state.currentIndex = 0;
 }
 
+function scoreChoiceCandidate(target, candidate) {
+  if (!candidate || normalizeWord(candidate.term) === normalizeWord(target.term)) return Number.NEGATIVE_INFINITY;
+  let score = 0;
+  const targetPos = getPosTokens(target);
+  const candidatePos = getPosTokens(candidate);
+  if (targetPos.length && candidatePos.some((item) => targetPos.includes(item))) score += 8;
+  if ((target.term || "").includes(" ") === (candidate.term || "").includes(" ")) score += 3;
+  if ((target.term || "").charAt(0).toLowerCase() === (candidate.term || "").charAt(0).toLowerCase()) score += 2;
+  score -= Math.abs(String(target.term || "").length - String(candidate.term || "").length) * 0.35;
+  const targetWordCount = String(target.term || "").trim().split(/\s+/).filter(Boolean).length;
+  const candidateWordCount = String(candidate.term || "").trim().split(/\s+/).filter(Boolean).length;
+  score -= Math.abs(targetWordCount - candidateWordCount) * 1.5;
+  score += Math.random() * 0.8;
+  return score;
+}
+
+function buildChoiceOptions(entry) {
+  const poolBase = state.dictionaryEntries.length ? state.dictionaryEntries : state.words;
+  const pool = poolBase.filter((item) => item && item.term && normalizeWord(item.term) !== normalizeWord(entry.term));
+  const ranked = pool
+    .map((candidate) => ({ candidate, score: scoreChoiceCandidate(entry, candidate) }))
+    .filter((item) => Number.isFinite(item.score))
+    .sort((a, b) => b.score - a.score);
+
+  const distractors = [];
+  const seen = new Set([normalizeWord(entry.term)]);
+  ranked.forEach(({ candidate }) => {
+    const key = normalizeWord(candidate.term);
+    if (seen.has(key)) return;
+    seen.add(key);
+    distractors.push(candidate.term);
+  });
+
+  return shuffle([entry.term, ...distractors.slice(0, 3)]);
+}
+
+function renderChoiceOptions(entry) {
+  state.currentChoiceSelection = "";
+  state.currentChoiceOptions = buildChoiceOptions(entry);
+  elements.choiceOptions.innerHTML = state.currentChoiceOptions
+    .map(
+      (term) => `
+        <button class="choice-option" type="button" data-term="${escapeHtml(term)}" aria-pressed="false">
+          <span class="choice-option-label">${escapeHtml(term)}</span>
+        </button>
+      `,
+    )
+    .join("");
+
+  elements.choiceOptions.querySelectorAll(".choice-option").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.currentChoiceSelection = button.dataset.term || "";
+      elements.choiceOptions.querySelectorAll(".choice-option").forEach((item) => {
+        const active = item === button;
+        item.classList.toggle("is-selected", active);
+        item.setAttribute("aria-pressed", String(active));
+      });
+    });
+  });
+}
+
 function renderQuestion() {
   const term = state.queue[state.currentIndex];
   const entry = state.words.find((item) => item.term === term);
@@ -595,7 +685,12 @@ function renderQuestion() {
   showElement(elements.resultPanel, false);
   elements.progressText.textContent = `第 ${state.currentIndex + 1} 题 / 共 ${state.queue.length} 题`;
   elements.libraryCountText.textContent = `待复习 ${getReviewableWords().length} 个`;
-  renderSpellingSlots(entry.term);
+  const isSpelling = state.reviewMode === "spelling";
+  elements.questionLabel.textContent = isSpelling ? "根据中文释义补全单词" : "根据中文释义选择正确单词";
+  showElement(elements.spellingSlots, isSpelling);
+  showElement(elements.choiceOptions, !isSpelling);
+  if (isSpelling) renderSpellingSlots(entry.term);
+  else renderChoiceOptions(entry);
   const posText = getPosText(entry);
   elements.questionPosText.textContent = posText ? `词性：${posText}` : "";
   showElement(elements.questionPosText, Boolean(posText));
@@ -623,6 +718,14 @@ async function startReview() {
     updateSetupStatus(`当前没有待复习词条。累计词条 ${state.words.length} 个。`);
     return;
   }
+  if (state.reviewMode === "choice") {
+    try {
+      await ensureDictionaryEntries();
+    } catch (error) {
+      updateSetupStatus(`单选题候选词读取失败：${error.message}`);
+      return;
+    }
+  }
 
   pickReviewItems();
   state.currentSessionId = createSessionId();
@@ -640,12 +743,13 @@ function exitToHome() {
   elements.startButton.focus();
 }
 
-function buildUserAnswer(entry, typedTail) {
-  return `${entry.term[0] || ""}${typedTail.trim()}`;
+function buildUserAnswer(entry, typedTailOrChoice) {
+  if (state.reviewMode === "choice") return String(typedTailOrChoice || "").trim();
+  return `${entry.term[0] || ""}${typedTailOrChoice.trim()}`;
 }
 
-function isCorrect(entry, typedTail) {
-  return normalizeWord(buildUserAnswer(entry, typedTail)) === normalizeWord(entry.term);
+function isCorrect(entry, userAnswer) {
+  return normalizeWord(buildUserAnswer(entry, userAnswer)) === normalizeWord(entry.term);
 }
 
 function nowIso() {
@@ -782,7 +886,8 @@ function formatHistory(entry) {
 }
 
 function renderResult() {
-  const { correct, entry, movedToMastered, userAnswer } = state.lastResult;
+  const { correct, entry, movedToMastered, userAnswer, mode } = state.lastResult;
+  const actionLabel = mode === "choice" ? "选择" : "拼写";
   setReviewMode(true);
   showElement(elements.quizPanel, false);
   showElement(elements.resultPanel, true);
@@ -795,8 +900,8 @@ function renderResult() {
   elements.resultMessage.textContent = movedToMastered
     ? `该词累计答对达到 ${MASTERED_THRESHOLD} 次，已进入熟词状态。`
     : correct
-      ? "拼写正确，结果已同步到在线进度。"
-      : "拼写不正确，先看一眼正确拼写和用法。";
+      ? `${actionLabel}正确，结果已同步到在线进度。`
+      : `${actionLabel}不正确，先看一眼正确答案和用法。`;
   elements.userAnswerText.textContent = userAnswer;
   elements.correctAnswerText.textContent = entry.term;
   const posText = getPosText(entry);
@@ -815,7 +920,7 @@ function renderResult() {
   elements.nextButton.focus();
 }
 
-async function persistResult(correct, typedTail) {
+async function persistResult(correct, userAnswer) {
   const entry = state.words.find((item) => item.term === state.currentItem.term);
   const prev = getProgress(entry);
   const next = {
@@ -830,8 +935,8 @@ async function persistResult(correct, typedTail) {
   next.review_history.push({
     answered_at: nowIso(),
     result: correct ? "correct" : "incorrect",
-    user_answer: buildUserAnswer(entry, typedTail),
-    mode: "spelling",
+    user_answer: buildUserAnswer(entry, userAnswer),
+    mode: state.reviewMode,
     session_id: state.currentSessionId || createSessionId(),
     session_started_at: state.currentSessionStartedAt || nowIso(),
   });
@@ -857,15 +962,20 @@ async function persistResult(correct, typedTail) {
     correct,
     entry,
     movedToMastered: Number(prev.correct_count || 0) < MASTERED_THRESHOLD && next.correct_count >= MASTERED_THRESHOLD,
-    userAnswer: buildUserAnswer(entry, typedTail),
+    userAnswer: buildUserAnswer(entry, userAnswer),
+    mode: state.reviewMode,
   };
 }
 
 async function submitAnswer() {
   if (!state.currentItem) return;
-  const typedTail = getTypedTailFromSlots();
-  const correct = isCorrect(state.currentItem, typedTail);
-  await persistResult(correct, typedTail);
+  const answer = state.reviewMode === "choice" ? state.currentChoiceSelection : getTypedTailFromSlots();
+  if (!String(answer || "").trim()) {
+    updateSetupStatus(state.reviewMode === "choice" ? "请先选择一个候选单词。" : "请先完成当前单词拼写。");
+    return;
+  }
+  const correct = isCorrect(state.currentItem, answer);
+  await persistResult(correct, answer);
   renderResult();
 }
 
@@ -900,6 +1010,20 @@ elements.restartButton.addEventListener("click", () => {
 elements.exitButton.addEventListener("click", exitToHome);
 elements.wordsButton?.addEventListener("click", openWordsPage);
 elements.dictionaryButton?.addEventListener("click", openDictionaryPage);
+elements.modeSpellingButton?.addEventListener("click", () => {
+  state.reviewMode = "spelling";
+  elements.modeSpellingButton.classList.add("is-active");
+  elements.modeChoiceButton.classList.remove("is-active");
+  elements.modeSpellingButton.setAttribute("aria-checked", "true");
+  elements.modeChoiceButton.setAttribute("aria-checked", "false");
+});
+elements.modeChoiceButton?.addEventListener("click", () => {
+  state.reviewMode = "choice";
+  elements.modeChoiceButton.classList.add("is-active");
+  elements.modeSpellingButton.classList.remove("is-active");
+  elements.modeChoiceButton.setAttribute("aria-checked", "true");
+  elements.modeSpellingButton.setAttribute("aria-checked", "false");
+});
 elements.profileIdToggle?.addEventListener("click", () => {
   if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions(true);
   else closeProfileSuggestions();
