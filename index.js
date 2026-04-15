@@ -321,7 +321,7 @@ elements.dictionaryInput?.addEventListener("keydown", (event) => {
     runLookup();
   }
 });
-elements.dictionaryResult?.addEventListener("click", (event) => {
+function prepareDictionaryDetailHandoff(event) {
   const link = event.target.closest(".dictionary-detail-link");
   if (!link) return;
   const term = String(link.dataset.term || "").trim();
@@ -329,7 +329,11 @@ elements.dictionaryResult?.addEventListener("click", (event) => {
   const entry = findDictionaryEntry(term);
   if (!entry) return;
   cacheDictionaryDetail(entry);
-});
+}
+
+elements.dictionaryResult?.addEventListener("pointerdown", prepareDictionaryDetailHandoff);
+elements.dictionaryResult?.addEventListener("mousedown", prepareDictionaryDetailHandoff);
+elements.dictionaryResult?.addEventListener("click", prepareDictionaryDetailHandoff);
 
 updateCalendarCard();
 window.setInterval(updateCalendarCard, 1000);

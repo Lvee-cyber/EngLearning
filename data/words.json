@@ -3842,5 +3842,83 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "batch",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "一批；一组；一炉；一届"
+      },
+      {
+        "pos": "V",
+        "translation": "分批处理；成批制作"
+      }
+    ],
+    "translation": "一批；一组；分批处理",
+    "analysis": "作名词时表示一次聚集、生产或处理的一组事物；作动词时表示按批次进行处理或制作，常见于工业、数据处理和程序任务语境。",
+    "phonetic": "/bætʃ/",
+    "origin": "来自中古英语，最初与一次制成的一批东西有关，后来扩展为一批事物以及批量处理。",
+    "expansions": [
+      "a batch of cookies 一批饼干",
+      "batch processing 批处理",
+      "in batches 分批地",
+      "batch job 批处理任务",
+      "process data in batches 分批处理数据"
+    ],
+    "pronunciation": "/bætʃ/",
+    "accepted_answers": [
+      "一批",
+      "一组",
+      "分批处理",
+      "批处理"
+    ],
+    "added_at": "2026-04-15T10:57:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "lease",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "租约；租赁合同；租期"
+      },
+      {
+        "pos": "V",
+        "translation": "出租；租借；租用"
+      }
+    ],
+    "translation": "租约；租赁；出租；租用",
+    "analysis": "作名词时通常指正式的租赁协议或租期；作动词时既可表示把某物出租给别人，也可表示自己租用某物。",
+    "phonetic": "/liːs/",
+    "origin": "来自古法语和中世纪拉丁语相关词，核心含义是让渡使用权，后来发展为租赁、租约。",
+    "expansions": [
+      "sign a lease 签订租约",
+      "lease agreement 租赁协议",
+      "lease a car 租一辆车",
+      "on a long-term lease 按长期租约",
+      "renew a lease 续租"
+    ],
+    "pronunciation": "/liːs/",
+    "accepted_answers": [
+      "租约",
+      "租赁",
+      "出租",
+      "租用"
+    ],
+    "added_at": "2026-04-15T10:59:07+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
