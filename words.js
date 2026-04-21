@@ -15,6 +15,7 @@ const state = {
 const elements = {
   profileIdInput: document.querySelector("#words-profile-id"),
   filter: document.querySelector("#words-filter"),
+  filterPills: [...document.querySelectorAll(".words-filter-pill")],
   search: document.querySelector("#words-search"),
   syncStatus: document.querySelector("#words-sync-status"),
   list: document.querySelector("#words-list"),
@@ -158,6 +159,15 @@ function updateStats() {
   elements.masteredCount.textContent = String(state.words.filter((entry) => isMastered(entry)).length);
 }
 
+function syncFilterPills() {
+  const activeFilter = elements.filter.value;
+  elements.filterPills.forEach((pill) => {
+    const isActive = pill.dataset.filterValue === activeFilter;
+    pill.classList.toggle("is-active", isActive);
+    pill.setAttribute("aria-pressed", isActive ? "true" : "false");
+  });
+}
+
 function applyFilter(words) {
   const filter = elements.filter.value;
   if (filter === "reviewable") return words.filter((entry) => !isMastered(entry));
@@ -176,6 +186,7 @@ function applySearch(words) {
 }
 
 function renderWords() {
+  syncFilterPills();
   const filtered = applySearch(applyFilter([...state.words]));
   filtered.sort((a, b) => {
     if (isMastered(a) !== isMastered(b)) return isMastered(a) ? 1 : -1;
@@ -232,6 +243,14 @@ async function init() {
 }
 
 elements.filter.addEventListener("change", renderWords);
+elements.filterPills.forEach((pill) => {
+  pill.addEventListener("click", () => {
+    const nextFilter = pill.dataset.filterValue || "all";
+    if (elements.filter.value === nextFilter) return;
+    elements.filter.value = nextFilter;
+    renderWords();
+  });
+});
 elements.search.addEventListener("input", renderWords);
 elements.profileIdInput.addEventListener("change", () => {
   reload().catch((error) => {

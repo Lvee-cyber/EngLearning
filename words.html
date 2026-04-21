@@ -48,18 +48,18 @@
         </div>
 
         <div class="stats-row words-stats">
-          <div class="stat-pill">
+          <button type="button" class="stat-pill words-filter-pill is-active" data-filter-value="all" aria-pressed="true">
             <span class="stat-label">全部</span>
             <strong id="words-total-count">0</strong>
-          </div>
-          <div class="stat-pill">
+          </button>
+          <button type="button" class="stat-pill words-filter-pill" data-filter-value="reviewable" aria-pressed="false">
             <span class="stat-label">待复习</span>
             <strong id="words-reviewable-count">0</strong>
-          </div>
-          <div class="stat-pill">
+          </button>
+          <button type="button" class="stat-pill words-filter-pill" data-filter-value="mastered" aria-pressed="false">
             <span class="stat-label">熟词</span>
             <strong id="words-mastered-count">0</strong>
-          </div>
+          </button>
         </div>
 
         <p id="words-sync-status" class="status-text">正在读取词库与在线进度。</p>

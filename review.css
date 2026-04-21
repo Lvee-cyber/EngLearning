@@ -1359,6 +1359,33 @@ code {
   margin-bottom: 12px;
 }
 
+.words-filter-pill {
+  appearance: none;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    background 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.words-filter-pill:hover {
+  border-color: rgba(127, 57, 16, 0.22);
+  transform: translateY(-1px);
+}
+
+.words-filter-pill.is-active {
+  background: linear-gradient(135deg, rgba(167, 85, 33, 0.14), rgba(167, 85, 33, 0.08));
+  border-color: rgba(127, 57, 16, 0.28);
+  box-shadow: 0 10px 28px rgba(167, 85, 33, 0.08);
+}
+
+.words-filter-pill:focus-visible {
+  outline: 3px solid rgba(167, 85, 33, 0.22);
+  outline-offset: 2px;
+}
+
 .words-search .control,
 .words-toolbar .control {
   width: 100%;
