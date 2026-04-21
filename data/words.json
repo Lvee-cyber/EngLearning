@@ -3920,5 +3920,43 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "spilling",
+    "type": "word",
+    "pos": "V-ing / N",
+    "senses": [
+      {
+        "pos": "V-ing",
+        "translation": "正在洒出；正在溢出；正在泄露"
+      },
+      {
+        "pos": "N",
+        "translation": "洒出；溢出；泄露这一行为"
+      }
+    ],
+    "translation": "溢出；洒出；泄露",
+    "analysis": "是动词 spill 的现在分词或动名词形式，可表示液体、颗粒等洒出或溢出，也可引申为信息、情绪或秘密的泄露。",
+    "phonetic": "/ˈspɪlɪŋ/",
+    "origin": "来自动词 spill，其早期含义与毁掉、浪费、洒落相关，后稳定为洒出、溢出、泄露。",
+    "expansions": [
+      "spilling water 洒出水",
+      "spilling out of the cup 从杯子里溢出来",
+      "spilling secrets 泄露秘密",
+      "oil spilling into the sea 石油泄入海中",
+      "prevent spilling 防止洒漏"
+    ],
+    "pronunciation": "/ˈspɪlɪŋ/",
+    "accepted_answers": [
+      "溢出",
+      "洒出",
+      "泄露"
+    ],
+    "added_at": "2026-04-21T14:06:15+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
