@@ -21,19 +21,73 @@
     ],
     "added_at": "2026-03-25T17:37:38+0800",
     "review": {
-      "correct_count": 2,
+      "correct_count": 10,
       "incorrect_count": 0,
       "review_history": [
         {
-          "answered_at": "2026-03-25T22:56:28+0800",
           "result": "correct",
+          "answered_at": "2026-03-25T22:56:28+0800",
           "user_answer": "对话"
         },
         {
-          "answered_at": "2026-03-26T09:51:45+0800",
+          "mode": "spelling",
           "result": "correct",
+          "answered_at": "2026-03-26T09:51:45+0800",
+          "user_answer": "conversation"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T10:44:10+0800",
+          "user_answer": "conversation"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T11:56:31+0800",
+          "user_answer": "conversation"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T15:17:16+0800",
+          "user_answer": "conversation"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:52:54+0800",
+          "user_answer": "conversation"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:59:00+0800",
+          "user_answer": "conversation"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:25:39+0800",
           "user_answer": "conversation",
-          "mode": "spelling"
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:26:40+0800",
+          "user_answer": "conversation",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118663356-lgkc65",
+          "answered_at": "2026-04-02T16:31:09+0800",
+          "user_answer": "conversation",
+          "session_started_at": "2026-04-02T16:31:03+0800"
         }
       ]
     },
@@ -62,31 +116,67 @@
     ],
     "added_at": "2026-03-25T17:41:32+0800",
     "review": {
-      "correct_count": 1,
-      "incorrect_count": 3,
+      "correct_count": 6,
+      "incorrect_count": 4,
       "review_history": [
         {
-          "answered_at": "2026-03-25T22:57:00+0800",
           "result": "incorrect",
+          "answered_at": "2026-03-25T22:57:00+0800",
           "user_answer": "气流"
         },
         {
-          "answered_at": "2026-03-26T09:06:48+0800",
+          "mode": "spelling",
           "result": "correct",
-          "user_answer": "streamline",
-          "mode": "spelling"
+          "answered_at": "2026-03-26T09:06:48+0800",
+          "user_answer": "streamline"
         },
         {
+          "mode": "spelling",
+          "result": "incorrect",
           "answered_at": "2026-03-26T09:40:19+0800",
-          "result": "incorrect",
-          "user_answer": "steamlines",
-          "mode": "spelling"
+          "user_answer": "steamlines"
         },
         {
-          "answered_at": "2026-03-26T09:45:50+0800",
+          "mode": "spelling",
           "result": "incorrect",
-          "user_answer": "straemline",
-          "mode": "spelling"
+          "answered_at": "2026-03-26T09:45:50+0800",
+          "user_answer": "straemline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T10:44:38+0800",
+          "user_answer": "streamline"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T11:33:51+0800",
+          "user_answer": "s"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T11:56:55+0800",
+          "user_answer": "streamline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T15:16:36+0800",
+          "user_answer": "streamline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:53:24+0800",
+          "user_answer": "streamline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:58:34+0800",
+          "user_answer": "streamline"
         }
       ]
     },
@@ -124,43 +214,81 @@
     ],
     "added_at": "2026-03-25T17:43:29+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 6,
+      "correct_count": 1,
+      "incorrect_count": 11,
       "review_history": [
         {
-          "answered_at": "2026-03-25T22:57:19+0800",
           "result": "incorrect",
+          "answered_at": "2026-03-25T22:57:19+0800",
           "user_answer": "内容"
         },
         {
+          "mode": "spelling",
+          "result": "incorrect",
           "answered_at": "2026-03-26T09:06:10+0800",
-          "result": "incorrect",
-          "user_answer": "criblibtlt",
-          "mode": "spelling"
+          "user_answer": "criblibtlt"
         },
         {
+          "mode": "spelling",
+          "result": "incorrect",
           "answered_at": "2026-03-26T09:49:11+0800",
-          "result": "incorrect",
-          "user_answer": "convesatio",
-          "mode": "spelling"
+          "user_answer": "convesatio"
         },
         {
+          "mode": "spelling",
+          "result": "incorrect",
           "answered_at": "2026-03-26T09:51:19+0800",
-          "result": "incorrect",
-          "user_answer": "commention",
-          "mode": "spelling"
+          "user_answer": "commention"
         },
         {
+          "mode": "spelling",
+          "result": "incorrect",
           "answered_at": "2026-03-26T10:16:25+0800",
-          "result": "incorrect",
-          "user_answer": "cddddddddd",
-          "mode": "spelling"
+          "user_answer": "cddddddddd"
         },
         {
-          "answered_at": "2026-03-26T17:36:11+0800",
+          "mode": "spelling",
           "result": "incorrect",
-          "user_answer": "cdcccccccd",
-          "mode": "spelling"
+          "answered_at": "2026-03-26T17:36:11+0800",
+          "user_answer": "cdcccccccd"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T10:43:27+0800",
+          "user_answer": "commention"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T11:57:07+0800",
+          "user_answer": "conversary"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:56:09+0800",
+          "user_answer": "commentary"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:57:36+0800",
+          "user_answer": "commention"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:01:57+0800",
+          "user_answer": "c"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:29:40+0800",
+          "user_answer": "c",
+          "session_started_at": "2026-04-02T16:29:22+0800"
         }
       ]
     },
@@ -188,25 +316,65 @@
     ],
     "added_at": "2026-03-25T17:45:28+0800",
     "review": {
-      "correct_count": 1,
-      "incorrect_count": 2,
+      "correct_count": 4,
+      "incorrect_count": 5,
       "review_history": [
         {
-          "answered_at": "2026-03-25T22:56:02+0800",
           "result": "correct",
+          "answered_at": "2026-03-25T22:56:02+0800",
           "user_answer": "积极性"
         },
         {
-          "answered_at": "2026-03-26T09:06:36+0800",
+          "mode": "spelling",
           "result": "incorrect",
-          "user_answer": "motiviable",
-          "mode": "spelling"
+          "answered_at": "2026-03-26T09:06:36+0800",
+          "user_answer": "motiviable"
         },
         {
-          "answered_at": "2026-03-26T09:51:35+0800",
+          "mode": "spelling",
           "result": "incorrect",
-          "user_answer": "motivatory",
-          "mode": "spelling"
+          "answered_at": "2026-03-26T09:51:35+0800",
+          "user_answer": "motivatory"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T11:56:15+0800",
+          "user_answer": "motivation"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T15:46:16+0800",
+          "user_answer": "mddd"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:57:17+0800",
+          "user_answer": "motiveness"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-30T11:34:10+0800",
+          "user_answer": "motiveness"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:30:00+0800",
+          "user_answer": "motivation",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1776236150815-zn0bkq",
+          "answered_at": "2026-04-15T15:15:34+0800",
+          "user_answer": "motivation",
+          "session_started_at": "2026-04-15T14:55:50+0800"
         }
       ]
     },
@@ -234,9 +402,30 @@
     ],
     "added_at": "2026-03-26T09:05:17+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 3,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T11:56:01+0800",
+          "user_answer": "desirable"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T15:18:54+0800",
+          "user_answer": "desirable"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:18:34+0800",
+          "user_answer": "desirable",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "Adj"
   },
@@ -262,9 +451,60 @@
     ],
     "added_at": "2026-03-26T16:52:23+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 6,
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T10:42:47+0800",
+          "user_answer": "m"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T11:54:53+0800",
+          "user_answer": "mundane"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T16:33:34+0800",
+          "user_answer": "mundane"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T18:02:01+0800",
+          "user_answer": "mundane"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:54:34+0800",
+          "user_answer": "m"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:02:05+0800",
+          "user_answer": "mundane"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:26:31+0800",
+          "user_answer": "mundane"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:29:55+0800",
+          "user_answer": "mundane",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
     },
     "pos": "Adj"
   },
@@ -290,9 +530,54 @@
     ],
     "added_at": "2026-03-28T10:14:20+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 4,
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T10:42:21+0800",
+          "user_answer": "o"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T12:04:11+0800",
+          "user_answer": "ommmmmm"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T15:22:47+0800",
+          "user_answer": "obstrat"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T16:15:11+0800",
+          "user_answer": "outline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T18:02:40+0800",
+          "user_answer": "outline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:56:19+0800",
+          "user_answer": "outline"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:27:27+0800",
+          "user_answer": "outline",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -327,9 +612,44 @@
     ],
     "added_at": "2026-03-28T13:10:07+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 4,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T17:12:10+0800",
+          "user_answer": "d"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:04:40+0800",
+          "user_answer": "diagramm"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:53:57+0800",
+          "user_answer": "dia"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:24:11+0800",
+          "user_answer": "diagrams",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:30:18+0800",
+          "user_answer": "diagthms",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -354,9 +674,28 @@
     ],
     "added_at": "2026-03-28T13:10:07+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:51:27+0800",
+          "user_answer": "exprand"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:54:19+0800",
+          "user_answer": "expansion"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-30T11:36:15+0800",
+          "user_answer": "expandary"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -381,9 +720,58 @@
     ],
     "added_at": "2026-03-28T13:10:54+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 4,
+      "incorrect_count": 4,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T15:18:43+0800",
+          "user_answer": "nessatave"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T16:33:12+0800",
+          "user_answer": "narrative"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:04:28+0800",
+          "user_answer": "nassative"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:55:10+0800",
+          "user_answer": "narrative"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:56:37+0800",
+          "user_answer": "nassarive"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:58:10+0800",
+          "user_answer": "nassative"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:29:28+0800",
+          "user_answer": "narrative"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:33:41+0800",
+          "user_answer": "narrative"
+        }
+      ]
     },
     "pos": "N / Adj",
     "senses": [
@@ -417,9 +805,46 @@
     ],
     "added_at": "2026-03-28T13:17:44+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 2,
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T14:07:03+0800",
+          "user_answer": "embodiedai"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-30T11:34:33+0800",
+          "user_answer": "embodiedai"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1774917690135-r2kpdy",
+          "answered_at": "2026-03-31T08:41:41+0800",
+          "user_answer": "embodiedAI",
+          "session_started_at": "2026-03-31T08:41:30+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:24:59+0800",
+          "user_answer": "embodied ai",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:30:33+0800",
+          "user_answer": "embodied ai",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -444,9 +869,42 @@
     ],
     "added_at": "2026-03-28T13:17:44+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 3,
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:01:20+0800",
+          "user_answer": "extend"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:54:08+0800",
+          "user_answer": "expand"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:01:12+0800",
+          "user_answer": "embody"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:34:35+0800",
+          "user_answer": "embody"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775093635217-jum43r",
+          "answered_at": "2026-04-02T09:34:03+0800",
+          "user_answer": "embody",
+          "session_started_at": "2026-04-02T09:33:55+0800"
+        }
+      ]
     },
     "pos": "V"
   },
@@ -472,8 +930,21 @@
     "added_at": "2026-03-28T13:19:23+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:58:22+0800",
+          "user_answer": "s"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:25:03+0800",
+          "user_answer": "s"
+        }
+      ]
     },
     "pos": "Adj / N",
     "senses": [
@@ -506,9 +977,38 @@
     ],
     "added_at": "2026-03-28T13:22:19+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 3,
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T16:32:30+0800",
+          "user_answer": "Eurupe"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T17:11:29+0800",
+          "user_answer": "Europe"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:24:57+0800",
+          "user_answer": "Europe",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:24:43+0800",
+          "user_answer": "Europe",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -533,8 +1033,35 @@
     "added_at": "2026-03-28T13:37:18+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 4,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:25:24+0800",
+          "user_answer": "themthic"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:27:51+0800",
+          "user_answer": "them"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-30T11:33:51+0800",
+          "user_answer": "themthic"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:26:20+0800",
+          "user_answer": "thethtic",
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        }
+      ]
     },
     "pos": "Adj"
   },
@@ -560,8 +1087,27 @@
     "added_at": "2026-03-28T13:39:21+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T16:33:19+0800",
+          "user_answer": "overtime"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T17:12:59+0800",
+          "user_answer": "overtime"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:04:13+0800",
+          "user_answer": "obso"
+        }
+      ]
     },
     "pos": "Adj"
   },
@@ -588,8 +1134,23 @@
     "added_at": "2026-03-28T13:42:36+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:29:16+0800",
+          "user_answer": "d"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:25:38+0800",
+          "user_answer": "disputionary",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -613,9 +1174,48 @@
     ],
     "added_at": "2026-03-28T13:43:55+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 5,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T16:34:45+0800",
+          "user_answer": "ins"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:00:20+0800",
+          "user_answer": "i"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:54:54+0800",
+          "user_answer": "infr"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:27:03+0800",
+          "user_answer": "infrastracture"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:29:01+0800",
+          "user_answer": "infrlllll"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:41:42+0800",
+          "user_answer": "infrastructure",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -641,8 +1241,29 @@
     "added_at": "2026-03-28T13:45:36+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T17:13:03+0800",
+          "user_answer": "v"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:30:06+0800",
+          "user_answer": "v"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:30:40+0800",
+          "user_answer": "v",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -667,9 +1288,48 @@
     ],
     "added_at": "2026-03-28T13:46:34+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 3,
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T15:18:30+0800",
+          "user_answer": "effetivablely"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T16:32:57+0800",
+          "user_answer": "effictivablly"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:03:51+0800",
+          "user_answer": "effectionness"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:01:04+0800",
+          "user_answer": "effectiveness"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:34:28+0800",
+          "user_answer": "effectiveness"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:19:45+0800",
+          "user_answer": "effectiveness",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -695,9 +1355,34 @@
     ],
     "added_at": "2026-03-28T14:01:40+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 4,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T15:22:53+0800",
+          "user_answer": "police"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T18:00:38+0800",
+          "user_answer": "police"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T18:02:28+0800",
+          "user_answer": "police"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:26:42+0800",
+          "user_answer": "police"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -733,9 +1418,60 @@
     ],
     "added_at": "2026-03-28T14:08:07+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 2,
+      "incorrect_count": 5,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T17:11:19+0800",
+          "user_answer": "naum"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T18:01:43+0800",
+          "user_answer": "naun"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:30:00+0800",
+          "user_answer": "naun"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:25:54+0800",
+          "user_answer": "naun",
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:26:29+0800",
+          "user_answer": "naun",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:20:33+0800",
+          "user_answer": "norm",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776751288340-pxu2za",
+          "answered_at": "2026-04-21T14:08:38+0800",
+          "user_answer": "norm",
+          "session_started_at": "2026-04-21T14:01:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -761,9 +1497,42 @@
     ],
     "added_at": "2026-03-28T14:10:12+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 5,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T17:12:20+0800",
+          "user_answer": "system"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T18:01:33+0800",
+          "user_answer": "system"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:56:26+0800",
+          "user_answer": "system"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:01:42+0800",
+          "user_answer": "system"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:27:09+0800",
+          "user_answer": "system",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -788,8 +1557,23 @@
     "added_at": "2026-03-28T14:12:34+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T20:29:44+0800",
+          "user_answer": "skyware"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:29:38+0800",
+          "user_answer": "skyware",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -814,9 +1598,50 @@
     ],
     "added_at": "2026-03-28T14:25:31+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 6,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T16:33:25+0800",
+          "user_answer": "upstream"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:52:14+0800",
+          "user_answer": "upstream"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:55:20+0800",
+          "user_answer": "upstream"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:29:36+0800",
+          "user_answer": "upstream"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775093635217-jum43r",
+          "answered_at": "2026-04-02T09:34:11+0800",
+          "user_answer": "upstream",
+          "session_started_at": "2026-04-02T09:33:55+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118663356-lgkc65",
+          "answered_at": "2026-04-02T16:31:15+0800",
+          "user_answer": "upstream",
+          "session_started_at": "2026-04-02T16:31:03+0800"
+        }
+      ]
     },
     "pos": "Adj / Adv",
     "senses": [
@@ -851,9 +1676,48 @@
     ],
     "added_at": "2026-03-28T17:19:34+0800",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 3,
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-28T19:58:00+0800",
+          "user_answer": "a"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:26:05+0800",
+          "user_answer": "aloneside",
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775098126732-g73t96",
+          "answered_at": "2026-04-02T10:49:23+0800",
+          "user_answer": "alongside",
+          "session_started_at": "2026-04-02T10:48:46+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:25:07+0800",
+          "user_answer": "alongside",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237928315-uijsbg",
+          "answered_at": "2026-04-15T15:25:32+0800",
+          "user_answer": "alongside",
+          "session_started_at": "2026-04-15T15:25:28+0800"
+        }
+      ]
     },
     "pos": "Prep / Adv",
     "senses": [
@@ -889,9 +1753,50 @@
     ],
     "added_at": "2026-03-28T17:27:36+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 6,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T18:03:01+0800",
+          "user_answer": "depression"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:55:56+0800",
+          "user_answer": "depression"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T19:57:02+0800",
+          "user_answer": "depression"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-28T20:28:05+0800",
+          "user_answer": "depression"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:24:16+0800",
+          "user_answer": "depression",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:20:12+0800",
+          "user_answer": "depression",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -916,9 +1821,18 @@
     ],
     "added_at": "2026-03-30T08:50:35+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:23:44+0800",
+          "user_answer": "protect",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        }
+      ]
     },
     "pos": "V"
   },
@@ -943,9 +1857,26 @@
     ],
     "added_at": "2026-03-30T08:55:08+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 2,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:25:11+0800",
+          "user_answer": "learning",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:26:09+0800",
+          "user_answer": "learning",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -1034,9 +1965,18 @@
     ],
     "added_at": "2026-03-30T09:11:17+0800",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775098126732-g73t96",
+          "answered_at": "2026-04-02T10:49:02+0800",
+          "user_answer": "missing",
+          "session_started_at": "2026-04-02T10:48:46+0800"
+        }
+      ]
     },
     "pos": "Adj / N",
     "senses": [
@@ -1072,8 +2012,17 @@
     "added_at": "2026-03-30T09:19:35+0800",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:41:29+0800",
+          "user_answer": "boomburge",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -1251,8 +2200,17 @@
     "added_at": "2026-03-30T02:32:00.037Z",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1776058933751-7g4fum",
+          "answered_at": "2026-04-13T13:42:20+0800",
+          "user_answer": "block",
+          "session_started_at": "2026-04-13T13:42:13+0800"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -1286,9 +2244,26 @@
     ],
     "added_at": "2026-03-30T02:33:07.775Z",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:26:16+0800",
+          "user_answer": "acticular",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:08+0800",
+          "user_answer": "artillery",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -1375,9 +2350,26 @@
     ],
     "added_at": "2026-03-30T02:52:12.630Z",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:29:24+0800",
+          "user_answer": "primary",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:40:57+0800",
+          "user_answer": "privege",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     },
     "pos": "Adj / N",
     "senses": [
@@ -1413,8 +2405,15 @@
     "added_at": "2026-03-30T02:57:33.430Z",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "answered_at": "2026-03-30T11:35:28+0800",
+          "user_answer": "s"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -1440,9 +2439,24 @@
     ],
     "added_at": "2026-03-30T03:00:16.785Z",
     "review": {
-      "correct_count": 0,
+      "correct_count": 2,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "answered_at": "2026-03-30T11:35:02+0800",
+          "user_answer": "build"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:23:59+0800",
+          "user_answer": "build",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        }
+      ]
     },
     "pos": "V / N",
     "senses": [
@@ -1504,8 +2518,17 @@
     "added_at": "2026-03-30T03:23:54.159Z",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:24:50+0800",
+          "user_answer": "disagress",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        }
+      ]
     },
     "pos": "V"
   },
@@ -1556,9 +2579,18 @@
     ],
     "added_at": "2026-03-30T05:12:25.617Z",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776751288340-pxu2za",
+          "answered_at": "2026-04-21T14:01:42+0800",
+          "user_answer": "bilingual",
+          "session_started_at": "2026-04-21T14:01:28+0800"
+        }
+      ]
     },
     "pos": "Adj / N",
     "senses": [
@@ -1647,8 +2679,17 @@
     "added_at": "2026-03-30T06:52:55.878Z",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118663356-lgkc65",
+          "answered_at": "2026-04-02T16:31:27+0800",
+          "user_answer": "obsolatary",
+          "session_started_at": "2026-04-02T16:31:03+0800"
+        }
+      ]
     },
     "pos": "Adv"
   },
@@ -1673,9 +2714,18 @@
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776751288340-pxu2za",
+          "answered_at": "2026-04-21T14:08:48+0800",
+          "user_answer": "nearness",
+          "session_started_at": "2026-04-21T14:01:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -1701,9 +2751,18 @@
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:29:49+0800",
+          "user_answer": "sunset",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -1739,8 +2798,33 @@
     "added_at": "2026-03-30T15:30:14+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 3,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:25:07+0800",
+          "user_answer": "N",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:25:44+0800",
+          "user_answer": "N",
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:25:51+0800",
+          "user_answer": "N",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        }
+      ]
     },
     "pos": "Adj phrase"
   },
@@ -1767,9 +2851,26 @@
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:25+0800",
+          "user_answer": "c",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776751288340-pxu2za",
+          "answered_at": "2026-04-21T14:01:33+0800",
+          "user_answer": "consolidation",
+          "session_started_at": "2026-04-21T14:01:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -1795,9 +2896,26 @@
     ],
     "added_at": "2026-03-30T16:03:47+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 2,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:27:37+0800",
+          "user_answer": "quantity",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:00+0800",
+          "user_answer": "quantity",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -1824,9 +2942,26 @@
     ],
     "added_at": "2026-03-30T16:04:57+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 2,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:29:30+0800",
+          "user_answer": "judge",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:42:01+0800",
+          "user_answer": "judge",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -1864,9 +2999,18 @@
     ],
     "added_at": "2026-03-30T16:05:55+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:20:01+0800",
+          "user_answer": "quit",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "V / N",
     "senses": [
@@ -1949,9 +3093,26 @@
     ],
     "added_at": "2026-03-30T16:09:04+08:00",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 1,
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:24:04+0800",
+          "user_answer": "rescur",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:30:26+0800",
+          "user_answer": "rescue",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        }
+      ]
     },
     "pos": "N / V",
     "senses": [
@@ -2017,9 +3178,26 @@
     ],
     "added_at": "2026-03-31T09:30:47+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 2,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:24:31+0800",
+          "user_answer": "entry",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:20:20+0800",
+          "user_answer": "entry",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2048,8 +3226,17 @@
     "added_at": "2026-03-31T09:32:37+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:41:09+0800",
+          "user_answer": "i",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     },
     "pos": "V"
   },
@@ -2076,9 +3263,18 @@
     ],
     "added_at": "2026-03-31T09:33:33+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776751288340-pxu2za",
+          "answered_at": "2026-04-21T14:08:56+0800",
+          "user_answer": "converge",
+          "session_started_at": "2026-04-21T14:01:28+0800"
+        }
+      ]
     },
     "pos": "V"
   },
@@ -2163,8 +3359,17 @@
     "added_at": "2026-03-31T09:41:53+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:26:38+0800",
+          "user_answer": "r",
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2257,9 +3462,34 @@
     ],
     "added_at": "2026-03-31T09:52:12+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 3,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096735808-gqh7oj",
+          "answered_at": "2026-04-02T10:26:27+0800",
+          "user_answer": "phish",
+          "session_started_at": "2026-04-02T10:25:35+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:29:30+0800",
+          "user_answer": "phish",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1776058933751-7g4fum",
+          "answered_at": "2026-04-13T13:42:26+0800",
+          "user_answer": "phish",
+          "session_started_at": "2026-04-13T13:42:13+0800"
+        }
+      ]
     },
     "pos": "V / N",
     "senses": [
@@ -2295,9 +3525,18 @@
     ],
     "added_at": "2026-03-31T10:21:52+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:23:55+0800",
+          "user_answer": "inference",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2392,9 +3631,42 @@
     ],
     "added_at": "2026-03-31T10:24:59+08:00",
     "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "correct_count": 2,
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775093635217-jum43r",
+          "answered_at": "2026-04-02T09:34:48+0800",
+          "user_answer": "segmentilize",
+          "session_started_at": "2026-04-02T09:33:55+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775096618794-orjuc6",
+          "answered_at": "2026-04-02T10:24:25+0800",
+          "user_answer": "segmentation",
+          "session_started_at": "2026-04-02T10:23:38+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:44+0800",
+          "user_answer": "segmentaraty",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:19:33+0800",
+          "user_answer": "segmentation",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2421,8 +3693,17 @@
     "added_at": "2026-03-31T10:34:35+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:24:47+0800",
+          "user_answer": "o",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        }
+      ]
     },
     "pos": "Adj / N",
     "senses": [
@@ -2460,8 +3741,17 @@
     "added_at": "2026-03-31T10:38:58+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:26:57+0800",
+          "user_answer": "r",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2488,9 +3778,18 @@
     ],
     "added_at": "2026-03-31T10:39:59+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:55+0800",
+          "user_answer": "equity",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2557,8 +3856,25 @@
     "added_at": "2026-03-31T10:47:48+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:25:45+0800",
+          "user_answer": "g",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:41:13+0800",
+          "user_answer": "g",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     },
     "pos": "Adj"
   },
@@ -2816,8 +4132,25 @@
     "added_at": "2026-04-01T16:56:03+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 2,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:28:04+0800",
+          "user_answer": "v",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:15+0800",
+          "user_answer": "v",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
     },
     "pos": "V"
   },
@@ -2842,9 +4175,18 @@
     ],
     "added_at": "2026-04-01T16:57:14+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:19:52+0800",
+          "user_answer": "commercialization",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2900,8 +4242,17 @@
     "added_at": "2026-04-01T17:06:38+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:24:36+0800",
+          "user_answer": "c",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        }
+      ]
     },
     "pos": "N"
   },
@@ -2939,9 +4290,18 @@
     ],
     "added_at": "2026-04-02T09:51:28+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:20:46+0800",
+          "user_answer": "executive",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     }
   },
   {
@@ -3027,8 +4387,17 @@
     "added_at": "2026-04-02T10:32:02+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775118265285-41r008",
+          "answered_at": "2026-04-02T16:25:13+0800",
+          "user_answer": "sshi",
+          "session_started_at": "2026-04-02T16:24:25+0800"
+        }
+      ]
     }
   },
   {
@@ -3064,9 +4433,18 @@
     ],
     "added_at": "2026-04-02T10:55:36+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:41:03+0800",
+          "user_answer": "sota",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     }
   },
   {
@@ -3076,30 +4454,30 @@
     "senses": [
       {
         "pos": "N",
-        "translation": "妥协；折中方案"
+        "translation": "妥协；折中方案；让步"
       },
       {
         "pos": "V",
-        "translation": "妥协；让步；损害；危及"
+        "translation": "妥协；折中处理；危及；损害"
       }
     ],
-    "translation": "妥协；折中方案；损害；危及",
-    "analysis": "既可以作名词，也可以作动词。作名词时常表示妥协、折中办法；作动词时表示妥协、让步，也常表示损害、危及，尤其常见于安全、原则、质量等语境。",
-    "phonetic": "/ˈkɒmprəmaɪz/; /ˈkɑːmprəmaɪz/",
-    "origin": "来自中古法语 compromis，更早可追溯到拉丁语 compromissum，原本与双方共同承诺接受某种裁决有关，后来发展出妥协、折中和损害、危及的含义。",
+    "translation": "妥协；折中方案；危及；损害",
+    "analysis": "既可表示双方各退一步达成折中，也可表示使安全、原则、质量或完整性受损。安全和工程语境中常用 compromise security 表示危及安全。",
+    "phonetic": "/ˈkɒmprəmaɪz; ˈkɑːmprəmaɪz/",
+    "origin": "来自拉丁语相关词根，原义与共同承诺、互相约定有关，后发展出妥协、折中以及使完整性受损的含义。",
     "expansions": [
-      "make a compromise 作出妥协",
-      "reach a compromise 达成折中",
-      "compromise on price 在价格上让步",
-      "compromise safety 损害安全",
-      "a reasonable compromise 合理的折中方案"
+      "reach a compromise 达成妥协",
+      "make a compromise 做出让步",
+      "compromise security 危及安全",
+      "compromise quality 损害质量",
+      "a political compromise 政治妥协"
     ],
-    "pronunciation": "/ˈkɒmprəmaɪz/; /ˈkɑːmprəmaɪz/",
+    "pronunciation": "/ˈkɒmprəmaɪz; ˈkɑːmprəmaɪz/",
     "accepted_answers": [
       "妥协",
       "折中方案",
-      "损害",
-      "危及"
+      "危及",
+      "损害"
     ],
     "added_at": "2026-04-02T11:01:50+08:00",
     "review": {
@@ -3228,8 +4606,17 @@
     "added_at": "2026-04-02T13:49:54+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:31:03+0800",
+          "user_answer": "huge",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        }
+      ]
     }
   },
   {
@@ -3284,8 +4671,17 @@
     "added_at": "2026-04-02T13:54:16+08:00",
     "review": {
       "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
+      "incorrect_count": 1,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "incorrect",
+          "session_id": "session-1776058845401-zcbz6o",
+          "answered_at": "2026-04-13T13:41:52+0800",
+          "user_answer": "for",
+          "session_started_at": "2026-04-13T13:40:45+0800"
+        }
+      ]
     }
   },
   {
@@ -3431,9 +4827,26 @@
     ],
     "added_at": "2026-04-07T10:52:51+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 2,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775633358848-zz9ok8",
+          "answered_at": "2026-04-08T15:29:52+0800",
+          "user_answer": "crunch",
+          "session_started_at": "2026-04-08T15:29:18+0800"
+        },
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776751288340-pxu2za",
+          "answered_at": "2026-04-21T14:09:06+0800",
+          "user_answer": "crunch",
+          "session_started_at": "2026-04-21T14:01:28+0800"
+        }
+      ]
     }
   },
   {
@@ -3656,9 +5069,18 @@
     ],
     "added_at": "2026-04-09T09:13:53+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237928315-uijsbg",
+          "answered_at": "2026-04-15T15:25:42+0800",
+          "user_answer": "suburb",
+          "session_started_at": "2026-04-15T15:25:28+0800"
+        }
+      ]
     }
   },
   {
@@ -3838,9 +5260,18 @@
     ],
     "added_at": "2026-04-15T10:45:34+08:00",
     "review": {
-      "correct_count": 0,
+      "correct_count": 1,
       "incorrect_count": 0,
-      "review_history": []
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:18:43+0800",
+          "user_answer": "route",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
     }
   },
   {
@@ -3953,6 +5384,293 @@
       "泄露"
     ],
     "added_at": "2026-04-21T14:06:15+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "legacy",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "遗产；遗留物；历史遗产；长期影响"
+      }
+    ],
+    "translation": "遗产；遗留物；传统影响；旧系统遗留",
+    "analysis": "既可指字面上的遗产或遗赠，也常表示某个人、组织或时代留下来的影响、声誉或问题。在技术语境中常指仍在使用的旧系统、旧代码或历史包袱。",
+    "phonetic": "/ˈleɡəsi/",
+    "origin": "来自与拉丁语 legatus 相关的词，最初表示被留下或被委托的东西，后来发展为遗产、遗留影响。",
+    "expansions": [
+      "legacy system 遗留系统",
+      "legacy code 遗留代码",
+      "leave a legacy 留下遗产 / 留下影响",
+      "political legacy 政治遗产",
+      "legacy infrastructure 老旧基础设施"
+    ],
+    "pronunciation": "/ˈleɡəsi/",
+    "accepted_answers": [
+      "遗产",
+      "遗留物",
+      "历史遗产",
+      "长期影响"
+    ],
+    "added_at": "2026-04-23T14:03:05+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "institutionalization",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "制度化；机构化；使成为惯例；把人长期安置在机构中"
+      }
+    ],
+    "translation": "制度化；机构化；惯例化；收容入院",
+    "analysis": "来自动词 institutionalize，表示把某事变成正式制度、组织机制或长期惯例；也可指把人长期安置在医院、护理机构或精神卫生机构中。",
+    "phonetic": "/ˌɪnstɪˌtjuːʃənəlaɪˈzeɪʃən; ˌɪnstɪˌtuːʃənələˈzeɪʃən/",
+    "origin": "由 institutionalize 加名词后缀 -ation 构成；institution 可追溯到拉丁语 instituere，含有建立、设立、安排的意思。",
+    "expansions": [
+      "the institutionalization of a policy 一项政策的制度化",
+      "institutionalization of practices 实践做法的惯例化",
+      "political institutionalization 政治制度化",
+      "avoid institutionalization 避免被长期机构化安置",
+      "the institutionalization of AI governance AI 治理的制度化"
+    ],
+    "pronunciation": "/ˌɪnstɪˌtjuːʃənəlaɪˈzeɪʃən; ˌɪnstɪˌtuːʃənələˈzeɪʃən/",
+    "accepted_answers": [
+      "制度化",
+      "机构化",
+      "惯例化",
+      "收容入院"
+    ],
+    "added_at": "2026-04-25T13:20:54+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "malfunction",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "故障；失灵；功能异常"
+      },
+      {
+        "pos": "V",
+        "translation": "发生故障；运转失常；失灵"
+      }
+    ],
+    "translation": "故障；失灵；发生故障",
+    "analysis": "常用于机器、设备、系统、软件或人体功能等语境，表示没有按预期正常工作。比 break 更正式，强调功能异常而不一定完全损坏。",
+    "phonetic": "/ˌmælˈfʌŋkʃən/",
+    "origin": "由 mal- 和 function 构成。mal- 表示不良、错误、坏的，function 表示功能或运转，合起来表示功能不正常、运转失常。",
+    "expansions": [
+      "system malfunction 系统故障",
+      "equipment malfunction 设备故障",
+      "software malfunction 软件异常",
+      "malfunction during operation 运行期间发生故障",
+      "the device malfunctioned 设备失灵了"
+    ],
+    "pronunciation": "/ˌmælˈfʌŋkʃən/",
+    "accepted_answers": [
+      "故障",
+      "失灵",
+      "功能异常",
+      "发生故障"
+    ],
+    "added_at": "2026-05-07T09:29:06+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "dedicate",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "献出；致力于；把……用于；题献给"
+      }
+    ],
+    "translation": "献出；致力于；把……用于；题献给",
+    "analysis": "核心意思是把时间、精力、资源或作品郑重地交给某个目标。可用于个人投入、资源分配，也可用于作品题献。",
+    "phonetic": "/ˈdedɪkeɪt/",
+    "origin": "来自拉丁语 dedicare，含有宣告、奉献、正式献给的意思，后来发展为献身、致力于、专门用于。",
+    "expansions": [
+      "dedicate oneself to something 致力于某事",
+      "dedicate time to learning 把时间投入学习",
+      "dedicate resources to a project 把资源用于某个项目",
+      "dedicate a book to someone 把一本书题献给某人",
+      "a dedicated team 专门团队；敬业的团队"
+    ],
+    "pronunciation": "/ˈdedɪkeɪt/",
+    "accepted_answers": [
+      "献出",
+      "致力于",
+      "把……用于",
+      "题献给"
+    ],
+    "added_at": "2026-05-07T10:41:34+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "regulatory",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "监管的；规章的；调控的"
+      }
+    ],
+    "translation": "监管的；规章的；调控的",
+    "analysis": "常用于法律、金融、科技、医疗、环保等语境，表示与政府、机构或行业规则的监督和管理有关。",
+    "phonetic": "/ˈreɡjələtəri; ˈreɡjələtɔːri/",
+    "origin": "来自 regulate 和形容词后缀 -ory。regulate 源自拉丁语 regula，意为规则、标尺。",
+    "expansions": [
+      "regulatory body 监管机构",
+      "regulatory agency 监管机关",
+      "regulatory framework 监管框架",
+      "regulatory approval 监管批准",
+      "regulatory requirements 监管要求"
+    ],
+    "pronunciation": "/ˈreɡjələtəri; ˈreɡjələtɔːri/",
+    "accepted_answers": [
+      "监管的",
+      "规章的",
+      "调控的"
+    ],
+    "added_at": "2026-05-07T14:41:50+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "cluster",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "群；簇；一组；集群"
+      },
+      {
+        "pos": "V",
+        "translation": "聚集；成群；使聚成一组"
+      }
+    ],
+    "translation": "群；簇；集群；聚集成群",
+    "analysis": "核心是多个相近或相关的东西聚在一起。日常可指人、物或植物聚成一团；技术语境里常指计算机集群、服务器集群、数据聚类。",
+    "phonetic": "/ˈklʌstə; ˈklʌstər/",
+    "origin": "来自古英语相关词，原本表示一串、一簇、一群，后来扩展到现代技术、统计和计算语境中的集群、聚类。",
+    "expansions": [
+      "a cluster of stars 一簇星星",
+      "server cluster 服务器集群",
+      "data cluster 数据簇",
+      "cluster analysis 聚类分析",
+      "cluster around something 围绕某物聚集"
+    ],
+    "pronunciation": "/ˈklʌstə; ˈklʌstər/",
+    "accepted_answers": [
+      "群",
+      "簇",
+      "集群",
+      "聚集"
+    ],
+    "added_at": "2026-05-07T15:05:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "foundry",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "铸造厂；铸造车间；半导体代工厂"
+      }
+    ],
+    "translation": "铸造厂；铸造车间；半导体代工厂",
+    "analysis": "原指熔化金属并铸造成零件的工厂；在现代半导体语境中，常指为其他公司制造芯片的代工厂。",
+    "phonetic": "/ˈfaʊndri/",
+    "origin": "来自 found 的旧义“铸造、熔铸”，可追溯到拉丁语 fundere，意为倒出、熔铸、浇铸。",
+    "expansions": [
+      "metal foundry 金属铸造厂",
+      "semiconductor foundry 半导体代工厂",
+      "chip foundry 芯片代工厂",
+      "foundry business 代工业务",
+      "fabless company and foundry 无厂芯片公司与代工厂"
+    ],
+    "pronunciation": "/ˈfaʊndri/",
+    "accepted_answers": [
+      "铸造厂",
+      "铸造车间",
+      "半导体代工厂",
+      "芯片代工厂"
+    ],
+    "added_at": "2026-05-07T15:13:54+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "acquisition",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "获得；取得；收购；习得；获得的东西"
+      }
+    ],
+    "translation": "获得；收购；习得；取得物",
+    "analysis": "核心是把某物变成自己拥有或掌握的东西。商业中指公司收购，语言学习中指语言习得，技术语境中可指数据采集或获取。",
+    "phonetic": "/ˌækwɪˈzɪʃən; ˌækwəˈzɪʃən/",
+    "origin": "来自拉丁语 acquirere 相关词，含义是获得、取得。acquisition 是名词形式，表示获得这一行为、过程或结果。",
+    "expansions": [
+      "company acquisition 公司收购",
+      "language acquisition 语言习得",
+      "data acquisition 数据采集",
+      "customer acquisition 获客",
+      "acquisition strategy 收购 / 获取策略"
+    ],
+    "pronunciation": "/ˌækwɪˈzɪʃən; ˌækwəˈzɪʃən/",
+    "accepted_answers": [
+      "获得",
+      "收购",
+      "习得",
+      "取得物"
+    ],
+    "added_at": "2026-05-07T15:26:48+08:00",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

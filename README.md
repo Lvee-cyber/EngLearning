@@ -51,6 +51,30 @@
 
 当前 `supabase_schema.sql` 使用的是演示型匿名读写策略，适合你现在这个低安全要求的个人项目。
 
+## 拉回线上复习进度
+
+如果你在线上网页完成复习，而本地 `data/words.json` 还没同步到最新进度，可以运行：
+
+```bash
+node scripts/pull-supabase-review-progress.mjs --profile <你的profile_id>
+```
+
+默认行为：
+
+- 从 Supabase 的 `review_progress` 拉取该 `profile_id` 的复习进度
+- 按 `term` 回写到 `data/words.json`
+- 同时把相同 `term` 的进度同步到 `data/dictionary.json`
+
+可选参数：
+
+- `--words-only`
+  只更新 `data/words.json`，不改 `data/dictionary.json`
+
+脚本会优先读取：
+
+- `site-config.js` 里的 `supabaseUrl`、`supabaseAnonKey`、`reviewProgressTable`
+- 或环境变量 `SUPABASE_URL`、`SUPABASE_ANON_KEY`、`REVIEW_PROGRESS_TABLE`
+
 ## 当前数据流
 
 - 词库查看页和复习页优先从 Supabase 表 `vocabulary_words` 读取词条内容，空表或异常时回退到 `data/words.json`。
