@@ -5676,5 +5676,949 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "dictation",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "听写；口述；口授；命令或强制支配"
+      }
+    ],
+    "translation": "听写；口述；命令式支配",
+    "analysis": "最常见意思是听写，也可表示口述、口授；在正式或批判语境中，还可表示命令式控制或强制支配。",
+    "phonetic": "/dɪkˈteɪʃən/",
+    "origin": "来自拉丁语 dictare，意为反复说、口授、命令，与 dictate 同源。",
+    "expansions": [
+      "take dictation 做听写 / 记录口述内容",
+      "English dictation 英语听写",
+      "dictation exercise 听写练习",
+      "write from dictation 根据听写写下来",
+      "under the dictation of 在……的支配下"
+    ],
+    "pronunciation": "/dɪkˈteɪʃən/",
+    "accepted_answers": [
+      "听写",
+      "口述",
+      "口授",
+      "命令式支配"
+    ],
+    "added_at": "2026-05-09T14:39:57+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "shovel",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "铲子；铁锹；铲状工具",
+        "definition": "A tool with a broad blade and a handle, used for lifting, digging, or moving loose material."
+      },
+      {
+        "pos": "V",
+        "translation": "用铲子铲；大量塞入或装入",
+        "definition": "To lift, move, or clear something with a shovel; by extension, to put something somewhere quickly or in large amounts."
+      }
+    ],
+    "translation": "铲子；铁锹；用铲子铲",
+    "analysis": "名词表示铲子、铁锹等工具；动词表示用铲子铲起、铲走或铲入，也可引申为匆忙大量塞入。常见搭配包括 shovel snow、snow shovel、shovel something into...。",
+    "phonetic": "/ˈʃʌvəl/",
+    "origin": "来自古英语 scofl，指铲、刮、推开所用的工具，后来扩展为动词“用铲子铲”。",
+    "expansions": [
+      "snow shovel 雪铲",
+      "shovel snow 铲雪",
+      "shovel dirt/sand 铲土/铲沙",
+      "shovel something into... 把某物铲进/塞进……",
+      "steam shovel 蒸汽铲；大型挖掘机"
+    ],
+    "pronunciation": "/ˈʃʌvəl/",
+    "accepted_answers": [
+      "铲子",
+      "铁锹",
+      "用铲子铲",
+      "铲雪",
+      "铲"
+    ],
+    "added_at": "2026-05-10T06:49:31.214Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "wrap",
+    "type": "word",
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "包裹；缠绕；覆盖；结束",
+        "definition": "To cover, enclose, or wind something around another thing; also to finish or conclude something."
+      },
+      {
+        "pos": "N",
+        "translation": "包裹物；披肩；外套；卷饼；结束阶段",
+        "definition": "A covering or garment, a filled flatbread, or the completion of an activity."
+      }
+    ],
+    "translation": "包；裹；缠绕；结束；外套/披肩",
+    "analysis": "核心含义是“围住、包住、缠住”。动词常用于包礼物、裹毯子、缠绕物体，也可引申为结束工作或讨论；名词可指包裹物、披肩、外套、卷饼或结束阶段。",
+    "phonetic": "/ræp/",
+    "origin": "来自中古英语 wrappen，表示包住、覆盖、缠绕，后来扩展出结束、收尾等抽象含义。",
+    "expansions": [
+      "wrap up 结束；总结；包起来",
+      "gift wrap 礼品包装纸",
+      "wrap something around... 把某物绕在……周围",
+      "wrap oneself in a blanket 用毯子裹住自己",
+      "That's a wrap. 收工；结束了"
+    ],
+    "pronunciation": "/ræp/",
+    "accepted_answers": [
+      "包",
+      "裹",
+      "缠绕",
+      "包裹",
+      "结束",
+      "披肩",
+      "卷饼"
+    ],
+    "added_at": "2026-05-10T06:50:47.509Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "exclaim",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "惊叫；呼喊；大声说出",
+        "definition": "To say something suddenly and loudly because of strong emotion such as surprise, excitement, anger, or delight."
+      }
+    ],
+    "translation": "惊叫；呼喊；大声说出",
+    "analysis": "强调因惊讶、激动、愤怒等情绪而突然大声说出。比 say 更强烈，比 shout 更突出情绪反应。常见搭配包括 exclaim in surprise、exclaim with delight、exclaim over something。",
+    "phonetic": "/ɪkˈskleɪm/",
+    "origin": "来自拉丁语 exclamare，由 ex-（向外）+ clamare（喊叫）构成，字面含义接近“向外喊出”。",
+    "expansions": [
+      "exclaim in surprise 惊讶地叫道",
+      "exclaim with delight 高兴地喊道",
+      "exclaim angrily 愤怒地大声说",
+      "exclaim over something 对某事惊叹",
+      "exclamation 惊呼；感叹"
+    ],
+    "pronunciation": "/ɪkˈskleɪm/",
+    "accepted_answers": [
+      "惊叫",
+      "呼喊",
+      "大声说出",
+      "惊呼",
+      "喊道"
+    ],
+    "added_at": "2026-05-10T06:51:57.637Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "cushion",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "垫子；靠垫；坐垫；缓冲物；保护性余量",
+        "definition": "A soft bag or pad used for sitting, leaning, or protection; also a reserve or margin that reduces pressure or risk."
+      },
+      {
+        "pos": "V",
+        "translation": "缓冲；减轻冲击；保护；使免受影响",
+        "definition": "To soften the effect of a blow, shock, loss, or difficulty; to protect by absorbing impact."
+      }
+    ],
+    "translation": "垫子；坐垫；缓冲物；缓和/减轻冲击",
+    "analysis": "核心含义是“在冲击和承受者之间形成缓冲层”。名词可指具体靠垫、坐垫，也可指抽象的资金缓冲或风险余量；动词表示缓冲冲击、减轻影响或保护。",
+    "phonetic": "/ˈkʊʃən/",
+    "origin": "来自中古英语，受古法语 coissin 影响，原义与垫子、靠垫相关，后来引申为缓冲、保护。",
+    "expansions": [
+      "seat cushion 坐垫",
+      "sofa cushion 沙发靠垫",
+      "financial cushion 财务缓冲；备用资金",
+      "cushion the impact/blow 缓冲影响/冲击",
+      "cushion against risk 抵御风险；提供风险缓冲"
+    ],
+    "pronunciation": "/ˈkʊʃən/",
+    "accepted_answers": [
+      "垫子",
+      "坐垫",
+      "靠垫",
+      "缓冲物",
+      "缓冲",
+      "减轻冲击",
+      "保护"
+    ],
+    "added_at": "2026-05-10T06:54:37.031Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "tighten",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "使变紧；拧紧；收紧；加强；变严格",
+        "definition": "To make something tighter, firmer, stricter, or more controlled; or to become tighter or stricter."
+      }
+    ],
+    "translation": "使变紧；拧紧；收紧；加强；变严格",
+    "analysis": "由 tight + -en 构成，核心含义是“使从松变紧”。可用于具体动作，如拧紧螺丝、拉紧绳子；也可用于抽象语境，如收紧监管、加强安保、竞争变得更胶着。",
+    "phonetic": "/ˈtaɪtən/",
+    "origin": "由 tight 加动词后缀 -en 构成；-en 表示“使变成某种状态”，因此 tighten 字面含义是“使变紧”。",
+    "expansions": [
+      "tighten up 收紧；改进；变得更严谨",
+      "tighten control over... 加强对……的控制",
+      "tighten monetary policy 收紧货币政策",
+      "tighten the rules 收紧规则",
+      "tighten one's grip 握得更紧；加强掌控"
+    ],
+    "pronunciation": "/ˈtaɪtən/",
+    "accepted_answers": [
+      "使变紧",
+      "拧紧",
+      "收紧",
+      "加强",
+      "变严格",
+      "拉紧"
+    ],
+    "added_at": "2026-05-10T06:56:07.696Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "fabric",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "织物；布料；结构；构造",
+        "definition": "Cloth or material made by weaving or knitting fibers; also the basic structure or framework of something."
+      }
+    ],
+    "translation": "织物；布料；结构；构造",
+    "analysis": "最常见义是布料、织物；在正式或抽象语境中也表示某个整体的基本结构或构造，如社会结构、建筑结构、制度基础。",
+    "phonetic": "/ˈfæbrɪk/",
+    "origin": "来自拉丁语 fabrica，原指工艺、制作、结构、作坊，后来经法语进入英语，发展出“织物”和“结构”两类核心含义。",
+    "expansions": [
+      "fabric store 布料店",
+      "fabric softener 衣物柔顺剂",
+      "woven fabric 机织物",
+      "the social fabric 社会结构；社会肌理",
+      "tear the fabric of... 破坏……的结构/基础"
+    ],
+    "pronunciation": "/ˈfæbrɪk/",
+    "accepted_answers": [
+      "织物",
+      "布料",
+      "结构",
+      "构造",
+      "社会结构"
+    ],
+    "added_at": "2026-05-10T06:57:24.309Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "raid",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "突袭；突击行动；突击搜查；抢劫",
+        "definition": "A sudden attack, search, or robbery, usually carried out quickly and with a specific target."
+      },
+      {
+        "pos": "V",
+        "translation": "突袭；突击搜查；抢劫；突然查抄",
+        "definition": "To make a sudden attack, search, or robbery on a place."
+      }
+    ],
+    "translation": "突袭；突击搜查；抢劫；突然查抄",
+    "analysis": "强调“突然、快速、有目标地进入某地并采取行动”。可用于军事突袭、警方突击搜查，也可用于抢劫或劫掠。相比 attack，raid 更突出短时间、突然性和目标性。",
+    "phonetic": "/reɪd/",
+    "origin": "来自苏格兰英语和北英格兰用法，原义与骑马远征、突袭行动相关，后来扩展到军事、警务和犯罪语境中的突袭、查抄、抢劫。",
+    "expansions": [
+      "police raid 警方突击搜查",
+      "air raid 空袭",
+      "raid on... 对……的突袭/查抄",
+      "conduct/carry out a raid 进行突袭",
+      "raid the fridge 翻冰箱找吃的"
+    ],
+    "pronunciation": "/reɪd/",
+    "accepted_answers": [
+      "突袭",
+      "突击搜查",
+      "抢劫",
+      "查抄",
+      "突击行动",
+      "劫掠"
+    ],
+    "added_at": "2026-05-10T06:58:50.031Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "chunky",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "厚实的；矮壮的；大块的；块状的",
+        "definition": "Made of or containing large pieces; thick, solid, heavy-looking, or stocky in build."
+      }
+    ],
+    "translation": "厚实的；矮壮的；大块的；块状的",
+    "analysis": "来自 chunk，核心意思是“有明显块状感或厚重感”。可描述食物中的大块食材、厚实衣物、厚重设计、粗壮物体，也可描述人的矮壮体型。",
+    "phonetic": "/ˈtʃʌŋki/",
+    "origin": "由 chunk（大块、厚块）+ 形容词后缀 -y 构成，字面意思接近“带有大块特征的”。",
+    "expansions": [
+      "chunky soup 大块浓汤",
+      "chunky peanut butter 颗粒花生酱",
+      "chunky sweater 厚实毛衣",
+      "chunky shoes 厚底鞋；笨重鞋",
+      "chunky design 厚重、块面感强的设计"
+    ],
+    "pronunciation": "/ˈtʃʌŋki/",
+    "accepted_answers": [
+      "厚实的",
+      "矮壮的",
+      "大块的",
+      "块状的",
+      "粗壮的",
+      "厚重的"
+    ],
+    "added_at": "2026-05-10T06:59:33.359Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sentient",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "有感知能力的；有感觉的；有意识的",
+        "definition": "Able to perceive, feel, or experience sensations and subjective awareness."
+      }
+    ],
+    "translation": "有感知能力的；有感觉的；有意识的",
+    "analysis": "常用于哲学、AI、动物伦理和科幻语境，强调某个实体具备感知、感受或主观体验能力。与 intelligent 不同，sentient 不只强调推理能力，而更强调能感觉、体验或觉知。",
+    "phonetic": "/ˈsenʃənt/",
+    "origin": "来自拉丁语 sentire，意为“感觉、感知”。同源相关词包括 sense、sensation、sentiment。",
+    "expansions": [
+      "sentient being 有感知能力的生命体",
+      "sentient creature 有感觉的生物",
+      "sentient AI 有意识/有感知能力的 AI",
+      "sentience 感知能力；感觉能力；意识体验",
+      "non-sentient 无感知能力的"
+    ],
+    "pronunciation": "/ˈsenʃənt/",
+    "accepted_answers": [
+      "有感知能力的",
+      "有感觉的",
+      "有意识的",
+      "能感知的"
+    ],
+    "added_at": "2026-05-10T07:03:22.758Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "domesticate",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "驯化；使家养；使适应家庭生活；使变得温顺",
+        "definition": "To tame and breed an animal or plant for human use, or to make something fit into ordinary domestic or controlled life."
+      }
+    ],
+    "translation": "驯化；使家养；使适应家庭生活；使变得温顺",
+    "analysis": "核心含义是把原本野生、外来或不受控制的对象，变得适合人类生活环境或管理体系。既可用于动物、植物的长期驯化，也可用于技术、制度、观念等抽象对象，表示使其更日常化、温和化或可管理。",
+    "phonetic": "/dəˈmestɪkeɪt/",
+    "origin": "来自拉丁语 domesticus，意为“家庭的、家中的”，与 domus（房屋、家庭）同源。domesticate 字面上就是“使进入家庭/家居体系”。",
+    "expansions": [
+      "domesticate wild animals 驯化野生动物",
+      "domesticated species 驯化物种",
+      "domesticate a plant 培育并驯化植物",
+      "domesticate new technology 让新技术更适合日常使用",
+      "domestication 驯化；家养化"
+    ],
+    "pronunciation": "/dəˈmestɪkeɪt/",
+    "accepted_answers": [
+      "驯化",
+      "使家养",
+      "使适应家庭生活",
+      "使变得温顺",
+      "家养化"
+    ],
+    "added_at": "2026-05-10T07:04:36.771Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "pit",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "坑；凹陷；矿井；果核；维修区",
+        "definition": "A hole or hollow in the ground or surface; also a mine shaft, the stone inside some fruit, or a service area in motorsport."
+      },
+      {
+        "pos": "V",
+        "translation": "使有坑痕；使凹陷；使对立；使竞争",
+        "definition": "To form pits or marks on a surface, or to set one person, group, or thing against another in conflict or competition."
+      }
+    ],
+    "translation": "坑；凹陷；矿井；果核；使对立/使竞争",
+    "analysis": "核心意象是向下凹进去的空间或中心凹陷物。名词可指地面上的坑、矿井、水果的核，也可指赛车维修区等特定场景；动词可表示使表面起坑，或使双方对立竞争，如 pit A against B。",
+    "phonetic": "/pɪt/",
+    "origin": "来自古英语 pytt，与坑、井、洞穴相关，源头可追溯到拉丁语 puteus，意为“井、竖井”。",
+    "expansions": [
+      "pit lane 维修区通道",
+      "a gravel pit 砂石坑",
+      "the pit of a fruit 水果的核",
+      "pit A against B 使 A 与 B 对抗",
+      "pitted surface 有凹坑的表面"
+    ],
+    "pronunciation": "/pɪt/",
+    "accepted_answers": [
+      "坑",
+      "凹陷",
+      "矿井",
+      "果核",
+      "使对立",
+      "使竞争"
+    ],
+    "added_at": "2026-05-10T07:05:51.287Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "plummet",
+    "type": "word",
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "暴跌；骤降；垂直坠落",
+        "definition": "To fall or drop suddenly and steeply, either literally or figuratively."
+      },
+      {
+        "pos": "N",
+        "translation": "铅锤；测深锤；坠子",
+        "definition": "A weight, especially one made of lead, used for sounding depth or determining a vertical line."
+      }
+    ],
+    "translation": "暴跌；骤降；铅锤；测深锤",
+    "analysis": "最常见的是动词，强调短时间内快速、大幅地下落或下跌。既可用于真实物体坠落，也常用于价格、温度、支持率、情绪等抽象指标的暴跌。名词义较少见，原指铅锤、测深锤，与垂直向下的核心意象相关。",
+    "phonetic": "/ˈplʌmɪt/",
+    "origin": "来自古法语 plommet，意为“小铅块”，源头与拉丁语 plumbum（铅）相关。最初指铅锤，后来发展出“像铅锤一样直直坠下”的动词义。",
+    "expansions": [
+      "plummet to... 暴跌至……",
+      "sales plummet 销量暴跌",
+      "temperatures plummet overnight 气温在一夜之间骤降",
+      "plummet from... to... 从……暴跌到……",
+      "a plummet line 铅垂线；测垂线"
+    ],
+    "pronunciation": "/ˈplʌmɪt/",
+    "accepted_answers": [
+      "暴跌",
+      "骤降",
+      "垂直坠落",
+      "铅锤",
+      "测深锤"
+    ],
+    "added_at": "2026-05-10T07:07:17.604Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "bald",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "秃的；光秃的；直白的；无装饰的",
+        "definition": "Having little or no hair, fur, or natural covering; also plain, blunt, or lacking detail or decoration."
+      }
+    ],
+    "translation": "秃的；光秃的；直白的；无装饰的",
+    "analysis": "最常见是描述人头秃或局部无毛发，也可描述山体、地面等光秃秃的状态。抽象上还可表示陈述过于直接、缺乏修饰，如 the bald truth。",
+    "phonetic": "/bɔːld/",
+    "origin": "来自古英语 balde，早期有“白斑、无覆盖”的含义，后来发展为“秃的、光秃的”，并进一步引申出“直白无修饰”的抽象用法。",
+    "expansions": [
+      "go bald 变秃；开始脱发",
+      "bald spot 秃斑；光秃区域",
+      "bald eagle 白头海雕",
+      "the bald truth 赤裸裸的真相",
+      "a bald statement 过于直白、未加修饰的说法"
+    ],
+    "pronunciation": "/bɔːld/",
+    "accepted_answers": [
+      "秃的",
+      "光秃的",
+      "直白的",
+      "无装饰的",
+      "谢顶的"
+    ],
+    "added_at": "2026-05-10T07:09:00.590Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "cheerful",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "愉快的；高兴的；令人振奋的；乐观开朗的",
+        "definition": "Noticeably happy, bright, and positive in manner, mood, or atmosphere."
+      }
+    ],
+    "translation": "愉快的；高兴的；令人振奋的；乐观开朗的",
+    "analysis": "核心是带有积极、明亮、令人舒服的情绪色彩。既可以描述人的性格、表情、语气，也可以描述房间、颜色、音乐和氛围，强调持续的开朗和明快感。",
+    "phonetic": "/ˈtʃɪəfəl/",
+    "origin": "来自 cheer，原本与“面容、情绪、精神状态”有关，后加形容词后缀 -ful，形成“充满愉快情绪的”之意。",
+    "expansions": [
+      "cheerful smile 愉快的笑容",
+      "cheerful voice 轻快的语气",
+      "a cheerful atmosphere 轻松愉快的氛围",
+      "bright and cheerful 明亮而令人愉悦的",
+      "cheerfulness 愉快；开朗；乐观情绪"
+    ],
+    "pronunciation": "/ˈtʃɪəfəl/",
+    "accepted_answers": [
+      "愉快的",
+      "高兴的",
+      "令人振奋的",
+      "乐观开朗的",
+      "开朗的"
+    ],
+    "added_at": "2026-05-10T07:10:32.170Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "ditty",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "小曲；小调；短歌；顺口小诗",
+        "definition": "A short, simple, and usually cheerful song or verse that is easy to remember."
+      }
+    ],
+    "translation": "小曲；小调；短歌；顺口小诗",
+    "analysis": "指篇幅短、节奏轻快、容易记忆的小歌或小诗，语气通常较轻松、口语化，有时带一点俏皮感。常用于儿歌、民谣、顺口短句或轻松好记的旋律表达。",
+    "phonetic": "/ˈdɪti/",
+    "origin": "一般认为来自中古英语或早期口语中的歌唱性、重复性构词，长期用于指轻松简短的小歌小调；现代英语中保留了这种“短小轻快歌曲”的语感。",
+    "expansions": [
+      "a catchy ditty 一首朗朗上口的小曲",
+      "a folk ditty 一首民间小调",
+      "hum a ditty 哼一支小曲",
+      "a little comic ditty 一首诙谐短歌",
+      "ditty-like rhyme 像小调一样顺口的押韵短句"
+    ],
+    "pronunciation": "/ˈdɪti/",
+    "accepted_answers": [
+      "小曲",
+      "小调",
+      "短歌",
+      "顺口小诗"
+    ],
+    "added_at": "2026-05-10T07:12:06.308Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sear",
+    "type": "word",
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "煎至表面焦黄；灼烧；烫伤；使刻骨铭心",
+        "definition": "To burn or scorch the surface of something with intense heat, or to impress something deeply and painfully on the mind."
+      },
+      {
+        "pos": "N",
+        "translation": "灼痕；烙印",
+        "definition": "A burn mark or scorched trace left by intense heat."
+      }
+    ],
+    "translation": "煎至表面焦黄；灼烧；烫伤；使刻骨铭心",
+    "analysis": "核心是用强烈高温迅速作用在表面。最常见于烹饪，表示把肉类表面快速煎到焦香上色；也可表示一般性的灼烧、烫伤。抽象上则表示某种记忆、痛苦或画面深深烙进脑海。",
+    "phonetic": "/sɪr/",
+    "origin": "来自古英语 sierian 或相关日耳曼词根，核心含义与“使干枯、灼焦、烧伤”有关，后来发展出烹饪中的“高温快速煎封”义。",
+    "expansions": [
+      "sear the meat 把肉表面快速煎香",
+      "sear on both sides 两面快速煎封",
+      "searing pain 灼痛；剧痛",
+      "sear into memory 深深刻进记忆",
+      "searing heat 灼热高温"
+    ],
+    "pronunciation": "/sɪr/",
+    "accepted_answers": [
+      "煎至表面焦黄",
+      "灼烧",
+      "烫伤",
+      "使刻骨铭心",
+      "灼痕",
+      "烙印"
+    ],
+    "added_at": "2026-05-10T07:13:51.477Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "fascinate",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "使着迷；强烈吸引；使极感兴趣",
+        "definition": "To attract and hold the attention of someone very strongly, often with a sense of wonder or deep interest."
+      }
+    ],
+    "translation": "使着迷；强烈吸引；使极感兴趣",
+    "analysis": "强调吸引力很强，以至于让人不由自主地持续关注。比 interest 更强，带有“被迷住、深深吸引”的感觉。常用于人对话题、故事、现象、人物或技术产生持续而强烈兴趣的语境。",
+    "phonetic": "/ˈfæsɪneɪt/",
+    "origin": "来自拉丁语 fascinare，原本有“施魔法、使着迷”的意思，后来进入英语后演变为“强烈吸引、使着迷”。",
+    "expansions": [
+      "be fascinated by... 对……着迷",
+      "fascinate someone with... 用……吸引某人",
+      "find something fascinating 觉得某事很迷人/很有意思",
+      "fascinating story 引人入胜的故事",
+      "fascination 魅力；着迷；强烈兴趣"
+    ],
+    "pronunciation": "/ˈfæsɪneɪt/",
+    "accepted_answers": [
+      "使着迷",
+      "强烈吸引",
+      "使极感兴趣",
+      "迷住"
+    ],
+    "added_at": "2026-05-10T07:15:18.539Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "console",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "控制台；控制面板；终端界面；游戏主机",
+        "definition": "A control unit, terminal interface, or dedicated device used to operate systems or play games."
+      },
+      {
+        "pos": "V",
+        "translation": "安慰；抚慰；宽解",
+        "definition": "To comfort someone who is sad, disappointed, or upset."
+      }
+    ],
+    "translation": "控制台；控制面板；主机终端；安慰",
+    "analysis": "是一个多义词。作名词时，常见于技术、设备和游戏语境，表示控制台、终端或主机；作动词时，表示在失落、悲伤后安慰某人。名词与动词的发音重音也不同。",
+    "phonetic": "N /ˈkɒnsəʊl/; V /kənˈsəʊl/",
+    "origin": "来自拉丁语 consolari，原义是“安慰”。后来经法语进入英语，先形成动词“安慰”义；名词“控制台”则是后来的器物与技术语义扩展。",
+    "expansions": [
+      "developer console 开发者控制台",
+      "management console 管理控制台",
+      "game console 游戏主机",
+      "console oneself with... 用……安慰自己",
+      "console a friend 安慰朋友"
+    ],
+    "pronunciation": "N /ˈkɒnsəʊl/; V /kənˈsəʊl/",
+    "accepted_answers": [
+      "控制台",
+      "控制面板",
+      "终端界面",
+      "游戏主机",
+      "安慰",
+      "抚慰"
+    ],
+    "added_at": "2026-05-10T07:16:41.300Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "thrill",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "激动；兴奋；刺激感；一阵战栗",
+        "definition": "A sudden strong feeling of excitement, pleasure, or emotional stimulation."
+      },
+      {
+        "pos": "V",
+        "translation": "使激动；使兴奋；使感到刺激",
+        "definition": "To cause someone to feel sudden excitement, pleasure, or emotional intensity."
+      }
+    ],
+    "translation": "激动；兴奋；刺激感；使激动",
+    "analysis": "核心是强烈而短促的兴奋感或刺激感。既可以指情绪上的激动，也可以指身体上的一阵战栗、发麻般的感觉。作动词时，表示让某人感到兴奋、刺激或情绪被强烈触动。",
+    "phonetic": "/θrɪl/",
+    "origin": "来自中古英语，和古英语、古挪威语中“刺穿、贯穿”相关。早期有“刺痛、穿透”的感觉，后来引申为“情绪或感觉被强烈触动”，形成现代的“激动、刺激”义。",
+    "expansions": [
+      "the thrill of... ……带来的刺激/快感",
+      "a thrill seeker 寻求刺激的人",
+      "be thrilled to do something 非常激动地做某事",
+      "thrill someone with... 用……让某人兴奋",
+      "thrilling 激动人心的；扣人心弦的"
+    ],
+    "pronunciation": "/θrɪl/",
+    "accepted_answers": [
+      "激动",
+      "兴奋",
+      "刺激感",
+      "使激动",
+      "使兴奋"
+    ],
+    "added_at": "2026-05-10T07:19:14.432Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "hypnotize",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "催眠；使着迷；使恍惚般专注",
+        "definition": "To put someone into hypnosis, or to hold someone’s attention so strongly that they seem spellbound."
+      }
+    ],
+    "translation": "催眠；使着迷；使恍惚般专注",
+    "analysis": "基础义是通过语言、节奏或暗示让人进入高度放松、注意力集中的催眠状态。日常表达中也常夸张地表示某物太吸引人了，让人像被迷住一样移不开眼。",
+    "phonetic": "/ˈhɪpnətaɪz/",
+    "origin": "来自 hypnosis，其源头是希腊语 hypnos，意为“睡眠”。hypnotize 字面上就是“使进入类似睡眠/催眠状态”。",
+    "expansions": [
+      "hypnotize someone into doing... 催眠某人去做……",
+      "be hypnotized by... 被……迷住",
+      "hypnotic voice 催眠般的声音",
+      "hypnotic rhythm 让人沉迷的节奏",
+      "hypnosis 催眠；催眠状态"
+    ],
+    "pronunciation": "/ˈhɪpnətaɪz/",
+    "accepted_answers": [
+      "催眠",
+      "使着迷",
+      "使恍惚般专注",
+      "迷住"
+    ],
+    "added_at": "2026-05-10T07:20:41.393Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "adolescent",
+    "type": "word",
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "青少年的；青春期的；处于发育阶段的",
+        "definition": "Relating to the period of life when a person is developing from a child into an adult."
+      },
+      {
+        "pos": "N",
+        "translation": "青少年；青春期的人",
+        "definition": "A young person who is developing from a child into an adult."
+      }
+    ],
+    "translation": "青少年的；青春期的；青少年",
+    "analysis": "核心指从儿童向成年人过渡的青春期阶段。作形容词时，常修饰发展、行为、心理或身体特征；作名词时，直接指青少年个体。相比 teenager，adolescent 更正式，更常见于教育、医学和心理学语境。",
+    "phonetic": "/ˌaedəˈles(ə)nt/",
+    "origin": "来自拉丁语 adolescere，意为“长大、成长”，其现在分词形式发展成 adolescent，字面含义就是“正在成长中的人”。",
+    "expansions": [
+      "adolescent psychology 青少年心理学",
+      "adolescent years 青春期岁月",
+      "adolescent development 青春期发展",
+      "adolescent health 青少年健康",
+      "adolescence 青春期；青少年时期"
+    ],
+    "pronunciation": "/ˌaedəˈles(ə)nt/",
+    "accepted_answers": [
+      "青少年的",
+      "青春期的",
+      "青少年",
+      "青春期的人"
+    ],
+    "added_at": "2026-05-10T07:22:08.988Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "inscrutable",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "高深莫测的；难以理解的；捉摸不透的",
+        "definition": "Difficult or impossible to understand, interpret, or read, especially in expression, motive, or character."
+      }
+    ],
+    "translation": "高深莫测的；难以理解的；捉摸不透的",
+    "analysis": "强调别人看不透、猜不透、弄不明白。常用来形容人的表情、动机、性格，也可形容文本、制度或现象显得过于复杂难解。相比 mysterious，它更强调“无法看穿、无法参透”，语气也更书面。",
+    "phonetic": "/ɪnˈskruːtəbl/",
+    "origin": "来自拉丁语 scrutari，意为“搜查、仔细探究”，前缀 in- 在这里表示否定，因此 inscrutable 字面意思就是“无法被探究清楚的”。",
+    "expansions": [
+      "an inscrutable look 难以捉摸的神情",
+      "inscrutable silence 令人猜不透的沉默",
+      "remain inscrutable 依旧高深莫测",
+      "inscrutable motives 难以揣测的动机",
+      "inscrutably 高深莫测地；难以理解地"
+    ],
+    "pronunciation": "/ɪnˈskruːtəbl/",
+    "accepted_answers": [
+      "高深莫测的",
+      "难以理解的",
+      "捉摸不透的"
+    ],
+    "added_at": "2026-05-10T07:24:07.216Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "monochrome",
+    "type": "word",
+    "pos": "Adj / N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "单色的；黑白的；仅用一种颜色表现的",
+        "definition": "Using or showing only one color or one range of tones, often black and white."
+      },
+      {
+        "pos": "N",
+        "translation": "单色画；黑白图像；单色显示",
+        "definition": "An image, display, or artwork produced in one color or in black and white."
+      }
+    ],
+    "translation": "单色的；黑白的；单色画；单色图像",
+    "analysis": "核心是只使用一种颜色，或围绕单一色调展开。既可用于艺术、摄影、设计，也可用于显示设备和界面风格。相比 black-and-white，monochrome 范围更广，不一定只限于黑白。",
+    "phonetic": "/ˈmɒnəkrəʊm/",
+    "origin": "来自希腊语词根：mono- 表示“单一”，chroma/chrome 表示“颜色”。字面意思就是“单一颜色”。",
+    "expansions": [
+      "monochrome palette 单色配色方案",
+      "monochrome print 单色印刷品",
+      "monochrome look 单色穿搭/视觉风格",
+      "monochrome display 单色显示器",
+      "monochromatic 单色的；单色调的"
+    ],
+    "pronunciation": "/ˈmɒnəkrəʊm/",
+    "accepted_answers": [
+      "单色的",
+      "黑白的",
+      "单色画",
+      "单色图像",
+      "单色显示"
+    ],
+    "added_at": "2026-05-10T07:25:24.608Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
