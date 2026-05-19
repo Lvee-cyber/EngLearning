@@ -4017,22 +4017,23 @@
   {
     "term": "utilization",
     "type": "word",
-    "translation": "利用；使用；利用率",
-    "analysis": "这个词表示资源、设备、时间、能力或空间被使用的程度或方式。它常见于商业、运营、工程、计算机和数据分析语境中，既可以表示利用这个动作，也可以表示利用率这种量化结果。",
-    "phonetic": "/ˌjuːtɪlaɪˈzeɪʃən/; /ˌjuːtələˈzeɪʃən/",
-    "origin": "来自 utilize 加名词后缀 -ation，表示使用、利用这一过程或结果。utilize 本身与“有用、实用”这一词源有关。",
+    "translation": "利用；使用；利用率；运用情况",
+    "analysis": "是 utilize 的名词形式，核心意思是把某物用起来并尽量发挥其价值。常用于正式、技术、商业、医学和运营语境，强调资源被利用的程度、效率或效果。",
+    "phonetic": "/ˌjuːtɪlaɪˈzeɪʃən/",
+    "origin": "来自 utilize，而 utilize 源自法语 utiliser，进一步追溯到拉丁语 utilis，意为“有用的”。因此 utilization 本质上就是“使之发挥用处、把它利用起来”。",
     "expansions": [
       "resource utilization 资源利用",
-      "CPU utilization CPU 使用率",
-      "capacity utilization 产能利用率",
       "improve utilization 提高利用率",
-      "effective utilization 有效利用"
+      "capacity utilization 产能利用率",
+      "optimize system utilization 优化系统利用率",
+      "underutilization 利用不足；未充分利用"
     ],
-    "pronunciation": "英式 /ˌjuːtɪlaɪˈzeɪʃən/，美式 /ˌjuːtələˈzeɪʃən/",
+    "pronunciation": "/ˌjuːtɪlaɪˈzeɪʃən/",
     "accepted_answers": [
       "利用",
       "使用",
-      "利用率"
+      "利用率",
+      "运用情况"
     ],
     "added_at": "2026-04-01T11:17:12+08:00",
     "review": {
@@ -4040,7 +4041,14 @@
       "incorrect_count": 0,
       "review_history": []
     },
-    "pos": "N"
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "利用；使用；利用率；运用情况",
+        "definition": "The act, process, or degree of making practical and effective use of something."
+      }
+    ]
   },
   {
     "term": "pattern",
@@ -6615,6 +6623,229 @@
       "单色显示"
     ],
     "added_at": "2026-05-10T07:25:24.608Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "charter",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "宪章；章程；特许状；包租协议",
+        "definition": "A formal written document granting rights, setting out principles, or governing an organization; also a contract for hiring a ship or aircraft."
+      },
+      {
+        "pos": "V",
+        "translation": "包租；租用专机/专船；特许设立",
+        "definition": "To hire a ship, aircraft, or other vehicle for private use, or to formally establish by charter."
+      }
+    ],
+    "translation": "宪章；章程；特许状；包租；租用专机/专船",
+    "analysis": "核心是“被正式授权”或“被整体租用”。作名词时，常表示具有法律或制度效力的正式文件，如组织章程、城市特许状、人权宪章；作动词时，最常见于交通和商业语境，表示包租整艘船、整架飞机等。",
+    "phonetic": "/ˈtʃɑːtə(r)/",
+    "origin": "来自古法语 chartre/charte，源头可追溯到拉丁语 charta，意为“纸张、文件”。后来逐渐发展为“正式文件、特许状、章程”，再扩展出包租义。",
+    "expansions": [
+      "charter flight 包机航班",
+      "charter school 特许学校",
+      "corporate charter 公司章程",
+      "charter a boat 包租一艘船",
+      "under charter 处于包租状态"
+    ],
+    "pronunciation": "/ˈtʃɑːtə(r)/",
+    "accepted_answers": [
+      "宪章",
+      "章程",
+      "特许状",
+      "包租",
+      "包机",
+      "包船"
+    ],
+    "added_at": "2026-05-11T08:18:32.294Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "sibling",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "兄弟姐妹；同胞",
+        "definition": "A brother or sister; one of two or more children having one or both parents in common."
+      }
+    ],
+    "translation": "兄弟姐妹；同胞",
+    "analysis": "是一个中性统称词，不区分性别，既可以指兄弟，也可以指姐妹。当不想特别说明是 brother 还是 sister 时，就会用 sibling。常见于家庭关系、教育和心理学语境。",
+    "phonetic": "/ˈsɪblɪŋ/",
+    "origin": "来自古英语 sibb，原意与“亲属关系、和平、和睦”有关，后加名词后缀形成 sibling，发展为现代英语里的“兄弟姐妹、同胞”。",
+    "expansions": [
+      "older sibling 年长的兄弟姐妹",
+      "younger sibling 年幼的兄弟姐妹",
+      "sibling relationship 手足关系",
+      "sibling rivalry 兄弟姐妹间的竞争",
+      "only child with no siblings 没有兄弟姐妹的独生子女"
+    ],
+    "pronunciation": "/ˈsɪblɪŋ/",
+    "accepted_answers": [
+      "兄弟姐妹",
+      "同胞",
+      "手足"
+    ],
+    "added_at": "2026-05-19T06:14:14.767Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "viability",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "可行性；生存能力；维持发展能力",
+        "definition": "The ability to work successfully, remain alive, or continue operating effectively over time."
+      }
+    ],
+    "translation": "可行性；生存能力；维持发展能力",
+    "analysis": "核心是某件事能不能真正成立、活下去、持续下去。可用于商业、技术、政策、项目，表示可行性；也可用于生物或医学语境，表示生存能力。相比 feasibility，它更强调不仅能做成，还要能长期站得住。",
+    "phonetic": "/ˌvaɪəˈbɪləti/",
+    "origin": "来自 viable，而 viable 源自法语 viable，最终追溯到拉丁语 vita，意为“生命”。因此 viability 最初和“能活下来”有关，后来扩展为“可行、可持续存在”。",
+    "expansions": [
+      "economic viability 经济可行性",
+      "viability study 可行性研究",
+      "test the viability of... 测试……的可行性",
+      "long-term viability 长期维持能力",
+      "financial viability 财务可行性 / 财务生存能力"
+    ],
+    "pronunciation": "/ˌvaɪəˈbɪləti/",
+    "accepted_answers": [
+      "可行性",
+      "生存能力",
+      "维持发展能力",
+      "持续能力"
+    ],
+    "added_at": "2026-05-19T06:23:16.642Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "latency",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "延迟；潜伏期；潜在状态",
+        "definition": "A delay before a transfer, response, or effect begins, or a state of being present but not yet active or visible."
+      }
+    ],
+    "translation": "延迟；潜伏期；潜在状态",
+    "analysis": "核心是某件事不是立刻发生，而是存在一段延后或潜伏时间。在技术语境里最常见是系统或网络响应延迟；在医学语境里可表示潜伏期；在更抽象的语境里也可表示尚未显现但已存在的潜在状态。",
+    "phonetic": "/ˈleɪtənsi/",
+    "origin": "来自拉丁语 latens，意为“隐藏着的、潜伏的”，是 latere（隐藏）的现在分词形式。后来先发展出“潜伏状态”，再进一步引申为现代技术语境中的“延迟”。",
+    "expansions": [
+      "network latency 网络延迟",
+      "reduce latency 降低延迟",
+      "latency spike 延迟突增",
+      "low-latency system 低延迟系统",
+      "latency-sensitive workload 对时延敏感的工作负载"
+    ],
+    "pronunciation": "/ˈleɪtənsi/",
+    "accepted_answers": [
+      "延迟",
+      "潜伏期",
+      "潜在状态",
+      "时延"
+    ],
+    "added_at": "2026-05-19T07:18:10.548Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "acquire",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "获得；取得；习得；购得",
+        "definition": "To gain or come to have something through effort, learning, purchase, or other means."
+      }
+    ],
+    "translation": "获得；取得；习得；购得",
+    "analysis": "核心是“经过某种过程而得到”。它比普通的 get 更正式，常用于商业、学习、能力、资产、信息等语境。既可以表示习得技能、积累经验，也可以表示购得资产或收购公司。",
+    "phonetic": "/əˈkwaɪə(r)/",
+    "origin": "来自拉丁语 acquirere，由 ad-（朝向）和 quaerere（寻找、追求）构成，字面上有“追求并得到”的意思，后来演变为现代英语中的“获得、取得、习得”。",
+    "expansions": [
+      "acquire experience 积累经验",
+      "acquire a habit 养成一种习惯",
+      "acquire a company 收购公司",
+      "acquire new customers 获取新客户",
+      "acquisition 获得；收购；习得"
+    ],
+    "pronunciation": "/əˈkwaɪə(r)/",
+    "accepted_answers": [
+      "获得",
+      "取得",
+      "习得",
+      "购得",
+      "收购"
+    ],
+    "added_at": "2026-05-19T07:19:46.097Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "lead time",
+    "type": "phrase",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "前置时间；交付周期；准备周期；提前期",
+        "definition": "The amount of time between the start of a process or request and its completion, delivery, or availability."
+      }
+    ],
+    "translation": "前置时间；交付周期；准备周期；提前期",
+    "analysis": "核心是从开始请求到最终拿到结果之间所需预留的时间。常见于制造、供应链、采购、项目管理和软件交付语境，强调为了交付、生产或准备必须提前安排的时间。",
+    "phonetic": "/ˈliːd taɪm/",
+    "origin": "lead 在这里表示“领先、提前”，time 表示“时间”，合起来就是“提前预留出来的时间”。在工业和供应链语境里逐渐固定为“交付前置时间/提前期”。",
+    "expansions": [
+      "shorten lead time 缩短前置时间",
+      "long lead time item 交期长的物料",
+      "lead time reduction 前置时间压缩",
+      "estimate the lead time 估算交付周期",
+      "order with sufficient lead time 提前足够时间下单"
+    ],
+    "pronunciation": "/ˈliːd taɪm/",
+    "accepted_answers": [
+      "前置时间",
+      "交付周期",
+      "准备周期",
+      "提前期"
+    ],
+    "added_at": "2026-05-19T07:24:14.000Z",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

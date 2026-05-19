@@ -514,6 +514,24 @@ p {
   color: var(--muted);
 }
 
+a.history-word-chip {
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+a.history-word-chip:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 20px rgba(77, 58, 37, 0.08);
+}
+
+a.history-word-chip:focus-visible {
+  outline: 3px solid rgba(167, 85, 33, 0.22);
+  outline-offset: 2px;
+}
+
 .history-word-chip.is-ok {
   color: var(--ok);
   background: rgba(47, 106, 79, 0.12);

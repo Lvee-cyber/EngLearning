@@ -102,6 +102,11 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
+function toDictionaryLink(term, className) {
+  const href = `./dictionary.html?q=${encodeURIComponent(String(term || "").trim())}`;
+  return `<a class="${className}" href="${href}">${escapeHtml(term)}</a>`;
+}
+
 function getPosText(entry) {
   if (!entry || typeof entry !== "object") return "";
   const direct = String(entry.pos || entry.part_of_speech || "").trim();
@@ -662,7 +667,7 @@ function renderHistoryOverview(message = "") {
                   <div class="history-session-words">
                     ${
                       session.correctWords.length
-                        ? session.correctWords.map((word) => `<span class="history-word-chip is-ok">${escapeHtml(word)}</span>`).join("")
+                        ? session.correctWords.map((word) => toDictionaryLink(word, "history-word-chip is-ok")).join("")
                         : `<span class="history-word-chip is-empty">本场无答对词</span>`
                     }
                   </div>
@@ -672,7 +677,7 @@ function renderHistoryOverview(message = "") {
                   <div class="history-session-words">
                     ${
                       session.wrongWords.length
-                        ? session.wrongWords.map((word) => `<span class="history-word-chip is-bad">${escapeHtml(word)}</span>`).join("")
+                        ? session.wrongWords.map((word) => toDictionaryLink(word, "history-word-chip is-bad")).join("")
                         : `<span class="history-word-chip is-empty">本场无答错词</span>`
                     }
                   </div>
