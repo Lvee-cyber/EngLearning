@@ -1089,6 +1089,13 @@ a.history-word-chip:focus-visible {
   font-family: "Georgia", "Times New Roman", serif;
 }
 
+.answer-translation {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.55;
+}
+
 .answer-user {
   background: linear-gradient(180deg, rgba(183, 59, 59, 0.08), rgba(183, 59, 59, 0.03));
   border-color: rgba(159, 47, 47, 0.18);

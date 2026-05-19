@@ -25,6 +25,33 @@ const elements = {
   masteredCount: document.querySelector("#words-mastered-count"),
 };
 
+const COMMON_FIELDS = new Set([
+  "term",
+  "word",
+  "headword",
+  "title",
+  "name",
+  "translation",
+  "meaning",
+  "meanings",
+  "definition",
+  "definitions",
+  "analysis",
+  "explanation",
+  "phonetic",
+  "pronunciation",
+  "expansions",
+  "examples",
+  "origin",
+  "type",
+  "pos",
+  "part_of_speech",
+  "senses",
+  "accepted_answers",
+  "review",
+  "added_at",
+]);
+
 function escapeHtml(value) {
   return String(value || "")
     .replaceAll("&", "&amp;")
@@ -32,6 +59,18 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function toArray(value) {
+  if (Array.isArray(value)) return value.filter(Boolean);
+  if (value == null || value === "") return [];
+  return [value];
+}
+
+function joinReadable(value) {
+  return toArray(value)
+    .map((item) => (typeof item === "string" ? item : JSON.stringify(item)))
+    .join("；");
 }
 
 function getSenseItems(entry) {
@@ -50,7 +89,7 @@ function getSenseItems(entry) {
 function getTranslationText(entry) {
   const senses = getSenseItems(entry);
   if (senses.length) return senses.map((item) => `${item.pos ? `${item.pos} ` : ""}${item.translation}`).join("；");
-  return String(entry.translation || "").trim();
+  return String(entry.translation || joinReadable(entry.meaning || entry.meanings || entry.definition || entry.definitions) || "").trim();
 }
 
 function getTranslationHtml(entry) {
@@ -79,6 +118,68 @@ function getPosText(entry) {
   if (!Array.isArray(entry.senses)) return "";
   const values = [...new Set(entry.senses.map((item) => String(item?.pos || "").trim()).filter(Boolean))];
   return values.join(" / ");
+}
+
+function formatDate(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return date.toLocaleString("zh-CN", { hour12: false });
+}
+
+function renderList(items) {
+  const normalized = toArray(items).map((item) => escapeHtml(item));
+  if (!normalized.length) return "";
+  return `<ul>${normalized.map((item) => `<li>${item}</li>`).join("")}</ul>`;
+}
+
+function renderMetaItems(entry) {
+  const items = [];
+  if (entry.type) items.push(["词条类型", entry.type]);
+  if (entry.origin) items.push(["词源", entry.origin]);
+  if (entry.added_at) items.push(["收录时间", formatDate(entry.added_at)]);
+
+  const extraItems = Object.entries(entry)
+    .filter(([key, value]) => !COMMON_FIELDS.has(key) && value != null && value !== "" && !(Array.isArray(value) && value.length === 0))
+    .map(([key, value]) => [key, joinReadable(value)]);
+
+  return [...items, ...extraItems]
+    .map(
+      ([label, value]) => `
+        <div class="dictionary-meta-item">
+          <dt>${escapeHtml(label)}</dt>
+          <dd>${escapeHtml(value)}</dd>
+        </div>
+      `,
+    )
+    .join("");
+}
+
+function renderReviewHistory(progress) {
+  const history = Array.isArray(progress?.review_history) ? progress.review_history : [];
+  if (!history.length) return "";
+
+  const rows = history
+    .map((item) => {
+      if (!item || typeof item !== "object") return "";
+      const result = item.result === "correct" ? "正确" : item.result === "incorrect" ? "错误" : item.result || "未知";
+      const answeredAt = formatDate(item.answered_at);
+      const mode = item.mode ? ` · ${item.mode}` : "";
+      const answer = item.user_answer ? ` · ${item.user_answer}` : "";
+      return `<li>${escapeHtml(`${answeredAt || "未知时间"} · ${result}${mode}${answer}`)}</li>`;
+    })
+    .filter(Boolean)
+    .join("");
+
+  if (!rows) return "";
+  return `
+    <section class="dictionary-section">
+      <details class="word-review-history">
+        <summary>复习记录 ${history.length} 条</summary>
+        <ul>${rows}</ul>
+      </details>
+    </section>
+  `;
 }
 
 function getProfileId() {
@@ -220,8 +321,11 @@ function renderWords() {
   elements.list.innerHTML = filtered
     .map((entry) => {
       const progress = getProgress(entry);
-      const chips = (entry.expansions || []).slice(0, 4).map((item) => `<span class="expansion-chip">${escapeHtml(item)}</span>`).join("");
       const status = isMastered(entry) ? "熟词" : "待复习";
+      const analysis = entry.analysis || entry.explanation || joinReadable(entry.definition || entry.definitions);
+      const examples = toArray(entry.expansions || entry.examples);
+      const acceptedAnswers = toArray(entry.accepted_answers);
+      const meta = renderMetaItems(entry);
       return `
         <article class="word-card">
           <div class="word-card-head">
@@ -238,7 +342,11 @@ function renderWords() {
             <span>答对 ${Number(progress.correct_count || 0)}</span>
             <span>答错 ${Number(progress.incorrect_count || 0)}</span>
           </div>
-          <div class="expansions-list">${chips}</div>
+          ${analysis ? `<section class="dictionary-section"><h3>词条解析</h3><p>${escapeHtml(analysis)}</p></section>` : ""}
+          ${examples.length ? `<section class="dictionary-section"><h3>扩展表达</h3>${renderList(examples)}</section>` : ""}
+          ${acceptedAnswers.length ? `<section class="dictionary-section"><h3>常见义项</h3>${renderList(acceptedAnswers)}</section>` : ""}
+          ${renderReviewHistory(progress)}
+          ${meta ? `<dl class="dictionary-meta">${meta}</dl>` : ""}
         </article>
       `;
     })

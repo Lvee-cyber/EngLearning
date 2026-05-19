@@ -24,6 +24,7 @@ const state = {
   currentChoiceOptions: [],
   currentChoiceSelection: "",
   lastResult: null,
+  submitting: false,
   supabase: null,
   syncReady: false,
   historyVisible: false,
@@ -64,12 +65,14 @@ const elements = {
   questionLabel: document.querySelector("#question-label"),
   spellingSlots: document.querySelector("#spelling-slots"),
   choiceOptions: document.querySelector("#choice-options"),
+  answerRow: document.querySelector(".answer-row"),
   questionPosText: document.querySelector("#question-pos-text"),
   translationText: document.querySelector("#translation-text"),
   resultTitle: document.querySelector("#result-title"),
   resultIcon: document.querySelector("#result-icon"),
   resultMessage: document.querySelector("#result-message"),
   userAnswerText: document.querySelector("#user-answer-text"),
+  userAnswerTranslation: document.querySelector("#user-answer-translation"),
   userAnswerBlock: document.querySelector("#user-answer-block"),
   correctAnswerText: document.querySelector("#correct-answer-text"),
   resultPosText: document.querySelector("#result-pos-text"),
@@ -133,6 +136,28 @@ function getTranslationText(entry) {
   const senses = getSenseItems(entry);
   if (senses.length) return senses.map((item) => `${item.pos ? `${item.pos} ` : ""}${item.translation}`).join("；");
   return String(entry?.translation || "").trim();
+}
+
+function findEntryByTerm(term) {
+  const normalized = normalizeWord(term);
+  if (!normalized) return null;
+  return (
+    state.words.find((entry) => normalizeWord(entry?.term) === normalized) ||
+    state.dictionaryEntries.find((entry) => normalizeWord(entry?.term) === normalized) ||
+    null
+  );
+}
+
+function getBriefTranslation(term) {
+  const entry = findEntryByTerm(term);
+  const text = getTranslationText(entry);
+  if (!text) return "";
+  return text
+    .split(/[；;\n]/)
+    .map((item) => item.trim())
+    .filter(Boolean)
+    .slice(0, 2)
+    .join("；");
 }
 
 function getTranslationHtml(entry) {
@@ -789,6 +814,7 @@ function renderChoiceOptions(entry) {
         item.classList.toggle("is-selected", active);
         item.setAttribute("aria-pressed", String(active));
       });
+      submitAnswer().catch((error) => updateSetupStatus(`提交失败：${error.message}`));
     });
   });
 }
@@ -831,6 +857,7 @@ function renderQuestion() {
   reorderQuestionCard(isSpelling);
   showElement(elements.spellingSlots, isSpelling);
   showElement(elements.choiceOptions, !isSpelling);
+  showElement(elements.answerRow, isSpelling);
   if (isSpelling) renderSpellingSlots(entry.term);
   else renderChoiceOptions(entry);
   const posText = getPosText(entry);
@@ -1047,6 +1074,9 @@ function renderResult() {
       ? `${actionLabel}正确，结果已同步到在线进度。`
       : `${actionLabel}不正确，先看一眼正确答案和用法。`;
   elements.userAnswerText.textContent = userAnswer;
+  const userAnswerTranslation = !correct && mode === "choice" ? getBriefTranslation(userAnswer) : "";
+  elements.userAnswerTranslation.textContent = userAnswerTranslation ? `释义：${userAnswerTranslation}` : "";
+  showElement(elements.userAnswerTranslation, Boolean(userAnswerTranslation));
   elements.correctAnswerText.textContent = entry.term;
   const posText = getPosText(entry);
   elements.resultPosText.textContent = posText ? `词性：${posText}` : "";
@@ -1112,15 +1142,22 @@ async function persistResult(correct, userAnswer) {
 }
 
 async function submitAnswer() {
-  if (!state.currentItem) return;
+  if (!state.currentItem || state.submitting) return;
   const answer = state.reviewMode === "choice" ? state.currentChoiceSelection : getTypedTailFromSlots();
   if (!String(answer || "").trim()) {
     updateSetupStatus(state.reviewMode === "choice" ? "请先选择一个候选单词。" : "请先完成当前单词拼写。");
     return;
   }
-  const correct = isCorrect(state.currentItem, answer);
-  await persistResult(correct, answer);
-  renderResult();
+  state.submitting = true;
+  elements.submitButton.disabled = true;
+  try {
+    const correct = isCorrect(state.currentItem, answer);
+    await persistResult(correct, answer);
+    renderResult();
+  } finally {
+    state.submitting = false;
+    elements.submitButton.disabled = false;
+  }
 }
 
 function nextQuestion() {
