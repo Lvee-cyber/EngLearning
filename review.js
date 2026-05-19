@@ -1075,8 +1075,10 @@ function renderResult() {
       : `${actionLabel}不正确，先看一眼正确答案和用法。`;
   elements.userAnswerText.textContent = userAnswer;
   const userAnswerTranslation = !correct && mode === "choice" ? getBriefTranslation(userAnswer) : "";
-  elements.userAnswerTranslation.textContent = userAnswerTranslation ? `释义：${userAnswerTranslation}` : "";
-  showElement(elements.userAnswerTranslation, Boolean(userAnswerTranslation));
+  if (elements.userAnswerTranslation) {
+    elements.userAnswerTranslation.textContent = userAnswerTranslation ? `释义：${userAnswerTranslation}` : "";
+    showElement(elements.userAnswerTranslation, Boolean(userAnswerTranslation));
+  }
   elements.correctAnswerText.textContent = entry.term;
   const posText = getPosText(entry);
   elements.resultPosText.textContent = posText ? `词性：${posText}` : "";
