@@ -2,9 +2,15 @@ const APP_CONFIG = window.APP_CONFIG || {};
 
 const state = {
   entries: [],
+  wordEntries: [],
   dictionaryLoaded: false,
+  wordsLoaded: false,
+  dictionaryPromise: null,
+  wordsPromise: null,
   dictionarySource: "json",
+  wordsSource: "json",
   suggestions: [],
+  suggestionRequestId: 0,
   activeSuggestionIndex: -1,
   supabase: null,
   addingTerms: new Set(),
@@ -23,6 +29,7 @@ const elements = {
 
 const cacheHint = {
   dictionary: null,
+  words: null,
 };
 
 const DETAIL_CACHE_KEY = "englearning.dictionary.detail";
@@ -179,6 +186,12 @@ function findMatches(query) {
   return state.entries.filter((entry) => getAliases(entry).includes(normalized));
 }
 
+function findWordMatches(query) {
+  const normalized = normalizeText(query);
+  if (!normalized) return [];
+  return state.wordEntries.filter((entry) => getAliases(entry).includes(normalized));
+}
+
 function getSuggestionMatches(query) {
   const normalized = normalizeText(query);
   if (!normalized) return [];
@@ -202,6 +215,56 @@ function getSuggestionMatches(query) {
     .slice(0, 8);
 
   return ranked.map((item) => item.entry);
+}
+
+async function fetchDictionaryTerm(query) {
+  const { item, source } = await window.ContentStore.fetchTerm({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+    term: query,
+  });
+  if (!item) return [];
+
+  const entry = normalizeEntry(item, query);
+  if (!entry) return [];
+  if (!state.entries.some((existing) => normalizeText(existing.term) === normalizeText(entry.term))) {
+    state.entries.push(entry);
+  }
+  state.dictionarySource = source || state.dictionarySource;
+  return [entry];
+}
+
+async function fetchWordTerm(query) {
+  const { item, source } = await window.ContentStore.fetchTerm({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
+    label: "词库",
+    term: query,
+  });
+  if (!item) return [];
+
+  const entry = normalizeEntry(item, query);
+  if (!entry) return [];
+  if (!state.wordEntries.some((existing) => normalizeText(existing.term) === normalizeText(entry.term))) {
+    state.wordEntries.push(entry);
+  }
+  state.wordsSource = source || state.wordsSource;
+  return [entry];
+}
+
+async function fetchDictionaryPrefix(query) {
+  const { items } = await window.ContentStore.fetchPrefix({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+    query,
+    limit: 8,
+  });
+  return normalizeDictionary(items);
 }
 
 function formatDate(value) {
@@ -304,7 +367,9 @@ function selectSuggestion(index) {
   if (!entry) return;
   elements.searchInput.value = entry.term;
   hideSuggestions();
-  runSearch();
+  runSearch().catch((error) => {
+    updateStatus(`查询失败：${error.message}`);
+  });
 }
 
 function renderSuggestions() {
@@ -334,9 +399,28 @@ function renderSuggestions() {
   elements.suggestions.classList.remove("hidden");
 }
 
-function updateSuggestions() {
+async function updateSuggestions() {
   const query = String(elements.searchInput.value || "").trim();
-  state.suggestions = getSuggestionMatches(query);
+  const requestId = ++state.suggestionRequestId;
+  const localMatches = getSuggestionMatches(query);
+  state.suggestions = localMatches;
+  state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
+  renderSuggestions();
+
+  if (!query || localMatches.length >= 8) return;
+  const remoteMatches = await fetchDictionaryPrefix(query).catch(() => []);
+  if (requestId !== state.suggestionRequestId) return;
+
+  const merged = [...localMatches];
+  remoteMatches.forEach((entry) => {
+    if (!merged.some((item) => normalizeText(item.term) === normalizeText(entry.term))) {
+      merged.push(entry);
+    }
+    if (!state.entries.some((item) => normalizeText(item.term) === normalizeText(entry.term))) {
+      state.entries.push(entry);
+    }
+  });
+  state.suggestions = merged.slice(0, 8);
   state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
   renderSuggestions();
 }
@@ -351,7 +435,7 @@ function moveActiveSuggestion(offset) {
   activeButton?.scrollIntoView({ block: "nearest" });
 }
 
-function runSearch() {
+async function runSearch() {
   const query = String(elements.searchInput.value || "").trim();
   hideSuggestions();
   if (!query) {
@@ -360,7 +444,23 @@ function runSearch() {
     return;
   }
 
-  const matches = findMatches(query);
+  let matches = findMatches(query);
+  let sourceLabel = "本地辞典";
+  if (!matches.length) {
+    matches = await fetchDictionaryTerm(query);
+    sourceLabel = matches.length ? "辞典" : sourceLabel;
+  }
+  if (!matches.length && state.dictionaryLoaded) {
+    matches = findMatches(query);
+  }
+  if (!matches.length) {
+    matches = await fetchWordTerm(query);
+    sourceLabel = matches.length ? "词库" : sourceLabel;
+  }
+  if (!matches.length && state.wordsLoaded) {
+    matches = findWordMatches(query);
+    sourceLabel = "词库";
+  }
   if (!matches.length) {
     renderEmpty(query);
     updateSummary("未命中本地辞典。");
@@ -368,7 +468,7 @@ function runSearch() {
   }
 
   elements.result.innerHTML = matches.map((entry) => renderEntry(entry)).join("");
-  updateSummary(`命中 ${matches.length} 条本地辞典记录。`);
+  updateSummary(`命中 ${matches.length} 条${sourceLabel}记录。`);
 }
 
 function clearSearch() {
@@ -384,7 +484,9 @@ function hydrateQueryFromUrl() {
   const query = String(url.searchParams.get("q") || "").trim();
   if (!query) return;
   elements.searchInput.value = query;
-  runSearch();
+  runSearch().catch((error) => {
+    updateStatus(`查询失败：${error.message}`);
+  });
 }
 
 function readDictionaryDetailCache() {
@@ -442,6 +544,25 @@ function hydrateDictionaryCache() {
   updateSummary("输入单词后点击查询。");
 }
 
+function hydrateWordsCache() {
+  if (!state.supabase) {
+    state.supabase = window.ContentStore.createSupabaseClient();
+  }
+
+  cacheHint.words = window.ContentStore.peekCollectionCache({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
+    label: "词库",
+  });
+
+  if (!cacheHint.words) return;
+
+  state.wordEntries = normalizeDictionary(cacheHint.words.items);
+  state.wordsLoaded = true;
+  state.wordsSource = cacheHint.words.source || "json";
+}
+
 async function fetchDictionary() {
   const { items, source } = await window.ContentStore.fetchCollection({
     supabase: state.supabase,
@@ -455,6 +576,36 @@ async function fetchDictionary() {
   state.dictionarySource = source;
   updateStatus(`${source === "supabase" ? "Supabase" : "本地 JSON"} 辞典已载入，共 ${state.entries.length} 条记录。`);
   updateSummary("输入单词后点击查询。");
+}
+
+async function fetchWords() {
+  const { items, source } = await window.ContentStore.fetchCollection({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
+    label: "词库",
+  });
+  state.wordEntries = normalizeDictionary(items);
+  state.wordsLoaded = true;
+  state.wordsSource = source;
+}
+
+function ensureDictionaryLoaded() {
+  if (state.dictionaryLoaded) return Promise.resolve();
+  if (state.dictionaryPromise) return state.dictionaryPromise;
+  state.dictionaryPromise = fetchDictionary().finally(() => {
+    state.dictionaryPromise = null;
+  });
+  return state.dictionaryPromise;
+}
+
+function ensureWordsLoaded() {
+  if (state.wordsLoaded) return Promise.resolve();
+  if (state.wordsPromise) return state.wordsPromise;
+  state.wordsPromise = fetchWords().finally(() => {
+    state.wordsPromise = null;
+  });
+  return state.wordsPromise;
 }
 
 function buildWordPayload(entry) {
@@ -509,7 +660,7 @@ async function addToVocabulary(term) {
 function renderCurrentResults() {
   const query = String(elements.searchInput.value || "").trim();
   if (!query) return;
-  const matches = findMatches(query);
+  const matches = findMatches(query).length ? findMatches(query) : findWordMatches(query);
   if (!matches.length) {
     renderEmpty(query);
     return;
@@ -521,11 +672,16 @@ async function init() {
   if (!state.supabase) {
     state.supabase = window.ContentStore.createSupabaseClient();
   }
-  await fetchDictionary();
-  hydrateQueryFromUrl();
+  ensureDictionaryLoaded().catch((error) => {
+    updateStatus(`辞典加载失败：${error.message}`);
+  });
 }
 
-elements.submitButton.addEventListener("click", runSearch);
+elements.submitButton.addEventListener("click", () => {
+  runSearch().catch((error) => {
+    updateStatus(`查询失败：${error.message}`);
+  });
+});
 elements.clearButton.addEventListener("click", clearSearch);
 elements.searchInput.addEventListener("input", () => {
   updateSuggestions();
@@ -553,7 +709,9 @@ elements.searchInput.addEventListener("keydown", (event) => {
       selectSuggestion(state.activeSuggestionIndex);
       return;
     }
-    runSearch();
+    runSearch().catch((error) => {
+      updateStatus(`查询失败：${error.message}`);
+    });
     return;
   }
 
@@ -584,6 +742,7 @@ elements.result.addEventListener("click", (event) => {
 });
 
 hydrateDictionaryCache();
+hydrateWordsCache();
 if (!hydrateDetailCache()) {
   hydrateQueryFromUrl();
 }

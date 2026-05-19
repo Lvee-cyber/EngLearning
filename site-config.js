@@ -7,6 +7,7 @@ window.APP_CONFIG = {
   wordsTable: "vocabulary_words",
   dictionaryTable: "dictionary_entries",
   masteredThreshold: 10,
-  contentCacheTtlMs: 180000,
+  contentCacheTtlMs: 1800000,
+  localContentCacheTtlMs: 86400000,
   defaultProfileId: "",
 };
