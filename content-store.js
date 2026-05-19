@@ -79,6 +79,25 @@
     return `${TERM_CACHE_PREFIX}${tableName || "local"}.${String(term || "").trim().toLowerCase()}`;
   }
 
+  function getPrefixToken(value) {
+    const first = String(value || "").trim().toLowerCase().match(/[a-z]/)?.[0];
+    return first || "";
+  }
+
+  function isDictionaryCollection({ tableName, fallbackUrl }) {
+    return (
+      Boolean(APP_CONFIG.dictionaryPrefixUrl) &&
+      (String(tableName || "") === String(APP_CONFIG.dictionaryTable || "dictionary_entries") ||
+        String(fallbackUrl || "") === String(APP_CONFIG.dictionaryUrl || "./data/dictionary.json"))
+    );
+  }
+
+  function buildPrefixUrl(prefix, context = {}) {
+    const template = APP_CONFIG.dictionaryPrefixUrl;
+    if (!template || !prefix || !isDictionaryCollection(context)) return "";
+    return String(template).replace("{prefix}", encodeURIComponent(prefix));
+  }
+
   function getEntryTerm(entry) {
     return String(entry?.term || entry?.word || entry?.headword || "").trim();
   }
@@ -161,20 +180,16 @@
     const normalizedTerm = String(term || "").trim();
     if (!normalizedTerm) return { item: null, source: "empty", cached: false };
 
-    const collectionCache = peekCollectionCache({ supabase, tableName, fallbackUrl, label });
-    if (collectionCache?.items) {
-      const item = collectionCache.items.find((entry) => String(entry?.term || entry?.word || entry?.headword || "").trim().toLowerCase() === normalizedTerm.toLowerCase());
-      if (item) return { item, source: collectionCache.source, cached: true };
-    }
-
     const termCacheKey = buildTermCacheKey({ tableName, term: normalizedTerm });
     const cachedTerm = getFreshCache(termCacheKey, LOCAL_CACHE_TTL_MS);
     if (cachedTerm) {
-      return {
-        item: cachedTerm.item || null,
-        source: cachedTerm.source,
-        cached: true,
-      };
+      if (cachedTerm.item || !isDictionaryCollection({ tableName, fallbackUrl })) {
+        return {
+          item: cachedTerm.item || null,
+          source: cachedTerm.source,
+          cached: true,
+        };
+      }
     }
 
     if (supabase && tableName) {
@@ -196,6 +211,16 @@
       }
     }
 
+    const prefixUrl = buildPrefixUrl(getPrefixToken(normalizedTerm), { tableName, fallbackUrl });
+    if (prefixUrl) {
+      const localPrefix = await fetchJson(prefixUrl, label).catch(() => null);
+      if (Array.isArray(localPrefix)) {
+        const item = localPrefix.find((entry) => getEntryTerm(entry).toLowerCase() === normalizedTerm.toLowerCase()) || null;
+        if (item) return saveCache(termCacheKey, { item, source: "json-prefix" });
+        return saveCache(termCacheKey, { item: null, source: "json-prefix" });
+      }
+    }
+
     const { items, source } = await fetchCollection({ supabase: null, tableName: "", fallbackUrl, label });
     const item = items.find((entry) => String(entry?.term || entry?.word || entry?.headword || "").trim().toLowerCase() === normalizedTerm.toLowerCase()) || null;
     return saveCache(termCacheKey, { item, source });
@@ -204,22 +229,6 @@
   async function fetchPrefix({ supabase, tableName, fallbackUrl, label, query, limit = 8 }) {
     const normalizedQuery = String(query || "").trim();
     if (!normalizedQuery) return { items: [], source: "empty", cached: false };
-
-    const collectionCache = peekCollectionCache({ supabase, tableName, fallbackUrl, label });
-    if (collectionCache?.items) {
-      let items = pickPrefixItems(collectionCache.items, normalizedQuery, limit);
-      let source = collectionCache.source;
-
-      if (items.length < limit && collectionCache.hasSupabase) {
-        const local = await fetchCollection({ supabase: null, tableName: "", fallbackUrl, label }).catch(() => null);
-        if (local?.items) {
-          items = mergePrefixItems([items, local.items], normalizedQuery, limit);
-          source = items.length ? `${source}+json` : source;
-        }
-      }
-
-      return { items, source, cached: true };
-    }
 
     let supabaseItems = [];
     if (supabase && tableName) {
@@ -239,12 +248,13 @@
       }
     }
 
-    const local = await fetchCollection({ supabase: null, tableName: "", fallbackUrl, label }).catch(() => null);
-    if (local?.items) {
+    const prefixUrl = buildPrefixUrl(getPrefixToken(normalizedQuery), { tableName, fallbackUrl });
+    const localPrefix = prefixUrl ? await fetchJson(prefixUrl, label).catch(() => null) : null;
+    if (Array.isArray(localPrefix)) {
       return {
-        items: mergePrefixItems([supabaseItems, local.items], normalizedQuery, limit),
-        source: supabaseItems.length ? "supabase+json" : local.source,
-        cached: Boolean(local.cached),
+        items: mergePrefixItems([supabaseItems, localPrefix], normalizedQuery, limit),
+        source: supabaseItems.length ? "supabase+json-prefix" : "json-prefix",
+        cached: false,
       };
     }
 

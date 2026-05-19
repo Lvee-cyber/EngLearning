@@ -1,0 +1,56 @@
+[
+  {
+    "term": "X",
+    "type": "word",
+    "translation": "待查",
+    "analysis": "基于本地 DICT 词条整理。该词常见含义与用法可参考离线辞典原始释义。",
+    "phonetic": "/eks; eks/",
+    "origin": "待查",
+    "expansions": [
+      "/ eks; Zks/ n (pl X's, x's / 5eksIz; `ZksIz/) the twenty-fourth letter of the English alphabet Ӣĸĵڶʮĸĸ: `Xylophone' begi",
+      "(biology ) chromosome that occurs as one of an identical pair in female cells to produce a female in the reproductive pr",
+      "symb   1 Roman numeral for 10 ֵ10.  2 (esp in letters, etc, indicating a kiss ŵ, ʾǵķ): Love from Cathy XXX ʾ, 㡢 㡢 .  3 ("
+    ],
+    "pronunciation": "/eks; eks/",
+    "accepted_answers": [
+      "待查"
+    ],
+    "added_at": "2026-04-01T16:52:49+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
+    "term": "x-ray",
+    "type": "word",
+    "pos": "N",
+    "translation": "除用作定语外；通常作复数)；射线；射线机",
+    "analysis": "n  1 (usu pl except when used attributively 除用作定语外, 通常作复数) type of short-wave electromagnetic radiation that can penetrate solids and make it possible to see into or through them *X射线: an X-ray machine, ie one that emits X-rays *X射线机 * an X-ray telescope, ie one that can examine and measure the X-rays emitted by stars, etc *X射线望远镜 * X-ray therapy, ie medical treatment using X-rays *X射线疗法.  2 (a) (also radiograph) photograph made by X-rays, esp one showing bones or organs in the human body *X射线照片（尤指显示人体骨骼或器官者）: a chest X-ray 胸部X射线照片 * take an X-ray of sb's hand 拍摄某人手部的X射线照片 * The doctor doesn't think I've broken a bone but he's waiting to see the X-rays. 医生认为我并未骨折, 但他正等著看X射线照片. (b) (infml 口) medical examination using X-rays 用X射线作的临床检查.\nX-ray \nv [Tn] (a) examine or photograph (sb/sth) using X-rays 用 X 射线检查或拍摄（某人[某物]）: Whenhis lungs were X-rayed the disease could be clearly seen. 对他的肺部进行了 X 射线检查, 疾病一目了然. (b) treat (sb/sth) medically using X-rays 用 X 射线治疗（某人[某物]）.",
+    "phonetic": "/ ˈeksreɪ; ˈeksˌre/",
+    "origin": "待查",
+    "expansions": [
+      "an X-ray machine, ie one that emits X-rays",
+      "an X-ray telescope, ie one that can examine and measure the X-rays emitted by stars, etc",
+      "X射线望远镜",
+      "X-ray therapy, ie medical treatment using X-rays",
+      "X射线疗法. 2 (a) (also radiograph) photograph made by X-rays, esp one showing bones or organs in the human body"
+    ],
+    "pronunciation": "/ ˈeksreɪ; ˈeksˌre/",
+    "accepted_answers": [
+      "除用作定语外",
+      "通常作复数)",
+      "射线",
+      "射线机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  }
+]

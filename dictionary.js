@@ -672,9 +672,10 @@ async function init() {
   if (!state.supabase) {
     state.supabase = window.ContentStore.createSupabaseClient();
   }
-  ensureDictionaryLoaded().catch((error) => {
-    updateStatus(`辞典加载失败：${error.message}`);
-  });
+  if (!state.dictionaryLoaded) {
+    updateStatus("输入单词后会按需读取对应首字母辞典。");
+    updateSummary("输入单词后点击查询。");
+  }
 }
 
 elements.submitButton.addEventListener("click", () => {
@@ -741,7 +742,6 @@ elements.result.addEventListener("click", (event) => {
   });
 });
 
-hydrateDictionaryCache();
 hydrateWordsCache();
 if (!hydrateDetailCache()) {
   hydrateQueryFromUrl();

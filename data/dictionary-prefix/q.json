@@ -1,0 +1,169 @@
+[
+  {
+    "term": "Q",
+    "type": "word",
+    "translation": "待查",
+    "analysis": "基于本地 DICT 词条整理。该词常见含义与用法可参考离线辞典原始释义。",
+    "phonetic": "/kjuː; kju/",
+    "origin": "待查",
+    "expansions": [
+      "/ kju:; kju/ n (pl Q's, q's / kju:z; kjuz/)  1 the seventeenth letter of the English alphabet Ӣĸеĵʮ߸ĸ: `Queen' starts wi",
+      "/ kju:; kju/ abbr д = question: Q and A, ie question and answer ʹ * Qs 1-5 are compulsory, eg in an exam paper. 1-5Ϊش⣨Ծ˵",
+      "/ 9kju: 5bi:; 9kju `bi/ abbr д = (Brit law ) Queen's Bench. Cf ο KB."
+    ],
+    "pronunciation": "/kjuː; kju/",
+    "accepted_answers": [
+      "待查"
+    ],
+    "added_at": "2026-04-01T16:52:49+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quantity",
+    "type": "word",
+    "translation": "数量；量；数额",
+    "analysis": "这个词表示“事物有多少”，强调数量上的多少，而不强调质量。它既可以用于可数事物，也可以用于不可数事物，常见于日常表达、数学、商业、统计和学术语境。",
+    "phonetic": "/ˈkwɒntəti/; /ˈkwɑːntəti/",
+    "origin": "来自拉丁语 quantitas，意思是“多少、量的大小”，后来进入英语表示“数量、数额”。",
+    "expansions": [
+      "a large quantity of 大量的",
+      "in quantity 大量地；批量地",
+      "quantity over quality 重数量轻质量",
+      "the quantity of data 数据量",
+      "increase the quantity 增加数量"
+    ],
+    "pronunciation": "英式 /ˈkwɒntəti/，美式 /ˈkwɑːntəti/",
+    "accepted_answers": [
+      "数量",
+      "量",
+      "数额"
+    ],
+    "added_at": "2026-03-30T16:03:47+08:00",
+    "review": {
+      "correct_count": 2,
+      "incorrect_count": 0,
+      "review_history": [
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118349350-1mcbxm",
+          "answered_at": "2026-04-02T16:27:37+0800",
+          "user_answer": "quantity",
+          "session_started_at": "2026-04-02T16:25:49+0800"
+        },
+        {
+          "mode": "spelling",
+          "result": "correct",
+          "session_id": "session-1775118562459-6do0ey",
+          "answered_at": "2026-04-02T16:30:00+0800",
+          "user_answer": "quantity",
+          "session_started_at": "2026-04-02T16:29:22+0800"
+        }
+      ]
+    },
+    "pos": "N"
+  },
+  {
+    "term": "quay",
+    "type": "word",
+    "pos": "N",
+    "translation": "码头；码头边；等候在码头边上欢迎他们的人群",
+    "analysis": "n landing-place, usu built of stone or iron, for loading and unloading ships 码头.\nquayside \nn [sing] land situated at the side or edge of a quay 码头边: crowds waiting at the quayside to welcome them 等候在码头边上欢迎他们的人群.",
+    "phonetic": "/ kiː; ki/",
+    "origin": "待查",
+    "expansions": [
+      "crowds waiting at the quayside to welcome them 等候在码头边上欢迎他们的人群."
+    ],
+    "pronunciation": "/ kiː; ki/",
+    "accepted_answers": [
+      "码头",
+      "码头边",
+      "等候在码头边上欢迎他们的人群"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quid pro quo",
+    "type": "word",
+    "translation": "补偿物；交换物；请尽管使用我们的村舍；以酬谢借给我们汽车之事",
+    "analysis": "n (pl quid pro quos) thing given in return for sth else 补偿物; 交换物: Please accept the use of our cottage as a quid pro quo for lending us your car. 请尽管使用我们的村舍, 以酬谢借给我们汽车之事.",
+    "phonetic": "/ ˌkwɪdprəʊˈkwəʊ; ˌkwɪdproˈkwo/",
+    "pronunciation": "/ ˌkwɪdprəʊˈkwəʊ; ˌkwɪdproˈkwo/",
+    "accepted_answers": [
+      "补偿物",
+      "交换物",
+      "请尽管使用我们的村舍",
+      "以酬谢借给我们汽车之事"
+    ],
+    "expansions": [
+      "Please accept the use of our cottage as a quid pro quo for lending us your car. 请尽管使用我们的村舍, 以酬谢借给我们汽车之事."
+    ],
+    "dict_source": "data/DICT/P/P-p,q,r.txt",
+    "added_at": "2026-03-30T16:03:47+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "quit",
+    "type": "word",
+    "translation": "离开；退出；停止；辞职；戒掉",
+    "analysis": "这个词既可以表示“离开某个地方或职位”，也可以表示“停止做某事”。在日常英语里非常常见，语气通常比 resign 更口语化。",
+    "phonetic": "/kwɪt/",
+    "origin": "来自古法语 quiter，后进入英语，核心含义是“离开、释放、停止不再继续”。",
+    "expansions": [
+      "quit your job 辞去工作",
+      "quit smoking 戒烟",
+      "quit worrying 停止担心",
+      "quit the program 退出程序",
+      "never quit 永不放弃"
+    ],
+    "pronunciation": "英式 /kwɪt/，美式 /kwɪt/",
+    "accepted_answers": [
+      "离开",
+      "退出",
+      "停止",
+      "辞职",
+      "戒掉"
+    ],
+    "added_at": "2026-03-30T16:05:55+08:00",
+    "review": {
+      "correct_count": 1,
+      "incorrect_count": 0,
+      "review_history": [
+        {
+          "mode": "choice",
+          "result": "correct",
+          "session_id": "session-1776237508236-buaek9",
+          "answered_at": "2026-04-15T15:20:01+0800",
+          "user_answer": "quit",
+          "session_started_at": "2026-04-15T15:18:28+0800"
+        }
+      ]
+    },
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "停止；离开；辞掉"
+      },
+      {
+        "pos": "N",
+        "translation": "离职；停止"
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "term": "K",
+    "type": "word",
+    "translation": "待查",
+    "analysis": "基于本地 DICT 词条整理。该词常见含义与用法可参考离线辞典原始释义。",
+    "phonetic": "/keɪ; ke/",
+    "origin": "待查",
+    "expansions": [
+      "/ keI; ke/ n (pl K's, k's / keIz; kez/) the eleventh letter of the English alphabet Ӣĸĵʮһĸ: `King' begins with (a) K/`K'",
+      "/ keI; ke/ abbr д =  1 kelvin(s).  2 (infml ) one thousand (Greek kilo-) һǧԴϣkilo-: She earns 12K (ie 12000) a year. һ12",
+      "phonetic (K.K. Vowels)"
+    ],
+    "pronunciation": "/keɪ; ke/",
+    "accepted_answers": [
+      "待查"
+    ],
+    "added_at": "2026-04-01T16:52:49+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knuckle",
+    "type": "word",
+    "pos": "N",
+    "translation": "指节；指关节；擦破指关节",
+    "analysis": "n  1 bone at the finger-joint 指节; 指关节: graze/skin one's knuckles 擦破指关节. =>illus at hand 见hand插图.  2 (of animals) knee-joint, or the part joining the leg to the foot, esp as a joint of meat （指动物）膝关节, 踝; （尤指食用的）肘: pig's knuckles 猪肘.  3 (idm 习语) a rap on/over the knuckles => rap1.near the `knuckle (infml 口) on the borderline of indecency and therefore likely to offend 近乎下流; 猥亵: Some of his jokes are a bit too near the knuckle for my taste. 我觉得他有的笑话已近乎淫亵了.\nknuckle \nv (phr v) knuckle down (to sth) (infml 口) begin to work seriously (at sth) 开始认真工作: If you want to pass that exam, you'll have to knuckle down (to some hard work). 你要想考试及格, 就得开始下功夫（苦干）了. knuckle under (infml 口) accept or admit defeat; surrender 屈服; 认输; 投降.\nknuckleduster \nn (US brass knuckles) metal cover worn over the knuckles to increase the injury caused by a blow with the fist 戴在指关节上的金属套（打人时加重损伤）.\nknucklehead \nn (infml derog 口, 贬) fool 笨蛋; 傻瓜.",
+    "phonetic": "/ ˈnʌkl; ˈnʌkl/",
+    "origin": "待查",
+    "expansions": [
+      "graze/skin one's knuckles 擦破指关节. =>illus at hand 见hand插图. 2 (of animals) knee-joint, or the part joining the leg to the foot, esp as a joint of meat （指动物）膝关节, 踝; （尤指食用的）肘: pig's knuckles 猪肘. 3 (idm 习语) a rap on/over the knuckles => rap1.near the `knuckle (infml 口) on the borderline of indecency and therefore likely to offend 近乎下流; 猥亵: Some of his jokes are a bit too near the knuckle for my taste. 我觉得他有的笑话已近乎淫亵了.",
+      "If you want to pass that exam, you'll have to knuckle down (to some hard work). 你要想考试及格, 就得开始下功夫（苦干）了. knuckle under (infml 口) accept or admit defeat; surrender 屈服; 认输; 投降."
+    ],
+    "pronunciation": "/ ˈnʌkl; ˈnʌkl/",
+    "accepted_answers": [
+      "指节",
+      "指关节",
+      "擦破指关节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kook",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬；俚)；怪人；狂人",
+    "analysis": "n (US derog sl 贬, 俚) peculiar, eccentric or crazy person 怪人; 狂人.\nkooky \nadj.",
+    "phonetic": "/ kuːk; kuk/",
+    "origin": "待查",
+    "expansions": [
+      "贬；俚)；怪人；狂人"
+    ],
+    "pronunciation": "/ kuːk; kuk/",
+    "accepted_answers": [
+      "贬",
+      "俚)",
+      "怪人",
+      "狂人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "krone",
+    "type": "word",
+    "pos": "N",
+    "translation": "克朗（丹麦和挪威的货币单位）",
+    "analysis": "n (pl -ner / -nE(r); -nEr/) unit of money in Denmark and Norway 克朗（丹麦和挪威的货币单位）.",
+    "phonetic": "/ ˈkrəʊnə; ˈkrone/",
+    "origin": "待查",
+    "expansions": [
+      "克朗（丹麦和挪威的货币单位）"
+    ],
+    "pronunciation": "/ ˈkrəʊnə; ˈkrone/",
+    "accepted_answers": [
+      "克朗（丹麦和挪威的货币单位）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kumis",
+    "type": "word",
+    "pos": "N",
+    "translation": "乳酒（中亚某些民族用马乳酿制的酒）",
+    "analysis": "n [U] drink made from fermented mare's milk by certain Central Asian peoples 乳酒（中亚某些民族用马乳酿制的酒）.",
+    "phonetic": "/ ˈkuːmɪs; ˈkumɪs/",
+    "origin": "待查",
+    "expansions": [
+      "乳酒（中亚某些民族用马乳酿制的酒）"
+    ],
+    "pronunciation": "/ ˈkuːmɪs; ˈkumɪs/",
+    "accepted_answers": [
+      "乳酒（中亚某些民族用马乳酿制的酒）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  }
+]

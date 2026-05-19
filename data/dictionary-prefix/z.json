@@ -1,0 +1,131 @@
+[
+  {
+    "term": "Z",
+    "type": "word",
+    "translation": "待查",
+    "analysis": "基于本地 DICT 词条整理。该词常见含义与用法可参考离线辞典原始释义。",
+    "phonetic": "/zed; ?@ ziː; zi/",
+    "origin": "待查",
+    "expansions": [
+      "/ zed; ?@ zi:; zi/ n (pl Z's, z's / zedz; ?@ zi:z; ziz/)1 the twenty-sixth and last letter of the English alphabet; zed ",
+      "/ 5zeInI; `zenI/ adj (-ier, -iest) (infml ) amusingly ridiculous; eccentric Ц; Źֵ: a zany haircut, lifestyle, personalit",
+      "n comical or eccentric person ĻŹֵ."
+    ],
+    "pronunciation": "/zed; ?@ ziː; zi/",
+    "accepted_answers": [
+      "待查"
+    ],
+    "added_at": "2026-04-01T16:52:49+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zeppelin",
+    "type": "word",
+    "pos": "N",
+    "translation": "齐柏林飞艇（第一次世界大战中德国使用的大型飞艇）",
+    "analysis": "n type of large airship used by the Germans in World War I 齐柏林飞艇（第一次世界大战中德国使用的大型飞艇）.",
+    "phonetic": "/ ˈzepəlɪn; ˈzepəlɪn/",
+    "origin": "待查",
+    "expansions": [
+      "齐柏林飞艇（第一次世界大战中德国使用的大型飞艇）"
+    ],
+    "pronunciation": "/ ˈzepəlɪn; ˈzepəlɪn/",
+    "accepted_answers": [
+      "齐柏林飞艇（第一次世界大战中德国使用的大型飞艇）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zero",
+    "type": "word",
+    "translation": "零；零点；完全没有；归零",
+    "analysis": "这个词既可以作名词、形容词，也可以作动词。作名词时表示数字 0 或“零”；作形容词时表示“没有的、零的”；作动词时表示“把数值调到零”或“归零”。它常用于数学、数据、设备、金融和日常表达中。",
+    "phonetic": "/ˈzɪərəʊ/; /ˈzɪroʊ/",
+    "origin": "来自法语 zéro，更早可追溯到阿拉伯语和意大利语中表示“空、零”的词，后来进入英语表示数字零。",
+    "expansions": [
+      "zero growth 零增长",
+      "zero tolerance 零容忍",
+      "zero in on something 集中注意于某事",
+      "start from zero 从零开始",
+      "zero the meter 把仪表归零"
+    ],
+    "pronunciation": "英式 /ˈzɪərəʊ/，美式 /ˈzɪroʊ/",
+    "accepted_answers": [
+      "零",
+      "零点",
+      "完全没有",
+      "归零"
+    ],
+    "added_at": "2026-03-30T16:07:00+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "pos": "Num / N / Adj / V",
+    "senses": [
+      {
+        "pos": "Num",
+        "translation": "零"
+      },
+      {
+        "pos": "N",
+        "translation": "零；零点；无"
+      },
+      {
+        "pos": "Adj",
+        "translation": "零的；没有的"
+      },
+      {
+        "pos": "V",
+        "translation": "把……调到零；对准"
+      }
+    ]
+  },
+  {
+    "term": "zuma",
+    "type": "word",
+    "pos": "PropN",
+    "senses": [
+      {
+        "pos": "PropN",
+        "translation": "祖马；祖玛",
+        "definition": "A proper noun used as a personal name, place name, brand name, or title, depending on context."
+      }
+    ],
+    "translation": "祖马；祖玛",
+    "analysis": "不是常见普通英语单词，通常作为专有名词出现。常见可指人名、地名、品牌名或作品名，例如 Jacob Zuma 或游戏 Zuma。具体含义依上下文而定。",
+    "phonetic": "/ˈzuːmə/",
+    "origin": "作为专有名词，没有单一统一的通用英语词源义，通常来源于具体的人名、地名或命名体系。",
+    "expansions": [
+      "Jacob Zuma 雅各布·祖马",
+      "play Zuma 玩《祖玛》",
+      "Zuma game 《祖玛》游戏",
+      "Zuma Beach 祖马海滩",
+      "Zuma is a proper noun. Zuma 是专有名词"
+    ],
+    "pronunciation": "/ˈzuːmə/",
+    "accepted_answers": [
+      "祖马",
+      "祖玛"
+    ],
+    "added_at": "2026-05-19T09:23:26.808Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "manual-thread-analysis"
+  }
+]
