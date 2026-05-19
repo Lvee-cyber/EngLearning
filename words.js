@@ -179,16 +179,33 @@ function applyFilter(words) {
 function applySearch(words) {
   const query = String(elements.search.value || "").trim().toLowerCase();
   if (!query) return words;
-  return words.filter((entry) => {
-    const haystack = [entry.term, getTranslationText(entry), entry.analysis, ...(entry.expansions || [])].join(" ").toLowerCase();
-    return haystack.includes(query);
-  });
+  const ranked = words
+    .map((entry) => {
+      const term = String(entry.term || "").trim().toLowerCase();
+      const haystack = [entry.term, getTranslationText(entry), entry.analysis, ...(entry.expansions || [])].join(" ").toLowerCase();
+      if (term.startsWith(query)) return { entry, score: 0 };
+      if (term.includes(query)) return { entry, score: 1 };
+      if (haystack.includes(query)) return { entry, score: 2 };
+      return null;
+    })
+    .filter(Boolean);
+
+  const hasPrefixMatches = ranked.some((item) => item.score === 0);
+  return ranked
+    .filter((item) => (hasPrefixMatches ? item.score === 0 : true))
+    .sort((a, b) => {
+      if (a.score !== b.score) return a.score - b.score;
+      return String(a.entry.term || "").localeCompare(String(b.entry.term || ""));
+    })
+    .map((item) => item.entry);
 }
 
 function renderWords() {
   syncFilterPills();
+  const hasSearchQuery = Boolean(String(elements.search.value || "").trim());
   const filtered = applySearch(applyFilter([...state.words]));
   filtered.sort((a, b) => {
+    if (hasSearchQuery) return String(a.term || "").localeCompare(String(b.term || ""));
     if (isMastered(a) !== isMastered(b)) return isMastered(a) ? 1 : -1;
     return a.term.localeCompare(b.term);
   });

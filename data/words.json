@@ -91,7 +91,14 @@
         }
       ]
     },
-    "pos": "N"
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "谈话；对话；交谈",
+        "definition": "An informal or formal exchange of spoken words between two or more people."
+      }
+    ]
   },
   {
     "term": "streamline",
@@ -6932,6 +6939,77 @@
       "恶劣对待"
     ],
     "added_at": "2026-05-19T07:37:18.620Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "yard",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "院子；码；场地；货场",
+        "definition": "An enclosed area of land around a building, a working or storage area, or a unit of length equal to three feet."
+      }
+    ],
+    "translation": "院子；码；场地；货场",
+    "analysis": "核心是一块围起来或专门划出来的空间。它既可以表示住宅旁边的院子，也可以表示铁路货场、堆场、船厂等工作场地；另一个常见义是英制长度单位“码”。",
+    "phonetic": "/jɑːd/",
+    "origin": "来自古英语 geard，原意与“围栏、围起的区域、院落”有关。后来含义扩展到各种场地，并发展出长度单位“码”的专门用法。",
+    "expansions": [
+      "front yard 前院",
+      "back yard 后院",
+      "a ten-yard pass 十码传球",
+      "rail yard 铁路货场",
+      "shipyard 造船厂"
+    ],
+    "pronunciation": "/jɑːd/",
+    "accepted_answers": [
+      "院子",
+      "码",
+      "场地",
+      "货场",
+      "庭院"
+    ],
+    "added_at": "2026-05-19T09:07:57.972Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "zuma",
+    "type": "word",
+    "pos": "PropN",
+    "senses": [
+      {
+        "pos": "PropN",
+        "translation": "祖马；祖玛",
+        "definition": "A proper noun used as a personal name, place name, brand name, or title, depending on context."
+      }
+    ],
+    "translation": "祖马；祖玛",
+    "analysis": "不是常见普通英语单词，通常作为专有名词出现。常见可指人名、地名、品牌名或作品名，例如 Jacob Zuma 或游戏 Zuma。具体含义依上下文而定。",
+    "phonetic": "/ˈzuːmə/",
+    "origin": "作为专有名词，没有单一统一的通用英语词源义，通常来源于具体的人名、地名或命名体系。",
+    "expansions": [
+      "Jacob Zuma 雅各布·祖马",
+      "play Zuma 玩《祖玛》",
+      "Zuma game 《祖玛》游戏",
+      "Zuma Beach 祖马海滩",
+      "Zuma is a proper noun. Zuma 是专有名词"
+    ],
+    "pronunciation": "/ˈzuːmə/",
+    "accepted_answers": [
+      "祖马",
+      "祖玛"
+    ],
+    "added_at": "2026-05-19T09:23:26.808Z",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

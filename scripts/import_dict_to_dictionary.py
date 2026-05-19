@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
+import argparse
 import json
+import random
 import re
 from pathlib import Path
 
@@ -20,13 +22,19 @@ def load_dictionary_entries():
     return data, data.get("words", []), False
 
 
-def normalize_term(term: str) -> str:
+def save_dictionary_entries(data, items, is_list):
+    if is_list:
+        DICT_JSON.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n")
+    else:
+        data["words"] = items
+        DICT_JSON.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+
+
+def normalize_term(term: str):
     return re.sub(r"\s+", " ", term.strip().lower())
 
 
 def split_variants(headword: str):
-    # "co-op, co op" -> ["co-op", "co op"]
-    # "op (also Op)" -> ["op"]
     cleaned = re.sub(r"\([^)]*\)", "", headword).strip()
     variants = []
     for piece in cleaned.split(","):
@@ -43,9 +51,7 @@ def is_headword(lines, idx):
     next_line = lines[idx + 1].strip()
     if not line or not next_line.startswith("/"):
         return False
-    if not HEADWORD_RE.match(line):
-        return False
-    return True
+    return bool(HEADWORD_RE.match(line))
 
 
 def iter_entries(text: str):
@@ -105,13 +111,18 @@ def extract_expansions(body: str):
         after = line.split(":", 1)[1].strip()
         if after:
             examples.extend([part.strip() for part in after.split("*") if part.strip()])
+
     cleaned = []
+    seen = set()
     for ex in examples:
         ex = re.sub(r"\s+", " ", ex)
         if len(ex) < 6:
             continue
+        if ex in seen:
+            continue
+        seen.add(ex)
         cleaned.append(ex)
-        if len(cleaned) >= 4:
+        if len(cleaned) >= 5:
             break
     return cleaned
 
@@ -123,6 +134,7 @@ def normalize_legacy_phonetic(raw: str):
     inner = text.strip("/").strip()
     if not inner:
         return text
+
     variants = [part.strip() for part in inner.split(";") if part.strip()]
     normalized = []
     for var in variants:
@@ -165,9 +177,28 @@ def normalize_legacy_phonetic(raw: str):
     return "/ " + "; ".join(normalized) + "/"
 
 
+def detect_pos(body: str):
+    first_line = body.splitlines()[0].strip() if body else ""
+    lowered = first_line.lower()
+    tags = []
+    if re.search(r"\bn\b", lowered):
+        tags.append("N")
+    if re.search(r"\bv\b", lowered):
+        tags.append("V")
+    if re.search(r"\badj\b", lowered):
+        tags.append("Adj")
+    if re.search(r"\badv\b", lowered):
+        tags.append("Adv")
+    if not tags:
+        return "word"
+    return " / ".join(tags)
+
+
 def build_index():
     index = {}
-    for path in sorted(DICT_DIR.rglob("*.txt")):
+    for path in sorted(DICT_DIR.rglob("*")):
+        if not path.is_file() or path.suffix.lower() != ".txt":
+            continue
         text = path.read_bytes().decode("gb18030", errors="ignore")
         for headword, phonetic_line, body in iter_entries(text):
             entry = {
@@ -183,10 +214,42 @@ def build_index():
     return index
 
 
-def main():
-    data, items, is_list = load_dictionary_entries()
-    index = build_index()
+def to_dictionary_item(term: str, ref: dict):
+    translation = ref["translation"] or term
+    analysis = ref["body"] or translation
+    phonetic = normalize_legacy_phonetic(ref["phonetic"])
+    expansions = ref["expansions"] or [translation]
+    accepted_answers = [seg.strip() for seg in re.split(r"[；;]", translation) if seg.strip()]
+    return {
+        "term": term,
+        "type": "word" if " " not in term else "phrase",
+        "pos": detect_pos(ref["body"]),
+        "translation": translation,
+        "analysis": analysis,
+        "phonetic": phonetic or "待查",
+        "origin": "待查",
+        "expansions": expansions,
+        "pronunciation": phonetic or "待查",
+        "accepted_answers": accepted_answers or [term],
+        "added_at": "",
+        "review": {"correct_count": 0, "incorrect_count": 0, "review_history": []},
+        "dict_source": ref["source_file"],
+    }
 
+
+def merge_items(old: dict, new: dict):
+    merged = dict(old)
+    for key, value in new.items():
+        if key == "added_at":
+            merged[key] = old.get(key) or value
+        elif key == "review":
+            merged[key] = old.get(key) or value
+        else:
+            merged[key] = value
+    return merged
+
+
+def backfill_existing(items, index):
     matched = 0
     updated = 0
     samples = []
@@ -195,60 +258,110 @@ def main():
         if not term or term not in index:
             continue
         ref = index[term]
+        normalized = to_dictionary_item(term, ref)
+        before = json.dumps(item, ensure_ascii=False, sort_keys=True)
+        merged = merge_items(item, normalized)
+        item.clear()
+        item.update(merged)
+        after = json.dumps(item, ensure_ascii=False, sort_keys=True)
         matched += 1
-
-        new_translation = ref["translation"] or str(item.get("translation", "")).strip()
-        new_analysis = ref["body"] or str(item.get("analysis", "")).strip()
-        new_phonetic = normalize_legacy_phonetic(ref["phonetic"]) or str(item.get("phonetic", "")).strip()
-        new_expansions = ref["expansions"] or item.get("expansions", [])
-        new_answers = [seg.strip() for seg in re.split(r"[；;]", new_translation) if seg.strip()]
-
-        before = (
-            item.get("translation"),
-            item.get("analysis"),
-            item.get("phonetic"),
-            tuple(item.get("expansions", [])),
-        )
-
-        item["translation"] = new_translation
-        item["analysis"] = new_analysis
-        item["phonetic"] = new_phonetic
-        item["pronunciation"] = new_phonetic
-        if new_expansions:
-            item["expansions"] = new_expansions
-        if new_answers:
-            item["accepted_answers"] = new_answers
-        item.setdefault("dict_source", ref["source_file"])
-        item["dict_source"] = ref["source_file"]
-
-        after = (
-            item.get("translation"),
-            item.get("analysis"),
-            item.get("phonetic"),
-            tuple(item.get("expansions", [])),
-        )
         if before != after:
             updated += 1
             if len(samples) < 8:
                 samples.append({"term": term, "source": ref["source_file"]})
+    return matched, updated, samples
 
-    if is_list:
-        DICT_JSON.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n")
-    else:
-        data["words"] = items
-        DICT_JSON.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
 
-    print(
-        json.dumps(
+def prioritized_terms(index, seed_term: str, limit: int, existing_terms=None):
+    all_terms = sorted(index.keys())
+    target_initial = seed_term[:1]
+    existing_terms = existing_terms or set()
+
+    def allowed(term: str):
+        if term == seed_term:
+            return True
+        return term not in existing_terms
+
+    same_initial = [t for t in all_terms if t.startswith(target_initial) and allowed(t)]
+    other_initial = [t for t in all_terms if not t.startswith(target_initial) and allowed(t)]
+
+    rnd = random.Random(seed_term)
+    rnd.shuffle(same_initial)
+    rnd.shuffle(other_initial)
+
+    ordered = [seed_term] if seed_term in index else []
+    ordered.extend(same_initial)
+    ordered.extend(other_initial)
+    return ordered[:limit]
+
+
+def expand_neighbors(items, index, seed_term: str, limit: int):
+    existing = {normalize_term(str(item.get("term", ""))): i for i, item in enumerate(items)}
+    ordered_terms = prioritized_terms(index, seed_term, limit, set(existing))
+    added = 0
+    updated = 0
+    samples = []
+
+    for term in ordered_terms:
+        ref = index.get(term)
+        if not ref:
+            continue
+        new_item = to_dictionary_item(term, ref)
+        if term in existing:
+            idx = existing[term]
+            before = json.dumps(items[idx], ensure_ascii=False, sort_keys=True)
+            items[idx] = merge_items(items[idx], new_item)
+            after = json.dumps(items[idx], ensure_ascii=False, sort_keys=True)
+            if before != after:
+                updated += 1
+                if len(samples) < 8:
+                    samples.append({"term": term, "action": "updated", "source": ref["source_file"]})
+        else:
+            items.append(new_item)
+            existing[term] = len(items) - 1
+            added += 1
+            if len(samples) < 8:
+                samples.append({"term": term, "action": "added", "source": ref["source_file"]})
+    return added, updated, samples
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--term", help="Seed term for nearby dictionary expansion")
+    parser.add_argument("--limit", type=int, default=500, help="Max nearby terms to process")
+    args = parser.parse_args()
+
+    data, items, is_list = load_dictionary_entries()
+    index = build_index()
+
+    result = {"dict_indexed": len(index)}
+
+    if args.term:
+        seed_term = normalize_term(args.term)
+        added, updated, samples = expand_neighbors(items, index, seed_term, args.limit)
+        save_dictionary_entries(data, items, is_list)
+        result.update(
             {
-                "dict_indexed": len(index),
+                "seed_term": seed_term,
+                "neighbor_target": args.limit,
+                "neighbor_added": added,
+                "neighbor_updated": updated,
+                "dictionary_total": len(items),
+                "samples": samples,
+            }
+        )
+    else:
+        matched, updated, samples = backfill_existing(items, index)
+        save_dictionary_entries(data, items, is_list)
+        result.update(
+            {
                 "matched_terms": matched,
                 "updated_terms": updated,
                 "samples": samples,
-            },
-            ensure_ascii=False,
+            }
         )
-    )
+
+    print(json.dumps(result, ensure_ascii=False))
 
 
 if __name__ == "__main__":

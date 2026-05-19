@@ -79,6 +79,33 @@
     return `${TERM_CACHE_PREFIX}${tableName || "local"}.${String(term || "").trim().toLowerCase()}`;
   }
 
+  function getEntryTerm(entry) {
+    return String(entry?.term || entry?.word || entry?.headword || "").trim();
+  }
+
+  function pickPrefixItems(items, query, limit) {
+    const lower = String(query || "").trim().toLowerCase();
+    if (!lower) return [];
+    return (items || [])
+      .filter((entry) => getEntryTerm(entry).toLowerCase().startsWith(lower))
+      .sort((a, b) => getEntryTerm(a).localeCompare(getEntryTerm(b)))
+      .slice(0, limit);
+  }
+
+  function mergePrefixItems(groups, query, limit) {
+    const merged = [];
+    const seen = new Set();
+    groups.forEach((items) => {
+      pickPrefixItems(items, query, limit).forEach((entry) => {
+        const term = getEntryTerm(entry).toLowerCase();
+        if (!term || seen.has(term)) return;
+        seen.add(term);
+        merged.push(entry);
+      });
+    });
+    return merged.sort((a, b) => getEntryTerm(a).localeCompare(getEntryTerm(b))).slice(0, limit);
+  }
+
   async function fetchCollection({ supabase, tableName, fallbackUrl, label }) {
     const cacheKey = buildCacheKey({ tableName, fallbackUrl, label });
     const cached = getFreshCache(cacheKey);
@@ -180,16 +207,21 @@
 
     const collectionCache = peekCollectionCache({ supabase, tableName, fallbackUrl, label });
     if (collectionCache?.items) {
-      const lower = normalizedQuery.toLowerCase();
-      return {
-        items: collectionCache.items
-          .filter((entry) => String(entry?.term || entry?.word || entry?.headword || "").trim().toLowerCase().startsWith(lower))
-          .slice(0, limit),
-        source: collectionCache.source,
-        cached: true,
-      };
+      let items = pickPrefixItems(collectionCache.items, normalizedQuery, limit);
+      let source = collectionCache.source;
+
+      if (items.length < limit && collectionCache.hasSupabase) {
+        const local = await fetchCollection({ supabase: null, tableName: "", fallbackUrl, label }).catch(() => null);
+        if (local?.items) {
+          items = mergePrefixItems([items, local.items], normalizedQuery, limit);
+          source = items.length ? `${source}+json` : source;
+        }
+      }
+
+      return { items, source, cached: true };
     }
 
+    let supabaseItems = [];
     if (supabase && tableName) {
       const response = await supabase
         .from(tableName)
@@ -198,16 +230,25 @@
         .order("term")
         .limit(limit);
       if (!response.error) {
-        return {
-          items: (response.data || []).map((item) => item.payload).filter((item) => item && typeof item === "object"),
-          source: "supabase",
-          cached: false,
-        };
+        supabaseItems = (response.data || []).map((item) => item.payload).filter((item) => item && typeof item === "object");
+        if (supabaseItems.length >= limit) {
+          return { items: supabaseItems, source: "supabase", cached: false };
+        }
+      } else {
+        console.warn(`[ContentStore] ${label} 前缀查询失败。`, response.error.message || response.error);
       }
-      console.warn(`[ContentStore] ${label} 前缀查询失败。`, response.error.message || response.error);
     }
 
-    return { items: [], source: "empty", cached: false };
+    const local = await fetchCollection({ supabase: null, tableName: "", fallbackUrl, label }).catch(() => null);
+    if (local?.items) {
+      return {
+        items: mergePrefixItems([supabaseItems, local.items], normalizedQuery, limit),
+        source: supabaseItems.length ? "supabase+json" : local.source,
+        cached: Boolean(local.cached),
+      };
+    }
+
+    return { items: supabaseItems, source: supabaseItems.length ? "supabase" : "empty", cached: false };
   }
 
   function peekCollectionCache({ supabase, tableName, fallbackUrl, label }) {
