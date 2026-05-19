@@ -6851,5 +6851,91 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "breach",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "违背；裂口；缺口；漏洞；数据泄露",
+        "definition": "An act of breaking a rule, agreement, or security measure; or a gap or opening made in a wall or barrier."
+      },
+      {
+        "pos": "V",
+        "translation": "违反；破坏；攻破；冲破",
+        "definition": "To break or fail to observe a law, agreement, or security barrier; to make a gap in something."
+      }
+    ],
+    "translation": "违背；破坏；漏洞；突破口；数据泄露",
+    "analysis": "核心是原本完整、受保护或应被遵守的东西被打破了。既可以表示物理上的裂口、缺口，也可以表示规则、合同、安全系统上的违反、破坏。常见于法律、网络安全、军事和合规语境。",
+    "phonetic": "/briːtʃ/",
+    "origin": "来自古英语和古法语相关形式，最终可追溯到表示“打破、裂开”的词根。现代英语中逐渐稳定为“缺口、违背、攻破”等含义。",
+    "expansions": [
+      "breach of contract 违约",
+      "data breach 数据泄露",
+      "breach security 突破安全防护",
+      "a breach in the wall 墙上的缺口",
+      "material breach 重大违约"
+    ],
+    "pronunciation": "/briːtʃ/",
+    "accepted_answers": [
+      "违背",
+      "裂口",
+      "缺口",
+      "漏洞",
+      "数据泄露",
+      "违反",
+      "攻破"
+    ],
+    "added_at": "2026-05-19T07:34:41.744Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "abuse",
+    "type": "word",
+    "pos": "V / N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "滥用；虐待；伤害；辱骂",
+        "definition": "To use something wrongly or excessively, or to treat a person or animal with cruelty or violence, including verbal mistreatment."
+      },
+      {
+        "pos": "N",
+        "translation": "滥用；虐待；辱骂；恶劣对待",
+        "definition": "Wrong or excessive use of something, or cruel, violent, or insulting treatment of a person or animal."
+      }
+    ],
+    "translation": "滥用；虐待；辱骂；滥用行为",
+    "analysis": "核心是以错误、过度或有伤害性的方式对待某人或使用某物。既可以指对资源、权力、规则的滥用，也可以指对人的虐待，还可以指言语上的辱骂。相比 misuse，abuse 语义更重，常包含伤害或不正当性。",
+    "phonetic": "V /əˈbjuːz/; N /əˈbjuːs/",
+    "origin": "来自古法语 abuser，有“错误使用、欺骗、滥用”的意思，源头可追溯到拉丁语相关形式。后来英语中逐渐扩展出“滥用、虐待、辱骂”等较强烈含义。",
+    "expansions": [
+      "abuse of power 滥用权力",
+      "substance abuse 物质滥用",
+      "child abuse 虐待儿童",
+      "verbal abuse 言语辱骂",
+      "abusive 辱骂的；滥用的；虐待的"
+    ],
+    "pronunciation": "V /əˈbjuːz/; N /əˈbjuːs/",
+    "accepted_answers": [
+      "滥用",
+      "虐待",
+      "辱骂",
+      "滥用行为",
+      "恶劣对待"
+    ],
+    "added_at": "2026-05-19T07:37:18.620Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
