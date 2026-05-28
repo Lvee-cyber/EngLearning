@@ -14100,19 +14100,23 @@
   {
     "term": "trash",
     "type": "word",
-    "translation": "拙劣的材料、作品等；他认为现代艺术大都是糟粕；垃圾",
-    "analysis": "n [U]  1 material, writing, etc of poor quality 拙劣的材料、 作品等: He thinks most modern artis trash. 他认为现代艺术大都是糟粕.  2 (US) householdor other waste; refuse 垃圾; 废物: put out the trash 把垃圾拿出去.  3 (US infml derog 口, 贬) people that one does not respect 没出息的人: white trash, ie poor or deprived white people 贫贱的白人.\ntrashy \nadj of poor quality 拙劣的: trashy novels 无聊的小说.\ntrashcan \nn (US) = dustbin (dust1).",
-    "phonetic": "/ træʃ; træʃ/",
-    "pronunciation": "/ træʃ; træʃ/",
+    "translation": "垃圾；废物；丢弃；痛批",
+    "analysis": "最常见义是垃圾、废弃物，也可指没有价值的东西。作动词时，既能表示把东西扔掉、糟蹋掉，也常用于口语里表示狠批、痛骂或贬低。",
+    "phonetic": "/træʃ/",
+    "pronunciation": "/træʃ/",
     "accepted_answers": [
-      "拙劣的材料",
-      "作品等",
-      "他认为现代艺术大都是糟粕",
-      "垃圾"
+      "垃圾",
+      "废物",
+      "丢弃",
+      "痛批",
+      "废弃物"
     ],
     "expansions": [
-      "He thinks most modern artis trash. 他认为现代艺术大都是糟粕. 2 (US) householdor other waste; refuse 垃圾; 废物: put out the trash 把垃圾拿出去. 3 (US infml derog 口, 贬) people that one does not respect 没出息的人: white trash, ie poor or deprived white people 贫贱的白人.",
-      "trashy novels 无聊的小说."
+      "take out the trash 倒垃圾",
+      "trash bag 垃圾袋",
+      "trash talk 垃圾话；挑衅",
+      "trash a proposal 把提案批得很惨",
+      "trashy 俗气的；低俗的；廉价感很重的"
     ],
     "dict_source": "data/DICT/T/T-p,q,r.txt",
     "added_at": "2026-04-01T11:14:33+08:00",
@@ -14120,7 +14124,21 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "垃圾；废弃物；无价值的东西",
+        "definition": "Waste material or things considered useless, worthless, or of poor quality."
+      },
+      {
+        "pos": "V",
+        "translation": "丢弃；毁坏；把……弄得一团糟；猛烈批评",
+        "definition": "To throw away, damage badly, mess up, or criticize harshly."
+      }
+    ],
+    "origin": "一般认为来自方言和口语演变，和“碎屑、废弃物、无用之物”相关，后来稳定为现代英语中的“垃圾、废物”，并进一步引申出“丢弃、贬低、糟蹋”等动词义。"
   },
   {
     "term": "trauma",

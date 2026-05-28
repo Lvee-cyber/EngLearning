@@ -7015,5 +7015,84 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "provenance",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "来源；出处；起源；所有权流转记录",
+        "definition": "The origin or source of something, especially the documented history of ownership or location of an object."
+      }
+    ],
+    "translation": "来源；出处；起源；所有权流转记录",
+    "analysis": "核心是“某样东西是从哪里来的，以及它一路是怎么传下来的”。常用于艺术品、古董、档案、数据和供应链语境，强调可追溯的来源与流转历史。",
+    "phonetic": "/ˈprɒvənəns/; /ˈprɑːvənəns/",
+    "origin": "来自法语 provenance，源自 provenir，意为“来自、产生于”，最终可追溯到拉丁语 provenire。",
+    "expansions": [
+      "the provenance of a painting 一幅画的来源记录",
+      "data provenance 数据来源追踪",
+      "verify provenance 核验出处",
+      "clear provenance 来源清晰",
+      "provenance record 溯源记录"
+    ],
+    "pronunciation": "英式 /ˈprɒvənəns/，美式 /ˈprɑːvənəns/",
+    "accepted_answers": [
+      "来源",
+      "出处",
+      "起源",
+      "所有权流转记录",
+      "溯源"
+    ],
+    "added_at": "2026-05-20T07:42:30.180Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "trash",
+    "type": "word",
+    "pos": "N / V",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "垃圾；废弃物；无价值的东西",
+        "definition": "Waste material or things considered useless, worthless, or of poor quality."
+      },
+      {
+        "pos": "V",
+        "translation": "丢弃；毁坏；把……弄得一团糟；猛烈批评",
+        "definition": "To throw away, damage badly, mess up, or criticize harshly."
+      }
+    ],
+    "translation": "垃圾；废物；丢弃；痛批",
+    "analysis": "最常见义是垃圾、废弃物，也可指没有价值的东西。作动词时，既能表示把东西扔掉、糟蹋掉，也常用于口语里表示狠批、痛骂或贬低。",
+    "phonetic": "/træʃ/",
+    "origin": "一般认为来自方言和口语演变，和“碎屑、废弃物、无用之物”相关，后来稳定为现代英语中的“垃圾、废物”，并进一步引申出“丢弃、贬低、糟蹋”等动词义。",
+    "expansions": [
+      "take out the trash 倒垃圾",
+      "trash bag 垃圾袋",
+      "trash talk 垃圾话；挑衅",
+      "trash a proposal 把提案批得很惨",
+      "trashy 俗气的；低俗的；廉价感很重的"
+    ],
+    "pronunciation": "/træʃ/",
+    "accepted_answers": [
+      "垃圾",
+      "废物",
+      "丢弃",
+      "痛批",
+      "废弃物"
+    ],
+    "added_at": "2026-05-25T07:39:51.801Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
