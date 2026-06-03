@@ -24,6 +24,565 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kangaroo",
+    "type": "word",
+    "pos": "N",
+    "translation": "袋鼠（产於澳洲）；见插图；私设的公堂（囚犯、罢工工人等为解决内部纠纷而设的）",
+    "analysis": "n (pl ~s) Australian animal that jumps along on its strong hind legs, the female carrying its young in a pouch on the front of its body 袋鼠（产於澳洲）. =>illus 见插图.\nkangaroo court \nillegal court formed by a group of prisoners, striking workers, etc to settle disputes among themselves 私设的公堂（囚犯、 罢工工人等为解决内部纠纷而设的）.",
+    "phonetic": "/ ˌkæŋgəˈruː; ˌkæŋgəˈru/",
+    "origin": "待查",
+    "expansions": [
+      "袋鼠（产於澳洲）；见插图；私设的公堂（囚犯、罢工工人等为解决内部纠纷而设的）"
+    ],
+    "pronunciation": "/ ˌkæŋgəˈruː; ˌkæŋgəˈru/",
+    "accepted_answers": [
+      "袋鼠（产於澳洲）",
+      "见插图",
+      "私设的公堂（囚犯、罢工工人等为解决内部纠纷而设的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kbe",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；（第二等的）大英帝国最高勋爵；英帝国爵级司令勋章",
+    "analysis": "abbr 缩写 = (Brit) Knight Commander (of the Order) of the British Empire （第二等的）大英帝国最高勋爵; 英帝国爵级司令勋章: be made a KBE 受封（第二等的）大英帝国最高勋爵位 * Sir John Brown KBE 约翰·布朗（第二等的）大英帝国最高勋爵士. Cf 参看 CBE, DBE, MBE.",
+    "phonetic": "/ ˌkeɪbiːˈiː; ˌkebiˈi/",
+    "origin": "待查",
+    "expansions": [
+      "be made a KBE 受封（第二等的）大英帝国最高勋爵位",
+      "Sir John Brown KBE 约翰·布朗（第二等的）大英帝国最高勋爵士. Cf 参看 CBE, DBE, MBE."
+    ],
+    "pronunciation": "/ ˌkeɪbiːˈiː; ˌkebiˈi/",
+    "accepted_answers": [
+      "缩写",
+      "（第二等的）大英帝国最高勋爵",
+      "英帝国爵级司令勋章"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kernel",
+    "type": "word",
+    "pos": "N",
+    "translation": "（坚果或核果的）仁（通常可食）；插图；（谷物去壳後的）粒；子",
+    "analysis": "n   1 soft and usu edible part inside a nut or fruit stone （坚果或核果的）仁（通常可食）. =>illus at nut 见nut插图.  2 part of a grain or seed within the hard outer shell （谷物去壳後的）粒, 子.  3 (fig 比喻) central or essential part (of a subject, plan, problem, etc) 核心; 要点; 中心: the kernel of her argument 她的论据的核心.",
+    "phonetic": "/ ˈkɜːnl; ˈkɜːnl/",
+    "origin": "待查",
+    "expansions": [
+      "the kernel of her argument 她的论据的核心."
+    ],
+    "pronunciation": "/ ˈkɜːnl; ˈkɜːnl/",
+    "accepted_answers": [
+      "（坚果或核果的）仁（通常可食）",
+      "插图",
+      "（谷物去壳後的）粒",
+      "子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kettledrum",
+    "type": "word",
+    "pos": "N",
+    "translation": "定音鼓；见附录；插图",
+    "analysis": "n large brass or copper bowl-shaped drum with skin stretched over the top, that can be tuned to an exact pitch 定音鼓. =>illus at App 1 见附录1插图, page xi.",
+    "phonetic": "/ ˈketldrʌm; ˈketlˌdrʌm/",
+    "origin": "待查",
+    "expansions": [
+      "定音鼓；见附录；插图"
+    ],
+    "pronunciation": "/ ˈketldrʌm; ˈketlˌdrʌm/",
+    "accepted_answers": [
+      "定音鼓",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "key",
+    "type": "word",
+    "pos": "N",
+    "translation": ")钥匙；转动锁孔中的钥匙；汽车钥匙",
+    "analysis": "n  1 [C] metal instrument shaped so that it will move the bolt of a lock (and so lock or unlock sth) 钥匙: turn the key in the lock 转动锁孔中的钥匙 * the car keys 汽车钥匙 * the key to the front door 前门的钥匙 * have a duplicate key cut, ie made 配钥匙. =>illus 见插图.  2 [C] similar instrument for grasping and turning sth, eg for winding a clock 类似钥匙的器具（如上钟表发条用的）: Where's the key for turning off the radiator? 关散热器的开关在哪里?  3 [C] (a) (music 音) set of related notes, based on a particular note, and forming the basis of (part of) a piece of music 调: a sonata in the key of E flat major/A minor 一首降E大调[A小调]奏鸣曲 * This piece changes key many times. 这首曲子有多处变调. (b) (fig 比喻) general tone or style of sth （事 物的）基调, 调子, 调门儿: Her speech was all in the same key, ie monotonous. 她的演说自始至终是一个调子（单调乏味）.  4 [C] any of the set of levers that are pressed by the fingers to operate a typewriter, piano, etc （打字机、 钢琴等的）键. =>illus at App 1 见附录1插图, pages x, xi.  5 [C] (a) set of answers to exercises or problems 题解; 答案: a book of language tests, complete with key 附答案的语言测验试题集. (b) explanation of the symbols used in a coded message or on a map, diagram, etc （地图、 图表等上的）略语表, 符号表, 凡例, 图例.  6 [C usu sing 通常作单数] ~ (to sth) thing that provides access, control or understanding 关键; 要诀: Diet and exercise are the key (to good health). 吃固定食物、 做运动是（身体健康的）关键. * The key to the whole affair was his jealousy. 整个事情的症结是因为他忌妒.  7 [sing] roughness given to a surface so that plaster or paint will stick to it （助灰浆或颜料附著的）粗糙表面: Gently sand the plastic to provide a key for the paint. 用砂纸在塑料上轻轻打磨出粗糙面以便涂颜料.  8 [C] (botany 植) winged fruit of some trees, eg the ash and elm 翅果（如　、 榆等树的果实）. =>illus at App 1 见附录1插图, page i.  9 (idm 习语) under lock and key => lock2.\nkey \nadj [attrib 作定语] very important or essential 极重要的; 关键性的: a key figure in the dispute 争论中的关键人物 * a key industry, speech, position 重要的工业、 讲话、 位置.\nkeyboard \nn set of keys (key1 4) on a typewriter,piano, etc （打字机、 钢琴等的）键盘. =>illus at computer见computer插图.  v  1 [I] operate a keyboard (eg for setting printing type) 用键盘操纵（如排字）.  2 [Tn] enter (data) in a computer by means of a keyboard 用键盘将（数据）输入计算机. `keyboarder n person who operates a keyboard 操作键盘的人.\nkeyhole \nn hole through which a key is put into a lock 锁孔; 钥匙孔.\nkey money \npayment illegally demanded from a new tenant of a house or flat before he is allowed to move in 钥匙费（向新房客非法索取的费用）.\nkeynote \nn  1 central theme of a speech, book, etc （演说、 书等的）要旨, 主题: Unemployment has been the keynote of the conference. 会议的主题是失业问题. * [attrib 作定语] a keynote speech, ie one setting the tone for or introducing the theme of a meeting, etc 定基调的演说.  2 (music 音) note on which a musical key is based 主音.\nkey-pad \nn small keyboard of numbered buttons used instead of a dial on a telephone, for selecting a channel, etc on a television set, or for entering data in a computer 按钮式电话机键盘; 电视频道选择键盘; 计算机袖珍键盘.\nkey-ring \nn ring on which keys are kept 钥匙圈. =>illus 见插图.\nkey signature \n(music 音) sharps and flats shown on a piece of music indicating the key in which it is written 调号. =>illus at music 见music插图.\nkeystone \nn  1 (architecture 建) central stone at the top of an arch locking the others into position 拱顶石.  2 (usu sing 通常作单数) (fig 比喻) most important part of a plan, an argument, etc on which all the other parts depend （计划、 论据等的）基础, 主旨: Belief in a life after death is the keystone of her religious faith. 她的宗教信仰的基础是相信死後有来生. Cf 参看 corner-stone (corner1).",
+    "phonetic": "/ kiː; ki/",
+    "origin": "待查",
+    "expansions": [
+      "turn the key in the lock 转动锁孔中的钥匙",
+      "the car keys 汽车钥匙",
+      "the key to the front door 前门的钥匙",
+      "have a duplicate key cut, ie made 配钥匙. =>illus 见插图. 2 [C] similar instrument for grasping and turning sth, eg for winding a clock 类似钥匙的器具（如上钟表发条用的）: Where's the key for turning off the radiator? 关散热器的开关在哪里? 3 [C] (a) (music 音) set of related notes, based on a particular note, and forming the basis of (part of) a piece of music 调: a sonata in the key of E flat major/A minor 一首降E大调[A小调]奏鸣曲",
+      "This piece changes key many times. 这首曲子有多处变调. (b) (fig 比喻) general tone or style of sth （事 物的）基调, 调子, 调门儿: Her speech was all in the same key, ie monotonous. 她的演说自始至终是一个调子（单调乏味）. 4 [C] any of the set of levers that are pressed by the fingers to operate a typewriter, piano, etc （打字机、 钢琴等的）键. =>illus at App 1 见附录1插图, pages x, xi. 5 [C] (a) set of answers to exercises or problems 题解; 答案: a book of language tests, complete with key 附答案的语言测验试题集. (b) explanation of the symbols used in a coded message or on a map, diagram, etc （地图、 图表等上的）略语表, 符号表, 凡例, 图例. 6 [C usu sing 通常作单数] ~ (to sth) thing that provides access, control or understanding 关键; 要诀: Diet and exercise are the key (to good health). 吃固定食物、 做运动是（身体健康的）关键."
+    ],
+    "pronunciation": "/ kiː; ki/",
+    "accepted_answers": [
+      ")钥匙",
+      "转动锁孔中的钥匙",
+      "汽车钥匙"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "killing",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；大走财运；鸿运亨通",
+    "analysis": "n (idm 习语) ,make a `killing have a great financial success 大走财运; 鸿运亨通: She's made a killing on the stock market. 她在股票市场上大发了一笔财.\nkilling \nadj (infml 口)  1 exhausting 使人筋疲力尽的: walk at a killing pace 拚命赶路.  2 very amusing 极为有趣的; 滑稽可笑的: a killing joke 极为有趣的笑话. killingly adv (infml 口) extremely 非常地; 极端地: a killingly funny film 非常有趣的影片.",
+    "phonetic": "/ ˈkɪlɪŋ; ˈkɪlɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "She's made a killing on the stock market. 她在股票市场上大发了一笔财.",
+      "walk at a killing pace 拚命赶路. 2 very amusing 极为有趣的; 滑稽可笑的: a killing joke 极为有趣的笑话. killingly adv (infml 口) extremely 非常地; 极端地: a killingly funny film 非常有趣的影片."
+    ],
+    "pronunciation": "/ ˈkɪlɪŋ; ˈkɪlɪŋ/",
+    "accepted_answers": [
+      "习语)",
+      "大走财运",
+      "鸿运亨通"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kiln",
+    "type": "word",
+    "pos": "N",
+    "translation": "kiln",
+    "analysis": "n oven for baking pottery or bricks, drying hops or wood, burning lime, etc 窑.",
+    "phonetic": "/ kɪln; kɪln/",
+    "origin": "待查",
+    "expansions": [
+      "kiln"
+    ],
+    "pronunciation": "/ kɪln; kɪln/",
+    "accepted_answers": [
+      "kiln"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kilo",
+    "type": "word",
+    "pos": "N",
+    "translation": "构词成分；见附录",
+    "analysis": "n (pl ~s) kilogram.\nkilo-\ncomb form 构词成分 thousand 千: kilogram * kilometre. =>App 11 见附录11.",
+    "phonetic": "/ ˈkiːləʊ; ˈkilo/",
+    "origin": "待查",
+    "expansions": [
+      "kilogram",
+      "kilometre. =>App 11 见附录11."
+    ],
+    "pronunciation": "/ ˈkiːləʊ; ˈkilo/",
+    "accepted_answers": [
+      "构词成分",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kilocycle",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)",
+    "analysis": "n (dated 旧) = kilohertz.",
+    "phonetic": "/ ˈkɪləsaɪkl; ˈkɪləˌsaɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "旧)"
+    ],
+    "pronunciation": "/ ˈkɪləsaɪkl; ˈkɪləˌsaɪkl/",
+    "accepted_answers": [
+      "旧)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kilometre",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；公里；千米（公制长度单位；等於；米）",
+    "analysis": "n (abbr 缩写 km) metric unit of length; 1000 metres. 公里, 千米（公制长度单位, 等於1000米）. =>App 4,5 见附录4、 5.",
+    "phonetic": "/ ˈkɪləmiːtə(r),kɪˈlɒmɪtə(r); ˈkɪləˌmitə/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；公里；千米（公制长度单位；等於；米）"
+    ],
+    "pronunciation": "/ ˈkɪləmiːtə(r),kɪˈlɒmɪtə(r); ˈkɪləˌmitə/",
+    "accepted_answers": [
+      "缩写",
+      "公里",
+      "千米（公制长度单位",
+      "等於",
+      "米）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kin",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "旧或文)；家人和亲戚；他的家人和亲戚都参加了婚礼",
+    "analysis": "n  1 [pl v] (dated or fml 旧或文) one's family and relatives 家人和亲戚: All his kin were at the wedding. 他的家人和亲戚都参加了婚礼. * He's my kin, ie related to me. 他是我的亲戚. * We are near kin, ie closely related. 我们是近亲. Cf 参看 kindred 2.  2 (idm 习语) kith and kin => kith. no kin to sb not related to sb 与某人无亲属关系. Cf 参看 next of kin (next1).",
+    "phonetic": "/ kɪn; kɪn/",
+    "origin": "待查",
+    "expansions": [
+      "All his kin were at the wedding. 他的家人和亲戚都参加了婚礼.",
+      "He's my kin, ie related to me. 他是我的亲戚.",
+      "We are near kin, ie closely related. 我们是近亲. Cf 参看 kindred 2. 2 (idm 习语) kith and kin => kith. no kin to sb not related to sb 与某人无亲属关系. Cf 参看 next of kin (next1)."
+    ],
+    "pronunciation": "/ kɪn; kɪn/",
+    "accepted_answers": [
+      "旧或文)",
+      "家人和亲戚",
+      "他的家人和亲戚都参加了婚礼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kindling",
+    "type": "word",
+    "pos": "N",
+    "translation": "引火物（小块的乾柴等）",
+    "analysis": "n [U] small dry pieces of wood, etc for lighting fires 引火物（小块的乾柴等）.",
+    "phonetic": "/ ˈkɪndlɪŋ; ˈkɪndlɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "引火物（小块的乾柴等）"
+    ],
+    "pronunciation": "/ ˈkɪndlɪŋ; ˈkɪndlɪŋ/",
+    "accepted_answers": [
+      "引火物（小块的乾柴等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kindly",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "亲切的；和蔼的；友好的",
+    "analysis": "adj [usu attrib 通常作定语] (-ier, -iest) kind or friendly in character, manner or appearance 亲切的; 和蔼的; 友好的; 仁慈的; 慈爱的: a kindly man, voice, smile 慈祥的人、 声音、 微笑 * give sbsome kindly advice 给某人以友好的劝告.\nkindliness\nn [U].\nkindly\n=> kind.",
+    "phonetic": "/ ˈkaɪndlɪ; ˈkaɪndlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "a kindly man, voice, smile 慈祥的人、 声音、 微笑",
+      "give sbsome kindly advice 给某人以友好的劝告."
+    ],
+    "pronunciation": "/ ˈkaɪndlɪ; ˈkaɪndlɪ/",
+    "accepted_answers": [
+      "亲切的",
+      "和蔼的",
+      "友好的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kiosk",
+    "type": "word",
+    "pos": "N",
+    "translation": "（出售报纸、饮料等的）小摊棚；售货亭；公用电话亭",
+    "analysis": "n  1 small open structure where newspapers, refreshments, etc are sold （出售报纸、 饮料等的）小摊棚, 售货亭.  2 (dated 旧 Brit) public telephone box or booth 公用电话亭.",
+    "phonetic": "/ ˈkiːɒsk; kɪˈɑːsk/",
+    "origin": "待查",
+    "expansions": [
+      "（出售报纸、饮料等的）小摊棚；售货亭；公用电话亭"
+    ],
+    "pronunciation": "/ ˈkiːɒsk; kɪˈɑːsk/",
+    "accepted_answers": [
+      "（出售报纸、饮料等的）小摊棚",
+      "售货亭",
+      "公用电话亭"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kipper",
+    "type": "word",
+    "pos": "N",
+    "translation": "腌晒或熏制的鲱鱼",
+    "analysis": "n salted herring, split open and dried or smoked 腌晒或熏制的鲱鱼.",
+    "phonetic": "/ ˈkɪpə(r); ˈkɪpə/",
+    "origin": "待查",
+    "expansions": [
+      "腌晒或熏制的鲱鱼"
+    ],
+    "pronunciation": "/ ˈkɪpə(r); ˈkɪpə/",
+    "accepted_answers": [
+      "腌晒或熏制的鲱鱼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kismet",
+    "type": "word",
+    "pos": "N",
+    "translation": "修辞)；命运；天命",
+    "analysis": "n [U] (rhet 修辞) destiny; fate 命运; 天命.",
+    "phonetic": "/ ˈkɪzmet,ˈkɪs-; ˈkɪzmet,ˈkɪs-/",
+    "origin": "待查",
+    "expansions": [
+      "修辞)；命运；天命"
+    ],
+    "pronunciation": "/ ˈkɪzmet,ˈkɪs-; ˈkɪzmet,ˈkɪs-/",
+    "accepted_answers": [
+      "修辞)",
+      "命运",
+      "天命"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kitchen",
+    "type": "word",
+    "pos": "N",
+    "translation": "厨房；厨房用桌；厨房设备（如厨柜等）",
+    "analysis": "n  1 room or building in which meals are cooked or prepared 厨房: [attrib 作定语] the kitchen table 厨房用桌 * kitchen units, ie cupboards, etc forming part of a fitted kitchen 厨房设备（如厨柜等）.  2 (idm 习语) everything but the kitchen `sink (infml joc 口, 谑) every possible (movable) object 所有（能移动的）物品: We always seem to take everything but the kitchen sink when we go on holiday. 我们度假时好像总把一切能带的东西都带著.",
+    "phonetic": "/ ˈkɪtʃɪn; ˈkɪtʃɪn/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] the kitchen table 厨房用桌",
+      "kitchen units, ie cupboards, etc forming part of a fitted kitchen 厨房设备（如厨柜等）. 2 (idm 习语) everything but the kitchen `sink (infml joc 口, 谑) every possible (movable) object 所有（能移动的）物品: We always seem to take everything but the kitchen sink when we go on holiday. 我们度假时好像总把一切能带的东西都带著."
+    ],
+    "pronunciation": "/ ˈkɪtʃɪn; ˈkɪtʃɪn/",
+    "accepted_answers": [
+      "厨房",
+      "厨房用桌",
+      "厨房设备（如厨柜等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kitemark",
+    "type": "word",
+    "pos": "N",
+    "translation": "风筝标记（用在英国标准协会认可的商品上；形似风筝）",
+    "analysis": "n (Brit) official mark, in the form of a kite, on goods approved by the British Standards Institution 风筝标记（用在英国标准协会认可的商品上, 形似风筝）.",
+    "phonetic": "/ ˈkaɪtmɑː:k; ˈkaɪtˌmɑːrk/",
+    "origin": "待查",
+    "expansions": [
+      "风筝标记（用在英国标准协会认可的商品上；形似风筝）"
+    ],
+    "pronunciation": "/ ˈkaɪtmɑː:k; ˈkaɪtˌmɑːrk/",
+    "accepted_answers": [
+      "风筝标记（用在英国标准协会认可的商品上",
+      "形似风筝）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kitten",
+    "type": "word",
+    "pos": "N",
+    "translation": "小猫；习语)；口)",
+    "analysis": "n  1 young cat 小猫.  2 (idm 习语) have `kittens (Brit infml 口) be very anxious, tense, etc 焦虑; 烦躁: My mum'll have kittens if I'm not home by midnight. 要是半夜我还不回家, 我妈妈一定很著急.\nkittenish \nadj playful like a kitten 小猫般淘气的; 顽皮的.",
+    "phonetic": "/ ˈkɪtn; ˈkɪtn/",
+    "origin": "待查",
+    "expansions": [
+      "My mum'll have kittens if I'm not home by midnight. 要是半夜我还不回家, 我妈妈一定很著急."
+    ],
+    "pronunciation": "/ ˈkɪtn; ˈkɪtn/",
+    "accepted_answers": [
+      "小猫",
+      "习语)",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kiwi",
+    "type": "word",
+    "pos": "N",
+    "translation": "几维（产於新西兰的鸟；喙长、翼短、无尾、不能飞）；口)；新西兰人（尤指士兵或国家运动员）",
+    "analysis": "n  1 New Zealand bird that cannot fly, with a long bill, short wings and no tail 几维（产於新西兰的鸟, 喙长、 翼短、 无尾、 不能飞）.  2 Kiwi (infml 口) New Zealander, esp a soldier or member of a national sports team 新西兰人（尤指士兵或国家运动员）.\nkiwi fruit \nsmall oval fruit with thin brown skin, soft green flesh and black seeds 猕猴桃.",
+    "phonetic": "/ ˈkiːwiː; ˈkiwɪ/",
+    "origin": "待查",
+    "expansions": [
+      "几维（产於新西兰的鸟；喙长、翼短、无尾、不能飞）；口)；新西兰人（尤指士兵或国家运动员）"
+    ],
+    "pronunciation": "/ ˈkiːwiː; ˈkiwɪ/",
+    "accepted_answers": [
+      "几维（产於新西兰的鸟",
+      "喙长、翼短、无尾、不能飞）",
+      "口)",
+      "新西兰人（尤指士兵或国家运动员）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knavery",
+    "type": "word",
+    "pos": "N",
+    "translation": "古)；不诚实；欺诈",
+    "analysis": "n [U] (arch 古) dishonesty; trickery 不诚实; 欺诈.",
+    "phonetic": "/ ˈneɪvərɪ; ˈnevərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "古)；不诚实；欺诈"
+    ],
+    "pronunciation": "/ ˈneɪvərɪ; ˈnevərɪ/",
+    "accepted_answers": [
+      "古)",
+      "不诚实",
+      "欺诈"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knock",
+    "type": "word",
+    "pos": "N",
+    "translation": "短促的敲或打（的声音）；是有人敲门吗；要是八点钟你还不起床；我就来敲你的门",
+    "analysis": "n  1 (sound of a) sharp blow 短促的敲或打（的声音）: Did I hear a knock at the door? 是有人敲门吗? * If you're not up by eight o'clock I'll give you a knock, ie wake you by knocking at your door. 要是八点钟你还不起床, 我就来敲你的门. * She fell off her bike and got a nasty knock. 她从自行车上摔下来, 摔得很重. * In football you have to get used to hard knocks. 踢足球就得经得起碰撞.  2 (in an engine) sound of knocking (knock2 2) （发动机的）爆震声: What's that knock I can hear? 我听到发动机有爆震声是怎麽回事啊?  3 (infml 口) (in cricket) innings （板球的）一局: That was a good knock: 86 not out. 那局真漂亮, 打了86分还未出局.  4 (idm 习语) take a `knock (infml 口) suffer a financial or an emotional blow 蒙受经济或感情上的打击: She took a bad knock when her husband died. 她丈夫一死她受到沉重的打击.",
+    "phonetic": "/ nɒk; nɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "Did I hear a knock at the door? 是有人敲门吗?",
+      "If you're not up by eight o'clock I'll give you a knock, ie wake you by knocking at your door. 要是八点钟你还不起床, 我就来敲你的门.",
+      "She fell off her bike and got a nasty knock. 她从自行车上摔下来, 摔得很重.",
+      "In football you have to get used to hard knocks. 踢足球就得经得起碰撞. 2 (in an engine) sound of knocking (knock2 2) （发动机的）爆震声: What's that knock I can hear? 我听到发动机有爆震声是怎麽回事啊? 3 (infml 口) (in cricket) innings （板球的）一局: That was a good knock: 86 not out. 那局真漂亮, 打了86分还未出局. 4 (idm 习语) take a `knock (infml 口) suffer a financial or an emotional blow 蒙受经济或感情上的打击: She took a bad knock when her husband died. 她丈夫一死她受到沉重的打击."
+    ],
+    "pronunciation": "/ nɒk; nɑːk/",
+    "accepted_answers": [
+      "短促的敲或打（的声音）",
+      "是有人敲门吗",
+      "要是八点钟你还不起床",
+      "我就来敲你的门"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "knuckle",
     "type": "word",
     "pos": "N",
@@ -40,6 +599,53 @@
       "指节",
       "指关节",
       "擦破指关节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "koala",
+    "type": "word",
+    "pos": "N",
+    "translation": "树袋熊（产於澳洲的树栖哺乳动物；毛密、色灰、耳大、无尾）",
+    "analysis": "n (also koala bear) Australian tree-climbing mammal with thick grey fur, large ears and no tail 树袋熊（产於澳洲的树栖哺乳动物, 毛密、 色灰、 耳大、 无尾）.",
+    "phonetic": "/ kəʊˈɑː:lə; koˈɑːlə/",
+    "origin": "待查",
+    "expansions": [
+      "树袋熊（产於澳洲的树栖哺乳动物；毛密、色灰、耳大、无尾）"
+    ],
+    "pronunciation": "/ kəʊˈɑː:lə; koˈɑːlə/",
+    "accepted_answers": [
+      "树袋熊（产於澳洲的树栖哺乳动物",
+      "毛密、色灰、耳大、无尾）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kohl",
+    "type": "word",
+    "pos": "N",
+    "translation": "眼睑粉（东方妇女的化妆品）",
+    "analysis": "n [U] cosmetic powder used in the East to darken the eyelids 眼睑粉（东方妇女的化妆品）.",
+    "phonetic": "/ kəʊl; kol/",
+    "origin": "待查",
+    "expansions": [
+      "眼睑粉（东方妇女的化妆品）"
+    ],
+    "pronunciation": "/ kəʊl; kol/",
+    "accepted_answers": [
+      "眼睑粉（东方妇女的化妆品）"
     ],
     "added_at": "",
     "review": {
@@ -76,6 +682,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kph",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；千米；小时",
+    "analysis": "abbr 缩写 = kilometres per hour 千米/小时; 公里/小时. Cf 参看 mph.",
+    "phonetic": "/ ˌkeɪpiːˈeɪtʃ; ˌkepiˈetʃ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；千米；小时"
+    ],
+    "pronunciation": "/ ˌkeɪpiːˈeɪtʃ; ˌkepiˈetʃ/",
+    "accepted_answers": [
+      "缩写",
+      "千米",
+      "小时"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "krone",
     "type": "word",
     "pos": "N",
@@ -99,6 +730,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "krypton",
+    "type": "word",
+    "pos": "N",
+    "translation": "见附录；缩写；詹姆斯·贝利爵士",
+    "analysis": "n [U] chemical element, an inert colourless and odourless gas 氪. =>App 10 见附录10.\nKt\nabbr 缩写 = Knight: Sir James Bailey Kt 詹姆斯·贝利爵士.",
+    "phonetic": "/ ˈkrɪptɒn; ˈkrɪpˌtɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "Sir James Bailey Kt 詹姆斯·贝利爵士."
+    ],
+    "pronunciation": "/ ˈkrɪptɒn; ˈkrɪpˌtɑːn/",
+    "accepted_answers": [
+      "见附录",
+      "缩写",
+      "詹姆斯·贝利爵士"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kumis",
     "type": "word",
     "pos": "N",
@@ -112,6 +768,29 @@
     "pronunciation": "/ ˈkuːmɪs; ˈkumɪs/",
     "accepted_answers": [
       "乳酒（中亚某些民族用马乳酿制的酒）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kummel",
+    "type": "word",
+    "pos": "N",
+    "translation": "（用莳萝和葛缕子调味的）烈性甜酒",
+    "analysis": "n [U] sweet liqueur flavoured with cumin and caraway seeds （用莳萝和葛缕子调味的）烈性甜酒.",
+    "phonetic": "/ ˈkUməl; ˈkɪml/",
+    "origin": "待查",
+    "expansions": [
+      "（用莳萝和葛缕子调味的）烈性甜酒"
+    ],
+    "pronunciation": "/ ˈkUməl; ˈkɪml/",
+    "accepted_answers": [
+      "（用莳萝和葛缕子调味的）烈性甜酒"
     ],
     "added_at": "",
     "review": {

@@ -24,6 +24,177 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jackal",
+    "type": "word",
+    "pos": "N",
+    "translation": "胡狼；豺（产於亚非）",
+    "analysis": "n wild animal of Africa and Asia that is related to the dog 胡狼, 豺（产於亚非）.",
+    "phonetic": "/ ˈdʒækɔːl; -kl; ˈdʒækl/",
+    "origin": "待查",
+    "expansions": [
+      "胡狼；豺（产於亚非）"
+    ],
+    "pronunciation": "/ ˈdʒækɔːl; -kl; ˈdʒækl/",
+    "accepted_answers": [
+      "胡狼",
+      "豺（产於亚非）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jackboot",
+    "type": "word",
+    "pos": "N",
+    "translation": "长统靴（尤指某些军人穿的）；比喻)；军事压迫",
+    "analysis": "n  1 tall boot, esp one worn by certain soldiers 长统靴（尤指某些军人穿的）.  2 (fig 比喻) military oppression; tyranny 军事压迫; 暴政: under the jackboot of a dictatorial regime 在专制制度的暴政下.",
+    "phonetic": "/ ˈdʒækbuːt; ˈdʒækˌbut/",
+    "origin": "待查",
+    "expansions": [
+      "under the jackboot of a dictatorial regime 在专制制度的暴政下."
+    ],
+    "pronunciation": "/ ˈdʒækbuːt; ˈdʒækˌbut/",
+    "accepted_answers": [
+      "长统靴（尤指某些军人穿的）",
+      "比喻)",
+      "军事压迫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jagged",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "边缘不整齐的（常为锐利的）；形缺口的；犬牙交错的岩石",
+    "analysis": "adj with rough, uneven, often sharp, edges; notched 边缘不整齐的（常为锐利的）; 有V形缺口的: jagged rocks 犬牙交错的岩石 * a piece of glass with a jagged edge 边缘参差不齐的玻璃.",
+    "phonetic": "/ ˈdʒægɪd; ˈdʒægɪd/",
+    "origin": "待查",
+    "expansions": [
+      "jagged rocks 犬牙交错的岩石",
+      "a piece of glass with a jagged edge 边缘参差不齐的玻璃."
+    ],
+    "pronunciation": "/ ˈdʒægɪd; ˈdʒægɪd/",
+    "accepted_answers": [
+      "边缘不整齐的（常为锐利的）",
+      "形缺口的",
+      "犬牙交错的岩石"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jaguar",
+    "type": "word",
+    "pos": "N",
+    "translation": "美洲豹；美洲虎",
+    "analysis": "n large spotted memberof the cat family inhabiting parts of central America 美洲豹; 美洲虎.\njail\n= gaol.",
+    "phonetic": "/ ˈdʒægjUə(r); ˈdʒægjJˌɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "美洲豹；美洲虎"
+    ],
+    "pronunciation": "/ ˈdʒægjUə(r); ˈdʒægjJˌɑːr/",
+    "accepted_answers": [
+      "美洲豹",
+      "美洲虎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jam",
+    "type": "word",
+    "pos": "N",
+    "translation": "果酱；他把草莓酱涂在烤面包片上；果酱和蜜饯的制作方法",
+    "analysis": "n  1 [U] sweet substance made by boiling fruit with sugar until it is thick, usu preserved in jars, etc 果酱: He spread some strawberry jam on his toast. 他把草莓酱涂在烤面包片上.  2 [C] type of this 果酱: recipes for jams and preserves 果酱和蜜饯的制作方法.  3 (idm 习语) money for jam/old rope => money.",
+    "phonetic": "/ dʒæm; dʒæm/",
+    "origin": "待查",
+    "expansions": [
+      "He spread some strawberry jam on his toast. 他把草莓酱涂在烤面包片上. 2 [C] type of this 果酱: recipes for jams and preserves 果酱和蜜饯的制作方法. 3 (idm 习语) money for jam/old rope => money."
+    ],
+    "pronunciation": "/ dʒæm; dʒæm/",
+    "accepted_answers": [
+      "果酱",
+      "他把草莓酱涂在烤面包片上",
+      "果酱和蜜饯的制作方法"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "janitor",
+    "type": "word",
+    "pos": "N",
+    "translation": "janitor",
+    "analysis": "n (US) = caretaker.",
+    "phonetic": "/ ˈdʒænɪtə(r); ˈdʒænətə/",
+    "origin": "待查",
+    "expansions": [
+      "janitor"
+    ],
+    "pronunciation": "/ ˈdʒænɪtə(r); ˈdʒænətə/",
+    "accepted_answers": [
+      "janitor"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "japonica",
+    "type": "word",
+    "pos": "N",
+    "translation": "贴梗海棠（装饰用的植物；开红花）",
+    "analysis": "n ornamental type of quince tree, with red flowers 贴梗海棠（装饰用的植物, 开红花）.",
+    "phonetic": "/ dʒəˈpɒnɪkə; dʒəˈpɑːnɪkə/",
+    "origin": "待查",
+    "expansions": [
+      "贴梗海棠（装饰用的植物；开红花）"
+    ],
+    "pronunciation": "/ dʒəˈpɒnɪkə; dʒəˈpɑːnɪkə/",
+    "accepted_answers": [
+      "贴梗海棠（装饰用的植物",
+      "开红花）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jasmine",
     "type": "word",
     "pos": "N",
@@ -37,6 +208,82 @@
     "pronunciation": "/ ˈdʒæsmɪn; ˈdʒæzmən; ˈdʒæzmən/",
     "accepted_answers": [
       "茉莉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jasper",
+    "type": "word",
+    "pos": "N",
+    "translation": "碧玉（一种次宝石；呈红色、黄色或褐色）",
+    "analysis": "n [U] red, yellow or brown semi-precious stone 碧玉（一种次宝石, 呈红色、 黄色或褐色）.",
+    "phonetic": "/ ˈdʒæspə(r); ˈdʒæspə/",
+    "origin": "待查",
+    "expansions": [
+      "碧玉（一种次宝石；呈红色、黄色或褐色）"
+    ],
+    "pronunciation": "/ ˈdʒæspə(r); ˈdʒæspə/",
+    "accepted_answers": [
+      "碧玉（一种次宝石",
+      "呈红色、黄色或褐色）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jay-walk",
+    "type": "word",
+    "pos": "V",
+    "translation": "无视交通规则任意行走",
+    "analysis": "v [I] walk carelessly across or along town streets without paying enough attention to traffic or traffic signals 无视交通规则任意行走.\njay-walker \nn.",
+    "phonetic": "/ ˈdʒeɪwɔːk; ˈdʒeˌwɔːk/",
+    "origin": "待查",
+    "expansions": [
+      "无视交通规则任意行走"
+    ],
+    "pronunciation": "/ ˈdʒeɪwɔːk; ˈdʒeˌwɔːk/",
+    "accepted_answers": [
+      "无视交通规则任意行走"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jazz",
+    "type": "word",
+    "pos": "N",
+    "translation": "爵士乐；传统爵士乐；现代爵士乐",
+    "analysis": "n  1 [U] music of American Negro origin, characterized by the use of improvisation and strong, often syncopated, rhythms 爵士乐: traditional jazz 传统爵士乐 * modern jazz 现代爵士乐 * [attrib 作定语] jazz music/musicians 爵士乐曲[乐师] * a `jazz band 爵士乐队.  2 [U] (sl derog 俚, 贬) pretentious talk; nonsense 假大空; 废话: Don't give me that jazz! 别跟我胡扯!  3 (idm 习语) and all that jazz (sl usu derog 俚, 通常作贬义) and similar things 以及类似的东西: She lectured us about the honour of the school and all that jazz. 她给我们讲了学校的荣誉还有一大堆这类的事情.\njazz \nv  1 [Tn, Tn.p] ~ sth (up) play or arrange (music) in the style of jazz 用爵士乐风格演奏（乐曲）; 将（乐曲）改编为爵士乐: a jazzed-up version of an old tune 被改编为爵士乐的古老曲调.  2 (phr v) jazz sth up make sth more lively 使某事物更有生气: jazz up a party, a magazine, a dress 使聚会、 杂志、 连衣裙显得富有生气.\njazzy \nadj (infml 口)  1 of or like jazz （似）爵士乐的.  2 flashy or showy 绚丽的; 花哨的: jazzy clothes, colours, etc 绚丽的衣物、 颜色等 * a jazzy sports car 花哨的跑车.",
+    "phonetic": "/ dʒæz; dʒæz/",
+    "origin": "待查",
+    "expansions": [
+      "traditional jazz 传统爵士乐",
+      "modern jazz 现代爵士乐",
+      "[attrib 作定语] jazz music/musicians 爵士乐曲[乐师]",
+      "a `jazz band 爵士乐队. 2 [U] (sl derog 俚, 贬) pretentious talk; nonsense 假大空; 废话: Don't give me that jazz! 别跟我胡扯! 3 (idm 习语) and all that jazz (sl usu derog 俚, 通常作贬义) and similar things 以及类似的东西: She lectured us about the honour of the school and all that jazz. 她给我们讲了学校的荣誉还有一大堆这类的事情.",
+      "a jazzed-up version of an old tune 被改编为爵士乐的古老曲调. 2 (phr v) jazz sth up make sth more lively 使某事物更有生气: jazz up a party, a magazine, a dress 使聚会、 杂志、 连衣裙显得富有生气."
+    ],
+    "pronunciation": "/ dʒæz; dʒæz/",
+    "accepted_answers": [
+      "爵士乐",
+      "传统爵士乐",
+      "现代爵士乐"
     ],
     "added_at": "",
     "review": {
@@ -70,6 +317,87 @@
     },
     "pos": "word",
     "origin": "待查"
+  },
+  {
+    "term": "jealous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "忌妒的；妒忌的；好忌妒的丈夫",
+    "analysis": "adj  1 feeling or showing fear or resentment of possible rivals in love or affection 忌妒的; 妒忌的: a jealous husband 好忌妒的丈夫 * jealous looks 忌妒的样子.  2 ~ (of sb/sth) feeling or showingresentment of sb's advantages, achievements, etc; envious妒羡的; 羡慕的: He was jealous of Tom/of Tom's success.他妒羡汤姆[汤姆的成就].  3 ~ (of sth) anxiously protective (of one's rights, belongings, etc); possessive（对自己的权利、 所有物等）精心守护的, 占有的: keeping a jealous eye on one's property 精心保护自己的财产 * She's jealous of her privileges. 她极为珍视自己的特权.\njealously \nadv.",
+    "phonetic": "/ ˈdʒeləs; ˈdʒeləs/",
+    "origin": "待查",
+    "expansions": [
+      "a jealous husband 好忌妒的丈夫",
+      "jealous looks 忌妒的样子. 2 ~ (of sb/sth) feeling or showingresentment of sb's advantages, achievements, etc; envious妒羡的; 羡慕的: He was jealous of Tom/of Tom's success.他妒羡汤姆[汤姆的成就]. 3 ~ (of sth) anxiously protective (of one's rights, belongings, etc); possessive（对自己的权利、 所有物等）精心守护的, 占有的: keeping a jealous eye on one's property 精心保护自己的财产",
+      "She's jealous of her privileges. 她极为珍视自己的特权."
+    ],
+    "pronunciation": "/ ˈdʒeləs; ˈdʒeləs/",
+    "accepted_answers": [
+      "忌妒的",
+      "妒忌的",
+      "好忌妒的丈夫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jeep",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；吉普车",
+    "analysis": "n (propr 专利名) small sturdy motor vehicle with four-wheel drive 吉普车.",
+    "phonetic": "/ dʒiːp; dʒip/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；吉普车"
+    ],
+    "pronunciation": "/ dʒiːp; dʒip/",
+    "accepted_answers": [
+      "专利名)",
+      "吉普车"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jeer",
+    "type": "word",
+    "pos": "V",
+    "translation": ")嘲笑；嘲弄（某人；某事物；起哄的人群",
+    "analysis": "v [I, Ipr, Tn] ~ (at sb/sth) laugh at or mock (sb/sth) 嘲笑, 嘲弄（某人[某事物]）: a jeering crowd 起哄的人群 * jeer at a defeated opponent 嘲弄被击败的对手 * They jeered (at) the speaker. 他们讥笑发言的人.\njeer \nn jeering remark; taunt 揶揄的言语; 嘲讽: He ran off, their jeers ringing in his ears. 他一跑了之, 耳边仍回响著他们的冷嘲热讽.\njeering \nn [U]: He had to face the jeering of his classmates. 他只得面对同学们的奚落.",
+    "phonetic": "/ dʒɪə(r); dʒɪr/",
+    "origin": "待查",
+    "expansions": [
+      "a jeering crowd 起哄的人群",
+      "jeer at a defeated opponent 嘲弄被击败的对手",
+      "They jeered (at) the speaker. 他们讥笑发言的人.",
+      "He ran off, their jeers ringing in his ears. 他一跑了之, 耳边仍回响著他们的冷嘲热讽.",
+      "He had to face the jeering of his classmates. 他只得面对同学们的奚落."
+    ],
+    "pronunciation": "/ dʒɪə(r); dʒɪr/",
+    "accepted_answers": [
+      ")嘲笑",
+      "嘲弄（某人",
+      "某事物",
+      "起哄的人群"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jekyll and hyde",
@@ -124,6 +452,356 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jerkily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "jerkily",
+    "analysis": "adv.\njerkiness \nn [U].",
+    "phonetic": "/ -ɪlɪ; -əlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "jerkily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -əlɪ/",
+    "accepted_answers": [
+      "jerkily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jerrycan",
+    "type": "word",
+    "pos": "N",
+    "translation": "扁平金属罐（贮存或运送汽油、水等液体用的）",
+    "analysis": "n type of large flat-sided metal container used for storing or carrying liquids, usu petrol or water 扁平金属罐（贮存或运送汽油、 水等液体用的）.",
+    "phonetic": "/ ˈdʒerɪkæn; ˈdʒerɪˌkæn/",
+    "origin": "待查",
+    "expansions": [
+      "扁平金属罐（贮存或运送汽油、水等液体用的）"
+    ],
+    "pronunciation": "/ ˈdʒerɪkæn; ˈdʒerɪˌkæn/",
+    "accepted_answers": [
+      "扁平金属罐（贮存或运送汽油、水等液体用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jesuit",
+    "type": "word",
+    "pos": "N",
+    "translation": "耶稣会会士（天主教修会的）；贬)；弄虚作假的人",
+    "analysis": "n  1 member of the Society of Jesus, a Roman Catholic religiousorder 耶稣会会士（天主教修会的）.  2 (derog 贬) person who deceives others, or fails to tell the (whole) truth, to achieve his ends 弄虚作假的人.",
+    "phonetic": "/ ˈdʒezjUɪt; ˈdʒeʒəwət; ˈdʒeʒəwət/",
+    "origin": "待查",
+    "expansions": [
+      "耶稣会会士（天主教修会的）；贬)；弄虚作假的人"
+    ],
+    "pronunciation": "/ ˈdʒezjUɪt; ˈdʒeʒəwət; ˈdʒeʒəwət/",
+    "accepted_answers": [
+      "耶稣会会士（天主教修会的）",
+      "贬)",
+      "弄虚作假的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jesuitical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "贬)；狡诈的；虚伪的",
+    "analysis": "adj (derog 贬) involving deception or dishonesty 狡诈的; 虚伪的: a Jesuitical scheme, reply 诡诈的阴谋、 回答.",
+    "phonetic": "/ ˌdʒezjUˈɪtɪkl; ˌdʒeʒU-; ˌdʒeʒJˈɪtɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "a Jesuitical scheme, reply 诡诈的阴谋、 回答."
+    ],
+    "pronunciation": "/ ˌdʒezjUˈɪtɪkl; ˌdʒeʒU-; ˌdʒeʒJˈɪtɪkl/",
+    "accepted_answers": [
+      "贬)",
+      "狡诈的",
+      "虚伪的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jesus",
+    "type": "word",
+    "pos": "N",
+    "translation": "jesus",
+    "analysis": "n = christ.",
+    "phonetic": "/ ˈdʒiːzəs; ˈdʒizəs/",
+    "origin": "待查",
+    "expansions": [
+      "jesus"
+    ],
+    "pronunciation": "/ ˈdʒiːzəs; ˈdʒizəs/",
+    "accepted_answers": [
+      "jesus"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jet",
+    "type": "word",
+    "pos": "N",
+    "translation": "喷气式飞机；喷气式飞机正要起飞时出了事故；乘喷气式飞机",
+    "analysis": "n  1 (also jet aircraft) aircraft powered by a jet engine 喷气式飞机: The accident happened as the jet was about to take off. 喷气式飞机正要起飞时出了事故. * travel by jet 乘喷气式飞机 * [attrib 作定语] a jet fighter, airliner, etc 喷气式战斗机、 班机等 * the age of jet travel 乘喷气机的时代.  2 (a) strong narrow stream of gas, liquid, steam or flame, forced out of a small opening 喷射: The pipe burst and jets of water shot across the kitchen. 管子破了, 水从厨房的这边喷到那边. (b) narrow opening from which this comes 喷嘴; 喷射口: clean the gas jets on the cooker 把煤气炉的喷嘴弄乾净.\njet \nv (-tt-)  1 [I, Ipr, Ip] (infml 口) travel by jet airliner 乘喷气式飞机: politicians who constantly jet around the world 乘喷气式飞机往来於世界各地的政治家.  2 (phr v) jet (sth) from/out of sth; jet (sth) out (cause sth to) come out in a jet or jets （使某物）喷出: Flames jetted out (of the nozzles). 火焰（从喷嘴中）喷出来了.\njet engine \nengine that gives forward movement by sending out a high-speed jet of hot gases, etc at the back 喷气发动机. =>illus at aircraft 见aircraft插图.\njet lag \ndelayed physical effects of tiredness, etc felt after a long flight by plane, esp when there is a great difference in the local times at which the journey begins and ends 喷气飞行时差反应（长途飞行後延缓的身体疲劳反应, 尤因两地时差悬殊所致）. \njet-lagged \nadj affected by jet lag 有喷气飞行时差反应的.\njet-propelled \nadj powered by jet engines 喷气推进的. \njet propulsion\nn [U].\nthe jet set \nrich fashionable social group who travel about the world for business or pleasure 喷气机阶层（乘喷气机往来於世界各地公干或旅游的有钱人）: I see she's joining the jet set! 我看她是进入了喷气机阶层. \njet-setter \nn member of the jet set 喷气机阶层的成员.",
+    "phonetic": "/ dʒet; dʒet/",
+    "origin": "待查",
+    "expansions": [
+      "The accident happened as the jet was about to take off. 喷气式飞机正要起飞时出了事故.",
+      "travel by jet 乘喷气式飞机",
+      "[attrib 作定语] a jet fighter, airliner, etc 喷气式战斗机、 班机等",
+      "the age of jet travel 乘喷气机的时代. 2 (a) strong narrow stream of gas, liquid, steam or flame, forced out of a small opening 喷射: The pipe burst and jets of water shot across the kitchen. 管子破了, 水从厨房的这边喷到那边. (b) narrow opening from which this comes 喷嘴; 喷射口: clean the gas jets on the cooker 把煤气炉的喷嘴弄乾净.",
+      "politicians who constantly jet around the world 乘喷气式飞机往来於世界各地的政治家. 2 (phr v) jet (sth) from/out of sth; jet (sth) out (cause sth to) come out in a jet or jets （使某物）喷出: Flames jetted out (of the nozzles). 火焰（从喷嘴中）喷出来了."
+    ],
+    "pronunciation": "/ dʒet; dʒet/",
+    "accepted_answers": [
+      "喷气式飞机",
+      "喷气式飞机正要起飞时出了事故",
+      "乘喷气式飞机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jetty",
+    "type": "word",
+    "pos": "N",
+    "translation": "防波堤；突堤；码头",
+    "analysis": "n stone wall or wooden platform built out into a sea, river, etc as a breakwater or landing-place for boats 防波堤; 突堤; 码头. Cf 参看 pier.",
+    "phonetic": "/ ˈdʒetɪ; ˈdʒetɪ/",
+    "origin": "待查",
+    "expansions": [
+      "防波堤；突堤；码头"
+    ],
+    "pronunciation": "/ ˈdʒetɪ; ˈdʒetɪ/",
+    "accepted_answers": [
+      "防波堤",
+      "突堤",
+      "码头"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jew",
+    "type": "word",
+    "pos": "N",
+    "translation": "犹太人；犹太教徒",
+    "analysis": "n person of the Hebrew people or religion 犹太人; 犹太教徒.",
+    "phonetic": "/ dʒuː; dʒu/",
+    "origin": "待查",
+    "expansions": [
+      "犹太人；犹太教徒"
+    ],
+    "pronunciation": "/ dʒuː; dʒu/",
+    "accepted_answers": [
+      "犹太人",
+      "犹太教徒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jewess",
+    "type": "word",
+    "pos": "N",
+    "translation": "有时作轻蔑语)；犹太女子",
+    "analysis": "n (sometimes offensive 有时作轻蔑语) Jewish woman 犹太女子.",
+    "phonetic": "/ ˈdʒuːɪs; ˈdʒuɪs/",
+    "origin": "待查",
+    "expansions": [
+      "有时作轻蔑语)；犹太女子"
+    ],
+    "pronunciation": "/ ˈdʒuːɪs; ˈdʒuɪs/",
+    "accepted_answers": [
+      "有时作轻蔑语)",
+      "犹太女子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jewry",
+    "type": "word",
+    "pos": "N",
+    "translation": "犹太人（总称）；世界上的犹太人；犹太人的宗教或文化",
+    "analysis": "n  1 [Gp] Jewish people collectively犹太人（总称）: world Jewry 世界上的犹太人.  2 [U] Jewish religion or culture 犹太人的宗教或文化. =>Usage at Christian 用法见Christian.\nJew's harp \nsmall musical instrument held between the teeth with a projecting metal strip that is struck with a finger 单簧口琴（含在齿间, 用手指拨奏外伸的金属片）.",
+    "phonetic": "/ ˈdʒUərɪ; ˈdʒJrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "world Jewry 世界上的犹太人. 2 [U] Jewish religion or culture 犹太人的宗教或文化. =>Usage at Christian 用法见Christian."
+    ],
+    "pronunciation": "/ ˈdʒUərɪ; ˈdʒJrɪ/",
+    "accepted_answers": [
+      "犹太人（总称）",
+      "世界上的犹太人",
+      "犹太人的宗教或文化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jig",
+    "type": "word",
+    "pos": "N",
+    "translation": "吉格舞；吉格舞曲；夹具",
+    "analysis": "n  1 (music for a) quick lively dance 吉格舞; 吉格舞曲.  2 device that holds a piece of work in position and guides the tools that are working on it 夹具.\njig \nv (-gg-)  1 [I] dance a jig 跳吉格舞.  2 [I, Ip, Tn, Tn.p] (cause sb/sth to) move up and down in a quick jerky way （使某人[某物]）急速颠簸: jigging up and down in excitement 兴奋得又蹦又跳 * to jig a baby (up and down) on one's knee 把婴儿放在膝上（上下）颠动.",
+    "phonetic": "/ dʒɪg; dʒɪg/",
+    "origin": "待查",
+    "expansions": [
+      "jigging up and down in excitement 兴奋得又蹦又跳",
+      "to jig a baby (up and down) on one's knee 把婴儿放在膝上（上下）颠动."
+    ],
+    "pronunciation": "/ dʒɪg; dʒɪg/",
+    "accepted_answers": [
+      "吉格舞",
+      "吉格舞曲",
+      "夹具"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jiggered",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "作表语；口)；旧)(",
+    "analysis": "adj [pred 作表语] (infml 口)  1 (dated 旧) (used as a mild expression of surprise, anger, etc 用以表示轻度的惊奇、 愤怒等): Well I'm jiggered! 哪有这种事!  2 exhausted 精疲力竭: I was completely jiggered. 我完全累垮了.",
+    "phonetic": "/ ˈdʒɪgəd; ˈdʒɪgəd/",
+    "origin": "待查",
+    "expansions": [
+      "Well I'm jiggered! 哪有这种事! 2 exhausted 精疲力竭: I was completely jiggered. 我完全累垮了."
+    ],
+    "pronunciation": "/ ˈdʒɪgəd; ˈdʒɪgəd/",
+    "accepted_answers": [
+      "作表语",
+      "口)",
+      "旧)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jiggle",
+    "type": "word",
+    "pos": "V",
+    "translation": "口)(；（使某物）很快地左右或上下移动；随著音乐摇摆",
+    "analysis": "v [I, Tn] (infml 口) (cause sth to) move lightly and quickly from side to side or up and down （使某物）很快地左右或上下移动: jiggling in time to the music 随著音乐摇摆 * jiggle a key in a lock 轻轻转动锁里的钥匙.",
+    "phonetic": "/ ˈdʒɪgl; ˈdʒɪgl/",
+    "origin": "待查",
+    "expansions": [
+      "jiggling in time to the music 随著音乐摇摆",
+      "jiggle a key in a lock 轻轻转动锁里的钥匙."
+    ],
+    "pronunciation": "/ ˈdʒɪgl; ˈdʒɪgl/",
+    "accepted_answers": [
+      "口)(",
+      "（使某物）很快地左右或上下移动",
+      "随著音乐摇摆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jigsaw",
+    "type": "word",
+    "pos": "N",
+    "translation": "拼图玩具；做拼图游戏；你拼好那个拼图了吗",
+    "analysis": "n  1 (also `jigsaw puzzle) picture, map, etc pasted on cardboard or wood and cut into irregular shapes that have to be fitted together again 拼图玩具: do a jigsaw 做拼图游戏 * Have you finished the jigsaw yet? 你拼好那个拼图了吗? * (fig 比喻) a complex jigsaw of interlocking social and economic factors 相关联的社会和经济因素的相互交错. =>illus 见插图.  2 mechanically operated fretsaw 锯曲线机; 线锯; 镂花锯.",
+    "phonetic": "/ ˈdʒɪgsɔː; ˈdʒɪgˌsɔː/",
+    "origin": "待查",
+    "expansions": [
+      "do a jigsaw 做拼图游戏",
+      "Have you finished the jigsaw yet? 你拼好那个拼图了吗?",
+      "(fig 比喻) a complex jigsaw of interlocking social and economic factors 相关联的社会和经济因素的相互交错. =>illus 见插图. 2 mechanically operated fretsaw 锯曲线机; 线锯; 镂花锯."
+    ],
+    "pronunciation": "/ ˈdʒɪgsɔː; ˈdʒɪgˌsɔː/",
+    "accepted_answers": [
+      "拼图玩具",
+      "做拼图游戏",
+      "你拼好那个拼图了吗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jim crow",
     "type": "word",
     "translation": "贬；蔑)；黑人；黑人法（对美国黑人不公正的法律）",
@@ -149,6 +827,133 @@
     }
   },
   {
+    "term": "jingle",
+    "type": "word",
+    "pos": "N",
+    "translation": "（金属发出的）叮当声（如硬币、钥匙或小铃的声音）；他衣袋里硬币的叮当声；（吸引人又易记的）简短的韵文或歌曲（尤指广播或电视广告中的）",
+    "analysis": "n  1 [sing] metallic ringing or clinking sound, as of coins, keys or small bells （金属发出的）叮当声（如硬币、 钥匙或小铃的声音）: the jingle of coins in his pocket 他衣袋里硬币的叮当声.  2 [C] short simple rhyme or song that is designed to attract attention and be easily remembered, esp one used in advertising on radio or television （吸引人又易记的）简短的韵文或歌曲（尤指广播或电视广告中的）: an advertising jingle 广告顺口溜.\njingle \nv [I, Tn] (cause sth to) make a gentle ringing or clinking sound （使某物）发出叮当声: The coins jingled in his pocket. 他衣袋里的硬币叮当作响. * the sound of jingling bracelets and bangles 手镯、 脚镯的叮当声 * Stop jingling your keys like that! 别把钥匙弄得叮当乱响!",
+    "phonetic": "/ ˈdʒɪŋgl; ˈdʒɪŋgl/",
+    "origin": "待查",
+    "expansions": [
+      "the jingle of coins in his pocket 他衣袋里硬币的叮当声. 2 [C] short simple rhyme or song that is designed to attract attention and be easily remembered, esp one used in advertising on radio or television （吸引人又易记的）简短的韵文或歌曲（尤指广播或电视广告中的）: an advertising jingle 广告顺口溜.",
+      "The coins jingled in his pocket. 他衣袋里的硬币叮当作响.",
+      "the sound of jingling bracelets and bangles 手镯、 脚镯的叮当声",
+      "Stop jingling your keys like that! 别把钥匙弄得叮当乱响!"
+    ],
+    "pronunciation": "/ ˈdʒɪŋgl; ˈdʒɪŋgl/",
+    "accepted_answers": [
+      "（金属发出的）叮当声（如硬币、钥匙或小铃的声音）",
+      "他衣袋里硬币的叮当声",
+      "（吸引人又易记的）简短的韵文或歌曲（尤指广播或电视广告中的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jinx",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作单数)；)(；口)(",
+    "analysis": "n (usu sing 通常作单数) ~ (on sb/sth) (infml 口) (person or thing that is thought to bring) bad luck (to sb/sth); curse 厄运; 不祥的人或事物; 祸根: There's a jinx on/Someone's put a jinx on this car: it's always giving me trouble. 这辆汽车上有什麽妨人的东西, 总给我找麻烦.\njinx \nv [Tn usu passive 通常用於被动语态] (infml 口) bring bad luck to (sb/sth) 给（某人[某事]）带来厄运: I've been jinxed! 我一直走背运! * I think this computer must be jinxed  it's always breaking down. 这计算机一定闹鬼了--总出毛病.",
+    "phonetic": "/ dʒɪŋks; dʒɪŋks/",
+    "origin": "待查",
+    "expansions": [
+      "There's a jinx on/Someone's put a jinx on this car: it's always giving me trouble. 这辆汽车上有什麽妨人的东西, 总给我找麻烦.",
+      "I've been jinxed! 我一直走背运!",
+      "I think this computer must be jinxed it's always breaking down. 这计算机一定闹鬼了--总出毛病."
+    ],
+    "pronunciation": "/ dʒɪŋks; dʒɪŋks/",
+    "accepted_answers": [
+      "通常作单数)",
+      ")(",
+      "口)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jocosity",
+    "type": "word",
+    "pos": "N",
+    "translation": "jocosity",
+    "analysis": "n [U].",
+    "phonetic": "/ dʒəʊˈkɒsətɪ; dʒoˈkɑːsətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "jocosity"
+    ],
+    "pronunciation": "/ dʒəʊˈkɒsətɪ; dʒoˈkɑːsətɪ/",
+    "accepted_answers": [
+      "jocosity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jodhpurs",
+    "type": "word",
+    "pos": "N",
+    "translation": "马裤；一条马裤",
+    "analysis": "n [pl] trousers worn for horse-riding, loose above the knee and close fitting from the knee to the ankle 马裤: a pair of jodhpurs 一条马裤.",
+    "phonetic": "/ ˈdʒɒdpəz; ˈdʒɑːdpəz/",
+    "origin": "待查",
+    "expansions": [
+      "a pair of jodhpurs 一条马裤."
+    ],
+    "pronunciation": "/ ˈdʒɒdpəz; ˈdʒɑːdpəz/",
+    "accepted_answers": [
+      "马裤",
+      "一条马裤"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "john",
+    "type": "word",
+    "pos": "N",
+    "translation": "俚)；厕所；去厕所",
+    "analysis": "n (US sl 俚) toilet 厕所: go to the john 去厕所.",
+    "phonetic": "/ dʒɒn; dʒɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "go to the john 去厕所."
+    ],
+    "pronunciation": "/ dʒɒn; dʒɑːn/",
+    "accepted_answers": [
+      "俚)",
+      "厕所",
+      "去厕所"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "joie de vivre",
     "type": "word",
     "translation": "法)；生活的乐趣；充满生活乐趣",
@@ -172,6 +977,109 @@
     }
   },
   {
+    "term": "jonquil",
+    "type": "word",
+    "pos": "N",
+    "translation": "长寿花；黄水仙",
+    "analysis": "n type of narcissus with white or yellow sweet-smelling flowers 长寿花; 黄水仙.",
+    "phonetic": "/ ˈdʒɒŋkwɪl; ˈdʒɑːŋkwɪl/",
+    "origin": "待查",
+    "expansions": [
+      "长寿花；黄水仙"
+    ],
+    "pronunciation": "/ ˈdʒɒŋkwɪl; ˈdʒɑːŋkwɪl/",
+    "accepted_answers": [
+      "长寿花",
+      "黄水仙"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jostle",
+    "type": "word",
+    "pos": "V",
+    "translation": "推、挤（某人）（通常於人群中）；那些青年人在人行道上推推搡搡挤著了一个老太太；)(",
+    "analysis": "v [I, Ipr, Tn]  1 ~ (against sb) push roughly against (sb), usu in a crowd 推、 挤（某人）（通常於人群中）: The youths jostled (against) an old lady on the pavement. 那些青年人在人行道上推推搡搡挤著了一个老太太.  2 ~ (with sb) (for sth) compete with (other people) in a forceful manner in order to gain sth 与（他人）争夺某物; 争抢: advertisers jostling (with each other) for the public's attention 竞相吸引公众注意力的广告客户.",
+    "phonetic": "/ ˈdʒɒsl; ˈdʒɑːsl/",
+    "origin": "待查",
+    "expansions": [
+      "The youths jostled (against) an old lady on the pavement. 那些青年人在人行道上推推搡搡挤著了一个老太太. 2 ~ (with sb) (for sth) compete with (other people) in a forceful manner in order to gain sth 与（他人）争夺某物; 争抢: advertisers jostling (with each other) for the public's attention 竞相吸引公众注意力的广告客户."
+    ],
+    "pronunciation": "/ ˈdʒɒsl; ˈdʒɑːsl/",
+    "accepted_answers": [
+      "推、挤（某人）（通常於人群中）",
+      "那些青年人在人行道上推推搡搡挤著了一个老太太",
+      ")("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "journal",
+    "type": "word",
+    "pos": "N",
+    "translation": "报纸；定期刊物（尤指涉及某一学科的）；医学、科学、教育等杂志",
+    "analysis": "n  1 newspaper or periodical, esp one that is serious and deals with a specialized subject 报纸; 定期刊物（尤指涉及某一学科的）: a medical, a scientific, an educational, etc journal 医学、 科学、 教育等杂志 * a trade journal 贸易杂志 * The Wall Street Journal 《华尔街日报》 * The Architects' Journal 《建筑师杂志》 * subscribe to a journal 订阅报纸.  2 daily record of news, events, business transactions, etc 日记; 日志; 流水帐: He kept a journal of his wanderings across Asia. 他记自己漫游亚洲的日记.",
+    "phonetic": "/ ˈdʒɜːnl; ˈdʒɜːnl/",
+    "origin": "待查",
+    "expansions": [
+      "a medical, a scientific, an educational, etc journal 医学、 科学、 教育等杂志",
+      "a trade journal 贸易杂志",
+      "The Wall Street Journal 《华尔街日报》",
+      "The Architects' Journal 《建筑师杂志》",
+      "subscribe to a journal 订阅报纸. 2 daily record of news, events, business transactions, etc 日记; 日志; 流水帐: He kept a journal of his wanderings across Asia. 他记自己漫游亚洲的日记."
+    ],
+    "pronunciation": "/ ˈdʒɜːnl; ˈdʒɜːnl/",
+    "accepted_answers": [
+      "报纸",
+      "定期刊物（尤指涉及某一学科的）",
+      "医学、科学、教育等杂志"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "journeyman",
+    "type": "word",
+    "pos": "N",
+    "translation": "熟练工人；熟练的印刷工人；可靠能干但不出色的工人",
+    "analysis": "n (pl -men /-mEn; -mEn/)  1 trained worker who works for an employer 熟练工人: [attrib 作定语] a journeyman printer 熟练的印刷工人.  2 reliable and competent but not outstanding worker 可靠能干但不出色的工人: [attrib 作定语] a journeyman artist 匠气的艺术家.",
+    "phonetic": "/ ˈdʒɜːnɪmən; ˈdʒɜːnɪmən/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] a journeyman printer 熟练的印刷工人. 2 reliable and competent but not outstanding worker 可靠能干但不出色的工人: [attrib 作定语] a journeyman artist 匠气的艺术家."
+    ],
+    "pronunciation": "/ ˈdʒɜːnɪmən; ˈdʒɜːnɪmən/",
+    "accepted_answers": [
+      "熟练工人",
+      "熟练的印刷工人",
+      "可靠能干但不出色的工人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jovially",
     "type": "word",
     "pos": "Adv",
@@ -185,6 +1093,31 @@
     "pronunciation": "/ -ɪəlɪ; -ɪəlɪ/",
     "accepted_answers": [
       "jovially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joyfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "不快乐的；忧郁的；悲伤的",
+    "analysis": "adv.\njoyfulness \nn [U].\njoyless \nadj without joy; gloomy or miserable 不快乐的; 忧郁的; 悲伤的: a joyless marriage, childhood, etc 没有乐趣的婚姻、 童年等. \njoylessly \nadv. \njoylessness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "a joyless marriage, childhood, etc 没有乐趣的婚姻、 童年等."
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "不快乐的",
+      "忧郁的",
+      "悲伤的"
     ],
     "added_at": "",
     "review": {
@@ -218,6 +1151,32 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jubilant",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；欢欣的；欣喜的（尤指由於成功）；利物浦队夺得优胜杯後喜气洋洋",
+    "analysis": "adj (fml 文) ~ (about/at/over sth) showing great happiness, esp because of a success 欢欣的, 欣喜的（尤指由於成功）: Liverpool were in a jubilant mood after their cup victory. 利物浦队夺得优胜杯後喜气洋洋.\njubilantly \nadv.",
+    "phonetic": "/ ˈdʒuːbɪlənt; ˈdʒublənt/",
+    "origin": "待查",
+    "expansions": [
+      "Liverpool were in a jubilant mood after their cup victory. 利物浦队夺得优胜杯後喜气洋洋."
+    ],
+    "pronunciation": "/ ˈdʒuːbɪlənt; ˈdʒublənt/",
+    "accepted_answers": [
+      "文)",
+      "欢欣的",
+      "欣喜的（尤指由於成功）",
+      "利物浦队夺得优胜杯後喜气洋洋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jubilee",
     "type": "word",
     "pos": "N",
@@ -232,6 +1191,56 @@
     "accepted_answers": [
       "周年纪念（的庆祝）",
       "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judaism",
+    "type": "word",
+    "pos": "N",
+    "translation": "犹太教；犹太人的文化",
+    "analysis": "n [U] religion of the Jewish people; their culture 犹太教; 犹太人的文化.",
+    "phonetic": "/ ˈdʒuːdeɪɪzəm; -dɪɪzəm; ˈdʒudɪˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "犹太教；犹太人的文化"
+    ],
+    "pronunciation": "/ ˈdʒuːdeɪɪzəm; -dɪɪzəm; ˈdʒudɪˌɪzəm/",
+    "accepted_answers": [
+      "犹太教",
+      "犹太人的文化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judder",
+    "type": "word",
+    "pos": "V",
+    "translation": "猛烈地震动；飞机猛烈地震动後停住了；猛烈的震动",
+    "analysis": "v [I, Ipr, Ip] shake violently 猛烈地震动: The plane juddered to a halt, ie shook violently and then stopped. 飞机猛烈地震动後停住了.\njudder \nn [sing] violent shaking 猛烈的震动: The engine gave a sudden judder. 发动机猛然一震.",
+    "phonetic": "/ ˈdʒʌdə(r); ˈdʒʌdə/",
+    "origin": "待查",
+    "expansions": [
+      "The plane juddered to a halt, ie shook violently and then stopped. 飞机猛烈地震动後停住了.",
+      "The engine gave a sudden judder. 发动机猛然一震."
+    ],
+    "pronunciation": "/ ˈdʒʌdə(r); ˈdʒʌdə/",
+    "accepted_answers": [
+      "猛烈地震动",
+      "飞机猛烈地震动後停住了",
+      "猛烈的震动"
     ],
     "added_at": "",
     "review": {
@@ -298,6 +1307,81 @@
     ]
   },
   {
+    "term": "jujube",
+    "type": "word",
+    "pos": "N",
+    "translation": "软糖",
+    "analysis": "n small flavoured jelly-like sweet 软糖.",
+    "phonetic": "/ ˈdʒuːdʒuːb; ˈdʒudʒub/",
+    "origin": "待查",
+    "expansions": [
+      "软糖"
+    ],
+    "pronunciation": "/ ˈdʒuːdʒuːb; ˈdʒudʒub/",
+    "accepted_answers": [
+      "软糖"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "julep",
+    "type": "word",
+    "pos": "N",
+    "translation": "含酒（通常为威士忌）、糖、薄荷及冰的饮料；薄荷酒清凉饮料",
+    "analysis": "n [C, U] (US) alcoholic drink made from spirit (usu whisky), sugar, mint and ice 含酒（通常为威士忌）、 糖、 薄荷及冰的饮料: mint julep 薄荷酒清凉饮料.",
+    "phonetic": "/ ˈdʒuːlɪp; ˈdʒulɪp/",
+    "origin": "待查",
+    "expansions": [
+      "mint julep 薄荷酒清凉饮料."
+    ],
+    "pronunciation": "/ ˈdʒuːlɪp; ˈdʒulɪp/",
+    "accepted_answers": [
+      "含酒（通常为威士忌）、糖、薄荷及冰的饮料",
+      "薄荷酒清凉饮料"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jumble",
+    "type": "word",
+    "pos": "V",
+    "translation": "通常用於被动语态；将（东西）胡乱混在一起；玩具、书、鞋、衣服都杂乱地堆在地上",
+    "analysis": "v [usu passive 通常用於被动语态: Tn, Tn.p] ~ sth (up) mix (things) in a confusedway 将（东西）胡乱混在一起: Toys, books, shoes and clothes were jumbled (up) on the floor. 玩具、 书、 鞋、 衣服都杂乱地堆在地上. * (fig 比喻) Details of the accident were all jumbled up in his mind. 该事故的详情在他头脑中已混在一起.\njumble \nn  1 [sing] ~ (of sth) confused or untidy group of things; muddle 杂乱的一堆东西; 一团糟: a jumble of books and papers on the table 桌子上凌乱的一堆书和报纸.  2 [U] (Brit) mixed collection of old unwanted goods for a jumble sale 待义卖的旧杂物.\njumble sale (Brit) (US rummage sale) \nsale of a mixed collection of old unwanted goods in order to raise money, usu for a charity 旧杂物义卖（通常为慈善筹款）: hold a jumble sale in aid of hospital funds 为医院筹措基金举行旧物义卖.",
+    "phonetic": "/ ˈdʒʌmbl; ˈdʒʌmbl/",
+    "origin": "待查",
+    "expansions": [
+      "Tn, Tn.p] ~ sth (up) mix (things) in a confusedway 将（东西）胡乱混在一起: Toys, books, shoes and clothes were jumbled (up) on the floor. 玩具、 书、 鞋、 衣服都杂乱地堆在地上.",
+      "(fig 比喻) Details of the accident were all jumbled up in his mind. 该事故的详情在他头脑中已混在一起.",
+      "a jumble of books and papers on the table 桌子上凌乱的一堆书和报纸. 2 [U] (Brit) mixed collection of old unwanted goods for a jumble sale 待义卖的旧杂物.",
+      "hold a jumble sale in aid of hospital funds 为医院筹措基金举行旧物义卖."
+    ],
+    "pronunciation": "/ ˈdʒʌmbl; ˈdʒʌmbl/",
+    "accepted_answers": [
+      "通常用於被动语态",
+      "将（东西）胡乱混在一起",
+      "玩具、书、鞋、衣服都杂乱地堆在地上"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "june",
     "type": "word",
     "pos": "N",
@@ -313,6 +1397,138 @@
       "缩写",
       "六月",
       "关於"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jungly",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)；（似）丛林地带的；丛林地带居民的",
+    "analysis": "adj (infml 口) of, like or from the jungle or its inhabitants （似）丛林地带的; 丛林地带居民的.\njungle fever \ntype of severe malarial fever 丛林热（恶性疟疾）.",
+    "phonetic": "/ ˈdʒʌŋglɪ; ˈdʒʌŋglɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；（似）丛林地带的；丛林地带居民的"
+    ],
+    "pronunciation": "/ ˈdʒʌŋglɪ; ˈdʒʌŋglɪ/",
+    "accepted_answers": [
+      "口)",
+      "（似）丛林地带的",
+      "丛林地带居民的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juniper",
+    "type": "word",
+    "pos": "N",
+    "translation": "桧；刺柏；杜松（常绿灌木；生有紫红色浆果供药用及杜松子酒调味之用）",
+    "analysis": "n evergreen bush with purple berries which are used in medicine and as a flavouring in gin 桧, 刺柏, 杜松（常绿灌木, 生有紫红色浆果供药用及杜松子酒调味之用）.",
+    "phonetic": "/ ˈdʒuːnɪpə(r); ˈdʒunəpə/",
+    "origin": "待查",
+    "expansions": [
+      "桧；刺柏；杜松（常绿灌木；生有紫红色浆果供药用及杜松子酒调味之用）"
+    ],
+    "pronunciation": "/ ˈdʒuːnɪpə(r); ˈdʒunəpə/",
+    "accepted_answers": [
+      "桧",
+      "刺柏",
+      "杜松（常绿灌木",
+      "生有紫红色浆果供药用及杜松子酒调味之用）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "junk",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；无用的或无价值的东西；汽车行李箱中的所有废旧杂物",
+    "analysis": "n [U]  1 (infml 口) things that are considered useless or of little value 无用的或无价值的东西: all that junk in the boot of the car 汽车行李箱中的所有废旧杂物 * You read too much junk, ie low-quality books. 你看低水平的书看得太多了.  2 old or unwanted things that are sold cheaply 廉价出售的废旧杂物: pick up some interesting junk 买些有趣的旧货 * [attrib 作定语] a junk shop 旧货店.  3 (sl 俚) narcotic drug; heroin 麻醉药; 海洛因.\njunk food \n(infml derog 口, 贬) food (eg potato crisps) eaten as a snack and usu thought to be not good for one's health 通常认为不利健康的小吃（如炸马铃薯条）.",
+    "phonetic": "/ dʒʌŋk; dʒʌŋk/",
+    "origin": "待查",
+    "expansions": [
+      "all that junk in the boot of the car 汽车行李箱中的所有废旧杂物",
+      "You read too much junk, ie low-quality books. 你看低水平的书看得太多了. 2 old or unwanted things that are sold cheaply 廉价出售的废旧杂物: pick up some interesting junk 买些有趣的旧货",
+      "[attrib 作定语] a junk shop 旧货店. 3 (sl 俚) narcotic drug; heroin 麻醉药; 海洛因."
+    ],
+    "pronunciation": "/ dʒʌŋk; dʒʌŋk/",
+    "accepted_answers": [
+      "口)",
+      "无用的或无价值的东西",
+      "汽车行李箱中的所有废旧杂物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "justify",
+    "type": "word",
+    "pos": "V",
+    "translation": "表明或证明（某人；某事；）是正当的、有理的或公正的",
+    "analysis": "v (pt, pp -fied)  1 [Tn, Tg, Tsg] show that (sb/sth) is right, reasonable or just 表明或证明（某人[某事]）是正当的、 有理的或公正的: Such action can be justified on the grounds of greater efficiency. 以提高功效为依据可以证明采取这种措施是 正确的. * You shouldn't attempt to justify yourself. 你不应想方设法证明自己有理. * You can't justify neglecting your wife and children. 你不关心妻子儿女是说不过去的. * They found it hard to justify their son's giving up a secure well-paid job. 他们难以理解儿子竟放弃了收入颇丰的稳定工作.  2 [Tn, Tg, Tsg] be a good reason for (sth) 为（某事）的正当理由: Improved productivity justifies an increase in wages. 提高了生产力理应增加工资. * Tiredness cannot possibly justify your treating staff this way. 你不能以疲劳为理由就这样对待职工.  3 [Tn] arrange (lines of type) so that the margins are even 调整（各行铅字等的位置）使版面四周空白均匀: a justified text 四周空白均匀的版面.  4 (idm 习语) the end justifies the means => end1.",
+    "phonetic": "/ ˈdʒʌstɪfaɪ; ˈdʒʌstəˌfaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "Such action can be justified on the grounds of greater efficiency. 以提高功效为依据可以证明采取这种措施是 正确的.",
+      "You shouldn't attempt to justify yourself. 你不应想方设法证明自己有理.",
+      "You can't justify neglecting your wife and children. 你不关心妻子儿女是说不过去的.",
+      "They found it hard to justify their son's giving up a secure well-paid job. 他们难以理解儿子竟放弃了收入颇丰的稳定工作. 2 [Tn, Tg, Tsg] be a good reason for (sth) 为（某事）的正当理由: Improved productivity justifies an increase in wages. 提高了生产力理应增加工资.",
+      "Tiredness cannot possibly justify your treating staff this way. 你不能以疲劳为理由就这样对待职工. 3 [Tn] arrange (lines of type) so that the margins are even 调整（各行铅字等的位置）使版面四周空白均匀: a justified text 四周空白均匀的版面. 4 (idm 习语) the end justifies the means => end1."
+    ],
+    "pronunciation": "/ ˈdʒʌstɪfaɪ; ˈdʒʌstəˌfaɪ/",
+    "accepted_answers": [
+      "表明或证明（某人",
+      "某事",
+      "）是正当的、有理的或公正的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juxtapose",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；将（人或事物）并列或并置（尤指为显示差别）；将古典的与现代的建筑风格并列对照",
+    "analysis": "v [Tn] (fml 文) place (people or things) side by side or very close together, esp to show a contrast 将（人或事物）并列或并置（尤指为显示差别）: juxtapose the classical style of architecture with the modern 将古典的与现代的建筑风格并列对照.",
+    "phonetic": "/ ˌdʒʌkstəˈpəʊz; ˌdʒʌkstəˈpoz/",
+    "origin": "待查",
+    "expansions": [
+      "juxtapose the classical style of architecture with the modern 将古典的与现代的建筑风格并列对照."
+    ],
+    "pronunciation": "/ ˌdʒʌkstəˈpəʊz; ˌdʒʌkstəˈpoz/",
+    "accepted_answers": [
+      "文)",
+      "将（人或事物）并列或并置（尤指为显示差别）",
+      "将古典的与现代的建筑风格并列对照"
     ],
     "added_at": "",
     "review": {

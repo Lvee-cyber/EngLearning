@@ -870,6 +870,31 @@
     }
   },
   {
+    "term": "wallet",
+    "type": "word",
+    "pos": "N",
+    "translation": "钱夹；皮夹（尤用以放纸币、证件等的）；参看",
+    "analysis": "(US also `billfold, `pocket-book)n small flat folding case, usu made of leather, carried in the pocket and used esp for holding banknotes, documents, etc 钱夹, 皮夹（尤用以放纸币、 证件等的）. Cf 参看 purse1 1.",
+    "phonetic": "/ ˈwɒlɪt; ˈwɑːlɪt/",
+    "origin": "待查",
+    "expansions": [
+      "钱夹；皮夹（尤用以放纸币、证件等的）；参看"
+    ],
+    "pronunciation": "/ ˈwɒlɪt; ˈwɑːlɪt/",
+    "accepted_answers": [
+      "钱夹",
+      "皮夹（尤用以放纸币、证件等的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "wallop",
     "type": "word",
     "translation": "口)；痛打（某人；某物",
@@ -2240,6 +2265,31 @@
     }
   },
   {
+    "term": "wattle",
+    "type": "word",
+    "pos": "N",
+    "translation": "编条结构（用作篱笆、围墙等）；（澳洲产的）金合欢树；泥笆墙（尤指旧时的）",
+    "analysis": "n  1 [U] structure of sticks or twigs woven under and over thicker upright sticks, used for fences, walls, etc 编条结构（用作篱笆、 围墙等）.  2 [C, U] any of several types of Australian acacia with long pliant branches and golden flowers （澳洲产的）金合欢树.\nwattle and daub \nwattle1(1) covered with mud or clay and used, esp formerly, as a building-material for walls and roofs 泥笆墙（尤指旧时的）.",
+    "phonetic": "/ ˈwɒtl; ˈwɑːtl/",
+    "origin": "待查",
+    "expansions": [
+      "编条结构（用作篱笆、围墙等）；（澳洲产的）金合欢树；泥笆墙（尤指旧时的）"
+    ],
+    "pronunciation": "/ ˈwɒtl; ˈwɑːtl/",
+    "accepted_answers": [
+      "编条结构（用作篱笆、围墙等）",
+      "（澳洲产的）金合欢树",
+      "泥笆墙（尤指旧时的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "wave",
     "type": "word",
     "translation": "（指固定的物体）往复或上下摆动或摇动；在微风中飘扬的旗子；随风摇动的树枝",
@@ -2515,6 +2565,29 @@
     }
   },
   {
+    "term": "we'll",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式  1 we shall => shall.  2 we will => will1.",
+    "phonetic": "/ wiːl; wil/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ wiːl; wil/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "weak",
     "type": "word",
     "translation": "弱的；无气力的；无势力的",
@@ -2768,6 +2841,29 @@
     }
   },
   {
+    "term": "wearily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "wearily",
+    "analysis": "adv.\nweariness \nn [U].",
+    "phonetic": "/ ˈwɪərəlɪ; ˈwɪrəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "wearily"
+    ],
+    "pronunciation": "/ ˈwɪərəlɪ; ˈwɪrəlɪ/",
+    "accepted_answers": [
+      "wearily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "wearing",
     "type": "word",
     "translation": "令人疲倦的；令人厌烦的；我这一天很累",
@@ -2950,6 +3046,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "webbing",
+    "type": "word",
+    "pos": "N",
+    "translation": "结实的带状织物（用作家具装饰、地毯边、带子等）",
+    "analysis": "n [U] strong bands of woven fabric used in upholstery, for binding the edges of carpets and for making belts, etc 结实的带状织物（用作家具装饰、 地毯边、 带子等）.",
+    "phonetic": "/ ˈwebɪŋ; ˈwebɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "结实的带状织物（用作家具装饰、地毯边、带子等）"
+    ],
+    "pronunciation": "/ ˈwebɪŋ; ˈwebɪŋ/",
+    "accepted_answers": [
+      "结实的带状织物（用作家具装饰、地毯边、带子等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "wed",
@@ -3208,6 +3327,31 @@
     }
   },
   {
+    "term": "weft",
+    "type": "word",
+    "pos": "N",
+    "translation": "（纺织）纬纱；纬线；插图",
+    "analysis": "n the weft [sing] (in weaving) threads taken crosswise over and under the lengthwise threads of the warp （纺织）纬纱, 纬线. =>illus at weave 见 weave 插图.",
+    "phonetic": "/ weft; weft/",
+    "origin": "待查",
+    "expansions": [
+      "（纺织）纬纱；纬线；插图"
+    ],
+    "pronunciation": "/ weft; weft/",
+    "accepted_answers": [
+      "（纺织）纬纱",
+      "纬线",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "weigh",
     "type": "word",
     "translation": "称（某物）的重量；他在浴室的磅秤上称体重；要洗的衣物须称过重量再放入洗衣机中",
@@ -3258,6 +3402,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "weightily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "举重；举重运动员",
+    "analysis": "adv.\nweightiness \nn [U].\nweight-lifting \nn [U] lifting heavy objects as a sport or as exercise 举重. \nweight-lifter \nn person who does weight-lifting 举重运动员.",
+    "phonetic": "/ -ɪlɪ; -əlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "举重；举重运动员"
+    ],
+    "pronunciation": "/ -ɪlɪ; -əlɪ/",
+    "accepted_answers": [
+      "举重",
+      "举重运动员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
+    "term": "weir",
+    "type": "word",
+    "pos": "N",
+    "translation": "拦河坝；鱼簖",
+    "analysis": "n  1 wall or barrier built across a river in order to control or divert the flow of water 堰; 拦河坝.  2 fence made of stakes or branches put across a stream in order to make a pool where fish may be caught 鱼簖.",
+    "phonetic": "/ wɪə(r); wɪr/",
+    "origin": "待查",
+    "expansions": [
+      "拦河坝；鱼簖"
+    ],
+    "pronunciation": "/ wɪə(r); wɪr/",
+    "accepted_answers": [
+      "拦河坝",
+      "鱼簖"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "weird",
@@ -3537,6 +3729,31 @@
     }
   },
   {
+    "term": "wen",
+    "type": "word",
+    "pos": "N",
+    "translation": "表皮囊肿；皮脂囊肿；粉瘤（尤指头部的）",
+    "analysis": "n harmless, usu permanent, tumour on the skin, esp on the head 表皮囊肿, 皮脂囊肿, 粉瘤（尤指头部的）.",
+    "phonetic": "/ wen; wen/",
+    "origin": "待查",
+    "expansions": [
+      "表皮囊肿；皮脂囊肿；粉瘤（尤指头部的）"
+    ],
+    "pronunciation": "/ wen; wen/",
+    "accepted_answers": [
+      "表皮囊肿",
+      "皮脂囊肿",
+      "粉瘤（尤指头部的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "wend",
     "type": "word",
     "translation": "习语)；古或谑)；离开",
@@ -3558,6 +3775,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wesleyan",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "卫斯理宗的（教徒）；循道宗的（教徒）",
+    "analysis": "n, adj (member) of the Methodist Church founded by John Wesley 卫斯理宗的（教徒）; 循道宗的（教徒）.",
+    "phonetic": "/ ˈwezlɪən; ˈweslɪən/",
+    "origin": "待查",
+    "expansions": [
+      "卫斯理宗的（教徒）；循道宗的（教徒）"
+    ],
+    "pronunciation": "/ ˈwezlɪən; ˈweslɪən/",
+    "accepted_answers": [
+      "卫斯理宗的（教徒）",
+      "循道宗的（教徒）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "west",
@@ -3790,6 +4031,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wether",
+    "type": "word",
+    "pos": "N",
+    "translation": "去势的羊",
+    "analysis": "n castrated ram 去势的羊.",
+    "phonetic": "/ ˈweTə(r); ˈweTə/",
+    "origin": "待查",
+    "expansions": [
+      "去势的羊"
+    ],
+    "pronunciation": "/ ˈweTə(r); ˈweTə/",
+    "accepted_answers": [
+      "去势的羊"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "whack",
@@ -4531,6 +4795,29 @@
     }
   },
   {
+    "term": "whin",
+    "type": "word",
+    "pos": "N",
+    "translation": "whin",
+    "analysis": "n [U] = gorse.",
+    "phonetic": "/ wɪn; hwɪn; hwɪn/",
+    "origin": "待查",
+    "expansions": [
+      "whin"
+    ],
+    "pronunciation": "/ wɪn; hwɪn; hwɪn/",
+    "accepted_answers": [
+      "whin"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
     "term": "whine",
     "type": "word",
     "translation": "通常作单数)(；长而高音的哭声或叫声（尤指狗或儿童发出的）；（警笛、摩托车发动机等发出的）长而高音的响声（尤指烦人的）",
@@ -5036,6 +5323,75 @@
     }
   },
   {
+    "term": "who'd",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式  1 who had => have.  2 who would => will1, would2.",
+    "phonetic": "/ huːd; hud/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ huːd; hud/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
+    "term": "who'll",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式 who will => will1.",
+    "phonetic": "/ huːl; hul/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ huːl; hul/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
+    "term": "whoa",
+    "type": "word",
+    "pos": "word",
+    "translation": "用以叫马停下来或站住不动的口令)",
+    "analysis": "interj (used as a command to a horse, etc to stop or stand still 用以叫马停下来或站住不动的口令).",
+    "phonetic": "/ wəʊ; wo/",
+    "origin": "待查",
+    "expansions": [
+      "用以叫马停下来或站住不动的口令)"
+    ],
+    "pronunciation": "/ wəʊ; wo/",
+    "accepted_answers": [
+      "用以叫马停下来或站住不动的口令)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
     "term": "whodunit",
     "type": "word",
     "translation": "口)；（在故事情节中作案罪犯在结局时才揭示出来的）侦探小说或戏剧；她最新的一部悬疑侦探小说",
@@ -5241,6 +5597,32 @@
     }
   },
   {
+    "term": "whoopee",
+    "type": "word",
+    "pos": "word",
+    "translation": "表示喜悦的呼喊)；习语)；旧；口)",
+    "analysis": "interj (expressing joy 表示喜悦的呼喊).\nwhoopee \nn (idm 习语) make `whoopee (dated infml 旧, 口) rejoice or celebrate noisily 欢闹; 狂欢庆祝.",
+    "phonetic": "/ ˈwUpiː; ˈhwU-; ˈhwJpi/",
+    "origin": "待查",
+    "expansions": [
+      "表示喜悦的呼喊)；习语)；旧；口)"
+    ],
+    "pronunciation": "/ ˈwUpiː; ˈhwU-; ˈhwJpi/",
+    "accepted_answers": [
+      "表示喜悦的呼喊)",
+      "习语)",
+      "旧",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
     "term": "whoops",
     "type": "word",
     "translation": "口)(；)(；用於险些出事故、打破某物等时)",
@@ -5288,6 +5670,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "whore",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧或贬)(；妓女；男妓",
+    "analysis": "n (dated or derog 旧或贬) (a) prostitute 妓女; 男妓. (b) sexually immoral woman 性关系不道德的女子.\nwhore-house \nn (dated or derog 旧或贬) brothel 妓院.",
+    "phonetic": "/ hɔː(r); hɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "旧或贬)(；妓女；男妓"
+    ],
+    "pronunciation": "/ hɔː(r); hɔːr/",
+    "accepted_answers": [
+      "旧或贬)(",
+      "妓女",
+      "男妓"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
   },
   {
     "term": "whose",
@@ -5828,6 +6235,29 @@
     }
   },
   {
+    "term": "wilfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "wilfully",
+    "analysis": "adv.\nwilfulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "wilfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "wilfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
+  },
+  {
     "term": "will",
     "type": "word",
     "translation": "缩约式；否定式；强读式",
@@ -5970,6 +6400,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "willy",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)(；儿语)；小鸡鸡（阴茎）",
+    "analysis": "n (Brit infml 口) (used esp by or when speaking to young children 儿语) penis 小鸡鸡（阴茎）.",
+    "phonetic": "/ ˈwɪlɪ; ˈwɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)(；儿语)；小鸡鸡（阴茎）"
+    ],
+    "pronunciation": "/ ˈwɪlɪ; ˈwɪlɪ/",
+    "accepted_answers": [
+      "口)(",
+      "儿语)",
+      "小鸡鸡（阴茎）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
   },
   {
     "term": "willy-nilly",
@@ -7815,6 +8270,31 @@
     }
   },
   {
+    "term": "woodman",
+    "type": "word",
+    "pos": "N",
+    "translation": "护林人；在林区居住及工作的人；伐木工",
+    "analysis": "(also esp US `woodsman /-zmEn; -zmEn/) n (pl -men) forester; woodcutter 护林人; 在林区居住及工作的人; 伐木工.\nwoodpecker \nn bird that clings to the bark of trees and taps with its beak to find insects 啄木鸟. =>illus at App 1 见附录1插图, page iv.\nwood-pigeon \nn type of large wild pigeon 斑尾林鸽.\nwood-pulp \nn [U] wood shredded and used for making paper 木浆（造纸用的）.\nwood-shed \nn shed where wood is stored (esp for fuel) 木料间; （尤指）柴间.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "护林人；在林区居住及工作的人；伐木工"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "护林人",
+      "在林区居住及工作的人",
+      "伐木工"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-j,k,l,,m,n,o.txt"
+  },
+  {
     "term": "woodwind",
     "type": "word",
     "translation": "木管乐器（的吹奏者）；木管乐器；木管乐器组",
@@ -7915,6 +8395,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wop",
+    "type": "word",
+    "pos": "N",
+    "translation": "讳；俚；蔑)；南欧人；（尤指）意大利人",
+    "analysis": "n ( <!> sl offensive 讳, 俚, 蔑) person from southern Europe, esp an Italian 南欧人; （尤指）意大利人.",
+    "phonetic": "/ wɒp; wɑːp/",
+    "origin": "待查",
+    "expansions": [
+      "讳；俚；蔑)；南欧人；（尤指）意大利人"
+    ],
+    "pronunciation": "/ wɒp; wɑːp/",
+    "accepted_answers": [
+      "讳",
+      "俚",
+      "蔑)",
+      "南欧人",
+      "（尤指）意大利人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-j,k,l,,m,n,o.txt"
   },
   {
     "term": "word",
@@ -8811,6 +9318,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wrathfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "wrathfully",
+    "analysis": "adv.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "wrathfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "wrathfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "wreak",

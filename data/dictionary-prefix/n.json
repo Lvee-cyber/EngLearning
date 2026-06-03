@@ -145,6 +145,31 @@
     "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "naafi",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)海陆空军小卖店经营机构；参看",
+    "analysis": "abbr 缩写 = (Brit) Navy, Army and Air Force Institutes (providing canteens, shops, etc for British servicemen in England and abroad) 海陆空军小卖店经营机构. Cf 参看 PX.",
+    "phonetic": "/ ˈnæfɪ; ˈnæfɪ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)海陆空军小卖店经营机构；参看"
+    ],
+    "pronunciation": "/ ˈnæfɪ; ˈnæfɪ/",
+    "accepted_answers": [
+      "缩写",
+      ")海陆空军小卖店经营机构",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
     "term": "nab",
     "type": "word",
     "translation": "口)；逮住；捉住（某人）；抓住",
@@ -162,6 +187,29 @@
       "抓住"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "nacre",
+    "type": "word",
+    "pos": "N",
+    "translation": "nacre",
+    "analysis": "n [U] = mother-of-pearl (mother).",
+    "phonetic": "/ ˈneɪkə(r); ˈnekə/",
+    "origin": "待查",
+    "expansions": [
+      "nacre"
+    ],
+    "pronunciation": "/ ˈneɪkə(r); ˈnekə/",
+    "accepted_answers": [
+      "nacre"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -284,6 +332,32 @@
       "手指甲"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "naira",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)；奈拉（尼日利亚货币单位；合；考包）",
+    "analysis": "n (pl unchanged 复数不变) unit of Nigerian money, 100 kobos 奈拉（尼日利亚货币单位, 合100考包）.",
+    "phonetic": "/ ˈnaɪrə; ˈnaɪrə/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)；奈拉（尼日利亚货币单位；合；考包）"
+    ],
+    "pronunciation": "/ ˈnaɪrə; ˈnaɪrə/",
+    "accepted_answers": [
+      "复数不变)",
+      "奈拉（尼日利亚货币单位",
+      "合",
+      "考包）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -548,6 +622,29 @@
     "dict_source": "data/DICT/N/N-a.txt"
   },
   {
+    "term": "narcissistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "narcissistic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌnɑː:sɪˈsɪstɪk; nɑːrsɪˈsɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "narcissistic"
+    ],
+    "pronunciation": "/ ˌnɑː:sɪˈsɪstɪk; nɑːrsɪˈsɪstɪk/",
+    "accepted_answers": [
+      "narcissistic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
     "term": "narcissus",
     "type": "word",
     "translation": "水仙属；水仙",
@@ -614,6 +711,31 @@
       "叙述奇遇"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "narration",
+    "type": "word",
+    "pos": "N",
+    "translation": "讲述；叙述；故事",
+    "analysis": "n  1 [U] activity of telling a story, etc 讲述; 叙述.  2 [C] story; account of events 故事; （事情的）叙述.\nnarrator \nn person who narrates 讲述者; 叙述者.",
+    "phonetic": "/ nəˈreɪʃn; næˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "讲述；叙述；故事"
+    ],
+    "pronunciation": "/ nəˈreɪʃn; næˈreʃən/",
+    "accepted_answers": [
+      "讲述",
+      "叙述",
+      "故事"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -789,6 +911,53 @@
     "dict_source": "data/DICT/N/N-a.txt"
   },
   {
+    "term": "nasalise",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（声音）鼻音化；将（声音）发成鼻音",
+    "analysis": "v [Tn] make (a sound) with the air stream, or part of it, passing through the nose 使（声音）鼻音化; 将（声音）发成鼻音.",
+    "phonetic": "/ ˈneɪzəlaɪz; ˈnezlˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "使（声音）鼻音化；将（声音）发成鼻音"
+    ],
+    "pronunciation": "/ ˈneɪzəlaɪz; ˈnezlˌaɪz/",
+    "accepted_answers": [
+      "使（声音）鼻音化",
+      "将（声音）发成鼻音"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "nasally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "nasally",
+    "analysis": "adv.",
+    "phonetic": "/ ˈneɪzəlɪ; ˈnezəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "nasally"
+    ],
+    "pronunciation": "/ ˈneɪzəlɪ; ˈnezəlɪ/",
+    "accepted_answers": [
+      "nasally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
     "term": "nascent",
     "type": "word",
     "translation": "文)；新生的；初生的",
@@ -805,6 +974,29 @@
       "初生的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "nasturtium",
+    "type": "word",
+    "pos": "N",
+    "translation": "旱金莲",
+    "analysis": "n garden plant with red, orange or yellow flowers and round flat leaves 旱金莲.",
+    "phonetic": "/ nəˈstɜːʃəm; næ-; næˈstɜːʃəm/",
+    "origin": "待查",
+    "expansions": [
+      "旱金莲"
+    ],
+    "pronunciation": "/ nəˈstɜːʃəm; næ-; næˈstɜːʃəm/",
+    "accepted_answers": [
+      "旱金莲"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -1128,6 +1320,31 @@
     "dict_source": "data/DICT/N/N-a.txt"
   },
   {
+    "term": "nato",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)北大西洋公约组织；参看",
+    "analysis": "abbr 缩写 = North Atlantic Treaty Organization (an alliance of several European countries, USA, Canada and Iceland agreeing to give each other military help if necessary) 北大西洋公约组织. Cf 参看 SEATO.",
+    "phonetic": "/ ˈneɪtəʊ; ˈneto/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)北大西洋公约组织；参看"
+    ],
+    "pronunciation": "/ ˈneɪtəʊ; ˈneto/",
+    "accepted_answers": [
+      "缩写",
+      ")北大西洋公约组织",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
     "term": "natter",
     "type": "word",
     "translation": ")(；口)；闲聊",
@@ -1256,6 +1473,29 @@
     "dict_source": "data/DICT/N/N-a.txt"
   },
   {
+    "term": "naturalist",
+    "type": "word",
+    "pos": "N",
+    "translation": "博物学家",
+    "analysis": "n person who studies animals, plants, birds and other living things 博物学家.",
+    "phonetic": "/ ˈnætʃrəlɪst; ˈnætʃrəlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "博物学家"
+    ],
+    "pronunciation": "/ ˈnætʃrəlɪst; ˈnætʃrəlɪst/",
+    "accepted_answers": [
+      "博物学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
     "term": "naturalistic",
     "type": "word",
     "translation": "自然主义的风格、作家、画家",
@@ -1376,6 +1616,75 @@
       "大自然"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "naturism",
+    "type": "word",
+    "pos": "N",
+    "translation": "naturism",
+    "analysis": "n [U] = nudism (nude).",
+    "phonetic": "/ ˈneɪtʃərɪzəm; ˈnetʃərɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "naturism"
+    ],
+    "pronunciation": "/ ˈneɪtʃərɪzəm; ˈnetʃərɪzəm/",
+    "accepted_answers": [
+      "naturism"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "naturopathically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "naturopathically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -kəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "naturopathically"
+    ],
+    "pronunciation": "/ -klɪ; -kəlɪ/",
+    "accepted_answers": [
+      "naturopathically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
+    "term": "naturopathy",
+    "type": "word",
+    "pos": "N",
+    "translation": "naturopathy",
+    "analysis": "n [U].\nnaught\n= nought 2.",
+    "phonetic": "/ ˌneɪtʃəˈrɒpəθɪ; ˌnetʃəˈrɑːpəθɪ/",
+    "origin": "待查",
+    "expansions": [
+      "naturopathy"
+    ],
+    "pronunciation": "/ ˌneɪtʃəˈrɒpəθɪ; ˌnetʃəˈrɑːpəθɪ/",
+    "accepted_answers": [
+      "naturopathy"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -2507,6 +2816,29 @@
     "dict_source": "data/DICT/N/N-b,c,d,e.txt"
   },
   {
+    "term": "neglectfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "neglectfully",
+    "analysis": "adv.\nneglectfulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "neglectfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "neglectfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
     "term": "negligence",
     "type": "word",
     "translation": "疏忽；忽视；不留心",
@@ -2652,6 +2984,31 @@
       "谈判"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "negress",
+    "type": "word",
+    "pos": "N",
+    "translation": "有时作轻蔑语)；黑人女子；黑妞儿",
+    "analysis": "n (sometimes offensive 有时作轻蔑语) Negro woman or girl 黑人女子; 黑妞儿.",
+    "phonetic": "/ ˈniːgres; ˈnigrɪs/",
+    "origin": "待查",
+    "expansions": [
+      "有时作轻蔑语)；黑人女子；黑妞儿"
+    ],
+    "pronunciation": "/ ˈniːgres; ˈnigrɪs/",
+    "accepted_answers": [
+      "有时作轻蔑语)",
+      "黑人女子",
+      "黑妞儿"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -2811,6 +3168,52 @@
       "文)"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "neo-colonialism",
+    "type": "word",
+    "pos": "N",
+    "translation": "新殖民主义",
+    "analysis": "n [U] use of economic or political pressure by powerful countries to obtain or keep influence over other countries, esp former colonies 新殖民主义.",
+    "phonetic": "/ ˌniːəʊkəˈləʊnɪəlɪzəm; ˌniokəˈlonɪəˌlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "新殖民主义"
+    ],
+    "pronunciation": "/ ˌniːəʊkəˈləʊnɪəlɪzəm; ˌniokəˈlonɪəˌlɪzəm/",
+    "accepted_answers": [
+      "新殖民主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "neoclassical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（在文艺或音乐风格方面）新古典主义的",
+    "analysis": "adj of or in a style of art, literature or music that is based on or influenced by the classical style （在文艺或音乐风格方面）新古典主义的.",
+    "phonetic": "/ ˌniːəʊˈklæsɪkl; ˌnioˈklæsɪkəl/",
+    "origin": "待查",
+    "expansions": [
+      "（在文艺或音乐风格方面）新古典主义的"
+    ],
+    "pronunciation": "/ ˌniːəʊˈklæsɪkl; ˌnioˈklæsɪkəl/",
+    "accepted_answers": [
+      "（在文艺或音乐风格方面）新古典主义的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3079,6 +3482,29 @@
     "dict_source": "data/DICT/N/N-b,c,d,e.txt"
   },
   {
+    "term": "nethermost",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "nethermost",
+    "analysis": "adj.",
+    "phonetic": "/ -məʊst; -ˌmost/",
+    "origin": "待查",
+    "expansions": [
+      "nethermost"
+    ],
+    "pronunciation": "/ -məʊst; -ˌmost/",
+    "accepted_answers": [
+      "nethermost"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
     "term": "netting",
     "type": "word",
     "translation": "五码金属网；装有纱窗的窗户",
@@ -3154,6 +3580,30 @@
     "dict_source": "data/DICT/N/N-b,c,d,e.txt"
   },
   {
+    "term": "neurasthenia",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；神经衰弱",
+    "analysis": "n [U] (medical 医) weak condition of the nerves, causing tiredness, worry, dizziness, etc 神经衰弱.",
+    "phonetic": "/ ˌnjUərəsˈθiːnɪə; ˌnUr-; ˌnJrəsˈθinɪə/",
+    "origin": "待查",
+    "expansions": [
+      "医)；神经衰弱"
+    ],
+    "pronunciation": "/ ˌnjUərəsˈθiːnɪə; ˌnUr-; ˌnJrəsˈθinɪə/",
+    "accepted_answers": [
+      "医)",
+      "神经衰弱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
     "term": "neurological",
     "type": "word",
     "translation": "神经病学的研究",
@@ -3168,6 +3618,30 @@
       "神经病学的研究"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "neurology",
+    "type": "word",
+    "pos": "N",
+    "translation": "神经学；神经病学",
+    "analysis": "n [U] scientific study of nerves and their diseases 神经学; 神经病学.",
+    "phonetic": "/ njUəˈrɒlədʒɪ; nU-; nJˈrɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "神经学；神经病学"
+    ],
+    "pronunciation": "/ njUəˈrɒlədʒɪ; nU-; nJˈrɑːlədʒɪ/",
+    "accepted_answers": [
+      "神经学",
+      "神经病学"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3358,6 +3832,54 @@
     "dict_source": "data/DICT/N/N-b,c,d,e.txt"
   },
   {
+    "term": "neutrally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "neutrally",
+    "analysis": "adv.",
+    "phonetic": "/ -rəlɪ; -rəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "neutrally"
+    ],
+    "pronunciation": "/ -rəlɪ; -rəlɪ/",
+    "accepted_answers": [
+      "neutrally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "neutron",
+    "type": "word",
+    "pos": "N",
+    "translation": "中子；参看；中子弹",
+    "analysis": "n particle carrying no electric charge, with about the same mass as a proton,and forming part of the nucleus of an atom 中子. Cf 参看 electron, proton.\nneutron bomb \nbomb that kills people by intense radiation, but does little damage to buildings, etc 中子弹.",
+    "phonetic": "/ ˈnjuːtrɒn; ˈnuː-; ˈnutrɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "中子；参看；中子弹"
+    ],
+    "pronunciation": "/ ˈnjuːtrɒn; ˈnuː-; ˈnutrɑːn/",
+    "accepted_answers": [
+      "中子",
+      "参看",
+      "中子弹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
     "term": "never",
     "type": "word",
     "translation": "从未；未曾；永不",
@@ -3435,6 +3957,30 @@
       "新的衣服"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "newel",
+    "type": "word",
+    "pos": "N",
+    "translation": "（螺旋式楼梯的）中心柱；（楼梯顶部或底部的）端柱",
+    "analysis": "n  1 central pillar of a winding staircase （螺旋式楼梯的）中心柱.  2 (also `newel post) post supporting the handrail of a stair at the top or bottom of a staircase （楼梯顶部或底部的）端柱.",
+    "phonetic": "/ ˈnjUəl; ˈnuːəl; ˈnuəl/",
+    "origin": "待查",
+    "expansions": [
+      "（螺旋式楼梯的）中心柱；（楼梯顶部或底部的）端柱"
+    ],
+    "pronunciation": "/ ˈnjUəl; ˈnuːəl; ˈnuəl/",
+    "accepted_answers": [
+      "（螺旋式楼梯的）中心柱",
+      "（楼梯顶部或底部的）端柱"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -4028,6 +4574,30 @@
     "dict_source": "data/DICT/N/N-f,g,h,i.txt"
   },
   {
+    "term": "nightingale",
+    "type": "word",
+    "pos": "N",
+    "translation": "歌鸲；夜莺",
+    "analysis": "n small reddish-brown bird of the thrush family, the male of which sings tunefully by night as well as by day 歌鸲; 夜莺.",
+    "phonetic": "/ ˈnaɪtɪŋgeɪl; -tng-; ˈnaɪtngel/",
+    "origin": "待查",
+    "expansions": [
+      "歌鸲；夜莺"
+    ],
+    "pronunciation": "/ ˈnaɪtɪŋgeɪl; -tng-; ˈnaɪtngel/",
+    "accepted_answers": [
+      "歌鸲",
+      "夜莺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-f,g,h,i.txt"
+  },
+  {
     "term": "nightmarish",
     "type": "word",
     "translation": "（旅馆的）夜班服务员；夜间保险箱（装於银行外墙内的保险箱；客户可在银行下班後将金钱等存放其中）；夜校",
@@ -4128,6 +4698,31 @@
     "dict_source": "data/DICT/N/N-f,g,h,i.txt"
   },
   {
+    "term": "nincompoop",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；傻瓜；笨蛋",
+    "analysis": "n (infml 口) foolish person 傻瓜; 笨蛋.",
+    "phonetic": "/ ˈnɪŋkəmpuːp; ˈnɪŋkəmˌpup/",
+    "origin": "待查",
+    "expansions": [
+      "口)；傻瓜；笨蛋"
+    ],
+    "pronunciation": "/ ˈnɪŋkəmpuːp; ˈnɪŋkəmˌpup/",
+    "accepted_answers": [
+      "口)",
+      "傻瓜",
+      "笨蛋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-f,g,h,i.txt"
+  },
+  {
     "term": "nine",
     "type": "word",
     "translation": "九（个）；见附录；习语)",
@@ -4194,6 +4789,31 @@
       "笨蛋"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-f,g,h,i.txt"
+  },
+  {
+    "term": "ninth",
+    "type": "word",
+    "pos": "N",
+    "translation": "第九（个）；九分之一；关於",
+    "analysis": "pron, det 9th; next after eighth 第9, 第九（个）.  n one of nine equal parts of sth 九分之一.\nninthly \nadv. For the uses of nine and ninth see the examples at five and fifth. 关於nine和ninth的用法见five和fifth词条中的示例.",
+    "phonetic": "/ naɪnθ; naɪnθ/",
+    "origin": "待查",
+    "expansions": [
+      "第九（个）；九分之一；关於"
+    ],
+    "pronunciation": "/ naɪnθ; naɪnθ/",
+    "accepted_answers": [
+      "第九（个）",
+      "九分之一",
+      "关於"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -4307,6 +4927,29 @@
     "dict_source": "data/DICT/N/N-f,g,h,i.txt"
   },
   {
+    "term": "nissen hut",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "尼森式简易房屋",
+    "analysis": "tunnel-shaped hut made of curved sheets of corrugated iron covering a concrete floor 尼森式简易房屋.",
+    "phonetic": "/ ˈnɪsnhʌt; ˈnɪsnˌhʌt/",
+    "origin": "待查",
+    "expansions": [
+      "尼森式简易房屋"
+    ],
+    "pronunciation": "/ ˈnɪsnhʌt; ˈnɪsnˌhʌt/",
+    "accepted_answers": [
+      "尼森式简易房屋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "nit",
     "type": "word",
     "translation": "虱或其他寄生虫（的卵）；贬)；挑剔（的）",
@@ -4348,6 +4991,33 @@
       "施硝酸盐肥料的土壤"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-f,g,h,i.txt"
+  },
+  {
+    "term": "nitrous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "硝石的；似硝石的；氧化亚氮；笑气（有时用作麻醉剂；尤用於牙科）",
+    "analysis": "adj of or like nitre 硝石的; 似硝石的.\nnitrous oxide (also laughing-gas) \ngas sometimes used as an anaesthetic, esp by dentists 氧化亚氮, 笑气（有时用作麻醉剂, 尤用於牙科）.",
+    "phonetic": "/ ˈnaɪtrəs; ˈnaɪtrəs/",
+    "origin": "待查",
+    "expansions": [
+      "硝石的；似硝石的；氧化亚氮；笑气（有时用作麻醉剂；尤用於牙科）"
+    ],
+    "pronunciation": "/ ˈnaɪtrəs; ˈnaɪtrəs/",
+    "accepted_answers": [
+      "硝石的",
+      "似硝石的",
+      "氧化亚氮",
+      "笑气（有时用作麻醉剂",
+      "尤用於牙科）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -4598,6 +5268,31 @@
       "贵族阶层的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "nobleman",
+    "type": "word",
+    "pos": "word",
+    "translation": "出身高贵的人；贵族阶层的人；贵族的成员",
+    "analysis": "(pl -men), `noblewoman (pl -women) ns person of noble birth or rank; peer or peeress 出身高贵的人; 贵族阶层的人; 贵族的成员. Cf 参看 aristocrat.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "出身高贵的人；贵族阶层的人；贵族的成员"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "出身高贵的人",
+      "贵族阶层的人",
+      "贵族的成员"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5443,6 +6138,29 @@
     "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
   },
   {
+    "term": "non-skid",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指轮胎）防滑的",
+    "analysis": "adj (of tyres) designed to prevent or reduce the risk of skidding （指轮胎）防滑的.",
+    "phonetic": "/ ˌnɒnˈskɪd; ˌnɑːnˈskɪd/",
+    "origin": "待查",
+    "expansions": [
+      "（指轮胎）防滑的"
+    ],
+    "pronunciation": "/ ˌnɒnˈskɪd; ˌnɑːnˈskɪd/",
+    "accepted_answers": [
+      "（指轮胎）防滑的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "non-smoker",
     "type": "word",
     "translation": "不吸烟的人；（火车等的）禁烟车厢；电影院的禁烟区",
@@ -6170,6 +6888,29 @@
       "正常"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "normalization",
+    "type": "word",
+    "pos": "N",
+    "translation": "normalization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌnɔːməlaɪˈzeɪʃn; -lɪˈz-; ˌnɔːrmləˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "normalization"
+    ],
+    "pronunciation": "/ ˌnɔːməlaɪˈzeɪʃn; -lɪˈz-; ˌnɔːrmləˈzeʃən/",
+    "accepted_answers": [
+      "normalization"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7491,6 +8232,29 @@
     "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "nucleic acid",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "核酸",
+    "analysis": "either of two acids (DNA and RNA) occurring in all living cells 核酸.",
+    "phonetic": "/ njuːˌkliːɪkˈsɪd; nuː-; nuˈkliɪkˈæsɪd/",
+    "origin": "待查",
+    "expansions": [
+      "核酸"
+    ],
+    "pronunciation": "/ njuːˌkliːɪkˈsɪd; nuː-; nuˈkliɪkˈæsɪd/",
+    "accepted_answers": [
+      "核酸"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "nucleus",
     "type": "word",
     "translation": "中心；核心；这城堡是这座古城的中心",
@@ -7561,6 +8325,52 @@
       "轻推或渐渐触到（某人"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "nudism",
+    "type": "word",
+    "pos": "N",
+    "translation": "裸体主义（尤指因於健康有益）",
+    "analysis": "(also naturism) n [U] practice of not wearing clothes, esp for health reasons 裸体主义（尤指因於健康有益）.",
+    "phonetic": "/ -ɪzəm; -ɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "裸体主义（尤指因於健康有益）"
+    ],
+    "pronunciation": "/ -ɪzəm; -ɪzəm/",
+    "accepted_answers": [
+      "裸体主义（尤指因於健康有益）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "nudist",
+    "type": "word",
+    "pos": "N",
+    "translation": "裸体主义者",
+    "analysis": "(also naturist) n person who practises nudism 裸体主义者.",
+    "phonetic": "/ -ɪst; -ɪst/",
+    "origin": "待查",
+    "expansions": [
+      "裸体主义者"
+    ],
+    "pronunciation": "/ -ɪst; -ɪst/",
+    "accepted_answers": [
+      "裸体主义者"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7915,6 +8725,30 @@
     "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "numismatics",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "钱币学；奖章的研究",
+    "analysis": "n [sing v] study of coins, coinage and medals 钱币学; 奖章的研究.",
+    "phonetic": "/ ˌnjuːmɪzˈmætɪks; ˌnuː-; ˌnumɪzˈmætɪks/",
+    "origin": "待查",
+    "expansions": [
+      "钱币学；奖章的研究"
+    ],
+    "pronunciation": "/ ˌnjuːmɪzˈmætɪks; ˌnuː-; ˌnumɪzˈmætɪks/",
+    "accepted_answers": [
+      "钱币学",
+      "奖章的研究"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "numismatist",
     "type": "word",
     "pos": "N",
@@ -7929,6 +8763,31 @@
     "accepted_answers": [
       "钱币学家",
       "钱币及奖章收藏家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "nun",
+    "type": "word",
+    "pos": "N",
+    "translation": "修女；尼姑；参看",
+    "analysis": "n woman living in a convent, usu after taking religious vows 修女; 尼姑. Cf 参看 monk.",
+    "phonetic": "/ nʌn; nʌn/",
+    "origin": "待查",
+    "expansions": [
+      "修女；尼姑；参看"
+    ],
+    "pronunciation": "/ nʌn; nʌn/",
+    "accepted_answers": [
+      "修女",
+      "尼姑",
+      "参看"
     ],
     "added_at": "",
     "review": {
@@ -8256,6 +9115,29 @@
       "用很少的言语（说明某事物）"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "nutter",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (Brit infml 口) = nut 6.",
+    "phonetic": "/ ˈnʌtə(r); ˈnʌtə/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ˈnʌtə(r); ˈnʌtə/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

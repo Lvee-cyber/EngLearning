@@ -24,6 +24,57 @@
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
+    "term": "zany",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；口)；滑稽可笑的",
+    "analysis": "adj (-ier, -iest) (infml 口) amusingly ridiculous; eccentric 滑稽可笑的; 古怪的: a zany haircut, lifestyle, personality 滑稽古怪的发型、 生活方式、 性格.\nzanily \nadv.\nzaniness \nn.\nzany \nn comical or eccentric person 滑稽的或古怪的人.",
+    "phonetic": "/ ˈzeɪnɪ; ˈzenɪ/",
+    "origin": "待查",
+    "expansions": [
+      "a zany haircut, lifestyle, personality 滑稽古怪的发型、 生活方式、 性格."
+    ],
+    "pronunciation": "/ ˈzeɪnɪ; ˈzenɪ/",
+    "accepted_answers": [
+      ")(",
+      "口)",
+      "滑稽可笑的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zap",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；口)；杀死某人（尤指用枪）",
+    "analysis": "v (-pp-) (infml 口)  1 [Tn, Tn.pr] ~ sb (with sth) (a) kill sb, esp with a gun 杀死某人（尤指用枪）. (b) make sb unconscious with a hit, blow, etc; attack sb 将某人打昏; 攻击某人.  2 [Ipr, Ip] move suddenly or quickly in the specified direction （沿某方向）突然或迅速移动: Have you seen him zapping around town on his new motor bike? 你看见没看见他骑著自己的新摩托车在市区飞驰?\nzap \nn [U] (infml 口) feeling of energy, liveliness, etc; vigour 精力; 活力; 元气: I really admire her  she's so full of zap! 我真佩服她--精力那麽充沛! Cf 参看 zip2.\nzappy \nadj (infml 口) lively and energetic; amusing 活泼的; 精力旺盛的; 好笑的.",
+    "phonetic": "/ zæp; zæp/",
+    "origin": "待查",
+    "expansions": [
+      "Have you seen him zapping around town on his new motor bike? 你看见没看见他骑著自己的新摩托车在市区飞驰?",
+      "I really admire her she's so full of zap! 我真佩服她--精力那麽充沛! Cf 参看 zip2."
+    ],
+    "pronunciation": "/ zæp; zæp/",
+    "accepted_answers": [
+      ")(",
+      "口)",
+      "杀死某人（尤指用枪）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
     "term": "zeppelin",
     "type": "word",
     "pos": "N",
@@ -92,6 +143,126 @@
         "translation": "把……调到零；对准"
       }
     ]
+  },
+  {
+    "term": "zestful",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "zestful",
+    "analysis": "adj.",
+    "phonetic": "/ -fUl; -fəl/",
+    "origin": "待查",
+    "expansions": [
+      "zestful"
+    ],
+    "pronunciation": "/ -fUl; -fəl/",
+    "accepted_answers": [
+      "zestful"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zinc",
+    "type": "word",
+    "pos": "N",
+    "translation": "见附录",
+    "analysis": "n [U] chemical element, a bluish-white metal used in alloys and to cover iron sheets, wire, etc as a protection against rust 锌. =>App 10 见附录 10.",
+    "phonetic": "/ zɪŋk; zɪŋk/",
+    "origin": "待查",
+    "expansions": [
+      "见附录"
+    ],
+    "pronunciation": "/ zɪŋk; zɪŋk/",
+    "accepted_answers": [
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zip",
+    "type": "word",
+    "pos": "N",
+    "translation": "拉链；拉锁；我的皮猴上的拉链卡住了",
+    "analysis": "n  1 (also esp Brit `zip-fastener, esp US zipper) [C] device for bringing together or separating two rows of metal or plastic teeth by means of a sliding tab, used for fastening clothing, baggage, etc 拉链; 拉锁: The zip on my anorak has got stuck. 我的皮猴上的拉链卡住了.  2 [U] (infml 口) vigour; energy 活力; 精力. Cf 参看 zapn.  3 [sing] short sharp sound, eg of a bullet going through the air 飕（如子弹穿过空气的尖啸声）.\nzip \nv (-pp-)  1 [Tn, Tn.pr, Tn.p, Cn.a] fasten or unfasten (clothes, baggage, etc) with a zip(1) 拉上或拉开（衣物、 袋子等）的拉链: She zipped her bag open. 她拉开了袋子的拉链.  2 (phr v) zip across, along, through,etc move vigorously or quickly in the specified direction 活跃地或迅速地沿某方向运动: She's just zipped into town to buy some food. 她像一阵风似的进城去买些食物. * After a slow beginning, the play fairly zips along in the second act. 这出戏开场演得很慢, 到第二幕时进行得就很快了. =>Usage at whiz 用法见whiz. zip (sb/sth) up fasten with a zip 拉上拉链: Will you zip me up, please? 请给我拉上拉链行吗? * The dress zips up at the back. 这件连衣裙是用拉链在後面拉上的.\nzippy \nadj (-ier, -iest) (infml 口) full of zip; lively and energetic 充满活力的; 活泼的; 精力充沛的.",
+    "phonetic": "/ zɪp; zɪp/",
+    "origin": "待查",
+    "expansions": [
+      "The zip on my anorak has got stuck. 我的皮猴上的拉链卡住了. 2 [U] (infml 口) vigour; energy 活力; 精力. Cf 参看 zapn. 3 [sing] short sharp sound, eg of a bullet going through the air 飕（如子弹穿过空气的尖啸声）.",
+      "She zipped her bag open. 她拉开了袋子的拉链. 2 (phr v) zip across, along, through,etc move vigorously or quickly in the specified direction 活跃地或迅速地沿某方向运动: She's just zipped into town to buy some food. 她像一阵风似的进城去买些食物.",
+      "After a slow beginning, the play fairly zips along in the second act. 这出戏开场演得很慢, 到第二幕时进行得就很快了. =>Usage at whiz 用法见whiz. zip (sb/sth) up fasten with a zip 拉上拉链: Will you zip me up, please? 请给我拉上拉链行吗?",
+      "The dress zips up at the back. 这件连衣裙是用拉链在後面拉上的."
+    ],
+    "pronunciation": "/ zɪp; zɪp/",
+    "accepted_answers": [
+      "拉链",
+      "拉锁",
+      "我的皮猴上的拉链卡住了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zoologically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "文)",
+    "analysis": "adv.\nzoological gardens \n(fml 文) = zoo.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zoology",
+    "type": "word",
+    "pos": "N",
+    "translation": "动物学",
+    "analysis": "n [U] scientific study of the structure, form and distribution of animals 动物学.",
+    "phonetic": "/ zəʊˈɒlədʒɪ; zoˈɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "动物学"
+    ],
+    "pronunciation": "/ zəʊˈɒlədʒɪ; zoˈɑːlədʒɪ/",
+    "accepted_answers": [
+      "动物学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
     "term": "zuma",

@@ -620,6 +620,30 @@
     "dict_source": "data/DICT/E/E-a.txt"
   },
   {
+    "term": "easel",
+    "type": "word",
+    "pos": "N",
+    "translation": ")黑板架；画架",
+    "analysis": "n wooden frame for holding a blackboard or a picture (while it is being painted) 黑板架; 画架.",
+    "phonetic": "/ ˈiːzl; ˈizl/",
+    "origin": "待查",
+    "expansions": [
+      ")黑板架；画架"
+    ],
+    "pronunciation": "/ ˈiːzl; ˈizl/",
+    "accepted_answers": [
+      ")黑板架",
+      "画架"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-a.txt"
+  },
+  {
     "term": "easily",
     "type": "word",
     "translation": "容易地；无困难地；我今晚轻而易举就可把它做完",
@@ -869,6 +893,29 @@
     }
   },
   {
+    "term": "eau-de-cologne",
+    "type": "word",
+    "pos": "N",
+    "translation": "科隆香水",
+    "analysis": "n (also cologne) [U] perfume made originally at Cologne 科隆香水.",
+    "phonetic": "/ ˌəʊdəkəˈləʊn; ˌodəkəˈlon/",
+    "origin": "待查",
+    "expansions": [
+      "科隆香水"
+    ],
+    "pronunciation": "/ ˌəʊdəkəˈləʊn; ˌodəkəˈlon/",
+    "accepted_answers": [
+      "科隆香水"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-a.txt"
+  },
+  {
     "term": "eaves",
     "type": "word",
     "translation": "屋檐；在屋檐下筑巢的鸟；见附录",
@@ -938,6 +985,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ebb tide",
+    "type": "phrase",
+    "pos": "N",
+    "translation": "ebb tide",
+    "analysis": "= ebb n 1.",
+    "phonetic": "/ ˌebˈtaɪd; ˈebˌtaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "ebb tide"
+    ],
+    "pronunciation": "/ ˌebˈtaɪd; ˈebˌtaɪd/",
+    "accepted_answers": [
+      "ebb tide"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
   },
   {
     "term": "ebony",
@@ -1035,6 +1105,29 @@
     }
   },
   {
+    "term": "eccentrically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "eccentrically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "eccentrically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "eccentrically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
+  },
+  {
     "term": "eccentricity",
     "type": "word",
     "translation": "古怪；怪异；怪僻等",
@@ -1121,6 +1214,29 @@
       "这个洞的回声很大"
     ],
     "added_at": "2026-03-30T02:23:05.682Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
+  },
+  {
+    "term": "eclair",
+    "type": "word",
+    "pos": "N",
+    "translation": "巧克力棒糕（一种奶油馅巧克力糖衣的手指形小点心）",
+    "analysis": "n (also chocolate eclair) small finger-shaped pastry cake, filled with cream and iced with chocolate 巧克力棒糕（一种奶油馅巧克力糖衣的手指形小点心）.",
+    "phonetic": "/ ɪˈkleə(r),eɪˈkleə(r); ɪˈkler,eˈkler/",
+    "origin": "待查",
+    "expansions": [
+      "巧克力棒糕（一种奶油馅巧克力糖衣的手指形小点心）"
+    ],
+    "pronunciation": "/ ɪˈkleə(r),eɪˈkleə(r); ɪˈkler,eˈkler/",
+    "accepted_answers": [
+      "巧克力棒糕（一种奶油馅巧克力糖衣的手指形小点心）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -2368,6 +2484,29 @@
     }
   },
   {
+    "term": "effervescent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "effervescent",
+    "analysis": "adj.",
+    "phonetic": "/ -snt; -snt/",
+    "origin": "待查",
+    "expansions": [
+      "effervescent"
+    ],
+    "pronunciation": "/ -snt; -snt/",
+    "accepted_answers": [
+      "effervescent"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
     "term": "effete",
     "type": "word",
     "translation": "衰弱的；丧失权力的；衰落的文明、没落的帝国、软弱的政府",
@@ -2685,6 +2824,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "efl",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；作为外语的英语（教学或研究）；参看",
+    "analysis": "abbr 缩写 = (teaching, learning or studying) English as a Foreign Language 作为外语的英语（教学或研究）. Cf 参看 ESL.",
+    "phonetic": "/ ˌiːefˈel; ˌiefˈel/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；作为外语的英语（教学或研究）；参看"
+    ],
+    "pronunciation": "/ ˌiːefˈel; ˌiefˈel/",
+    "accepted_answers": [
+      "缩写",
+      "作为外语的英语（教学或研究）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
   },
   {
     "term": "efta",
@@ -3127,6 +3291,30 @@
     }
   },
   {
+    "term": "elastoplast",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；弹性松紧带",
+    "analysis": "n [U] (Brit propr 专利名) adhesive dressing for cuts, etc 弹性松紧带.",
+    "phonetic": "/ ɪˈlæstəplɑː:st,-plæst; ɪˈlæstəˌplæst/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；弹性松紧带"
+    ],
+    "pronunciation": "/ ɪˈlæstəplɑː:st,-plæst; ɪˈlæstəˌplæst/",
+    "accepted_answers": [
+      "专利名)",
+      "弹性松紧带"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "elated",
     "type": "word",
     "translation": "情绪高昂的；兴高采烈的；非常愉快或自豪的",
@@ -3149,6 +3337,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "elatedly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "elatedly",
+    "analysis": "adv.",
+    "phonetic": "/ ɪˈleɪtɪdlɪ; ɪˈletɪdlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "elatedly"
+    ],
+    "pronunciation": "/ ɪˈleɪtɪdlɪ; ɪˈletɪdlɪ/",
+    "accepted_answers": [
+      "elatedly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
     "term": "elation",
@@ -3594,6 +3805,102 @@
     }
   },
   {
+    "term": "electrocardiogram",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；)(；医)",
+    "analysis": "n (abbr 缩写 ECG) (medical 医) record of sb's heartbeat traced by an electrocardiograph, used in the diagnosis of heart disease 心电图.",
+    "phonetic": "/ ɪˌlektrəʊˈkɑː:dɪəʊgræm; ɪˈlektroˈkɑːrdɪəˌgræm/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)(；医)"
+    ],
+    "pronunciation": "/ ɪˌlektrəʊˈkɑː:dɪəʊgræm; ɪˈlektroˈkɑːrdɪəˌgræm/",
+    "accepted_answers": [
+      "缩写",
+      ")(",
+      "医)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "electrocution",
+    "type": "word",
+    "pos": "N",
+    "translation": "electrocution",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪˌlektrəˈkjuːʃn; ɪˌlektrəˈkjuʃən/",
+    "origin": "待查",
+    "expansions": [
+      "electrocution"
+    ],
+    "pronunciation": "/ ɪˌlektrəˈkjuːʃn; ɪˌlektrəˈkjuʃən/",
+    "accepted_answers": [
+      "electrocution"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "electroencephalograph",
+    "type": "word",
+    "pos": "N",
+    "translation": "脑电图仪",
+    "analysis": "n instrument for detecting and recording the electric current produced by the activity of the brain 脑电图仪.",
+    "phonetic": "/ ɪˌlektrəʊenˈsefələˌgrɑː:f; -græf; ɪˌlektroenˈsefələˌgræf/",
+    "origin": "待查",
+    "expansions": [
+      "脑电图仪"
+    ],
+    "pronunciation": "/ ɪˌlektrəʊenˈsefələˌgrɑː:f; -græf; ɪˌlektroenˈsefələˌgræf/",
+    "accepted_answers": [
+      "脑电图仪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "electromagnet",
+    "type": "word",
+    "pos": "N",
+    "translation": "物)；电磁铁；电磁体",
+    "analysis": "n (physics 物) piece of soft metal that becomes magnetic when an electric current is passed through the coil surrounding it 电磁铁; 电磁体.",
+    "phonetic": "/ ɪˌlektrəʊˈmægnɪt; ɪˌlektroˈmægnɪt/",
+    "origin": "待查",
+    "expansions": [
+      "物)；电磁铁；电磁体"
+    ],
+    "pronunciation": "/ ɪˌlektrəʊˈmægnɪt; ɪˌlektroˈmægnɪt/",
+    "accepted_answers": [
+      "物)",
+      "电磁铁",
+      "电磁体"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "electromagnetic",
     "type": "word",
     "translation": "物)；电磁的；电磁波（如",
@@ -3958,6 +4265,31 @@
     }
   },
   {
+    "term": "elevenses",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "通常与单数动词连用；口)；午前茶点（上午十一时左右吃的点心和",
+    "analysis": "n [usu sing v 通常与单数动词连用] (Brit infml 口) snack and/or drink taken at about eleven o'clock in the morning 午前茶点（上午十一时左右吃的点心和[或]喝的饮料）.",
+    "phonetic": "/ ɪˈlevnzɪz; ɪˈlevənzɪz/",
+    "origin": "待查",
+    "expansions": [
+      "通常与单数动词连用；口)；午前茶点（上午十一时左右吃的点心和"
+    ],
+    "pronunciation": "/ ɪˈlevnzɪz; ɪˈlevənzɪz/",
+    "accepted_answers": [
+      "通常与单数动词连用",
+      "口)",
+      "午前茶点（上午十一时左右吃的点心和"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "elfin",
     "type": "word",
     "translation": "小精灵的；似小妖精的；小精灵的乐曲",
@@ -4280,6 +4612,29 @@
     }
   },
   {
+    "term": "elliptic",
+    "type": "word",
+    "pos": "word",
+    "translation": "似椭圆的",
+    "analysis": ", elliptical / I5lIptIkl; I`liptIkl/ adjs shaped like an ellipse 似椭圆的.",
+    "phonetic": "/ ɪˈlɪptɪk; ɪˈlɪptɪk/",
+    "origin": "待查",
+    "expansions": [
+      "似椭圆的"
+    ],
+    "pronunciation": "/ ɪˈlɪptɪk; ɪˈlɪptɪk/",
+    "accepted_answers": [
+      "似椭圆的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "elliptical",
     "type": "word",
     "translation": "省略的；（意在言外的）省略的文风",
@@ -4345,6 +4700,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "elocutionary",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "演讲艺术的",
+    "analysis": "adj of elocution 演讲艺术的.",
+    "phonetic": "/ -ənərɪ; -ənerɪ; -ənerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "演讲艺术的"
+    ],
+    "pronunciation": "/ -ənərɪ; -ənerɪ; -ənerɪ/",
+    "accepted_answers": [
+      "演讲艺术的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "elongate",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（某物）更长；伸长；拉长",
+    "analysis": "v [Tn] make (sth) longer 使（某物）更长; 伸长; 拉长.",
+    "phonetic": "/ ˈiːlɒŋgeɪt; ɪˈlɔːŋ-; ɪˈlɔːŋget/",
+    "origin": "待查",
+    "expansions": [
+      "使（某物）更长；伸长；拉长"
+    ],
+    "pronunciation": "/ ˈiːlɒŋgeɪt; ɪˈlɔːŋ-; ɪˈlɔːŋget/",
+    "accepted_answers": [
+      "使（某物）更长",
+      "伸长",
+      "拉长"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
     "term": "elongated",
@@ -4584,6 +4987,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "elver",
+    "type": "word",
+    "pos": "N",
+    "translation": "幼鳗",
+    "analysis": "n young eel 幼鳗.\nelves\npl of elf.",
+    "phonetic": "/ ˈelvə(r); ˈelvə/",
+    "origin": "待查",
+    "expansions": [
+      "幼鳗"
+    ],
+    "pronunciation": "/ ˈelvə(r); ˈelvə/",
+    "accepted_answers": [
+      "幼鳗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
     "term": "elysian",
@@ -5139,6 +5565,31 @@
     }
   },
   {
+    "term": "emblematic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "通常作表语；)(；文)",
+    "analysis": "adj [usu pred 通常作表语] ~ (of sth) (fml 文) serving as an emblem; symbolic 用作象徵; 作为标志.",
+    "phonetic": "/ ˌembləˈmætɪk; ˌembləˈmætɪk/",
+    "origin": "待查",
+    "expansions": [
+      "通常作表语；)(；文)"
+    ],
+    "pronunciation": "/ ˌembləˈmætɪk; ˌembləˈmætɪk/",
+    "accepted_answers": [
+      "通常作表语",
+      ")(",
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
+  },
+  {
     "term": "embodiment",
     "type": "word",
     "translation": "体现某事物的人或物；体现；化身",
@@ -5291,6 +5742,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "embrasure",
+    "type": "word",
+    "pos": "N",
+    "translation": "斜面墙（内宽外窄的门窗的开口）（尤指古城堡的）；（城堡、要塞等的）炮眼；枪眼；射击孔",
+    "analysis": "n [C] (a) opening for a door or window, wider on the inside than the outside, in an interior wall, esp of an old castle 斜面墙（内宽外窄的门窗的开口）（尤指古城堡的）. (b) similar opening in a castle, fort, etc for shooting through （城堡、 要塞等的）炮眼, 枪眼, 射击孔.",
+    "phonetic": "/ ɪmˈbreɪʒə(r); ɪmˈbreʒə/",
+    "origin": "待查",
+    "expansions": [
+      "斜面墙（内宽外窄的门窗的开口）（尤指古城堡的）；（城堡、要塞等的）炮眼；枪眼；射击孔"
+    ],
+    "pronunciation": "/ ɪmˈbreɪʒə(r); ɪmˈbreʒə/",
+    "accepted_answers": [
+      "斜面墙（内宽外窄的门窗的开口）（尤指古城堡的）",
+      "（城堡、要塞等的）炮眼",
+      "枪眼",
+      "射击孔"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
   },
   {
     "term": "embrocation",
@@ -5826,6 +6303,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "emir",
+    "type": "word",
+    "pos": "N",
+    "translation": "埃米尔（对穆斯林统治者的尊称）",
+    "analysis": "(also amir) n title of various Muslim rulers 埃米尔（对穆斯林统治者的尊称）.",
+    "phonetic": "/ eˈmɪə(r); əˈmɪr/",
+    "origin": "待查",
+    "expansions": [
+      "埃米尔（对穆斯林统治者的尊称）"
+    ],
+    "pronunciation": "/ eˈmɪə(r); əˈmɪr/",
+    "accepted_answers": [
+      "埃米尔（对穆斯林统治者的尊称）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
   },
   {
     "term": "emirate",
@@ -6378,6 +6878,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "emu",
+    "type": "word",
+    "pos": "N",
+    "translation": "鸸鹋（产於澳洲的大型鸟；善跑而不能飞翔）",
+    "analysis": "n large Australian bird that runs quickly but cannot fly 鸸鹋（产於澳洲的大型鸟, 善跑而不能飞翔）.",
+    "phonetic": "/ ˈiːmjuː; ˈimju/",
+    "origin": "待查",
+    "expansions": [
+      "鸸鹋（产於澳洲的大型鸟；善跑而不能飞翔）"
+    ],
+    "pronunciation": "/ ˈiːmjuː; ˈimju/",
+    "accepted_answers": [
+      "鸸鹋（产於澳洲的大型鸟",
+      "善跑而不能飞翔）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
   },
   {
     "term": "emulate",
@@ -6956,6 +7480,31 @@
       ")("
     ],
     "added_at": "2026-03-30T02:23:05.682Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
+    "term": "encomium",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；文)；极高的赞颂",
+    "analysis": "n (pl -miums or  -mia / -mIE; -mIE/) (fml 文) very high praise in speech or writing 极高的赞颂; 推崇; 赞词; 颂词.",
+    "phonetic": "/ enˈkəʊmɪəm; enˈkomɪəm/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文)；极高的赞颂"
+    ],
+    "pronunciation": "/ enˈkəʊmɪəm; enˈkomɪəm/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "极高的赞颂"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -8236,6 +8785,29 @@
     }
   },
   {
+    "term": "enjoyably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "enjoyably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "enjoyably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "enjoyably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
     "term": "enjoyment",
     "type": "word",
     "translation": "愉快；欢乐；乐趣",
@@ -8258,6 +8830,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "enkindle",
+    "type": "word",
+    "pos": "V",
+    "translation": "旧或文)(；使（火焰、激情等）燃起；使（某人）激动等",
+    "analysis": "v [Tn] (dated or fml 旧或文) (a) cause (flames, passion, etc) to flare up 使（火焰、 激情等）燃起. (b) inflame (sb) with passion, etc; arouse 使（某人）激动等; 引起; 唤起; 激起.",
+    "phonetic": "/ ɪnˈkɪndl; enˈkɪndl/",
+    "origin": "待查",
+    "expansions": [
+      "旧或文)(；使（火焰、激情等）燃起；使（某人）激动等"
+    ],
+    "pronunciation": "/ ɪnˈkɪndl; enˈkɪndl/",
+    "accepted_answers": [
+      "旧或文)(",
+      "使（火焰、激情等）燃起",
+      "使（某人）激动等"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
   },
   {
     "term": "enlarge",
@@ -9394,6 +9991,30 @@
     }
   },
   {
+    "term": "entomologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "昆虫学研究者；昆虫学家",
+    "analysis": "n student of or expert in entomology 昆虫学研究者; 昆虫学家.",
+    "phonetic": "/ -dʒɪst; -dʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "昆虫学研究者；昆虫学家"
+    ],
+    "pronunciation": "/ -dʒɪst; -dʒɪst/",
+    "accepted_answers": [
+      "昆虫学研究者",
+      "昆虫学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
     "term": "entomology",
     "type": "word",
     "translation": "昆虫学；他爱好昆虫学",
@@ -9756,6 +10377,31 @@
     },
     "dict_source": "data/DICT/E/E-n.txt",
     "pos": "N"
+  },
+  {
+    "term": "entryphone",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；对讲机（安装在公寓等建筑物入口处墙上的一种电话；可使来访者与住户通话後获准入内）",
+    "analysis": "n (propr 专利名) type of telephone placed on the wall by the entrance to a building, esp a block of flats, to enable visitors to speak to individual occupants before being allowed to enter 对讲机（安装在公寓等建筑物入口处墙上的一种电话, 可使来访者与住户通话後获准入内）.",
+    "phonetic": "/ ˈentrɪfəʊn; ˈentrɪfon/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；对讲机（安装在公寓等建筑物入口处墙上的一种电话；可使来访者与住户通话後获准入内）"
+    ],
+    "pronunciation": "/ ˈentrɪfəʊn; ˈentrɪfon/",
+    "accepted_answers": [
+      "专利名)",
+      "对讲机（安装在公寓等建筑物入口处墙上的一种电话",
+      "可使来访者与住户通话後获准入内）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
   },
   {
     "term": "entwine",
@@ -10641,6 +11287,31 @@
     }
   },
   {
+    "term": "epitaph",
+    "type": "word",
+    "pos": "N",
+    "translation": "悼文；祭文；悼词",
+    "analysis": "n words written or said about a dead person, esp words inscribed on a tombstone 悼文; 祭文; 悼词; （尤指）墓志铭.",
+    "phonetic": "/ ˈepɪtɑː:f; -tæf; ˈepəˌtæf/",
+    "origin": "待查",
+    "expansions": [
+      "悼文；祭文；悼词"
+    ],
+    "pronunciation": "/ ˈepɪtɑː:f; -tæf; ˈepəˌtæf/",
+    "accepted_answers": [
+      "悼文",
+      "祭文",
+      "悼词"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-o,p,q.txt"
+  },
+  {
     "term": "epitome",
     "type": "word",
     "translation": "梗概；缩影；我们在这所学校中看到的各个部门是全国各校的缩影",
@@ -11379,6 +12050,31 @@
     }
   },
   {
+    "term": "equivocation",
+    "type": "word",
+    "pos": "N",
+    "translation": "用模棱两可的话迷惑人；含糊其词；暧昧语",
+    "analysis": "n  1 [U] use of equivocal statements to mislead people 用模棱两可的话迷惑人; 含糊其词.  2 [C] equivocal expression 暧昧语.",
+    "phonetic": "/ ɪˌkwɪvəˈkeɪʃn; ɪˌkwɪvəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "用模棱两可的话迷惑人；含糊其词；暧昧语"
+    ],
+    "pronunciation": "/ ɪˌkwɪvəˈkeɪʃn; ɪˌkwɪvəˈkeʃən/",
+    "accepted_answers": [
+      "用模棱两可的话迷惑人",
+      "含糊其词",
+      "暧昧语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-o,p,q.txt"
+  },
+  {
     "term": "era",
     "type": "word",
     "translation": "纪元；年代；时代",
@@ -11763,6 +12459,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "erotically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "erotically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "erotically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "erotically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
   },
   {
     "term": "eroticism",
@@ -12277,6 +12996,29 @@
     }
   },
   {
+    "term": "escapology",
+    "type": "word",
+    "pos": "N",
+    "translation": "脱身术（表演）（尤指从铁链、口袋等中挣脱）",
+    "analysis": "n [U] practice or technique of escaping from confinement (esp chains, bags, etc) as a form of entertainment 脱身术（表演）（尤指从铁链、 口袋等中挣脱）.",
+    "phonetic": "/ ˌeskəˈpɒlədʒɪ; ˌeskeˈpɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "脱身术（表演）（尤指从铁链、口袋等中挣脱）"
+    ],
+    "pronunciation": "/ ˌeskəˈpɒlədʒɪ; ˌeskeˈpɑːlədʒɪ/",
+    "accepted_answers": [
+      "脱身术（表演）（尤指从铁链、口袋等中挣脱）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
     "term": "eschew",
     "type": "word",
     "translation": "文)；避开（某事物）；戒除",
@@ -12392,6 +13134,53 @@
       "神秘的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
+    "term": "espadrille",
+    "type": "word",
+    "pos": "N",
+    "translation": "（鞋底为绳索编结的）帆布便鞋",
+    "analysis": "n light canvas shoe with a plaited rope sole （鞋底为绳索编结的）帆布便鞋.",
+    "phonetic": "/ ˈespədrɪl; ˈespəˌdrɪl/",
+    "origin": "待查",
+    "expansions": [
+      "（鞋底为绳索编结的）帆布便鞋"
+    ],
+    "pronunciation": "/ ˈespədrɪl; ˈespəˌdrɪl/",
+    "accepted_answers": [
+      "（鞋底为绳索编结的）帆布便鞋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
+    "term": "espalier",
+    "type": "word",
+    "pos": "N",
+    "translation": "树棚；（树架上）枝杈盘绕的树",
+    "analysis": "n (tree or shrub whose branches are trained on a) wooden or wire frame in a garden 树棚; （树架上）枝杈盘绕的树.",
+    "phonetic": "/ ɪˈspælɪeɪ; ɪˈspæljər; ɪˈspæljə/",
+    "origin": "待查",
+    "expansions": [
+      "树棚；（树架上）枝杈盘绕的树"
+    ],
+    "pronunciation": "/ ɪˈspælɪeɪ; ɪˈspæljər; ɪˈspæljə/",
+    "accepted_answers": [
+      "树棚",
+      "（树架上）枝杈盘绕的树"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -12540,6 +13329,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "esprit",
+    "type": "word",
+    "pos": "N",
+    "translation": "法)；机智",
+    "analysis": "n [U] (French 法) lively wit 机智.",
+    "phonetic": "/ eˈspriː; eˈspri/",
+    "origin": "待查",
+    "expansions": [
+      "法)；机智"
+    ],
+    "pronunciation": "/ eˈspriː; eˈspri/",
+    "accepted_answers": [
+      "法)",
+      "机智"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
   },
   {
     "term": "espy",
@@ -12842,6 +13655,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "estimable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧或文)；值得尊敬的",
+    "analysis": "adj (dated or fml 旧或文) worthy of great respect 值得尊敬的.",
+    "phonetic": "/ ˈestɪməbl; ˈestəməbl/",
+    "origin": "待查",
+    "expansions": [
+      "旧或文)；值得尊敬的"
+    ],
+    "pronunciation": "/ ˈestɪməbl; ˈestəməbl/",
+    "accepted_answers": [
+      "旧或文)",
+      "值得尊敬的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
   },
   {
     "term": "estimate",
@@ -13275,6 +14112,30 @@
     }
   },
   {
+    "term": "ethnologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "民族学研究者；民族学家",
+    "analysis": "n student of or expert in ethnology 民族学研究者; 民族学家.",
+    "phonetic": "/ eθˈnɒlədʒɪst; eθˈnɑːlədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "民族学研究者；民族学家"
+    ],
+    "pronunciation": "/ eθˈnɒlədʒɪst; eθˈnɑːlədʒɪst/",
+    "accepted_answers": [
+      "民族学研究者",
+      "民族学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "ethos",
     "type": "word",
     "translation": "文)；（集体、社团、文化的）气质、道德观、思想或信仰；革命精神",
@@ -13327,6 +14188,29 @@
     }
   },
   {
+    "term": "etiolation",
+    "type": "word",
+    "pos": "N",
+    "translation": "etiolation",
+    "analysis": "n [U].\netiology\n(US) = aetiology.",
+    "phonetic": "/ ˌiːtɪəʊˈleɪʃn; ˌitɪəˈleʃən/",
+    "origin": "待查",
+    "expansions": [
+      "etiolation"
+    ],
+    "pronunciation": "/ ˌiːtɪəʊˈleɪʃn; ˌitɪəˈleʃən/",
+    "accepted_answers": [
+      "etiolation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "etiquette",
     "type": "word",
     "translation": "礼节；礼仪；英国在维多利亚时代非常注重礼仪",
@@ -13351,6 +14235,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "etymologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "词源学研究者；词源学家",
+    "analysis": "n student of or expert in etymology 词源学研究者; 词源学家.",
+    "phonetic": "/ ˌetɪˈmɒlədʒɪst; ˌetəˈmɑːlədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "词源学研究者；词源学家"
+    ],
+    "pronunciation": "/ ˌetɪˈmɒlədʒɪst; ˌetəˈmɑːlədʒɪst/",
+    "accepted_answers": [
+      "词源学研究者",
+      "词源学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
   },
   {
     "term": "etymology",
@@ -13539,6 +14447,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "euphonium",
+    "type": "word",
+    "pos": "N",
+    "translation": "次中音大号",
+    "analysis": "n large brass musical wind instrument, a type of tuba 次中音大号.",
+    "phonetic": "/ juːˈfəʊnɪəm; juˈfonɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "次中音大号"
+    ],
+    "pronunciation": "/ juːˈfəʊnɪəm; juˈfonɪəm/",
+    "accepted_answers": [
+      "次中音大号"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
   },
   {
     "term": "euphony",
@@ -14217,6 +15148,30 @@
     }
   },
   {
+    "term": "eventing",
+    "type": "word",
+    "pos": "N",
+    "translation": "马术比赛运动（尤指历时三日的项目；包括越野、跳越障碍、花式训马）",
+    "analysis": "n [U] (esp Brit) sport of taking part in horse-riding competitions, esp three-day events involving cross-country riding, jumping and dressage 马术比赛运动（尤指历时三日的项目, 包括越野、 跳越障碍、 花式训马）.",
+    "phonetic": "/ ɪˈventɪŋ; ɪˈventɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "马术比赛运动（尤指历时三日的项目；包括越野、跳越障碍、花式训马）"
+    ],
+    "pronunciation": "/ ɪˈventɪŋ; ɪˈventɪŋ/",
+    "accepted_answers": [
+      "马术比赛运动（尤指历时三日的项目",
+      "包括越野、跳越障碍、花式训马）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "eventual",
     "type": "word",
     "translation": "最後的；最终的；他的愚蠢行为和最後的失败",
@@ -14463,6 +15418,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "everyplace",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "口)",
+    "analysis": "indef adv (US infml 口) = everywhere.",
+    "phonetic": "/ ˈevrɪpleɪs; ˈevrɪˌples/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ˈevrɪpleɪs; ˈevrɪˌples/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
   },
   {
     "term": "everything",
@@ -14712,6 +15690,31 @@
     }
   },
   {
+    "term": "eviscerate",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；切除内脏；切除器官内容物",
+    "analysis": "v [Tn] (fml 文) remove the internal organs of (a body); disembowel 切除内脏; 切除器官内容物.",
+    "phonetic": "/ ɪˈvɪsəreɪt; ɪˈvɪsəˌret/",
+    "origin": "待查",
+    "expansions": [
+      "文)；切除内脏；切除器官内容物"
+    ],
+    "pronunciation": "/ ɪˈvɪsəreɪt; ɪˈvɪsəˌret/",
+    "accepted_answers": [
+      "文)",
+      "切除内脏",
+      "切除器官内容物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "evocative",
     "type": "word",
     "translation": ")引起回忆的；唤起感情的；这种气味使人回想起学校来",
@@ -14835,6 +15838,55 @@
     "dict_source": "data/DICT/E/E-t,u,v,w.txt"
   },
   {
+    "term": "ewe",
+    "type": "word",
+    "pos": "N",
+    "translation": "母羊；雌羊；牝羊",
+    "analysis": "n female sheep 母羊; 雌羊; 牝羊. =>illus at sheep 见 sheep 之插图. Cf 参看 lamb 1, ram 1, tup.",
+    "phonetic": "/ juː; ju/",
+    "origin": "待查",
+    "expansions": [
+      "母羊；雌羊；牝羊"
+    ],
+    "pronunciation": "/ juː; ju/",
+    "accepted_answers": [
+      "母羊",
+      "雌羊",
+      "牝羊"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
+    "term": "ewer",
+    "type": "word",
+    "pos": "N",
+    "translation": "大口水罐（尤指旧时无自来水时；在卧室里与面盆共用者）",
+    "analysis": "n large wide-mouthed jug for holding water, esp as formerly used with a basin in a bedroom without a piped water supply 大口水罐（尤指旧时无自来水时, 在卧室里与面盆共用者）.",
+    "phonetic": "/ ˈjuːə(r); ˈjuə/",
+    "origin": "待查",
+    "expansions": [
+      "大口水罐（尤指旧时无自来水时；在卧室里与面盆共用者）"
+    ],
+    "pronunciation": "/ ˈjuːə(r); ˈjuə/",
+    "accepted_answers": [
+      "大口水罐（尤指旧时无自来水时",
+      "在卧室里与面盆共用者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "ex",
     "type": "word",
     "translation": "口)(；前妻或前夫；以前的男朋友或女朋友",
@@ -14930,6 +15982,30 @@
     },
     "pos": "Adj",
     "origin": "待查"
+  },
+  {
+    "term": "ex-service",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "退役的；退伍的",
+    "analysis": "adj formerly belonging to the armed forces 退役的; 退伍的.",
+    "phonetic": "/ ˌeksˈsɜːvɪs; ˈeksˈsɜːvɪs/",
+    "origin": "待查",
+    "expansions": [
+      "退役的；退伍的"
+    ],
+    "pronunciation": "/ ˌeksˈsɜːvɪs; ˈeksˈsɜːvɪs/",
+    "accepted_answers": [
+      "退役的",
+      "退伍的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
   },
   {
     "term": "ex-serviceman",
@@ -15157,6 +16233,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "exaltation",
+    "type": "word",
+    "pos": "N",
+    "translation": "兴奋；得意洋洋；兴高采烈",
+    "analysis": "n [U] state of spiritual delight; elation 兴奋; 得意洋洋; 兴高采烈.",
+    "phonetic": "/ ˌegzɔːlˈteɪʃn; ˌegzɔːlˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "兴奋；得意洋洋；兴高采烈"
+    ],
+    "pronunciation": "/ ˌegzɔːlˈteɪʃn; ˌegzɔːlˈteʃən/",
+    "accepted_answers": [
+      "兴奋",
+      "得意洋洋",
+      "兴高采烈"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
   },
   {
     "term": "exam",
@@ -16562,6 +17663,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "exemplification",
+    "type": "word",
+    "pos": "N",
+    "translation": "举例说明；示范；文)",
+    "analysis": "n  1 [U] exemplifying 举例说明; 示范.  2 [C] (fml 文) example 例证; 例子; 范例.",
+    "phonetic": "/ ɪgˌzemplɪfɪˈkeɪʃn; ɪgˌzempləfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "举例说明；示范；文)"
+    ],
+    "pronunciation": "/ ɪgˌzemplɪfɪˈkeɪʃn; ɪgˌzempləfəˈkeʃən/",
+    "accepted_answers": [
+      "举例说明",
+      "示范",
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
   },
   {
     "term": "exemplify",

@@ -7094,5 +7094,192 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "diverge",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "分叉；分歧；偏离；背道而驰",
+        "analysis": "指从同一点分开、转向不同方向，也可表示观点、趋势、结果等出现分化或偏离。"
+      }
+    ],
+    "translation": "分叉；分歧；偏离；背道而驰",
+    "analysis": "指从同一点分开、转向不同方向，也可表示观点、趋势、结果等出现分化或偏离。",
+    "phonetic": "/daɪˈvɜːdʒ/; /daɪˈvɝːdʒ/",
+    "origin": "来自拉丁语 divergere，由 di-（分开）和 vergere（转向）构成。",
+    "expansions": [
+      "paths diverge 道路分叉",
+      "opinions diverge 意见出现分歧",
+      "diverge from the plan 偏离计划",
+      "results diverge sharply 结果明显分化"
+    ],
+    "pronunciation": "/daɪˈvɜːdʒ/; /daɪˈvɝːdʒ/",
+    "accepted_answers": [
+      "分叉",
+      "分歧",
+      "偏离",
+      "背道而驰"
+    ],
+    "added_at": "2026-06-01T07:35:22.737Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "philistine",
+    "type": "word",
+    "pos": "N; Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "庸俗的人；缺乏审美修养的人；反智或轻视文化的人",
+        "analysis": "指缺乏艺术、文化或思想兴趣，只重实用或物质、轻视艺术文化的人。"
+      },
+      {
+        "pos": "Adj",
+        "translation": "庸俗的；缺乏文化修养的",
+        "analysis": "表示审美粗糙、文化趣味贫乏，或对思想艺术缺乏尊重。"
+      }
+    ],
+    "translation": "庸俗的人；缺乏审美修养的人；反智或轻视文化的人；庸俗的；缺乏文化修养的",
+    "analysis": "常带明显贬义。作名词时指轻视艺术文化的人；作形容词时表示庸俗、审美粗糙或文化趣味贫乏。",
+    "phonetic": "/ˈfɪlɪstaɪn/; /ˈfɪləstiːn/",
+    "origin": "源自 Philistine，原本指《圣经》中的非利士人，后在欧洲文化语境中引申为缺乏文化修养、轻视艺术的人。",
+    "expansions": [
+      "a complete philistine 一个十足的俗人",
+      "cultural philistine 文化修养低下的人",
+      "philistine attitude 庸俗态度",
+      "philistine taste 庸俗品味"
+    ],
+    "pronunciation": "/ˈfɪlɪstaɪn/; /ˈfɪləstiːn/",
+    "accepted_answers": [
+      "庸俗的人",
+      "缺乏审美修养的人",
+      "反智或轻视文化的人",
+      "庸俗的",
+      "缺乏文化修养的"
+    ],
+    "added_at": "2026-06-02T02:06:40.155Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "scoff",
+    "type": "word",
+    "pos": "V; N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "嘲笑；嗤之以鼻；讥讽",
+        "analysis": "指带着轻蔑意味地嘲笑、不把某事当回事，常用于对观点、警告、计划、风险等表示不屑。"
+      },
+      {
+        "pos": "N",
+        "translation": "嘲弄的话；讥笑",
+        "analysis": "表示一声嘲笑、冷嘲热讽的反应，但实际使用中动词更常见。"
+      }
+    ],
+    "translation": "嘲笑；嗤之以鼻；讥讽；嘲弄的话；讥笑",
+    "analysis": "强调带轻蔑意味地不屑一顾。作动词时常用于对观点、警告、计划、风险等表示不相信或看不起。",
+    "phonetic": "/skɒf/; /skɔːf/",
+    "origin": "词源不完全确定，通常认为与古北欧语或中古英语中表示嘲弄、戏弄的词有关，后演变为现代英语里轻蔑嘲笑之意。",
+    "expansions": [
+      "scoff at the idea 嘲笑这个想法",
+      "scoff at warnings 对警告嗤之以鼻",
+      "people scoffed when... 当……时人们嗤之以鼻",
+      "with a scoff 带着一声冷笑"
+    ],
+    "pronunciation": "/skɒf/; /skɔːf/",
+    "accepted_answers": [
+      "嘲笑",
+      "嗤之以鼻",
+      "讥讽",
+      "嘲弄的话",
+      "讥笑"
+    ],
+    "added_at": "2026-06-02T02:08:02.273Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "defer",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "推迟；延期；暂缓；听从；顺从",
+        "analysis": "最常见义是把某事延后处理；也可表示 defer to sb.，即尊重并接受某人的判断或权威。"
+      }
+    ],
+    "translation": "推迟；延期；暂缓；听从；顺从",
+    "analysis": "常见于正式语境。既可表示时间上往后放，也可表示立场上让给别人、听从其判断。",
+    "phonetic": "/dɪˈfɜː(r)/; /dɪˈfɝː/",
+    "origin": "来自拉丁语 deferre，由 de- 和 ferre（携带、带来）构成，后演变出延后提交、让与判断之义。",
+    "expansions": [
+      "defer a decision 推迟决定",
+      "defer payment 延期付款",
+      "defer action until... 暂缓行动直到……",
+      "defer to expert judgment 听从专家判断"
+    ],
+    "pronunciation": "/dɪˈfɜː(r)/; /dɪˈfɝː/",
+    "accepted_answers": [
+      "推迟",
+      "延期",
+      "暂缓",
+      "听从",
+      "顺从"
+    ],
+    "added_at": "2026-06-03T02:24:57.622Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "defer for now",
+    "type": "phrase",
+    "pos": "Phrase",
+    "senses": [
+      {
+        "pos": "Phrase",
+        "translation": "暂时推迟；先放一放；目前先不处理",
+        "analysis": "表示当前阶段先延后处理，后面再看。不是永久取消，只是当前先不做。"
+      }
+    ],
+    "translation": "暂时推迟；先放一放；目前先不处理",
+    "analysis": "常见于工作沟通、项目排期、讨论决策时，表示先搁置，后续再处理。",
+    "phonetic": "defer /dɪˈfɜː(r)/; /dɪˈfɝː/; for now /fə naʊ/; /fər naʊ/",
+    "origin": "核心词 defer 来自拉丁语 deferre；for now 为现代英语时间状语，表示目前、暂时。",
+    "expansions": [
+      "let us defer this for now 我们先把这个放一放",
+      "defer the decision for now 暂时推迟这个决定",
+      "we will defer that for now 那个我们目前先不处理",
+      "defer implementation for now 暂缓实施"
+    ],
+    "pronunciation": "defer /dɪˈfɜː(r)/; /dɪˈfɝː/; for now /fə naʊ/; /fər naʊ/",
+    "accepted_answers": [
+      "暂时推迟",
+      "先放一放",
+      "目前先不处理"
+    ],
+    "added_at": "2026-06-03T02:29:56.708Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

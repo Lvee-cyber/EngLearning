@@ -1,5 +1,29 @@
 [
   {
+    "term": "-ise",
+    "type": "word",
+    "pos": "V",
+    "translation": "使麻醉；使麻木",
+    "analysis": "v [Tn] administer an anaesthetic to (sb); deprive of sensation 使麻醉; 使麻木.",
+    "phonetic": "/ əˈniːsθətaɪz; əˈnesθəˌtaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "使麻醉；使麻木"
+    ],
+    "pronunciation": "/ əˈniːsθətaɪz; əˈnesθəˌtaɪz/",
+    "accepted_answers": [
+      "使麻醉",
+      "使麻木"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
+  },
+  {
     "term": "-ised",
     "type": "word",
     "translation": "有礼貌的；文雅的；有礼貌的社会、行为",
@@ -240,6 +264,31 @@
     }
   },
   {
+    "term": "iba",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；独立广播局；参看",
+    "analysis": "abbr 缩写 = (Brit) Independent Broadcasting Authority 独立广播局. Cf 参看 BBC, ITV.",
+    "phonetic": "/ ˌaɪbiːˈeɪ; ˌaɪbiˈe/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；独立广播局；参看"
+    ],
+    "pronunciation": "/ ˌaɪbiːˈeɪ; ˌaɪbiˈe/",
+    "accepted_answers": [
+      "缩写",
+      "独立广播局",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-a,b,c,d.txt"
+  },
+  {
     "term": "ibis",
     "type": "word",
     "translation": "（涉禽；似鹭；喙长而曲；产於温带）；後缀；与名词结合构成形容词)",
@@ -342,6 +391,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ichneumon",
+    "type": "word",
+    "pos": "N",
+    "translation": "姬蜂（小昆虫；产卵於另一昆虫之蛹中或蛹上）",
+    "analysis": "(also ichneumon-fly) n small insect that lays its eggs in or on the larva of another insect 姬蜂（小昆虫, 产卵於另一昆虫之蛹中或蛹上）.",
+    "phonetic": "/ ɪkˈnjuːmən; -ˈnuː-; ɪkˈnumən/",
+    "origin": "待查",
+    "expansions": [
+      "姬蜂（小昆虫；产卵於另一昆虫之蛹中或蛹上）"
+    ],
+    "pronunciation": "/ ɪkˈnjuːmən; -ˈnuː-; ɪkˈnumən/",
+    "accepted_answers": [
+      "姬蜂（小昆虫",
+      "产卵於另一昆虫之蛹中或蛹上）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-a,b,c,d.txt"
   },
   {
     "term": "ici",
@@ -1023,6 +1096,31 @@
     }
   },
   {
+    "term": "idolization",
+    "type": "word",
+    "pos": "N",
+    "translation": "偶像化；奉为神圣；盲目崇拜",
+    "analysis": "n [U] idolizing or being idolized 偶像化; 奉为神圣; 盲目崇拜.",
+    "phonetic": "/ ˌaɪdəlaɪˈzeɪʃn; ˌaɪdlaɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "偶像化；奉为神圣；盲目崇拜"
+    ],
+    "pronunciation": "/ ˌaɪdəlaɪˈzeɪʃn; ˌaɪdlaɪˈzeʃən/",
+    "accepted_answers": [
+      "偶像化",
+      "奉为神圣",
+      "盲目崇拜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-a,b,c,d.txt"
+  },
+  {
     "term": "idolize",
     "type": "word",
     "translation": "将（某人；某物；）当作偶像崇拜",
@@ -1212,6 +1310,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ignobly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ignobly",
+    "analysis": "adv.",
+    "phonetic": "/ -nəʊblɪ; -ˈnoblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ignobly"
+    ],
+    "pronunciation": "/ -nəʊblɪ; -ˈnoblɪ/",
+    "accepted_answers": [
+      "ignobly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
   },
   {
     "term": "ignominious",
@@ -1412,6 +1533,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "illegal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "不合法的；违法的",
+    "analysis": "adj against the law; not legal 不合法的; 违法的.",
+    "phonetic": "/ ɪˈliːgl; ɪˈligl/",
+    "origin": "待查",
+    "expansions": [
+      "不合法的；违法的"
+    ],
+    "pronunciation": "/ ɪˈliːgl; ɪˈligl/",
+    "accepted_answers": [
+      "不合法的",
+      "违法的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
   },
   {
     "term": "illegally",
@@ -1814,6 +1959,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ilo",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；国际劳工组织",
+    "analysis": "abbr 缩写 = International Labour Organization 国际劳工组织.\nim-\n=> in-.",
+    "phonetic": "/ ˌaɪelˈəʊ; ˌaɪelˈo/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；国际劳工组织"
+    ],
+    "pronunciation": "/ ˌaɪelˈəʊ; ˌaɪelˈo/",
+    "accepted_answers": [
+      "缩写",
+      "国际劳工组织"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
   },
   {
     "term": "image",
@@ -2359,6 +2528,31 @@
     }
   },
   {
+    "term": "immemorial",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文或修辞)；（因年代久远）人类无法追忆的或文字记录所不及的；习语)",
+    "analysis": "adj (fml or rhet 文或修辞)  1 going back beyond the reach of human memory or written records （因年代久远）人类无法追忆的或文字记录所不及的.  2 (idm 习语) from/since time immemorial => time.",
+    "phonetic": "/ ˌɪməˈmɔːrɪəl; ˌɪməˈmɔːrɪəl/",
+    "origin": "待查",
+    "expansions": [
+      "文或修辞)；（因年代久远）人类无法追忆的或文字记录所不及的；习语)"
+    ],
+    "pronunciation": "/ ˌɪməˈmɔːrɪəl; ˌɪməˈmɔːrɪəl/",
+    "accepted_answers": [
+      "文或修辞)",
+      "（因年代久远）人类无法追忆的或文字记录所不及的",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
+  },
+  {
     "term": "immense",
     "type": "word",
     "translation": "巨大的；广大的；巨大的困难、问题、可能性等",
@@ -2654,6 +2848,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "immolate",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；杀（某人）作祭品",
+    "analysis": "v [Tn] (fml 文) kill (sb) as a sacrifice 杀（某人）作祭品.",
+    "phonetic": "/ ˈɪməleɪt; ˈɪməˌlet/",
+    "origin": "待查",
+    "expansions": [
+      "文)；杀（某人）作祭品"
+    ],
+    "pronunciation": "/ ˈɪməleɪt; ˈɪməˌlet/",
+    "accepted_answers": [
+      "文)",
+      "杀（某人）作祭品"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
   },
   {
     "term": "immoral",
@@ -3461,6 +3679,31 @@
     }
   },
   {
+    "term": "impecunious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；一贫如洗的；不名一文的",
+    "analysis": "adj (fml 文) having little or no money 一贫如洗的; 不名一文的.\nimpecuniously \nadv. \nimpecuniousness \nn [U].",
+    "phonetic": "/ ˌɪmpɪˈkjuːnɪəs; ˌɪmpɪˈkjunɪəs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；一贫如洗的；不名一文的"
+    ],
+    "pronunciation": "/ ˌɪmpɪˈkjuːnɪəs; ˌɪmpɪˈkjunɪəs/",
+    "accepted_answers": [
+      "文)",
+      "一贫如洗的",
+      "不名一文的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
+  },
+  {
     "term": "impedance",
     "type": "word",
     "pos": "N",
@@ -3609,6 +3852,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "impenetrability",
+    "type": "word",
+    "pos": "N",
+    "translation": "impenetrability",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪmˌpenɪtrəˈbɪlətɪ; ɪmˌpenətrəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "impenetrability"
+    ],
+    "pronunciation": "/ ɪmˌpenɪtrəˈbɪlətɪ; ɪmˌpenətrəˈbɪlətɪ/",
+    "accepted_answers": [
+      "impenetrability"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
   },
   {
     "term": "impenetrable",
@@ -3809,6 +4075,29 @@
     }
   },
   {
+    "term": "imperially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "imperially",
+    "analysis": "adv.",
+    "phonetic": "/ -rɪəlɪ; -rɪəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "imperially"
+    ],
+    "pronunciation": "/ -rɪəlɪ; -rɪəlɪ/",
+    "accepted_answers": [
+      "imperially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
+  },
+  {
     "term": "imperil",
     "type": "word",
     "translation": "文)；使（某人；某事物",
@@ -3878,6 +4167,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "impermanence",
+    "type": "word",
+    "pos": "N",
+    "translation": "impermanence",
+    "analysis": "n [U].",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "impermanence"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "impermanence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
   },
   {
     "term": "impermeable",
@@ -4067,6 +4379,29 @@
       "这种材料防雨"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
+  },
+  {
+    "term": "impetigo",
+    "type": "word",
+    "pos": "N",
+    "translation": "脓孢病（一种传染性皮肤病）",
+    "analysis": "n [U] type of contagious skin disease that causes crusty yellow sores 脓孢病（一种传染性皮肤病）.",
+    "phonetic": "/ ˌɪmpɪˈtaɪgəʊ; ˌɪmpɪˈtaɪgo/",
+    "origin": "待查",
+    "expansions": [
+      "脓孢病（一种传染性皮肤病）"
+    ],
+    "pronunciation": "/ ˌɪmpɪˈtaɪgəʊ; ˌɪmpɪˈtaɪgo/",
+    "accepted_answers": [
+      "脓孢病（一种传染性皮肤病）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5311,6 +5646,29 @@
     }
   },
   {
+    "term": "improbably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "improbably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "improbably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "improbably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-e,f,g,h,i,j,k,l,m.txt"
+  },
+  {
     "term": "impromptu",
     "type": "word",
     "translation": "事先无准备（的）；临时（的）；即兴（的）",
@@ -6252,6 +6610,31 @@
     }
   },
   {
+    "term": "inanity",
+    "type": "word",
+    "pos": "N",
+    "translation": "无意义；愚蠢；无意义的或愚蠢的言行",
+    "analysis": "n (a) [U] being inane 无意义; 愚蠢. (b) [C] inane remark or act 无意义的或愚蠢的言行.",
+    "phonetic": "/ ɪˈnænətɪ; ɪnˈænətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "无意义；愚蠢；无意义的或愚蠢的言行"
+    ],
+    "pronunciation": "/ ɪˈnænətɪ; ɪnˈænətɪ/",
+    "accepted_answers": [
+      "无意义",
+      "愚蠢",
+      "无意义的或愚蠢的言行"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "inapplicable",
     "type": "word",
     "translation": "不相干的；不适用的；这些规则似乎不适用於这种情况",
@@ -6438,6 +6821,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "inaudibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "inaudibly",
+    "analysis": "adv.",
+    "phonetic": "/ ɪnˈɔːdəblɪ; ɪnˈɔːdəblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inaudibly"
+    ],
+    "pronunciation": "/ ɪnˈɔːdəblɪ; ɪnˈɔːdəblɪ/",
+    "accepted_answers": [
+      "inaudibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inaugural",
@@ -6673,6 +7079,30 @@
     }
   },
   {
+    "term": "incandescent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "白炽的；白热的",
+    "analysis": "adj glowing or shining when heated 白炽的; 白热的.",
+    "phonetic": "/ ˌɪnkænˈdesnt; ˌɪnkænˈdesnt/",
+    "origin": "待查",
+    "expansions": [
+      "白炽的；白热的"
+    ],
+    "pronunciation": "/ ˌɪnkænˈdesnt; ˌɪnkænˈdesnt/",
+    "accepted_answers": [
+      "白炽的",
+      "白热的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "incantation",
     "type": "word",
     "translation": "符咒；咒语；魔法",
@@ -6792,6 +7222,29 @@
     }
   },
   {
+    "term": "incarceration",
+    "type": "word",
+    "pos": "N",
+    "translation": "incarceration",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪnˌkɑː:səˈreɪʃn; ɪnˌkɑːrsəˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "incarceration"
+    ],
+    "pronunciation": "/ ɪnˌkɑː:səˈreɪʃn; ɪnˌkɑːrsəˈreʃən/",
+    "accepted_answers": [
+      "incarceration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "incarnate",
     "type": "word",
     "translation": "用於名词之後)；人体化的；化身的",
@@ -6837,6 +7290,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "incautious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "不谨慎的；粗心的；轻率的",
+    "analysis": "adj acting or done without enough care or thought; not cautious; rash 不谨慎的; 粗心的; 轻率的.\nincautiously \nadv.",
+    "phonetic": "/ ɪnˈkɔːʃəs; ɪnˈkɔːʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "不谨慎的；粗心的；轻率的"
+    ],
+    "pronunciation": "/ ɪnˈkɔːʃəs; ɪnˈkɔːʃəs/",
+    "accepted_answers": [
+      "不谨慎的",
+      "粗心的",
+      "轻率的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "incendiary",
@@ -7448,6 +7926,30 @@
     }
   },
   {
+    "term": "incombustible",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；不能燃烧的",
+    "analysis": "adj (fml 文) that cannot be burnt 不能燃烧的.",
+    "phonetic": "/ ˌɪŋkəmˈbʌstəbl; ˌɪnkəmˈbʌstəbl/",
+    "origin": "待查",
+    "expansions": [
+      "文)；不能燃烧的"
+    ],
+    "pronunciation": "/ ˌɪŋkəmˈbʌstəbl; ˌɪnkəmˈbʌstəbl/",
+    "accepted_answers": [
+      "文)",
+      "不能燃烧的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "income",
     "type": "word",
     "translation": "收入（某一段时间所得；尤指工作报酬或投资收益）；有双份收入的家庭（如夫妻皆工作）；收入超过",
@@ -7667,6 +8169,29 @@
     }
   },
   {
+    "term": "incomprehensibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "incomprehensibility",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪnˌkɒmprɪˌhensəˈbɪlətɪ; ˌɪnkɑːmprɪˌhensəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "incomprehensibility"
+    ],
+    "pronunciation": "/ ɪnˌkɒmprɪˌhensəˈbɪlətɪ; ˌɪnkɑːmprɪˌhensəˈbɪlətɪ/",
+    "accepted_answers": [
+      "incomprehensibility"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "incomprehensible",
     "type": "word",
     "translation": "无法理解的；难於领悟的；普通人难以理解的技术用语",
@@ -7851,6 +8376,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "inconsequentially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "inconsequentially",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃəlɪ; -ʃəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inconsequentially"
+    ],
+    "pronunciation": "/ -ʃəlɪ; -ʃəlɪ/",
+    "accepted_answers": [
+      "inconsequentially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inconsiderable",
@@ -8303,6 +8851,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "incorruptibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "incorruptibly",
+    "analysis": "adv.",
+    "phonetic": "/ ˌɪŋkəˈrʌptəblɪ; ˌɪnkəˈrʌptəblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "incorruptibly"
+    ],
+    "pronunciation": "/ ˌɪŋkəˈrʌptəblɪ; ˌɪnkəˈrʌptəblɪ/",
+    "accepted_answers": [
+      "incorruptibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "increase",
@@ -9071,6 +9642,29 @@
     }
   },
   {
+    "term": "indefinably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "indefinably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "indefinably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "indefinably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "indefinite",
     "type": "word",
     "translation": "不确定的；不明确的；模糊的",
@@ -9439,6 +10033,32 @@
     }
   },
   {
+    "term": "indexation",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "（工资、养老金等的）调整指数；指数化；食指；插图",
+    "analysis": "n [U] indexing (index v 2) of wages, pensions, etc （工资、 养老金等的）调整指数, 指数化.\nindex finger \nn finger next to the thumb, used for pointing 食指. =>illus at hand 见hand插图.\nindex-linked \nadj (of wages, pensions, etc) increased according to increases in the cost of living （指工资、 养老金等）按生活指数调整的.",
+    "phonetic": "/ ˌɪndekˈseɪʃn; ˌɪndekˈseʃən/",
+    "origin": "待查",
+    "expansions": [
+      "（工资、养老金等的）调整指数；指数化；食指；插图"
+    ],
+    "pronunciation": "/ ˌɪndekˈseɪʃn; ˌɪndekˈseʃən/",
+    "accepted_answers": [
+      "（工资、养老金等的）调整指数",
+      "指数化",
+      "食指",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "indian",
     "type": "word",
     "translation": "印度共和国的（土著或居民）；印度的；印度人",
@@ -9460,6 +10080,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "indiarubber",
+    "type": "word",
+    "pos": "N",
+    "translation": "（擦掉字迹用的）橡皮",
+    "analysis": "n piece of rubber for removing pencil or ink marks; eraser （擦掉字迹用的）橡皮.",
+    "phonetic": "/ ˌɪndɪəˈrʌbə(r); ˌɪndɪəˈrʌbə/",
+    "origin": "待查",
+    "expansions": [
+      "（擦掉字迹用的）橡皮"
+    ],
+    "pronunciation": "/ ˌɪndɪəˈrʌbə(r); ˌɪndɪəˈrʌbə/",
+    "accepted_answers": [
+      "（擦掉字迹用的）橡皮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "indicate",
@@ -9662,6 +10305,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "indigestibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "indigestibility",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌɪndɪˌdʒestəˈbɪlətɪ; ˌɪndəˌdʒestəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "indigestibility"
+    ],
+    "pronunciation": "/ ˌɪndɪˌdʒestəˈbɪlətɪ; ˌɪndəˌdʒestəˈbɪlətɪ/",
+    "accepted_answers": [
+      "indigestibility"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "indigestible",
@@ -9983,6 +10649,31 @@
     }
   },
   {
+    "term": "indisposition",
+    "type": "word",
+    "pos": "N",
+    "translation": "常作委婉语)；微恙；不健康",
+    "analysis": "n [C, U]  1 (often euph 常作委婉语) slight illness; ill health 微恙; 不健康.  2 ~ to do sth (fml 文) feeling of unwillingness or disinclination to do sth 不乐意或不情愿做某事.",
+    "phonetic": "/ ˌɪndɪspəˈzɪʃn; ˌɪndɪspəˈzɪʃən/",
+    "origin": "待查",
+    "expansions": [
+      "常作委婉语)；微恙；不健康"
+    ],
+    "pronunciation": "/ ˌɪndɪspəˈzɪʃn; ˌɪndɪspəˈzɪʃən/",
+    "accepted_answers": [
+      "常作委婉语)",
+      "微恙",
+      "不健康"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "indisputable",
     "type": "word",
     "translation": "不可争辩的；不容置疑的；无可否认的",
@@ -10153,6 +10844,29 @@
     }
   },
   {
+    "term": "individualistically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "individualistically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "individualistically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "individualistically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "individuality",
     "type": "word",
     "translation": "个性；个人特徵；个性突出的男子",
@@ -10226,6 +10940,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "indivisible",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "不可分割的",
+    "analysis": "adj that cannot be divided 不可分割的.",
+    "phonetic": "/ ˌɪndɪˈvɪzəbl; ˌɪndəˈvɪzəbl/",
+    "origin": "待查",
+    "expansions": [
+      "不可分割的"
+    ],
+    "pronunciation": "/ ˌɪndɪˈvɪzəbl; ˌɪndəˈvɪzəbl/",
+    "accepted_answers": [
+      "不可分割的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "indivisibly",
@@ -10734,6 +11471,30 @@
     }
   },
   {
+    "term": "inebriation",
+    "type": "word",
+    "pos": "N",
+    "translation": "文或谑)；酒醉",
+    "analysis": "n [U] (fml or joc 文或谑) drunkenness 醉; 酒醉.",
+    "phonetic": "/ ɪˌniːbrɪˈeɪʃn; ɪnˌibrɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文或谑)；酒醉"
+    ],
+    "pronunciation": "/ ɪˌniːbrɪˈeɪʃn; ɪnˌibrɪˈeʃən/",
+    "accepted_answers": [
+      "文或谑)",
+      "酒醉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "inedible",
     "type": "word",
     "translation": "文)；不宜食用的；不能吃的",
@@ -10778,6 +11539,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ineffably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ineffably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ineffably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "ineffably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "ineffective",
@@ -10997,6 +11781,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ineptitude",
+    "type": "word",
+    "pos": "N",
+    "translation": "不熟练；不适宜；不当的言行等",
+    "analysis": "n (a) [U] quality of being inept 不熟练; 不适宜. (b) [C] inept action, remark, etc 不当的言行等.\nineptly \nadv.",
+    "phonetic": "/ ɪˈneptɪtjuːd; -tuːd; ɪnˈeptəˌtud/",
+    "origin": "待查",
+    "expansions": [
+      "不熟练；不适宜；不当的言行等"
+    ],
+    "pronunciation": "/ ɪˈneptɪtjuːd; -tuːd; ɪnˈeptəˌtud/",
+    "accepted_answers": [
+      "不熟练",
+      "不适宜",
+      "不当的言行等"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inequality",
@@ -11406,6 +12215,29 @@
     }
   },
   {
+    "term": "inexhaustibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "inexhaustibly",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inexhaustibly"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "inexhaustibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "inexorable",
     "type": "word",
     "translation": "不可阻挡的；坚持不懈的；无情的",
@@ -11501,6 +12333,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "inexpiable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)(；（指罪过）不能自赎的；不可抵偿的",
+    "analysis": "adj (fml 文) (of an offence) so bad that nothing one can do can make up for it; that cannot be expiated （指罪过）不能自赎的, 不可抵偿的.",
+    "phonetic": "/ ɪnˈekspɪəbl; ɪnˈekspɪəbl/",
+    "origin": "待查",
+    "expansions": [
+      "文)(；（指罪过）不能自赎的；不可抵偿的"
+    ],
+    "pronunciation": "/ ɪnˈekspɪəbl; ɪnˈekspɪəbl/",
+    "accepted_answers": [
+      "文)(",
+      "（指罪过）不能自赎的",
+      "不可抵偿的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inexplicable",
@@ -12088,6 +12945,29 @@
     }
   },
   {
+    "term": "inferentially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "inferentially",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃəlɪ; -ʃəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inferentially"
+    ],
+    "pronunciation": "/ -ʃəlɪ; -ʃəlɪ/",
+    "accepted_answers": [
+      "inferentially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "inferior",
     "type": "word",
     "translation": "（等级、社会地位、重要性、质量等）（较）低的；次要的；低等的；差的；上尉的级别低於少校；社会地位低下",
@@ -12355,6 +13235,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "infill",
+    "type": "word",
+    "pos": "N",
+    "translation": ")填空隙（如一排建筑物之间）；)填充物（用以填实洞穴或空隙的；如在墙上）",
+    "analysis": "(also infilling) n [U]  1 act of filling gaps (eg in a row of buildings) 填空隙（如一排建筑物之间）.  2 material used to fill a hole or gap (eg in a wall) 填充物（用以填实洞穴或空隙的, 如在墙上）.",
+    "phonetic": "/ ˈɪnfɪl; ˈɪnfɪl/",
+    "origin": "待查",
+    "expansions": [
+      ")填空隙（如一排建筑物之间）；)填充物（用以填实洞穴或空隙的；如在墙上）"
+    ],
+    "pronunciation": "/ ˈɪnfɪl; ˈɪnfɪl/",
+    "accepted_answers": [
+      ")填空隙（如一排建筑物之间）",
+      ")填充物（用以填实洞穴或空隙的",
+      "如在墙上）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "infiltrate",
@@ -12868,6 +13773,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "inflexibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "inflexibly",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inflexibly"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "inflexibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inflict",
@@ -13556,6 +14484,30 @@
     }
   },
   {
+    "term": "ingot",
+    "type": "word",
+    "pos": "N",
+    "translation": "铸块；锭（尤指金、银铸锭）",
+    "analysis": "n (usu brick-shaped) lump of metal esp gold and silver, cast in a mould 铸块, 锭（尤指金、 银铸锭）.",
+    "phonetic": "/ ˈɪŋgət; ˈɪŋgət/",
+    "origin": "待查",
+    "expansions": [
+      "铸块；锭（尤指金、银铸锭）"
+    ],
+    "pronunciation": "/ ˈɪŋgət; ˈɪŋgət/",
+    "accepted_answers": [
+      "铸块",
+      "锭（尤指金、银铸锭）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "ingrained",
     "type": "word",
     "translation": "（指习惯、习性等）根深蒂固的；一成不变的；由来已久的成见、怀疑、臆见等；（指尘土、污迹等）积深而难於清除的",
@@ -13607,6 +14559,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ingratitude",
+    "type": "word",
+    "pos": "N",
+    "translation": "忘恩负义",
+    "analysis": "n [U] lack of gratitude 忘恩负义.",
+    "phonetic": "/ ɪnˈgrætɪtjuːd; -tuːd; ɪnˈgrætəˌtud/",
+    "origin": "待查",
+    "expansions": [
+      "忘恩负义"
+    ],
+    "pronunciation": "/ ɪnˈgrætɪtjuːd; -tuːd; ɪnˈgrætəˌtud/",
+    "accepted_answers": [
+      "忘恩负义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "ingredient",
@@ -14574,6 +15549,32 @@
     }
   },
   {
+    "term": "inn",
+    "type": "word",
+    "pos": "N",
+    "translation": "客栈；小而旧的旅馆（现多指乡村的）；参看；上述客栈或旅馆的老板",
+    "analysis": "n (Brit) public house or small old hotel where lodgings, drink and meals may be had, now usu in the country 客栈, 小而旧的旅馆（现多指乡村的）. Cf 参看 hotel.\ninnkeeper \nn person who manages an inn 上述客栈或旅馆的老板.\nInn of Court \n(building occupied by) any of four law societies in London having the exclusive right of admitting people to the rank of barrister in England 律师学院（所属的建筑物）（伦敦四个法律学院之任何一所, 又译作律师协会. 此四所学院或协会是唯一有权授予讼务律师资格的组织）.",
+    "phonetic": "/ ɪn; ɪn/",
+    "origin": "待查",
+    "expansions": [
+      "客栈；小而旧的旅馆（现多指乡村的）；参看；上述客栈或旅馆的老板"
+    ],
+    "pronunciation": "/ ɪn; ɪn/",
+    "accepted_answers": [
+      "客栈",
+      "小而旧的旅馆（现多指乡村的）",
+      "参看",
+      "上述客栈或旅馆的老板"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "innards",
     "type": "word",
     "translation": "口)；肠胃；我肚子疼",
@@ -14888,6 +15889,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "innumerate",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "不懂数学的；不会数数的；不会计算的",
+    "analysis": "adj without a basic knowledge of mathematics; unable to count or do sums 不懂数学的; 不会数数的; 不会计算的; 数学盲的.",
+    "phonetic": "/ ɪˈnjuːmərət; ɪnˈjumərət/",
+    "origin": "待查",
+    "expansions": [
+      "不懂数学的；不会数数的；不会计算的"
+    ],
+    "pronunciation": "/ ɪˈnjuːmərət; ɪnˈjumərət/",
+    "accepted_answers": [
+      "不懂数学的",
+      "不会数数的",
+      "不会计算的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inoculate",
@@ -15257,6 +16283,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "inquisitor",
+    "type": "word",
+    "pos": "N",
+    "translation": "调查人（尤指天主教的宗教法庭审判官）",
+    "analysis": "n investigator, esp an officer of the Inquisition 调查人（尤指天主教的宗教法庭审判官）.",
+    "phonetic": "/ ɪnˈkwɪzɪtə(r); ɪnˈkwɪzətə/",
+    "origin": "待查",
+    "expansions": [
+      "调查人（尤指天主教的宗教法庭审判官）"
+    ],
+    "pronunciation": "/ ɪnˈkwɪzɪtə(r); ɪnˈkwɪzətə/",
+    "accepted_answers": [
+      "调查人（尤指天主教的宗教法庭审判官）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "inroad",
@@ -16198,6 +17247,29 @@
     }
   },
   {
+    "term": "insistence",
+    "type": "word",
+    "pos": "N",
+    "translation": "insistence",
+    "analysis": "n [U] ~ (about/on sth); ~ (that...).\ninsistently \nadv.",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "insistence"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "insistence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "insistent",
     "type": "word",
     "translation": "坚持的；不容拒绝或反对的；她是个说一不二的人；决不容别人反对",
@@ -16295,6 +17367,30 @@
     }
   },
   {
+    "term": "insolvent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "无力偿付债务的；破产的",
+    "analysis": "adj unable to pay debts; bankrupt 无力偿付债务的; 破产的.",
+    "phonetic": "/ ɪnˈsɒlvənt; ɪnˈsɑːlvənt/",
+    "origin": "待查",
+    "expansions": [
+      "无力偿付债务的；破产的"
+    ],
+    "pronunciation": "/ ɪnˈsɒlvənt; ɪnˈsɑːlvənt/",
+    "accepted_answers": [
+      "无力偿付债务的",
+      "破产的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "insomnia",
     "type": "word",
     "translation": "失眠；失眠症；患失眠症",
@@ -16339,6 +17435,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "insouciance",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；无忧无虑；满不在乎",
+    "analysis": "n [U] (fml 文) state of being unconcerned, esp in a light-hearted way; nonchalance 无忧无虑; 满不在乎; 漠不关心; 漫不经心.",
+    "phonetic": "/ ɪnˈsuːsɪəns; ɪnˈsusɪəns/",
+    "origin": "待查",
+    "expansions": [
+      "文)；无忧无虑；满不在乎"
+    ],
+    "pronunciation": "/ ɪnˈsuːsɪəns; ɪnˈsusɪəns/",
+    "accepted_answers": [
+      "文)",
+      "无忧无虑",
+      "满不在乎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "insouciant",
@@ -17515,6 +18636,31 @@
     }
   },
   {
+    "term": "insurrection",
+    "type": "word",
+    "pos": "N",
+    "translation": "起义；暴动；叛乱",
+    "analysis": "n  1 [U] sudden,usu violent, action taken by (part of) the population to try to remove the government 起义; 暴动; 叛乱; 造反.  2 [C] instance of this; revolt 起义; 暴动; 叛乱; 造反.",
+    "phonetic": "/ ˌɪnsəˈrekʃn; ˌɪnsəˈrekʃən/",
+    "origin": "待查",
+    "expansions": [
+      "起义；暴动；叛乱"
+    ],
+    "pronunciation": "/ ˌɪnsəˈrekʃn; ˌɪnsəˈrekʃən/",
+    "accepted_answers": [
+      "起义",
+      "暴动",
+      "叛乱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "intact",
     "type": "word",
     "translation": "无损伤的；完整的；从事故中抢救出来的箱子；里面的东西完好无损",
@@ -17565,6 +18711,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "intangibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "intangibility",
+    "analysis": "n [U].\nintangibly \nadv.",
+    "phonetic": "/ ɪnˌtndʒəˈbɪlətɪ; ɪnˌtændʒəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "intangibility"
+    ],
+    "pronunciation": "/ ɪnˌtndʒəˈbɪlətɪ; ɪnˌtændʒəˈbɪlətɪ/",
+    "accepted_answers": [
+      "intangibility"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "intangible",
@@ -17841,6 +19010,29 @@
     }
   },
   {
+    "term": "intelligibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "可理解性",
+    "analysis": "n [U] quality of being intelligible 可理解性.\nintelligibly \nadv.",
+    "phonetic": "/ ɪnˌtelɪdʒəˈbɪlətɪ; ɪnˌtelɪdʒəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "可理解性"
+    ],
+    "pronunciation": "/ ɪnˌtelɪdʒəˈbɪlətɪ; ɪnˌtelɪdʒəˈbɪlətɪ/",
+    "accepted_answers": [
+      "可理解性"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "intelligible",
     "type": "word",
     "translation": "可（易）理解的；明白易懂的讲话；难以理解的胡涂解释",
@@ -17863,6 +19055,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "intemperance",
+    "type": "word",
+    "pos": "N",
+    "translation": "intemperance",
+    "analysis": "n [U].\nintemperately \nadv.",
+    "phonetic": "/ -pərəns; -pərəns/",
+    "origin": "待查",
+    "expansions": [
+      "intemperance"
+    ],
+    "pronunciation": "/ -pərəns; -pərəns/",
+    "accepted_answers": [
+      "intemperance"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "intemperate",
@@ -18336,6 +19551,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "interceptor",
+    "type": "word",
+    "pos": "N",
+    "translation": ")进行中途阻止或拦截的人或物；（尤指）截击机",
+    "analysis": "n person or thing that intercepts (esp a fast military plane which attacks incoming bombers) 进行中途阻止或拦截的人或物; （尤指）截击机.",
+    "phonetic": "/ -tə(r); -tə/",
+    "origin": "待查",
+    "expansions": [
+      ")进行中途阻止或拦截的人或物；（尤指）截击机"
+    ],
+    "pronunciation": "/ -tə(r); -tə/",
+    "accepted_answers": [
+      ")进行中途阻止或拦截的人或物",
+      "（尤指）截击机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "interchange",
@@ -18907,6 +20146,29 @@
     }
   },
   {
+    "term": "interlinear",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "在行间（书写或印刷）的",
+    "analysis": "adj (written or printed) between the lines of a text 在行间（书写或印刷）的.",
+    "phonetic": "/ ˌɪntəˈlɪnɪə(r); ˌɪntəˈlɪnɪə/",
+    "origin": "待查",
+    "expansions": [
+      "在行间（书写或印刷）的"
+    ],
+    "pronunciation": "/ ˌɪntəˈlɪnɪə(r); ˌɪntəˈlɪnɪə/",
+    "accepted_answers": [
+      "在行间（书写或印刷）的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "interlink",
     "type": "word",
     "translation": ")(；)将（某物）（与他物）连结；互相连结的链子",
@@ -19277,6 +20539,30 @@
     }
   },
   {
+    "term": "intern",
+    "type": "word",
+    "pos": "V",
+    "translation": "将某人（如恐怖分子或敌国的人）拘留、扣押（於监狱、拘留营等；尤指战时不经审讯的）",
+    "analysis": "v [Tn, Tn.pr] ~ sb (in sth) put sb (eg a terrorist or sb from an enemy country) in prison, a camp, etc, esp during a war and without trial 将某人（如恐怖分子或敌国的人）拘留、 扣押（於监狱、 拘留营等, 尤指战时不经审讯的）.",
+    "phonetic": "/ ɪnˈtɜːn; ɪnˈtɜːn/",
+    "origin": "待查",
+    "expansions": [
+      "将某人（如恐怖分子或敌国的人）拘留、扣押（於监狱、拘留营等；尤指战时不经审讯的）"
+    ],
+    "pronunciation": "/ ɪnˈtɜːn; ɪnˈtɜːn/",
+    "accepted_answers": [
+      "将某人（如恐怖分子或敌国的人）拘留、扣押（於监狱、拘留营等",
+      "尤指战时不经审讯的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "internal",
     "type": "word",
     "translation": "内部的；在内部的；机器内部的运转",
@@ -19607,6 +20893,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "interpolation",
+    "type": "word",
+    "pos": "N",
+    "translation": "插入言语、文字或篡改；插入的言语或文字",
+    "analysis": "n (a) [U] interpolating or being interpolated 插入言语、 文字或篡改. (b) [C] thing interpolated 插入的言语或文字.",
+    "phonetic": "/ ɪnˌtɜːpəˈleɪʃn; ɪnˌtɜːpəˈleʃən/",
+    "origin": "待查",
+    "expansions": [
+      "插入言语、文字或篡改；插入的言语或文字"
+    ],
+    "pronunciation": "/ ɪnˌtɜːpəˈleɪʃn; ɪnˌtɜːpəˈleʃən/",
+    "accepted_answers": [
+      "插入言语、文字或篡改",
+      "插入的言语或文字"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "interpose",
@@ -20222,6 +21532,56 @@
     }
   },
   {
+    "term": "interviewee",
+    "type": "word",
+    "pos": "N",
+    "translation": "（面试中）受审核者；被接见者；被采访者",
+    "analysis": "n person who is interviewed （面试中）受审核者; 被接见者; 被采访者.",
+    "phonetic": "/ ˌɪntəvjuːˈiː; ˌɪntəvjuˈi/",
+    "origin": "待查",
+    "expansions": [
+      "（面试中）受审核者；被接见者；被采访者"
+    ],
+    "pronunciation": "/ ˌɪntəvjuːˈiː; ˌɪntəvjuˈi/",
+    "accepted_answers": [
+      "（面试中）受审核者",
+      "被接见者",
+      "被采访者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
+    "term": "interviewer",
+    "type": "word",
+    "pos": "N",
+    "translation": "主持面试者；接见者；采访者",
+    "analysis": "n person who conducts an interview 主持面试者; 接见者; 采访者.",
+    "phonetic": "/ ˈɪntəvjuːə; ˈɪntəˌvjuə/",
+    "origin": "待查",
+    "expansions": [
+      "主持面试者；接见者；采访者"
+    ],
+    "pronunciation": "/ ˈɪntəvjuːə; ˈɪntəˌvjuə/",
+    "accepted_answers": [
+      "主持面试者",
+      "接见者",
+      "采访者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "interweave",
     "type": "word",
     "translation": ")(；交织；编结",
@@ -20726,6 +22086,29 @@
     }
   },
   {
+    "term": "intransigence",
+    "type": "word",
+    "pos": "N",
+    "translation": "intransigence",
+    "analysis": "n [U].\nintransigently \nadv.",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "intransigence"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "intransigence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "intransigent",
     "type": "word",
     "translation": "文；贬)；固执己见的；不愿合作的",
@@ -20748,6 +22131,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "intransitive",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；（指动词）不及物的；参看",
+    "analysis": "adj (grammar)(of verbs) used without an object （指动词）不及物的. Cf 参看 transitive.\nintransitively \nadv.",
+    "phonetic": "/ ɪnˈtrænsətɪv; ɪnˈtrænsətɪv/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（指动词）不及物的；参看"
+    ],
+    "pronunciation": "/ ɪnˈtrænsətɪv; ɪnˈtrænsətɪv/",
+    "accepted_answers": [
+      ")(",
+      "（指动词）不及物的",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "intrastate",
@@ -21064,6 +22472,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "introspection",
+    "type": "word",
+    "pos": "N",
+    "translation": "反省；内省",
+    "analysis": "n [U] introspecting 反省; 内省.",
+    "phonetic": "/ ˌɪntrəˈspekʃn; ˌɪntrəˈspekʃən/",
+    "origin": "待查",
+    "expansions": [
+      "反省；内省"
+    ],
+    "pronunciation": "/ ˌɪntrəˈspekʃn; ˌɪntrəˈspekʃən/",
+    "accepted_answers": [
+      "反省",
+      "内省"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
   },
   {
     "term": "introspective",
@@ -22137,6 +23569,29 @@
     }
   },
   {
+    "term": "inviolability",
+    "type": "word",
+    "pos": "N",
+    "translation": "inviolability",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪnˌvaɪələˈbɪlətɪ; ɪnˌvaɪələˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inviolability"
+    ],
+    "pronunciation": "/ ɪnˌvaɪələˈbɪlətɪ; ɪnˌvaɪələˈbɪlətɪ/",
+    "accepted_answers": [
+      "inviolability"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "inviolable",
     "type": "word",
     "translation": "文)；不可侵犯的；不可违背的",
@@ -22161,6 +23616,29 @@
     }
   },
   {
+    "term": "inviolably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "inviolably",
+    "analysis": "adv.",
+    "phonetic": "/ ɪnˈvaɪələblɪ; ɪnˈvaɪələblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "inviolably"
+    ],
+    "pronunciation": "/ ɪnˈvaɪələblɪ; ɪnˈvaɪələblɪ/",
+    "accepted_answers": [
+      "inviolably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "inviolate",
     "type": "word",
     "translation": "通常作表语；)(；文)",
@@ -22178,6 +23656,29 @@
       "文)"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
+    "term": "invisibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "invisibility",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪnˌvɪzəˈbɪlətɪ; ˌɪnvɪzəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "invisibility"
+    ],
+    "pronunciation": "/ ɪnˌvɪzəˈbɪlətɪ; ˌɪnvɪzəˈbɪlətɪ/",
+    "accepted_answers": [
+      "invisibility"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -22385,6 +23886,29 @@
     "dict_source": "data/DICT/I/I-n.txt"
   },
   {
+    "term": "involution",
+    "type": "word",
+    "pos": "N",
+    "translation": "involution",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ˌɪnvəˈluːʃn; ˌɪnvəˈluʃən/",
+    "origin": "待查",
+    "expansions": [
+      "involution"
+    ],
+    "pronunciation": "/ ˌɪnvəˈluːʃn; ˌɪnvəˈluʃən/",
+    "accepted_answers": [
+      "involution"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-n.txt"
+  },
+  {
     "term": "involve",
     "type": "word",
     "translation": "使（某事物）成为必要条件或结果；需要；这一设计离不开计算机",
@@ -22511,6 +24035,30 @@
     }
   },
   {
+    "term": "ionosphere",
+    "type": "word",
+    "pos": "N",
+    "translation": "电离层；参看",
+    "analysis": "n [sing] set of layers of the earth's atmosphere that reflect radio waves round the earth 电离层. Cf 参看 Heaviside layer, stratosphere.",
+    "phonetic": "/ aɪˈɒnəsfɪə(r); aɪˈɑːnəˌsfɪr/",
+    "origin": "待查",
+    "expansions": [
+      "电离层；参看"
+    ],
+    "pronunciation": "/ aɪˈɒnəsfɪə(r); aɪˈɑːnəˌsfɪr/",
+    "accepted_answers": [
+      "电离层",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
     "term": "iota",
     "type": "word",
     "translation": "希腊字母；比喻)(；尤用於否定式)",
@@ -22555,6 +24103,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ipa",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；国际音标；国际语音学协会",
+    "analysis": "abbr 缩写 = International Phonetic Alphabet/Association 国际音标; 国际语音学协会.",
+    "phonetic": "/ ˌaɪpiːˈeɪ; ˈaɪˌpiˈe/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；国际音标；国际语音学协会"
+    ],
+    "pronunciation": "/ ˌaɪpiːˈeɪ; ˈaɪˌpiˈe/",
+    "accepted_answers": [
+      "缩写",
+      "国际音标",
+      "国际语音学协会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
   },
   {
     "term": "ipso facto",
@@ -22795,6 +24368,30 @@
     }
   },
   {
+    "term": "ironmonger",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；五金商人",
+    "analysis": "n (Brit) (US `hardware dealer) dealer in tools, householdimplements, etc 五金商人.",
+    "phonetic": "/ ˈaɪənmʌŋgə(r); ˈaɪənˌmʌŋgə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；五金商人"
+    ],
+    "pronunciation": "/ ˈaɪənmʌŋgə(r); ˈaɪənˌmʌŋgə/",
+    "accepted_answers": [
+      ")(",
+      "五金商人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
     "term": "irony",
     "type": "word",
     "translation": "反语；反话；那真是可爱极了；真的",
@@ -22865,6 +24462,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "irrationality",
+    "type": "word",
+    "pos": "N",
+    "translation": "irrationality",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪˌræʃəˈnælətɪ; ɪˌræʃəˈnælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "irrationality"
+    ],
+    "pronunciation": "/ ɪˌræʃəˈnælətɪ; ɪˌræʃəˈnælətɪ/",
+    "accepted_answers": [
+      "irrationality"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
   },
   {
     "term": "irreconcilable",
@@ -23250,6 +24870,29 @@
     }
   },
   {
+    "term": "irreproachably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "irreproachably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "irreproachably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "irreproachably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
     "term": "irresistible",
     "type": "word",
     "translation": "（强大得）不可抵抗的；无法抗拒的诱惑、强烈愿望、冲动等；他的论据是无从反驳的",
@@ -23376,6 +25019,29 @@
     }
   },
   {
+    "term": "irretrievably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "irretrievably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "irretrievably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "irretrievably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
     "term": "irreversible",
     "type": "word",
     "translation": "不能反转的；不能撤销的；不能更改的",
@@ -23397,6 +25063,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "irreversibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "irreversibly",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "irreversibly"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "irreversibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
   },
   {
     "term": "irrevocable",
@@ -23421,6 +25110,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "irrevocably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "irrevocably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "irrevocably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "irrevocably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
   },
   {
     "term": "irrigate",
@@ -23594,6 +25306,53 @@
     }
   },
   {
+    "term": "isinglass",
+    "type": "word",
+    "pos": "N",
+    "translation": "鱼胶（用鱼鳔制成；可制果冻及胶水等）",
+    "analysis": "n [U]clear white jelly from the air bladders of some freshwaterfish, used for making jellies, glue, etc 鱼胶（用鱼鳔制成, 可制果冻及胶水等）.",
+    "phonetic": "/ ˈaɪzɪŋglɑː:s; -glæs; ˈaɪzɪŋˌglæs/",
+    "origin": "待查",
+    "expansions": [
+      "鱼胶（用鱼鳔制成；可制果冻及胶水等）"
+    ],
+    "pronunciation": "/ ˈaɪzɪŋglɑː:s; -glæs; ˈaɪzɪŋˌglæs/",
+    "accepted_answers": [
+      "鱼胶（用鱼鳔制成",
+      "可制果冻及胶水等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
+    "term": "islamic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "islamic",
+    "analysis": "adj.",
+    "phonetic": "/ ɪzˈlmɪk; USɪsˈlɑː:mɪk; ɪsˈlɑːmɪk/",
+    "origin": "待查",
+    "expansions": [
+      "islamic"
+    ],
+    "pronunciation": "/ ɪzˈlmɪk; USɪsˈlɑː:mɪk; ɪsˈlɑːmɪk/",
+    "accepted_answers": [
+      "islamic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
     "term": "island",
     "type": "word",
     "translation": "缩写；在热带的一些岛上；设得兰人是岛屿民族",
@@ -23718,6 +25477,29 @@
     }
   },
   {
+    "term": "isomorphic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "isomorphic",
+    "analysis": "(also isomorphous / 9aIsE5mR:fEs; 9aIsE`mRrfEs/) adj.",
+    "phonetic": "/ ˌaɪsəˈmɔːfɪk; ˌaɪsəˈmɔːrfɪk/",
+    "origin": "待查",
+    "expansions": [
+      "fEs; 9aIsE`mRrfEs/) adj."
+    ],
+    "pronunciation": "/ ˌaɪsəˈmɔːfɪk; ˌaɪsəˈmɔːrfɪk/",
+    "accepted_answers": [
+      "isomorphic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
     "term": "isotope",
     "type": "word",
     "translation": "同位素；放射性同位素（用於医学和工业）",
@@ -23812,6 +25594,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "it'd",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式  1 it had => have.  2 it would => will1, would2.",
+    "phonetic": "/ ˈɪtəd; ˈɪtəd/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ ˈɪtəd; ˈɪtəd/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
+  },
+  {
+    "term": "italian",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "意大利的；意大利文化的；意大利语的",
+    "analysis": "adj of Italy, its culture, language or people 意大利的; 意大利文化的; 意大利语的; 意大利人的.\nItalian \nn native of Italy 意大利人.",
+    "phonetic": "/ ɪˈtælɪən; ɪˈtæljən/",
+    "origin": "待查",
+    "expansions": [
+      "意大利的；意大利文化的；意大利语的"
+    ],
+    "pronunciation": "/ ɪˈtælɪən; ɪˈtæljən/",
+    "accepted_answers": [
+      "意大利的",
+      "意大利文化的",
+      "意大利语的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
   },
   {
     "term": "italic",
@@ -23983,6 +25813,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "iterate",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；文)；反覆说某事",
+    "analysis": "v [Tn, Tn.pr, Tf, Tw, Dpr.f, Dpr.w] ~sth (to sb) (fml 文) say sth again and again; make (an accusation, a demand, etc) repeatedly 反覆说某事; 一再提出（指责、 要求等）. Cf 参看 reiterate.",
+    "phonetic": "/ ˈɪtəreɪt; ˈɪtəˌret/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文)；反覆说某事"
+    ],
+    "pronunciation": "/ ˈɪtəreɪt; ˈɪtəˌret/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "反覆说某事"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/I/I-o,p,q,r,s,t,u,v,w,x,yz.txt"
   },
   {
     "term": "itinerant",

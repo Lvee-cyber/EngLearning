@@ -340,6 +340,57 @@
     }
   },
   {
+    "term": "oaken",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧；文)；栎木制的；橡木制的",
+    "analysis": "adj [attrib 作定语] (dated fml 旧, 文) made of oak 栎木制的; 橡木制的.\noak-apple \nn growth on an oak leaf or stem, caused by an insect 栎瘿; 栎五倍子. Cf 参看 gall3.",
+    "phonetic": "/ ˈəʊkən; ˈokən/",
+    "origin": "待查",
+    "expansions": [
+      "旧；文)；栎木制的；橡木制的"
+    ],
+    "pronunciation": "/ ˈəʊkən; ˈokən/",
+    "accepted_answers": [
+      "旧",
+      "文)",
+      "栎木制的",
+      "橡木制的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
+    "term": "oap",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；口)；领养老金的人",
+    "analysis": "abbr 缩写 =  (Brit infml 口) old-age pensioner 领养老金的人.",
+    "phonetic": "/ ˌəʊeɪˈpiː; ˌoeˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；口)；领养老金的人"
+    ],
+    "pronunciation": "/ ˌəʊeɪˈpiː; ˌoeˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "口)",
+      "领养老金的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "oar",
     "type": "word",
     "translation": "插图；习语)；口)",
@@ -432,6 +483,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oas",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；美洲国家组织",
+    "analysis": "abbr 缩写 = (US) Organization of American States 美洲国家组织.",
+    "phonetic": "/ ˌəʊeɪˈes; ˌoeˈes/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；美洲国家组织"
+    ],
+    "pronunciation": "/ ˌəʊeɪˈes; ˌoeˈes/",
+    "accepted_answers": [
+      "缩写",
+      "美洲国家组织"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
   },
   {
     "term": "oasis",
@@ -623,6 +698,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oau",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；非洲统一组织；)死（源自拉丁文",
+    "analysis": "abbr 缩写 = Organization of African Unity 非洲统一组织.\nob\nabbr 缩写 = died (Latin obiit) 死（源自拉丁文obiit）. Cf 参看 d 2.",
+    "phonetic": "/ ˌəʊeɪˈjuː; ˌoeˈju/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；非洲统一组织；)死（源自拉丁文"
+    ],
+    "pronunciation": "/ ˌəʊeɪˈjuː; ˌoeˈju/",
+    "accepted_answers": [
+      "缩写",
+      "非洲统一组织",
+      ")死（源自拉丁文"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
   },
   {
     "term": "obbenite",
@@ -4911,6 +5011,29 @@
     }
   },
   {
+    "term": "oculist",
+    "type": "word",
+    "pos": "N",
+    "translation": "眼科医生",
+    "analysis": "n specialist in treating diseases and defects of the eye 眼科医生.",
+    "phonetic": "/ ˈɒkjUlɪst; ˈɑːkjəlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "眼科医生"
+    ],
+    "pronunciation": "/ ˈɒkjUlɪst; ˈɑːkjəlɪst/",
+    "accepted_answers": [
+      "眼科医生"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "oculofacial",
     "type": "word",
     "translation": "…的；与…有关的",
@@ -5311,6 +5434,29 @@
       "厌恶"
     ],
     "added_at": "2026-03-30T03:30:42.102Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
+    "term": "odometer",
+    "type": "word",
+    "pos": "N",
+    "translation": "odometer",
+    "analysis": "n (US) = milometer.",
+    "phonetic": "/ ɒˈdɒmɪtə(r),əʊˈ-; oˈdɑːmətə/",
+    "origin": "待查",
+    "expansions": [
+      "odometer"
+    ],
+    "pronunciation": "/ ɒˈdɒmɪtə(r),əʊˈ-; oˈdɑːmətə/",
+    "accepted_answers": [
+      "odometer"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7530,6 +7676,31 @@
     }
   },
   {
+    "term": "ohms",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)(；（尤作公文、信封等的标记）为女王",
+    "analysis": "abbr 缩写 = (Brit) (esp on official forms, envelopes, etc) On Her/His Majesty's Service （尤作公文、 信封等的标记）为女王[英王]陛下效劳.",
+    "phonetic": "/ ˌəʊeɪtʃemˈes; ˌoetʃemˈes/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)(；（尤作公文、信封等的标记）为女王"
+    ],
+    "pronunciation": "/ ˌəʊeɪtʃemˈes; ˌoetʃemˈes/",
+    "accepted_answers": [
+      "缩写",
+      ")(",
+      "（尤作公文、信封等的标记）为女王"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
+  },
+  {
     "term": "oho",
     "type": "word",
     "translation": "表示惊奇或胜利)；後缀(；与形容词和名词结合)",
@@ -9460,6 +9631,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "omniscience",
+    "type": "word",
+    "pos": "N",
+    "translation": "omniscience",
+    "analysis": "n [U].",
+    "phonetic": "/ -sɪəns; -ʃəns/",
+    "origin": "待查",
+    "expansions": [
+      "omniscience"
+    ],
+    "pronunciation": "/ -sɪəns; -ʃəns/",
+    "accepted_answers": [
+      "omniscience"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "omniscient",
@@ -12188,6 +12382,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "operetta",
+    "type": "word",
+    "pos": "N",
+    "translation": "轻歌剧",
+    "analysis": "n short light musical comedy 轻歌剧.",
+    "phonetic": "/ ˌɒpəˈretə; ˌɑːpəˈretə/",
+    "origin": "待查",
+    "expansions": [
+      "轻歌剧"
+    ],
+    "pronunciation": "/ ˌɒpəˈretə; ˌɑːpəˈretə/",
+    "accepted_answers": [
+      "轻歌剧"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
   },
   {
     "term": "operettist",
@@ -18002,6 +18219,30 @@
     }
   },
   {
+    "term": "orthodontist",
+    "type": "word",
+    "pos": "N",
+    "translation": "正牙医师；正牙学家",
+    "analysis": "n specialist in orthodontics 正牙医师; 正牙学家.",
+    "phonetic": "/ -ˈdɒntɪst; -ˈdɑːntɪst/",
+    "origin": "待查",
+    "expansions": [
+      "正牙医师；正牙学家"
+    ],
+    "pronunciation": "/ -ˈdɒntɪst; -ˈdɑːntɪst/",
+    "accepted_answers": [
+      "正牙医师",
+      "正牙学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "orthodox",
     "type": "word",
     "translation": "持普遍赞同的信仰、见解等的；规范的；公认的",
@@ -19084,6 +19325,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oscillograph",
+    "type": "word",
+    "pos": "N",
+    "translation": "物)；示波器；示波仪",
+    "analysis": "n (physics 物) instrument for recording electrical oscillations 示波器; 示波仪.",
+    "phonetic": "/ əˈsɪləgrɑː:f; -græf; əˈsɪləˌgræf/",
+    "origin": "待查",
+    "expansions": [
+      "物)；示波器；示波仪"
+    ],
+    "pronunciation": "/ əˈsɪləgrɑː:f; -græf; əˈsɪləˌgræf/",
+    "accepted_answers": [
+      "物)",
+      "示波器",
+      "示波仪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
+    "term": "oscilloscope",
+    "type": "word",
+    "pos": "N",
+    "translation": "物)；示波管；示波器",
+    "analysis": "n (physics 物) instrument that shows variations in electrical current as a wavy line on the screen of a cathode ray tube 示波管; 示波器.",
+    "phonetic": "/ əˈsɪləskəʊp; əˈsɪləˌskop/",
+    "origin": "待查",
+    "expansions": [
+      "物)；示波管；示波器"
+    ],
+    "pronunciation": "/ əˈsɪləskəʊp; əˈsɪləˌskop/",
+    "accepted_answers": [
+      "物)",
+      "示波管",
+      "示波器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "oscin",
@@ -21140,6 +21431,29 @@
     }
   },
   {
+    "term": "ottoman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")（有垫的）长凳（常兼作放床单、毯子之物的箱子）",
+    "analysis": "n long cushioned seat without a back or arms, often used as a box for storing things (eg sheets and blankets) （有垫的）长凳（常兼作放床单、 毯子之物的箱子）.",
+    "phonetic": "/ ˈɒtəmən; ˈɑːtəmən/",
+    "origin": "待查",
+    "expansions": [
+      ")（有垫的）长凳（常兼作放床单、毯子之物的箱子）"
+    ],
+    "pronunciation": "/ ˈɒtəmən; ˈɑːtəmən/",
+    "accepted_answers": [
+      ")（有垫的）长凳（常兼作放床单、毯子之物的箱子）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "ou",
     "type": "word",
     "translation": "缩写；开放大学；开放大学数学学位",
@@ -22019,6 +22333,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "outcaste",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": ")(；（尤指印度的）被驱逐出或不属於某阶级或种姓的（人）；贱民",
+    "analysis": "n, adj (esp in India) (person) expelled from or not belonging to a fixed social class or caste （尤指印度的）被驱逐出或不属於某阶级或种姓的（人）, 贱民.",
+    "phonetic": "/ ˈaUtkɑː:st; -kæst; ˈaJtˌkæst/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（尤指印度的）被驱逐出或不属於某阶级或种姓的（人）；贱民"
+    ],
+    "pronunciation": "/ ˈaUtkɑː:st; -kæst; ˈaJtˌkæst/",
+    "accepted_answers": [
+      ")(",
+      "（尤指印度的）被驱逐出或不属於某阶级或种姓的（人）",
+      "贱民"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "outchatter",
@@ -25835,6 +26174,29 @@
     }
   },
   {
+    "term": "over-compensation",
+    "type": "word",
+    "pos": "N",
+    "translation": "over-compensation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌəʊvə-ˌkɒmpenˈseɪʃn; ˌovəˌkɑːmpenˈseʃən/",
+    "origin": "待查",
+    "expansions": [
+      "over-compensation"
+    ],
+    "pronunciation": "/ ˌəʊvə-ˌkɒmpenˈseɪʃn; ˌovəˌkɑːmpenˈseʃən/",
+    "accepted_answers": [
+      "over-compensation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
     "term": "over-much",
     "type": "word",
     "translation": "文)(；尤与动词否定式连用)；太多（的）",
@@ -26856,6 +27218,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "overcapitalize",
+    "type": "word",
+    "pos": "V",
+    "translation": "将（公司、企业等）的资本定得或估价过高",
+    "analysis": "v [Tn] fix or estimate the money supply of (a company, business, etc) too high 将（公司、 企业等）的资本定得或估价过高.",
+    "phonetic": "/ ˌəʊvəˈkpɪtəlaɪz; ˈovəˈkæpətlˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "将（公司、企业等）的资本定得或估价过高"
+    ],
+    "pronunciation": "/ ˌəʊvəˈkpɪtəlaɪz; ˈovəˈkæpətlˌaɪz/",
+    "accepted_answers": [
+      "将（公司、企业等）的资本定得或估价过高"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "overcaptious",
@@ -33932,6 +34317,29 @@
     }
   },
   {
+    "term": "oviduct",
+    "type": "word",
+    "pos": "N",
+    "translation": "oviduct",
+    "analysis": "n = Fallopian tube.",
+    "phonetic": "/ ˈəʊvɪdʌkt; ˈovɪˌdʌkt/",
+    "origin": "待查",
+    "expansions": [
+      "oviduct"
+    ],
+    "pronunciation": "/ ˈəʊvɪdʌkt; ˈovɪˌdʌkt/",
+    "accepted_answers": [
+      "oviduct"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
     "term": "oviferous",
     "type": "word",
     "translation": "…的；充满…的",
@@ -34025,6 +34433,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oviparous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "生)(；（指鱼、鸟、爬虫等）卵生的",
+    "analysis": "adj (biology 生) (of fish, birds, reptiles, etc) producing eggs that hatch outside the body （指鱼、 鸟、 爬虫等）卵生的.",
+    "phonetic": "/ əʊˈvɪpərəs; oˈvɪpərəs/",
+    "origin": "待查",
+    "expansions": [
+      "生)(；（指鱼、鸟、爬虫等）卵生的"
+    ],
+    "pronunciation": "/ əʊˈvɪpərəs; oˈvɪpərəs/",
+    "accepted_answers": [
+      "生)(",
+      "（指鱼、鸟、爬虫等）卵生的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "ovispermiduct",
@@ -35012,6 +35444,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oxidise",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；（使某物）氧化；参看",
+    "analysis": "v [I, Tn] (a) (cause sth to) combine with oxygen （使某物）氧化. Cf 参看 reduce 6. (b) (cause sth to) become rusty （使某物）生锈.",
+    "phonetic": "/ ˈɒksɪdaɪz; ˈɑːksəˌdaɪz/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（使某物）氧化；参看"
+    ],
+    "pronunciation": "/ ˈɒksɪdaɪz; ˈɑːksəˌdaɪz/",
+    "accepted_answers": [
+      ")(",
+      "（使某物）氧化",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "oxidizability",

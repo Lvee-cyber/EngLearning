@@ -195,6 +195,29 @@
     }
   },
   {
+    "term": "mac",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (Brit infml 口) = mackintosh.",
+    "phonetic": "/ mæk; mæk/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ mæk; mæk/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "macabre",
     "type": "word",
     "translation": "（与死亡有关）引起恐惧的；可怕的；可怖的；令人毛骨悚然的鬼怪故事",
@@ -286,6 +309,56 @@
     },
     "pos": "V",
     "origin": "待查"
+  },
+  {
+    "term": "macaroni",
+    "type": "word",
+    "pos": "N",
+    "translation": "通心粉；通心面；乾酪通心面",
+    "analysis": "n [U] long hard tubes of pasta, often chopped into short pieces and boiled in water before eating 通心粉; 通心面.\nmacaroni cheese \ndish of macaroni with a cheese sauce 乾酪通心面.",
+    "phonetic": "/ ˌmækəˈrəʊnɪ; ˌmækəˈronɪ/",
+    "origin": "待查",
+    "expansions": [
+      "通心粉；通心面；乾酪通心面"
+    ],
+    "pronunciation": "/ ˌmækəˈrəʊnɪ; ˌmækəˈronɪ/",
+    "accepted_answers": [
+      "通心粉",
+      "通心面",
+      "乾酪通心面"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "macerate",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)(；（使某物）浸软；浸开",
+    "analysis": "v [I, Tn] (fml 文) (cause sth to) become soft or break up by soaking （使某物）浸软, 浸开.",
+    "phonetic": "/ ˈmæsəreɪt; ˈmæsəˌret/",
+    "origin": "待查",
+    "expansions": [
+      "文)(；（使某物）浸软；浸开"
+    ],
+    "pronunciation": "/ ˈmæsəreɪt; ˈmæsəˌret/",
+    "accepted_answers": [
+      "文)(",
+      "（使某物）浸软",
+      "浸开"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mach",
@@ -1350,6 +1423,54 @@
     }
   },
   {
+    "term": "magyar",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "马札尔人（的）；马札尔语（的）",
+    "analysis": "n, adj (member or language) of the main ethnic group in Hungary 马札尔人（的）; 马札尔语（的）.",
+    "phonetic": "/ ˈmægjɑː:(r); ˈmægjɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "马札尔人（的）；马札尔语（的）"
+    ],
+    "pronunciation": "/ ˈmægjɑː:(r); ˈmægjɑːr/",
+    "accepted_answers": [
+      "马札尔人（的）",
+      "马札尔语（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "maharaja",
+    "type": "word",
+    "pos": "N",
+    "translation": "（印度的）土邦主；王公（的称号）",
+    "analysis": "n (title of an) Indian prince （印度的）土邦主, 王公（的称号）.",
+    "phonetic": "/ ˌmɑː:həˈrɑː:dʒə; ˌmɑːhəˈrɑːdʒə/",
+    "origin": "待查",
+    "expansions": [
+      "（印度的）土邦主；王公（的称号）"
+    ],
+    "pronunciation": "/ ˌmɑː:həˈrɑː:dʒə; ˌmɑːhəˈrɑːdʒə/",
+    "accepted_answers": [
+      "（印度的）土邦主",
+      "王公（的称号）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "mahatma",
     "type": "word",
     "translation": "（印度的）伟人；圣贤（用作尊称）；圣雄甘地",
@@ -2235,6 +2356,56 @@
     "dict_source": "data/DICT/M/M-a.txt"
   },
   {
+    "term": "maleficent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；作恶的；犯罪的",
+    "analysis": "adj (fml 文) causing or doing evil 作恶的; 犯罪的.",
+    "phonetic": "/ məˈlefɪsnt; məˈlefəsnt/",
+    "origin": "待查",
+    "expansions": [
+      "文)；作恶的；犯罪的"
+    ],
+    "pronunciation": "/ məˈlefɪsnt; məˈlefəsnt/",
+    "accepted_answers": [
+      "文)",
+      "作恶的",
+      "犯罪的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "malevolence",
+    "type": "word",
+    "pos": "N",
+    "translation": "恶意；敌意；怨恨",
+    "analysis": "n [U] desire to do evil or cause harm to others; ill-will 恶意; 敌意; 怨恨.\nmalevolently \nadv.",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "恶意；敌意；怨恨"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "恶意",
+      "敌意",
+      "怨恨"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "malevolent",
     "type": "word",
     "translation": "恶意的；恶毒的；怀恨的",
@@ -2399,6 +2570,31 @@
     }
   },
   {
+    "term": "malignancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "恶毒；恶意；恶性",
+    "analysis": "n  1 [U] state of being malignant 恶毒; 恶意; 恶性.  2 [C] malignant tumour 恶性肿瘤.\nmalignantly \nadv.",
+    "phonetic": "/ -nənsɪ; -nənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "恶毒；恶意；恶性"
+    ],
+    "pronunciation": "/ -nənsɪ; -nənsɪ/",
+    "accepted_answers": [
+      "恶毒",
+      "恶意",
+      "恶性"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "malignant",
     "type": "word",
     "translation": "（指人或人的行为）恶毒的；恶意的；恶意的诽谤、攻击、抨击；)(",
@@ -2423,6 +2619,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "malignity",
+    "type": "word",
+    "pos": "N",
+    "translation": "malignity",
+    "analysis": "n [U].",
+    "phonetic": "/ məˈlɪgnətɪ; məˈlɪgnətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "malignity"
+    ],
+    "pronunciation": "/ məˈlɪgnətɪ; məˈlɪgnətɪ/",
+    "accepted_answers": [
+      "malignity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mall",
@@ -2616,6 +2835,29 @@
     "dict_source": "data/DICT/M/M-a.txt"
   },
   {
+    "term": "mammalian",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "mammalian",
+    "analysis": "adj.",
+    "phonetic": "/ mˈmeɪlɪən; mæˈmelɪən/",
+    "origin": "待查",
+    "expansions": [
+      "mammalian"
+    ],
+    "pronunciation": "/ mˈmeɪlɪən; mæˈmelɪən/",
+    "accepted_answers": [
+      "mammalian"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "mammary",
     "type": "word",
     "translation": "生)；乳房的；乳腺",
@@ -2685,6 +2927,32 @@
     }
   },
   {
+    "term": "mammy",
+    "type": "word",
+    "pos": "N",
+    "translation": "妈妈（儿语）)；旧；今作轻蔑语)；照看白人小孩的黑人保姆",
+    "analysis": "n (US)  1 (word for mother used by children 妈妈（儿语）)  2 (dated now offensive 旧, 今作轻蔑语) black nursemaid for white children 照看白人小孩的黑人保姆.\ncon man\n=> con.",
+    "phonetic": "/ ˈmæmɪ; ˈmæmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "妈妈（儿语）)；旧；今作轻蔑语)；照看白人小孩的黑人保姆"
+    ],
+    "pronunciation": "/ ˈmæmɪ; ˈmæmɪ/",
+    "accepted_answers": [
+      "妈妈（儿语）)",
+      "旧",
+      "今作轻蔑语)",
+      "照看白人小孩的黑人保姆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "man",
     "type": "word",
     "translation": "男人；成年男子；男人的服装",
@@ -2733,6 +3001,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "manacle",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作复数)；手铐；脚镣",
+    "analysis": "n (usu pl 通常作复数) one of a pair of chains or metal bands for binding the hands or feet; fetter 手铐; 脚镣; 束缚.\nmanacle \nv [Tn] bind (sb/sth) with manacles 给（某人[某物]）上镣铐或加束缚.",
+    "phonetic": "/ ˈmænəkl; ˈmænəkl/",
+    "origin": "待查",
+    "expansions": [
+      "通常作复数)；手铐；脚镣"
+    ],
+    "pronunciation": "/ ˈmænəkl; ˈmænəkl/",
+    "accepted_answers": [
+      "通常作复数)",
+      "手铐",
+      "脚镣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "manage",
@@ -2908,6 +3201,53 @@
       "法定的"
     ],
     "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "mandragora",
+    "type": "word",
+    "pos": "N",
+    "translation": "曼德拉草（有毒；用作麻醉、催眠药）",
+    "analysis": "(also mandrake/ 5mAndreIk; `mAndrek/) n [U] poisonous plant used to make drugs, esp ones which make people sleep 曼德拉草（有毒, 用作麻醉、 催眠药）.",
+    "phonetic": "/ mænˈdrægərə; mænˈdrægərə/",
+    "origin": "待查",
+    "expansions": [
+      "曼德拉草（有毒；用作麻醉、催眠药）"
+    ],
+    "pronunciation": "/ mænˈdrægərə; mænˈdrægərə/",
+    "accepted_answers": [
+      "曼德拉草（有毒",
+      "用作麻醉、催眠药）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "mandrill",
+    "type": "word",
+    "pos": "N",
+    "translation": "山魈（产於西非）",
+    "analysis": "n large W African baboon 山魈（产於西非）.",
+    "phonetic": "/ ˈmændrɪl; ˈmændrɪl/",
+    "origin": "待查",
+    "expansions": [
+      "山魈（产於西非）"
+    ],
+    "pronunciation": "/ ˈmændrɪl; ˈmændrɪl/",
+    "accepted_answers": [
+      "山魈（产於西非）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3222,6 +3562,29 @@
     }
   },
   {
+    "term": "manicurist",
+    "type": "word",
+    "pos": "N",
+    "translation": "指甲修剪师",
+    "analysis": "n person who practises manicure as a profession 指甲修剪师.",
+    "phonetic": "/ -kjUərɪst; -kjJrɪst/",
+    "origin": "待查",
+    "expansions": [
+      "指甲修剪师"
+    ],
+    "pronunciation": "/ -kjUərɪst; -kjJrɪst/",
+    "accepted_answers": [
+      "指甲修剪师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "manifest",
     "type": "word",
     "translation": ")(；文)；明白的",
@@ -3324,6 +3687,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "manioc",
+    "type": "word",
+    "pos": "N",
+    "translation": "木薯",
+    "analysis": "n [U] cassava 木薯.",
+    "phonetic": "/ ˈmænɪɒk; ˈmænɪˌɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "木薯"
+    ],
+    "pronunciation": "/ ˈmænɪɒk; ˈmænɪˌɑːk/",
+    "accepted_answers": [
+      "木薯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "manipulate",
@@ -3599,6 +3985,31 @@
     }
   },
   {
+    "term": "manorial",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")采地的；采邑的；领地的",
+    "analysis": "adj of a manor (1,2) 采地的; 采邑的; 领地的; 庄园的.",
+    "phonetic": "/ məˈnɔːrɪəl; məˈnɔːrɪəl/",
+    "origin": "待查",
+    "expansions": [
+      ")采地的；采邑的；领地的"
+    ],
+    "pronunciation": "/ məˈnɔːrɪəl; məˈnɔːrɪəl/",
+    "accepted_answers": [
+      ")采地的",
+      "采邑的",
+      "领地的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "manpower",
     "type": "word",
     "translation": "劳动力；缺乏足够的合格人员充实各医院；缺乏劳动力",
@@ -3650,6 +4061,29 @@
     "origin": "待查"
   },
   {
+    "term": "manse",
+    "type": "word",
+    "pos": "N",
+    "translation": "牧师住宅（尤指於苏格兰）",
+    "analysis": "n church minister's house, esp in Scotland 牧师住宅（尤指於苏格兰）.",
+    "phonetic": "/ mns; mæns/",
+    "origin": "待查",
+    "expansions": [
+      "牧师住宅（尤指於苏格兰）"
+    ],
+    "pronunciation": "/ mns; mæns/",
+    "accepted_answers": [
+      "牧师住宅（尤指於苏格兰）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "mansion",
     "type": "word",
     "translation": "宅第；公馆；用於公寓楼的专有名称中)",
@@ -3671,6 +4105,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mantel",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)",
+    "analysis": "n (dated 旧) = mantelpiece.",
+    "phonetic": "/ ˈmntl; ˈmæntl/",
+    "origin": "待查",
+    "expansions": [
+      "旧)"
+    ],
+    "pronunciation": "/ ˈmntl; ˈmæntl/",
+    "accepted_answers": [
+      "旧)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mantelpiece",
@@ -4014,6 +4471,30 @@
     }
   },
   {
+    "term": "maraschino",
+    "type": "word",
+    "pos": "N",
+    "translation": "黑樱桃酒；（黑樱桃酒浸泡的）樱桃（用以配制饮料、布丁等）",
+    "analysis": "n (pl ~s /-nEUz; -noz/)  1 [U] sweet liqueur made from a small black cherry 黑樱桃酒.  2 [C] (also ,maraschino `cherry) cherry soaked in this liqueur, used in drinks, puddings, etc （黑樱桃酒浸泡的）樱桃（用以配制饮料、 布丁等）.",
+    "phonetic": "/ ˌmærəˈskiːnəʊ; ˌmærəˈskino/",
+    "origin": "待查",
+    "expansions": [
+      "黑樱桃酒；（黑樱桃酒浸泡的）樱桃（用以配制饮料、布丁等）"
+    ],
+    "pronunciation": "/ ˌmærəˈskiːnəʊ; ˌmærəˈskino/",
+    "accepted_answers": [
+      "黑樱桃酒",
+      "（黑樱桃酒浸泡的）樱桃（用以配制饮料、布丁等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "marathon",
     "type": "word",
     "translation": ")马拉松赛跑（约；公里或；英里）",
@@ -4037,6 +4518,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "marauder",
+    "type": "word",
+    "pos": "N",
+    "translation": "参与劫掠的人或动物",
+    "analysis": "n person or animal that does this 参与劫掠的人或动物.",
+    "phonetic": "/ məˈrɔːdə(r); məˈrɔːdə/",
+    "origin": "待查",
+    "expansions": [
+      "参与劫掠的人或动物"
+    ],
+    "pronunciation": "/ məˈrɔːdə(r); məˈrɔːdə/",
+    "accepted_answers": [
+      "参与劫掠的人或动物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "marauding",
@@ -4133,6 +4637,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "march",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；三月；习语)",
+    "analysis": "n  1 [U, C] (abbr 缩写 Mar) the third month of the year, next after February 三月.  2 (idm 习语) mad as a March hare => mad. For the uses of March see the examples at April. 关於March的用法见April词条中的示例.",
+    "phonetic": "/ mɑː:tʃ; mɑːrtʃ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；三月；习语)"
+    ],
+    "pronunciation": "/ mɑː:tʃ; mɑːrtʃ/",
+    "accepted_answers": [
+      "缩写",
+      "三月",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "marches",
+    "type": "word",
+    "pos": "N",
+    "translation": "历史上遗留下的边界；边境（尤指英格兰与苏格兰或英格兰与威尔士的接界地区）",
+    "analysis": "n [pl] historical borders, esp between England and Scotland or England and Wales 历史上遗留下的边界, 边境（尤指英格兰与苏格兰或英格兰与威尔士的接界地区）.",
+    "phonetic": "/ ˈmɑː:tʃɪz; ˈmɑːrtʃɪz/",
+    "origin": "待查",
+    "expansions": [
+      "历史上遗留下的边界；边境（尤指英格兰与苏格兰或英格兰与威尔士的接界地区）"
+    ],
+    "pronunciation": "/ ˈmɑː:tʃɪz; ˈmɑːrtʃɪz/",
+    "accepted_answers": [
+      "历史上遗留下的边界",
+      "边境（尤指英格兰与苏格兰或英格兰与威尔士的接界地区）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "margarine",
@@ -4232,6 +4785,31 @@
     }
   },
   {
+    "term": "marigold",
+    "type": "word",
+    "pos": "N",
+    "translation": "金盏花；金盏菊；万寿菊",
+    "analysis": "n any of various types of garden plant with orange or yellow flowers 金盏花; 金盏菊; 万寿菊.",
+    "phonetic": "/ ˈmærɪgəʊld; ˈmærəˌgold/",
+    "origin": "待查",
+    "expansions": [
+      "金盏花；金盏菊；万寿菊"
+    ],
+    "pronunciation": "/ ˈmærɪgəʊld; ˈmærəˌgold/",
+    "accepted_answers": [
+      "金盏花",
+      "金盏菊",
+      "万寿菊"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "marinade",
     "type": "word",
     "translation": "（用酒、香料等调制的）腌泡汁；腌泡过的鱼或肉；腌泡过的猪肉和羊肉",
@@ -4306,6 +4884,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "marionette",
+    "type": "word",
+    "pos": "N",
+    "translation": "牵线木偶；插图",
+    "analysis": "n jointed puppetmoved by strings 牵线木偶. =>illus at puppet 见puppet插图.",
+    "phonetic": "/ ˌmærɪəˈnet; ˌmærɪəˈnet/",
+    "origin": "待查",
+    "expansions": [
+      "牵线木偶；插图"
+    ],
+    "pronunciation": "/ ˌmærɪəˈnet; ˌmærɪəˈnet/",
+    "accepted_answers": [
+      "牵线木偶",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "marital",
@@ -4554,6 +5156,31 @@
     }
   },
   {
+    "term": "marksman",
+    "type": "word",
+    "pos": "N",
+    "translation": "善射者；神射手；射击术",
+    "analysis": "n (pl -men / -mEn;-mEn/) person skilled in accurate shooting 善射者; 神射手.\nmarksmanship \nn [U] skill in shooting 射击术.",
+    "phonetic": "/ ˈmɑː:ksmən; ˈmɑːrksmən/",
+    "origin": "待查",
+    "expansions": [
+      "善射者；神射手；射击术"
+    ],
+    "pronunciation": "/ ˈmɑː:ksmən; ˈmɑːrksmən/",
+    "accepted_answers": [
+      "善射者",
+      "神射手",
+      "射击术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "marmoreal",
     "type": "word",
     "translation": "文)；（似）大理石的；洁白而光滑的皮肤",
@@ -4751,6 +5378,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "marsala",
+    "type": "word",
+    "pos": "N",
+    "translation": "马尔萨拉葡萄酒（产於西西里岛马尔萨拉镇）",
+    "analysis": "n [U] light sweet Sicilian dessert wine 马尔萨拉葡萄酒（产於西西里岛马尔萨拉镇）.",
+    "phonetic": "/ mɑː:ˈsɑː:lə; mɑːrˈsɑːlə/",
+    "origin": "待查",
+    "expansions": [
+      "马尔萨拉葡萄酒（产於西西里岛马尔萨拉镇）"
+    ],
+    "pronunciation": "/ mɑː:ˈsɑː:lə; mɑːrˈsɑːlə/",
+    "accepted_answers": [
+      "马尔萨拉葡萄酒（产於西西里岛马尔萨拉镇）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "marsh",
@@ -4993,6 +5643,29 @@
     }
   },
   {
+    "term": "marxism-leninism",
+    "type": "word",
+    "pos": "N",
+    "translation": "马克思列宁主义",
+    "analysis": "n [U] Marxism as developed by Lenin 马克思列宁主义.\nMarxist-Leninist \nn, adj.",
+    "phonetic": "/ -ˈlenɪnɪzəm; -ˈlenɪˌnɪzm/",
+    "origin": "待查",
+    "expansions": [
+      "马克思列宁主义"
+    ],
+    "pronunciation": "/ -ˈlenɪnɪzəm; -ˈlenɪˌnɪzm/",
+    "accepted_answers": [
+      "马克思列宁主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "marxist",
     "type": "word",
     "translation": "马克思主义者；马克思主义的；有马克思主义观点",
@@ -5136,6 +5809,29 @@
       "戴著长筒袜面罩抢劫银行的匪徒"
     ],
     "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "masochist",
+    "type": "word",
+    "pos": "N",
+    "translation": "masochist",
+    "analysis": "n.",
+    "phonetic": "/ -kɪst; -kɪst/",
+    "origin": "待查",
+    "expansions": [
+      "masochist"
+    ],
+    "pronunciation": "/ -kɪst; -kɪst/",
+    "accepted_answers": [
+      "masochist"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5515,6 +6211,53 @@
     }
   },
   {
+    "term": "mastication",
+    "type": "word",
+    "pos": "N",
+    "translation": "mastication",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌmstɪˈkeɪʃn; ˌmæstəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "mastication"
+    ],
+    "pronunciation": "/ ˌmstɪˈkeɪʃn; ˌmæstəˈkeʃən/",
+    "accepted_answers": [
+      "mastication"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "mastodon",
+    "type": "word",
+    "pos": "N",
+    "translation": "乳齿象（似象之巨兽；现已绝种）",
+    "analysis": "n large animal like an elephant, now extinct 乳齿象（似象之巨兽, 现已绝种）.",
+    "phonetic": "/ ˈmæstədɒn; ˈmæstəˌdɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "乳齿象（似象之巨兽；现已绝种）"
+    ],
+    "pronunciation": "/ ˈmæstədɒn; ˈmæstəˌdɑːn/",
+    "accepted_answers": [
+      "乳齿象（似象之巨兽",
+      "现已绝种）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "masturbatory",
     "type": "word",
     "translation": "手淫幻想",
@@ -5645,6 +6388,29 @@
     "dict_source": "data/DICT/M/M-a.txt"
   },
   {
+    "term": "materialisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "materialisation",
+    "analysis": "n [U].",
+    "phonetic": "/ məˌtɪərɪəlaɪˈzeɪʃn; -lɪˈz-; məˌtɪrɪəlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "materialisation"
+    ],
+    "pronunciation": "/ məˌtɪərɪəlaɪˈzeɪʃn; -lɪˈz-; məˌtɪrɪəlɪˈzeʃən/",
+    "accepted_answers": [
+      "materialisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "materialise",
     "type": "word",
     "translation": "成为现实；实现；发生",
@@ -5716,6 +6482,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "materialization",
+    "type": "word",
+    "pos": "N",
+    "translation": "materialization",
+    "analysis": "n [U].",
+    "phonetic": "/ məˌtɪərɪəlaɪˈzeɪʃn; -lɪˈz-; məˌtɪrɪəlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "materialization"
+    ],
+    "pronunciation": "/ məˌtɪərɪəlaɪˈzeɪʃn; -lɪˈz-; məˌtɪrɪəlɪˈzeʃən/",
+    "accepted_answers": [
+      "materialization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "materialize",
@@ -5956,6 +6745,31 @@
     }
   },
   {
+    "term": "matriarch",
+    "type": "word",
+    "pos": "N",
+    "translation": "女家长；女族长；参看",
+    "analysis": "n female head of a family or tribe 女家长; 女族长. Cf 参看 patriarch.",
+    "phonetic": "/ ˈmeɪtrɪɑː:k; ˈmetrɪˌɑːrk/",
+    "origin": "待查",
+    "expansions": [
+      "女家长；女族长；参看"
+    ],
+    "pronunciation": "/ ˈmeɪtrɪɑː:k; ˈmetrɪˌɑːrk/",
+    "accepted_answers": [
+      "女家长",
+      "女族长",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "matriarchal",
     "type": "word",
     "translation": "母系的社会、部落等",
@@ -5976,6 +6790,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "matriculation",
+    "type": "word",
+    "pos": "N",
+    "translation": "注册；准予注册入学",
+    "analysis": "n [C, U] (instance of) matriculating or being matriculated 注册; 准予注册入学.",
+    "phonetic": "/ məˌtrɪkjUˈleɪʃn; məˌtrɪkjəˈleʃən/",
+    "origin": "待查",
+    "expansions": [
+      "注册；准予注册入学"
+    ],
+    "pronunciation": "/ məˌtrɪkjUˈleɪʃn; məˌtrɪkjəˈleʃən/",
+    "accepted_answers": [
+      "注册",
+      "准予注册入学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "matrimonial",
@@ -6362,6 +7200,30 @@
     }
   },
   {
+    "term": "mawkish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "多愁善感的；伤感的",
+    "analysis": "adj sentimental in a feeble or sickly way 多愁善感的; 伤感的.\nmawkishly \nadv. \nmawkishness \nn [U].",
+    "phonetic": "/ ˈmɔːkɪʃ; ˈmɔːkɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "多愁善感的；伤感的"
+    ],
+    "pronunciation": "/ ˈmɔːkɪʃ; ˈmɔːkɪʃ/",
+    "accepted_answers": [
+      "多愁善感的",
+      "伤感的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "max",
     "type": "word",
     "translation": "缩写；最高温度；参看",
@@ -6409,6 +7271,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "maximisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "maximisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌmksɪmaɪˈzeɪʃn; -mɪˈz-; ˌmæksəmɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "maximisation"
+    ],
+    "pronunciation": "/ ˌmksɪmaɪˈzeɪʃn; -mɪˈz-; ˌmæksəmɪˈzeʃən/",
+    "accepted_answers": [
+      "maximisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "maximise",
@@ -6626,6 +7511,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mayoralty",
+    "type": "word",
+    "pos": "N",
+    "translation": "市长职位；市长任期",
+    "analysis": "n (period of) office of a mayor 市长职位; 市长任期.",
+    "phonetic": "/ ˈmeərəltɪ; ˈmeɪər-; ˈmeərəltɪ/",
+    "origin": "待查",
+    "expansions": [
+      "市长职位；市长任期"
+    ],
+    "pronunciation": "/ ˈmeərəltɪ; ˈmeɪər-; ˈmeərəltɪ/",
+    "accepted_answers": [
+      "市长职位",
+      "市长任期"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "maze",
@@ -7449,6 +8358,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mechanization",
+    "type": "word",
+    "pos": "N",
+    "translation": "mechanization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌmekənaɪˈzeɪʃn; -nɪˈz-; ˌmekənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "mechanization"
+    ],
+    "pronunciation": "/ ˌmekənaɪˈzeɪʃn; -nɪˈz-; ˌmekənəˈzeʃən/",
+    "accepted_answers": [
+      "mechanization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "mechanize",
@@ -8317,6 +9249,30 @@
     }
   },
   {
+    "term": "melancholia",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；忧郁症",
+    "analysis": "n [U] (medical 医) mental disease marked by melancholy 忧郁症.",
+    "phonetic": "/ ˌmeləŋˈkəʊlɪə; ˌmelənˈkolɪə/",
+    "origin": "待查",
+    "expansions": [
+      "医)；忧郁症"
+    ],
+    "pronunciation": "/ ˌmeləŋˈkəʊlɪə; ˌmelənˈkolɪə/",
+    "accepted_answers": [
+      "医)",
+      "忧郁症"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "melancholic",
     "type": "word",
     "translation": "忧郁的；抑郁的；有忧郁的性情",
@@ -8340,6 +9296,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "melanin",
+    "type": "word",
+    "pos": "N",
+    "translation": "生)；（人和动物的皮肤、毛发等上的）黑（色）素",
+    "analysis": "n (biology 生) dark pigment found in the skin, hair, etc of humans and animals （人和动物的皮肤、 毛发等上的）黑（色）素.",
+    "phonetic": "/ ˈmelənɪn; ˈmelənɪn/",
+    "origin": "待查",
+    "expansions": [
+      "生)；（人和动物的皮肤、毛发等上的）黑（色）素"
+    ],
+    "pronunciation": "/ ˈmelənɪn; ˈmelənɪn/",
+    "accepted_answers": [
+      "生)",
+      "（人和动物的皮肤、毛发等上的）黑（色）素"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "melee",
@@ -8488,6 +9468,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "melodramatically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "melodramatically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "melodramatically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "melodramatically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "melody",
@@ -9011,6 +10014,30 @@
     }
   },
   {
+    "term": "menopausal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "经绝期的；处於经绝期的",
+    "analysis": "adj (a) of the menopause 经绝期的. (b) experiencing the menopause处於经绝期的.",
+    "phonetic": "/ ˌmenəˈpɔːzl; ˈmenəˌpɔːzl/",
+    "origin": "待查",
+    "expansions": [
+      "经绝期的；处於经绝期的"
+    ],
+    "pronunciation": "/ ˌmenəˈpɔːzl; ˈmenəˌpɔːzl/",
+    "accepted_answers": [
+      "经绝期的",
+      "处於经绝期的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "menopause",
     "type": "word",
     "translation": "经绝期（女性更年期；通常在；岁左右）；到达更年期",
@@ -9257,6 +10284,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mep",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；欧洲议会议员",
+    "analysis": "abbr 缩写 = Member of the European Parliament 欧洲议会议员.",
+    "phonetic": "/ ˌemiːˈpiː; ˌemiˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；欧洲议会议员"
+    ],
+    "pronunciation": "/ ˌemiːˈpiː; ˌemiˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "欧洲议会议员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "mephistophelean",
@@ -9632,6 +10683,31 @@
     }
   },
   {
+    "term": "meringue",
+    "type": "word",
+    "pos": "N",
+    "translation": "（蛋白与糖混合烤成的）酥皮；饼皮；蛋白酥皮小饼",
+    "analysis": "n (a) [U] mixture of whites of egg and sugar baked until crisp and used as a covering over sweet pies, tarts, etc （蛋白与糖混合烤成的）酥皮, 饼皮. (b) [C] small cake made of this 蛋白酥皮小饼.",
+    "phonetic": "/ məˈræŋ; məˈræŋ/",
+    "origin": "待查",
+    "expansions": [
+      "（蛋白与糖混合烤成的）酥皮；饼皮；蛋白酥皮小饼"
+    ],
+    "pronunciation": "/ məˈræŋ; məˈræŋ/",
+    "accepted_answers": [
+      "（蛋白与糖混合烤成的）酥皮",
+      "饼皮",
+      "蛋白酥皮小饼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "merit",
     "type": "word",
     "translation": "值得称赞或奖励的品质；价值；长处",
@@ -9709,6 +10785,52 @@
     "origin": "待查"
   },
   {
+    "term": "merman",
+    "type": "word",
+    "pos": "N",
+    "translation": "（传说中的）雄性人鱼",
+    "analysis": "n (pl -men / -men; -mZn/) male mermaid （传说中的）雄性人鱼.",
+    "phonetic": "/ ˈmɜːmæn; ˈmɜːˌmæn/",
+    "origin": "待查",
+    "expansions": [
+      "（传说中的）雄性人鱼"
+    ],
+    "pronunciation": "/ ˈmɜːmæn; ˈmɜːˌmæn/",
+    "accepted_answers": [
+      "（传说中的）雄性人鱼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
+    "term": "merrily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "merrily",
+    "analysis": "adv.",
+    "phonetic": "/ ˈmerəlɪ; ˈmerəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "merrily"
+    ],
+    "pronunciation": "/ ˈmerəlɪ; ˈmerəlɪ/",
+    "accepted_answers": [
+      "merrily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "merry",
     "type": "word",
     "translation": "旧)；高兴的；愉快的",
@@ -9783,6 +10905,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mesmerist",
+    "type": "word",
+    "pos": "N",
+    "translation": "施催眠术者",
+    "analysis": "n hypnotist 施催眠术者.",
+    "phonetic": "/ ˈmezmərɪst; ˈmezməˌrəst/",
+    "origin": "待查",
+    "expansions": [
+      "施催眠术者"
+    ],
+    "pronunciation": "/ ˈmezmərɪst; ˈmezməˌrəst/",
+    "accepted_answers": [
+      "施催眠术者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "mesmerize",
@@ -9978,6 +11123,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "metabolism",
+    "type": "word",
+    "pos": "N",
+    "translation": "生)；新陈代谢",
+    "analysis": "n [U] (biology 生) chemical process by which food is built up into living matter in an organism or by which living matter is broken down into simpler substances 新陈代谢.",
+    "phonetic": "/ məˈtæbəlɪzəm; məˈtæblɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "生)；新陈代谢"
+    ],
+    "pronunciation": "/ məˈtæbəlɪzəm; məˈtæblɪzəm/",
+    "accepted_answers": [
+      "生)",
+      "新陈代谢"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "metabolize",
@@ -10297,6 +11466,29 @@
     }
   },
   {
+    "term": "meteorology",
+    "type": "word",
+    "pos": "N",
+    "translation": "气象学",
+    "analysis": "n [U] scientific study of the earth's atmosphere and its changes, used esp for forecasting weather 气象学.",
+    "phonetic": "/ ˌmiːtɪəˈrɒlədʒɪ; ˌmitɪəˈrɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "气象学"
+    ],
+    "pronunciation": "/ ˌmiːtɪəˈrɒlədʒɪ; ˌmitɪəˈrɑːlədʒɪ/",
+    "accepted_answers": [
+      "气象学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "meter",
     "type": "word",
     "translation": "尤用以构成复合词)；电表；煤气表",
@@ -10373,6 +11565,29 @@
     }
   },
   {
+    "term": "methodologically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "methodologically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "methodologically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "methodologically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "methodology",
     "type": "word",
     "translation": ")一套方法；统计分析法；方法学",
@@ -10395,6 +11610,29 @@
       "review_history": []
     },
     "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
+    "term": "methyl alcohol",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "甲醇",
+    "analysis": "(also `wood spirit) type of alcohol present in many organic compounds 甲醇.",
+    "phonetic": "/ ˌmeθɪlˈælkəhɒl,alsoˌmiːθaɪl; ˌmeθəlˈælkəˌhɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "甲醇"
+    ],
+    "pronunciation": "/ ˌmeθɪlˈælkəhɒl,alsoˌmiːθaɪl; ˌmeθəlˈælkəˌhɔːl/",
+    "accepted_answers": [
+      "甲醇"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
   },
   {
     "term": "meticulous",
@@ -10644,6 +11882,31 @@
     }
   },
   {
+    "term": "mettlesome",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "褒)(；（通常指马等）精力充沛的；勇猛的",
+    "analysis": "adj (approv 褒) (usu of horses, etc) high-spirited; courageous （通常指马等）精力充沛的, 勇猛的.",
+    "phonetic": "/ -səm; -səm/",
+    "origin": "待查",
+    "expansions": [
+      "褒)(；（通常指马等）精力充沛的；勇猛的"
+    ],
+    "pronunciation": "/ -səm; -səm/",
+    "accepted_answers": [
+      "褒)(",
+      "（通常指马等）精力充沛的",
+      "勇猛的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "mew",
     "type": "word",
     "translation": "猫（通常指小猫）或海鸟的叫声；我们听到猫叫声；作猫或海鸟叫",
@@ -10834,6 +12097,29 @@
     "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
+    "term": "micro-organism",
+    "type": "word",
+    "pos": "N",
+    "translation": "微生物",
+    "analysis": "n organism so small that it can be seen only under a microscope 微生物.",
+    "phonetic": "/ ˌmaɪkrəʊˈɔːgənɪzəm; ˌmaɪkroˈɔːrgənˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "微生物"
+    ],
+    "pronunciation": "/ ˌmaɪkrəʊˈɔːgənɪzəm; ˌmaɪkroˈɔːrgənˌɪzəm/",
+    "accepted_answers": [
+      "微生物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "microcosm",
     "type": "word",
     "translation": ")小天地；小宇宙；微观世界",
@@ -10903,6 +12189,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "microform",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩微版本；缩微资料",
+    "analysis": "n [U] any or all of the forms in which documents, etc are reproduced in miniature, eg microfiche, microfilm, etc 缩微版本; 缩微资料.",
+    "phonetic": "/ ˈmaɪkrəʊfɔːm; ˈmaɪkroˌfɔːrm/",
+    "origin": "待查",
+    "expansions": [
+      "缩微版本；缩微资料"
+    ],
+    "pronunciation": "/ ˈmaɪkrəʊfɔːm; ˈmaɪkroˌfɔːrm/",
+    "accepted_answers": [
+      "缩微版本",
+      "缩微资料"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
+    "term": "micrometer",
+    "type": "word",
+    "pos": "N",
+    "translation": "测微计；千分尺",
+    "analysis": "n device for measuring very small objects, angles or distances 测微计; 千分尺.",
+    "phonetic": "/ maɪˈkrɒmɪtə(r); maɪˈkrɑːmətə/",
+    "origin": "待查",
+    "expansions": [
+      "测微计；千分尺"
+    ],
+    "pronunciation": "/ maɪˈkrɒmɪtə(r); maɪˈkrɑːmətə/",
+    "accepted_answers": [
+      "测微计",
+      "千分尺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "microphone",
@@ -11929,6 +13263,30 @@
     }
   },
   {
+    "term": "militarist",
+    "type": "word",
+    "pos": "N",
+    "translation": "穷兵黩武者；军国主义者",
+    "analysis": "n person who supports militarism 穷兵黩武者; 军国主义者.",
+    "phonetic": "/ ˈmɪlɪtərɪst; ˈmɪlətərɪst/",
+    "origin": "待查",
+    "expansions": [
+      "穷兵黩武者；军国主义者"
+    ],
+    "pronunciation": "/ ˈmɪlɪtərɪst; ˈmɪlətərɪst/",
+    "accepted_answers": [
+      "穷兵黩武者",
+      "军国主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "militarize",
     "type": "word",
     "translation": "尤用於被动语态；将（尤指土地）改作军用；军事区",
@@ -12199,6 +13557,79 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "millionaire",
+    "type": "word",
+    "pos": "N",
+    "translation": "阴性作；百万富翁；大富翁",
+    "analysis": "(fem 阴性作 millionairess / 9mIljE5neEres; 9mIljEn`ZrIs/) n person who has a million pounds, dollars, etc; very rich person 百万富翁; 大富翁.\nmillipede\n= millepede.",
+    "phonetic": "/ ˌmɪljəˈneə(r); ˌmɪljənˈer/",
+    "origin": "待查",
+    "expansions": [
+      "阴性作；百万富翁；大富翁"
+    ],
+    "pronunciation": "/ ˌmɪljəˈneə(r); ˌmɪljənˈer/",
+    "accepted_answers": [
+      "阴性作",
+      "百万富翁",
+      "大富翁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
+    "term": "milord",
+    "type": "word",
+    "pos": "N",
+    "translation": "（法语词；旧用法）英国士绅；富有的英国人",
+    "analysis": "n (French word formerly used for an) English lord or wealthy Englishman （法语词, 旧用法）英国士绅, 富有的英国人.",
+    "phonetic": "/ mɪˈlɔːd; mɪˈlɔːrd/",
+    "origin": "待查",
+    "expansions": [
+      "（法语词；旧用法）英国士绅；富有的英国人"
+    ],
+    "pronunciation": "/ mɪˈlɔːd; mɪˈlɔːrd/",
+    "accepted_answers": [
+      "（法语词",
+      "旧用法）英国士绅",
+      "富有的英国人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
+    "term": "milt",
+    "type": "word",
+    "pos": "N",
+    "translation": "（鱼的）精液",
+    "analysis": "n [U] (also soft roe) fish sperm （鱼的）精液.",
+    "phonetic": "/ mɪlt; mɪlt/",
+    "origin": "待查",
+    "expansions": [
+      "（鱼的）精液"
+    ],
+    "pronunciation": "/ mɪlt; mɪlt/",
+    "accepted_answers": [
+      "（鱼的）精液"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "mime",
@@ -13388,6 +14819,29 @@
     }
   },
   {
+    "term": "misanthropy",
+    "type": "word",
+    "pos": "N",
+    "translation": "对人类的憎恶或不信任",
+    "analysis": "n [U] hatred or distrust of mankind 对人类的憎恶或不信任.",
+    "phonetic": "/ mɪˈsænθrəpɪ; mɪsˈænθrəpɪ/",
+    "origin": "待查",
+    "expansions": [
+      "对人类的憎恶或不信任"
+    ],
+    "pronunciation": "/ mɪˈsænθrəpɪ; mɪsˈænθrəpɪ/",
+    "accepted_answers": [
+      "对人类的憎恶或不信任"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "misapply",
     "type": "word",
     "translation": "文)；误用；滥用（尤指公款）；浪费的精力、才干",
@@ -13578,6 +15032,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "miscegenation",
+    "type": "word",
+    "pos": "N",
+    "translation": "人种混杂；异族（尤指白人与非白人）结合生育子女",
+    "analysis": "n [U] mixture of races; production of offspring by two people of different (esp white and non-white) races 人种混杂; 异族（尤指白人与非白人）结合生育子女.",
+    "phonetic": "/ ˌmɪsɪdʒɪˈneɪʃn; ˌmɪsɪdʒəˈneʃən/",
+    "origin": "待查",
+    "expansions": [
+      "人种混杂；异族（尤指白人与非白人）结合生育子女"
+    ],
+    "pronunciation": "/ ˌmɪsɪdʒɪˈneɪʃn; ˌmɪsɪdʒəˈneʃən/",
+    "accepted_answers": [
+      "人种混杂",
+      "异族（尤指白人与非白人）结合生育子女"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "miscellaneous",
@@ -15129,6 +16607,29 @@
     }
   },
   {
+    "term": "mistranslation",
+    "type": "word",
+    "pos": "N",
+    "translation": "mistranslation",
+    "analysis": "n [U, C].",
+    "phonetic": "/ -ˈleɪʃn; -ˈleʃən/",
+    "origin": "待查",
+    "expansions": [
+      "mistranslation"
+    ],
+    "pronunciation": "/ -ˈleɪʃn; -ˈleʃən/",
+    "accepted_answers": [
+      "mistranslation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "mistreat",
     "type": "word",
     "translation": "尤用於被动语态；虐待（某人）；糟蹋（某事物）",
@@ -15502,6 +17003,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mizzen",
+    "type": "word",
+    "pos": "N",
+    "translation": "海)；後桅纵帆；第三桅（三桅或多桅船上最近船尾的桅）",
+    "analysis": "n (nautical 海)  1 = mizzen-mast.  2 (also `mizzen-sail) lowest square fore-and-aft sail set on the mizzen-mast 後桅纵帆.\nmizzen-mast \nn third mast from the bow on a sailing-ship with three or more masts; mast nearest the stern on smaller ships 第三桅（三桅或多桅船上最近船尾的桅）; 後桅.",
+    "phonetic": "/ ˈmɪzn; ˈmɪzn/",
+    "origin": "待查",
+    "expansions": [
+      "海)；後桅纵帆；第三桅（三桅或多桅船上最近船尾的桅）"
+    ],
+    "pronunciation": "/ ˈmɪzn; ˈmɪzn/",
+    "accepted_answers": [
+      "海)",
+      "後桅纵帆",
+      "第三桅（三桅或多桅船上最近船尾的桅）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "mlitt",
@@ -16052,6 +17578,31 @@
     }
   },
   {
+    "term": "moderator",
+    "type": "word",
+    "pos": "N",
+    "translation": "仲裁人；调解人；评分监督（统一各主考人评分标准者）",
+    "analysis": "n  1 person who arbitrates in a dispute; mediator 仲裁人; 调解人.  2 person who makes sure that the same standards areused by different examiners when marking an examination 评分监督（统一各主考人评分标准者）.  3 Presbyterian minister presiding over a church court 长老会教会法庭上的主持者.  4 (physics 物) substance in which neutrons are slowed down in a nuclear reactor 减速剂, 慢化剂（核反应堆中使中子减速的物质）.",
+    "phonetic": "/ ˈmɒdəreɪtə(r); ˈmɑːdəˌretə/",
+    "origin": "待查",
+    "expansions": [
+      "仲裁人；调解人；评分监督（统一各主考人评分标准者）"
+    ],
+    "pronunciation": "/ ˈmɒdəreɪtə(r); ˈmɑːdəˌretə/",
+    "accepted_answers": [
+      "仲裁人",
+      "调解人",
+      "评分监督（统一各主考人评分标准者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "modern",
     "type": "word",
     "translation": "现代的；近代的；失业问题是现代的主要问题",
@@ -16126,6 +17677,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "modernism",
+    "type": "word",
+    "pos": "N",
+    "translation": "（有别於传统的）现代思潮或方法；（尤指艺术或宗教的）现代主义",
+    "analysis": "n [U] modern ideas or methods in contrast to traditional ones, esp in art or religion （有别於传统的）现代思潮或方法; （尤指艺术或宗教的）现代主义.",
+    "phonetic": "/ ˈmɒdənɪzəm; ˈmɑːdənˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "（有别於传统的）现代思潮或方法；（尤指艺术或宗教的）现代主义"
+    ],
+    "pronunciation": "/ ˈmɒdənɪzəm; ˈmɑːdənˌɪzəm/",
+    "accepted_answers": [
+      "（有别於传统的）现代思潮或方法",
+      "（尤指艺术或宗教的）现代主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
   },
   {
     "term": "modernistic",
@@ -16741,6 +18316,29 @@
     }
   },
   {
+    "term": "mollification",
+    "type": "word",
+    "pos": "N",
+    "translation": "mollification",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌmɒlɪfɪˈkeɪʃn; ˌmɑːləfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "mollification"
+    ],
+    "pronunciation": "/ ˌmɒlɪfɪˈkeɪʃn; ˌmɑːləfəˈkeʃən/",
+    "accepted_answers": [
+      "mollification"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "mollify",
     "type": "word",
     "translation": "使（某人）息怒；使平静；抚慰",
@@ -17077,6 +18675,29 @@
     }
   },
   {
+    "term": "monaural",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "monaural",
+    "analysis": "adj => monophonic.",
+    "phonetic": "/ ˌmɒnˈɔːrəl; mɑːnˈɔːrəl/",
+    "origin": "待查",
+    "expansions": [
+      "monaural"
+    ],
+    "pronunciation": "/ ˌmɒnˈɔːrəl; mɑːnˈɔːrəl/",
+    "accepted_answers": [
+      "monaural"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "monday",
     "type": "word",
     "translation": "缩写；星期一；他是星期一出生的",
@@ -17230,6 +18851,31 @@
     }
   },
   {
+    "term": "mongol",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作轻蔑语)；患有唐氏综合症的人；先天愚型患者",
+    "analysis": "n (usu offensive 通常作轻蔑语) person suffering from Down's syndrome 患有唐氏综合症的人; 先天愚型患者.",
+    "phonetic": "/ ˈmɒŋgəl; ˈmɑːŋgəl/",
+    "origin": "待查",
+    "expansions": [
+      "通常作轻蔑语)；患有唐氏综合症的人；先天愚型患者"
+    ],
+    "pronunciation": "/ ˈmɒŋgəl; ˈmɑːŋgəl/",
+    "accepted_answers": [
+      "通常作轻蔑语)",
+      "患有唐氏综合症的人",
+      "先天愚型患者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "mongrel",
     "type": "word",
     "translation": "杂种狗；杂交的动植物；杂种",
@@ -17372,6 +19018,53 @@
     "origin": "来自希腊语词根：mono- 表示“单一”，chroma/chrome 表示“颜色”。字面意思就是“单一颜色”。"
   },
   {
+    "term": "monocle",
+    "type": "word",
+    "pos": "N",
+    "translation": "单眼镜",
+    "analysis": "n single glass lens for one eye, kept in position by the muscles round the eye 单眼镜.",
+    "phonetic": "/ ˈmɒnəkl; ˈmɑːnəkl/",
+    "origin": "待查",
+    "expansions": [
+      "单眼镜"
+    ],
+    "pronunciation": "/ ˈmɒnəkl; ˈmɑːnəkl/",
+    "accepted_answers": [
+      "单眼镜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "monogamy",
+    "type": "word",
+    "pos": "N",
+    "translation": "一夫一妻（制）；参看",
+    "analysis": "n [U] practice or custom of being married to only one person at a time 一夫一妻（制）. Cf 参看 polygamy.",
+    "phonetic": "/ məˈnɒgəmɪ; məˈnɑːgəmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "一夫一妻（制）；参看"
+    ],
+    "pronunciation": "/ məˈnɒgəmɪ; məˈnɑːgəmɪ/",
+    "accepted_answers": [
+      "一夫一妻（制）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "monogram",
     "type": "word",
     "translation": "字母组合图案（用至少两个字母；尤指姓名首字母；组成的图案；用於手帕、信笺等上）；有字母组合图案的衬衫；见插图",
@@ -17466,6 +19159,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "monopolisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "monopolisation",
+    "analysis": "n [U].",
+    "phonetic": "/ məˌnɒpəlaɪˈzeɪʃn; US-lɪˈz-; məˌnɑːpləˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "monopolisation"
+    ],
+    "pronunciation": "/ məˌnɒpəlaɪˈzeɪʃn; US-lɪˈz-; məˌnɑːpləˈzeʃən/",
+    "accepted_answers": [
+      "monopolisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
   },
   {
     "term": "monopolise",
@@ -18037,6 +19753,29 @@
     }
   },
   {
+    "term": "moose",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)(",
+    "analysis": "n (pl unchanged 复数不变) (US) = elk.",
+    "phonetic": "/ muːs; mus/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)("
+    ],
+    "pronunciation": "/ muːs; mus/",
+    "accepted_answers": [
+      "复数不变)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "moot",
     "type": "word",
     "translation": "习语)；悬而未决的事；男女司机孰优孰劣尚有争论",
@@ -18109,6 +19848,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "moped",
+    "type": "word",
+    "pos": "N",
+    "translation": "摩托自行车；)见；)插图",
+    "analysis": "n motor cycle with pedals and a petrol engine of low power 摩托自行车. =>illus at motor cycle (motor) 见 motor cycle (motor) 插图.",
+    "phonetic": "/ ˈməʊped; ˈmoped/",
+    "origin": "待查",
+    "expansions": [
+      "摩托自行车；)见；)插图"
+    ],
+    "pronunciation": "/ ˈməʊped; ˈmoped/",
+    "accepted_answers": [
+      "摩托自行车",
+      ")见",
+      ")插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
   },
   {
     "term": "moquette",
@@ -18619,6 +20383,29 @@
     }
   },
   {
+    "term": "morris dance",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "莫里斯舞（英国民间传统的男子舞蹈）",
+    "analysis": "old English folk-dance traditionally performed by men wearing special costumes, with ribbons, bellsand sticks 莫里斯舞（英国民间传统的男子舞蹈）.\nmorris dancer\nn.",
+    "phonetic": "/ ˈmɒrɪsdɑː:ns; ˈmɔːrɪsdæns; ˈmɔːrɪsˌdæns/",
+    "origin": "待查",
+    "expansions": [
+      "莫里斯舞（英国民间传统的男子舞蹈）"
+    ],
+    "pronunciation": "/ ˈmɒrɪsdɑː:ns; ˈmɔːrɪsdæns; ˈmɔːrɪsˌdæns/",
+    "accepted_answers": [
+      "莫里斯舞（英国民间传统的男子舞蹈）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/D/D-a.txt"
+  },
+  {
     "term": "morrow",
     "type": "word",
     "translation": "旧或修辞)；翌日；次日",
@@ -19008,6 +20795,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "motel",
+    "type": "word",
+    "pos": "N",
+    "translation": "汽车旅馆（为驾车旅客提供停车场者）",
+    "analysis": "n hotel for motorists, with space for parking cars near the rooms 汽车旅馆（为驾车旅客提供停车场者）.",
+    "phonetic": "/ məʊˈtel; moˈtel/",
+    "origin": "待查",
+    "expansions": [
+      "汽车旅馆（为驾车旅客提供停车场者）"
+    ],
+    "pronunciation": "/ məʊˈtel; moˈtel/",
+    "accepted_answers": [
+      "汽车旅馆（为驾车旅客提供停车场者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
   },
   {
     "term": "moth",
@@ -19664,6 +21474,29 @@
     }
   },
   {
+    "term": "mountaineer",
+    "type": "word",
+    "pos": "N",
+    "translation": "爬山家",
+    "analysis": "n person who is skilled at climbing mountains 爬山家.",
+    "phonetic": "/ ˌmaUntɪˈnɪə(r); -ntnˈɪər; ˌmaJntnˈɪr/",
+    "origin": "待查",
+    "expansions": [
+      "爬山家"
+    ],
+    "pronunciation": "/ ˌmaUntɪˈnɪə(r); -ntnˈɪər; ˌmaJntnˈɪr/",
+    "accepted_answers": [
+      "爬山家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "mountaineering",
     "type": "word",
     "translation": ")登山（运动）；登山探险",
@@ -20133,6 +21966,31 @@
     }
   },
   {
+    "term": "mrbm",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；中程弹道导弹；参看",
+    "analysis": "abbr 缩写 = medium-range ballistic missile 中程弹道导弹. Cf 参看 ICBM, IRBM.",
+    "phonetic": "/ ˌemɑː:biːˈem; ˌemɑːrbiˈem/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；中程弹道导弹；参看"
+    ],
+    "pronunciation": "/ ˌemɑː:biːˈem; ˌemɑːrbiˈem/",
+    "accepted_answers": [
+      "缩写",
+      "中程弹道导弹",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "mrc",
     "type": "word",
     "translation": "缩写；医学研究委员会；医学研究委员会资助的项目",
@@ -20306,6 +22164,31 @@
     }
   },
   {
+    "term": "mucous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（像）黏液的；（覆）有黏液的；解)",
+    "analysis": "adj of, like or covered with mucus （像）黏液的; （覆）有黏液的.\nmucous membrane \n(anatomy 解) moist skin that lines the nose, mouth and certain internal organs 黏膜.",
+    "phonetic": "/ ˈmjuːkəs; ˈmjukəs/",
+    "origin": "待查",
+    "expansions": [
+      "（像）黏液的；（覆）有黏液的；解)"
+    ],
+    "pronunciation": "/ ˈmjuːkəs; ˈmjukəs/",
+    "accepted_answers": [
+      "（像）黏液的",
+      "（覆）有黏液的",
+      "解)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "mucus",
     "type": "word",
     "translation": "（黏膜分泌的）黏液；类似黏液的物质；黏液堵塞的鼻子",
@@ -20381,6 +22264,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "muesli",
+    "type": "word",
+    "pos": "N",
+    "translation": "由生的谷物、坚果、乾果等混合制成的早餐食品",
+    "analysis": "n [U] breakfast food that is a mixture of uncooked cereal, nuts, dried fruit, etc 由生的谷物、 坚果、 乾果等混合制成的早餐食品.",
+    "phonetic": "/ ˈmjuːzlɪ; ˈmjuzlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "由生的谷物、坚果、乾果等混合制成的早餐食品"
+    ],
+    "pronunciation": "/ ˈmjuːzlɪ; ˈmjuzlɪ/",
+    "accepted_answers": [
+      "由生的谷物、坚果、乾果等混合制成的早餐食品"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "muffle",
@@ -20576,6 +22482,29 @@
     }
   },
   {
+    "term": "mullah",
+    "type": "word",
+    "pos": "N",
+    "translation": "（伊斯兰教神学和圣律的）教师",
+    "analysis": "n Muslim teacher of theology and sacred law （伊斯兰教神学和圣律的）教师.",
+    "phonetic": "/ ˈmʌlə; ˈmʌlə/",
+    "origin": "待查",
+    "expansions": [
+      "（伊斯兰教神学和圣律的）教师"
+    ],
+    "pronunciation": "/ ˈmʌlə; ˈmʌlə/",
+    "accepted_answers": [
+      "（伊斯兰教神学和圣律的）教师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "mullioned",
     "type": "word",
     "translation": "有直棂的；构词成分；有很多",
@@ -20764,6 +22693,31 @@
     ]
   },
   {
+    "term": "multiplex",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；有很多部分的；多种形式的",
+    "analysis": "adj [usu attrib通常作定语] (fml 文) having many parts or forms; consisting of many (usu complex) elements 有很多部分的; 多种形式的; 多种（通常为复杂）成分组成的.",
+    "phonetic": "/ ˈmʌltɪpleks; ˈmʌltəˌpleks/",
+    "origin": "待查",
+    "expansions": [
+      "文)；有很多部分的；多种形式的"
+    ],
+    "pronunciation": "/ ˈmʌltɪpleks; ˈmʌltəˌpleks/",
+    "accepted_answers": [
+      "文)",
+      "有很多部分的",
+      "多种形式的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "multiplication",
     "type": "word",
     "translation": "增多；增加；繁殖",
@@ -20937,6 +22891,29 @@
     }
   },
   {
+    "term": "mumbler",
+    "type": "word",
+    "pos": "N",
+    "translation": "mumbler",
+    "analysis": "n.",
+    "phonetic": "/ ˈmʌmblə(r); ˈmʌmblə/",
+    "origin": "待查",
+    "expansions": [
+      "mumbler"
+    ],
+    "pronunciation": "/ ˈmʌmblə(r); ˈmʌmblə/",
+    "accepted_answers": [
+      "mumbler"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "mumbo-jumbo",
     "type": "word",
     "translation": "口；贬)；繁琐而无意义的仪式；繁文缛节",
@@ -20959,6 +22936,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mummification",
+    "type": "word",
+    "pos": "N",
+    "translation": "木乃伊化",
+    "analysis": "n [U] this method of preservation 木乃伊化.",
+    "phonetic": "/ ˌmʌmɪfɪˈkeɪʃn; ˌmʌmɪfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "木乃伊化"
+    ],
+    "pronunciation": "/ ˌmʌmɪfɪˈkeɪʃn; ˌmʌmɪfəˈkeʃən/",
+    "accepted_answers": [
+      "木乃伊化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "mummify",
@@ -21412,6 +23412,32 @@
     "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "muscleman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；口；有时作贬义)；肌肉发达而有力的男子",
+    "analysis": "n (pl -men / -men; -mZn/)(infml sometimes derog 口, 有时作贬义) man with large muscles and (often) great strength 肌肉发达而有力的男子.",
+    "phonetic": "/ -mæn; -ˌmæn/",
+    "origin": "待查",
+    "expansions": [
+      ")(；口；有时作贬义)；肌肉发达而有力的男子"
+    ],
+    "pronunciation": "/ -mæn; -ˌmæn/",
+    "accepted_answers": [
+      ")(",
+      "口",
+      "有时作贬义)",
+      "肌肉发达而有力的男子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "muscular",
     "type": "word",
     "translation": "肌肉的；肌肉的力量、收缩；肌肉组织",
@@ -21761,6 +23787,31 @@
     }
   },
   {
+    "term": "mussel",
+    "type": "word",
+    "pos": "N",
+    "translation": "贻贝；壳菜；淡菜",
+    "analysis": "n any of several types of edible shellfish with a black shell in two parts 贻贝; 壳菜; 淡菜. =>illus at shellfish 见shellfish插图.",
+    "phonetic": "/ ˈmʌsl; ˈmʌsl/",
+    "origin": "待查",
+    "expansions": [
+      "贻贝；壳菜；淡菜"
+    ],
+    "pronunciation": "/ ˈmʌsl; ˈmʌsl/",
+    "accepted_answers": [
+      "贻贝",
+      "壳菜",
+      "淡菜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "must",
     "type": "word",
     "translation": "否定式；缩约式；)(",
@@ -21861,6 +23912,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mutability",
+    "type": "word",
+    "pos": "N",
+    "translation": "mutability",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌmjuːtəˈbɪlətɪ; ˌmjutəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "mutability"
+    ],
+    "pronunciation": "/ ˌmjuːtəˈbɪlətɪ; ˌmjutəˈbɪlətɪ/",
+    "accepted_answers": [
+      "mutability"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "mutant",
@@ -22296,6 +24370,31 @@
     }
   },
   {
+    "term": "mv",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；内燃机船；无)",
+    "analysis": "abbr 缩写 = motor vessel 内燃机船.\nMW\nabbr 缩写 = (radio 无) medium wave.",
+    "phonetic": "/ ˌemˈviː; ˌemˈvi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；内燃机船；无)"
+    ],
+    "pronunciation": "/ ˌemˈviː; ˌemˈvi/",
+    "accepted_answers": [
+      "缩写",
+      "内燃机船",
+      "无)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "my",
     "type": "word",
     "translation": "我的；我的帽子在哪里；我脚冷",
@@ -22320,6 +24419,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mynah",
+    "type": "word",
+    "pos": "N",
+    "translation": "鹩哥；家八哥；八哥（产於东南亚；能模仿人说话）",
+    "analysis": "n any of several types of starling of SE Asia, known for their ability to copy human speech 鹩哥, 家八哥, 八哥（产於东南亚, 能模仿人说话）.",
+    "phonetic": "/ ˈmaɪnə; ˈmaɪnə/",
+    "origin": "待查",
+    "expansions": [
+      "鹩哥；家八哥；八哥（产於东南亚；能模仿人说话）"
+    ],
+    "pronunciation": "/ ˈmaɪnə; ˈmaɪnə/",
+    "accepted_answers": [
+      "鹩哥",
+      "家八哥",
+      "八哥（产於东南亚",
+      "能模仿人说话）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "myopia",

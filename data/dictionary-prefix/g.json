@@ -936,6 +936,29 @@
     }
   },
   {
+    "term": "gallup poll",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "盖洛普民意测验（尤指为预测大选的结果）",
+    "analysis": "assessment of public opinion by questioning a representative sample of people, esp in order to forecast voting at an election 盖洛普民意测验（尤指为预测大选的结果）.",
+    "phonetic": "/ ˈgæləppəʊl; ˈgæləpˈpol/",
+    "origin": "待查",
+    "expansions": [
+      "盖洛普民意测验（尤指为预测大选的结果）"
+    ],
+    "pronunciation": "/ ˈgæləppəʊl; ˈgæləpˈpol/",
+    "accepted_answers": [
+      "盖洛普民意测验（尤指为预测大选的结果）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "galore",
     "type": "word",
     "translation": "通常作褒义)(；用於名词之後)；很多",
@@ -1420,6 +1443,29 @@
     "dict_source": "data/DICT/G/G-a.txt"
   },
   {
+    "term": "ganglion",
+    "type": "word",
+    "pos": "N",
+    "translation": "神经节",
+    "analysis": "n (pl ~s or  -lia / -lIE; -lIE/) group of nerve cells from which nerve fibres radiate 神经节.",
+    "phonetic": "/ ˈgæŋglɪən; ˈgæŋglɪən/",
+    "origin": "待查",
+    "expansions": [
+      "神经节"
+    ],
+    "pronunciation": "/ ˈgæŋglɪən; ˈgæŋglɪən/",
+    "accepted_answers": [
+      "神经节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "gangplank",
     "type": "word",
     "pos": "N",
@@ -1464,6 +1510,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gangrenous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "gangrenous",
+    "analysis": "adj.",
+    "phonetic": "/ ˈgŋ-grɪnəs; ˈgæŋgrɪnəs/",
+    "origin": "待查",
+    "expansions": [
+      "gangrenous"
+    ],
+    "pronunciation": "/ ˈgŋ-grɪnəs; ˈgæŋgrɪnəs/",
+    "accepted_answers": [
+      "gangrenous"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
   },
   {
     "term": "gangster",
@@ -1693,6 +1762,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gardenia",
+    "type": "word",
+    "pos": "N",
+    "translation": "栀子；栀子花",
+    "analysis": "n  1 tree or shrub with large white or yellow flowers, usu sweet-smelling 栀子.  2 its flower 栀子花.",
+    "phonetic": "/ gɑː:ˈdiːnɪə; gɑːrˈdinɪə/",
+    "origin": "待查",
+    "expansions": [
+      "栀子；栀子花"
+    ],
+    "pronunciation": "/ gɑː:ˈdiːnɪə; gɑːrˈdinɪə/",
+    "accepted_answers": [
+      "栀子",
+      "栀子花"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
   },
   {
     "term": "gardening",
@@ -2070,6 +2163,29 @@
     }
   },
   {
+    "term": "gasify",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某物）气化",
+    "analysis": "v (pt, pp -fied) [I, Tn] (cause sth to) change into gas （使某物）气化.",
+    "phonetic": "/ ˈgæsɪfaɪ; ˈgæsəˌfaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（使某物）气化"
+    ],
+    "pronunciation": "/ ˈgæsɪfaɪ; ˈgæsəˌfaɪ/",
+    "accepted_answers": [
+      "（使某物）气化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "gasket",
     "type": "word",
     "translation": "垫圈；密封垫；发动机的一个垫圈失效了（蒸气等逸出）",
@@ -2091,6 +2207,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gasoline",
+    "type": "word",
+    "pos": "N",
+    "translation": "gasoline",
+    "analysis": "n [U] (US) = petrol.",
+    "phonetic": "/ ˈgæsəliːn; ˈgæslˌin/",
+    "origin": "待查",
+    "expansions": [
+      "gasoline"
+    ],
+    "pronunciation": "/ ˈgæsəliːn; ˈgæslˌin/",
+    "accepted_answers": [
+      "gasoline"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
   },
   {
     "term": "gasp",
@@ -2360,6 +2499,29 @@
     }
   },
   {
+    "term": "gaudiness",
+    "type": "word",
+    "pos": "N",
+    "translation": "gaudiness",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈgɔːdɪnɪs; ˈgɔːdɪnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "gaudiness"
+    ],
+    "pronunciation": "/ ˈgɔːdɪnɪs; ˈgɔːdɪnɪs/",
+    "accepted_answers": [
+      "gaudiness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "gaudy",
     "type": "word",
     "translation": ")(；贬)；花哨的",
@@ -2627,6 +2789,30 @@
     }
   },
   {
+    "term": "gayness",
+    "type": "word",
+    "pos": "N",
+    "translation": "同性恋；参看",
+    "analysis": "n [U] homosexuality 同性恋. Cf 参看 gaiety.",
+    "phonetic": "/ ˈgeɪnɪs; ˈgenɪs/",
+    "origin": "待查",
+    "expansions": [
+      "同性恋；参看"
+    ],
+    "pronunciation": "/ ˈgeɪnɪs; ˈgenɪs/",
+    "accepted_answers": [
+      "同性恋",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "gaze",
     "type": "word",
     "translation": "久久地凝视；注视（通常指因惊讶或赞赏）；我告诉她这消息时；她以怀疑的目光注视著我；他只是坐著茫然地望著",
@@ -2825,6 +3011,31 @@
     }
   },
   {
+    "term": "gdp",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；国内生产总值；参看",
+    "analysis": "abbr 缩写 = gross domestic product 国内生产总值. Cf 参看 GNP.",
+    "phonetic": "/ ˌdʒiːdiːˈpiː; ˌdʒidiˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；国内生产总值；参看"
+    ],
+    "pronunciation": "/ ˌdʒiːdiːˈpiː; ˌdʒidiˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "国内生产总值",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "gear",
     "type": "word",
     "translation": "（远征、运动等需用的）设备、装备、衣物等；他的野营物品全都放在背囊里了；我们只去两天；你不用带那麽多东西",
@@ -2902,6 +3113,29 @@
     }
   },
   {
+    "term": "geisha",
+    "type": "word",
+    "pos": "N",
+    "translation": "（日本的）艺妓（陪男子谈话、表演歌舞者）",
+    "analysis": "n Japanese girl trained to entertain men with conversation, dancing or singing （日本的）艺妓（陪男子谈话、 表演歌舞者）.",
+    "phonetic": "/ ˈgeɪʃə; ˈgeʃə/",
+    "origin": "待查",
+    "expansions": [
+      "（日本的）艺妓（陪男子谈话、表演歌舞者）"
+    ],
+    "pronunciation": "/ ˈgeɪʃə; ˈgeʃə/",
+    "accepted_answers": [
+      "（日本的）艺妓（陪男子谈话、表演歌舞者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "gel",
     "type": "word",
     "translation": "尤用以构成复合词)；凝胶；冻胶",
@@ -2947,6 +3181,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "geld",
+    "type": "word",
+    "pos": "V",
+    "translation": ")阉割（动物）；给（动物）去势或割除卵巢",
+    "analysis": "v [Tn] castrate (an animal) 阉割（动物）; 给（动物）去势或割除卵巢.",
+    "phonetic": "/ geld; geld/",
+    "origin": "待查",
+    "expansions": [
+      ")阉割（动物）；给（动物）去势或割除卵巢"
+    ],
+    "pronunciation": "/ geld; geld/",
+    "accepted_answers": [
+      ")阉割（动物）",
+      "给（动物）去势或割除卵巢"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "gem",
@@ -2999,6 +3257,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gendarme",
+    "type": "word",
+    "pos": "N",
+    "translation": "宪兵（尤指法国及法语国家中的）",
+    "analysis": "n member of a military force employed on police duties, esp in France and French-speaking countries 宪兵（尤指法国及法语国家中的）.",
+    "phonetic": "/ ˈʒɒndɑː:m; ˈʒɑːndɑːrm/",
+    "origin": "待查",
+    "expansions": [
+      "宪兵（尤指法国及法语国家中的）"
+    ],
+    "pronunciation": "/ ˈʒɒndɑː:m; ˈʒɑːndɑːrm/",
+    "accepted_answers": [
+      "宪兵（尤指法国及法语国家中的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
+    "term": "gendarmerie",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "宪兵（总称）；宪兵队队部；宪兵司令部",
+    "analysis": "n  1 [pl v] whole body of gendarmes 宪兵（总称）.  2 [C] headquarters of a body of gendarmes 宪兵队队部; 宪兵司令部.",
+    "phonetic": "/ ʒɒnˈdɑː:mərɪ; ʒɑːnˈdɑːrmərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "宪兵（总称）；宪兵队队部；宪兵司令部"
+    ],
+    "pronunciation": "/ ʒɒnˈdɑː:mərɪ; ʒɑːnˈdɑːrmərɪ/",
+    "accepted_answers": [
+      "宪兵（总称）",
+      "宪兵队队部",
+      "宪兵司令部"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "gender",
@@ -3538,6 +3844,30 @@
     }
   },
   {
+    "term": "genitals",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；外生殖器",
+    "analysis": "(also genitalia / 9dVenI5teIlIE; 9dVZnI`telIE/) n [pl] (fml 文) external sex organs 外生殖器.",
+    "phonetic": "/ ˈdʒenɪtlz; ˈdʒenətəlz/",
+    "origin": "待查",
+    "expansions": [
+      "文)；外生殖器"
+    ],
+    "pronunciation": "/ ˈdʒenɪtlz; ˈdʒenətəlz/",
+    "accepted_answers": [
+      "文)",
+      "外生殖器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "genitive",
     "type": "word",
     "translation": "属格；所有格（某些屈折语中的一种格；尤用以表示属有关系）；参看；属格的",
@@ -3660,6 +3990,29 @@
     }
   },
   {
+    "term": "gentile",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "非犹太人（的）",
+    "analysis": "n, adj (person who is) not Jewish 非犹太人（的）.",
+    "phonetic": "/ ˈdʒentaɪl; ˈdʒentaɪl/",
+    "origin": "待查",
+    "expansions": [
+      "非犹太人（的）"
+    ],
+    "pronunciation": "/ ˈdʒentaɪl; ˈdʒentaɪl/",
+    "accepted_answers": [
+      "非犹太人（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "gentility",
     "type": "word",
     "translation": "褒或反语)；文雅风度；彬彬有礼",
@@ -3736,6 +4089,31 @@
     }
   },
   {
+    "term": "gentlewoman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；古)；女士",
+    "analysis": "n (pl -women / -wImIn; -9wImIn/) (arch 古) lady 女士.",
+    "phonetic": "/ ˈdʒentlwUmən; ˈdʒentlˌwJmən/",
+    "origin": "待查",
+    "expansions": [
+      ")(；古)；女士"
+    ],
+    "pronunciation": "/ ˈdʒentlwUmən; ˈdʒentlˌwJmən/",
+    "accepted_answers": [
+      ")(",
+      "古)",
+      "女士"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "gently",
     "type": "word",
     "translation": "温和地；慈祥地；温柔地",
@@ -3759,6 +4137,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "genuflexion",
+    "type": "word",
+    "pos": "N",
+    "translation": "genuflexion",
+    "analysis": "n [C, U].",
+    "phonetic": "/ ˌdʒenjuːˈflekʃn; ˌdʒenjJˈflekʃən/",
+    "origin": "待查",
+    "expansions": [
+      "genuflexion"
+    ],
+    "pronunciation": "/ ˌdʒenjuːˈflekʃn; ˌdʒenjJˈflekʃən/",
+    "accepted_answers": [
+      "genuflexion"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "genuine",
@@ -3832,6 +4233,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "geographer",
+    "type": "word",
+    "pos": "N",
+    "translation": "地理学研究者或专家",
+    "analysis": "n student of or expert in geography 地理学研究者或专家.",
+    "phonetic": "/ dʒɪˈɒgrəfə(r); dʒiˈɑːgrəfə/",
+    "origin": "待查",
+    "expansions": [
+      "地理学研究者或专家"
+    ],
+    "pronunciation": "/ dʒɪˈɒgrəfə(r); dʒiˈɑːgrəfə/",
+    "accepted_answers": [
+      "地理学研究者或专家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "geographical",
@@ -3950,6 +4374,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "geopolitics",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "地理政治学；地缘政治学",
+    "analysis": "n [sing v] study of how politics is affected by geographical factors 地理政治学; 地缘政治学.",
+    "phonetic": "/ ˌdʒɪəʊˈpɒlətɪks; ˌdʒioˈpɑːlətɪks/",
+    "origin": "待查",
+    "expansions": [
+      "地理政治学；地缘政治学"
+    ],
+    "pronunciation": "/ ˌdʒɪəʊˈpɒlətɪks; ˌdʒioˈpɑːlətɪks/",
+    "accepted_answers": [
+      "地理政治学",
+      "地缘政治学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
+    "term": "george",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；)(；用作表示惊奇或赞成的感叹语)",
+    "analysis": "n (idm 习语) by George! (dated 旧 Brit) (used as an exclamation of surprise or approval 用作表示惊奇或赞成的感叹语).\nGeorge Cross, George Medal \n(Brit) decorations for bravery awarded esp to civilians 乔治勋章（表彰平民勇敢行为者）.",
+    "phonetic": "/ dʒɔːdʒ; dʒɔːrdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "习语)；)(；用作表示惊奇或赞成的感叹语)"
+    ],
+    "pronunciation": "/ dʒɔːdʒ; dʒɔːrdʒ/",
+    "accepted_answers": [
+      "习语)",
+      ")(",
+      "用作表示惊奇或赞成的感叹语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "georgian",
@@ -4142,6 +4615,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gerontology",
+    "type": "word",
+    "pos": "N",
+    "translation": "老年学（对年老和衰老的研究）",
+    "analysis": "n [U] scientific study of old age and the process of growing old 老年学（对年老和衰老的研究）.",
+    "phonetic": "/ ˌdʒerɒnˈtɒlədʒɪ; ˌdʒerənˈtɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "老年学（对年老和衰老的研究）"
+    ],
+    "pronunciation": "/ ˌdʒerɒnˈtɒlədʒɪ; ˌdʒerənˈtɑːlədʒɪ/",
+    "accepted_answers": [
+      "老年学（对年老和衰老的研究）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "gerrymander",
@@ -4393,6 +4889,29 @@
     }
   },
   {
+    "term": "ghettoization",
+    "type": "word",
+    "pos": "N",
+    "translation": "大功率手提式大型收音录音机",
+    "analysis": "n [U].\nghetto blaster \nlarge and powerful portable radio and cassette player 大功率手提式大型收音录音机.",
+    "phonetic": "/ ˌgetəʊaɪˈzeɪʃn; -əʊɪˈz-; ˌgetoəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "大功率手提式大型收音录音机"
+    ],
+    "pronunciation": "/ ˌgetəʊaɪˈzeɪʃn; -əʊɪˈz-; ˌgetoəˈzeʃən/",
+    "accepted_answers": [
+      "大功率手提式大型收音录音机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
+  },
+  {
     "term": "ghost",
     "type": "word",
     "translation": "幽灵；据说玛格丽特女士的鬼魂常在这个礼拜堂出没；我不相信有鬼",
@@ -4514,6 +5033,30 @@
     }
   },
   {
+    "term": "gi",
+    "type": "word",
+    "pos": "N",
+    "translation": "美国现役陆军士兵；美国军人在国外服役时娶的外国女子",
+    "analysis": "n enlisted soldier of the US army 美国现役陆军士兵.\nGI bride \nforeign woman who marries a US soldier on duty abroad 美国军人在国外服役时娶的外国女子.",
+    "phonetic": "/ ˌdʒiːˈaɪ; ˈdʒiˈaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "美国现役陆军士兵；美国军人在国外服役时娶的外国女子"
+    ],
+    "pronunciation": "/ ˌdʒiːˈaɪ; ˈdʒiˈaɪ/",
+    "accepted_answers": [
+      "美国现役陆军士兵",
+      "美国军人在国外服役时娶的外国女子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
+  },
+  {
     "term": "giant",
     "type": "word",
     "translation": ")（童话和神话故事中的）巨人（常为残酷和愚蠢的）；巨人；巨物（异常大的动植物、商业组织等）；他的儿子已是",
@@ -4611,6 +5154,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gibbet",
+    "type": "word",
+    "pos": "N",
+    "translation": "古)；绞刑架；绞台",
+    "analysis": "n  1 (arch 古) gallows 绞刑架; 绞台.  2 upright post with a projecting arm from which in former times the bodies of executed criminals were hung （旧时罪犯受绞刑後吊尸体的）示众架.",
+    "phonetic": "/ ˈdʒɪbɪt; ˈdʒɪbɪt/",
+    "origin": "待查",
+    "expansions": [
+      "古)；绞刑架；绞台"
+    ],
+    "pronunciation": "/ ˈdʒɪbɪt; ˈdʒɪbɪt/",
+    "accepted_answers": [
+      "古)",
+      "绞刑架",
+      "绞台"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
   },
   {
     "term": "gibe",
@@ -4866,6 +5434,31 @@
     }
   },
   {
+    "term": "gilding",
+    "type": "word",
+    "pos": "N",
+    "translation": "在某物上覆金箔或涂金色；饰金用的或金色的材料；金饰或金色的表面",
+    "analysis": "n [U]  1 applying of gilt to sth 在某物上覆金箔或涂金色.  2 material with which things are gilded; surface made by such material 饰金用的或金色的材料; 金饰或金色的表面.",
+    "phonetic": "/ ˈgɪldɪŋ; ˈgɪldɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "在某物上覆金箔或涂金色；饰金用的或金色的材料；金饰或金色的表面"
+    ],
+    "pronunciation": "/ ˈgɪldɪŋ; ˈgɪldɪŋ/",
+    "accepted_answers": [
+      "在某物上覆金箔或涂金色",
+      "饰金用的或金色的材料",
+      "金饰或金色的表面"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
+  },
+  {
     "term": "gill",
     "type": "word",
     "translation": "通常作复数)；插图；（蘑菇的）菌褶",
@@ -4887,6 +5480,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gillie",
+    "type": "word",
+    "pos": "N",
+    "translation": "（苏格兰）伺候渔猎运动者的仆人或男孩",
+    "analysis": "n man or boy attending sb shooting or fishing for sport in Scotland （苏格兰）伺候渔猎运动者的仆人或男孩.",
+    "phonetic": "/ ˈgɪlɪ; ˈgɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（苏格兰）伺候渔猎运动者的仆人或男孩"
+    ],
+    "pronunciation": "/ ˈgɪlɪ; ˈgɪlɪ/",
+    "accepted_answers": [
+      "（苏格兰）伺候渔猎运动者的仆人或男孩"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
   },
   {
     "term": "gilt",
@@ -5252,6 +5868,32 @@
     }
   },
   {
+    "term": "girlishly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "办公室中任多种职责的年轻女助理；（男子的）女朋友；情人；女童子军",
+    "analysis": "adv.\ngirl Friday \nyoung woman with a wide range of office duties 办公室中任多种职责的年轻女助理.\ngirl-friend \nn female companion, esp a man's regular (and possibly sexual) partner （男子的）女朋友, 情人.\nGirl Guide (Brit also Guide, US Girl Scout) \nmember of an organization for girls (equivalent to the Boy Scouts) which aims to develop practical skills, self-reliance and helpfulness 女童子军. Cf 参看 scout2.",
+    "phonetic": "/ ˈgɜːlɪʃlɪ; ˈgɜːlɪʃlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "办公室中任多种职责的年轻女助理；（男子的）女朋友；情人；女童子军"
+    ],
+    "pronunciation": "/ ˈgɜːlɪʃlɪ; ˈgɜːlɪʃlɪ/",
+    "accepted_answers": [
+      "办公室中任多种职责的年轻女助理",
+      "（男子的）女朋友",
+      "情人",
+      "女童子军"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
+  },
+  {
     "term": "giro",
     "type": "word",
     "translation": ")(；商)；（银行或邮局间的）直接转帐制度",
@@ -5503,6 +6145,52 @@
     }
   },
   {
+    "term": "glade",
+    "type": "word",
+    "pos": "N",
+    "translation": "森林中的空地",
+    "analysis": "n open space in a forest; clearing 森林中的空地.",
+    "phonetic": "/ gleɪd; gled/",
+    "origin": "待查",
+    "expansions": [
+      "森林中的空地"
+    ],
+    "pronunciation": "/ gleɪd; gled/",
+    "accepted_answers": [
+      "森林中的空地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
+    "term": "gladiator",
+    "type": "word",
+    "pos": "N",
+    "translation": "（古罗马）（在竞技场用武器作打斗表演的）斗士",
+    "analysis": "n (in ancient Rome) man trained to fight with weapons at public shows in an arena （古罗马）（在竞技场用武器作打斗表演的）斗士.",
+    "phonetic": "/ ˈglædɪeɪtə(r); ˈglædɪˌetə/",
+    "origin": "待查",
+    "expansions": [
+      "（古罗马）（在竞技场用武器作打斗表演的）斗士"
+    ],
+    "pronunciation": "/ ˈglædɪeɪtə(r); ˈglædɪˌetə/",
+    "accepted_answers": [
+      "（古罗马）（在竞技场用武器作打斗表演的）斗士"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
     "term": "gladiatorial",
     "type": "word",
     "translation": "斗士的；斗士的格斗、表演等",
@@ -5546,6 +6234,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "glamorization",
+    "type": "word",
+    "pos": "N",
+    "translation": "glamorization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌglæməraɪˈzeɪʃn; -rɪˈz-; ˌglæmərɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "glamorization"
+    ],
+    "pronunciation": "/ ˌglæməraɪˈzeɪʃn; -rɪˈz-; ˌglæmərɪˈzeʃən/",
+    "accepted_answers": [
+      "glamorization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
   },
   {
     "term": "glamorize",
@@ -5770,6 +6481,31 @@
     }
   },
   {
+    "term": "glassful",
+    "type": "word",
+    "pos": "N",
+    "translation": "一玻璃杯的量；玻璃吹制工；温室",
+    "analysis": "n as much as a drinking-glass will hold 一玻璃杯的量.\nglass-blower \nn worker who blows molten glass to shape it into bottles, etc 玻璃吹制工.\nglass fibre \n= fibreglass (fibre).\nglasshouse \nn  1 (a) building with glass sides and roof, for growing plants; greenhouse 温室. (b) (Brit infml 口) military prison 军人监狱.  2 (idm 习语) people in glasshouses shouldn't throw stones => people.",
+    "phonetic": "/ -fUl; -ˌfJl/",
+    "origin": "待查",
+    "expansions": [
+      "一玻璃杯的量；玻璃吹制工；温室"
+    ],
+    "pronunciation": "/ -fUl; -ˌfJl/",
+    "accepted_answers": [
+      "一玻璃杯的量",
+      "玻璃吹制工",
+      "温室"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
     "term": "glassy",
     "type": "word",
     "translation": "像玻璃的；光滑如镜的海面；小心人行道上有冰；路面可真滑",
@@ -5795,6 +6531,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "glaucoma",
+    "type": "word",
+    "pos": "N",
+    "translation": "青光眼；绿内障",
+    "analysis": "n [U] eye disease causing gradual loss of sight 青光眼; 绿内障.",
+    "phonetic": "/ glɔːˈkəʊmə; glɔːˈkomə/",
+    "origin": "待查",
+    "expansions": [
+      "青光眼；绿内障"
+    ],
+    "pronunciation": "/ glɔːˈkəʊmə; glɔːˈkomə/",
+    "accepted_answers": [
+      "青光眼",
+      "绿内障"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
   },
   {
     "term": "glaze",
@@ -6098,6 +6858,31 @@
     "origin": "待查"
   },
   {
+    "term": "glissade",
+    "type": "word",
+    "pos": "V",
+    "translation": ")（登山运动中）从覆有冰雪的陡坡上滑下（通常用破冰斧支撑）；（芭蕾舞中）作滑步动作；滑步",
+    "analysis": "v [I, Ipr, Ip]  1 (in mountaineering) slide on the feet down a steep slope of ice or snow (usu with the support of an ice-axe) （登山运动中）从覆有冰雪的陡坡上滑下（通常用破冰斧支撑）.  2 (in ballet) make a sliding step （芭蕾舞中）作滑步动作.\nglissade \nn such a slide or step 滑步.",
+    "phonetic": "/ glɪˈseɪd; -ˈsɑː:d; glɪˈsɑːd/",
+    "origin": "待查",
+    "expansions": [
+      ")（登山运动中）从覆有冰雪的陡坡上滑下（通常用破冰斧支撑）；（芭蕾舞中）作滑步动作；滑步"
+    ],
+    "pronunciation": "/ glɪˈseɪd; -ˈsɑː:d; glɪˈsɑːd/",
+    "accepted_answers": [
+      ")（登山运动中）从覆有冰雪的陡坡上滑下（通常用破冰斧支撑）",
+      "（芭蕾舞中）作滑步动作",
+      "滑步"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
     "term": "glissando",
     "type": "word",
     "translation": ")(；音)(；（演奏或演唱中）滑奏；滑唱",
@@ -6248,6 +7033,31 @@
     }
   },
   {
+    "term": "gloaming",
+    "type": "word",
+    "pos": "N",
+    "translation": "古)；黄昏；薄暮",
+    "analysis": "n the gloaming [sing] (arch 古) twilight 黄昏; 薄暮.",
+    "phonetic": "/ ˈgləʊmɪŋ; ˈglomɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "古)；黄昏；薄暮"
+    ],
+    "pronunciation": "/ ˈgləʊmɪŋ; ˈglomɪŋ/",
+    "accepted_answers": [
+      "古)",
+      "黄昏",
+      "薄暮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
     "term": "gloat",
     "type": "word",
     "translation": "沾沾自喜；得意扬扬；幸灾乐祸",
@@ -6295,6 +7105,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "globally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "globally",
+    "analysis": "adv.",
+    "phonetic": "/ -bəlɪ; -bəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "globally"
+    ],
+    "pronunciation": "/ -bəlɪ; -bəlɪ/",
+    "accepted_answers": [
+      "globally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
   },
   {
     "term": "globe",
@@ -6366,6 +7199,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gloomily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "gloomily",
+    "analysis": "adv.\ngloominess \nn [U].",
+    "phonetic": "/ -ɪlɪ; -ɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "gloomily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -ɪlɪ/",
+    "accepted_answers": [
+      "gloomily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
   },
   {
     "term": "gloomy",
@@ -6522,6 +7378,55 @@
     }
   },
   {
+    "term": "glottal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "声门的；喉塞音；声门闭塞音",
+    "analysis": "adj of the glottis 声门的. ,glottal `stop speech sound produced by a complete closure of the glottis, followed by an explosive release of breath 喉塞音; 声门闭塞音.",
+    "phonetic": "/ ˈglɒtl; ˈglɑːtl/",
+    "origin": "待查",
+    "expansions": [
+      "声门的；喉塞音；声门闭塞音"
+    ],
+    "pronunciation": "/ ˈglɒtl; ˈglɑːtl/",
+    "accepted_answers": [
+      "声门的",
+      "喉塞音",
+      "声门闭塞音"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
+    "term": "glottis",
+    "type": "word",
+    "pos": "N",
+    "translation": "解)；声门",
+    "analysis": "n (anatomy 解) opening between the vocal cords in the upper part of the windpipe 声门.",
+    "phonetic": "/ ˈglɒtɪs; ˈglɑːtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "解)；声门"
+    ],
+    "pronunciation": "/ ˈglɒtɪs; ˈglɑːtɪs/",
+    "accepted_answers": [
+      "解)",
+      "声门"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
     "term": "glove",
     "type": "word",
     "translation": "手套（通常指分指的）；一副手套；洗涤用的胶皮手套",
@@ -6597,6 +7502,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gloweringly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "gloweringly",
+    "analysis": "adv.",
+    "phonetic": "/ ˈglaUərɪŋlɪ; ˈglaJərɪŋlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "gloweringly"
+    ],
+    "pronunciation": "/ ˈglaUərɪŋlɪ; ˈglaJərɪŋlɪ/",
+    "accepted_answers": [
+      "gloweringly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
   },
   {
     "term": "glue",
@@ -6748,6 +7676,30 @@
     }
   },
   {
+    "term": "gmt",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；参看",
+    "analysis": "abbr 缩写 = Greenwich Mean Time. Cf 参看 BST.",
+    "phonetic": "/ ˌdʒiːemˈtiː; ˌdʒiemˈti/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；参看"
+    ],
+    "pronunciation": "/ ˌdʒiːemˈtiː; ˌdʒiemˈti/",
+    "accepted_answers": [
+      "缩写",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
     "term": "gnarled",
     "type": "word",
     "translation": "（指树木）扭曲粗糙的；多节瘤的；多节瘤的橡树、树枝、树干；（指手或手指）关节扭曲肿胀及皮肤粗糙的；变形的",
@@ -6849,6 +7801,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gnu",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数或不变或作；)(；角马（产於非洲）",
+    "analysis": "n (pl unchanged or ~s 复数或不变或作 gnus) (also wildebeest) large thickset African antelope 角马（产於非洲）.",
+    "phonetic": "/ nuː; nu/",
+    "origin": "待查",
+    "expansions": [
+      "复数或不变或作；)(；角马（产於非洲）"
+    ],
+    "pronunciation": "/ nuː; nu/",
+    "accepted_answers": [
+      "复数或不变或作",
+      ")(",
+      "角马（产於非洲）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "go",
@@ -7103,6 +8080,30 @@
     }
   },
   {
+    "term": "goblin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（童话故事中）（丑陋而调皮的）小妖精；小妖怪",
+    "analysis": "n (in fairy stories) small ugly mischievous manlike creature （童话故事中）（丑陋而调皮的）小妖精, 小妖怪.",
+    "phonetic": "/ ˈgɒblɪn; ˈgɑːblɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（童话故事中）（丑陋而调皮的）小妖精；小妖怪"
+    ],
+    "pronunciation": "/ ˈgɒblɪn; ˈgɑːblɪn/",
+    "accepted_answers": [
+      "（童话故事中）（丑陋而调皮的）小妖精",
+      "小妖怪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
     "term": "god",
     "type": "word",
     "translation": "马尔斯是罗马的战神；精美绝伦的宴席；美景",
@@ -7197,6 +8198,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "godly",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "热爱和崇敬上帝的；虔诚的",
+    "analysis": "adj (-lier, -liest) loving and obeying God; deeply religious 热爱和崇敬上帝的; 虔诚的.\ngodliness \nn [U].",
+    "phonetic": "/ ˈgɒdlɪ; ˈgɑːdlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "热爱和崇敬上帝的；虔诚的"
+    ],
+    "pronunciation": "/ ˈgɒdlɪ; ˈgɑːdlɪ/",
+    "accepted_answers": [
+      "热爱和崇敬上帝的",
+      "虔诚的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "godsend",
@@ -7348,6 +8373,29 @@
     }
   },
   {
+    "term": "goitre",
+    "type": "word",
+    "pos": "N",
+    "translation": "甲状腺肿",
+    "analysis": "n [U] large swelling of the throat caused by disease of the thyroid gland 甲状腺肿.",
+    "phonetic": "/ ˈgɔːɪtə(r); ˈgɔːɪtə/",
+    "origin": "待查",
+    "expansions": [
+      "甲状腺肿"
+    ],
+    "pronunciation": "/ ˈgɔːɪtə(r); ˈgɔːɪtə/",
+    "accepted_answers": [
+      "甲状腺肿"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
     "term": "gold",
     "type": "word",
     "translation": "黄金；勘探黄金；足金金币",
@@ -7447,6 +8495,29 @@
     }
   },
   {
+    "term": "gondolier",
+    "type": "word",
+    "pos": "N",
+    "translation": ")（威尼斯运河上划平底舟的）船夫",
+    "analysis": "n man who propels a gondola(1) （威尼斯运河上划平底舟的）船夫.\ngone\npp of go.",
+    "phonetic": "/ ˌgɒndəˈlɪə(r); ˌgɑːndəˈlɪr/",
+    "origin": "待查",
+    "expansions": [
+      ")（威尼斯运河上划平底舟的）船夫"
+    ],
+    "pronunciation": "/ ˌgɒndəˈlɪə(r); ˌgɑːndəˈlɪr/",
+    "accepted_answers": [
+      ")（威尼斯运河上划平底舟的）船夫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
     "term": "gone",
     "type": "word",
     "translation": "作表语；过去；离去",
@@ -7540,6 +8611,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gonorrhoea",
+    "type": "word",
+    "pos": "N",
+    "translation": "淋病",
+    "analysis": "n [U] contagious venereal disease which causes a painful discharge from the sexual organs 淋病.",
+    "phonetic": "/ ˌgɒnəˈrɪə; ˌgɑːnəˈriə/",
+    "origin": "待查",
+    "expansions": [
+      "淋病"
+    ],
+    "pronunciation": "/ ˌgɒnəˈrɪə; ˌgɑːnəˈriə/",
+    "accepted_answers": [
+      "淋病"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "goo",
@@ -7975,6 +9069,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gorgonzola",
+    "type": "word",
+    "pos": "N",
+    "translation": "戈尔贡佐拉乾酪（意大利乾酪；乳脂丰富；有蓝色花纹）",
+    "analysis": "n [U] rich creamy blue-veined Italian cheese 戈尔贡佐拉乾酪（意大利乾酪, 乳脂丰富, 有蓝色花纹）.",
+    "phonetic": "/ ˌgɔːgənˈzəʊlə; ˌgɔːrgənˈzolə/",
+    "origin": "待查",
+    "expansions": [
+      "戈尔贡佐拉乾酪（意大利乾酪；乳脂丰富；有蓝色花纹）"
+    ],
+    "pronunciation": "/ ˌgɔːgənˈzəʊlə; ˌgɔːrgənˈzolə/",
+    "accepted_answers": [
+      "戈尔贡佐拉乾酪（意大利乾酪",
+      "乳脂丰富",
+      "有蓝色花纹）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "gormandise",
@@ -9092,6 +10211,29 @@
     }
   },
   {
+    "term": "grand-dad",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (Brit infml 口) = grandfather (grand-).",
+    "phonetic": "/ ˈgrændæd; ˈgrænˌdæd/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ˈgrændæd; ˈgrænˌdæd/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
+  },
+  {
     "term": "grandeur",
     "type": "word",
     "translation": "伟大；壮丽；壮观",
@@ -9161,6 +10303,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "granny",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；老奶奶套间（供老人住的一套房间；尤指於亲戚家中者）；反平结（反向打的平结；易松开）",
+    "analysis": "n (infml 口) = grandmother (grand-).\ngranny flat \n(infml 口) flat for an old person, esp in a relative's house 老奶奶套间（供老人住的一套房间, 尤指於亲戚家中者）.\ngranny knot \nreef knot (reef) that is incorrectly tied, so that it easily comes undone 反平结（反向打的平结, 易松开）.",
+    "phonetic": "/ ˈgrænɪ; ˈgrænɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；老奶奶套间（供老人住的一套房间；尤指於亲戚家中者）；反平结（反向打的平结；易松开）"
+    ],
+    "pronunciation": "/ ˈgrænɪ; ˈgrænɪ/",
+    "accepted_answers": [
+      "口)",
+      "老奶奶套间（供老人住的一套房间",
+      "尤指於亲戚家中者）",
+      "反平结（反向打的平结",
+      "易松开）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
   },
   {
     "term": "grant",
@@ -9406,6 +10575,29 @@
     }
   },
   {
+    "term": "graphology",
+    "type": "word",
+    "pos": "N",
+    "translation": "笔体学（尤用以推测书写者的性格）",
+    "analysis": "n [U] scientific study of handwriting, esp to determine the writer's personality 笔体学（尤用以推测书写者的性格）.",
+    "phonetic": "/ græˈfɒlədʒɪ; græˈfɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "笔体学（尤用以推测书写者的性格）"
+    ],
+    "pronunciation": "/ græˈfɒlədʒɪ; græˈfɑːlədʒɪ/",
+    "accepted_answers": [
+      "笔体学（尤用以推测书写者的性格）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
+  },
+  {
     "term": "grapnel",
     "type": "word",
     "pos": "N",
@@ -9529,6 +10721,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "grasshopper",
+    "type": "word",
+    "pos": "N",
+    "translation": "蝗虫；蚂蚱；蚱蜢",
+    "analysis": "n  1 jumping insect that makes a shrill chirping noise 蝗虫; 蚂蚱; 蚱蜢.  2 (idm 习语) knee-high to a grasshopper => knee-high (knee).",
+    "phonetic": "/ ˈgrɑː:shɒpə(r); ˈgræs-; ˈgræsˌhɑːpə/",
+    "origin": "待查",
+    "expansions": [
+      "蝗虫；蚂蚱；蚱蜢"
+    ],
+    "pronunciation": "/ ˈgrɑː:shɒpə(r); ˈgræs-; ˈgræsˌhɑːpə/",
+    "accepted_answers": [
+      "蝗虫",
+      "蚂蚱",
+      "蚱蜢"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
   },
   {
     "term": "grassland",
@@ -11032,6 +12249,32 @@
     }
   },
   {
+    "term": "groovy",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧；俚)；吸引人的；绝妙的（尤指因流行或时髦）",
+    "analysis": "adj (dated sl 旧, 俚) attractive or excellent, esp because fashionable or modern 吸引人的, 绝妙的（尤指因流行或时髦）.",
+    "phonetic": "/ ˈgruːvɪ; ˈgruvɪ/",
+    "origin": "待查",
+    "expansions": [
+      "旧；俚)；吸引人的；绝妙的（尤指因流行或时髦）"
+    ],
+    "pronunciation": "/ ˈgruːvɪ; ˈgruvɪ/",
+    "accepted_answers": [
+      "旧",
+      "俚)",
+      "吸引人的",
+      "绝妙的（尤指因流行或时髦）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
+  },
+  {
     "term": "grope",
     "type": "word",
     "translation": ")(；摸索；探索",
@@ -11550,6 +12793,30 @@
     }
   },
   {
+    "term": "gruel",
+    "type": "word",
+    "pos": "N",
+    "translation": "（以牛奶或水煮燕麦片等制成的）简便食物；麦片粥",
+    "analysis": "n [U] simple dish made of oatmeal, etc boiled in milk or water （以牛奶或水煮燕麦片等制成的）简便食物; 麦片粥.",
+    "phonetic": "/ ˈgruːəl; ˈgruəl/",
+    "origin": "待查",
+    "expansions": [
+      "（以牛奶或水煮燕麦片等制成的）简便食物；麦片粥"
+    ],
+    "pronunciation": "/ ˈgruːəl; ˈgruəl/",
+    "accepted_answers": [
+      "（以牛奶或水煮燕麦片等制成的）简便食物",
+      "麦片粥"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
+  },
+  {
     "term": "gruelling",
     "type": "word",
     "translation": "严厉的；使人筋疲力竭的；使人筋疲力竭的攀登、竞赛、审讯、考验等",
@@ -11827,6 +13094,54 @@
     }
   },
   {
+    "term": "guardsman",
+    "type": "word",
+    "pos": "N",
+    "translation": "禁卫队之士兵；)(；守车（火车上警卫人员乘坐的车厢）",
+    "analysis": "n (pl -men / -mEn; -mEn/) soldier in the Guards 禁卫队之士兵.\nguard's van \n(Brit) (US caboose) carriage in which the guard on a train travels 守车（火车上警卫人员乘坐的车厢）.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "禁卫队之士兵；)(；守车（火车上警卫人员乘坐的车厢）"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "禁卫队之士兵",
+      ")(",
+      "守车（火车上警卫人员乘坐的车厢）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "guelder rose",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "绣球花（灌木、开白花）",
+    "analysis": "shrub with round bunches of white flowers 绣球花（灌木、 开白花）.",
+    "phonetic": "/ ˌgeldəˈrəʊz; ˈgeldəˌroz/",
+    "origin": "待查",
+    "expansions": [
+      "绣球花（灌木、开白花）"
+    ],
+    "pronunciation": "/ ˌgeldəˈrəʊz; ˈgeldəˌroz/",
+    "accepted_answers": [
+      "绣球花（灌木、开白花）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "guerrilla",
     "type": "word",
     "translation": "游击队员；城市游击队员；游击战",
@@ -12048,6 +13363,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "guillemot",
+    "type": "word",
+    "pos": "N",
+    "translation": "海鸽；海鸠（北方海鸟；长有黑色和白色羽毛；嘴狭长）",
+    "analysis": "n (type of) northern sea-bird with black and white plumage and a long narrow beak 海鸽, 海鸠（北方海鸟, 长有黑色和白色羽毛, 嘴狭长）.",
+    "phonetic": "/ ˈgɪlɪmɒt; ˈgɪləˌmɑːt/",
+    "origin": "待查",
+    "expansions": [
+      "海鸽；海鸠（北方海鸟；长有黑色和白色羽毛；嘴狭长）"
+    ],
+    "pronunciation": "/ ˈgɪlɪmɒt; ˈgɪləˌmɑːt/",
+    "accepted_answers": [
+      "海鸽",
+      "海鸠（北方海鸟",
+      "长有黑色和白色羽毛",
+      "嘴狭长）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "guilt",
@@ -12287,6 +13628,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gullibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "gullibly",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "gullibly"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "gullibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "gulp",
@@ -12736,6 +14100,30 @@
     }
   },
   {
+    "term": "gymkhana",
+    "type": "word",
+    "pos": "N",
+    "translation": "马术比赛；汽车驾驶比赛",
+    "analysis": "n public competitive display of horse-riding or vehicle-driving 马术比赛, 汽车驾驶比赛.",
+    "phonetic": "/ dʒɪmˈkɑː:nə; dʒɪmˈkɑːnə/",
+    "origin": "待查",
+    "expansions": [
+      "马术比赛；汽车驾驶比赛"
+    ],
+    "pronunciation": "/ dʒɪmˈkɑː:nə; dʒɪmˈkɑːnə/",
+    "accepted_answers": [
+      "马术比赛",
+      "汽车驾驶比赛"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "gymnastic",
     "type": "word",
     "translation": "体育的；体操的；体操",
@@ -12757,6 +14145,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gynaecology",
+    "type": "word",
+    "pos": "N",
+    "translation": "妇科学；妇科",
+    "analysis": "n [U] scientific study and treatment of diseases and disorders of the female reproductive system 妇科学; 妇科.",
+    "phonetic": "/ ˌgaɪnəˈkɒlədʒɪ; ˌgaɪnɪˈkɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "妇科学；妇科"
+    ],
+    "pronunciation": "/ ˌgaɪnəˈkɒlədʒɪ; ˌgaɪnɪˈkɑːlədʒɪ/",
+    "accepted_answers": [
+      "妇科学",
+      "妇科"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "gyp",
@@ -12806,6 +14218,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gyrate",
+    "type": "word",
+    "pos": "V",
+    "translation": "旋转；回旋",
+    "analysis": "v [I] move around in circles or spirals; revolve 旋转; 回旋.",
+    "phonetic": "/ ˌdʒaɪˈreɪt; ˈdʒaɪreɪt; ˈdʒaɪret/",
+    "origin": "待查",
+    "expansions": [
+      "旋转；回旋"
+    ],
+    "pronunciation": "/ ˌdʒaɪˈreɪt; ˈdʒaɪreɪt; ˈdʒaɪret/",
+    "accepted_answers": [
+      "旋转",
+      "回旋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "gyroscopic",

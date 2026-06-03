@@ -24,6 +24,181 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quad",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；构词成分；有四部分的",
+    "analysis": "n (infml 口)  1 =quadrangle 2.2 = quadruplet.\nquadr(i)-\ncomb form 构词成分  1 having four parts 有四部分的: quadrilateral * quadruped.  2 being one of four parts 四部分之一的: quadrant * quadruplet.",
+    "phonetic": "/ kwɒd; kwɑːd/",
+    "origin": "待查",
+    "expansions": [
+      "quadrilateral",
+      "quadruped. 2 being one of four parts 四部分之一的: quadrant",
+      "quadruplet."
+    ],
+    "pronunciation": "/ kwɒd; kwɑːd/",
+    "accepted_answers": [
+      "口)",
+      "构词成分",
+      "有四部分的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadrangle",
+    "type": "word",
+    "pos": "N",
+    "translation": "四边形；（尤指）正方形；长方形；文)",
+    "analysis": "n  1 plane figurewith four sides, esp a square or rectangle 四边形; （尤指）正方形, 长方形.  2 (fml 文) four-sided courtyard surrounded by large buildings, eg in an Oxford college （四周由大型建筑物围绕的）方形庭院（如於牛津大学学院的）.",
+    "phonetic": "/ ˈkwɒdræŋgl; ˈkwɑːdræŋgl/",
+    "origin": "待查",
+    "expansions": [
+      "四边形；（尤指）正方形；长方形；文)"
+    ],
+    "pronunciation": "/ ˈkwɒdræŋgl; ˈkwɑːdræŋgl/",
+    "accepted_answers": [
+      "四边形",
+      "（尤指）正方形",
+      "长方形",
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadrant",
+    "type": "word",
+    "pos": "N",
+    "translation": "圆的或圆周的四分之一；象限；插图",
+    "analysis": "n  1 quarter of a circle or of its circumference 圆的或圆周的四分之一; 象限. =>illus at circle 见circle插图.  2 instrument with an arc of 90 marked off in degrees, for measuring angles 象限仪; 四分仪.",
+    "phonetic": "/ ˈkwɒdrənt; ˈkwɑːdrənt/",
+    "origin": "待查",
+    "expansions": [
+      "圆的或圆周的四分之一；象限；插图"
+    ],
+    "pronunciation": "/ ˈkwɒdrənt; ˈkwɑːdrənt/",
+    "accepted_answers": [
+      "圆的或圆周的四分之一",
+      "象限",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadrennial",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "持续四年的；每四年一次的",
+    "analysis": "adj  1 lasting for four years 持续四年的.  2 happening every fourthyear 每四年一次的.",
+    "phonetic": "/ kwɒˈdrenɪəl; kwɑːˈdrenɪəl/",
+    "origin": "待查",
+    "expansions": [
+      "持续四年的；每四年一次的"
+    ],
+    "pronunciation": "/ kwɒˈdrenɪəl; kwɑːˈdrenɪəl/",
+    "accepted_answers": [
+      "持续四年的",
+      "每四年一次的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadrilateral",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "四边形（的）",
+    "analysis": "n, adj (plane figure) with four sides 四边形（的）.",
+    "phonetic": "/ ˌkwɒdrɪˈlætərəl; ˌkwɑːdrəˈlætərəl/",
+    "origin": "待查",
+    "expansions": [
+      "四边形（的）"
+    ],
+    "pronunciation": "/ ˌkwɒdrɪˈlætərəl; ˌkwɑːdrəˈlætərəl/",
+    "accepted_answers": [
+      "四边形（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "qualitative",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "性质的；质量的；与性质或质量有关的",
+    "analysis": "adj of or concerned with quality 性质的; 质量的; 与性质或质量有关的: qualitative analysis 定性分析 * little qualitative improvement in their work 他们的工作质量没什麽改进. Cf 参看 quantitative.\nqualitatively \nadv.",
+    "phonetic": "/ ˈkwɒlɪtətɪv; -teɪt-; ˈkwɑːləˌtetɪv/",
+    "origin": "待查",
+    "expansions": [
+      "qualitative analysis 定性分析",
+      "little qualitative improvement in their work 他们的工作质量没什麽改进. Cf 参看 quantitative."
+    ],
+    "pronunciation": "/ ˈkwɒlɪtətɪv; -teɪt-; ˈkwɑːləˌtetɪv/",
+    "accepted_answers": [
+      "性质的",
+      "质量的",
+      "与性质或质量有关的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quango",
+    "type": "word",
+    "pos": "N",
+    "translation": ")（由政府赞助的）自治机构（此字由；之首字母组成）",
+    "analysis": "n (pl ~s) administrative organization that operates independently but with support from the government (formed from the initials of `quasi-autonomous, non-governmental organization') （由政府赞助的）自治机构（此字由`quasi-autonomous, non-governmental organization'之首字母组成）.",
+    "phonetic": "/ ˈkwæŋgəʊ; ˈkwæŋgo/",
+    "origin": "待查",
+    "expansions": [
+      ")（由政府赞助的）自治机构（此字由；之首字母组成）"
+    ],
+    "pronunciation": "/ ˈkwæŋgəʊ; ˈkwæŋgo/",
+    "accepted_answers": [
+      ")（由政府赞助的）自治机构（此字由",
+      "之首字母组成）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quantity",
     "type": "word",
     "translation": "数量；量；数额",
@@ -69,6 +244,79 @@
     "pos": "N"
   },
   {
+    "term": "quantum",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；文)；（需要的或想要的）数量",
+    "analysis": "n (pl quanta / -tE;-tE/) (fml 文) amount that is required or desired （需要的或想要的）数量.\nquantum leap \nsudden progress; breakthrough 突飞猛进; 突破: This discovery marks a quantum leap forward in the fight against cancer. 这一发现标志著治疗癌症的 一大突破.\nquantum theory \n(physics 物) theory based on the assumption that in radiation the energy of electrons exists in units that cannot be divided 量子论.",
+    "phonetic": "/ ˈkwɒntəm; ˈkwɑːntəm/",
+    "origin": "待查",
+    "expansions": [
+      "This discovery marks a quantum leap forward in the fight against cancer. 这一发现标志著治疗癌症的 一大突破."
+    ],
+    "pronunciation": "/ ˈkwɒntəm; ˈkwɑːntəm/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "（需要的或想要的）数量"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quartz",
+    "type": "word",
+    "pos": "N",
+    "translation": ")石英；石英钟",
+    "analysis": "n [U] any of various types of hard mineral (esp crystallized silica) 石英: [attrib 作定语] a quartz clock/watch, ie one that is operated, very accurately, by the electric vibrations of a quartz crystal 石英钟[表].",
+    "phonetic": "/ kwɔːts; kwɔːrts/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] a quartz clock/watch, ie one that is operated, very accurately, by the electric vibrations of a quartz crystal 石英钟[表]."
+    ],
+    "pronunciation": "/ kwɔːts; kwɔːrts/",
+    "accepted_answers": [
+      ")石英",
+      "石英钟"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quasar",
+    "type": "word",
+    "pos": "N",
+    "translation": "天)；类星体",
+    "analysis": "n (astronomy 天) very distant object like a star that is the source of intense electromagnetic radiation 类星体.",
+    "phonetic": "/ ˈkweɪzɑː:(r); ˈkwezɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "天)；类星体"
+    ],
+    "pronunciation": "/ ˈkweɪzɑː:(r); ˈkwezɑːr/",
+    "accepted_answers": [
+      "天)",
+      "类星体"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quay",
     "type": "word",
     "pos": "N",
@@ -84,6 +332,91 @@
       "码头",
       "码头边",
       "等候在码头边上欢迎他们的人群"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "queer",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（与预期的）不同的；奇怪的；（尤指）古怪的",
+    "analysis": "adj  1 (a) different from what is expected; strange, esp in an unpleasant way （与预期的）不同的; 奇怪的; （尤指）古怪的: The fish had a queer taste. 那鱼有一股怪味道. * His behaviour seemed queer. 他的举动似乎有些古怪. * I think she's gone a bit queer in the head, ie slightly crazy. 我看她精神不太正常. (b) causing doubt or suspicion 使人生疑的; 可疑的: I heard some very queer noises in the garden. 我听到花园里有些可疑的声音. * There's something queer about him. 他有些可疑.  2 (sl derog 俚, 贬) homosexual 同性恋的.  3 (dated infml 旧, 口) unwell; faint 不舒服的; 眩晕的: I woke up feeling rather queer. 我醒来觉得有些头晕.  4 (idm 习语) be in `Queer Street (dated Brit sl 旧, 俚) be in (esp financial) trouble 处於（尤指财务）困境; 拮 据: He lost all his money gambling and now he's really in Queer Street. 他把钱都输光了, 现在可真狼狈了. an odd/a queer fish => fish1.\nqueer \nn (sl derog 俚, 贬) homosexual man 男同性恋者.\nqueer \nv (idm 习语) queer sb's `pitch (infml 口) cause sb's plans to go wrong 破坏或阻挠某人的计画: I think I'm likely to get the job, but if Bob applies for it too it/he could queer my pitch. 我想我很可能得到这份工作, 可是假设鲍勃也申请的话, 那[他]可能使我的计画落空.\nqueerly \nadv.\nqueerness \nn [U].",
+    "phonetic": "/ kwɪə(r); kwɪr/",
+    "origin": "待查",
+    "expansions": [
+      "The fish had a queer taste. 那鱼有一股怪味道.",
+      "His behaviour seemed queer. 他的举动似乎有些古怪.",
+      "I think she's gone a bit queer in the head, ie slightly crazy. 我看她精神不太正常. (b) causing doubt or suspicion 使人生疑的; 可疑的: I heard some very queer noises in the garden. 我听到花园里有些可疑的声音.",
+      "There's something queer about him. 他有些可疑. 2 (sl derog 俚, 贬) homosexual 同性恋的. 3 (dated infml 旧, 口) unwell; faint 不舒服的; 眩晕的: I woke up feeling rather queer. 我醒来觉得有些头晕. 4 (idm 习语) be in `Queer Street (dated Brit sl 旧, 俚) be in (esp financial) trouble 处於（尤指财务）困境; 拮 据: He lost all his money gambling and now he's really in Queer Street. 他把钱都输光了, 现在可真狼狈了. an odd/a queer fish => fish1.",
+      "I think I'm likely to get the job, but if Bob applies for it too it/he could queer my pitch. 我想我很可能得到这份工作, 可是假设鲍勃也申请的话, 那[他]可能使我的计画落空."
+    ],
+    "pronunciation": "/ kwɪə(r); kwɪr/",
+    "accepted_answers": [
+      "（与预期的）不同的",
+      "奇怪的",
+      "（尤指）古怪的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quest",
+    "type": "word",
+    "pos": "N",
+    "translation": "文或修辞)；寻求；寻找",
+    "analysis": "n (fml or rhet 文或修辞)  1 ~ (for sth) act of seeking sth; search or pursuit 寻求; 寻找; 搜索; 追求: the quest for gold, knowledge, happiness 勘探黄金、 寻求知识、 追求幸福.  2 (idm 习语) in quest of sth trying to find sth; seeking sth 试图找到某事物; 寻求某事物: She had come in quest of advice. 她曾来徵求意见.\nquest \nv [I, Ipr] ~ (for sth) (fml or rhet 文或修辞) try to find sth; search 试图找到某事物; 搜索: His questing fingers found the light switch. 他用手指摸到了灯的开关. * continue to quest for clues 继续寻找线索.",
+    "phonetic": "/ kwest; kwest/",
+    "origin": "待查",
+    "expansions": [
+      "the quest for gold, knowledge, happiness 勘探黄金、 寻求知识、 追求幸福. 2 (idm 习语) in quest of sth trying to find sth; seeking sth 试图找到某事物; 寻求某事物: She had come in quest of advice. 她曾来徵求意见.",
+      "His questing fingers found the light switch. 他用手指摸到了灯的开关.",
+      "continue to quest for clues 继续寻找线索."
+    ],
+    "pronunciation": "/ kwest; kwest/",
+    "accepted_answers": [
+      "文或修辞)",
+      "寻求",
+      "寻找"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quick",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；快的；迅速的",
+    "analysis": "adj (-er, -est)  1 (a) (capable of) moving fast or doing sth in a short time 快的; 迅速的: a quick worker, reader 工作速度快的人、 阅读速度快的人 * quick to respond, react, learn 回应、 反应、 学得快的 * Taxis are quicker than buses. 计程车比公共汽车快. * Go and find the tickets and be quick about it, ie hurry. 去把票弄来, 快点儿. * The thief got away  he was too quick for me. 小偷溜掉了--我没追上. * We must move at a quicker pace or we'll be late. 我们动作得快些, 不然就晚了. (b) done in a short time 短时间做成的: have a quick meal 吃快餐 * We've just got time for a quick one, ie a quick (usu alcoholic) drink. 我们的时间不多, 只够匆匆喝上一口（通常指酒）. * with a quick flick of the wrist 用手腕急速一抖 * Are you sure this is the quickest way? 你肯定这条路最快吗? * He fired three shots in quick succession. 他快速连发三枪.  2 (a) [attrib 作定语] lively; active; alert 灵活的; 灵敏的; 伶俐的; 机警的: a quick ear for music 对音乐灵敏的耳朵 * a quick eye for imperfections 能挑毛病的锐利的眼睛 * Her quick wits saved the boy's life. 她靠急智救了那男孩一命. (b) easily roused; sensitive 易受激发的; 敏感的: Be careful not to annoy him  he's got a quick temper, ie he becomes angry very readily. 小心别惹他--他脾气急. * She's always very quick to take offence, ie easily offended. 她动不动就生气. (c) ~ (at sth) intelligent; competent 聪明的; 有能力的: He's not as quick as his sister. 他没有妹妹那麽聪明. * His spelling's poor but he's very quick at figures. 他拼写差, 但算术好.  3 (idm 习语) the ,quick and the `dead (arch 古) all people alive or dead 活的或死的所有的人. (as) quick as a `flash; (as) quick as `lightning very quick(ly) 极快: He got the answer to the riddle as quick as a flash. 他一下子就猜中了谜底. * She's as quick as lightning on the tennis court. 她在网球场上疾如闪电. (be) ,quick off the `mark making a prompt start 迅速开始: You have to be quick off the mark when you answer a newspaper advertisement. 回应报纸的广告得说办就办. quick/slow on the draw => draw1. quick/slow on the uptake => uptake.\nquick \nadv (-er, -est) quickly 快地; 迅速地: Come as quick as you can. 你要尽快来. * Everyone is trying to get rich quick nowadays. 现在每个人都想要尽快发财致富. * Who ran quickest? 谁跑得最快? * quick-drying paint 快乾漆.\nquick \nn  1 [sing] soft tender flesh, esp below the finger-nails 软而嫩的肉（尤指指甲下的）: She has bitten her nails (down) to the quick. 她咬指甲（一直）咬到肉.  2 (idm 习语) cut sb to the `quick hurt sb deeply by speaking or acting unkindly 用恶劣的语言或行动深深伤害某人: She was cut to the quick by his insults. 她受他侮辱而十分伤心.\nquickly \nadv: speak, write, run, learn very quickly 说得、 写得、 跑得、 学得很快.\nquickness \nn [U]: (saying 谚) The quickness of the hand deceives the eye. 手疾骗眼快.\nquick-change \nadj [attrib 作定语] (of an actor, etc) quickly changing his costume or appearance to play another part （指演员等）瞬变的（迅速换装或改变相貌而演另一角色）: a quick-change artist 瞬变的演员.\nquick-freeze \nv (pt -froze / -frEUz; -froz/, pp -frozen /-frEUzn; -frozEn/) [Tn] freeze (food) very quickly for storing so that it keeps its natural qualities 速冻（食物）.\nquick march \n(used as a military command to march at the usual pace （用作军令）齐步行进).\nquickstep \nn (music for a) ballroom dance with quick steps 快步舞（曲）: play/dance a quickstep 演奏快步舞曲[跳快步舞].\nquick-tempered \nadj likely to become angry very quickly 易怒的; 性情急躁的.\nquick-witted \nadj able to think quickly; intelligent 机智的; 聪明的.",
+    "phonetic": "/ kwɪk; kwɪk/",
+    "origin": "待查",
+    "expansions": [
+      "a quick worker, reader 工作速度快的人、 阅读速度快的人",
+      "quick to respond, react, learn 回应、 反应、 学得快的",
+      "Taxis are quicker than buses. 计程车比公共汽车快.",
+      "Go and find the tickets and be quick about it, ie hurry. 去把票弄来, 快点儿.",
+      "The thief got away he was too quick for me. 小偷溜掉了--我没追上."
+    ],
+    "pronunciation": "/ kwɪk; kwɪk/",
+    "accepted_answers": [
+      ")(",
+      "快的",
+      "迅速的"
     ],
     "added_at": "",
     "review": {
@@ -116,6 +449,125 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "quiescence",
+    "type": "word",
+    "pos": "N",
+    "translation": "quiescence",
+    "analysis": "n [U].",
+    "phonetic": "/ -sns; -sns/",
+    "origin": "待查",
+    "expansions": [
+      "quiescence"
+    ],
+    "pronunciation": "/ -sns; -sns/",
+    "accepted_answers": [
+      "quiescence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quietist",
+    "type": "word",
+    "pos": "N",
+    "translation": "寂静主义者",
+    "analysis": "n person who practises this 寂静主义者.",
+    "phonetic": "/ -ɪst; -ɪst/",
+    "origin": "待查",
+    "expansions": [
+      "寂静主义者"
+    ],
+    "pronunciation": "/ -ɪst; -ɪst/",
+    "accepted_answers": [
+      "寂静主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quiff",
+    "type": "word",
+    "pos": "N",
+    "translation": "额前向上梳的一束头发（尤指男子的）",
+    "analysis": "n (Brit) lock of hair, esp of a man, brushed up above the forehead 额前向上梳的一束头发（尤指男子的）.",
+    "phonetic": "/ kwɪf; kwɪf/",
+    "origin": "待查",
+    "expansions": [
+      "额前向上梳的一束头发（尤指男子的）"
+    ],
+    "pronunciation": "/ kwɪf; kwɪf/",
+    "accepted_answers": [
+      "额前向上梳的一束头发（尤指男子的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quincentenary",
+    "type": "word",
+    "pos": "N",
+    "translation": "周年；第五百周年庆典",
+    "analysis": "n 500th anniversary 第500周年: [attrib 作定语] quincentenary celebrations 第五百周年庆典.",
+    "phonetic": "/ ˌkwɪnsenˈtiːnərɪ; -ˈsentənerɪ; kwɪnˈsentnerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] quincentenary celebrations 第五百周年庆典."
+    ],
+    "pronunciation": "/ ˌkwɪnsenˈtiːnərɪ; -ˈsentənerɪ; kwɪnˈsentnerɪ/",
+    "accepted_answers": [
+      "周年",
+      "第五百周年庆典"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quintessence",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；)（理论、讲话、条件等）的精髓；精华；她的书抓住了文艺复兴时期人文主义的精髓",
+    "analysis": "n [sing] the ~ of sth (fml 文)  1 essential part of (a theory, speech, condition, etc) （理论、 讲话、 条件等）的精髓, 精华: Her book captures the quintessence of Renaissance humanism.她的书抓住了文艺复兴时期人文主义的精髓.  2 perfectexample of (a quality) 典范: He is the quintessence oftact and politeness. 他处世谦恭得体.",
+    "phonetic": "/ kwɪnˈtesns; kwɪnˈtesns/",
+    "origin": "待查",
+    "expansions": [
+      "Her book captures the quintessence of Renaissance humanism.她的书抓住了文艺复兴时期人文主义的精髓. 2 perfectexample of (a quality) 典范: He is the quintessence oftact and politeness. 他处世谦恭得体."
+    ],
+    "pronunciation": "/ kwɪnˈtesns; kwɪnˈtesns/",
+    "accepted_answers": [
+      "文)",
+      ")（理论、讲话、条件等）的精髓",
+      "精华",
+      "她的书抓住了文艺复兴时期人文主义的精髓"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
     "term": "quit",
@@ -165,5 +617,140 @@
         "translation": "离职；停止"
       }
     ]
+  },
+  {
+    "term": "quod",
+    "type": "word",
+    "pos": "N",
+    "translation": ")监狱（尤用於以下示例）；进监狱",
+    "analysis": "n [U] (sl 俚 esp Brit) prison (used esp in the expressions shown) 监狱（尤用於以下示例）: go to quod 进监狱 * in/out of quod 入[出]狱.",
+    "phonetic": "/ kwɒd; kwɑːd/",
+    "origin": "待查",
+    "expansions": [
+      "go to quod 进监狱",
+      "in/out of quod 入[出]狱."
+    ],
+    "pronunciation": "/ kwɒd; kwɑːd/",
+    "accepted_answers": [
+      ")监狱（尤用於以下示例）",
+      "进监狱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quota",
+    "type": "word",
+    "pos": "N",
+    "translation": "定额；限额；配额",
+    "analysis": "n  1 fixed share that must be done or contributed or received 定额; 限额; 配额: have one's full quota of rations 有自己全份的配给量 * I'm going home now  I've done my quota of work for the day. 我现在回家了--我已经完成了今天的工作定额.  2 maximum number or amount of people or things allowed, eg to enter a country （人或事物的）最高限额（如准予入境者）: Grain imports are controlled by strict quotas. 谷物进口量受最高限额的严格控制.",
+    "phonetic": "/ ˈkwəʊtə; ˈkwotə/",
+    "origin": "待查",
+    "expansions": [
+      "have one's full quota of rations 有自己全份的配给量",
+      "I'm going home now I've done my quota of work for the day. 我现在回家了--我已经完成了今天的工作定额. 2 maximum number or amount of people or things allowed, eg to enter a country （人或事物的）最高限额（如准予入境者）: Grain imports are controlled by strict quotas. 谷物进口量受最高限额的严格控制."
+    ],
+    "pronunciation": "/ ˈkwəʊtə; ˈkwotə/",
+    "accepted_answers": [
+      "定额",
+      "限额",
+      "配额"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quotation",
+    "type": "word",
+    "pos": "N",
+    "translation": "（对他人语言或文字的）引用；引述；引证；引用他人的话来支持你的论点；口语作",
+    "analysis": "n  1 [U] quoting or being quoted （对他人语言或文字的）引用, 引述, 引证: Support your argument by quotation. 引用他人的话来支持你的论点.  2 (also infml 口语作 quote) [C] group of words taken from a book, play, speech, etc and used again, usu by sb other than the original author 语录; 引文; 引用语: a dictionary of quotations 语录汇编 * She finished her speech with a quotation from Shakespeare. 她讲话结束时引用了莎士比亚的语录. =>App 3 见附录3.  3 [C] (statement of the) current price of stocks or commodities 行情; 牌价: the latest quotations from the Stock Exchange 股票交易所的最新行情.  4 (also infml 口语作 quote) [C] estimate of the likely cost of a piece of work 估价; 报价: The insurance company requires three quotations for repairs to the car. 保险公司要三家修理这辆汽车的报价单. Cf 参看 estimate1 2.\nquotation-marks (also quotes) \nn [pl] pair ofpunctuation marks (`' or \"\") used at the beginning andend of words that are being quoted 引号（ `' 或 \"\" ）.=>App 3 见附录3. Cf 参看 inverted commas (invert).",
+    "phonetic": "/ kwəʊˈteɪʃn; kwoˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "Support your argument by quotation. 引用他人的话来支持你的论点. 2 (also infml 口语作 quote) [C] group of words taken from a book, play, speech, etc and used again, usu by sb other than the original author 语录; 引文; 引用语: a dictionary of quotations 语录汇编",
+      "She finished her speech with a quotation from Shakespeare. 她讲话结束时引用了莎士比亚的语录. =>App 3 见附录3. 3 [C] (statement of the) current price of stocks or commodities 行情; 牌价: the latest quotations from the Stock Exchange 股票交易所的最新行情. 4 (also infml 口语作 quote) [C] estimate of the likely cost of a piece of work 估价; 报价: The insurance company requires three quotations for repairs to the car. 保险公司要三家修理这辆汽车的报价单. Cf 参看 estimate1 2."
+    ],
+    "pronunciation": "/ kwəʊˈteɪʃn; kwoˈteʃən/",
+    "accepted_answers": [
+      "（对他人语言或文字的）引用",
+      "引述",
+      "引证",
+      "引用他人的话来支持你的论点",
+      "口语作"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quote",
+    "type": "word",
+    "pos": "N / V",
+    "translation": ")(；)引用；引述；引证（他人的语言或文字）；你曾说过（我引用你的原话）",
+    "analysis": "v  1 [I, Ipr, Tn, Tn.pr] ~ (sth) (from sb/sth) repeat in speech or writing (words previously said or written by another person) 引用, 引述, 引证（他人的语言或文字）: You said (and I quote): `I have always loved her.' 你曾说过（我引用你的原话）: ｀我一直爱著她.＇ * He's always quoting verses from the Bible. 他经常引用《圣经》中的章节. * She is quoted as saying she disagrees with the decision. 用她的话说, 她不同意这一决定. * I think he's going to resign, but please don't quote me, ie because I am not sure if it is true. 我想他要辞职了, 可请不要说是我说的（因为我没有把握是否确实）.  2 [Tn, Dn.n] mention (sb/sth) in support of a statement 提到（某人[某事物]）以支持某论点: Can you quote (me) an example of what you mean? 你能否（给我）举个例子, 以说明你的意思?  3 [Tn, Tn.pr, Dn.n] ~ sth (at sth) name (an amount) as the price of sth 报（价）; 开（价）: The shares are currently being quoted at 54 pence a share. 该股票现在的报价是每股54便士.* This is the best price I can quote you. 这是我给你开出的对你最有利的价钱了. Cf 参看 estimate2 2.\nquote \nn (infml 口)  1 [C] =quotation 2.  2 quotes [pl] =quotation-marks (quotation): His words are in quotes. 他的话是加了引号的.  3 (idm 习语) `quote (...`unquote) (used when speaking to show the beginning (and end) of a passage being quoted, esp when the speaker disagrees with it 用於说话时表示一段引文的开始（和结尾）, 尤指说话人不以为然者): This quote startlingly original novel unquote is both boring and badly written. 这部所谓的｀不同凡响的小说＇云云, 内容既枯燥、 文笔又拙劣.  4 (infml 口) = quotation 4.\nquotable \nadj that can be or that deserves to be quoted 可引用的; 值得引用的: full of quotable quotes 充满了值得引用的语录.",
+    "phonetic": "/ kwəʊt; kwot/",
+    "origin": "待查",
+    "expansions": [
+      "You said (and I quote): `I have always loved her.' 你曾说过（我引用你的原话）: ｀我一直爱著她.＇",
+      "He's always quoting verses from the Bible. 他经常引用《圣经》中的章节.",
+      "She is quoted as saying she disagrees with the decision. 用她的话说, 她不同意这一决定.",
+      "I think he's going to resign, but please don't quote me, ie because I am not sure if it is true. 我想他要辞职了, 可请不要说是我说的（因为我没有把握是否确实）. 2 [Tn, Dn.n] mention (sb/sth) in support of a statement 提到（某人[某事物]）以支持某论点: Can you quote (me) an example of what you mean? 你能否（给我）举个例子, 以说明你的意思? 3 [Tn, Tn.pr, Dn.n] ~ sth (at sth) name (an amount) as the price of sth 报（价）; 开（价）: The shares are currently being quoted at 54 pence a share. 该股票现在的报价是每股54便士.",
+      "This is the best price I can quote you. 这是我给你开出的对你最有利的价钱了. Cf 参看 estimate2 2."
+    ],
+    "pronunciation": "/ kwəʊt; kwot/",
+    "accepted_answers": [
+      ")(",
+      ")引用",
+      "引述",
+      "引证（他人的语言或文字）",
+      "你曾说过（我引用你的原话）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quoth",
+    "type": "word",
+    "pos": "V",
+    "translation": "仅用於过去式单数第；及第；人称)(",
+    "analysis": "v [Tn] (1st and 3rd person singular past tense only 仅用於过去式单数第1及第3人称) (arch 古) said 说过: quoth I/he/she 我[他/她]说过.",
+    "phonetic": "/ kwəʊθ; kwoθ/",
+    "origin": "待查",
+    "expansions": [
+      "quoth I/he/she 我[他/她]说过."
+    ],
+    "pronunciation": "/ kwəʊθ; kwoθ/",
+    "accepted_answers": [
+      "仅用於过去式单数第",
+      "及第",
+      "人称)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
   }
 ]
