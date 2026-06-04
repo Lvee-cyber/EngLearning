@@ -191,6 +191,30 @@
     }
   },
   {
+    "term": "udder",
+    "type": "word",
+    "pos": "N",
+    "translation": "（母牛、母羊等的）乳房；插图",
+    "analysis": "n bag-like organ of a cow, female goat, etc, with two or more teats, which produces milk （母牛、 母羊等的）乳房. =>illus at cow 见 cow 插图.",
+    "phonetic": "/ ˈʌdə(r); ˈʌdə/",
+    "origin": "待查",
+    "expansions": [
+      "（母牛、母羊等的）乳房；插图"
+    ],
+    "pronunciation": "/ ˈʌdə(r); ˈʌdə/",
+    "accepted_answers": [
+      "（母牛、母羊等的）乳房",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "udi",
     "type": "word",
     "pos": "word",
@@ -1799,6 +1823,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unbelief",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；无信仰；不信",
+    "analysis": "n [U] (fml 文) lack of belief or state of not believing, esp in God, religion, etc 无信仰; 不信; （尤指）不信上帝、 宗教等. Cf 参看 disbelief (disbelieve).",
+    "phonetic": "/ ˌʌnbɪˈliːf; ˌʌnbɪˈlif/",
+    "origin": "待查",
+    "expansions": [
+      "文)；无信仰；不信"
+    ],
+    "pronunciation": "/ ˌʌnbɪˈliːf; ˌʌnbɪˈlif/",
+    "accepted_answers": [
+      "文)",
+      "无信仰",
+      "不信"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unbelievable",
@@ -3509,6 +3558,32 @@
     }
   },
   {
+    "term": "undercut",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（牛的）腰部肉；里脊；参看",
+    "analysis": "n [U] (Brit) (meat cut from the) underside of sirloin （牛的）腰部肉, 里脊. Cf 参看 tenderloin (tender1).",
+    "phonetic": "/ ˈʌndəkʌt; ˈʌndəˌkʌt/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（牛的）腰部肉；里脊；参看"
+    ],
+    "pronunciation": "/ ˈʌndəkʌt; ˈʌndəˌkʌt/",
+    "accepted_answers": [
+      ")(",
+      "（牛的）腰部肉",
+      "里脊",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "underdeveloped",
     "type": "word",
     "translation": "未充分发育或发展的；不发达的肌肉；（指国家等）经济不发达的",
@@ -3606,6 +3681,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "underexpose",
+    "type": "word",
+    "pos": "V",
+    "translation": "尤用於被动语态；使（底片等）曝光不足；参看",
+    "analysis": "v [Tn esp passive 尤用於被动语态] expose (a film, etc) for too short a time or in too poor a light 使（底片等）曝光不足. Cf 参看 overexpose.",
+    "phonetic": "/ ˌʌndərɪkˈspəʊz; ˈʌndərɪkˈspoz/",
+    "origin": "待查",
+    "expansions": [
+      "尤用於被动语态；使（底片等）曝光不足；参看"
+    ],
+    "pronunciation": "/ ˌʌndərɪkˈspəʊz; ˈʌndərɪkˈspoz/",
+    "accepted_answers": [
+      "尤用於被动语态",
+      "使（底片等）曝光不足",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "underexposure",
@@ -4095,6 +4195,31 @@
     }
   },
   {
+    "term": "underpass",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；高架桥下通道或路段（从另一条公路或铁路下方穿过的）；参看",
+    "analysis": "n (a) (section of a) road that goes under another road or a railway 高架桥下通道或路段（从另一条公路或铁路下方穿过的）. Cf 参看 overpass. (b) underground passage for pedestrians to cross below a road or railway 地下通道（供行人穿越道路或铁路的）. Cf 参看 subway 1.",
+    "phonetic": "/ ˈʌndəpɑː:s; -pæs; ˈʌndəˌpæs/",
+    "origin": "待查",
+    "expansions": [
+      ")(；高架桥下通道或路段（从另一条公路或铁路下方穿过的）；参看"
+    ],
+    "pronunciation": "/ ˈʌndəpɑː:s; -pæs; ˈʌndəˌpæs/",
+    "accepted_answers": [
+      ")(",
+      "高架桥下通道或路段（从另一条公路或铁路下方穿过的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "underpay",
     "type": "word",
     "translation": "付给（雇员等）报酬过低；护士的工作过重而报酬过低；我做这工作他少给了我（",
@@ -4237,6 +4362,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "underseal",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（机动车底部的）防蚀涂层；用防蚀涂层涂（机动车等）的底部",
+    "analysis": "(Brit) (US undercoat) n [U] tar-like or rubber-like substance used to protect the under-side of a motor vehicle against rust, etc （机动车底部的）防蚀涂层.\nunderseal \nv [Tn] coat the under-side of (a motor vehicle, etc) with a protective seal 用防蚀涂层涂（机动车等）的底部.",
+    "phonetic": "/ ˈʌndəsiːl; ˈʌndəˌsil/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（机动车底部的）防蚀涂层；用防蚀涂层涂（机动车等）的底部"
+    ],
+    "pronunciation": "/ ˈʌndəsiːl; ˈʌndəˌsil/",
+    "accepted_answers": [
+      ")(",
+      "（机动车底部的）防蚀涂层",
+      "用防蚀涂层涂（机动车等）的底部"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "undersell",
@@ -4731,6 +4881,29 @@
     }
   },
   {
+    "term": "underwent",
+    "type": "word",
+    "pos": "word",
+    "translation": "underwent",
+    "analysis": "pt of undergo.",
+    "phonetic": "/ ˌʌndəˈwent; ˌʌndəˈwent/",
+    "origin": "待查",
+    "expansions": [
+      "underwent"
+    ],
+    "pronunciation": "/ ˌʌndəˈwent; ˌʌndəˈwent/",
+    "accepted_answers": [
+      "underwent"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "underworld",
     "type": "word",
     "translation": "（神话中的）阴间；阴曹；下流社会；黑社会",
@@ -4805,6 +4978,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "undeservedly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "undeservedly",
+    "analysis": "adv.",
+    "phonetic": "/ -dɪˈzɜːvɪdlɪ; -dɪˈzɜːvɪdlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "undeservedly"
+    ],
+    "pronunciation": "/ -dɪˈzɜːvɪdlɪ; -dɪˈzɜːvɪdlɪ/",
+    "accepted_answers": [
+      "undeservedly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "undesirable",
@@ -7155,6 +7351,31 @@
     }
   },
   {
+    "term": "unionist",
+    "type": "word",
+    "pos": "N",
+    "translation": "工会会员；拥护工会的人；拥护实行政治联合的人",
+    "analysis": "n (a) member of a trade union or supporter of trade unions 工会会员; 拥护工会的人. (b) Unionist person favouring political union, esp between Britain and Northern Ireland 拥护实行政治联合的人; （尤指）主张不列颠及北爱尔兰实行联合的人.",
+    "phonetic": "/ ˈjuːnɪənɪst; ˈjunjənɪst/",
+    "origin": "待查",
+    "expansions": [
+      "工会会员；拥护工会的人；拥护实行政治联合的人"
+    ],
+    "pronunciation": "/ ˈjuːnɪənɪst; ˈjunjənɪst/",
+    "accepted_answers": [
+      "工会会员",
+      "拥护工会的人",
+      "拥护实行政治联合的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "unionize",
     "type": "word",
     "translation": "成立或组织工会；把公司的雇员组织成工会；加入工会的职工总数",
@@ -7727,6 +7948,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unlettered",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；文盲的；未受教育的",
+    "analysis": "adj (fml 文) unable to read; uneducated 文盲的; 未受教育的; 没有文化的. Cf 参看 illiterate.",
+    "phonetic": "/ ˌʌnˈletəd; ʌnˈletəd/",
+    "origin": "待查",
+    "expansions": [
+      "文)；文盲的；未受教育的"
+    ],
+    "pronunciation": "/ ˌʌnˈletəd; ʌnˈletəd/",
+    "accepted_answers": [
+      "文)",
+      "文盲的",
+      "未受教育的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unlike",
@@ -8638,6 +8884,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unpalatably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "unpalatably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "unpalatably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "unpalatably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unparalleled",
@@ -10864,6 +11133,31 @@
     }
   },
   {
+    "term": "untouchable",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": ")(；（印度的）不可接触的；不可接触者（种姓制度中最低层的人）",
+    "analysis": "n, adj (in India) (member) of a Hindu social class (caste) whose touch is regarded as defiling to other higher classes （印度的）不可接触的, 不可接触者（种姓制度中最低层的人）.",
+    "phonetic": "/ ʌnˈtʌtʃəbl; ʌnˈtʌtʃəbl/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（印度的）不可接触的；不可接触者（种姓制度中最低层的人）"
+    ],
+    "pronunciation": "/ ʌnˈtʌtʃəbl; ʌnˈtʌtʃəbl/",
+    "accepted_answers": [
+      ")(",
+      "（印度的）不可接触的",
+      "不可接触者（种姓制度中最低层的人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "untoward",
     "type": "word",
     "translation": "文)；不便的；不幸的",
@@ -11759,6 +12053,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "upbeat",
+    "type": "word",
+    "pos": "N",
+    "translation": "音)；上拍；弱拍",
+    "analysis": "n (music 音) unaccented beat, esp at the end of a bar, shown by the conductor's baton moving upwards 上拍; 弱拍. Cf 参看 downbeat.\nupbeat \nadj (fig 比喻) optimistic or cheerful 乐观的; 快乐的.",
+    "phonetic": "/ ˈʌpbiːt; ˈʌpˌbit/",
+    "origin": "待查",
+    "expansions": [
+      "音)；上拍；弱拍"
+    ],
+    "pronunciation": "/ ˈʌpbiːt; ˈʌpˌbit/",
+    "accepted_answers": [
+      "音)",
+      "上拍",
+      "弱拍"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
     "term": "upbraid",
@@ -12848,6 +13167,29 @@
     "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
+    "term": "urbanity",
+    "type": "word",
+    "pos": "N",
+    "translation": "urbanity",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ɜːˈbænətɪ; ɜːˈbænətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "urbanity"
+    ],
+    "pronunciation": "/ ɜːˈbænətɪ; ɜːˈbænətɪ/",
+    "accepted_answers": [
+      "urbanity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
+  },
+  {
     "term": "urbanization",
     "type": "word",
     "pos": "N",
@@ -13615,6 +13957,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "uterus",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数作；科技用语复数作；)(",
+    "analysis": "n (pl 复数作 ~es or, in scientificuse, 科技用语复数作 uteri / -raI; -raI/) (anatomy 解) womb 子宫. =>illus at female 见 female 插图.",
+    "phonetic": "/ ˈjuːtərəs; ˈjutərəs/",
+    "origin": "待查",
+    "expansions": [
+      "复数作；科技用语复数作；)("
+    ],
+    "pronunciation": "/ ˈjuːtərəs; ˈjutərəs/",
+    "accepted_answers": [
+      "复数作",
+      "科技用语复数作",
+      ")("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
     "term": "utilise",

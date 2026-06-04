@@ -630,6 +630,31 @@
     }
   },
   {
+    "term": "vainglorious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "虚荣心重的；自负的；自夸的",
+    "analysis": "adj full of vainglory; conceited and boastful 虚荣心重的; 自负的; 自夸的.",
+    "phonetic": "/ -ˈglɔːrɪəs; -ˈglɔːrɪəs/",
+    "origin": "待查",
+    "expansions": [
+      "虚荣心重的；自负的；自夸的"
+    ],
+    "pronunciation": "/ -ˈglɔːrɪəs; -ˈglɔːrɪəs/",
+    "accepted_answers": [
+      "虚荣心重的",
+      "自负的",
+      "自夸的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vale",
     "type": "word",
     "translation": "古；现仅用於地名)；山谷；怀特霍斯山谷",
@@ -1692,6 +1717,30 @@
     }
   },
   {
+    "term": "variegation",
+    "type": "word",
+    "pos": "N",
+    "translation": "杂色；斑驳",
+    "analysis": "n [U] such irregular colouring or marking 杂色; 斑驳.",
+    "phonetic": "/ ˌveərɪˈgeɪʃn; ˌverɪˈgeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "杂色；斑驳"
+    ],
+    "pronunciation": "/ ˌveərɪˈgeɪʃn; ˌverɪˈgeʃən/",
+    "accepted_answers": [
+      "杂色",
+      "斑驳"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "variety",
     "type": "word",
     "translation": "变化；多变（性）；多样（化）",
@@ -2668,6 +2717,53 @@
     }
   },
   {
+    "term": "venality",
+    "type": "word",
+    "pos": "N",
+    "translation": "受贿做坏事；贪赃枉法",
+    "analysis": "n [U] quality of being venal 受贿做坏事; 贪赃枉法.",
+    "phonetic": "/ viːˈnælətɪ; viˈnælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "受贿做坏事；贪赃枉法"
+    ],
+    "pronunciation": "/ viːˈnælətɪ; viˈnælətɪ/",
+    "accepted_answers": [
+      "受贿做坏事",
+      "贪赃枉法"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "venally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "venally",
+    "analysis": "adv.",
+    "phonetic": "/ -nəlɪ; -nlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "venally"
+    ],
+    "pronunciation": "/ -nəlɪ; -nlɪ/",
+    "accepted_answers": [
+      "venally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "vendetta",
     "type": "word",
     "translation": "家族世仇；族间仇杀；长期争斗",
@@ -3368,6 +3464,29 @@
     }
   },
   {
+    "term": "verbena",
+    "type": "word",
+    "pos": "N",
+    "translation": "马鞭草",
+    "analysis": "n type of herbaceous plant whose garden varieties have flowers of many colours 马鞭草.",
+    "phonetic": "/ vɜːˈbiːnə; vɜːˈbinə/",
+    "origin": "待查",
+    "expansions": [
+      "马鞭草"
+    ],
+    "pronunciation": "/ vɜːˈbiːnə; vɜːˈbinə/",
+    "accepted_answers": [
+      "马鞭草"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "verbiage",
     "type": "word",
     "translation": "文；贬)(；冗词；艰涩词语（的使用）；那个人演讲叠床架屋兴头十足",
@@ -3988,6 +4107,31 @@
     }
   },
   {
+    "term": "verso",
+    "type": "word",
+    "pos": "N",
+    "translation": "（书的）左页；偶数书页；参看",
+    "analysis": "n (pl ~s) any left-hand page of a book having an even number of pages （书的）左页; 偶数书页. Cf 参看 recto.",
+    "phonetic": "/ ˈvɜːsəʊ; ˈvɜːso/",
+    "origin": "待查",
+    "expansions": [
+      "（书的）左页；偶数书页；参看"
+    ],
+    "pronunciation": "/ ˈvɜːsəʊ; ˈvɜːso/",
+    "accepted_answers": [
+      "（书的）左页",
+      "偶数书页",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "versus",
     "type": "word",
     "translation": "缩写；)(；拉)",
@@ -4233,6 +4377,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vesicle",
+    "type": "word",
+    "pos": "N",
+    "translation": "解或生)；（动植物体内的）囊；泡；水疱",
+    "analysis": "n (anatomy or biology 解或生)  1 small hollow bladder or cavity in the body of a plant or an animal （动植物体内的）囊, 泡.  2 blister 水疱.",
+    "phonetic": "/ ˈvesɪkl; ˈvesɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "解或生)；（动植物体内的）囊；泡；水疱"
+    ],
+    "pronunciation": "/ ˈvesɪkl; ˈvesɪkl/",
+    "accepted_answers": [
+      "解或生)",
+      "（动植物体内的）囊",
+      "泡",
+      "水疱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
     "term": "vesicular",
@@ -5366,6 +5536,33 @@
     }
   },
   {
+    "term": "vide",
+    "type": "word",
+    "pos": "V",
+    "translation": "拉；文)(；仅用於祈使句)；)见；参看（书等的某段落）",
+    "analysis": "v [Tn] (Latin fml 拉, 文) (used only in the imperative 仅用於祈使句) see or refer to (a passage in a book, etc) 见, 参看（书等的某段落）. Cf 参看 infra.",
+    "phonetic": "/ ˈvɪdeɪ,ˈvaɪdiː; ˈviˌde,ˈvaɪdɪ/",
+    "origin": "待查",
+    "expansions": [
+      "拉；文)(；仅用於祈使句)；)见；参看（书等的某段落）"
+    ],
+    "pronunciation": "/ ˈvɪdeɪ,ˈvaɪdiː; ˈviˌde,ˈvaɪdɪ/",
+    "accepted_answers": [
+      "拉",
+      "文)(",
+      "仅用於祈使句)",
+      ")见",
+      "参看（书等的某段落）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "video",
     "type": "word",
     "translation": "电视；电视录像；电视广播",
@@ -5955,6 +6152,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vingtetun",
+    "type": "word",
+    "pos": "N",
+    "translation": "法)",
+    "analysis": "n [U] (French 法) = pontoon2.",
+    "phonetic": "/ ˌvænteɪˈɜːn; ˌvænˌteˈən/",
+    "origin": "待查",
+    "expansions": [
+      "法)"
+    ],
+    "pronunciation": "/ ˌvænteɪˈɜːn; ˌvænˌteˈən/",
+    "accepted_answers": [
+      "法)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "vinous",
@@ -6656,6 +6876,31 @@
     }
   },
   {
+    "term": "viscera",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作；)(；解)",
+    "analysis": "n [pl] (usu 通常作 the viscera)(anatomy 解) large internal organs of the body, eg the heart, the liver and esp the intestines 内脏（如心、 肝）; （尤指）肠.",
+    "phonetic": "/ ˈvɪsərə; ˈvɪsərə/",
+    "origin": "待查",
+    "expansions": [
+      "通常作；)(；解)"
+    ],
+    "pronunciation": "/ ˈvɪsərə; ˈvɪsərə/",
+    "accepted_answers": [
+      "通常作",
+      ")(",
+      "解)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "visceral",
     "type": "word",
     "translation": "解)；内脏的；比喻；文)(",
@@ -7320,6 +7565,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "viticulture",
+    "type": "word",
+    "pos": "N",
+    "translation": "葡萄栽培（尤指为酿酒的）；葡萄栽培学；葡萄栽培术",
+    "analysis": "n [U] (science or practice of the) growing of grapes, esp for use in wine-making 葡萄栽培（尤指为酿酒的）; 葡萄栽培学; 葡萄栽培术.",
+    "phonetic": "/ ˈvɪtɪkʌltʃə(r),ˈvaɪt-; ˈvɪtɪˌkʌltʃə,ˈvaɪt-/",
+    "origin": "待查",
+    "expansions": [
+      "葡萄栽培（尤指为酿酒的）；葡萄栽培学；葡萄栽培术"
+    ],
+    "pronunciation": "/ ˈvɪtɪkʌltʃə(r),ˈvaɪt-; ˈvɪtɪˌkʌltʃə,ˈvaɪt-/",
+    "accepted_answers": [
+      "葡萄栽培（尤指为酿酒的）",
+      "葡萄栽培学",
+      "葡萄栽培术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "vitreous",
@@ -8447,6 +8717,31 @@
       "呕吐声"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
+    "term": "voodoo",
+    "type": "word",
+    "pos": "N",
+    "translation": "伏都教（西印度群岛黑人中的宗教；崇奉巫术及魔法；尤指海地的）",
+    "analysis": "(also voodooism) n [U] form of religion based on belief in witchcraft and magical rites, practised by blacks in the W Indies, esp in Haiti 伏都教（西印度群岛黑人中的宗教, 崇奉巫术及魔法, 尤指海地的）.",
+    "phonetic": "/ ˈvuːduː; ˈvudu/",
+    "origin": "待查",
+    "expansions": [
+      "伏都教（西印度群岛黑人中的宗教；崇奉巫术及魔法；尤指海地的）"
+    ],
+    "pronunciation": "/ ˈvuːduː; ˈvudu/",
+    "accepted_answers": [
+      "伏都教（西印度群岛黑人中的宗教",
+      "崇奉巫术及魔法",
+      "尤指海地的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

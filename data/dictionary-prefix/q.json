@@ -102,6 +102,29 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quadraphony",
+    "type": "word",
+    "pos": "N",
+    "translation": "四声道录音放音系统或设备",
+    "analysis": "n [U] system for recording and reproducing sound in this way 四声道录音放音系统或设备.",
+    "phonetic": "/ kwɒˈdrɒfənɪ; kwɑːˈdrɑːfənɪ/",
+    "origin": "待查",
+    "expansions": [
+      "四声道录音放音系统或设备"
+    ],
+    "pronunciation": "/ kwɒˈdrɒfənɪ; kwɑːˈdrɑːfənɪ/",
+    "accepted_answers": [
+      "四声道录音放音系统或设备"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quadrennial",
     "type": "word",
     "pos": "Adj",
@@ -139,6 +162,58 @@
     "pronunciation": "/ ˌkwɒdrɪˈlætərəl; ˌkwɑːdrəˈlætərəl/",
     "accepted_answers": [
       "四边形（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadruplicate",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；一式四份；请交申请表一式四份",
+    "analysis": "n (idm习语) in quadruplicate in four exactly similar examples or copies 一式四份: Please submit your application form in quadruplicate. 请交申请表一式四份.",
+    "phonetic": "/ kwɒˈdruːplɪkət; kwɑːdˈruplɪkɪt/",
+    "origin": "待查",
+    "expansions": [
+      "Please submit your application form in quadruplicate. 请交申请表一式四份."
+    ],
+    "pronunciation": "/ kwɒˈdruːplɪkət; kwɑːdˈruplɪkɪt/",
+    "accepted_answers": [
+      "习语)",
+      "一式四份",
+      "请交申请表一式四份"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quaker",
+    "type": "word",
+    "pos": "N",
+    "translation": "公谊会教徒；贵格会教徒；教友会教徒（基督教的教派；既无任何正式仪式又无固定教义；其信条为强烈反对暴力与战争）",
+    "analysis": "n member of the Society of Friends, a religious sect that worships Christ without any formal ceremony or stated creed and is strongly opposed to violence and war 公谊会教徒, 贵格会教徒, 教友会教徒（基督教的教派, 既无任何正式仪式又无固定教义, 其信条为强烈反对暴力与战争）.",
+    "phonetic": "/ ˈkweɪkə(r); ˈkwekə/",
+    "origin": "待查",
+    "expansions": [
+      "公谊会教徒；贵格会教徒；教友会教徒（基督教的教派；既无任何正式仪式又无固定教义；其信条为强烈反对暴力与战争）"
+    ],
+    "pronunciation": "/ ˈkweɪkə(r); ˈkwekə/",
+    "accepted_answers": [
+      "公谊会教徒",
+      "贵格会教徒",
+      "教友会教徒（基督教的教派",
+      "既无任何正式仪式又无固定教义",
+      "其信条为强烈反对暴力与战争）"
     ],
     "added_at": "",
     "review": {
@@ -269,6 +344,30 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quarrelsome",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "爱争吵的；急脾气的",
+    "analysis": "adj likely to start a quarrel; quick-tempered 爱争吵的; 急脾气的.",
+    "phonetic": "/ -səm; -səm/",
+    "origin": "待查",
+    "expansions": [
+      "爱争吵的；急脾气的"
+    ],
+    "pronunciation": "/ -səm; -səm/",
+    "accepted_answers": [
+      "爱争吵的",
+      "急脾气的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quartz",
     "type": "word",
     "pos": "N",
@@ -307,6 +406,32 @@
     "accepted_answers": [
       "天)",
       "类星体"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quasi-",
+    "type": "word",
+    "pos": "word",
+    "translation": "前缀(；用以构成形容词和名词)；达到某种程度",
+    "analysis": "pref 前缀 (forming adjs and ns 用以构成形容词和名词)  1 to a certain extent 达到某种程度: a quasi-official body 半官方团体.  2 seemingly but not really 类似; 准; 半: a quasi-scientific explanation 类似科学的解释 * a quasi-scholar 似学者的人.",
+    "phonetic": "/ ˈkweɪzaɪ-,ˈkweɪsaɪ; ˈkwezaɪ,ˈkwesaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "a quasi-official body 半官方团体. 2 seemingly but not really 类似; 准; 半: a quasi-scientific explanation 类似科学的解释",
+      "a quasi-scholar 似学者的人."
+    ],
+    "pronunciation": "/ ˈkweɪzaɪ-,ˈkweɪsaɪ; ˈkwezaɪ,ˈkwesaɪ/",
+    "accepted_answers": [
+      "前缀(",
+      "用以构成形容词和名词)",
+      "达到某种程度"
     ],
     "added_at": "",
     "review": {
@@ -427,6 +552,61 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quicken",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某事物）加快；变快；他的步伐加快了；我们加快了脚步",
+    "analysis": "v [I, Tn]  1 (cause sth to) become quicker （使某事物）加快, 变快: His pace quickened. 他的步伐加快了. * We quickened our steps. 我们加快了脚步.  2 (fml 文) (cause sth to) become more active （使某事物）变得更活跃, 更加活泼: The child quickened in her womb, ie She felt the movements of the foetus. 她感到了胎动. * Her pulse quickened. 她的脉搏加快了. * His interest was quickened by an article he had read. 他读了一篇文章便兴趣大增了.",
+    "phonetic": "/ ˈkwɪkən; ˈkwɪkən/",
+    "origin": "待查",
+    "expansions": [
+      "His pace quickened. 他的步伐加快了.",
+      "We quickened our steps. 我们加快了脚步. 2 (fml 文) (cause sth to) become more active （使某事物）变得更活跃, 更加活泼: The child quickened in her womb, ie She felt the movements of the foetus. 她感到了胎动.",
+      "Her pulse quickened. 她的脉搏加快了.",
+      "His interest was quickened by an article he had read. 他读了一篇文章便兴趣大增了."
+    ],
+    "pronunciation": "/ ˈkwɪkən; ˈkwɪkən/",
+    "accepted_answers": [
+      "（使某事物）加快",
+      "变快",
+      "他的步伐加快了",
+      "我们加快了脚步"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quid",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)(；口)；一英镑",
+    "analysis": "n (pl unchanged 复数不变) (Brit infml 口)  1 one pound sterling 一英镑: Can you lend me five quid? 你能借给我五英镑吗? * It costs a quid (ie 1) to get in. 进去要花一英镑（1）.  2 (idm 习语) quids `in in a position to profit from sth 处於从某事物中获利的地位: Having sold the film and TV rights to his new best seller he's absolutely quids in. 他售出了最新畅销小说的电影和电视版权, 现在单等坐收厚利了.",
+    "phonetic": "/ kwɪd; kwɪd/",
+    "origin": "待查",
+    "expansions": [
+      "Can you lend me five quid? 你能借给我五英镑吗?",
+      "It costs a quid (ie 1) to get in. 进去要花一英镑（1）. 2 (idm 习语) quids `in in a position to profit from sth 处於从某事物中获利的地位: Having sold the film and TV rights to his new best seller he's absolutely quids in. 他售出了最新畅销小说的电影和电视版权, 现在单等坐收厚利了."
+    ],
+    "pronunciation": "/ kwɪd; kwɪd/",
+    "accepted_answers": [
+      "复数不变)(",
+      "口)",
+      "一英镑"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quid pro quo",
     "type": "word",
     "translation": "补偿物；交换物；请尽管使用我们的村舍；以酬谢借给我们汽车之事",
@@ -497,6 +677,31 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quietude",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；平静；宁静",
+    "analysis": "n (fml 文) stillness; calm 平静; 宁静; 寂静.",
+    "phonetic": "/ ˈkwaɪətjuːd; -tuːd; ˈkwaɪəˌtud/",
+    "origin": "待查",
+    "expansions": [
+      "文)；平静；宁静"
+    ],
+    "pronunciation": "/ ˈkwaɪətjuːd; -tuːd; ˈkwaɪəˌtud/",
+    "accepted_answers": [
+      "文)",
+      "平静",
+      "宁静"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quiff",
     "type": "word",
     "pos": "N",
@@ -534,6 +739,30 @@
     "accepted_answers": [
       "周年",
       "第五百周年庆典"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quinquagesima",
+    "type": "word",
+    "pos": "N",
+    "translation": ")大斋节前的星期日（复活节前；天）",
+    "analysis": "n the Sunday before Lent (50 days before Easter) 大斋节前的星期日（复活节前50天）.",
+    "phonetic": "/ ˌkwɪŋkwəˈdʒesɪmə; ˌkwɪŋkwəˈdʒesəmə/",
+    "origin": "待查",
+    "expansions": [
+      ")大斋节前的星期日（复活节前；天）"
+    ],
+    "pronunciation": "/ ˌkwɪŋkwəˈdʒesɪmə; ˌkwɪŋkwəˈdʒesəmə/",
+    "accepted_answers": [
+      ")大斋节前的星期日（复活节前",
+      "天）"
     ],
     "added_at": "",
     "review": {
@@ -619,6 +848,62 @@
     ]
   },
   {
+    "term": "quits",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "习语)；（因已偿清财物等）抵销的；对等的；咱们是已经两相抵销了呢；还是你仍欠我一镑呢",
+    "analysis": "adj (idm 习语) be quits (with sb) be on even terms after a debt of money, etc has been repaid （因已偿清财物等）抵销的, 对等的: Are we quits or do you still owe me a pound? 咱们是已经两相抵销了呢, 还是你仍欠我一镑呢? call it quits => call2. double or quits => double4.",
+    "phonetic": "/ kwɪts; kwɪts/",
+    "origin": "待查",
+    "expansions": [
+      "Are we quits or do you still owe me a pound? 咱们是已经两相抵销了呢, 还是你仍欠我一镑呢? call it quits => call2. double or quits => double4."
+    ],
+    "pronunciation": "/ kwɪts; kwɪts/",
+    "accepted_answers": [
+      "习语)",
+      "（因已偿清财物等）抵销的",
+      "对等的",
+      "咱们是已经两相抵销了呢",
+      "还是你仍欠我一镑呢"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quiz",
+    "type": "word",
+    "pos": "N",
+    "translation": "竞赛；比赛（尤指电视或电台中人们竞相回答问题以测验其知识者）；参加知识竞赛；运动、音乐、一般知识等的竞赛",
+    "analysis": "n (pl quizzes) competition, esp on TV or radio, in which people try to answer questions to test their knowledge 竞赛, 比赛（尤指电视或电台中人们竞相回答问题以测验其知识者）: take part in a quiz 参加知识竞赛 * a sports, music, general knowledge, etc quiz 运动、 音乐、 一般知识等的竞赛 * [attrib 作定语] a quiz game/programme/show 问答竞赛[游戏/节目].\nquiz \nv (-zz-) [Tn, Tn.pr] ~ sb (about sb/sth) ask sb questions 问某人问题: She quizzed him all night about the people he'd seen. 她整夜盘问他都见到谁了.\nquiz-master \nn = question-master (question1).",
+    "phonetic": "/ kwɪz; kwɪz/",
+    "origin": "待查",
+    "expansions": [
+      "take part in a quiz 参加知识竞赛",
+      "a sports, music, general knowledge, etc quiz 运动、 音乐、 一般知识等的竞赛",
+      "[attrib 作定语] a quiz game/programme/show 问答竞赛[游戏/节目].",
+      "She quizzed him all night about the people he'd seen. 她整夜盘问他都见到谁了."
+    ],
+    "pronunciation": "/ kwɪz; kwɪz/",
+    "accepted_answers": [
+      "竞赛",
+      "比赛（尤指电视或电台中人们竞相回答问题以测验其知识者）",
+      "参加知识竞赛",
+      "运动、音乐、一般知识等的竞赛"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quod",
     "type": "word",
     "pos": "N",
@@ -634,6 +919,31 @@
     "accepted_answers": [
       ")监狱（尤用於以下示例）",
       "进监狱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quorum",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作单数)；（会议的）法定人数；具备",
+    "analysis": "n (usu sing 通常作单数) minimum number of people who must be present at a meeting (of a committee, etc) before it can proceed and its decisions, etc can be considered valid （会议的）法定人数: have/form a quorum 具备[构成]法定人数.",
+    "phonetic": "/ ˈkwɔːrəm; ˈkwɔːrəm/",
+    "origin": "待查",
+    "expansions": [
+      "have/form a quorum 具备[构成]法定人数."
+    ],
+    "pronunciation": "/ ˈkwɔːrəm; ˈkwɔːrəm/",
+    "accepted_answers": [
+      "通常作单数)",
+      "（会议的）法定人数",
+      "具备"
     ],
     "added_at": "",
     "review": {

@@ -191,6 +191,29 @@
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
+    "term": "zionist",
+    "type": "word",
+    "pos": "N",
+    "translation": "犹太复国运动的支持者或拥护者",
+    "analysis": "n person who supports Zionism 犹太复国运动的支持者或拥护者.",
+    "phonetic": "/ ˈzaɪənɪst; ˈzaɪənɪst/",
+    "origin": "待查",
+    "expansions": [
+      "犹太复国运动的支持者或拥护者"
+    ],
+    "pronunciation": "/ ˈzaɪənɪst; ˈzaɪənɪst/",
+    "accepted_answers": [
+      "犹太复国运动的支持者或拥护者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
     "term": "zip",
     "type": "word",
     "pos": "N",
@@ -209,6 +232,29 @@
       "拉链",
       "拉锁",
       "我的皮猴上的拉链卡住了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zoological",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "动物学的",
+    "analysis": "adj of orrelating to zoology 动物学的.",
+    "phonetic": "/ ˌzəʊəˈlɒdʒɪkl; ˌzoəˈlɑːdʒɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "动物学的"
+    ],
+    "pronunciation": "/ ˌzəʊəˈlɒdʒɪkl; ˌzoəˈlɑːdʒɪkl/",
+    "accepted_answers": [
+      "动物学的"
     ],
     "added_at": "",
     "review": {

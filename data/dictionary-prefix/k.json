@@ -49,6 +49,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kaput",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "作表语；俚)；完蛋了",
+    "analysis": "adj [pred 作表语] (sl 俚) broken; ruined; not working properly 完蛋了; 失败了; 坏了: The car's kaput  we'll have to walk. 汽车坏了--我们只好步行.\nkarat\n(US) = carat 2.",
+    "phonetic": "/ kəˈpUt; kəˈpJt/",
+    "origin": "待查",
+    "expansions": [
+      "The car's kaput we'll have to walk. 汽车坏了--我们只好步行."
+    ],
+    "pronunciation": "/ kəˈpUt; kəˈpJt/",
+    "accepted_answers": [
+      "作表语",
+      "俚)",
+      "完蛋了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kbe",
     "type": "word",
     "pos": "word",
@@ -75,6 +100,79 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kelp",
+    "type": "word",
+    "pos": "N",
+    "translation": "大型褐藻",
+    "analysis": "n [U] type of large brown seaweed 大型褐藻.",
+    "phonetic": "/ kelp; kelp/",
+    "origin": "待查",
+    "expansions": [
+      "大型褐藻"
+    ],
+    "pronunciation": "/ kelp; kelp/",
+    "accepted_answers": [
+      "大型褐藻"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kelvin",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；)开（开尔文温标的计量单位；其零度为绝对零度；等於；见附录",
+    "analysis": "n (abbr 缩写 K) unit (equal tothe Celsius degree) of an international scale of temperature(the Kelvin scale) with 0 at absolute zero (273.15C) 开（开尔文温标的计量单位, 其零度为绝对零度, 等於273.15C）. =>App 11 见附录11.",
+    "phonetic": "/ ˈkelvɪn; ˈkelvɪn/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)开（开尔文温标的计量单位；其零度为绝对零度；等於；见附录"
+    ],
+    "pronunciation": "/ ˈkelvɪn; ˈkelvɪn/",
+    "accepted_answers": [
+      "缩写",
+      ")开（开尔文温标的计量单位",
+      "其零度为绝对零度",
+      "等於",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kepi",
+    "type": "word",
+    "pos": "N",
+    "translation": "法国军帽",
+    "analysis": "n type of French military cap with a horizontal peak 法国军帽.\nkept\npt, pp of keep1.",
+    "phonetic": "/ ˈkeɪpɪ; ˈkepɪ/",
+    "origin": "待查",
+    "expansions": [
+      "法国军帽"
+    ],
+    "pronunciation": "/ ˈkeɪpɪ; ˈkepɪ/",
+    "accepted_answers": [
+      "法国军帽"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kernel",
     "type": "word",
     "pos": "N",
@@ -91,6 +189,31 @@
       "插图",
       "（谷物去壳後的）粒",
       "子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kestrel",
+    "type": "word",
+    "pos": "N",
+    "translation": "红隼；见附录；插图",
+    "analysis": "n type of small falcon 红隼. =>illus at App 1 见附录1插图, page iv.",
+    "phonetic": "/ ˈkestrəl; ˈkestrəl/",
+    "origin": "待查",
+    "expansions": [
+      "红隼；见附录；插图"
+    ],
+    "pronunciation": "/ ˈkestrəl; ˈkestrəl/",
+    "accepted_answers": [
+      "红隼",
+      "见附录",
+      "插图"
     ],
     "added_at": "",
     "review": {
@@ -145,6 +268,33 @@
       ")钥匙",
       "转动锁孔中的钥匙",
       "汽车钥匙"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kidney",
+    "type": "word",
+    "pos": "N",
+    "translation": "肾脏；（用作食物的）腰子；两公斤羊腰子",
+    "analysis": "n (pl ~s)  1 [C] either of a pair of organs in the body that remove waste products from the blood and produce urine 肾; 肾脏.  2 [U, C]kidney(s) of certain animals used as food （用作食物的）腰子: two kilos of lamb's kidney 两公斤羊腰子 * [attrib 作定语] steak and kidney pie 牛肉腰子馅饼.\nkidney bean \n(plant producing a) reddish-brown kidney-shaped bean 菜豆.\nkidney machine \n(medical 医) machine that does the work of kidneys which have become diseased 人工肾; 血液透析器: put a patient on a kidney machine 给病人装置人工肾.",
+    "phonetic": "/ ˈkɪdnɪ; ˈkɪdnɪ/",
+    "origin": "待查",
+    "expansions": [
+      "two kilos of lamb's kidney 两公斤羊腰子",
+      "[attrib 作定语] steak and kidney pie 牛肉腰子馅饼.",
+      "put a patient on a kidney machine 给病人装置人工肾."
+    ],
+    "pronunciation": "/ ˈkɪdnɪ; ˈkɪdnɪ/",
+    "accepted_answers": [
+      "肾脏",
+      "（用作食物的）腰子",
+      "两公斤羊腰子"
     ],
     "added_at": "",
     "review": {
@@ -355,6 +505,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kinsfolk",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "血缘关系；亲属关系；声称与某人有血缘关系",
+    "analysis": "n [pl v] = kin.\nkinship \nn [U]  1 blood relationship 血缘关系; 亲属关系: claim kinship with sb 声称与某人有血缘关系.  2 (fig 比喻) close sympathy or similarity of character 深切的同情; 性格的相似: Even after meeting only once, they felt a kinship. 他们虽然只见了一面, 但已是一见如故了.",
+    "phonetic": "/ ˈkɪnzfəʊk; ˈkɪnzˌfok/",
+    "origin": "待查",
+    "expansions": [
+      "claim kinship with sb 声称与某人有血缘关系. 2 (fig 比喻) close sympathy or similarity of character 深切的同情; 性格的相似: Even after meeting only once, they felt a kinship. 他们虽然只见了一面, 但已是一见如故了."
+    ],
+    "pronunciation": "/ ˈkɪnzfəʊk; ˈkɪnzˌfok/",
+    "accepted_answers": [
+      "血缘关系",
+      "亲属关系",
+      "声称与某人有血缘关系"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kiosk",
     "type": "word",
     "pos": "N",
@@ -554,6 +729,61 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "knee",
+    "type": "word",
+    "pos": "N",
+    "translation": "膝盖；插图；（人坐著时）大腿的朝上的面",
+    "analysis": "n  1 (a) joint between the thigh and lower part of the human leg; corresponding joint in animals 膝; 膝盖. =>illus at human 见human插图. (b) upper surface of a sitting person's thigh （人坐著时）大腿的朝上的面: sit on my knee 坐在我的腿上 * You'll have to eat your dinner off your knees, I'm afraid! 对不起, 这顿饭你只好把餐具放在腿上吃了!  2 part of a garment covering the knee （裤子等的）膝部: These trousers are torn at the knee. 这裤子的膝部破了.  3 (idm 习语) be/go (down) on one's `knees kneel or be kneeling (down), esp when praying or to show that one accepts defeat 跪下, 跪著（尤指祈祷或屈服时）. the bee's knees => bee1. bring sb to his `knees force sb to submit 迫使某人屈服: (fig 比喻) The country was almost brought to its knees by the long strike. 经长期罢工, 国家已濒临崩溃的边缘. on bended knee => bend1. weak at the knees => weak.\nknee \nv (pt, pp kneed) [Tn, Tn.pr, Cn.a] strike or push with the knee 用膝盖顶或撞: knee sb (in the groin) 用膝盖顶某人（的阴部） * knee the door open 用膝盖把门撞开.\nknee-breeches \nn [pl] breeches reaching to or just below the knee （及膝或刚过膝的）短裤.\nkneecap \nn small bone covering the front of the knee joint 髌骨; 膝盖骨. =>illus at skeleton 见skeleton插图.  v (-pp-) [Tn] (of terrorist groups) lame (sb) by breaking the kneecaps, esp by shooting at them （指恐怖集团）击碎（某人）的膝盖骨（尤指枪击）. \nkneecapping \nn [C, U] (instance of) this practice 击碎膝盖骨.\nknee-deep \nadj  1 deep enough to reach the knees 深及膝的: the snow was knee-deep in places. 有些地方雪深及膝.  2 ~ in sth (fig 比喻) deeply involved in or very busy with sth 深陷其中; 忙於某事: be knee-deep in trouble, work 烦恼、 工作缠身.  adv: He went knee-deep in the icy water. 他在及膝深的冰冷的水中跋涉.\nknee-high \nadj  1 high enough to reach the knees 及膝高的: ,knee-high `grass 及膝高的草.  2 (idm 习语) knee-high to a `grasshopper (joc 谑) still just a very small child 还是很小的孩子: I've known him since he was knee-high to a grasshopper. 他很小的时候我就认识他了.\nknee-jerk \nn  1 involuntary jerk of the leg when a tendon below the knee is struck 膝反射.  2 [attrib 作定语] (fig derog 比喻, 贬) done or produced automaticallyand without thought 自动的; 不经思考而做的: a knee-jerk reaction to the mention of Communism 一提共产主义就不加思索做出的反应.\nknee-length \nadj long enough to reach the knee 长及膝部的: a knee-length skirt 长及膝部的裙子.\nknees-up \nn (Brit infml 口) lively party, usu with dancing 活跃的集会（通常有跳舞项目）.",
+    "phonetic": "/ niː; ni/",
+    "origin": "待查",
+    "expansions": [
+      "sit on my knee 坐在我的腿上",
+      "You'll have to eat your dinner off your knees, I'm afraid! 对不起, 这顿饭你只好把餐具放在腿上吃了! 2 part of a garment covering the knee （裤子等的）膝部: These trousers are torn at the knee. 这裤子的膝部破了. 3 (idm 习语) be/go (down) on one's `knees kneel or be kneeling (down), esp when praying or to show that one accepts defeat 跪下, 跪著（尤指祈祷或屈服时）. the bee's knees => bee1. bring sb to his `knees force sb to submit 迫使某人屈服: (fig 比喻) The country was almost brought to its knees by the long strike. 经长期罢工, 国家已濒临崩溃的边缘. on bended knee => bend1. weak at the knees => weak.",
+      "knee sb (in the groin) 用膝盖顶某人（的阴部）",
+      "knee the door open 用膝盖把门撞开.",
+      "the snow was knee-deep in places. 有些地方雪深及膝. 2 ~ in sth (fig 比喻) deeply involved in or very busy with sth 深陷其中; 忙於某事: be knee-deep in trouble, work 烦恼、 工作缠身. adv: He went knee-deep in the icy water. 他在及膝深的冰冷的水中跋涉."
+    ],
+    "pronunciation": "/ niː; ni/",
+    "accepted_answers": [
+      "膝盖",
+      "插图",
+      "（人坐著时）大腿的朝上的面"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knighthood",
+    "type": "word",
+    "pos": "N",
+    "translation": "爵士或骑士的称号和身分；女王授予他爵士称号；爵士或骑士的身分、品德或尊严",
+    "analysis": "n  1 [C] title and rank of a knight 爵士或骑士的称号和身分: The Queen conferred a knighthood on him. 女王授予他爵士称号.  2 [U] rank, character or dignity of a knight 爵士或骑士的身分、 品德或尊严: Knighthood was an ideal in medieval Europe. 在中世纪的欧洲, 能获封爵士即是登峰造极了.\nknightly \nadj [usu attrib 通常作定语] (fml 文) of or like a knight; chivalrous （似）骑士或爵士的; 侠义的: knightly qualities, virtues, etc 骑士的气概、 美德等.\nknight errant (pl knights errant) \nmedieval knight who wandered in search of adventure （中世纪的）游侠骑士.",
+    "phonetic": "/ -hUd; -hJd/",
+    "origin": "待查",
+    "expansions": [
+      "The Queen conferred a knighthood on him. 女王授予他爵士称号. 2 [U] rank, character or dignity of a knight 爵士或骑士的身分、 品德或尊严: Knighthood was an ideal in medieval Europe. 在中世纪的欧洲, 能获封爵士即是登峰造极了.",
+      "knightly qualities, virtues, etc 骑士的气概、 美德等."
+    ],
+    "pronunciation": "/ -hUd; -hJd/",
+    "accepted_answers": [
+      "爵士或骑士的称号和身分",
+      "女王授予他爵士称号",
+      "爵士或骑士的身分、品德或尊严"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "knock",
     "type": "word",
     "pos": "N",
@@ -573,6 +803,33 @@
       "是有人敲门吗",
       "要是八点钟你还不起床",
       "我就来敲你的门"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knowing",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（对别人不知道的秘密）知悉的；心照不宣的；显出了解内情的样子、眼光、表情等；世故的",
+    "analysis": "adj [usu attrib 通常作定语]  1 showing or suggesting that one has information which is secret or not known to others （对别人不知道的秘密）知悉的, 心照不宣的: a knowing look, glance, expression, etc 显出了解内情的样子、 眼光、 表情等.  2 shrewd; cunning 世故的; 狡猾的: She's a bit too knowing for me to feel relaxed with her. 她很有点世故, 和她相处我觉得不自在.\nknowingly \nadv  1 intentionally 故意地; 蓄意地: It appears that what I said was untrue, but I did not knowingly lie to you. 看来我说错了, 但是我并非故意向你撒谎.  2 in a knowing(1) manner 知悉地; 心照不宣地: He winked at her knowingly. 他会心地向她眨了眨眼.",
+    "phonetic": "/ ˈnəʊɪŋ; ˈnoɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "a knowing look, glance, expression, etc 显出了解内情的样子、 眼光、 表情等. 2 shrewd; cunning 世故的; 狡猾的: She's a bit too knowing for me to feel relaxed with her. 她很有点世故, 和她相处我觉得不自在.",
+      "It appears that what I said was untrue, but I did not knowingly lie to you. 看来我说错了, 但是我并非故意向你撒谎. 2 in a knowing(1) manner 知悉地; 心照不宣地: He winked at her knowingly. 他会心地向她眨了眨眼."
+    ],
+    "pronunciation": "/ ˈnəʊɪŋ; ˈnoɪŋ/",
+    "accepted_answers": [
+      "（对别人不知道的秘密）知悉的",
+      "心照不宣的",
+      "显出了解内情的样子、眼光、表情等",
+      "世故的"
     ],
     "added_at": "",
     "review": {
@@ -682,6 +939,56 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kookaburra",
+    "type": "word",
+    "pos": "N",
+    "translation": "笑翠鸟（产於澳洲）",
+    "analysis": "n (also laughing jackass) Australian giant kingfisher 笑翠鸟（产於澳洲）.\nkopeck (also kopek) \n= copeck.",
+    "phonetic": "/ ˈkUkəbʌrə; ˈkJkəˌbʌrə/",
+    "origin": "待查",
+    "expansions": [
+      "笑翠鸟（产於澳洲）"
+    ],
+    "pronunciation": "/ ˈkUkəbʌrə; ˈkJkəˌbʌrə/",
+    "accepted_answers": [
+      "笑翠鸟（产於澳洲）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kowtow",
+    "type": "word",
+    "pos": "V",
+    "translation": ")（向某人；某事物；）叩头；磕头；臣服",
+    "analysis": "v [I, Ipr] ~ (to sb/sth) be submissive, humble or respectful (to sb/sth) （向某人[某事物]）叩头, 磕头, 臣服: a refusal to kowtow (to the government's wishes on this issue) 拒绝屈从（於政府对这一问题的意旨）.",
+    "phonetic": "/ ˌkaUˈtaU; kaJˈtaJ/",
+    "origin": "待查",
+    "expansions": [
+      "a refusal to kowtow (to the government's wishes on this issue) 拒绝屈从（於政府对这一问题的意旨）."
+    ],
+    "pronunciation": "/ ˌkaUˈtaU; kaJˈtaJ/",
+    "accepted_answers": [
+      ")（向某人",
+      "某事物",
+      "）叩头",
+      "磕头",
+      "臣服"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kph",
     "type": "word",
     "pos": "word",
@@ -697,6 +1004,29 @@
       "缩写",
       "千米",
       "小时"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "krill",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "（鲸鱼吞食的）磷虾群",
+    "analysis": "n [pl v] mass of tiny shellfish eaten by whales （鲸鱼吞食的）磷虾群.",
+    "phonetic": "/ krɪl; krɪl/",
+    "origin": "待查",
+    "expansions": [
+      "（鲸鱼吞食的）磷虾群"
+    ],
+    "pronunciation": "/ krɪl; krɪl/",
+    "accepted_answers": [
+      "（鲸鱼吞食的）磷虾群"
     ],
     "added_at": "",
     "review": {

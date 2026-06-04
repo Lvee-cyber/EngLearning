@@ -3143,6 +3143,30 @@
     }
   },
   {
+    "term": "farmstead",
+    "type": "word",
+    "pos": "N",
+    "translation": "农舍及附近的建筑物；农家的庭院",
+    "analysis": "n farmhouse and the buildings near it 农舍及附近的建筑物.\nfarmyard \nn space enclosed by or next to farm buildings 农家的庭院.",
+    "phonetic": "/ ˈfɑː:msted; ˈfɑːrmˌsted/",
+    "origin": "待查",
+    "expansions": [
+      "农舍及附近的建筑物；农家的庭院"
+    ],
+    "pronunciation": "/ ˈfɑː:msted; ˈfɑːrmˌsted/",
+    "accepted_answers": [
+      "农舍及附近的建筑物",
+      "农家的庭院"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "farmyard",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -7053,6 +7077,30 @@
     }
   },
   {
+    "term": "ferrule",
+    "type": "word",
+    "pos": "N",
+    "translation": "（手杖、伞等顶端的）金属箍；金属包头",
+    "analysis": "n metal ring or cap placed on the end of a stick, an umbrella, etc to stop it splitting or wearing down （手杖、 伞等顶端的）金属箍, 金属包头.",
+    "phonetic": "/ ˈferuːl; ˈferəl; ˈferəl/",
+    "origin": "待查",
+    "expansions": [
+      "（手杖、伞等顶端的）金属箍；金属包头"
+    ],
+    "pronunciation": "/ ˈferuːl; ˈferəl; ˈferəl/",
+    "accepted_answers": [
+      "（手杖、伞等顶端的）金属箍",
+      "金属包头"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
+  },
+  {
     "term": "ferry",
     "type": "word",
     "translation": "渡船；渡船於一点钟开往法国；乘渡船",
@@ -7304,6 +7352,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fervid",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)",
+    "analysis": "adj (fml 文) = fervent.\nfervidly \nadv.",
+    "phonetic": "/ ˈfɜːvɪd; ˈfɜːvɪd/",
+    "origin": "待查",
+    "expansions": [
+      "文)"
+    ],
+    "pronunciation": "/ ˈfɜːvɪd; ˈfɜːvɪd/",
+    "accepted_answers": [
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
   },
   {
     "term": "fervour",
@@ -7956,6 +8027,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fey",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "苏格兰)；感到死期近的；能预知灾难的",
+    "analysis": "adj  1 (Scot 苏格兰) having a feeling of approaching death; able to foretell disaster 感到死期近的; 能预知灾难的.  2 having a strange whimsical charm 有稀奇古怪的魔力的.  3 (derog 贬) (of a person and his behaviour) not serious; frivolous （指人及其行为）不认真的, 轻浮的.\nfeyness \nn [U].",
+    "phonetic": "/ feɪ; fe/",
+    "origin": "待查",
+    "expansions": [
+      "苏格兰)；感到死期近的；能预知灾难的"
+    ],
+    "pronunciation": "/ feɪ; fe/",
+    "accepted_answers": [
+      "苏格兰)",
+      "感到死期近的",
+      "能预知灾难的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
   },
   {
     "term": "fezzed",
@@ -9203,6 +9299,30 @@
     "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
+    "term": "fifa",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)国际足球联合会（源自法文",
+    "analysis": "abbr 缩写 = International Association Football Federation (French Federation Internationale de Football Association) 国际足球联合会（源自法文Federation Internationale de Football Association）.",
+    "phonetic": "/ ˈfiːfə; ˈfifə/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)国际足球联合会（源自法文"
+    ],
+    "pronunciation": "/ ˈfiːfə; ˈfifə/",
+    "accepted_answers": [
+      "缩写",
+      ")国际足球联合会（源自法文"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fife",
     "type": "word",
     "translation": "（军乐中与鼓合奏的）横笛；笛鼓合奏的乐队",
@@ -10091,6 +10211,29 @@
     }
   },
   {
+    "term": "filtrate",
+    "type": "word",
+    "pos": "N",
+    "translation": "经过滤的液体",
+    "analysis": "n filtered liquid 经过滤的液体.",
+    "phonetic": "/ ˈfɪltreɪt; ˈfɪltret/",
+    "origin": "待查",
+    "expansions": [
+      "经过滤的液体"
+    ],
+    "pronunciation": "/ ˈfɪltreɪt; ˈfɪltret/",
+    "accepted_answers": [
+      "经过滤的液体"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fimbriodentate",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -10185,6 +10328,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "finalisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "finalisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌfaɪnəlaɪ-ˈzeɪʃn; -lɪˈz-; ˌfaɪnələˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "finalisation"
+    ],
+    "pronunciation": "/ ˌfaɪnəlaɪ-ˈzeɪʃn; -lɪˈz-; ˌfaɪnələˈzeʃən/",
+    "accepted_answers": [
+      "finalisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
     "term": "finalise",
@@ -10824,6 +10990,31 @@
     }
   },
   {
+    "term": "fir",
+    "type": "word",
+    "pos": "N",
+    "translation": "冷杉；此种树的木材；冷杉的球果",
+    "analysis": "n  1 [C] (also `fir-tree) type of evergreen tree with leaves like needles on its shoots 枞; 冷杉.  2 [U] wood of this tree 此种树的木材.\nfir-cone \nn fruit of the fir-tree 冷杉的球果.",
+    "phonetic": "/ fɜː(r); fɜː/",
+    "origin": "待查",
+    "expansions": [
+      "冷杉；此种树的木材；冷杉的球果"
+    ],
+    "pronunciation": "/ fɜː(r); fɜː/",
+    "accepted_answers": [
+      "冷杉",
+      "此种树的木材",
+      "冷杉的球果"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fire",
     "type": "word",
     "translation": "火焰；燃烧；人类对火的发现",
@@ -11209,6 +11400,30 @@
     }
   },
   {
+    "term": "firth",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指苏格兰的）狭窄的海湾；河流的入海口",
+    "analysis": "n (esp in Scotland) narrow inlet of the sea; part of a river when it flows into the sea （尤指苏格兰的）狭窄的海湾, 河流的入海口.",
+    "phonetic": "/ fɜːθ; fɜːθ/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指苏格兰的）狭窄的海湾；河流的入海口"
+    ],
+    "pronunciation": "/ fɜːθ; fɜːθ/",
+    "accepted_answers": [
+      "（尤指苏格兰的）狭窄的海湾",
+      "河流的入海口"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fiscal",
     "type": "word",
     "translation": "国库的；公款的；（通常指）岁入的",
@@ -11536,6 +11751,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fissiparous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "分裂生殖的",
+    "analysis": "adj reproducing by division of biological cells 分裂生殖的.",
+    "phonetic": "/ fɪˈsɪpərəs; fɪˈsɪpərəs/",
+    "origin": "待查",
+    "expansions": [
+      "分裂生殖的"
+    ],
+    "pronunciation": "/ fɪˈsɪpərəs; fɪˈsɪpərəs/",
+    "accepted_answers": [
+      "分裂生殖的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
     "term": "fist",
@@ -12087,6 +12325,31 @@
     }
   },
   {
+    "term": "fixer",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；代为做（通常为非法的）安排的人；定影剂",
+    "analysis": "n  1 (infml 口) person who makes (usu illegal) arrangements 代为做（通常为非法的）安排的人.  2 (chemical) substance that fixes (fix1 9) photographs or dyes 定影剂; 定色剂.",
+    "phonetic": "/ ˈfɪksə(r); ˈfɪksə/",
+    "origin": "待查",
+    "expansions": [
+      "口)；代为做（通常为非法的）安排的人；定影剂"
+    ],
+    "pronunciation": "/ ˈfɪksə(r); ˈfɪksə/",
+    "accepted_answers": [
+      "口)",
+      "代为做（通常为非法的）安排的人",
+      "定影剂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fixity",
     "type": "word",
     "translation": "固定性；稳定性；她目标始终如一",
@@ -12326,6 +12589,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flaccid",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；软弱的；松弛的",
+    "analysis": "adj (fml 文) soft and weak; loose and limp; not firm 软弱的; 松弛的; 不结实的.",
+    "phonetic": "/ ˈflæksɪd; ˈflæksɪd/",
+    "origin": "待查",
+    "expansions": [
+      "文)；软弱的；松弛的"
+    ],
+    "pronunciation": "/ ˈflæksɪd; ˈflæksɪd/",
+    "accepted_answers": [
+      "文)",
+      "软弱的",
+      "松弛的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flaccidly",
@@ -13260,6 +13548,29 @@
     }
   },
   {
+    "term": "flatlet",
+    "type": "word",
+    "pos": "N",
+    "translation": "小公寓",
+    "analysis": "n very small flat 小公寓.",
+    "phonetic": "/ -lɪt; -lɪt/",
+    "origin": "待查",
+    "expansions": [
+      "小公寓"
+    ],
+    "pronunciation": "/ -lɪt; -lɪt/",
+    "accepted_answers": [
+      "小公寓"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "flatman",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -13694,6 +14005,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flax",
+    "type": "word",
+    "pos": "N",
+    "translation": "亚麻；亚麻纤维",
+    "analysis": "n [U]  1 plant grown for its fibre and seeds 亚麻.  2 fibre from the stem of this plant, used to make linen 亚麻纤维.",
+    "phonetic": "/ flæks; flæks/",
+    "origin": "待查",
+    "expansions": [
+      "亚麻；亚麻纤维"
+    ],
+    "pronunciation": "/ flæks; flæks/",
+    "accepted_answers": [
+      "亚麻",
+      "亚麻纤维"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flaxen",
@@ -14173,6 +14508,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flexitime",
+    "type": "word",
+    "pos": "N",
+    "translation": "弹性工作时间制",
+    "analysis": "n [U] system in which employees can start and finish work at different times each day, provided that each of them works a certain number of hours in a week or month 弹性工作时间制.",
+    "phonetic": "/ ˈfleksɪtaɪm; ˈfleksəˌtaɪm/",
+    "origin": "待查",
+    "expansions": [
+      "弹性工作时间制"
+    ],
+    "pronunciation": "/ ˈfleksɪtaɪm; ˈfleksəˌtaɪm/",
+    "accepted_answers": [
+      "弹性工作时间制"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flick",
@@ -16627,6 +16985,30 @@
     }
   },
   {
+    "term": "fly-past",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（阅兵式的）飞机编队飞行（通常为低空飞行）",
+    "analysis": "n (Brit) (US `flyover) ceremonial flight of aircraft, usu at low altitude, as part of a military display （阅兵式的）飞机编队飞行（通常为低空飞行）.",
+    "phonetic": "/ -pɑː:st; -pst; -ˌpæst/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（阅兵式的）飞机编队飞行（通常为低空飞行）"
+    ],
+    "pronunciation": "/ -pɑː:st; -pst; -ˌpæst/",
+    "accepted_answers": [
+      ")(",
+      "（阅兵式的）飞机编队飞行（通常为低空飞行）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "flying",
     "type": "word",
     "translation": "飞行的；会飞的；会飞的昆虫",
@@ -16696,6 +17078,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flyover",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；立交桥；见附录",
+    "analysis": "n  1 (Brit) (US overpass) bridge which carries one road or railway above another 立交桥. =>illus at App 1 见附录1插图, page xiii.  2 (US) = fly-past (fly2).",
+    "phonetic": "/ ˈflaɪəʊvə(r); ˈflaɪˌovə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；立交桥；见附录"
+    ],
+    "pronunciation": "/ ˈflaɪəʊvə(r); ˈflaɪˌovə/",
+    "accepted_answers": [
+      ")(",
+      "立交桥",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flyweight",
@@ -16890,6 +17297,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fodder",
+    "type": "word",
+    "pos": "N",
+    "translation": "（马及其他牲畜的）饲料；草料；秣",
+    "analysis": "n [U] dried food, hay, etc forhorses and farm animals （马及其他牲畜的）饲料, 草料, 秣.",
+    "phonetic": "/ ˈfɒdə(r); ˈfɑːdə/",
+    "origin": "待查",
+    "expansions": [
+      "（马及其他牲畜的）饲料；草料；秣"
+    ],
+    "pronunciation": "/ ˈfɒdə(r); ˈfɑːdə/",
+    "accepted_answers": [
+      "（马及其他牲畜的）饲料",
+      "草料",
+      "秣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
   },
   {
     "term": "foetal",
@@ -20559,6 +20991,29 @@
       "化)",
       "甲醛水溶液",
       "福尔马林"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
+    "term": "formalisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "formalisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌfɔːməlaɪˈzeɪʃn; ˌfɔːrmələˈzəʃən/",
+    "origin": "待查",
+    "expansions": [
+      "formalisation"
+    ],
+    "pronunciation": "/ ˌfɔːməlaɪˈzeɪʃn; ˌfɔːrmələˈzəʃən/",
+    "accepted_answers": [
+      "formalisation"
     ],
     "added_at": "",
     "review": {
@@ -24247,6 +24702,29 @@
     }
   },
   {
+    "term": "frenetically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "frenetically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "frenetically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "frenetically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "frenzied",
     "type": "word",
     "translation": "狂乱的；狂躁的；发狂的",
@@ -24780,6 +25258,31 @@
     },
     "pos": "N",
     "origin": "待查"
+  },
+  {
+    "term": "fridge",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；冰箱；（冷藏室和冷冻室分开的）立式冰箱",
+    "analysis": "n (infml 口) refrigerator 冰箱.\nfridge-freezer \nn upright unit containing separate refrigerator and freezer compartments （冷藏室和冷冻室分开的）立式冰箱.\nfried\npt, pp of fry.",
+    "phonetic": "/ frɪdʒ; frɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；冰箱；（冷藏室和冷冻室分开的）立式冰箱"
+    ],
+    "pronunciation": "/ frɪdʒ; frɪdʒ/",
+    "accepted_answers": [
+      "口)",
+      "冰箱",
+      "（冷藏室和冷冻室分开的）立式冰箱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "friend",
@@ -25701,6 +26204,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "frond",
+    "type": "word",
+    "pos": "N",
+    "translation": "（蕨类或棕榈类的）叶",
+    "analysis": "n leaf-like part of a fern or palm （蕨类或棕榈类的）叶.",
+    "phonetic": "/ frɒnd; frɑːnd/",
+    "origin": "待查",
+    "expansions": [
+      "（蕨类或棕榈类的）叶"
+    ],
+    "pronunciation": "/ frɒnd; frɑːnd/",
+    "accepted_answers": [
+      "（蕨类或棕榈类的）叶"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "fronded",
@@ -28766,6 +29292,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "furthermore",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "此外；再者；而且",
+    "analysis": "adv in addition; moreover 此外; 再者; 而且.",
+    "phonetic": "/ ˌfɜːTəˈmɔː(r); ˈfɜːTəˌmɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "此外；再者；而且"
+    ],
+    "pronunciation": "/ ˌfɜːTəˈmɔː(r); ˈfɜːTəˌmɔːr/",
+    "accepted_answers": [
+      "此外",
+      "再者",
+      "而且"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "furthest",

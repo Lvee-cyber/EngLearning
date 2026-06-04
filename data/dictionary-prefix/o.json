@@ -4163,6 +4163,29 @@
     }
   },
   {
+    "term": "ocelot",
+    "type": "word",
+    "pos": "N",
+    "translation": "小豹猫（产於中南美）",
+    "analysis": "n type of Central and S American wild cat, similar to a leopard 小豹猫（产於中南美）.",
+    "phonetic": "/ ˈəʊsɪlɒt; ˈɒsələt; ˈɑːsəˌlət/",
+    "origin": "待查",
+    "expansions": [
+      "小豹猫（产於中南美）"
+    ],
+    "pronunciation": "/ ˈəʊsɪlɒt; ˈɒsələt; ˈɑːsəˌlət/",
+    "accepted_answers": [
+      "小豹猫（产於中南美）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "ochavo",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -8489,6 +8512,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oligarch",
+    "type": "word",
+    "pos": "N",
+    "translation": ")寡头政治家；寡头统治集团成员",
+    "analysis": "n member of an oligarchy(1) 寡头政治家; 寡头统治集团成员.",
+    "phonetic": "/ ˈɒlɪgɑː:k; ˈɑːlɪˌgɑːrk/",
+    "origin": "待查",
+    "expansions": [
+      ")寡头政治家；寡头统治集团成员"
+    ],
+    "pronunciation": "/ ˈɒlɪgɑː:k; ˈɑːlɪˌgɑːrk/",
+    "accepted_answers": [
+      ")寡头政治家",
+      "寡头统治集团成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "oligarchical",
@@ -15049,6 +15096,29 @@
     }
   },
   {
+    "term": "oratory",
+    "type": "word",
+    "pos": "N",
+    "translation": "私人礼拜堂",
+    "analysis": "n small chapel for private prayer or worship 私人礼拜堂.",
+    "phonetic": "/ ˈɒrətrɪ; ˈɔːrətɔːrɪ; ˈɔːrəˌtɔːrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "私人礼拜堂"
+    ],
+    "pronunciation": "/ ˈɒrətrɪ; ˈɔːrətɔːrɪ; ˈɔːrəˌtɔːrɪ/",
+    "accepted_answers": [
+      "私人礼拜堂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "orb",
     "type": "word",
     "translation": "文或古)；球体；星球",
@@ -16724,6 +16794,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oriel",
+    "type": "word",
+    "pos": "N",
+    "translation": "凸肚窗",
+    "analysis": "n (also ,oriel `window) window projecting from the upper storey of a house, etc 凸肚窗.",
+    "phonetic": "/ ˈɔːrɪəl; ˈɔːrɪəl/",
+    "origin": "待查",
+    "expansions": [
+      "凸肚窗"
+    ],
+    "pronunciation": "/ ˈɔːrɪəl; ˈɔːrɪəl/",
+    "accepted_answers": [
+      "凸肚窗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
   },
   {
     "term": "orient",
@@ -18530,6 +18623,29 @@
     }
   },
   {
+    "term": "orthographically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "orthographically",
+    "analysis": "adv.",
+    "phonetic": "/ -kəlɪ; -kəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "orthographically"
+    ],
+    "pronunciation": "/ -kəlɪ; -kəlɪ/",
+    "accepted_answers": [
+      "orthographically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "orthographist",
     "type": "word",
     "translation": "…者；…主义者",
@@ -18667,6 +18783,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "orthopaedist",
+    "type": "word",
+    "pos": "N",
+    "translation": "矫形外科医生",
+    "analysis": "n specialist in orthopaedics 矫形外科医生.",
+    "phonetic": "/ -ˈpiːdɪst; -ˈpidɪst/",
+    "origin": "待查",
+    "expansions": [
+      "矫形外科医生"
+    ],
+    "pronunciation": "/ -ˈpiːdɪst; -ˈpidɪst/",
+    "accepted_answers": [
+      "矫形外科医生"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
   },
   {
     "term": "orthopedic",
@@ -20643,6 +20782,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ostler",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时）客栈的马夫",
+    "analysis": "n (formerly) man looking after horses at an inn; stableman （旧时）客栈的马夫.",
+    "phonetic": "/ ˈɒslə(r); ˈɑːslə/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时）客栈的马夫"
+    ],
+    "pronunciation": "/ ˈɒslə(r); ˈɑːslə/",
+    "accepted_answers": [
+      "（旧时）客栈的马夫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "ostracine",
@@ -34618,6 +34780,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ovum",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；生)；卵子",
+    "analysis": "n (pl ova / 5EUvE; `ovE/) (biology 生) female egg-cell capable of developing into a new individual when fertilized by male sperm 卵; 卵子; 卵细胞. =>illus at female 见female插图. Cf 参看 ovary.",
+    "phonetic": "/ ˈəʊvəm; ˈovəm/",
+    "origin": "待查",
+    "expansions": [
+      ")(；生)；卵子"
+    ],
+    "pronunciation": "/ ˈəʊvəm; ˈovəm/",
+    "accepted_answers": [
+      ")(",
+      "生)",
+      "卵子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "owe",

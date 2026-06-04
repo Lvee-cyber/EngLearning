@@ -452,6 +452,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jeopardise",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（某事物）受到伤害、损失或破坏；使陷於险境；整个作业的安全让一个粗心大意的人给破坏了",
+    "analysis": "v [Tn] cause (sth) to be harmed, lost or destroyed; put in danger 使（某事物）受到伤害、 损失或破坏; 使陷於险境: The security of the whole operation has been jeopardized by one careless person. 整个作业的安全让一个粗心大意的人给破坏了.",
+    "phonetic": "/ ˈdʒepədaɪz; ˈdʒepədˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "The security of the whole operation has been jeopardized by one careless person. 整个作业的安全让一个粗心大意的人给破坏了."
+    ],
+    "pronunciation": "/ ˈdʒepədaɪz; ˈdʒepədˌaɪz/",
+    "accepted_answers": [
+      "使（某事物）受到伤害、损失或破坏",
+      "使陷於险境",
+      "整个作业的安全让一个粗心大意的人给破坏了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jerkily",
     "type": "word",
     "pos": "Adv",
@@ -465,6 +490,54 @@
     "pronunciation": "/ -ɪlɪ; -əlɪ/",
     "accepted_answers": [
       "jerkily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jerkin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（男用或女用的）坎肩",
+    "analysis": "n short close-fitting jacket without sleeves, worn by men or women （男用或女用的）坎肩.",
+    "phonetic": "/ ˈdʒɜːkɪn; ˈdʒɜːkɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（男用或女用的）坎肩"
+    ],
+    "pronunciation": "/ ˈdʒɜːkɪn; ˈdʒɜːkɪn/",
+    "accepted_answers": [
+      "（男用或女用的）坎肩"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jerry-build",
+    "type": "word",
+    "pos": "V",
+    "translation": "贬)；偷工减料地建造（房屋等）；偷工减料的营造商",
+    "analysis": "v [I, Tn] (derog 贬) build (houses, etc) quickly and cheaply without concern for quality 偷工减料地建造（房屋等）.\njerry-builder \nn person who builds in this way 偷工减料的营造商.\njerry-building \nn [U].\njerry-built \nadj: jerry-built houses 偷工减料建成的房屋.",
+    "phonetic": "/ ˈdʒerɪbɪld; ˈdʒerɪˌbɪld/",
+    "origin": "待查",
+    "expansions": [
+      "jerry-built houses 偷工减料建成的房屋."
+    ],
+    "pronunciation": "/ ˈdʒerɪbɪld; ˈdʒerɪˌbɪld/",
+    "accepted_answers": [
+      "贬)",
+      "偷工减料地建造（房屋等）",
+      "偷工减料的营造商"
     ],
     "added_at": "",
     "review": {
@@ -649,6 +722,33 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jewel",
+    "type": "word",
+    "pos": "N",
+    "translation": ")宝石（如钻石或红宝石）；镶有宝石的装饰品；珠宝",
+    "analysis": "n  1 (a) precious stone (eg adiamond or a ruby) 宝石（如钻石或红宝石）. (b) ornament with such a stone or stones set in it 镶有宝石的装饰品; 珠宝: [attrib 作定语] a jewel thief 盗珠宝的窃贼.  2 small precious stone, or piece of special glass, used in the machinery of a watch or compass （手表或罗盘内的）宝石轴承: a watch with 17 jewels 17钻的手表.  3 person or thing that is greatly valued 受珍视的人或物: He's always saying his wife is a real jewel. 他总说他的妻子是至宝. * a painting by Goya, the brightest jewel in his collection of art treasures 戈雅的画, 他所收藏的艺术珍品中最光彩夺目的一颗明珠.\njewelled (US jeweled) \nadj decorated with or having jewels 饰以宝石; 镶宝石的: a jewelled ring, dagger, snuff-box, etc 镶宝石的戒指、 匕首、 鼻烟壶等.\njeweller (US jeweler) \nn person who sells, makes or repairs jewellery or watches 出售、 制造或修理珠宝饰物或钟表的人.",
+    "phonetic": "/ ˈdʒuːəl; ˈdʒuəl/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] a jewel thief 盗珠宝的窃贼. 2 small precious stone, or piece of special glass, used in the machinery of a watch or compass （手表或罗盘内的）宝石轴承: a watch with 17 jewels 17钻的手表. 3 person or thing that is greatly valued 受珍视的人或物: He's always saying his wife is a real jewel. 他总说他的妻子是至宝.",
+      "a painting by Goya, the brightest jewel in his collection of art treasures 戈雅的画, 他所收藏的艺术珍品中最光彩夺目的一颗明珠.",
+      "a jewelled ring, dagger, snuff-box, etc 镶宝石的戒指、 匕首、 鼻烟壶等."
+    ],
+    "pronunciation": "/ ˈdʒuːəl; ˈdʒuəl/",
+    "accepted_answers": [
+      ")宝石（如钻石或红宝石）",
+      "镶有宝石的装饰品",
+      "珠宝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jewess",
     "type": "word",
     "pos": "N",
@@ -714,6 +814,30 @@
       "吉格舞",
       "吉格舞曲",
       "夹具"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jigger",
+    "type": "word",
+    "pos": "N",
+    "translation": "（量酒的）小量器；（盛此量的）小玻璃杯",
+    "analysis": "n small measure for alcoholic drinks; small glass holding this amount （量酒的）小量器; （盛此量的）小玻璃杯.",
+    "phonetic": "/ ˈdʒɪgə(r); ˈdʒɪgə/",
+    "origin": "待查",
+    "expansions": [
+      "（量酒的）小量器；（盛此量的）小玻璃杯"
+    ],
+    "pronunciation": "/ ˈdʒɪgə(r); ˈdʒɪgə/",
+    "accepted_answers": [
+      "（量酒的）小量器",
+      "（盛此量的）小玻璃杯"
     ],
     "added_at": "",
     "review": {
@@ -882,6 +1006,32 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jocose",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧；文)；诙谐的；开玩笑的",
+    "analysis": "adj (dated fml 旧, 文) humorous; playful 诙谐的; 开玩笑的.\njocosely \nadv.",
+    "phonetic": "/ dʒəʊˈkəʊs; dʒoˈkos/",
+    "origin": "待查",
+    "expansions": [
+      "旧；文)；诙谐的；开玩笑的"
+    ],
+    "pronunciation": "/ dʒəʊˈkəʊs; dʒoˈkos/",
+    "accepted_answers": [
+      "旧",
+      "文)",
+      "诙谐的",
+      "开玩笑的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jocosity",
     "type": "word",
     "pos": "N",
@@ -919,6 +1069,34 @@
     "accepted_answers": [
       "马裤",
       "一条马裤"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jog",
+    "type": "word",
+    "pos": "V",
+    "translation": "轻推或轻碰（某人；某物；别碰我；不然我就把东西弄洒了",
+    "analysis": "v (-gg-)  1 [Tn] push or knock (sb/sth) slightly 轻推或轻碰（某人[某物]）: Don't jog me, or you'll make me spill something! 别碰我, 不然我就把东西弄洒了.  2 [I] (usu 通常作 go jogging) run slowly and steadily for a time, for physical exercise 慢跑（作为运动）: He goes jogging every evening. 他每天晚上都作慢跑. =>Usage at run1 用法见run1.  3 [Ipr, Ip] move unsteadily, esp up and down, in a shaky manner 不平稳地移动; （尤指）颠簸: The wagon jogged along (a rough track). 马车（沿凹凸不平的小路）颠簸前行.  4 [I] (of a horse) move at a jogtrot （指马）颠跑.  5 (idm 习语) jog sb's memory help sb to recall sth 唤起某人记起某事: This photograph may jog your memory. 这照片能引起你的回忆.  6 (phr v) jog along/on continue in a steady manner, with little or no excitement or progress 持续而缓慢地进行; 无起色或无大进展: For years the business just kept jogging along. 多年来生意仅仅是平平而已.\njog \nn [sing]  1 slight push, knock or shake; nudge 轻推; 轻碰; 轻摇; 以肘轻触: He gave the pile of tins a jog and they all fell down. 他轻轻一碰, 那些罐子就都倒了. * (fig 比喻) give sb's memory a jog 给某人提个醒.  2 spell of jogging as exercise （为锻炼的）短时慢跑: Are you coming for a jog tomorrow morning? 明天早晨你来慢跑吗?",
+    "phonetic": "/ dʒɒg; dʒɑːg/",
+    "origin": "待查",
+    "expansions": [
+      "Don't jog me, or you'll make me spill something! 别碰我, 不然我就把东西弄洒了. 2 [I] (usu 通常作 go jogging) run slowly and steadily for a time, for physical exercise 慢跑（作为运动）: He goes jogging every evening. 他每天晚上都作慢跑. =>Usage at run1 用法见run1. 3 [Ipr, Ip] move unsteadily, esp up and down, in a shaky manner 不平稳地移动; （尤指）颠簸: The wagon jogged along (a rough track). 马车（沿凹凸不平的小路）颠簸前行. 4 [I] (of a horse) move at a jogtrot （指马）颠跑. 5 (idm 习语) jog sb's memory help sb to recall sth 唤起某人记起某事: This photograph may jog your memory. 这照片能引起你的回忆. 6 (phr v) jog along/on continue in a steady manner, with little or no excitement or progress 持续而缓慢地进行; 无起色或无大进展: For years the business just kept jogging along. 多年来生意仅仅是平平而已.",
+      "He gave the pile of tins a jog and they all fell down. 他轻轻一碰, 那些罐子就都倒了.",
+      "(fig 比喻) give sb's memory a jog 给某人提个醒. 2 spell of jogging as exercise （为锻炼的）短时慢跑: Are you coming for a jog tomorrow morning? 明天早晨你来慢跑吗?"
+    ],
+    "pronunciation": "/ dʒɒg; dʒɑːg/",
+    "accepted_answers": [
+      "轻推或轻碰（某人",
+      "某物",
+      "别碰我",
+      "不然我就把东西弄洒了"
     ],
     "added_at": "",
     "review": {
@@ -975,6 +1153,77 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "joiner",
+    "type": "word",
+    "pos": "N",
+    "translation": "细木工；参看",
+    "analysis": "n (Brit) skilled workman who makes the wooden fittings of a building, eg window frames and doors 细木工. Cf 参看 carpenter.",
+    "phonetic": "/ ˈdʒɔːɪnə(r); ˈdʒɔːɪnə/",
+    "origin": "待查",
+    "expansions": [
+      "细木工；参看"
+    ],
+    "pronunciation": "/ ˈdʒɔːɪnə(r); ˈdʒɔːɪnə/",
+    "accepted_answers": [
+      "细木工",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joinery",
+    "type": "word",
+    "pos": "N",
+    "translation": "细木工的工作或制品",
+    "analysis": "n [U] work of a joiner 细木工的工作或制品.",
+    "phonetic": "/ ˈdʒɔːɪnərɪ; ˈdʒɔːɪnərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "细木工的工作或制品"
+    ],
+    "pronunciation": "/ ˈdʒɔːɪnərɪ; ˈdʒɔːɪnərɪ/",
+    "accepted_answers": [
+      "细木工的工作或制品"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joist",
+    "type": "word",
+    "pos": "N",
+    "translation": "搁栅；托梁",
+    "analysis": "n one of the long thick pieces of wood or metal that are used to support a floor or ceiling in a building 搁栅; 托梁.",
+    "phonetic": "/ dʒɔːɪst; dʒɔːɪst/",
+    "origin": "待查",
+    "expansions": [
+      "搁栅；托梁"
+    ],
+    "pronunciation": "/ dʒɔːɪst; dʒɔːɪst/",
+    "accepted_answers": [
+      "搁栅",
+      "托梁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jonquil",
@@ -1045,6 +1294,37 @@
       "报纸",
       "定期刊物（尤指涉及某一学科的）",
       "医学、科学、教育等杂志"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "journey",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；行走；行驶；旅行（通常指经陆路）；旅程",
+    "analysis": "n (pl ~s) (a) (distance covered in) travelling, usu by land, from one place to another, often far away 行走, 行驶, 旅行（通常指经陆路）; 旅程; 路程: Did you have a good journey? 你一路上顺利吗? * go on a long train journey 乘火车出远门 * break one's journey, ie interrupt it by stopping briefly at a place 途中在某地作短暂停留 * the journey from Edinburgh to London 由爱丁堡到伦敦的路程 * (fig 比喻) our great journey through life 我们一生的漫长道路. (b) time taken in going from one place to another 从一地到另一地所用的时间: It's a day's journey by car. 乘汽车得用一天的时间.\njourney \nv [Ipr, Ip] go on a journey; travel 行走; 行驶; 旅行; 游历: journeying overland across North America 横越北美大陆.\njourney\nNOTE ON USAGE 用法: Journey may indicate a long distance or a short one travelled regularly *journey可指经常走过的或长或短的距离: `How long is your journey to work?' ｀你上班要走多长的路?＇ `Only about 15 minutes.' ｀也就走15分钟左右.＇ A voyage is a long journey by sea or in space. *voyage是经海路或空间的长途行程. The word travels [pl] suggests a fairly long period of travelling from place to place, especially abroad, for pleasure or interest. *travels（复数）一词指时间稍长的各处旅行, 尤指出国旅游. It is often used with a possessive adjective 这一词常与所有格的形容词连用: She's gone off on her travels again. 她又去旅游了. Travel is an uncountable noun indicating the action of travelling *travel是指行走、 行驶或旅行的不可数名词: Travel broadens the mind. 旅行能使人见多识广. A tour is a (short or long) journey for pleasure, spent visiting several places *tour是为游玩而到几个地方观光的（长途或短途）旅行: They're going on a world tour. 他们正在环球旅行. A trip and (more formal) an excursion are short journeys and visits from and returning to a particular place. *trip和（较文雅的）excursion是指短期的旅程和观光, 从某地出发再回到该地. Excursion suggests a group of people travelling together *excursion指一起出行的一群人: During our holiday in Venice we went on a few trips/excursions to places near by. 我们在威尼斯度假时曾到附近的几个地方观光过.",
+    "phonetic": "/ ˈdʒɜːnɪ; ˈdʒɜːnɪ/",
+    "origin": "待查",
+    "expansions": [
+      "Did you have a good journey? 你一路上顺利吗?",
+      "go on a long train journey 乘火车出远门",
+      "break one's journey, ie interrupt it by stopping briefly at a place 途中在某地作短暂停留",
+      "the journey from Edinburgh to London 由爱丁堡到伦敦的路程",
+      "(fig 比喻) our great journey through life 我们一生的漫长道路. (b) time taken in going from one place to another 从一地到另一地所用的时间: It's a day's journey by car. 乘汽车得用一天的时间."
+    ],
+    "pronunciation": "/ ˈdʒɜːnɪ; ˈdʒɜːnɪ/",
+    "accepted_answers": [
+      ")(",
+      "行走",
+      "行驶",
+      "旅行（通常指经陆路）",
+      "旅程"
     ],
     "added_at": "",
     "review": {
@@ -1307,6 +1587,29 @@
     ]
   },
   {
+    "term": "jugful",
+    "type": "word",
+    "pos": "N",
+    "translation": "一罐或一壶液体（之量）",
+    "analysis": "n amount of liquid contained in a jug 一罐或一壶液体（之量）.",
+    "phonetic": "/ -fUl; -fJl/",
+    "origin": "待查",
+    "expansions": [
+      "一罐或一壶液体（之量）"
+    ],
+    "pronunciation": "/ -fUl; -fJl/",
+    "accepted_answers": [
+      "一罐或一壶液体（之量）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jujube",
     "type": "word",
     "pos": "N",
@@ -1382,6 +1685,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "juncture",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；文)；在此时刻",
+    "analysis": "n (idm 习语) at this juncture (fml 文) at a particular, esp important, stage in a series of events 在此时刻; 在这一关头: It is very difficult at this juncture to predict the company's future. 此时很难预料公司的前景.",
+    "phonetic": "/ ˈdʒʌŋktʃə(r); ˈdʒʌŋktʃə/",
+    "origin": "待查",
+    "expansions": [
+      "It is very difficult at this juncture to predict the company's future. 此时很难预料公司的前景."
+    ],
+    "pronunciation": "/ ˈdʒʌŋktʃə(r); ˈdʒʌŋktʃə/",
+    "accepted_answers": [
+      "习语)",
+      "文)",
+      "在此时刻"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "june",
     "type": "word",
     "pos": "N",
@@ -1397,6 +1725,35 @@
       "缩写",
       "六月",
       "关於"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jungle",
+    "type": "word",
+    "pos": "N",
+    "translation": "丛林地带（通常指热带国家的）；向内地；英里丛林较少",
+    "analysis": "n  1 [U, C] area of land, usu in a tropical country, that is covered with a thick growth of trees and tangled plants 丛林地带（通常指热带国家的）: There's not much jungle 100 miles inland. 向内地100英里丛林较少. * The new road was hacked out of the jungle. 这条新路是在丛林地带辟出的. * the dense jungles of Africa and South America 非洲和南美洲的茂密丛林 * [attrib 作定语] jungle warfare, ie war fought in the jungle, where surprise attacks by small groups aredifficult to anticipate or avoid 丛林战.  2 [sing] confused, disordered and complicated mass of things 混乱而复杂的大量事物: a jungle of welfare regulations 纷繁的福利条例.  3 [C] place of intense or confusing struggle 发生激烈或混乱斗争的地方: the blackboard jungle, ie school(s) where pupils are very disruptive and hostile to theirteachers 学生不守纪律并敌视教师的学校 * the concrete jungle, ie a typical modern city with a dense mass ofugly high-rise concrete buildings and in which life is bewildering and sometimes violent 高楼林立、 乌烟瘴气、 时有暴力事件的现代城市.  4 (idm 习语) the law of the jungle => law.",
+    "phonetic": "/ ˈdʒʌŋgl; ˈdʒʌŋgl/",
+    "origin": "待查",
+    "expansions": [
+      "There's not much jungle 100 miles inland. 向内地100英里丛林较少.",
+      "The new road was hacked out of the jungle. 这条新路是在丛林地带辟出的.",
+      "the dense jungles of Africa and South America 非洲和南美洲的茂密丛林",
+      "[attrib 作定语] jungle warfare, ie war fought in the jungle, where surprise attacks by small groups aredifficult to anticipate or avoid 丛林战. 2 [sing] confused, disordered and complicated mass of things 混乱而复杂的大量事物: a jungle of welfare regulations 纷繁的福利条例. 3 [C] place of intense or confusing struggle 发生激烈或混乱斗争的地方: the blackboard jungle, ie school(s) where pupils are very disruptive and hostile to theirteachers 学生不守纪律并敌视教师的学校",
+      "the concrete jungle, ie a typical modern city with a dense mass ofugly high-rise concrete buildings and in which life is bewildering and sometimes violent 高楼林立、 乌烟瘴气、 时有暴力事件的现代城市. 4 (idm 习语) the law of the jungle => law."
+    ],
+    "pronunciation": "/ ˈdʒʌŋgl; ˈdʒʌŋgl/",
+    "accepted_answers": [
+      "丛林地带（通常指热带国家的）",
+      "向内地",
+      "英里丛林较少"
     ],
     "added_at": "",
     "review": {
@@ -1514,6 +1871,33 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jut",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；突出；伸出",
+    "analysis": "v (-tt-) (phr v) jut out stand out (from sth); be out of line (with the surrounding surface); stick out 突出; 伸出: a balcony that juts out (over the garden) 突出（於花园之上）的阳台 * a headland that juts out into the sea 伸入海中的岬 * His chin juts out rather a lot. 他的下巴向外突出.",
+    "phonetic": "/ dʒʌt; dʒʌt/",
+    "origin": "待查",
+    "expansions": [
+      "a balcony that juts out (over the garden) 突出（於花园之上）的阳台",
+      "a headland that juts out into the sea 伸入海中的岬",
+      "His chin juts out rather a lot. 他的下巴向外突出."
+    ],
+    "pronunciation": "/ dʒʌt; dʒʌt/",
+    "accepted_answers": [
+      ")(",
+      "突出",
+      "伸出"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "juxtapose",
     "type": "word",
     "pos": "V",
@@ -1529,6 +1913,29 @@
       "文)",
       "将（人或事物）并列或并置（尤指为显示差别）",
       "将古典的与现代的建筑风格并列对照"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juxtaposition",
+    "type": "word",
+    "pos": "N",
+    "translation": "（不同的）思想、文化、传统的对比",
+    "analysis": "n [U]: the juxtaposition of (different) ideas, civilizations, traditions （不同的）思想、 文化、 传统的对比.",
+    "phonetic": "/ ˌdʒʌkstəpəˈzɪʃn; ˌdʒʌkstəpəˈzɪʃən/",
+    "origin": "待查",
+    "expansions": [
+      "the juxtaposition of (different) ideas, civilizations, traditions （不同的）思想、 文化、 传统的对比."
+    ],
+    "pronunciation": "/ ˌdʒʌkstəpəˈzɪʃn; ˌdʒʌkstəpəˈzɪʃən/",
+    "accepted_answers": [
+      "（不同的）思想、文化、传统的对比"
     ],
     "added_at": "",
     "review": {

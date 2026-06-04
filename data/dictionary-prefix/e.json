@@ -1151,6 +1151,30 @@
     }
   },
   {
+    "term": "ecclesiastic",
+    "type": "word",
+    "pos": "N",
+    "translation": ")（基督教会的）传教士；牧师",
+    "analysis": "n clergyman (in the Christian Church) （基督教会的）传教士, 牧师.",
+    "phonetic": "/ ɪˌkliːzɪˈæstɪk; ɪˌklizɪˈæstɪk/",
+    "origin": "待查",
+    "expansions": [
+      ")（基督教会的）传教士；牧师"
+    ],
+    "pronunciation": "/ ɪˌkliːzɪˈæstɪk; ɪˌklizɪˈæstɪk/",
+    "accepted_answers": [
+      ")（基督教会的）传教士",
+      "牧师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
+  },
+  {
     "term": "ecg",
     "type": "word",
     "translation": "缩写；医)；作心电图检查",
@@ -1344,6 +1368,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ecologically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ecologically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ecologically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "ecologically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
   },
   {
     "term": "ecologist",
@@ -1710,6 +1757,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "edam",
+    "type": "word",
+    "pos": "N",
+    "translation": "埃丹乾酪（荷兰圆形硬乾酪；通常为黄色；包有红色外皮）",
+    "analysis": "n [U, C] hard round Dutch cheese, usu yellow with a red rind 埃丹乾酪（荷兰圆形硬乾酪, 通常为黄色, 包有红色外皮）.",
+    "phonetic": "/ ˈiːdæm; alsoˈiːdəm; ˈidæm,ˈidəm/",
+    "origin": "待查",
+    "expansions": [
+      "埃丹乾酪（荷兰圆形硬乾酪；通常为黄色；包有红色外皮）"
+    ],
+    "pronunciation": "/ ˈiːdæm; alsoˈiːdəm; ˈidæm,ˈidəm/",
+    "accepted_answers": [
+      "埃丹乾酪（荷兰圆形硬乾酪",
+      "通常为黄色",
+      "包有红色外皮）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
   },
   {
     "term": "eddy",
@@ -3047,6 +3119,30 @@
     }
   },
   {
+    "term": "eiderdown",
+    "type": "word",
+    "pos": "N",
+    "translation": "用羽绒或其他轻软物填充的被褥；参看",
+    "analysis": "n quilt for a bed filled with soft feathers or other soft material 用羽绒或其他轻软物填充的被褥. Cf 参看 duvet.",
+    "phonetic": "/ ˈaɪdədaUn; ˈaɪdədaJn/",
+    "origin": "待查",
+    "expansions": [
+      "用羽绒或其他轻软物填充的被褥；参看"
+    ],
+    "pronunciation": "/ ˈaɪdədaUn; ˈaɪdədaJn/",
+    "accepted_answers": [
+      "用羽绒或其他轻软物填充的被褥",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "eight",
     "type": "word",
     "translation": "八（个）；见附录；划艇的八人一组的船员",
@@ -3068,6 +3164,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "eighty",
+    "type": "word",
+    "pos": "word",
+    "translation": "八十（个）；见附录",
+    "analysis": "pron, det 80; one more than seventy-nine  80, 八十（个）. =>App 4 见附录4.",
+    "phonetic": "/ ˈeɪtɪ; ˈetɪ/",
+    "origin": "待查",
+    "expansions": [
+      "八十（个）；见附录"
+    ],
+    "pronunciation": "/ ˈeɪtɪ; ˈetɪ/",
+    "accepted_answers": [
+      "八十（个）",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
     "term": "either",
@@ -3820,6 +3940,55 @@
       "缩写",
       ")(",
       "医)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "electrocardiograph",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；心电图仪",
+    "analysis": "n (medical 医) instrument that detects and records the electric activity in the muscles of the heart 心电图仪.",
+    "phonetic": "/ ˌɪlektrəʊˈkɑː:dɪəʊgrɑː:f; -græf; ɪˈlektroˈkɑːrdɪəˌgræf/",
+    "origin": "待查",
+    "expansions": [
+      "医)；心电图仪"
+    ],
+    "pronunciation": "/ ˌɪlektrəʊˈkɑː:dɪəʊgrɑː:f; -græf; ɪˈlektroˈkɑːrdɪəˌgræf/",
+    "accepted_answers": [
+      "医)",
+      "心电图仪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "electrocute",
+    "type": "word",
+    "pos": "V",
+    "translation": "通常用於被动语态；电死（人或动物）；以电刑处死",
+    "analysis": "v [Tn usu passive 通常用於被动语态] kill (a person or an animal) by means of an electric current 电死（人或动物）; 以电刑处死.",
+    "phonetic": "/ ɪˈlektrəkjuːt; ɪˈlektrəˌkjut/",
+    "origin": "待查",
+    "expansions": [
+      "通常用於被动语态；电死（人或动物）；以电刑处死"
+    ],
+    "pronunciation": "/ ɪˈlektrəkjuːt; ɪˈlektrəˌkjut/",
+    "accepted_answers": [
+      "通常用於被动语态",
+      "电死（人或动物）",
+      "以电刑处死"
     ],
     "added_at": "",
     "review": {
@@ -4894,6 +5063,30 @@
     }
   },
   {
+    "term": "elt",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)（对英语并非母语的人的）英语教学（的原则和方法）",
+    "analysis": "abbr 缩写 = (principles and practice of) English Language Teaching (to non-native speakers) （对英语并非母语的人的）英语教学（的原则和方法）.",
+    "phonetic": "/ ˌiːelˈtiː; ˌielˈti/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)（对英语并非母语的人的）英语教学（的原则和方法）"
+    ],
+    "pronunciation": "/ ˌiːelˈtiː; ˌielˈti/",
+    "accepted_answers": [
+      "缩写",
+      ")（对英语并非母语的人的）英语教学（的原则和方法）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "elucidate",
     "type": "word",
     "translation": "文)；使（某事物）清楚；解释",
@@ -5695,6 +5888,30 @@
     }
   },
   {
+    "term": "embolism",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；栓塞",
+    "analysis": "n (medical 医) blockage of an artery or a vein caused by a clot of blood, an air-bubble, etc 栓塞.",
+    "phonetic": "/ ˈembəlɪzəm; ˈembəˌlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "医)；栓塞"
+    ],
+    "pronunciation": "/ ˈembəlɪzəm; ˈembəˌlɪzəm/",
+    "accepted_answers": [
+      "医)",
+      "栓塞"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
+  },
+  {
     "term": "emboss",
     "type": "word",
     "translation": "尤用於被动语态；在（某物的表面）装饰隆起的图案；在某物表面制出（隆起的图案）",
@@ -6351,6 +6568,31 @@
     }
   },
   {
+    "term": "emissary",
+    "type": "word",
+    "pos": "N",
+    "translation": "（常为传送棘手信息的）使者；密使；谈判者",
+    "analysis": "n person sent to deliver a message (often an unpleasant or a secret one) or to conduct negotiations （常为传送棘手信息的）使者, 密使, 谈判者.",
+    "phonetic": "/ ˈemɪsərɪ; ˈeməˌserɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（常为传送棘手信息的）使者；密使；谈判者"
+    ],
+    "pronunciation": "/ ˈemɪsərɪ; ˈeməˌserɪ/",
+    "accepted_answers": [
+      "（常为传送棘手信息的）使者",
+      "密使",
+      "谈判者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
+  },
+  {
     "term": "emission",
     "type": "word",
     "translation": "文)；)（光、热、烟、气、分泌物、体液等的）散发；发射；发出；阳光的照射",
@@ -6724,6 +6966,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "empirical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指知识）以观察或实验为根据的（非理论的）；参看",
+    "analysis": "adj (of knowledge) based on observation or experiment, not on theory （指知识）以观察或实验为根据的（非理论的）. Cf 参看 transcendental.",
+    "phonetic": "/ ɪmˈpɪrɪkl; emˈpɪrɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "（指知识）以观察或实验为根据的（非理论的）；参看"
+    ],
+    "pronunciation": "/ ɪmˈpɪrɪkl; emˈpɪrɪkl/",
+    "accepted_answers": [
+      "（指知识）以观察或实验为根据的（非理论的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
+  },
+  {
+    "term": "empirically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "empirically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "empirically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "empirically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
   },
   {
     "term": "employ",
@@ -7889,6 +8178,29 @@
     }
   },
   {
+    "term": "endive",
+    "type": "word",
+    "pos": "N",
+    "translation": "莴苣（用作凉菜）",
+    "analysis": "n [C, U]  1 (US also escarole) type of plant with curly leaves used as salad 莴苣（用作凉菜）.  2 (US) = chicory.",
+    "phonetic": "/ ˈendɪv; -daɪv; ˈendaɪv/",
+    "origin": "待查",
+    "expansions": [
+      "莴苣（用作凉菜）"
+    ],
+    "pronunciation": "/ ˈendɪv; -daɪv; ˈendaɪv/",
+    "accepted_answers": [
+      "莴苣（用作凉菜）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
     "term": "endless",
     "type": "word",
     "translation": "（似乎）无止境的；无穷尽的；无限的耐心",
@@ -8709,6 +9021,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "enigmatically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "enigmatically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "enigmatically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "enigmatically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
   },
   {
     "term": "enjoin",
@@ -9989,6 +10324,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "entomological",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "entomological",
+    "analysis": "adj.",
+    "phonetic": "/ ˌentəməˈlɒdʒɪkl; ˌentəməˈlɑːdʒɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "entomological"
+    ],
+    "pronunciation": "/ ˌentəməˈlɒdʒɪkl; ˌentəməˈlɑːdʒɪkl/",
+    "accepted_answers": [
+      "entomological"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
   },
   {
     "term": "entomologist",
@@ -12125,6 +12483,29 @@
     "dict_source": "data/DICT/E/E-r,s.txt"
   },
   {
+    "term": "eradication",
+    "type": "word",
+    "pos": "N",
+    "translation": "eradication",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪˌrædɪˈkeɪʃn; ɪˌrædɪˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "eradication"
+    ],
+    "pronunciation": "/ ɪˌrædɪˈkeɪʃn; ɪˌrædɪˈkeʃən/",
+    "accepted_answers": [
+      "eradication"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
     "term": "eradicator",
     "type": "word",
     "translation": "根除者；消除物（尤指去墨水迹的化学物质）；一瓶消字灵",
@@ -14112,6 +14493,29 @@
     }
   },
   {
+    "term": "ethnography",
+    "type": "word",
+    "pos": "N",
+    "translation": "人种志",
+    "analysis": "n [U] scientific description of the different human races 人种志.",
+    "phonetic": "/ eθˈnɒgrəfɪ; eθˈnɑːgrəfɪ/",
+    "origin": "待查",
+    "expansions": [
+      "人种志"
+    ],
+    "pronunciation": "/ eθˈnɒgrəfɪ; eθˈnɑːgrəfɪ/",
+    "accepted_answers": [
+      "人种志"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "ethnologist",
     "type": "word",
     "pos": "N",
@@ -14540,6 +14944,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "eurasia",
+    "type": "word",
+    "pos": "N",
+    "translation": "欧亚大陆",
+    "analysis": "n Europe and Asia 欧亚大陆.",
+    "phonetic": "/ jUəˈreɪʒə; jJˈreʒə/",
+    "origin": "待查",
+    "expansions": [
+      "欧亚大陆"
+    ],
+    "pronunciation": "/ jUəˈreɪʒə; jJˈreʒə/",
+    "accepted_answers": [
+      "欧亚大陆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
   },
   {
     "term": "eureka",
@@ -15705,6 +16132,29 @@
       "文)",
       "切除内脏",
       "切除器官内容物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
+    "term": "evocation",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)",
+    "analysis": "n [C, U] (fml 文).",
+    "phonetic": "/ ˌiːvəʊˈkeɪʃn; ˌivoˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)"
+    ],
+    "pronunciation": "/ ˌiːvəʊˈkeɪʃn; ˌivoˈkeʃən/",
+    "accepted_answers": [
+      "文)"
     ],
     "added_at": "",
     "review": {
@@ -17738,6 +18188,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "exemption",
+    "type": "word",
+    "pos": "N",
+    "translation": "exemption",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ɪgˈzempʃn; ɪgˈzempʃən/",
+    "origin": "待查",
+    "expansions": [
+      "exemption"
+    ],
+    "pronunciation": "/ ɪgˈzempʃn; ɪgˈzempʃən/",
+    "accepted_answers": [
+      "exemption"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
   },
   {
     "term": "exercise",

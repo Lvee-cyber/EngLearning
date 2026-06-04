@@ -735,6 +735,30 @@
     }
   },
   {
+    "term": "madder",
+    "type": "word",
+    "pos": "N",
+    "translation": "茜草；茜草染料",
+    "analysis": "n [U] (red dye obtained from the root of a) climbing plant with yellowish flowers 茜草; 茜草染料.\nmade\npt, pp of make1.",
+    "phonetic": "/ ˈmædə(r); ˈmædə/",
+    "origin": "待查",
+    "expansions": [
+      "茜草；茜草染料"
+    ],
+    "pronunciation": "/ ˈmædə(r); ˈmædə/",
+    "accepted_answers": [
+      "茜草",
+      "茜草染料"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "madonna",
     "type": "word",
     "translation": "圣母马利亚（耶稣基督的母亲）；通常作；圣母马利亚的雕像或画像",
@@ -1461,6 +1485,30 @@
     "accepted_answers": [
       "（印度的）土邦主",
       "王公（的称号）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "maharani",
+    "type": "word",
+    "pos": "N",
+    "translation": "（印度的）土邦主之妻；女土邦主",
+    "analysis": "n wife of a maharaja; queen or princess with a position like that of a maharaja （印度的）土邦主之妻, 女土邦主.",
+    "phonetic": "/ ˌmɑː:həˈrɑː:niː; ˌmɑːhəˈrɑːni/",
+    "origin": "待查",
+    "expansions": [
+      "（印度的）土邦主之妻；女土邦主"
+    ],
+    "pronunciation": "/ ˌmɑː:həˈrɑː:niː; ˌmɑːhəˈrɑːni/",
+    "accepted_answers": [
+      "（印度的）土邦主之妻",
+      "女土邦主"
     ],
     "added_at": "",
     "review": {
@@ -2452,6 +2500,30 @@
     }
   },
   {
+    "term": "malformed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "畸形的；变形的",
+    "analysis": "adj badly formed or shaped 畸形的; 变形的.",
+    "phonetic": "/ ˌmælˈfɔːmd; mælˈfɔːrmd/",
+    "origin": "待查",
+    "expansions": [
+      "畸形的；变形的"
+    ],
+    "pronunciation": "/ ˌmælˈfɔːmd; mælˈfɔːrmd/",
+    "accepted_answers": [
+      "畸形的",
+      "变形的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "malfunction",
     "type": "word",
     "translation": "故障；失灵；发生故障",
@@ -2693,6 +2765,29 @@
     }
   },
   {
+    "term": "malmsey",
+    "type": "word",
+    "pos": "N",
+    "translation": "（产自希腊、西班牙、马德拉岛等地的）浓烈的甜葡萄酒",
+    "analysis": "n [U] strong sweet wine from Greece, Spain, Madeira, etc （产自希腊、 西班牙、 马德拉岛等地的）浓烈的甜葡萄酒.",
+    "phonetic": "/ ˈmɑː:mzɪ; ˈmɑːmzɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（产自希腊、西班牙、马德拉岛等地的）浓烈的甜葡萄酒"
+    ],
+    "pronunciation": "/ ˈmɑː:mzɪ; ˈmɑːmzɪ/",
+    "accepted_answers": [
+      "（产自希腊、西班牙、马德拉岛等地的）浓烈的甜葡萄酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "malnutrition",
     "type": "word",
     "translation": "营养不良；严重营养不良的儿童",
@@ -2810,6 +2905,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mama",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧；口)；妈妈",
+    "analysis": "n (dated Brit infml 旧, 口) mother 妈妈.",
+    "phonetic": "/ məˈmɑː:; ˈmɑːmə/",
+    "origin": "待查",
+    "expansions": [
+      "旧；口)；妈妈"
+    ],
+    "pronunciation": "/ məˈmɑː:; ˈmɑːmə/",
+    "accepted_answers": [
+      "旧",
+      "口)",
+      "妈妈"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mammal",
@@ -3201,6 +3321,31 @@
       "法定的"
     ],
     "added_at": "2026-03-30T01:12:13.780Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "mandible",
+    "type": "word",
+    "pos": "N",
+    "translation": "解)；（尤指哺乳动物和鱼的）下颌；插图",
+    "analysis": "n (anatomy 解)  1 jaw, esp the lower jaw of mammals and fishes 颌; （尤指哺乳动物和鱼的）下颌. =>illus at skeleton 见skeleton插图.  2 upper or lower part of a bird's beak 鸟喙的上部或下部.  3 (in insects, etc) either half of the upper pair of jaws, used for biting and seizing （昆虫等的）大颚.",
+    "phonetic": "/ ˈmændɪbl; ˈmændəbl/",
+    "origin": "待查",
+    "expansions": [
+      "解)；（尤指哺乳动物和鱼的）下颌；插图"
+    ],
+    "pronunciation": "/ ˈmændɪbl; ˈmændəbl/",
+    "accepted_answers": [
+      "解)",
+      "（尤指哺乳动物和鱼的）下颌",
+      "插图"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -4150,6 +4295,52 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mantilla",
+    "type": "word",
+    "pos": "N",
+    "translation": "有花边的头纱或披肩（尤指西班牙女子用的）",
+    "analysis": "n lace veil or scarf worn (esp by Spanish women) to cover the hair and shoulders 有花边的头纱或披肩（尤指西班牙女子用的）.",
+    "phonetic": "/ mnˈtɪlə; mænˈtɪlə/",
+    "origin": "待查",
+    "expansions": [
+      "有花边的头纱或披肩（尤指西班牙女子用的）"
+    ],
+    "pronunciation": "/ mnˈtɪlə; mænˈtɪlə/",
+    "accepted_answers": [
+      "有花边的头纱或披肩（尤指西班牙女子用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "mantis",
+    "type": "word",
+    "pos": "N",
+    "translation": "螳螂",
+    "analysis": "n (also ,praying `mantis) insect like a grasshopper, which holds its front legs together as if in prayer 螳螂.",
+    "phonetic": "/ ˈmntɪs; ˈmæntɪs/",
+    "origin": "待查",
+    "expansions": [
+      "螳螂"
+    ],
+    "pronunciation": "/ ˈmntɪs; ˈmæntɪs/",
+    "accepted_answers": [
+      "螳螂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mantle",
@@ -5380,6 +5571,30 @@
     }
   },
   {
+    "term": "mars",
+    "type": "word",
+    "pos": "N",
+    "translation": "天)；火星",
+    "analysis": "n (astronomy 天) the planet fourth in order from the sun, next to the Earth 火星.",
+    "phonetic": "/ mɑː:z; mɑːrz/",
+    "origin": "待查",
+    "expansions": [
+      "天)；火星"
+    ],
+    "pronunciation": "/ mɑː:z; mɑːrz/",
+    "accepted_answers": [
+      "天)",
+      "火星"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "marsala",
     "type": "word",
     "pos": "N",
@@ -5498,6 +5713,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "martin",
+    "type": "word",
+    "pos": "N",
+    "translation": "圣马丁鸟（燕科）；参看",
+    "analysis": "n bird of the swallowfamily 圣马丁鸟（燕科）. Cf 参看 house-martin (house1).",
+    "phonetic": "/ ˈmɑː:tɪn; -tn; ˈmɑːrtn/",
+    "origin": "待查",
+    "expansions": [
+      "圣马丁鸟（燕科）；参看"
+    ],
+    "pronunciation": "/ ˈmɑː:tɪn; -tn; ˈmɑːrtn/",
+    "accepted_answers": [
+      "圣马丁鸟（燕科）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
+    "term": "martinet",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作贬义)；严格执行纪律并主张服从命令的人",
+    "analysis": "n (usu derog 通常作贬义) person who imposes strict discipline and demands obedience to orders 严格执行纪律并主张服从命令的人.",
+    "phonetic": "/ ˌmɑː:tɪˈnet; -tnˈet; ˌmɑːrtnˈet/",
+    "origin": "待查",
+    "expansions": [
+      "通常作贬义)；严格执行纪律并主张服从命令的人"
+    ],
+    "pronunciation": "/ ˌmɑː:tɪˈnet; -tnˈet; ˌmɑːrtnˈet/",
+    "accepted_answers": [
+      "通常作贬义)",
+      "严格执行纪律并主张服从命令的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "martini",
@@ -5688,6 +5951,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "marzipan",
+    "type": "word",
+    "pos": "N",
+    "translation": "杏仁蛋白糊（用来做糖果、装饰糕点等）；缩写；参看",
+    "analysis": "n [U] thick paste of ground almonds, sugar, etc used to make sweets, decorate cakes, etc 杏仁蛋白糊（用来做糖果、 装饰糕点等）.\nmasc\nabbr 缩写 = masculine. Cf 参看 fem.",
+    "phonetic": "/ ˈmɑː:zɪpæn,ˌmɑː:zɪˈpæn; ˈmɑːrzəˌpæn/",
+    "origin": "待查",
+    "expansions": [
+      "杏仁蛋白糊（用来做糖果、装饰糕点等）；缩写；参看"
+    ],
+    "pronunciation": "/ ˈmɑː:zɪpæn,ˌmɑː:zɪˈpæn; ˈmɑːrzəˌpæn/",
+    "accepted_answers": [
+      "杏仁蛋白糊（用来做糖果、装饰糕点等）",
+      "缩写",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mascara",
@@ -6234,6 +6522,31 @@
     "dict_source": "data/DICT/M/M-a.txt"
   },
   {
+    "term": "mastitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；乳腺炎；乳房炎",
+    "analysis": "n [U] (medical 医) inflammation, usu with swelling, of the breast or udder 乳腺炎; 乳房炎.",
+    "phonetic": "/ mæˈstaɪtɪs; mæsˈtaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "医)；乳腺炎；乳房炎"
+    ],
+    "pronunciation": "/ mæˈstaɪtɪs; mæsˈtaɪtɪs/",
+    "accepted_answers": [
+      "医)",
+      "乳腺炎",
+      "乳房炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
+  },
+  {
     "term": "mastodon",
     "type": "word",
     "pos": "N",
@@ -6482,6 +6795,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "materialistically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "materialistically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "materialistically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "materialistically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "materialization",
@@ -7488,6 +7824,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mayor",
+    "type": "word",
+    "pos": "N",
+    "translation": "市长",
+    "analysis": "n head of the council of a city or borough, usu elected yearly 市长.",
+    "phonetic": "/ meə(r); ˈmeɪər; ˈmeə/",
+    "origin": "待查",
+    "expansions": [
+      "市长"
+    ],
+    "pronunciation": "/ meə(r); ˈmeɪər; ˈmeə/",
+    "accepted_answers": [
+      "市长"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-a.txt"
   },
   {
     "term": "mayoral",
@@ -8751,6 +9110,29 @@
     }
   },
   {
+    "term": "medicare",
+    "type": "word",
+    "pos": "N",
+    "translation": "（美国的）医疗保障方案（尤为老人而设者）",
+    "analysis": "n [U] US governmentscheme providing medical care, esp for old people （美国的）医疗保障方案（尤为老人而设者）.",
+    "phonetic": "/ ˈmedɪkeə(r); ˈmedɪˌker/",
+    "origin": "待查",
+    "expansions": [
+      "（美国的）医疗保障方案（尤为老人而设者）"
+    ],
+    "pronunciation": "/ ˈmedɪkeə(r); ˈmedɪˌker/",
+    "accepted_answers": [
+      "（美国的）医疗保障方案（尤为老人而设者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "medicated",
     "type": "word",
     "translation": "含药物的；药制的；药制洗发剂、药皂、药制纱布",
@@ -9203,6 +9585,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "megaphone",
+    "type": "word",
+    "pos": "N",
+    "translation": "扩音器；传声筒；喇叭筒",
+    "analysis": "n funnel-shaped device for speaking through, that allows the voice to be heard at a distance 扩音器; 传声筒; 喇叭筒.",
+    "phonetic": "/ ˈmegəfəʊn; ˈmegəˌfon/",
+    "origin": "待查",
+    "expansions": [
+      "扩音器；传声筒；喇叭筒"
+    ],
+    "pronunciation": "/ ˈmegəfəʊn; ˈmegəˌfon/",
+    "accepted_answers": [
+      "扩音器",
+      "传声筒",
+      "喇叭筒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "megaton",
@@ -10014,6 +10421,29 @@
     }
   },
   {
+    "term": "meningitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "脑脊膜炎",
+    "analysis": "n [U] inflammation of the membranes enclosing the brain and spinal cord 脑脊膜炎.",
+    "phonetic": "/ ˌmenɪnˈdʒaɪtɪs; ˌmenɪnˈdʒaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "脑脊膜炎"
+    ],
+    "pronunciation": "/ ˌmenɪnˈdʒaɪtɪs; ˌmenɪnˈdʒaɪtɪs/",
+    "accepted_answers": [
+      "脑脊膜炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "menopausal",
     "type": "word",
     "pos": "Adj",
@@ -10785,6 +11215,29 @@
     "origin": "待查"
   },
   {
+    "term": "merlin",
+    "type": "word",
+    "pos": "N",
+    "translation": "灰背隼",
+    "analysis": "n type of small falcon 灰背隼.",
+    "phonetic": "/ ˈmɜːlɪn; ˈmɜːlɪn/",
+    "origin": "待查",
+    "expansions": [
+      "灰背隼"
+    ],
+    "pronunciation": "/ ˈmɜːlɪn; ˈmɜːlɪn/",
+    "accepted_answers": [
+      "灰背隼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "merman",
     "type": "word",
     "pos": "N",
@@ -10905,6 +11358,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mesmerism",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)；催眠；催眠术",
+    "analysis": "n [U] (dated 旧) hypnotism 催眠; 催眠术.",
+    "phonetic": "/ ˈmezmərɪzəm; ˈmezməˌrɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；催眠；催眠术"
+    ],
+    "pronunciation": "/ ˈmezmərɪzəm; ˈmezməˌrɪzəm/",
+    "accepted_answers": [
+      "旧)",
+      "催眠",
+      "催眠术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "mesmerist",
@@ -11466,6 +11944,29 @@
     }
   },
   {
+    "term": "meteorologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "气象学家",
+    "analysis": "n expert in meteorology 气象学家.",
+    "phonetic": "/ ˌmiːtɪəˈrɒlədʒɪst; ˌmitɪəˈrɔːlədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "气象学家"
+    ],
+    "pronunciation": "/ ˌmiːtɪəˈrɒlədʒɪst; ˌmitɪəˈrɔːlədʒɪst/",
+    "accepted_answers": [
+      "气象学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
+  },
+  {
     "term": "meteorology",
     "type": "word",
     "pos": "N",
@@ -11563,6 +12064,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "methodically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "methodically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "methodically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "methodically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-b,c,d,e.txt"
   },
   {
     "term": "methodologically",
@@ -12120,6 +12644,55 @@
     "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
+    "term": "microbe",
+    "type": "word",
+    "pos": "N",
+    "translation": "微生物；（尤指）病菌；酵母菌；参看",
+    "analysis": "n tiny organism that can only be seen under a microscope, esp one that causes disease or fermentation 微生物; （尤指）病菌, 酵母菌. Cf 参看 virus.",
+    "phonetic": "/ ˈmaɪkrəʊb; ˈmaɪkrob/",
+    "origin": "待查",
+    "expansions": [
+      "微生物；（尤指）病菌；酵母菌；参看"
+    ],
+    "pronunciation": "/ ˈmaɪkrəʊb; ˈmaɪkrob/",
+    "accepted_answers": [
+      "微生物",
+      "（尤指）病菌",
+      "酵母菌",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
+    "term": "microbiologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "微生物学家",
+    "analysis": "n expert in microbiology 微生物学家.",
+    "phonetic": "/ -lədʒɪst; -lədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "微生物学家"
+    ],
+    "pronunciation": "/ -lədʒɪst; -lədʒɪst/",
+    "accepted_answers": [
+      "微生物学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "microcosm",
     "type": "word",
     "translation": ")小天地；小宇宙；微观世界",
@@ -12257,6 +12830,30 @@
       "麦克风"
     ],
     "added_at": "2026-03-30T02:28:22.701Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
+    "term": "microprocessor",
+    "type": "word",
+    "pos": "N",
+    "translation": "计)；微处理机",
+    "analysis": "n (computing 计) central data processing unit of a computer, contained on one or more microchips 微处理机.",
+    "phonetic": "/ ˈmaɪkrəʊprəʊsesə(r); ˈmaɪkroˈpro-sesə/",
+    "origin": "待查",
+    "expansions": [
+      "计)；微处理机"
+    ],
+    "pronunciation": "/ ˈmaɪkrəʊprəʊsesə(r); ˈmaɪkroˈpro-sesə/",
+    "accepted_answers": [
+      "计)",
+      "微处理机"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -12926,6 +13523,29 @@
     }
   },
   {
+    "term": "migraine",
+    "type": "word",
+    "pos": "N",
+    "translation": "偏头痛",
+    "analysis": "n [U, C] severe recurring type of headache, usu on one side of the head or face, often accompanied by nausea and disturbance of the eyesight 偏头痛.",
+    "phonetic": "/ ˈmiːgreɪn; ˈmaɪgreɪn; ˈmaɪgren/",
+    "origin": "待查",
+    "expansions": [
+      "偏头痛"
+    ],
+    "pronunciation": "/ ˈmiːgreɪn; ˈmaɪgreɪn; ˈmaɪgren/",
+    "accepted_answers": [
+      "偏头痛"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "migrant",
     "type": "word",
     "translation": "迁徙的人或动物；迁徙的；移居的",
@@ -13217,6 +13837,31 @@
     }
   },
   {
+    "term": "militancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "好斗的人；（尤指工会主义或政治上的）好斗分子；激进分子",
+    "analysis": "n [U].\nmilitant \nn militant person, esp in trade unionism or politics 好斗的人; （尤指工会主义或政治上的）好斗分子, 激进分子.",
+    "phonetic": "/ -ənsɪ; -ənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "好斗的人；（尤指工会主义或政治上的）好斗分子；激进分子"
+    ],
+    "pronunciation": "/ -ənsɪ; -ənsɪ/",
+    "accepted_answers": [
+      "好斗的人",
+      "（尤指工会主义或政治上的）好斗分子",
+      "激进分子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "militant",
     "type": "word",
     "translation": "用武力或高压的；好战的；罢工者群情激奋（随时准备采取激烈行动）",
@@ -13277,6 +13922,29 @@
     "accepted_answers": [
       "穷兵黩武者",
       "军国主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
+    "term": "militaristic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "militaristic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌmɪlɪtəˈrɪstɪk; ˌmɪlətəˈrɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "militaristic"
+    ],
+    "pronunciation": "/ ˌmɪlɪtəˈrɪstɪk; ˌmɪlətəˈrɪstɪk/",
+    "accepted_answers": [
+      "militaristic"
     ],
     "added_at": "",
     "review": {
@@ -13461,6 +14129,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "millboard",
+    "type": "word",
+    "pos": "N",
+    "translation": "装订书籍用的厚纸板",
+    "analysis": "n [C, U] (piece of) strong pasteboard used in bookbinding 装订书籍用的厚纸板.",
+    "phonetic": "/ ˈmɪlbɔːd; ˈmɪlˌbɔːrd/",
+    "origin": "待查",
+    "expansions": [
+      "装订书籍用的厚纸板"
+    ],
+    "pronunciation": "/ ˈmɪlbɔːd; ˈmɪlˌbɔːrd/",
+    "accepted_answers": [
+      "装订书籍用的厚纸板"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "millennium",
@@ -13655,6 +14346,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mimeograph",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)；油印机；用油印机印刷（某物）",
+    "analysis": "n (dated 旧) apparatus for making copies of written or typed material from a stencil 油印机.\nmimeograph \nv [Tn] copy (sth) with a mimeograph 用油印机印刷（某物）",
+    "phonetic": "/ ˈmɪmɪəgrɑː:f; -græf; ˈmɪmɪəˌgræf/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；油印机；用油印机印刷（某物）"
+    ],
+    "pronunciation": "/ ˈmɪmɪəgrɑː:f; -græf; ˈmɪmɪəˌgræf/",
+    "accepted_answers": [
+      "旧)",
+      "油印机",
+      "用油印机印刷（某物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "mimetic",
@@ -14001,6 +14717,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mineralogist",
+    "type": "word",
+    "pos": "N",
+    "translation": "矿物学研究者；矿物学家",
+    "analysis": "n student of or expert in mineralogy 矿物学研究者; 矿物学家.",
+    "phonetic": "/ ˌmɪnəˈærlədʒɪst; ˌmɪnəˈælədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "矿物学研究者；矿物学家"
+    ],
+    "pronunciation": "/ ˌmɪnəˈærlədʒɪst; ˌmɪnəˈælədʒɪst/",
+    "accepted_answers": [
+      "矿物学研究者",
+      "矿物学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "mingle",
@@ -14400,6 +15140,30 @@
     "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
+    "term": "minnow",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数或不变或作；米诺鱼（鲤科淡水小鱼的总称）",
+    "analysis": "n (pl unchanged or ~s 复数或不变或作 minnows) any of several types of very small freshwater fish of the carp family 米诺鱼（鲤科淡水小鱼的总称）.",
+    "phonetic": "/ ˈmɪnəʊ; ˈmɪno/",
+    "origin": "待查",
+    "expansions": [
+      "复数或不变或作；米诺鱼（鲤科淡水小鱼的总称）"
+    ],
+    "pronunciation": "/ ˈmɪnəʊ; ˈmɪno/",
+    "accepted_answers": [
+      "复数或不变或作",
+      "米诺鱼（鲤科淡水小鱼的总称）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "minor",
     "type": "word",
     "translation": "较小的；程度轻的；次要的",
@@ -14673,6 +15437,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "mirage",
+    "type": "word",
+    "pos": "N",
+    "translation": "海市蜃楼；比喻)；不能实现的希望",
+    "analysis": "n  1 optical illusion caused by hot air conditions, esp that of a sheet of water seeming to appear in the desert or on a hot road 海市蜃楼.  2 (fig 比喻) any illusion or hope that cannot be fulfilled 不能实现的希望; 幻想; 妄想.",
+    "phonetic": "/ ˈmɪrɑː:ʒ,mɪˈrɑː:ʒ; məˈrɑːʒ/",
+    "origin": "待查",
+    "expansions": [
+      "海市蜃楼；比喻)；不能实现的希望"
+    ],
+    "pronunciation": "/ ˈmɪrɑː:ʒ,mɪˈrɑː:ʒ; məˈrɑːʒ/",
+    "accepted_answers": [
+      "海市蜃楼",
+      "比喻)",
+      "不能实现的希望"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
   },
   {
     "term": "mire",
@@ -16607,6 +17396,29 @@
     }
   },
   {
+    "term": "mistral",
+    "type": "word",
+    "pos": "N",
+    "translation": "密史脱拉风（冬季法国南部的一种乾冷而强劲的北风或西北风）",
+    "analysis": "n the mistral [sing] strong cold dry N or NW wind that blows in S France, usu in winter 密史脱拉风（冬季法国南部的一种乾冷而强劲的北风或西北风）.",
+    "phonetic": "/ ˈmɪstrəl,mɪˈstrɑː:l; ˈmɪstrəl,mɪsˈtrɑːl/",
+    "origin": "待查",
+    "expansions": [
+      "密史脱拉风（冬季法国南部的一种乾冷而强劲的北风或西北风）"
+    ],
+    "pronunciation": "/ ˈmɪstrəl,mɪˈstrɑː:l; ˈmɪstrəl,mɪsˈtrɑːl/",
+    "accepted_answers": [
+      "密史脱拉风（冬季法国南部的一种乾冷而强劲的北风或西北风）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-f,g,h,i.txt"
+  },
+  {
     "term": "mistranslation",
     "type": "word",
     "pos": "N",
@@ -17927,6 +18739,31 @@
     }
   },
   {
+    "term": "modish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "有时作贬义)；流行的；时髦的",
+    "analysis": "adj (sometimes derog 有时作贬义) fashionable 流行的; 时髦的.\nmodishly \nadv.",
+    "phonetic": "/ ˈməʊdɪʃ; ˈmodɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "有时作贬义)；流行的；时髦的"
+    ],
+    "pronunciation": "/ ˈməʊdɪʃ; ˈmodɪʃ/",
+    "accepted_answers": [
+      "有时作贬义)",
+      "流行的",
+      "时髦的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "modular",
     "type": "word",
     "translation": "以标准化的部件或单元为基础设计或建造的；标准化的；组件化的",
@@ -19211,6 +20048,29 @@
     "origin": "待查"
   },
   {
+    "term": "monopolization",
+    "type": "word",
+    "pos": "N",
+    "translation": "monopolization",
+    "analysis": "n [U].",
+    "phonetic": "/ məˌnɒpəlaɪˈzeɪʃn; US-lɪˈz-; məˌnɑːpləˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "monopolization"
+    ],
+    "pronunciation": "/ məˌnɒpəlaɪˈzeɪʃn; US-lɪˈz-; məˌnɑːpləˈzeʃən/",
+    "accepted_answers": [
+      "monopolization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "monopolize",
     "type": "word",
     "translation": "独占（某事物）的绝大部分；垄断；垄断谈话",
@@ -19974,6 +20834,31 @@
     }
   },
   {
+    "term": "moralist",
+    "type": "word",
+    "pos": "N",
+    "translation": "常作贬义)；道德说教者；卫道士",
+    "analysis": "n (often derog 常作贬义) person who expresses or teaches moral principles, esp one who tells people how they should behave 道德说教者; 卫道士.",
+    "phonetic": "/ ˈmɒrəlɪst; ˈmɔːr-; ˈmɔːrəlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "常作贬义)；道德说教者；卫道士"
+    ],
+    "pronunciation": "/ ˈmɒrəlɪst; ˈmɔːr-; ˈmɔːrəlɪst/",
+    "accepted_answers": [
+      "常作贬义)",
+      "道德说教者",
+      "卫道士"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "moralistic",
     "type": "word",
     "translation": "通常作贬义)；是非观念狭隘的；道德说教的",
@@ -20261,6 +21146,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "morn",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作单数)(；古)(；（尤用於诗中）早晨",
+    "analysis": "n (usu sing 通常作单数) (arch 古) (esp in poetry) morning （尤用於诗中）早晨.",
+    "phonetic": "/ mɔːn; mɔːrn/",
+    "origin": "待查",
+    "expansions": [
+      "通常作单数)(；古)(；（尤用於诗中）早晨"
+    ],
+    "pronunciation": "/ mɔːn; mɔːrn/",
+    "accepted_answers": [
+      "通常作单数)(",
+      "古)(",
+      "（尤用於诗中）早晨"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
   },
   {
     "term": "morning",
@@ -22433,6 +23343,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "muhammadan",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "伊斯兰教信徒（的）；回教徒（的）",
+    "analysis": "adj, n (of or being a) Muslim 伊斯兰教信徒（的）; 回教徒（的）.",
+    "phonetic": "/ -ən; -ən/",
+    "origin": "待查",
+    "expansions": [
+      "伊斯兰教信徒（的）；回教徒（的）"
+    ],
+    "pronunciation": "/ -ən; -ən/",
+    "accepted_answers": [
+      "伊斯兰教信徒（的）",
+      "回教徒（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "mulberry",

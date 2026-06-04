@@ -971,6 +971,31 @@
     }
   },
   {
+    "term": "walrus",
+    "type": "word",
+    "pos": "N",
+    "translation": "海象；口)；（嘴角两侧的）粗长胡子",
+    "analysis": "n large sea-animal living in the Arctic regions, similar to a seal but having two long tusks 海象.\nwalrus moustache \n(infml 口) long thick moustache that hangs down on each side of the mouth （嘴角两侧的）粗长胡子.",
+    "phonetic": "/ ˈwɔːlrəs; ˈwɔːlrəs/",
+    "origin": "待查",
+    "expansions": [
+      "海象；口)；（嘴角两侧的）粗长胡子"
+    ],
+    "pronunciation": "/ ˈwɔːlrəs; ˈwɔːlrəs/",
+    "accepted_answers": [
+      "海象",
+      "口)",
+      "（嘴角两侧的）粗长胡子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "waltz",
     "type": "word",
     "translation": "华尔兹舞；华尔兹舞曲；（使某人）跳华尔兹舞",
@@ -1401,6 +1426,30 @@
     }
   },
   {
+    "term": "wardroom",
+    "type": "word",
+    "pos": "N",
+    "translation": "（军舰上除舰长以外的军官的）起居室和餐厅；食堂",
+    "analysis": "n place in a warship where all the commissioned officers except the commanding officer live and eat; mess-room （军舰上除舰长以外的军官的）起居室和餐厅, 食堂.",
+    "phonetic": "/ ˈwɔːdrUm,-ruːm; ˈwɔːrdˌrJm,-ˌrum/",
+    "origin": "待查",
+    "expansions": [
+      "（军舰上除舰长以外的军官的）起居室和餐厅；食堂"
+    ],
+    "pronunciation": "/ ˈwɔːdrUm,-ruːm; ˈwɔːrdˌrJm,-ˌrum/",
+    "accepted_answers": [
+      "（军舰上除舰长以外的军官的）起居室和餐厅",
+      "食堂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "ware",
     "type": "word",
     "translation": "尤用以构成复合词)(；)（某类）制造品；铁器",
@@ -1827,6 +1876,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "washer",
+    "type": "word",
+    "pos": "N",
+    "translation": "垫圈（橡胶、金属、塑料等的小扁环；垫在被连接件如螺母下使之更紧、防漏等）；插图；口)",
+    "analysis": "n  1 small flat ring made of rubber, metal, plastic, etc placed between two surfaces (eg under a nut) to make a screw or joint tight, prevent leakage, etc 垫圈（橡胶、 金属、 塑料等的小扁环, 垫在被连接件如螺母下使之更紧、 防漏等）. =>illus at bolt 见 bolt 插图.  2 (infml 口) automatic machine for washing clothes 洗衣机.",
+    "phonetic": "/ ˈwɒʃə(r); ˈwɔː-; ˈwɔːʃə/",
+    "origin": "待查",
+    "expansions": [
+      "垫圈（橡胶、金属、塑料等的小扁环；垫在被连接件如螺母下使之更紧、防漏等）；插图；口)"
+    ],
+    "pronunciation": "/ ˈwɒʃə(r); ˈwɔː-; ˈwɔːʃə/",
+    "accepted_answers": [
+      "垫圈（橡胶、金属、塑料等的小扁环",
+      "垫在被连接件如螺母下使之更紧、防漏等）",
+      "插图",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
   },
   {
     "term": "washing",
@@ -2588,6 +2663,29 @@
     "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
+    "term": "we've",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式 we have => have.",
+    "phonetic": "/ wiːv; wiv/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ wiːv; wiv/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "weak",
     "type": "word",
     "translation": "弱的；无气力的；无势力的",
@@ -3222,6 +3320,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "weeds",
+    "type": "word",
+    "pos": "N",
+    "translation": "（黑色的）丧服（尤指寡妇穿的）",
+    "analysis": "n [pl] black clothes worn (esp by a widow) to show that one is mourning sb who has died （黑色的）丧服（尤指寡妇穿的）.",
+    "phonetic": "/ wiːdz; widz/",
+    "origin": "待查",
+    "expansions": [
+      "（黑色的）丧服（尤指寡妇穿的）"
+    ],
+    "pronunciation": "/ wiːdz; widz/",
+    "accepted_answers": [
+      "（黑色的）丧服（尤指寡妇穿的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "week",
@@ -4892,6 +5013,32 @@
     }
   },
   {
+    "term": "whipper-snapper",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧；口；贬)；厚颜无耻的或妄自尊大的年轻人",
+    "analysis": "n (dated infml derog 旧, 口, 贬) young and unimportant person who behaves in a cheeky or over-confident way 厚颜无耻的或妄自尊大的年轻人.",
+    "phonetic": "/ ˈwɪpəsnpə(r); ˈhwɪ-; ˈhwɪpəˌsnæpə/",
+    "origin": "待查",
+    "expansions": [
+      "旧；口；贬)；厚颜无耻的或妄自尊大的年轻人"
+    ],
+    "pronunciation": "/ ˈwɪpəsnpə(r); ˈhwɪ-; ˈhwɪpəˌsnæpə/",
+    "accepted_answers": [
+      "旧",
+      "口",
+      "贬)",
+      "厚颜无耻的或妄自尊大的年轻人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
     "term": "whirl",
     "type": "word",
     "translation": "（使某人；某物；）旋转；打转；回旋",
@@ -5046,6 +5193,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "whist",
+    "type": "word",
+    "pos": "N",
+    "translation": "惠斯特（纸牌游戏；由两对游戏者参加；类似桥牌）；惠斯特组合赛（由几对参赛者在各桌进行；某些参赛者一局後换至下一桌）",
+    "analysis": "n [U] card-game for two pairs of players, similar to bridge2 惠斯特（纸牌游戏, 由两对游戏者参加, 类似桥牌）.\nwhist drive \nseries of games of whist played by several sets of partners at different tables, with certain players moving after each round to the next table 惠斯特组合赛（由几对参赛者在各桌进行, 某些参赛者一局後换至下一桌）.",
+    "phonetic": "/ wɪst; hwɪst; hwɪst/",
+    "origin": "待查",
+    "expansions": [
+      "惠斯特（纸牌游戏；由两对游戏者参加；类似桥牌）；惠斯特组合赛（由几对参赛者在各桌进行；某些参赛者一局後换至下一桌）"
+    ],
+    "pronunciation": "/ wɪst; hwɪst; hwɪst/",
+    "accepted_answers": [
+      "惠斯特（纸牌游戏",
+      "由两对游戏者参加",
+      "类似桥牌）",
+      "惠斯特组合赛（由几对参赛者在各桌进行",
+      "某些参赛者一局後换至下一桌）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
   },
   {
     "term": "whistle",
@@ -5687,6 +5861,31 @@
       "旧或贬)(",
       "妓女",
       "男妓"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
+    "term": "whorl",
+    "type": "word",
+    "pos": "N",
+    "translation": "（一圈）螺纹；（指纹的）涡；轮生体（环生於植物茎部的叶、花瓣等）",
+    "analysis": "n  1 one turn of a spiral （一圈）螺纹.  2 complete circle formed by the ridges of a fingerprint （指纹的）涡.  3 ring of leaves, petals, etc round the stem of a plant 轮生体（环生於植物茎部的叶、 花瓣等）.",
+    "phonetic": "/ wɜːl; hw-; hwɜːl/",
+    "origin": "待查",
+    "expansions": [
+      "（一圈）螺纹；（指纹的）涡；轮生体（环生於植物茎部的叶、花瓣等）"
+    ],
+    "pronunciation": "/ wɜːl; hw-; hwɜːl/",
+    "accepted_answers": [
+      "（一圈）螺纹",
+      "（指纹的）涡",
+      "轮生体（环生於植物茎部的叶、花瓣等）"
     ],
     "added_at": "",
     "review": {
@@ -7318,6 +7517,31 @@
     }
   },
   {
+    "term": "witch",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（尤指旧时）女巫（在童话中常描述成身著黑色斗篷和尖帽乘扫帚飞行者）；女魔法师",
+    "analysis": "n (a) (esp formerly) woman thought to have evil magic powers (often portrayed in fairy stories wearing a black cloak and pointed hat and flying on a broomstick); sorceress （尤指旧时）女巫（在童话中常描述成身著黑色斗篷和尖帽乘扫帚飞行者）; 女魔法师. (b) (fig 比喻) fascinating or bewitching woman 迷人的女子. (c) (derog 贬) ugly old woman; hag 丑老太婆.",
+    "phonetic": "/ wɪtʃ; wɪtʃ/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（尤指旧时）女巫（在童话中常描述成身著黑色斗篷和尖帽乘扫帚飞行者）；女魔法师"
+    ],
+    "pronunciation": "/ wɪtʃ; wɪtʃ/",
+    "accepted_answers": [
+      ")(",
+      "（尤指旧时）女巫（在童话中常描述成身著黑色斗篷和尖帽乘扫帚飞行者）",
+      "女魔法师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
+  },
+  {
     "term": "witchery",
     "type": "word",
     "translation": "文)；巫术；魔法",
@@ -7469,6 +7693,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "withers",
+    "type": "word",
+    "pos": "N",
+    "translation": "马肩隆（马的两肩骨间的隆起部分）；插图",
+    "analysis": "n [pl] highest part of the back of a horse, between the shoulder-blades 马肩隆（马的两肩骨间的隆起部分）. =>illus at horse 见 horse 插图.",
+    "phonetic": "/ ˈwɪTəz; ˈwɪTəz/",
+    "origin": "待查",
+    "expansions": [
+      "马肩隆（马的两肩骨间的隆起部分）；插图"
+    ],
+    "pronunciation": "/ ˈwɪTəz; ˈwɪTəz/",
+    "accepted_answers": [
+      "马肩隆（马的两肩骨间的隆起部分）",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
   },
   {
     "term": "withhold",
@@ -8096,6 +8344,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wonderland",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作单数)；有许多奇妙事物的地方",
+    "analysis": "n (usu sing 通常作单数) land or place full of marvels or wonderful things 有许多奇妙事物的地方.",
+    "phonetic": "/ -lænd; -ˌlænd/",
+    "origin": "待查",
+    "expansions": [
+      "通常作单数)；有许多奇妙事物的地方"
+    ],
+    "pronunciation": "/ -lænd; -ˌlænd/",
+    "accepted_answers": [
+      "通常作单数)",
+      "有许多奇妙事物的地方"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-j,k,l,,m,n,o.txt"
   },
   {
     "term": "wondrous",
@@ -9320,6 +9592,29 @@
     }
   },
   {
+    "term": "wrathful",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "wrathful",
+    "analysis": "adj.",
+    "phonetic": "/ -fl; -fəl/",
+    "origin": "待查",
+    "expansions": [
+      "wrathful"
+    ],
+    "pronunciation": "/ -fl; -fəl/",
+    "accepted_answers": [
+      "wrathful"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "wrathfully",
     "type": "word",
     "pos": "Adv",
@@ -9739,6 +10034,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wristlet",
+    "type": "word",
+    "pos": "N",
+    "translation": "护腕；手镯",
+    "analysis": "n band or bracelet worn round the wrist to strengthen or protect it or as an ornament 护腕; 手镯.",
+    "phonetic": "/ ˈrɪstlɪt; ˈrɪstlɪt/",
+    "origin": "待查",
+    "expansions": [
+      "护腕；手镯"
+    ],
+    "pronunciation": "/ ˈrɪstlɪt; ˈrɪstlɪt/",
+    "accepted_answers": [
+      "护腕",
+      "手镯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "writ",

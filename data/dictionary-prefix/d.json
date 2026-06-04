@@ -52812,7 +52812,21 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "排出；流干；耗尽；使精疲力竭",
+        "analysis": "把液体排走或让液体流走；抽象用法中表示耗尽精力、资金、时间或资源。"
+      },
+      {
+        "pos": "N",
+        "translation": "排水管；下水道；流失；消耗",
+        "analysis": "可指具体的排水管或下水道，也可指持续消耗某种资源的负担。"
+      }
+    ],
+    "origin": "待查"
   },
   {
     "term": "drainage",

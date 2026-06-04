@@ -117,6 +117,32 @@
     }
   },
   {
+    "term": "a posteriori",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "（用推理方法）由已知事实推测出原因（如说；孩子们很疲倦；那么他们一定走了很长的路；参看",
+    "analysis": "(using reasoning that proceeds) from known facts to probable causes, eg saying `The boys are very tired so they must have walked a long way.' （用推理方法）由已知事实推测出原因（如说‘孩子们很疲倦, 那么他们一定走了很长的路.’） Cf 参看 a priori.",
+    "phonetic": "/ ˌeɪˌpɒsterɪˈɔːraɪ; ˈepɑːsˌterɪˈɔːraɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（用推理方法）由已知事实推测出原因（如说；孩子们很疲倦；那么他们一定走了很长的路；参看"
+    ],
+    "pronunciation": "/ ˌeɪˌpɒsterɪˈɔːraɪ; ˈepɑːsˌterɪˈɔːraɪ/",
+    "accepted_answers": [
+      "（用推理方法）由已知事实推测出原因（如说",
+      "孩子们很疲倦",
+      "那么他们一定走了很长的路",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-b.txt"
+  },
+  {
     "term": "a priori",
     "type": "word",
     "translation": "（用推理方法）由已知原因推测出结果（如说；他们走了一整天；那么他们一定饿了；参看",
@@ -1178,6 +1204,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ablaut",
+    "type": "word",
+    "pos": "N",
+    "translation": "语言)；)元音交替（尤指在印欧语系中；一个词的相关形式中有规律的变化；如",
+    "analysis": "n [U] (linguistics 语言) systematic way in which vowels change in related forms of a word, esp in Indo-European languages (eg drive, drove, driven) 元音交替（尤指在印欧语系中, 一个词的相关形式中有规律的变化, 如 drive, drove, driven）.",
+    "phonetic": "/ ˈæblaUt; ˈæblaJt/",
+    "origin": "待查",
+    "expansions": [
+      "语言)；)元音交替（尤指在印欧语系中；一个词的相关形式中有规律的变化；如"
+    ],
+    "pronunciation": "/ ˈæblaUt; ˈæblaJt/",
+    "accepted_answers": [
+      "语言)",
+      ")元音交替（尤指在印欧语系中",
+      "一个词的相关形式中有规律的变化",
+      "如"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-b.txt"
   },
   {
     "term": "ablaze",
@@ -2629,6 +2681,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ac",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；参看",
+    "analysis": "abbr 缩写 = alternating current. Cf 参看 DC3.",
+    "phonetic": "/ ˌeɪˈsiː; ˌeˈsi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；参看"
+    ],
+    "pronunciation": "/ ˌeɪˈsiː; ˌeˈsi/",
+    "accepted_answers": [
+      "缩写",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-c.txt"
   },
   {
     "term": "academic",
@@ -4537,6 +4613,29 @@
     }
   },
   {
+    "term": "acquiescence",
+    "type": "word",
+    "pos": "N",
+    "translation": "acquiescence",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌækwɪˈesns; ˌækwɪˈesns/",
+    "origin": "待查",
+    "expansions": [
+      "acquiescence"
+    ],
+    "pronunciation": "/ ˌækwɪˈesns; ˌækwɪˈesns/",
+    "accepted_answers": [
+      "acquiescence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-c.txt"
+  },
+  {
     "term": "acquiescent",
     "type": "word",
     "translation": "默认的；顺从的；和顺的性情",
@@ -5297,6 +5396,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "acupuncture",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；针刺疗法；针刺",
+    "analysis": "n [U] (medical 医) method of pricking the tissues of the human body with fine needles in order to cure disease, to relieve pain or as a local anaesthetic 针刺疗法; 针刺.\nacupuncturist \nn expert in acupuncture 针疗医师.",
+    "phonetic": "/ ˈækjUpʌŋktʃə(r); ˈækjJˌpʌŋktʃə/",
+    "origin": "待查",
+    "expansions": [
+      "医)；针刺疗法；针刺"
+    ],
+    "pronunciation": "/ ˈækjUpʌŋktʃə(r); ˈækjJˌpʌŋktʃə/",
+    "accepted_answers": [
+      "医)",
+      "针刺疗法",
+      "针刺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-c.txt"
   },
   {
     "term": "acute",
@@ -6326,6 +6450,30 @@
     }
   },
   {
+    "term": "adjudication",
+    "type": "word",
+    "pos": "N",
+    "translation": "裁判；评判员（尤指竞赛中者）",
+    "analysis": "n [U].\nadjudicator \nn judge, esp in a competition 裁判, 评判员（尤指竞赛中者）.",
+    "phonetic": "/ əˌdʒuːdɪˈkeɪʃn; əˌdʒudɪˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "裁判；评判员（尤指竞赛中者）"
+    ],
+    "pronunciation": "/ əˌdʒuːdɪˈkeɪʃn; əˌdʒudɪˈkeʃən/",
+    "accepted_answers": [
+      "裁判",
+      "评判员（尤指竞赛中者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-d.txt"
+  },
+  {
     "term": "adjure",
     "type": "word",
     "translation": "文)；恳切地或郑重地命令或要求（某人）；我要求你对本庭说实话",
@@ -6643,6 +6791,29 @@
       "他们称赞我们的花园"
     ],
     "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-d.txt"
+  },
+  {
+    "term": "admissibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "admissibility",
+    "analysis": "n [U].",
+    "phonetic": "/ ədˌmɪsəˈbɪlətɪ; ədˌmɪsəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "admissibility"
+    ],
+    "pronunciation": "/ ədˌmɪsəˈbɪlətɪ; ədˌmɪsəˈbɪlətɪ/",
+    "accepted_answers": [
+      "admissibility"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7211,6 +7382,32 @@
     }
   },
   {
+    "term": "adumbrate",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；略微地或概括地暗示（某事物）；预示；预告（尤指即将发生的事）",
+    "analysis": "v [Tn] (fml 文)  1 indicate (sth) faintly or in outline 略微地或概括地暗示（某事物）.  2 suggest (esp a coming event) in advance; foreshadow 预示, 预告（尤指即将发生的事）;预兆.",
+    "phonetic": "/ ˈædʌmbreɪt; ædˈʌmbret/",
+    "origin": "待查",
+    "expansions": [
+      "文)；略微地或概括地暗示（某事物）；预示；预告（尤指即将发生的事）"
+    ],
+    "pronunciation": "/ ˈædʌmbreɪt; ædˈʌmbret/",
+    "accepted_answers": [
+      "文)",
+      "略微地或概括地暗示（某事物）",
+      "预示",
+      "预告（尤指即将发生的事）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-d.txt"
+  },
+  {
     "term": "adumbration",
     "type": "word",
     "pos": "N",
@@ -7327,6 +7524,30 @@
       "获得超越对手的优势"
     ],
     "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-d.txt"
+  },
+  {
+    "term": "advantageous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "有利的；有益的",
+    "analysis": "adj ~ (to sb) profitable; beneficial 有利的; 有益的.\nadvantageously \nadv.",
+    "phonetic": "/ ˌdvənˈteɪdʒəs; ˌædvənˈtedʒəs/",
+    "origin": "待查",
+    "expansions": [
+      "有利的；有益的"
+    ],
+    "pronunciation": "/ ˌdvənˈteɪdʒəs; ˌædvənˈtedʒəs/",
+    "accepted_answers": [
+      "有利的",
+      "有益的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7581,6 +7802,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "advert",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (Brit infml 口) = advertisement 2 (advertise) .",
+    "phonetic": "/ ˈædvɜːt; ædˈvɜːt/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ˈædvɜːt; ædˈvɜːt/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-d.txt"
   },
   {
     "term": "advertise",
@@ -9049,6 +9293,31 @@
     }
   },
   {
+    "term": "african",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "非洲的；非洲人的；非洲语言的",
+    "analysis": "adj of Africa or its people or languages 非洲的; 非洲人的; 非洲语言的.\nAfrican \nn native of Africa, esp a dark-skinned person 非洲土人（尤指黑皮肤的人）.\nAfrican violet \nE African plant with purple, pink or white flowers, usu grown indoors 非洲紫罗兰.",
+    "phonetic": "/ ˈæfrɪkən; ˈæfrɪkən/",
+    "origin": "待查",
+    "expansions": [
+      "非洲的；非洲人的；非洲语言的"
+    ],
+    "pronunciation": "/ ˈæfrɪkən; ˈæfrɪkən/",
+    "accepted_answers": [
+      "非洲的",
+      "非洲人的",
+      "非洲语言的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-f.txt"
+  },
+  {
     "term": "afro",
     "type": "word",
     "translation": "（指发型；像某些黑人的头发；鬈曲；浓密而长的）非洲式的；之插图；构词成分",
@@ -9451,6 +9720,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "agglutination",
+    "type": "word",
+    "pos": "N",
+    "translation": "agglutination",
+    "analysis": "n [U].",
+    "phonetic": "/ əˌgluːtɪˈneɪʃn; -təˈn-; əˌglutnˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "agglutination"
+    ],
+    "pronunciation": "/ əˌgluːtɪˈneɪʃn; -təˈn-; əˌglutnˈeʃən/",
+    "accepted_answers": [
+      "agglutination"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-g.txt"
   },
   {
     "term": "agglutinative",
@@ -9894,6 +10186,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "agnostic",
+    "type": "word",
+    "pos": "N",
+    "translation": "不可知论者（对於上帝或除物质以外的任何事物是否存在；认为不可能知道的人）；不可知论的",
+    "analysis": "n person who believes that nothing can be known about the existence of God or of anything except material things 不可知论者（对於上帝或除物质以外的任何事物是否存在, 认为不可能知道的人）.\nagnostic \nadj holding this belief 不可知论的.",
+    "phonetic": "/ ægˈnɒstɪk; ægˈnɑːstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "不可知论者（对於上帝或除物质以外的任何事物是否存在；认为不可能知道的人）；不可知论的"
+    ],
+    "pronunciation": "/ ægˈnɒstɪk; ægˈnɑːstɪk/",
+    "accepted_answers": [
+      "不可知论者（对於上帝或除物质以外的任何事物是否存在",
+      "认为不可能知道的人）",
+      "不可知论的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-g.txt"
   },
   {
     "term": "ago",
@@ -11109,6 +11426,30 @@
     "dict_source": "data/DICT/A/A-l.txt"
   },
   {
+    "term": "alchemy",
+    "type": "word",
+    "pos": "N",
+    "translation": "炼金术（中世纪化学；其主要目的是寻求将普通金属转变成黄金的方法）",
+    "analysis": "n [U] medieval form of chemistry, the chief aim of which was to discover how to turn ordinary metals into gold 炼金术（中世纪化学, 其主要目的是寻求将普通金属转变成黄金的方法）.",
+    "phonetic": "/ ˈælkəmɪ; ˈælkəmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "炼金术（中世纪化学；其主要目的是寻求将普通金属转变成黄金的方法）"
+    ],
+    "pronunciation": "/ ˈælkəmɪ; ˈælkəmɪ/",
+    "accepted_answers": [
+      "炼金术（中世纪化学",
+      "其主要目的是寻求将普通金属转变成黄金的方法）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
     "term": "alcohol",
     "type": "word",
     "translation": "酒精；乙醇；含酒精的饮料",
@@ -11292,6 +11633,31 @@
     "accepted_answers": [
       "代数学",
       "代数"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
+    "term": "algorithm",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤作计算机术语)；算法；计算程序",
+    "analysis": "n (esp computing 尤作计算机术语) set of rules or procedures that must be followed in solving a problem 算法; 计算程序.",
+    "phonetic": "/ ˈælgərɪTəm; ˈælgəˌrɪTəm/",
+    "origin": "待查",
+    "expansions": [
+      "尤作计算机术语)；算法；计算程序"
+    ],
+    "pronunciation": "/ ˈælgərɪTəm; ˈælgəˌrɪTəm/",
+    "accepted_answers": [
+      "尤作计算机术语)",
+      "算法",
+      "计算程序"
     ],
     "added_at": "",
     "review": {
@@ -12248,6 +12614,37 @@
     "dict_source": "data/DICT/A/A-l.txt"
   },
   {
+    "term": "almanac",
+    "type": "word",
+    "pos": "N",
+    "translation": "历书；年历；天文历（有月份；日期及有关日；月；潮汐；纪念日等资料）；年鉴（逐年出版的载有各项如运动；戏剧等统计资料的书）",
+    "analysis": "n  1 annual book or calendar of months and days, giving information about the sun, moon, tides, anniversaries, etc 历书, 年历, 天文历（有月份, 日期及有关日, 月, 潮汐, 纪念日等资料）.  2 book published annually giving statistical information on various subjects, eg sport, the theatre, etc 年鉴（逐年出版的载有各项如运动, 戏剧等统计资料的书）.",
+    "phonetic": "/ ˈɔːlmənæk; alsoˈæl-; ˈɔːlməˌnæk,ˈæl-/",
+    "origin": "待查",
+    "expansions": [
+      "历书；年历；天文历（有月份；日期及有关日；月；潮汐；纪念日等资料）；年鉴（逐年出版的载有各项如运动；戏剧等统计资料的书）"
+    ],
+    "pronunciation": "/ ˈɔːlmənæk; alsoˈæl-; ˈɔːlməˌnæk,ˈæl-/",
+    "accepted_answers": [
+      "历书",
+      "年历",
+      "天文历（有月份",
+      "日期及有关日",
+      "月",
+      "潮汐",
+      "纪念日等资料）",
+      "年鉴（逐年出版的载有各项如运动",
+      "戏剧等统计资料的书）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
     "term": "almighty",
     "type": "word",
     "translation": "全能的；有无限权力的；全能的上帝",
@@ -12823,6 +13220,31 @@
     }
   },
   {
+    "term": "altar",
+    "type": "word",
+    "pos": "N",
+    "translation": "（基督教教堂内的）圣餐桌；见附录；之插图",
+    "analysis": "n  1 (in Christian churches) table on which bread and wine are consecrated in the Communion service （基督教教堂内的）圣餐桌. =>illus at App 1 见附录1之插图, page viii.  2 table or raised flat-topped platform on which offerings are made to a god （供奉神时用以放置供品的）供桌, 祭坛.  3 (idm 习语) lead sb to the altar =>lead3.\naltar-piece \nn painting or sculpture placed behind an altar 祭坛後面的绘画或雕刻.",
+    "phonetic": "/ ˈɔːltə(r); ˈɔːltə/",
+    "origin": "待查",
+    "expansions": [
+      "（基督教教堂内的）圣餐桌；见附录；之插图"
+    ],
+    "pronunciation": "/ ˈɔːltə(r); ˈɔːltə/",
+    "accepted_answers": [
+      "（基督教教堂内的）圣餐桌",
+      "见附录",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
     "term": "alter",
     "type": "word",
     "translation": "（使某事物；某人；）改变",
@@ -12946,6 +13368,29 @@
     }
   },
   {
+    "term": "alternation",
+    "type": "word",
+    "pos": "N",
+    "translation": "alternation",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ˌɔːltəˈneɪʃn; ˈɔːltəˈneʃən/",
+    "origin": "待查",
+    "expansions": [
+      "alternation"
+    ],
+    "pronunciation": "/ ˌɔːltəˈneɪʃn; ˈɔːltəˈneʃən/",
+    "accepted_answers": [
+      "alternation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
     "term": "alternative",
     "type": "word",
     "translation": "可用以代替其它事物的；另一可选用的；其他的",
@@ -12965,6 +13410,31 @@
       "其他的"
     ],
     "added_at": "2026-03-30T01:06:55.703Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
+    "term": "alternator",
+    "type": "word",
+    "pos": "N",
+    "translation": "交流发电机；缩写；交流电",
+    "analysis": "n dynamo that produces an alternating current 交流发电机.\nalternating current \n(abbr 缩写 AC) electric current that reverses its direction at regular intervals 交 流电; 交变电流. Cf 参看 direct current (direct1).",
+    "phonetic": "/ ˈɔːltəneɪtə(r); ˈɔːltəˌnetə/",
+    "origin": "待查",
+    "expansions": [
+      "交流发电机；缩写；交流电"
+    ],
+    "pronunciation": "/ ˈɔːltəneɪtə(r); ˈɔːltəˌnetə/",
+    "accepted_answers": [
+      "交流发电机",
+      "缩写",
+      "交流电"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -13072,6 +13542,29 @@
     }
   },
   {
+    "term": "altruistically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "altruistically",
+    "analysis": "adv.\naltruism\nn.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "altruistically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "altruistically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
+  },
+  {
     "term": "aluminium",
     "type": "word",
     "translation": "铝箔（如用以包食物的）；见附录",
@@ -13115,6 +13608,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "alveolar",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "语音)(；齿龈音（的）（用舌抵住上齿後面的隆骨而发出的辅音；如；之插图",
+    "analysis": "adj, n (phonetics 语音) (of a) consonant made with the tongue touching the bony ridge behind the upper front teeth, eg / t/ or / d/ 齿龈音（的）（用舌抵住上齿後面的隆骨而发出的辅音, 如/ t/或/ d/. =>illus at throat 见throat之插图.",
+    "phonetic": "/ ælˈvɪələ(r),ˌælvɪˈəʊlə(r); ælˈviələ/",
+    "origin": "待查",
+    "expansions": [
+      "语音)(；齿龈音（的）（用舌抵住上齿後面的隆骨而发出的辅音；如；之插图"
+    ],
+    "pronunciation": "/ ælˈvɪələ(r),ˌælvɪˈəʊlə(r); ælˈviələ/",
+    "accepted_answers": [
+      "语音)(",
+      "齿龈音（的）（用舌抵住上齿後面的隆骨而发出的辅音",
+      "如",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-l.txt"
   },
   {
     "term": "always",
@@ -13309,6 +13828,31 @@
       "但却是一流的高手"
     ],
     "added_at": "2026-03-30T02:33:07.775Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-m.txt"
+  },
+  {
+    "term": "amateurish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "常作贬义)；外行的；不熟练的",
+    "analysis": "adj (often derog 常作贬义) inexpert; unskilled 外行的; 不熟练的.",
+    "phonetic": "/ ˈæmətərɪʃ; ˈæməˌtərɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "常作贬义)；外行的；不熟练的"
+    ],
+    "pronunciation": "/ ˈæmətərɪʃ; ˈæməˌtərɪʃ/",
+    "accepted_answers": [
+      "常作贬义)",
+      "外行的",
+      "不熟练的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -14377,6 +14921,30 @@
     "dict_source": "data/DICT/A/A-m.txt"
   },
   {
+    "term": "amperage",
+    "type": "word",
+    "pos": "N",
+    "translation": "安培数；电流强度",
+    "analysis": "n [U] strength of electric current measured in amperes 安培数; 电流强度.",
+    "phonetic": "/ ˈæmpərɪdʒ; ˈæmpərɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "安培数；电流强度"
+    ],
+    "pronunciation": "/ ˈæmpərɪdʒ; ˈæmpərɪdʒ/",
+    "accepted_answers": [
+      "安培数",
+      "电流强度"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-m.txt"
+  },
+  {
     "term": "ampersand",
     "type": "word",
     "translation": "号；意为；号常用於公司名称中；如",
@@ -14618,6 +15186,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "amulet",
+    "type": "word",
+    "pos": "N",
+    "translation": "护身符（为避邪而佩带的珠宝等物）",
+    "analysis": "n piece of jewellery, etc worn as a charm1(2) against evil 护身符（为避邪而佩带的珠宝等物）.",
+    "phonetic": "/ ˈæmjUlɪt; ˈæmjəlɪt/",
+    "origin": "待查",
+    "expansions": [
+      "护身符（为避邪而佩带的珠宝等物）"
+    ],
+    "pronunciation": "/ ˈæmjUlɪt; ˈæmjəlɪt/",
+    "accepted_answers": [
+      "护身符（为避邪而佩带的珠宝等物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-m.txt"
   },
   {
     "term": "amuse",
@@ -15462,6 +16053,30 @@
     "dict_source": "data/DICT/A/A-n.txt"
   },
   {
+    "term": "andiron",
+    "type": "word",
+    "pos": "N",
+    "translation": "柴架（壁炉中盛木柴的铁架；常为一对）",
+    "analysis": "(also firedog) n iron support (usu one of a pair) for holding logs in a fireplace 柴架（壁炉中盛木柴的铁架, 常为一对）.",
+    "phonetic": "/ ˈændaɪən; ˈændˌaɪən/",
+    "origin": "待查",
+    "expansions": [
+      "柴架（壁炉中盛木柴的铁架；常为一对）"
+    ],
+    "pronunciation": "/ ˈændaɪən; ˈændˌaɪən/",
+    "accepted_answers": [
+      "柴架（壁炉中盛木柴的铁架",
+      "常为一对）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
+  },
+  {
     "term": "androgynous",
     "type": "word",
     "translation": "兼有雌雄两性特徵的；兼有男女两性的；穿著半男半女式服装的流行歌手",
@@ -15817,6 +16432,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "anglo-indian",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "英印混血的（人）；旧)(；长期侨居印度的英国的（人）",
+    "analysis": "n, adj  1 (person) of mixed British and Indian blood 英印混血的（人）.  2 (dated 旧) (person) of British birth but having lived for a long time in India 长期侨居印度的英国的（人）.",
+    "phonetic": "/ ˌæŋgləʊˈɪndɪən; ˈæŋgloˈɪndɪən/",
+    "origin": "待查",
+    "expansions": [
+      "英印混血的（人）；旧)(；长期侨居印度的英国的（人）"
+    ],
+    "pronunciation": "/ ˌæŋgləʊˈɪndɪən; ˈæŋgloˈɪndɪən/",
+    "accepted_answers": [
+      "英印混血的（人）",
+      "旧)(",
+      "长期侨居印度的英国的（人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
   },
   {
     "term": "angora",
@@ -17158,6 +17798,31 @@
     }
   },
   {
+    "term": "anterior",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；前面的；先前的",
+    "analysis": "adj [usu attrib 通常作定语] (fml 文) coming before in position or time; nearer the front 前面的; 先前的; 较靠近前方的. Cf 参看 posterior.",
+    "phonetic": "/ ænˈtɪərɪə(r); ænˈtɪrɪə/",
+    "origin": "待查",
+    "expansions": [
+      "文)；前面的；先前的"
+    ],
+    "pronunciation": "/ ænˈtɪərɪə(r); ænˈtɪrɪə/",
+    "accepted_answers": [
+      "文)",
+      "前面的",
+      "先前的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
+  },
+  {
     "term": "anthology",
     "type": "word",
     "translation": "（同一主题或同一作者的）诗集；文集；选集；情诗集",
@@ -18003,6 +18668,29 @@
     }
   },
   {
+    "term": "anyone",
+    "type": "word",
+    "pos": "word",
+    "translation": "anyone",
+    "analysis": "indef pron = anybody.\nanyplace\n(US) = anywhere.",
+    "phonetic": "/ ˈenɪwʌn; ˈenɪˌwʌn/",
+    "origin": "待查",
+    "expansions": [
+      "anyone"
+    ],
+    "pronunciation": "/ ˈenɪwʌn; ˈenɪˌwʌn/",
+    "accepted_answers": [
+      "anyone"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
+  },
+  {
     "term": "anything",
     "type": "word",
     "translation": "任何事物；她跟你说过什么有趣的事吗；电视上从来没有值得看的节目",
@@ -18295,6 +18983,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "aphid",
+    "type": "word",
+    "pos": "N",
+    "translation": "aphid",
+    "analysis": "n = aphis.",
+    "phonetic": "/ ˈeɪfɪd; ˈefɪd/",
+    "origin": "待查",
+    "expansions": [
+      "aphid"
+    ],
+    "pronunciation": "/ ˈeɪfɪd; ˈefɪd/",
+    "accepted_answers": [
+      "aphid"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-o,p.txt"
   },
   {
     "term": "aphis",
@@ -20284,6 +20995,31 @@
     "dict_source": "data/DICT/A/A-o,p.txt"
   },
   {
+    "term": "aquamarine",
+    "type": "word",
+    "pos": "N",
+    "translation": "海蓝宝石；蓝晶；海蓝色",
+    "analysis": "n  1 [C] bluish-green precious stone 海蓝宝石; 蓝晶.  2 [U] its colour 海蓝色.",
+    "phonetic": "/ ˌækwəməˈriːn; ˌækwəməˈrin/",
+    "origin": "待查",
+    "expansions": [
+      "海蓝宝石；蓝晶；海蓝色"
+    ],
+    "pronunciation": "/ ˌækwəməˈriːn; ˌækwəməˈrin/",
+    "accepted_answers": [
+      "海蓝宝石",
+      "蓝晶",
+      "海蓝色"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
+  },
+  {
     "term": "aquarius",
     "type": "word",
     "pos": "N",
@@ -20449,6 +21185,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "arable",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "适於耕作的（土地）；可耕的（土地）",
+    "analysis": "n [U], adj (land that is) suitable for ploughing and for growing crops 适於耕作的（土地）; 可耕的（土地）.",
+    "phonetic": "/ ˈærəbl; ˈærəbl/",
+    "origin": "待查",
+    "expansions": [
+      "适於耕作的（土地）；可耕的（土地）"
+    ],
+    "pronunciation": "/ ˈærəbl; ˈærəbl/",
+    "accepted_answers": [
+      "适於耕作的（土地）",
+      "可耕的（土地）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
   },
   {
     "term": "arbiter",
@@ -20798,6 +21558,29 @@
       "射箭运动员",
       "（旧时）弓箭手",
       "见插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
+  },
+  {
+    "term": "archetypal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "archetypal",
+    "analysis": "adj.",
+    "phonetic": "/ ˈɑː:kɪtaɪpl,ˌɑː:kɪˈtaɪpl; ˈɑːrkɪˈtaɪpl/",
+    "origin": "待查",
+    "expansions": [
+      "archetypal"
+    ],
+    "pronunciation": "/ ˈɑː:kɪtaɪpl,ˌɑː:kɪˈtaɪpl; ˈɑːrkɪˈtaɪpl/",
+    "accepted_answers": [
+      "archetypal"
     ],
     "added_at": "",
     "review": {
@@ -21537,6 +22320,31 @@
     }
   },
   {
+    "term": "armistice",
+    "type": "word",
+    "pos": "N",
+    "translation": "休战；停战；休战条约",
+    "analysis": "n agreement during a war to stop fighting for a certain time; truce 休战; 停战; 休战条约; 停战条约.\nArmistice Day (US Veterans' Day) \n11 November, the anniversary of the armistice that ended fighting in World War I  （第一次世界大战的）停战纪念日（11月11日）. Cf 参看 Remembrance Sunday (remembrance).",
+    "phonetic": "/ ˈɑː:mɪstɪs; ˈɑːrməstɪs/",
+    "origin": "待查",
+    "expansions": [
+      "休战；停战；休战条约"
+    ],
+    "pronunciation": "/ ˈɑː:mɪstɪs; ˈɑːrməstɪs/",
+    "accepted_answers": [
+      "休战",
+      "停战",
+      "休战条约"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
+  },
+  {
     "term": "armlet",
     "type": "word",
     "pos": "N",
@@ -22183,6 +22991,31 @@
     }
   },
   {
+    "term": "arsenic",
+    "type": "word",
+    "pos": "N",
+    "translation": "化)；见附录；砒霜",
+    "analysis": "n [U] (chemistry 化)  1 brittle steel-grey element 砷. =>App 10 见附录10.  2 violently poisonous white compound of this 砒霜; 信石.",
+    "phonetic": "/ ˈɑː:snɪk; ˈɑːrsnɪk/",
+    "origin": "待查",
+    "expansions": [
+      "化)；见附录；砒霜"
+    ],
+    "pronunciation": "/ ˈɑː:snɪk; ˈɑːrsnɪk/",
+    "accepted_answers": [
+      "化)",
+      "见附录",
+      "砒霜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
+  },
+  {
     "term": "art",
     "type": "word",
     "translation": "美的事物的创造或表现（尤指用视觉形式；如绘画；雕刻等）；艺术；美术",
@@ -22255,6 +23088,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "artery",
+    "type": "word",
+    "pos": "N",
+    "translation": "动脉；参看；干线（交通或运输的重要路线；如公路；铁路线或河流）",
+    "analysis": "n  1 any of the tubes carrying blood from the heart to all parts of the body 动脉. Cf 参看 vein.  2 important route for traffic or transport, eg a road, railway line or river 干线（交通或运输的重要路线, 如公路, 铁路线或河流）.",
+    "phonetic": "/ ˈɑː:tərɪ; ˈɑːrtərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "动脉；参看；干线（交通或运输的重要路线；如公路；铁路线或河流）"
+    ],
+    "pronunciation": "/ ˈɑː:tərɪ; ˈɑːrtərɪ/",
+    "accepted_answers": [
+      "动脉",
+      "参看",
+      "干线（交通或运输的重要路线",
+      "如公路",
+      "铁路线或河流）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
   },
   {
     "term": "artful",
@@ -22762,6 +23622,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "asap",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；尽快",
+    "analysis": "abbr 缩写 = as soon as possible 尽快.",
+    "phonetic": "/ ˌeɪeseɪˈpiː; ˌeeseˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；尽快"
+    ],
+    "pronunciation": "/ ˌeɪeseɪˈpiː; ˌeeseˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "尽快"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-s.txt"
+  },
+  {
+    "term": "asbestosis",
+    "type": "word",
+    "pos": "N",
+    "translation": "石棉沉著病",
+    "analysis": "n [U] disease of the lungs caused by inhaling asbestos particles 石棉沉著病.",
+    "phonetic": "/ ˌæsbesˈtəʊsɪs; ˌæsbesˈtosɪs/",
+    "origin": "待查",
+    "expansions": [
+      "石棉沉著病"
+    ],
+    "pronunciation": "/ ˌæsbesˈtəʊsɪs; ˌæsbesˈtosɪs/",
+    "accepted_answers": [
+      "石棉沉著病"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-s.txt"
   },
   {
     "term": "ascend",
@@ -24080,6 +24987,29 @@
     }
   },
   {
+    "term": "asseveration",
+    "type": "word",
+    "pos": "N",
+    "translation": "asseveration",
+    "analysis": "n [U, C].",
+    "phonetic": "/ əˌsevəˈreɪʃn; əˌsevəˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "asseveration"
+    ],
+    "pronunciation": "/ əˌsevəˈreɪʃn; əˌsevəˈreʃən/",
+    "accepted_answers": [
+      "asseveration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-s.txt"
+  },
+  {
     "term": "assiduity",
     "type": "word",
     "translation": "文)；专心致志；勤勉",
@@ -24479,6 +25409,31 @@
     }
   },
   {
+    "term": "assuredly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "古)；确定地；肯定地",
+    "analysis": "adv (arch 古) certainly 确定地; 肯定地.\nthe assured \nn (pl unchanged 复数不变) person who has an assurance policy on his life 已保寿险的人.",
+    "phonetic": "/ əˈʃɔːrɪdlɪ; əˈʃUərədlɪ; əˈʃJrɪdlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "古)；确定地；肯定地"
+    ],
+    "pronunciation": "/ əˈʃɔːrɪdlɪ; əˈʃUərədlɪ; əˈʃJrɪdlɪ/",
+    "accepted_answers": [
+      "古)",
+      "确定地",
+      "肯定地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-s.txt"
+  },
+  {
     "term": "asterisk",
     "type": "word",
     "translation": "星号（即；用於书写及印刷中以引起注意；例如有脚注或有省略的字母；如以；代表",
@@ -24768,6 +25723,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "astrological",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "astrological",
+    "analysis": "adj.",
+    "phonetic": "/ ˌæstrəˈlɒdʒɪkl; ˌæstrəˈlɑːdʒɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "astrological"
+    ],
+    "pronunciation": "/ ˌæstrəˈlɒdʒɪkl; ˌæstrəˈlɑːdʒɪkl/",
+    "accepted_answers": [
+      "astrological"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-s.txt"
   },
   {
     "term": "astronaut",
@@ -27027,6 +28005,30 @@
     }
   },
   {
+    "term": "auto-suggestion",
+    "type": "word",
+    "pos": "N",
+    "translation": "心)；自我暗示（处於催眠状态中或下意识地暗示自己改变行为）",
+    "analysis": "n [U] (psychology 心) process by which a person under hypnosis or subconsciously suggests to himself a way of changing his own behaviour 自我暗示（处於催眠状态中或下意识地暗示自己改变行为）.",
+    "phonetic": "/ ˌɔːtəʊsəˈdʒestʃən; ˌɔːtosəˈdʒestʃən/",
+    "origin": "待查",
+    "expansions": [
+      "心)；自我暗示（处於催眠状态中或下意识地暗示自己改变行为）"
+    ],
+    "pronunciation": "/ ˌɔːtəʊsəˈdʒestʃən; ˌɔːtosəˈdʒestʃən/",
+    "accepted_answers": [
+      "心)",
+      "自我暗示（处於催眠状态中或下意识地暗示自己改变行为）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
+  },
+  {
     "term": "autobiographic",
     "type": "word",
     "translation": "自传的；有关自传的；他的小说大多是自传式的（即虽属虚构；但却描述许多亲身经历）",
@@ -27072,6 +28074,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "autocratically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "autocratically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "autocratically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "autocratically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
   },
   {
     "term": "autocue",
@@ -27127,6 +28152,30 @@
     "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
   },
   {
+    "term": "automat",
+    "type": "word",
+    "pos": "N",
+    "translation": "自助餐馆（一种饭馆；顾客在投币孔中投入硬币便可打开食品分隔柜门而自行取出食品）",
+    "analysis": "n (US) restaurant in which customers get their own food from closed compartments by putting coins in slots to open them 自助餐馆（一种饭馆, 顾客在投币孔中投入硬币便可打开食品分隔柜门而自行取出食品）.",
+    "phonetic": "/ ˈɔːtəmæt; ˈɔːtəˌmæt/",
+    "origin": "待查",
+    "expansions": [
+      "自助餐馆（一种饭馆；顾客在投币孔中投入硬币便可打开食品分隔柜门而自行取出食品）"
+    ],
+    "pronunciation": "/ ˈɔːtəmæt; ˈɔːtəˌmæt/",
+    "accepted_answers": [
+      "自助餐馆（一种饭馆",
+      "顾客在投币孔中投入硬币便可打开食品分隔柜门而自行取出食品）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
+  },
+  {
     "term": "automate",
     "type": "word",
     "translation": "尤用於被动语态；使（某事物）自动操作；装配过程的这一部分现在是全自动的",
@@ -27173,6 +28222,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "automatically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "（飞行器或轮船上的）自动驾驶仪；自动变速器（机动车辆中的自动换挡系统）",
+    "analysis": "adv.\nautomatic pilot \ndevice in an aircraft or a ship to keep it on a set course without human control （飞行器或轮船上的）自动驾驶仪.\nautomatic transmission \nsystem in a motor vehicle that changes the gears automatically 自动变速器（机动车辆中的自动换挡系统）.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（飞行器或轮船上的）自动驾驶仪；自动变速器（机动车辆中的自动换挡系统）"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "（飞行器或轮船上的）自动驾驶仪",
+      "自动变速器（机动车辆中的自动换挡系统）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
   },
   {
     "term": "automation",
@@ -27758,6 +28831,30 @@
     "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
   },
   {
+    "term": "avocado",
+    "type": "word",
+    "pos": "N",
+    "translation": "梨（一种梨形的热带水果；又名油梨）",
+    "analysis": "n (pl ~s) pear-shaped tropical fruit 梨（一种梨形的热带水果, 又名油梨）.",
+    "phonetic": "/ ˌævəˈkɑː:dəʊ; ˌævəˈkɑːdo/",
+    "origin": "待查",
+    "expansions": [
+      "梨（一种梨形的热带水果；又名油梨）"
+    ],
+    "pronunciation": "/ ˌævəˈkɑː:dəʊ; ˌævəˈkɑːdo/",
+    "accepted_answers": [
+      "梨（一种梨形的热带水果",
+      "又名油梨）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
+  },
+  {
     "term": "avoid",
     "type": "word",
     "translation": ")避开；躲避（某人；某事物；避开市中心（行驶）",
@@ -28272,6 +29369,31 @@
     "accepted_answers": [
       "遮篷（固定於外墙门窗上方向外伸延的帆布或塑料篷",
       "作防雨或遮阳用）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "awol",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；擅离职守；开小差",
+    "analysis": "abbr 缩写 = absent without leave 擅离职守; 开小差.",
+    "phonetic": "/ ˈeɪwɒl; ˈewɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；擅离职守；开小差"
+    ],
+    "pronunciation": "/ ˈeɪwɒl; ˈewɔːl/",
+    "accepted_answers": [
+      "缩写",
+      "擅离职守",
+      "开小差"
     ],
     "added_at": "",
     "review": {

@@ -5497,6 +5497,31 @@
     "dict_source": "data/DICT/S/S-a.txt"
   },
   {
+    "term": "satyr",
+    "type": "word",
+    "pos": "N",
+    "translation": "（希猎及罗马神话）（半人半羊的）森林之神；修辞)；性欲极强的男子",
+    "analysis": "n  1 (in Greek and Roman myths) god of the woods, half man and half goat （希猎及罗马神话）（半人半羊的）森林之神.  2 (rhet 修辞) man with very strong sexual desires 性欲极强的男子.",
+    "phonetic": "/ ˈsætə(r); ˈsætə/",
+    "origin": "待查",
+    "expansions": [
+      "（希猎及罗马神话）（半人半羊的）森林之神；修辞)；性欲极强的男子"
+    ],
+    "pronunciation": "/ ˈsætə(r); ˈsætə/",
+    "accepted_answers": [
+      "（希猎及罗马神话）（半人半羊的）森林之神",
+      "修辞)",
+      "性欲极强的男子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "sauce",
     "type": "word",
     "translation": "沙司；调味汁；番茄酱、酱油、越橘沙司",
@@ -6060,6 +6085,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "savoy",
+    "type": "word",
+    "pos": "N",
+    "translation": "皱叶甘蓝",
+    "analysis": "n type of cabbage with wrinkled leaves 皱叶甘蓝.",
+    "phonetic": "/ səˈvɔːɪ; səˈvɔːɪ/",
+    "origin": "待查",
+    "expansions": [
+      "皱叶甘蓝"
+    ],
+    "pronunciation": "/ səˈvɔːɪ; səˈvɔːɪ/",
+    "accepted_answers": [
+      "皱叶甘蓝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
   },
   {
     "term": "savvy",
@@ -15124,6 +15172,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "self-confidence",
+    "type": "word",
+    "pos": "N",
+    "translation": "self-confidence",
+    "analysis": "n [U].",
+    "phonetic": "/ -dəns; -dəns/",
+    "origin": "待查",
+    "expansions": [
+      "self-confidence"
+    ],
+    "pronunciation": "/ -dəns; -dəns/",
+    "accepted_answers": [
+      "self-confidence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
     "term": "self-confident",
@@ -30289,6 +30360,29 @@
     "dict_source": "data/DICT/S/S-i.txt"
   },
   {
+    "term": "sinusitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "窦炎",
+    "analysis": "n [U] inflammation of a sinus membrane 窦炎.\n-sion\n=>-ion.",
+    "phonetic": "/ ˌsaɪnəˈsaɪtɪs; ˌsaɪnəˈsaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "窦炎"
+    ],
+    "pronunciation": "/ ˌsaɪnəˈsaɪtɪs; ˌsaɪnəˈsaɪtɪs/",
+    "accepted_answers": [
+      "窦炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
     "term": "sip",
     "type": "word",
     "translation": "小口喝；喝茶时小口抿出声；一小口一小口地喝咖啡",
@@ -34585,6 +34679,29 @@
     "dict_source": "data/DICT/S/S-l.txt"
   },
   {
+    "term": "slothfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "slothfully",
+    "analysis": "adv.\nslothfulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "slothfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "slothfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-l.txt"
+  },
+  {
     "term": "slouch",
     "type": "word",
     "translation": "无精打采地立、坐或行动（常指不直）；别没精打采的；起来站直了",
@@ -38768,6 +38885,29 @@
       "旧",
       "文)",
       "鸡奸者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
+  },
+  {
+    "term": "sodomy",
+    "type": "word",
+    "pos": "N",
+    "translation": "鸡奸（尤指男性间的）",
+    "analysis": "n [U] anal sexual intercourse between a man and (esp) another man 鸡奸（尤指男性间的）.",
+    "phonetic": "/ ˈsɒdəmɪ; ˈsɑːdəmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "鸡奸（尤指男性间的）"
+    ],
+    "pronunciation": "/ ˈsɒdəmɪ; ˈsɑːdəmɪ/",
+    "accepted_answers": [
+      "鸡奸（尤指男性间的）"
     ],
     "added_at": "",
     "review": {
@@ -48109,6 +48249,29 @@
     }
   },
   {
+    "term": "sporran",
+    "type": "word",
+    "pos": "N",
+    "translation": "（苏格兰男子系於短裙前的）毛皮袋",
+    "analysis": "n large pouch, usu made of leather or fur, that is worn by men in front of the kilt as part of the Scottish national dress （苏格兰男子系於短裙前的）毛皮袋.",
+    "phonetic": "/ ˈspɒrən; ˈspɑːrən/",
+    "origin": "待查",
+    "expansions": [
+      "（苏格兰男子系於短裙前的）毛皮袋"
+    ],
+    "pronunciation": "/ ˈspɒrən; ˈspɑːrən/",
+    "accepted_answers": [
+      "（苏格兰男子系於短裙前的）毛皮袋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
     "term": "sport",
     "type": "word",
     "translation": "文体活动（尤指户外的）；运动；游戏",
@@ -51276,6 +51439,30 @@
     "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
+    "term": "stammerer",
+    "type": "word",
+    "pos": "N",
+    "translation": "口吃的人；结巴",
+    "analysis": "n person who stammers 口吃的人; 结巴.",
+    "phonetic": "/ ˈstæmərə(r); ˈstæmərə/",
+    "origin": "待查",
+    "expansions": [
+      "口吃的人；结巴"
+    ],
+    "pronunciation": "/ ˈstæmərə(r); ˈstæmərə/",
+    "accepted_answers": [
+      "口吃的人",
+      "结巴"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "stammeringly",
     "type": "word",
     "pos": "Adv",
@@ -54276,6 +54463,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sterilization",
+    "type": "word",
+    "pos": "N",
+    "translation": "sterilization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsterəlaɪˈzeɪʃn; US-lɪˈz-; ˌsterələˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "sterilization"
+    ],
+    "pronunciation": "/ ˌsterəlaɪˈzeɪʃn; US-lɪˈz-; ˌsterələˈzeʃən/",
+    "accepted_answers": [
+      "sterilization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
     "term": "sterilize",
@@ -58970,6 +59180,31 @@
     }
   },
   {
+    "term": "striker",
+    "type": "word",
+    "pos": "N",
+    "translation": "罢工的人；体)(；)(",
+    "analysis": "n  1 worker who is on strike罢工的人.  2 (sport 体) (a) (in football) attacking playerwhose most important role is to try to score goals （足球）前锋. =>illus at Association football 见 Association football (association)插图 Cf 参看 forward4. (b) (in cricket) batsman who is facing the bowling （板球）击球手.",
+    "phonetic": "/ ˈstraɪkə(r); ˈstraɪkə/",
+    "origin": "待查",
+    "expansions": [
+      "罢工的人；体)(；)("
+    ],
+    "pronunciation": "/ ˈstraɪkə(r); ˈstraɪkə/",
+    "accepted_answers": [
+      "罢工的人",
+      "体)(",
+      ")("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "striking",
     "type": "word",
     "translation": "引人注意的；饶有兴趣的；饶有兴趣的展示、显著的效果",
@@ -60764,6 +60999,29 @@
     "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
+    "term": "stutteringly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "stutteringly",
+    "analysis": "adv.",
+    "phonetic": "/ ˈstʌtərɪŋlɪ; ˈstʌtərɪŋlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "stutteringly"
+    ],
+    "pronunciation": "/ ˈstʌtərɪŋlɪ; ˈstʌtərɪŋlɪ/",
+    "accepted_answers": [
+      "stutteringly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "sty",
     "type": "word",
     "pos": "N",
@@ -61783,6 +62041,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "subheading",
+    "type": "word",
+    "pos": "N",
+    "translation": "副标题；小标题",
+    "analysis": "n heading over part of an article, etc, eg in a newspaper 副标题; 小标题.",
+    "phonetic": "/ ˈsʌbhedɪŋ; ˈsʌbˌhedɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "副标题；小标题"
+    ],
+    "pronunciation": "/ ˈsʌbhedɪŋ; ˈsʌbˌhedɪŋ/",
+    "accepted_answers": [
+      "副标题",
+      "小标题"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
   },
   {
     "term": "subherd",
@@ -64294,6 +64576,29 @@
       "达到目的的"
     ],
     "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
+    "term": "successfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "successfully",
+    "analysis": "adv.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "successfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "successfully"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -70687,6 +70992,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "swaddling-clothes",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)；用作襁褓的长布条",
+    "analysis": "n [pl] (dated 旧) strips of cloth used for swaddling a baby 用作襁褓的长布条.",
+    "phonetic": "/ ˈswɒdlɪŋ; ˈswɑːdlɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；用作襁褓的长布条"
+    ],
+    "pronunciation": "/ ˈswɒdlɪŋ; ˈswɑːdlɪŋ/",
+    "accepted_answers": [
+      "旧)",
+      "用作襁褓的长布条"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
     "term": "swadeshism",

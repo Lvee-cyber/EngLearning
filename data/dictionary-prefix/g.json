@@ -1053,6 +1053,29 @@
     }
   },
   {
+    "term": "galvanisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "galvanisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌgælvənaɪˈzeɪʃən; -nɪˈzeɪ-; ˌgælvənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "galvanisation"
+    ],
+    "pronunciation": "/ ˌgælvənaɪˈzeɪʃən; -nɪˈzeɪ-; ˌgælvənəˈzeʃən/",
+    "accepted_answers": [
+      "galvanisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "galvanise",
     "type": "word",
     "translation": "用锌镀（铁）（防锈）；镀锌的铁桶、钉子、铰链等；铅丝",
@@ -1964,6 +1987,30 @@
     }
   },
   {
+    "term": "garnet",
+    "type": "word",
+    "pos": "N",
+    "translation": "石榴石（一种次宝石；色深红而透明）",
+    "analysis": "n semi-precious gem of deep transparent red 石榴石（一种次宝石, 色深红而透明）.",
+    "phonetic": "/ ˈgɑː:nɪt; ˈgɑːrnɪt/",
+    "origin": "待查",
+    "expansions": [
+      "石榴石（一种次宝石；色深红而透明）"
+    ],
+    "pronunciation": "/ ˈgɑː:nɪt; ˈgɑːrnɪt/",
+    "accepted_answers": [
+      "石榴石（一种次宝石",
+      "色深红而透明）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
+  },
+  {
     "term": "garnish",
     "type": "word",
     "translation": "给（上餐桌的食物）加装饰；用柠檬片作装饰的鱼；饰有香菜、新鲜蔬菜等的肉",
@@ -2207,6 +2254,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gasman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；口)；（抄煤气表、检查设备的）煤气公司雇员",
+    "analysis": "n (pl -men /-men; -9mZn/) (infml 口) employee of a gas supply organization who checks gas meters and domestic gas apparatus （抄煤气表、 检查设备的）煤气公司雇员.\ngas mask \nbreathing apparatus worn as protection against poison gas 防毒面具. =>illus at mask 见mask插图.\ngas meter \nmeter for measuring the amount of gas used 煤气表（计量煤气用量的仪表）.\ngas poker \nhollow metal rod connected to a gas supply, for lighting a coal fire 煤气引火棒（中空的金属棒, 与煤气源连接, 用以点燃煤炭）.\ngas station \n(US) = petrol station (petrol).\ngas tap \ndevice for controlling the flow of gas from a pipe 煤气截门; 煤气阀.\ngasworks \nn (pl unchanged 复数不变) [sing or pl v]place where gas for lighting and heating is manufactured煤气厂.",
+    "phonetic": "/ -mn; -ˌmæn/",
+    "origin": "待查",
+    "expansions": [
+      ")(；口)；（抄煤气表、检查设备的）煤气公司雇员"
+    ],
+    "pronunciation": "/ -mn; -ˌmæn/",
+    "accepted_answers": [
+      ")(",
+      "口)",
+      "（抄煤气表、检查设备的）煤气公司雇员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
   },
   {
     "term": "gasoline",
@@ -2691,6 +2763,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gawkily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "gawkily",
+    "analysis": "adv.",
+    "phonetic": "/ ˈgɔːkɪlɪ; ˈgɔːkɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "gawkily"
+    ],
+    "pronunciation": "/ ˈgɔːkɪlɪ; ˈgɔːkɪlɪ/",
+    "accepted_answers": [
+      "gawkily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-a.txt"
   },
   {
     "term": "gawkiness",
@@ -3378,6 +3473,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "genealogist",
+    "type": "word",
+    "pos": "N",
+    "translation": "家谱学的研究者；家谱学家",
+    "analysis": "n student of or expert in genealogy 家谱学的研究者; 家谱学家.\ngenera\npl of genus.",
+    "phonetic": "/ ˌdʒiːnɪˈlədʒɪst; ˌdʒinɪˈælədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "家谱学的研究者；家谱学家"
+    ],
+    "pronunciation": "/ ˌdʒiːnɪˈlədʒɪst; ˌdʒinɪˈælədʒɪst/",
+    "accepted_answers": [
+      "家谱学的研究者",
+      "家谱学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "general",
@@ -4089,6 +4208,29 @@
     }
   },
   {
+    "term": "gentleness",
+    "type": "word",
+    "pos": "N",
+    "translation": "gentleness",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈdʒentlnɪs; ˈdʒentlnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "gentleness"
+    ],
+    "pronunciation": "/ ˈdʒentlnɪs; ˈdʒentlnɪs/",
+    "accepted_answers": [
+      "gentleness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "gentlewoman",
     "type": "word",
     "pos": "N",
@@ -4354,6 +4496,31 @@
     }
   },
   {
+    "term": "geometrically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "几何级数；等比级数；参看",
+    "analysis": "adv. geometric progressionordered set of numbers in which each is multiplied or divided by a fixed number to produce the next, as 1, 3, 9, 27, 81 几何级数; 等比级数. Cf 参看 arithmetic progression (arithmetic).",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "几何级数；等比级数；参看"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "几何级数",
+      "等比级数",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
+  },
+  {
     "term": "geometry",
     "type": "word",
     "translation": "几何（学）；一套几何学绘图仪",
@@ -4447,6 +4614,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "geranium",
+    "type": "word",
+    "pos": "N",
+    "translation": "老鹳草；天竺葵（园艺植物；开红色、粉红色或白色花）",
+    "analysis": "n garden plant with red, pink or white flowers 老鹳草, 天竺葵（园艺植物, 开红色、 粉红色或白色花）.",
+    "phonetic": "/ dʒəˈreɪnɪəm; dʒəˈrenɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "老鹳草；天竺葵（园艺植物；开红色、粉红色或白色花）"
+    ],
+    "pronunciation": "/ dʒəˈreɪnɪəm; dʒəˈrenɪəm/",
+    "accepted_answers": [
+      "老鹳草",
+      "天竺葵（园艺植物",
+      "开红色、粉红色或白色花）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-b,c,d,e.txt"
   },
   {
     "term": "geriatric",
@@ -4865,6 +5057,29 @@
     }
   },
   {
+    "term": "gherkin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（作泡菜的）小黄瓜",
+    "analysis": "n small green cucumber for pickling （作泡菜的）小黄瓜.",
+    "phonetic": "/ ˈgɜːkɪn; ˈgɜːkɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（作泡菜的）小黄瓜"
+    ],
+    "pronunciation": "/ ˈgɜːkɪn; ˈgɜːkɪn/",
+    "accepted_answers": [
+      "（作泡菜的）小黄瓜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
+  },
+  {
     "term": "ghetto",
     "type": "word",
     "translation": "（旧时某些国家的）城市中的犹太人区；常作贬义)；少数民族居住区",
@@ -5171,6 +5386,30 @@
       "古)",
       "绞刑架",
       "绞台"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
+  },
+  {
+    "term": "gibbon",
+    "type": "word",
+    "pos": "N",
+    "translation": "长臂猿（产於东南亚）；插图",
+    "analysis": "n long-armed ape of south-east Asia 长臂猿（产於东南亚）. =>illus at ape 见 ape 插图.",
+    "phonetic": "/ ˈgɪbən; ˈgɪbən/",
+    "origin": "待查",
+    "expansions": [
+      "长臂猿（产於东南亚）；插图"
+    ],
+    "pronunciation": "/ ˈgɪbən; ˈgɪbən/",
+    "accepted_answers": [
+      "长臂猿（产於东南亚）",
+      "插图"
     ],
     "added_at": "",
     "review": {
@@ -5720,6 +5959,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gingivitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；龈炎",
+    "analysis": "n [U] (medical 医) inflammation of the gums 龈炎.",
+    "phonetic": "/ ˌdʒɪndʒɪˈvaɪtɪs; ˌdʒɪndʒəˈvaɪtəs/",
+    "origin": "待查",
+    "expansions": [
+      "医)；龈炎"
+    ],
+    "pronunciation": "/ ˌdʒɪndʒɪˈvaɪtɪs; ˌdʒɪndʒəˈvaɪtəs/",
+    "accepted_answers": [
+      "医)",
+      "龈炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-f,g,h,i.txt"
   },
   {
     "term": "gird",
@@ -7154,6 +7417,31 @@
     }
   },
   {
+    "term": "globular",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "球形的；球体的；圆的",
+    "analysis": "adj shaped like a globe or ball; spherical 球形的; 球体的; 圆的.",
+    "phonetic": "/ ˈglɒbjUlə(r); ˈglɑːbjələ/",
+    "origin": "待查",
+    "expansions": [
+      "球形的；球体的；圆的"
+    ],
+    "pronunciation": "/ ˈglɒbjUlə(r); ˈglɑːbjələ/",
+    "accepted_answers": [
+      "球形的",
+      "球体的",
+      "圆的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
+  },
+  {
     "term": "globule",
     "type": "word",
     "translation": "小滴；小球体（尤指液体或熔化的固体）；蜡滴",
@@ -7551,6 +7839,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gluey",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "胶黏的；似胶的；吸胶毒（为获兴奋效果而吸入某些类型的胶的气体）",
+    "analysis": "adj sticky; like glue 胶黏的; 似胶的.\nglue-sniffing \nn [U] practice of breathing in the fumes of certain types of glue for their intoxicating effect 吸胶毒（为获兴奋效果而吸入某些类型的胶的气体）.",
+    "phonetic": "/ ˈgluːɪ; ˈgluɪ/",
+    "origin": "待查",
+    "expansions": [
+      "胶黏的；似胶的；吸胶毒（为获兴奋效果而吸入某些类型的胶的气体）"
+    ],
+    "pronunciation": "/ ˈgluːɪ; ˈgluɪ/",
+    "accepted_answers": [
+      "胶黏的",
+      "似胶的",
+      "吸胶毒（为获兴奋效果而吸入某些类型的胶的气体）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-j,k,l.txt"
   },
   {
     "term": "glum",
@@ -8200,6 +8513,31 @@
     }
   },
   {
+    "term": "godless",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "无神的；不敬奉上帝的；邪恶的",
+    "analysis": "adj not respecting or believing in God; wicked 无神的; 不敬奉上帝的; 邪恶的.\ngodlessness \nn [U].",
+    "phonetic": "/ ˈgɒdlɪs; ˈgɑːdlɪs/",
+    "origin": "待查",
+    "expansions": [
+      "无神的；不敬奉上帝的；邪恶的"
+    ],
+    "pronunciation": "/ ˈgɒdlɪs; ˈgɑːdlɪs/",
+    "accepted_answers": [
+      "无神的",
+      "不敬奉上帝的",
+      "邪恶的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
     "term": "godly",
     "type": "word",
     "pos": "Adj",
@@ -8448,6 +8786,29 @@
     }
   },
   {
+    "term": "goldfish",
+    "type": "word",
+    "pos": "N",
+    "translation": "金鱼",
+    "analysis": "n small esp orange or red fish (a type of carp) kept in bowls and ponds 金鱼.",
+    "phonetic": "/ ˈgəʊldfɪʃ; ˈgoldˌfɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "金鱼"
+    ],
+    "pronunciation": "/ ˈgəʊldfɪʃ; ˈgoldˌfɪʃ/",
+    "accepted_answers": [
+      "金鱼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
     "term": "golf",
     "type": "word",
     "translation": "高尔夫球运动；打一场高尔夫球；见附录",
@@ -8469,6 +8830,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "goliath",
+    "type": "word",
+    "pos": "N",
+    "translation": "修辞)；歌利亚（巨人）",
+    "analysis": "n (rhet 修辞) giant 歌利亚（巨人）.",
+    "phonetic": "/ gəˈlaɪəθ; gəˈlaɪəθ/",
+    "origin": "待查",
+    "expansions": [
+      "修辞)；歌利亚（巨人）"
+    ],
+    "pronunciation": "/ gəˈlaɪəθ; gəˈlaɪəθ/",
+    "accepted_answers": [
+      "修辞)",
+      "歌利亚（巨人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "golly",
@@ -8903,6 +9288,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "googly",
+    "type": "word",
+    "pos": "N",
+    "translation": "（板球戏的）曲球（先向一方；继而转向相反方向的球）",
+    "analysis": "n (in cricket) ball bowled as if to turn in a particular direction after bouncing, that actually turns the opposite way （板球戏的）曲球（先向一方, 继而转向相反方向的球）.",
+    "phonetic": "/ ˈguːglɪ; ˈguglɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（板球戏的）曲球（先向一方；继而转向相反方向的球）"
+    ],
+    "pronunciation": "/ ˈguːglɪ; ˈguglɪ/",
+    "accepted_answers": [
+      "（板球戏的）曲球（先向一方",
+      "继而转向相反方向的球）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
+  },
+  {
+    "term": "goon",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)(；傻子；狂人",
+    "analysis": "n (infml 口) (a) stupid or crazy person 傻子; 狂人. (b) (US) person employed to threaten or attack people （雇佣的）打手.",
+    "phonetic": "/ guːn; gun/",
+    "origin": "待查",
+    "expansions": [
+      "口)(；傻子；狂人"
+    ],
+    "pronunciation": "/ guːn; gun/",
+    "accepted_answers": [
+      "口)(",
+      "傻子",
+      "狂人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "goose",
@@ -9365,6 +9799,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "goulash",
+    "type": "word",
+    "pos": "N",
+    "translation": "匈牙利红烩牛肉",
+    "analysis": "n [C, U] dish of Hungarian origin consisting of stewed beef seasoned with paprika 匈牙利红烩牛肉.",
+    "phonetic": "/ ˈguːlæʃ; ˈgulæʃ/",
+    "origin": "待查",
+    "expansions": [
+      "匈牙利红烩牛肉"
+    ],
+    "pronunciation": "/ ˈguːlæʃ; ˈgulæʃ/",
+    "accepted_answers": [
+      "匈牙利红烩牛肉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-m,n,o.txt"
   },
   {
     "term": "gourd",
@@ -11292,6 +11749,29 @@
     }
   },
   {
+    "term": "grebe",
+    "type": "word",
+    "pos": "N",
+    "translation": "辟鸟鹈",
+    "analysis": "n water bird similar to a duck but without webbed feet 辟鸟鹈.",
+    "phonetic": "/ griːb; grib/",
+    "origin": "待查",
+    "expansions": [
+      "辟鸟鹈"
+    ],
+    "pronunciation": "/ griːb; grib/",
+    "accepted_answers": [
+      "辟鸟鹈"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
+  },
+  {
     "term": "grecian",
     "type": "word",
     "translation": "（带有）古希腊艺术或文化的；古希腊的瓮；他那古希腊式俊美的侧面脸形",
@@ -11439,6 +11919,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "gregorian",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")格雷果里历（由教皇格雷果里十三世提倡；至今通用的历法）；阳历；参看",
+    "analysis": "adj.\nGregorian calendar \nsystem now in general use of arranging the months in the year and the days in the month, introduced by Pope Gregory XIII (1502-85) 格雷果里历（由教皇格雷果里十三世提倡, 至今通用的历法）; 阳历. Cf 参看 Julian calendar.\nGregorian chant \nkind of medieval church music named after Pope Gregory I (540-604) 格列高利圣　（以教皇格列高利一世之名命名的中世纪圣歌）.",
+    "phonetic": "/ grɪˈgɔːrɪən; grɪˈgɔːrɪən/",
+    "origin": "待查",
+    "expansions": [
+      ")格雷果里历（由教皇格雷果里十三世提倡；至今通用的历法）；阳历；参看"
+    ],
+    "pronunciation": "/ grɪˈgɔːrɪən; grɪˈgɔːrɪən/",
+    "accepted_answers": [
+      ")格雷果里历（由教皇格雷果里十三世提倡",
+      "至今通用的历法）",
+      "阳历",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
   },
   {
     "term": "gremlin",
@@ -12940,6 +13446,29 @@
     }
   },
   {
+    "term": "grummet",
+    "type": "word",
+    "pos": "N",
+    "translation": "grummet",
+    "analysis": "n = grommet.",
+    "phonetic": "/ ˈgrʌmɪt; ˈgrʌmɪt/",
+    "origin": "待查",
+    "expansions": [
+      "grummet"
+    ],
+    "pronunciation": "/ ˈgrʌmɪt; ˈgrʌmɪt/",
+    "accepted_answers": [
+      "grummet"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-p,q,r.txt"
+  },
+  {
     "term": "grumpily",
     "type": "word",
     "pos": "Adv",
@@ -13042,6 +13571,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "guarantor",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；)保证人；担保人",
+    "analysis": "n (law 律) person who gives a guarantee(1b, 2) 保证人; 担保人.",
+    "phonetic": "/ ˌgærənˈtɔː(r); ˈgærəntɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "律)；)保证人；担保人"
+    ],
+    "pronunciation": "/ ˌgærənˈtɔː(r); ˈgærəntɔːr/",
+    "accepted_answers": [
+      "律)",
+      ")保证人",
+      "担保人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/G/G-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "guard",

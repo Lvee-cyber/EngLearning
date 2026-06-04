@@ -1870,6 +1870,29 @@
     "dict_source": "data/DICT/N/N-a.txt"
   },
   {
+    "term": "navigability",
+    "type": "word",
+    "pos": "N",
+    "translation": "navigability",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌnævɪgəˈbɪlətɪ; ˌnævəgəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "navigability"
+    ],
+    "pronunciation": "/ ˌnævɪgəˈbɪlətɪ; ˌnævəgəˈbɪlətɪ/",
+    "accepted_answers": [
+      "navigability"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-a.txt"
+  },
+  {
     "term": "navigable",
     "type": "word",
     "translation": "（指海洋、江河等）适於行船的；可通航的；莱茵河从斯特拉斯堡入海这一段可以通航；（指船等）可驾驶的；可航行的",
@@ -2429,6 +2452,29 @@
     "dict_source": "data/DICT/N/N-b,c,d,e.txt"
   },
   {
+    "term": "necromancer",
+    "type": "word",
+    "pos": "N",
+    "translation": "通灵巫师",
+    "analysis": "n person who practises necromancy 通灵巫师.",
+    "phonetic": "/ -sə(r); -sə/",
+    "origin": "待查",
+    "expansions": [
+      "通灵巫师"
+    ],
+    "pronunciation": "/ -sə(r); -sə/",
+    "accepted_answers": [
+      "通灵巫师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
     "term": "necropolis",
     "type": "word",
     "pos": "N",
@@ -2470,6 +2516,29 @@
       "比喻)"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
+    "term": "nectarine",
+    "type": "word",
+    "pos": "N",
+    "translation": "油桃",
+    "analysis": "n type of peach with a thin smooth skin and firm flesh 油桃.",
+    "phonetic": "/ ˈnektərɪn; ˈnektəˌrin/",
+    "origin": "待查",
+    "expansions": [
+      "油桃"
+    ],
+    "pronunciation": "/ ˈnektərɪn; ˈnektəˌrin/",
+    "accepted_answers": [
+      "油桃"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3832,6 +3901,29 @@
     "dict_source": "data/DICT/N/N-b,c,d,e.txt"
   },
   {
+    "term": "neutralization",
+    "type": "word",
+    "pos": "N",
+    "translation": "neutralization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌnjuːtrəlaɪˈzeɪʃn; -lɪˈz-; ˌnjutrələˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "neutralization"
+    ],
+    "pronunciation": "/ ˌnjuːtrəlaɪˈzeɪʃn; -lɪˈz-; ˌnjutrələˈzeʃən/",
+    "accepted_answers": [
+      "neutralization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-b,c,d,e.txt"
+  },
+  {
     "term": "neutrally",
     "type": "word",
     "pos": "Adv",
@@ -4999,6 +5091,29 @@
     "dict_source": "data/DICT/N/N-f,g,h,i.txt"
   },
   {
+    "term": "nitrogenous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "nitrogenous",
+    "analysis": "adj.",
+    "phonetic": "/ naɪˈtrɒdʒɪnəs; naɪˈtrɑːdʒənəs/",
+    "origin": "待查",
+    "expansions": [
+      "nitrogenous"
+    ],
+    "pronunciation": "/ naɪˈtrɒdʒɪnəs; naɪˈtrɑːdʒənəs/",
+    "accepted_answers": [
+      "nitrogenous"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-f,g,h,i.txt"
+  },
+  {
     "term": "nitrous",
     "type": "word",
     "pos": "Adj",
@@ -5397,6 +5512,30 @@
       "她点了点头"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "nodular",
+    "type": "word",
+    "pos": "word",
+    "translation": "有小圆块的；有瘤块的",
+    "analysis": ", nodulated/ -leItId; -letId/ adjs having nodules 有小圆块的; 有瘤块的.",
+    "phonetic": "/ -lə(r); -lə/",
+    "origin": "待查",
+    "expansions": [
+      "有小圆块的；有瘤块的"
+    ],
+    "pronunciation": "/ -lə(r); -lə/",
+    "accepted_answers": [
+      "有小圆块的",
+      "有瘤块的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -6563,6 +6702,29 @@
     "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
   },
   {
+    "term": "nonsensically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "nonsensically",
+    "analysis": "adv.\nnonsuch\n= nonesuch.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "nonsensically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "nonsensically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "noodle",
     "type": "word",
     "translation": "通常作复数)；面条；中餐常有米饭或面条",
@@ -6945,6 +7107,29 @@
     "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
   },
   {
+    "term": "normally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "normally",
+    "analysis": "adv.",
+    "phonetic": "/ ˈnɔːməlɪ; ˈnɔːrmlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "normally"
+    ],
+    "pronunciation": "/ ˈnɔːməlɪ; ˈnɔːrmlɪ/",
+    "accepted_answers": [
+      "normally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "norman",
     "type": "word",
     "translation": "建)；)诺曼式的（；世纪法国诺曼底入侵者引进英国的风格）",
@@ -7062,6 +7247,31 @@
       "尤於航海用语中)"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "north-eastern",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "东北的；来自东北的；在东北的",
+    "analysis": "adj of, from or situated in the north-east 东北的; 来自东北的; 在东北的.",
+    "phonetic": "/ -ˈiːstən; -ˈistən/",
+    "origin": "待查",
+    "expansions": [
+      "东北的；来自东北的；在东北的"
+    ],
+    "pronunciation": "/ -ˈiːstən; -ˈistən/",
+    "accepted_answers": [
+      "东北的",
+      "来自东北的",
+      "在东北的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7267,6 +7477,30 @@
       "感到或引起对往事怀恋的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "nostril",
+    "type": "word",
+    "pos": "N",
+    "translation": "鼻孔；插图",
+    "analysis": "n either of the two external openings in the nose through which the breath passes 鼻孔. =>illus at head 见head插图.",
+    "phonetic": "/ ˈnɒstrəl; ˈnɑːstrəl/",
+    "origin": "待查",
+    "expansions": [
+      "鼻孔；插图"
+    ],
+    "pronunciation": "/ ˈnɒstrəl; ˈnɑːstrəl/",
+    "accepted_answers": [
+      "鼻孔",
+      "插图"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7796,6 +8030,29 @@
     "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
   },
   {
+    "term": "nougat",
+    "type": "word",
+    "pos": "N",
+    "translation": "牛轧糖（用果仁、糖或蜂蜜及蛋白制的硬糖）",
+    "analysis": "n [U] type of hard sweet made with nuts, sugar or honey, and egg-white 牛轧糖（用果仁、 糖或蜂蜜及蛋白制的硬糖）.",
+    "phonetic": "/ ˈnuːgɑː:,alsoˈnʌgət; ˈnuːgət; ˈnugət/",
+    "origin": "待查",
+    "expansions": [
+      "牛轧糖（用果仁、糖或蜂蜜及蛋白制的硬糖）"
+    ],
+    "pronunciation": "/ ˈnuːgɑː:,alsoˈnʌgət; ˈnuːgət; ˈnugət/",
+    "accepted_answers": [
+      "牛轧糖（用果仁、糖或蜂蜜及蛋白制的硬糖）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "nought",
     "type": "word",
     "translation": "在黑板上写三个；)零点一（；见附录",
@@ -7943,6 +8200,29 @@
       "新颖的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "novelette",
+    "type": "word",
+    "pos": "N",
+    "translation": "中篇小说（常指质量低劣的）",
+    "analysis": "n short novel, often of inferior quality 中篇小说（常指质量低劣的）.",
+    "phonetic": "/ ˌnɒvəˈlet; ˌnɑːvlˈet/",
+    "origin": "待查",
+    "expansions": [
+      "中篇小说（常指质量低劣的）"
+    ],
+    "pronunciation": "/ ˌnɒvəˈlet; ˌnɑːvlˈet/",
+    "accepted_answers": [
+      "中篇小说（常指质量低劣的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -8652,6 +8932,31 @@
     "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "numeration",
+    "type": "word",
+    "pos": "N",
+    "translation": "数)；计算；计算法",
+    "analysis": "n[U] (mathematics 数)  1 method or process of numbering计算; 计算法; 运算过程.  2 expression in words of numbers written in figures 命数法; 读数法.",
+    "phonetic": "/ ˌnjuːməˈreɪʃn; ˌnuː-; ˌnuməˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "数)；计算；计算法"
+    ],
+    "pronunciation": "/ ˌnjuːməˈreɪʃn; ˌnuː-; ˌnuməˈreʃən/",
+    "accepted_answers": [
+      "数)",
+      "计算",
+      "计算法"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "numerical",
     "type": "word",
     "translation": "数字的；以数字表示的；表示数字的",
@@ -9026,6 +9331,29 @@
     "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "nutritionally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "nutritionally",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃənəlɪ; -ʃənəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "nutritionally"
+    ],
+    "pronunciation": "/ -ʃənəlɪ; -ʃənəlɪ/",
+    "accepted_answers": [
+      "nutritionally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "nutritious",
     "type": "word",
     "translation": "文)；有营养价值的；营养价值高的",
@@ -9190,6 +9518,54 @@
       "女衬衫等"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "nymph",
+    "type": "word",
+    "pos": "N",
+    "translation": "（希腊与罗马神话）（居住在河里、林中、山上等的）小仙女；尤用於诗中)；少女",
+    "analysis": "n  1 (in Greek and Roman mythology) minor goddess living in rivers, trees, hills, etc （希腊与罗马神话）（居住在河里、 林中、 山上等的）小仙女.  2 (esp in poetry 尤用於诗中) young woman, esp a beautiful one 少女; （尤指）妙龄美女. Cf 参看 sylph.  3 young insect (eg a young dragonfly) that has a similar form to the adult （与成虫形状相似的）昆虫的幼虫（如蜻蜓的幼虫）.",
+    "phonetic": "/ nɪmf; nɪmf/",
+    "origin": "待查",
+    "expansions": [
+      "（希腊与罗马神话）（居住在河里、林中、山上等的）小仙女；尤用於诗中)；少女"
+    ],
+    "pronunciation": "/ nɪmf; nɪmf/",
+    "accepted_answers": [
+      "（希腊与罗马神话）（居住在河里、林中、山上等的）小仙女",
+      "尤用於诗中)",
+      "少女"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/N/N-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "nymphomania",
+    "type": "word",
+    "pos": "N",
+    "translation": "（女性的）色情狂",
+    "analysis": "n [U] excessive and uncontrollable sexual desire in women （女性的）色情狂.",
+    "phonetic": "/ ˌnɪmfəˈmeɪnɪə; ˌnɪmfəˈmenɪə/",
+    "origin": "待查",
+    "expansions": [
+      "（女性的）色情狂"
+    ],
+    "pronunciation": "/ ˌnɪmfəˈmeɪnɪə; ˌnɪmfəˈmenɪə/",
+    "accepted_answers": [
+      "（女性的）色情狂"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

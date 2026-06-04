@@ -219,6 +219,30 @@
     "dict_source": "data/DICT/T/T-v,w,x,y,z.txt"
   },
   {
+    "term": "ta",
+    "type": "word",
+    "pos": "word",
+    "translation": "口)；谢谢",
+    "analysis": "interj (Brit infml 口) thank you 谢谢.",
+    "phonetic": "/ tɑː:; tɑː/",
+    "origin": "待查",
+    "expansions": [
+      "口)；谢谢"
+    ],
+    "pronunciation": "/ tɑː:; tɑː/",
+    "accepted_answers": [
+      "口)",
+      "谢谢"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
+  },
+  {
     "term": "tab",
     "type": "word",
     "translation": "小片；小条；小带（尤指用以抓住、悬挂、固定或识别某物的）；拉环开罐（如啤酒罐上的字样）；名字标签（缝在衣物等上的）",
@@ -261,6 +285,29 @@
     "accepted_answers": [
       "专利名)",
       "塔巴斯哥辣沙司"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
+  },
+  {
+    "term": "tabby",
+    "type": "word",
+    "pos": "N",
+    "translation": "斑猫",
+    "analysis": "(also `tabby-cat) n cat with grey or brownish fur and dark stripes 斑猫.",
+    "phonetic": "/ ˈtæbɪ; ˈtæbɪ/",
+    "origin": "待查",
+    "expansions": [
+      "斑猫"
+    ],
+    "pronunciation": "/ ˈtæbɪ; ˈtæbɪ/",
+    "accepted_answers": [
+      "斑猫"
     ],
     "added_at": "",
     "review": {
@@ -513,6 +560,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "taciturn",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "沉默寡言的；不爱说话的",
+    "analysis": "adj (in the habit of) saying very little; uncommunicative 沉默寡言的; 不爱说话的.",
+    "phonetic": "/ ˈtæsɪtɜːn; ˈtæsəˌtɜːn/",
+    "origin": "待查",
+    "expansions": [
+      "沉默寡言的；不爱说话的"
+    ],
+    "pronunciation": "/ ˈtæsɪtɜːn; ˈtæsəˌtɜːn/",
+    "accepted_answers": [
+      "沉默寡言的",
+      "不爱说话的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
+  },
+  {
+    "term": "taciturnity",
+    "type": "word",
+    "pos": "N",
+    "translation": "taciturnity",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌtæsɪˈtɜːnətɪ; ˌtæsəˈtɜːnətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "taciturnity"
+    ],
+    "pronunciation": "/ ˌtæsɪˈtɜːnətɪ; ˌtæsəˈtɜːnətɪ/",
+    "accepted_answers": [
+      "taciturnity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
   },
   {
     "term": "tack",
@@ -770,6 +864,29 @@
     "pronunciation": "/ ˈtædpəʊl; ˈtædˌpol/",
     "accepted_answers": [
       "蝌蚪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
+  },
+  {
+    "term": "taffrail",
+    "type": "word",
+    "pos": "N",
+    "translation": "船尾栏杆",
+    "analysis": "n rail round the stern of a ship or boat 船尾栏杆.",
+    "phonetic": "/ ˈtæfreɪl; ˈtæfˌrel/",
+    "origin": "待查",
+    "expansions": [
+      "船尾栏杆"
+    ],
+    "pronunciation": "/ ˈtæfreɪl; ˈtæfˌrel/",
+    "accepted_answers": [
+      "船尾栏杆"
     ],
     "added_at": "",
     "review": {
@@ -1260,6 +1377,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "tampon",
+    "type": "word",
+    "pos": "N",
+    "translation": "（女子使用的）月经棉塞；卫生栓",
+    "analysis": "n plug of cotton wool or other absorbent material inserted into a woman's vagina to absorb blood during menstruation （女子使用的）月经棉塞, 卫生栓.",
+    "phonetic": "/ ˈtæmpɒn; ˈtæmpɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "（女子使用的）月经棉塞；卫生栓"
+    ],
+    "pronunciation": "/ ˈtæmpɒn; ˈtæmpɑːn/",
+    "accepted_answers": [
+      "（女子使用的）月经棉塞",
+      "卫生栓"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
   },
   {
     "term": "tan",
@@ -1875,6 +2016,29 @@
     "dict_source": "data/DICT/T/T-a.txt"
   },
   {
+    "term": "tarboosh",
+    "type": "word",
+    "pos": "N",
+    "translation": "塔布什帽（某些国家穆斯林男子戴的无沿毡帽）",
+    "analysis": "n brimless felt cap like a fez, worn by Muslim men in certain countries 塔布什帽（某些国家穆斯林男子戴的无沿毡帽）.",
+    "phonetic": "/ tɑː:ˈbuːʃ; tɑːrˈbuʃ/",
+    "origin": "待查",
+    "expansions": [
+      "塔布什帽（某些国家穆斯林男子戴的无沿毡帽）"
+    ],
+    "pronunciation": "/ tɑː:ˈbuːʃ; tɑːrˈbuʃ/",
+    "accepted_answers": [
+      "塔布什帽（某些国家穆斯林男子戴的无沿毡帽）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
+  },
+  {
     "term": "tardily",
     "type": "word",
     "pos": "Adv",
@@ -2021,6 +2185,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "taro",
+    "type": "word",
+    "pos": "N",
+    "translation": "芋头",
+    "analysis": "n (pl ~s) any of various types of tropical plant with a starchy root used as food, esp in the Pacific islands 芋; 芋头.",
+    "phonetic": "/ ˈtɑː:rəʊ; ˈtɑːro/",
+    "origin": "待查",
+    "expansions": [
+      "芋头"
+    ],
+    "pronunciation": "/ ˈtɑː:rəʊ; ˈtɑːro/",
+    "accepted_answers": [
+      "芋头"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
   },
   {
     "term": "tarot",
@@ -2186,6 +2373,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "tartar sauce",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "塔塔沙司（用蛋黄酱加碎洋葱、香料；续随子及小黄瓜制成；尤用以佐鱼）",
+    "analysis": "cold sauce of mayonnaise with chopped onions, herbs, capers, gherkins, etc, eaten esp with fish 塔塔沙司（用蛋黄酱加碎洋葱、 香料, 续随子及小黄瓜制成, 尤用以佐鱼）.",
+    "phonetic": "/ ˌtɑː:tə(r)ˈsɔːs; ˈtɑː:rtərsɔːs; ˈtɑːrtəˌsɔːs/",
+    "origin": "待查",
+    "expansions": [
+      "塔塔沙司（用蛋黄酱加碎洋葱、香料；续随子及小黄瓜制成；尤用以佐鱼）"
+    ],
+    "pronunciation": "/ ˌtɑː:tə(r)ˈsɔːs; ˈtɑː:rtərsɔːs; ˈtɑːrtəˌsɔːs/",
+    "accepted_answers": [
+      "塔塔沙司（用蛋黄酱加碎洋葱、香料",
+      "续随子及小黄瓜制成",
+      "尤用以佐鱼）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
   },
   {
     "term": "task",
@@ -2476,6 +2688,31 @@
     "accepted_answers": [
       "（使某物）变紧",
       "紧张"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-a.txt"
+  },
+  {
+    "term": "tautology",
+    "type": "word",
+    "pos": "N",
+    "translation": "无谓的重复；赘述；重复的话",
+    "analysis": "n (a) [U] saying the same thing more than once in different ways withoutmaking one's meaning clearer or more forceful; needlessrepetition 无谓的重复; 赘述. (b) [C] instance of this 重复的话; 赘言. Cf 参看 pleonasm.",
+    "phonetic": "/ tɔːˈtɒlədʒɪ; tɔːˈtɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "无谓的重复；赘述；重复的话"
+    ],
+    "pronunciation": "/ tɔːˈtɒlədʒɪ; tɔːˈtɑːlədʒɪ/",
+    "accepted_answers": [
+      "无谓的重复",
+      "赘述",
+      "重复的话"
     ],
     "added_at": "",
     "review": {
@@ -3097,6 +3334,30 @@
     }
   },
   {
+    "term": "technocrat",
+    "type": "word",
+    "pos": "N",
+    "translation": "技术专家；（尤指）专家政治论者",
+    "analysis": "n expert inscience, engineering, etc, esp one who favours technocracy 技术专家; （尤指）专家政治论者.",
+    "phonetic": "/ ˈteknəkræt; ˈteknəˌkræt/",
+    "origin": "待查",
+    "expansions": [
+      "技术专家；（尤指）专家政治论者"
+    ],
+    "pronunciation": "/ ˈteknəkræt; ˈteknəˌkræt/",
+    "accepted_answers": [
+      "技术专家",
+      "（尤指）专家政治论者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-b,c,d,e.txt"
+  },
+  {
     "term": "technological",
     "type": "word",
     "translation": "主要的技术性突破；技术上的改变、问题",
@@ -3484,6 +3745,29 @@
     }
   },
   {
+    "term": "telecommunications",
+    "type": "word",
+    "pos": "N",
+    "translation": "电信",
+    "analysis": "n [pl] communications by satellite, cable, telegraph, telephone, radio or TV 电信.",
+    "phonetic": "/ ˌtelɪkəˌmjuːnɪˈkeɪʃnz; ˌteləkəˌmjunəˈkeʃənz/",
+    "origin": "待查",
+    "expansions": [
+      "电信"
+    ],
+    "pronunciation": "/ ˌtelɪkəˌmjuːnɪˈkeɪʃnz; ˌteləkəˌmjunəˈkeʃənz/",
+    "accepted_answers": [
+      "电信"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-b,c,d,e.txt"
+  },
+  {
     "term": "telegram",
     "type": "word",
     "translation": "电报；)发；（祝贺、吊唁等）电报",
@@ -3506,6 +3790,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "telegraphic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "适於打电报的；打电报发送的",
+    "analysis": "adj suitable for or sent by telegraphy 适於打电报的; 打电报发送的.",
+    "phonetic": "/ ˌtelɪˈgræfɪk; ˌteləˈgræfɪk/",
+    "origin": "待查",
+    "expansions": [
+      "适於打电报的；打电报发送的"
+    ],
+    "pronunciation": "/ ˌtelɪˈgræfɪk; ˌteləˈgræfɪk/",
+    "accepted_answers": [
+      "适於打电报的",
+      "打电报发送的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-b,c,d,e.txt"
   },
   {
     "term": "telegraphically",
@@ -3616,6 +3924,29 @@
     "pronunciation": "/ ˌtelɪˈfɒnɪk; ˌteləˈfɑːnɪk/",
     "accepted_answers": [
       "telephonic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-b,c,d,e.txt"
+  },
+  {
+    "term": "telephotography",
+    "type": "word",
+    "pos": "N",
+    "translation": "摄远摄影术",
+    "analysis": "n [U] process of photographing distant objects using a telephoto lens 摄远摄影术.",
+    "phonetic": "/ ˌtelɪfəˈtɒgrəfɪ; ˌteləfoˈtɑːgrəfɪ/",
+    "origin": "待查",
+    "expansions": [
+      "摄远摄影术"
+    ],
+    "pronunciation": "/ ˌtelɪfəˈtɒgrəfɪ; ˌteləfoˈtɑːgrəfɪ/",
+    "accepted_answers": [
+      "摄远摄影术"
     ],
     "added_at": "",
     "review": {
@@ -5661,6 +5992,30 @@
     }
   },
   {
+    "term": "terrorism",
+    "type": "word",
+    "pos": "N",
+    "translation": "恐怖主义；恐怖手段（尤指有政治目的者）",
+    "analysis": "n [U] use ofviolence and threats of violence, esp for political purposes恐怖主义, 恐怖手段（尤指有政治目的者）.",
+    "phonetic": "/ ˈterərɪzəm; ˈterəˌrɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "恐怖主义；恐怖手段（尤指有政治目的者）"
+    ],
+    "pronunciation": "/ ˈterərɪzəm; ˈterəˌrɪzəm/",
+    "accepted_answers": [
+      "恐怖主义",
+      "恐怖手段（尤指有政治目的者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-b,c,d,e.txt"
+  },
+  {
     "term": "terrorist",
     "type": "word",
     "translation": "恐怖主义者；恐怖分子；恐怖分子扬言要炸毁劫持的客机",
@@ -6849,6 +7204,29 @@
     "dict_source": "data/DICT/T/T-f,g,h.txt"
   },
   {
+    "term": "theocratic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "theocratic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌθɪəˈkrætɪk; ˌθiəˈkrætɪk/",
+    "origin": "待查",
+    "expansions": [
+      "theocratic"
+    ],
+    "pronunciation": "/ ˌθɪəˈkrætɪk; ˌθiəˈkrætɪk/",
+    "accepted_answers": [
+      "theocratic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-f,g,h.txt"
+  },
+  {
     "term": "theologian",
     "type": "word",
     "pos": "N",
@@ -7631,6 +8009,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "they'd",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式  1 they had => have.  2 they would => will1, would2.",
+    "phonetic": "/ Teɪd; Ted/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ Teɪd; Ted/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-f,g,h.txt"
   },
   {
     "term": "they've",
@@ -9304,6 +9705,29 @@
     "dict_source": "data/DICT/T/T-f,g,h.txt"
   },
   {
+    "term": "thyroid",
+    "type": "word",
+    "pos": "N",
+    "translation": "甲状腺",
+    "analysis": "n (also thyroid `gland) largegland at the front of the neck, producing a hormone which controls the body's growth and development 甲状腺.",
+    "phonetic": "/ ˈθaɪrɔːɪd; ˈθaɪrɔːɪd/",
+    "origin": "待查",
+    "expansions": [
+      "甲状腺"
+    ],
+    "pronunciation": "/ ˈθaɪrɔːɪd; ˈθaɪrɔːɪd/",
+    "accepted_answers": [
+      "甲状腺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-f,g,h.txt"
+  },
+  {
     "term": "tibia",
     "type": "word",
     "translation": ")(；解)；插图",
@@ -9933,6 +10357,33 @@
     }
   },
   {
+    "term": "tilde",
+    "type": "word",
+    "pos": "N",
+    "translation": "()；)波形号；鼻化符号（）（用以表示鼻音化的附加符号；如西班牙语的；或葡萄牙语的",
+    "analysis": "n  1 mark () placed over the Spanish n when it is pronounced ny / nj; nj/ (as in canon), or the Portuguese a or o when it is nasalized (as in Sao Paolo) 波形号, 鼻化符号（）（用以表示鼻音化的附加符号, 如西班牙语的 canon 或葡萄牙语的 Sao Paolo）.  2 mark (~) used in this dictionary to replace the headword in certain parts of an entry 代字号（~）（在本词典的词条项内代替某些首词的符号）.",
+    "phonetic": "/ ˈtɪldə,insense2用於下述第2义时读作tɪld; ˈtɪldə/",
+    "origin": "待查",
+    "expansions": [
+      "()；)波形号；鼻化符号（）（用以表示鼻音化的附加符号；如西班牙语的；或葡萄牙语的"
+    ],
+    "pronunciation": "/ ˈtɪldə,insense2用於下述第2义时读作tɪld; ˈtɪldə/",
+    "accepted_answers": [
+      "()",
+      ")波形号",
+      "鼻化符号（）（用以表示鼻音化的附加符号",
+      "如西班牙语的",
+      "或葡萄牙语的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-i.txt"
+  },
+  {
     "term": "tile",
     "type": "word",
     "translation": "（盖屋顶、贴墙、铺地等用的）瓦；瓷砖；板；片；用软木板贴墙；用多孔聚苯乙烯板使天花板保温",
@@ -9962,6 +10413,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "tiller",
+    "type": "word",
+    "pos": "N",
+    "translation": "（小帆船的）舵柄；插图；参看",
+    "analysis": "n horizontal bar used to turn the rudder of a small sailing-boat （小帆船的）舵柄. =>illus at yacht 见 yacht 插图. Cf 参看 helm.",
+    "phonetic": "/ ˈtɪlə(r); ˈtɪlə/",
+    "origin": "待查",
+    "expansions": [
+      "（小帆船的）舵柄；插图；参看"
+    ],
+    "pronunciation": "/ ˈtɪlə(r); ˈtɪlə/",
+    "accepted_answers": [
+      "（小帆船的）舵柄",
+      "插图",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-i.txt"
   },
   {
     "term": "tilt",
@@ -11735,6 +12211,29 @@
     }
   },
   {
+    "term": "tom-cat",
+    "type": "word",
+    "pos": "N",
+    "translation": "郎猫（雄猫）",
+    "analysis": "(also tom) n male cat 郎猫（雄猫）.",
+    "phonetic": "/ ˈtɒmkæt; ˈtɑːmˌkæt/",
+    "origin": "待查",
+    "expansions": [
+      "郎猫（雄猫）"
+    ],
+    "pronunciation": "/ ˈtɒmkæt; ˈtɑːmˌkæt/",
+    "accepted_answers": [
+      "郎猫（雄猫）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-o.txt"
+  },
+  {
     "term": "tomato",
     "type": "word",
     "translation": ")(；番茄；西红柿",
@@ -11825,6 +12324,29 @@
       "明天晴"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-o.txt"
+  },
+  {
+    "term": "tomtit",
+    "type": "word",
+    "pos": "N",
+    "translation": "山雀（尤指蓝山雀）",
+    "analysis": "n type of tit(1), esp the blue tit 山雀（尤指蓝山雀）.",
+    "phonetic": "/ ˈtɒmtɪt; ˈtɑːmˌtɪt/",
+    "origin": "待查",
+    "expansions": [
+      "山雀（尤指蓝山雀）"
+    ],
+    "pronunciation": "/ ˈtɒmtɪt; ˈtɑːmˌtɪt/",
+    "accepted_answers": [
+      "山雀（尤指蓝山雀）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -12161,6 +12683,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "toothsome",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)(；（指食物）美味的；可口的",
+    "analysis": "adj (fml 文) (of food) tasting pleasant （指食物）美味的, 可口的.",
+    "phonetic": "/ ˈtuːθsəm; ˈtuθsəm/",
+    "origin": "待查",
+    "expansions": [
+      "文)(；（指食物）美味的；可口的"
+    ],
+    "pronunciation": "/ ˈtuːθsəm; ˈtuθsəm/",
+    "accepted_answers": [
+      "文)(",
+      "（指食物）美味的",
+      "可口的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-o.txt"
   },
   {
     "term": "tootle",
@@ -13849,6 +14396,31 @@
     }
   },
   {
+    "term": "trad",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；)传统爵士乐（二十年代风格的；有固定的节奏、和声及很多即兴发挥）",
+    "analysis": "n [U] (infml 口) traditional jazz (ie in the style of the 1920's, with fixed rhythms and harmonies and much improvisation) 传统爵士乐（二十年代风格的, 有固定的节奏、 和声及很多即兴发挥）.",
+    "phonetic": "/ træd; træd/",
+    "origin": "待查",
+    "expansions": [
+      "口)；)传统爵士乐（二十年代风格的；有固定的节奏、和声及很多即兴发挥）"
+    ],
+    "pronunciation": "/ træd; træd/",
+    "accepted_answers": [
+      "口)",
+      ")传统爵士乐（二十年代风格的",
+      "有固定的节奏、和声及很多即兴发挥）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trade",
     "type": "word",
     "translation": "交易；贸易；商业",
@@ -13948,6 +14520,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "traditionalist",
+    "type": "word",
+    "pos": "N",
+    "translation": "传统主义者",
+    "analysis": "n person who follows or supports tradition 传统主义者.",
+    "phonetic": "/ -ʃənəlɪst; -ʃənlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "传统主义者"
+    ],
+    "pronunciation": "/ -ʃənəlɪst; -ʃənlɪst/",
+    "accepted_answers": [
+      "传统主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
     "term": "traditionally",
@@ -14914,6 +15509,29 @@
     }
   },
   {
+    "term": "transformable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "可改变外观或性质的",
+    "analysis": "adj that can be transformed 可改变外观或性质的.",
+    "phonetic": "/ -əbl; -əbl/",
+    "origin": "待查",
+    "expansions": [
+      "可改变外观或性质的"
+    ],
+    "pronunciation": "/ -əbl; -əbl/",
+    "accepted_answers": [
+      "可改变外观或性质的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "transformation",
     "type": "word",
     "translation": "（外观或性质的）改变；改观；转变；他结婚之後性格判若两人；变压器",
@@ -15559,6 +16177,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "transportable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "可运输的；可流放的",
+    "analysis": "adj that can be transported可运输的; 可流放的.",
+    "phonetic": "/ -əbl; -əbl/",
+    "origin": "待查",
+    "expansions": [
+      "可运输的；可流放的"
+    ],
+    "pronunciation": "/ -əbl; -əbl/",
+    "accepted_answers": [
+      "可运输的",
+      "可流放的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
     "term": "transportation",
@@ -16446,6 +17088,29 @@
     "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
+    "term": "trembler",
+    "type": "word",
+    "pos": "N",
+    "translation": "（继电器的）振颤片",
+    "analysis": "n spring that makes an electrical contact when shaken （继电器的）振颤片.",
+    "phonetic": "/ ˈtremblə(r); ˈtremblə/",
+    "origin": "待查",
+    "expansions": [
+      "（继电器的）振颤片"
+    ],
+    "pronunciation": "/ ˈtremblə(r); ˈtremblə/",
+    "accepted_answers": [
+      "（继电器的）振颤片"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trembly",
     "type": "word",
     "translation": "口)；颤抖的；战栗的",
@@ -16896,6 +17561,30 @@
     }
   },
   {
+    "term": "tribalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "部落制度；部落人的习性",
+    "analysis": "n [U]  1 state ofbeing organized in a tribe or tribes 部落制度.  2 behaviourand attitudes that result from belonging to a tribe 部落人的习性.",
+    "phonetic": "/ ˈtraɪbəlɪzəm; ˈtraɪblɪzm/",
+    "origin": "待查",
+    "expansions": [
+      "部落制度；部落人的习性"
+    ],
+    "pronunciation": "/ ˈtraɪbəlɪzəm; ˈtraɪblɪzm/",
+    "accepted_answers": [
+      "部落制度",
+      "部落人的习性"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "tribe",
     "type": "word",
     "translation": "部落；祖鲁人的部落；早期以色列人十二支族",
@@ -17166,6 +17855,31 @@
     }
   },
   {
+    "term": "trifler",
+    "type": "word",
+    "pos": "N",
+    "translation": "轻视或随便对待某人；某事物；的人",
+    "analysis": "n person who trifles 轻视或随便对待某人[某事物]的人.",
+    "phonetic": "/ ˈtraɪflə(r); ˈtraɪflə/",
+    "origin": "待查",
+    "expansions": [
+      "轻视或随便对待某人；某事物；的人"
+    ],
+    "pronunciation": "/ ˈtraɪflə(r); ˈtraɪflə/",
+    "accepted_answers": [
+      "轻视或随便对待某人",
+      "某事物",
+      "的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trifling",
     "type": "word",
     "translation": "不重要的；琐碎的；一些小错误",
@@ -17216,6 +17930,29 @@
     }
   },
   {
+    "term": "trigonometrical",
+    "type": "word",
+    "pos": "word",
+    "translation": "trigonometrical",
+    "analysis": "adjs.",
+    "phonetic": "/ ˌtrɪgənəˈmetrɪk,-kl; ˌtrɪgənəˈmetrɪk,-kl/",
+    "origin": "待查",
+    "expansions": [
+      "trigonometrical"
+    ],
+    "pronunciation": "/ ˌtrɪgənəˈmetrɪk,-kl; ˌtrɪgənəˈmetrɪk,-kl/",
+    "accepted_answers": [
+      "trigonometrical"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trilateral",
     "type": "word",
     "translation": "涉及三个方面、团体、国家等的；三边的；三方之间的商讨",
@@ -17263,6 +18000,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "trilobite",
+    "type": "word",
+    "pos": "N",
+    "translation": "三叶虫（已绝灭的海洋动物；仅存化石）",
+    "analysis": "n extinct sea animal found as a fossil 三叶虫（已绝灭的海洋动物, 仅存化石）.",
+    "phonetic": "/ ˈtraɪləbaɪt; ˈtraɪləˌbaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "三叶虫（已绝灭的海洋动物；仅存化石）"
+    ],
+    "pronunciation": "/ ˈtraɪləbaɪt; ˈtraɪləˌbaɪt/",
+    "accepted_answers": [
+      "三叶虫（已绝灭的海洋动物",
+      "仅存化石）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
     "term": "trim",
@@ -17748,6 +18509,29 @@
     }
   },
   {
+    "term": "trivially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "trivially",
+    "analysis": "adv.\ntrod\npt of tread.\ntrodden\npp of tread.",
+    "phonetic": "/ -ɪəlɪ; -ɪəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "trivially"
+    ],
+    "pronunciation": "/ -ɪəlɪ; -ɪəlɪ/",
+    "accepted_answers": [
+      "trivially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trojan",
     "type": "word",
     "translation": "（小亚细亚古城）特洛伊的；特洛伊人；特洛伊战争（古希腊人与特洛伊人之战；荷马史诗曾述其事）；习语)",
@@ -17992,6 +18776,30 @@
     "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
+    "term": "trotskyist",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "托洛茨基主义的；托洛茨基分子",
+    "analysis": "(also Trotskyite / 5trCtskIaIt; `trBtski9aIt/) n, adj (supporter) of Trotskyism 托洛茨基主义的; 托洛茨基分子.",
+    "phonetic": "/ ˈtrɒtskɪɪst; ˈtrɑːtskɪɪst/",
+    "origin": "待查",
+    "expansions": [
+      "托洛茨基主义的；托洛茨基分子"
+    ],
+    "pronunciation": "/ ˈtrɒtskɪɪst; ˈtrɑːtskɪɪst/",
+    "accepted_answers": [
+      "托洛茨基主义的",
+      "托洛茨基分子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trouble",
     "type": "word",
     "translation": "忧虑、苦恼、痛苦、困难、危险等（产生的环境）；我们的新汽车很让人伤脑筋；我牙疼得难受",
@@ -18171,6 +18979,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "truancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "逃学；旷课",
+    "analysis": "n [C, U] (instance of) playing truant 逃学; 旷课.",
+    "phonetic": "/ -ənsɪ; -ənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "逃学；旷课"
+    ],
+    "pronunciation": "/ -ənsɪ; -ənsɪ/",
+    "accepted_answers": [
+      "逃学",
+      "旷课"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
+    "term": "truant",
+    "type": "word",
+    "pos": "N",
+    "translation": "逃学的儿童；旷课的小学生；逃避工作或责任的人",
+    "analysis": "n  1 child who stays away from school without permission 逃学的儿童; 旷课的小学生.  2 person who avoids doing his work or duty; idler 逃避工作或责任的人; 游手好闲的人.  3 (idm 习语) play `truant (US play `hooky / 5hUkI; `hJkI/) stay away from school as a truant 逃学; 旷课.",
+    "phonetic": "/ ˈtruːənt; ˈtruənt/",
+    "origin": "待查",
+    "expansions": [
+      "逃学的儿童；旷课的小学生；逃避工作或责任的人"
+    ],
+    "pronunciation": "/ ˈtruːənt; ˈtruənt/",
+    "accepted_answers": [
+      "逃学的儿童",
+      "旷课的小学生",
+      "逃避工作或责任的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
     "term": "truce",
@@ -18418,6 +19275,30 @@
     }
   },
   {
+    "term": "truncheon",
+    "type": "word",
+    "pos": "N",
+    "translation": "（作为武器携带的）粗短的棍子；（尤指）警棍",
+    "analysis": "(also baton) n short thick stick carried as a weapon, esp by police officers （作为武器携带的）粗短的棍子; （尤指）警棍.",
+    "phonetic": "/ ˈtrʌntʃən; ˈtrʌntʃən/",
+    "origin": "待查",
+    "expansions": [
+      "（作为武器携带的）粗短的棍子；（尤指）警棍"
+    ],
+    "pronunciation": "/ ˈtrʌntʃən; ˈtrʌntʃən/",
+    "accepted_answers": [
+      "（作为武器携带的）粗短的棍子",
+      "（尤指）警棍"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
+  },
+  {
     "term": "trundle",
     "type": "word",
     "translation": "（使某物）沉重地滚动或移动；一列货运列车隆隆地驶过；推著手推车沿路走去",
@@ -18493,6 +19374,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "trustee",
+    "type": "word",
+    "pos": "N",
+    "translation": ")受信托人（受信托管理财产的人）；（机构的）管理班子成员",
+    "analysis": "n  1 person who is responsible for managing a trust1(3a) 受信托人（受信托管理财产的人）.  2 member of a group of people managing the business affairs of an institution （机构的）管理班子成员.",
+    "phonetic": "/ trʌˈstiː; trʌsˈti/",
+    "origin": "待查",
+    "expansions": [
+      ")受信托人（受信托管理财产的人）；（机构的）管理班子成员"
+    ],
+    "pronunciation": "/ trʌˈstiː; trʌsˈti/",
+    "accepted_answers": [
+      ")受信托人（受信托管理财产的人）",
+      "（机构的）管理班子成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-p,q,r.txt"
   },
   {
     "term": "trustful",
@@ -19003,6 +19908,30 @@
       "郁金香",
       "见附录",
       "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/T/T-s,t,u.txt"
+  },
+  {
+    "term": "tulle",
+    "type": "word",
+    "pos": "N",
+    "translation": "绢网；丝网眼纱（尤用以制面纱及连衣裙）",
+    "analysis": "n [U] soft fine silky net-like material used esp for veils and dresses 绢网, 丝网眼纱（尤用以制面纱及连衣裙）.",
+    "phonetic": "/ tjuːl; tuːl; tul/",
+    "origin": "待查",
+    "expansions": [
+      "绢网；丝网眼纱（尤用以制面纱及连衣裙）"
+    ],
+    "pronunciation": "/ tjuːl; tuːl; tul/",
+    "accepted_answers": [
+      "绢网",
+      "丝网眼纱（尤用以制面纱及连衣裙）"
     ],
     "added_at": "",
     "review": {
