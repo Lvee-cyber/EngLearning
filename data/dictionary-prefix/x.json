@@ -54,6 +54,53 @@
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
+    "term": "xenon",
+    "type": "word",
+    "pos": "N",
+    "translation": "见附录",
+    "analysis": "n [U] chemical element, a colourlessand odourless inert gas 氙. =>App 10 见附录 10.",
+    "phonetic": "/ ˈziːnɒn; ˈziˌnɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "见附录"
+    ],
+    "pronunciation": "/ ˈziːnɒn; ˈziˌnɑːn/",
+    "accepted_answers": [
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
+    "term": "xenophobia",
+    "type": "word",
+    "pos": "N",
+    "translation": "对外国人或陌生人的憎恶或恐惧；爱国主义过了头即可导致仇视一切外国人",
+    "analysis": "n [U] intense dislike or fear of foreigners or strangers 对外国人或陌生人的憎恶或恐惧: Excessive patriotism can lead to xenophobia. 爱国主义过了头即可导致仇视一切外国人.",
+    "phonetic": "/ ˌzenəˈfəʊbɪə; ˌzenəˈfobɪə/",
+    "origin": "待查",
+    "expansions": [
+      "Excessive patriotism can lead to xenophobia. 爱国主义过了头即可导致仇视一切外国人."
+    ],
+    "pronunciation": "/ ˌzenəˈfəʊbɪə; ˌzenəˈfobɪə/",
+    "accepted_answers": [
+      "对外国人或陌生人的憎恶或恐惧",
+      "爱国主义过了头即可导致仇视一切外国人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
     "term": "xerox",
     "type": "word",
     "pos": "N",

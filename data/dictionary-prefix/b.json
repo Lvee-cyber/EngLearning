@@ -457,6 +457,30 @@
     }
   },
   {
+    "term": "babbler",
+    "type": "word",
+    "pos": "N",
+    "translation": "说话含糊不清的人；唠唠叨叨的人",
+    "analysis": "n person who babbles 说话含糊不清的人; 唠唠叨叨的人.",
+    "phonetic": "/ ˈbæblə(r); ˈbæblə/",
+    "origin": "待查",
+    "expansions": [
+      "说话含糊不清的人；唠唠叨叨的人"
+    ],
+    "pronunciation": "/ ˈbæblə(r); ˈbæblə/",
+    "accepted_answers": [
+      "说话含糊不清的人",
+      "唠唠叨叨的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "babblingly",
     "type": "word",
     "translation": "…地；以…方式",
@@ -642,6 +666,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "baboon",
+    "type": "word",
+    "pos": "N",
+    "translation": "狒狒；之插图",
+    "analysis": "n large African or Arabian monkey with a dog-like face 狒狒. =>illus at monkey 见monkey之插图.",
+    "phonetic": "/ bəˈbuːn; bæ-; bæˈbun/",
+    "origin": "待查",
+    "expansions": [
+      "狒狒；之插图"
+    ],
+    "pronunciation": "/ bəˈbuːn; bæ-; bæˈbun/",
+    "accepted_answers": [
+      "狒狒",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "baby",
@@ -1995,6 +2043,29 @@
     }
   },
   {
+    "term": "bagel",
+    "type": "word",
+    "pos": "N",
+    "translation": "一种圈状硬面包",
+    "analysis": "n hard ring-shaped bread roll 一种圈状硬面包.",
+    "phonetic": "/ ˈbeɪgl; ˈbegəl/",
+    "origin": "待查",
+    "expansions": [
+      "一种圈状硬面包"
+    ],
+    "pronunciation": "/ ˈbeɪgl; ˈbegəl/",
+    "accepted_answers": [
+      "一种圈状硬面包"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "bagful",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -2317,6 +2388,31 @@
       "那鱼轻咬"
     ],
     "added_at": "2026-03-30T01:21:41.240Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
+    "term": "baize",
+    "type": "word",
+    "pos": "N",
+    "translation": "台面呢（一种厚毛呢；通常为绿色；用作台球台、牌桌、门等的衬垫）",
+    "analysis": "n [U] thick (usu green) woollen cloth used for covering billiard-tables, card-tables, doors, etc 台面呢（一种厚毛呢, 通常为绿色, 用作台球台、牌桌、门等的衬垫）.",
+    "phonetic": "/ beɪz; bez/",
+    "origin": "待查",
+    "expansions": [
+      "台面呢（一种厚毛呢；通常为绿色；用作台球台、牌桌、门等的衬垫）"
+    ],
+    "pronunciation": "/ beɪz; bez/",
+    "accepted_answers": [
+      "台面呢（一种厚毛呢",
+      "通常为绿色",
+      "用作台球台、牌桌、门等的衬垫）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3049,6 +3145,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "balk",
+    "type": "word",
+    "pos": "N",
+    "translation": "（粗加工的）大方木料",
+    "analysis": "n thick, roughly-squared wooden beam （粗加工的）大方木料.",
+    "phonetic": "/ bɔːk; bɔːk/",
+    "origin": "待查",
+    "expansions": [
+      "（粗加工的）大方木料"
+    ],
+    "pronunciation": "/ bɔːk; bɔːk/",
+    "accepted_answers": [
+      "（粗加工的）大方木料"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "ball",
@@ -4124,6 +4243,29 @@
     }
   },
   {
+    "term": "bandeau",
+    "type": "word",
+    "pos": "N",
+    "translation": "（女用）束发带",
+    "analysis": "n (pl -deaux/-dEUz; US  5dEUz; -`doz/) narrow band worn round the head by a woman to keep her hair in place （女用）束发带.",
+    "phonetic": "/ ˈbændəʊ; bænˈdəʊ; bænˈdo/",
+    "origin": "待查",
+    "expansions": [
+      "（女用）束发带"
+    ],
+    "pronunciation": "/ ˈbændəʊ; bænˈdəʊ; bænˈdo/",
+    "accepted_answers": [
+      "（女用）束发带"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "bander",
     "type": "word",
     "translation": "…者；…工具",
@@ -4307,6 +4449,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bandsman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")（管）乐队队员",
+    "analysis": "n (pl -men/ -mEn; -mEn/) person who plays in a band(3a) （管）乐队队员.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      ")（管）乐队队员"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      ")（管）乐队队员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "bandwidth",
@@ -4496,6 +4661,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bangle",
+    "type": "word",
+    "pos": "N",
+    "translation": "手镯；脚镯",
+    "analysis": "n large decorative ring worn round the arm or ankle 手镯; 脚镯.",
+    "phonetic": "/ ˈbæŋgl; ˈbæŋgl/",
+    "origin": "待查",
+    "expansions": [
+      "手镯；脚镯"
+    ],
+    "pronunciation": "/ ˈbæŋgl; ˈbæŋgl/",
+    "accepted_answers": [
+      "手镯",
+      "脚镯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "bangling",
@@ -4973,6 +5162,32 @@
     }
   },
   {
+    "term": "bantamweight",
+    "type": "word",
+    "pos": "N",
+    "translation": "最轻量级拳击手（体重在；公斤之间；仅高於特轻量级）；次轻量级摔跤运动员（体重在",
+    "analysis": "n  1 boxer weighing between 51 and 53.5 kilograms, next above flyweight 最轻量级拳击手（体重在51和53.5公斤之间, 仅高於特轻量级）.  2 wrestler weighing between 52 and 57 kilograms 次轻量级摔跤运动员（体重在52和57公斤之间）.",
+    "phonetic": "/ ˈbæntəmweɪt; ˈbæntəmˌwet/",
+    "origin": "待查",
+    "expansions": [
+      "最轻量级拳击手（体重在；公斤之间；仅高於特轻量级）；次轻量级摔跤运动员（体重在"
+    ],
+    "pronunciation": "/ ˈbæntəmweɪt; ˈbæntəmˌwet/",
+    "accepted_answers": [
+      "最轻量级拳击手（体重在",
+      "公斤之间",
+      "仅高於特轻量级）",
+      "次轻量级摔跤运动员（体重在"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "banteng",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -5432,6 +5647,30 @@
     }
   },
   {
+    "term": "barbarize",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（某人）野蛮；使（某人）粗野",
+    "analysis": "v [Tn] make (sb) barbarous 使（某人）野蛮; 使（某人）粗野.",
+    "phonetic": "/ ˈbɑː:bəraɪz; ˈbɑːrbəˌraɪz/",
+    "origin": "待查",
+    "expansions": [
+      "使（某人）野蛮；使（某人）粗野"
+    ],
+    "pronunciation": "/ ˈbɑː:bəraɪz; ˈbɑːrbəˌraɪz/",
+    "accepted_answers": [
+      "使（某人）野蛮",
+      "使（某人）粗野"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "barbarous",
     "type": "word",
     "translation": "贬)；（趣味、习惯等）粗俗的；粗声粗气",
@@ -5574,6 +5813,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "barcarole",
+    "type": "word",
+    "pos": "N",
+    "translation": "船歌（一种乐曲；尤指一种节奏徐缓轻快活泼的钢琴曲）",
+    "analysis": "n piece of music, esp for the piano, with a steady lilting rhythm 船歌（一种乐曲, 尤指一种节奏徐缓轻快活泼的钢琴曲）.",
+    "phonetic": "/ ˌbɑː:kəˈrəʊl,-ˈrɒl; ˈbɑːrkəˌrol/",
+    "origin": "待查",
+    "expansions": [
+      "船歌（一种乐曲；尤指一种节奏徐缓轻快活泼的钢琴曲）"
+    ],
+    "pronunciation": "/ ˌbɑː:kəˈrəʊl,-ˈrɒl; ˈbɑːrkəˌrol/",
+    "accepted_answers": [
+      "船歌（一种乐曲",
+      "尤指一种节奏徐缓轻快活泼的钢琴曲）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "barcode",
@@ -6386,6 +6649,29 @@
     }
   },
   {
+    "term": "baronetcy",
+    "type": "word",
+    "pos": "N",
+    "translation": "准男爵的爵位或头衔",
+    "analysis": "n rank or title of a baronet 准男爵的爵位或头衔.",
+    "phonetic": "/ ˈbærənɪtsɪ; ˈbærənɪtsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "准男爵的爵位或头衔"
+    ],
+    "pronunciation": "/ ˈbærənɪtsɪ; ˈbærənɪtsɪ/",
+    "accepted_answers": [
+      "准男爵的爵位或头衔"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "baroque",
     "type": "word",
     "pos": "N / Adj",
@@ -6509,6 +6795,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "barracuda",
+    "type": "word",
+    "pos": "N",
+    "translation": "梭子鱼（产於加勒比海的凶猛大鱼）",
+    "analysis": "n large fierce Caribbean fish 梭子鱼（产於加勒比海的凶猛大鱼）.",
+    "phonetic": "/ ˌbærəˈkuːdə; ˌbærəˈkudə/",
+    "origin": "待查",
+    "expansions": [
+      "梭子鱼（产於加勒比海的凶猛大鱼）"
+    ],
+    "pronunciation": "/ ˌbærəˈkuːdə; ˌbærəˈkudə/",
+    "accepted_answers": [
+      "梭子鱼（产於加勒比海的凶猛大鱼）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "barrad",
@@ -6990,6 +7299,31 @@
     }
   },
   {
+    "term": "bas-relief",
+    "type": "word",
+    "pos": "N",
+    "translation": "（人像或图样略微凸出於平面的）半浮雕；浅浮雕；浅浮雕品",
+    "analysis": "n (a) [U] form of sculpture or carving in which a figure or design projects only slightly from its background （人像或图样略微凸出於平面的）半浮雕, 浅浮雕. (b) [C] example of this 浅浮雕品.",
+    "phonetic": "/ ˌbæsrɪˈliːf,alsoˈbɑː:rɪliːf; ˌbæsrɪˈlif/",
+    "origin": "待查",
+    "expansions": [
+      "（人像或图样略微凸出於平面的）半浮雕；浅浮雕；浅浮雕品"
+    ],
+    "pronunciation": "/ ˌbæsrɪˈliːf,alsoˈbɑː:rɪliːf; ˌbæsrɪˈlif/",
+    "accepted_answers": [
+      "（人像或图样略微凸出於平面的）半浮雕",
+      "浅浮雕",
+      "浅浮雕品"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "base",
     "type": "word",
     "translation": "（某物的）底部；（尤指）底座；基底；柱基等",
@@ -7329,6 +7663,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "basilisk",
+    "type": "word",
+    "pos": "N",
+    "translation": "（热带美洲的）小蜥蜴；（神话中的）蛇怪（传说其目光或气息可致命）",
+    "analysis": "n  1 small tropical American lizard （热带美洲的）小蜥蜴.  2 mythical reptile said to be able to cause death by its look or breath （神话中的）蛇怪（传说其目光或气息可致命）.",
+    "phonetic": "/ ˈbæzɪlɪsk; ˈbæsəˌlɪsk/",
+    "origin": "待查",
+    "expansions": [
+      "（热带美洲的）小蜥蜴；（神话中的）蛇怪（传说其目光或气息可致命）"
+    ],
+    "pronunciation": "/ ˈbæzɪlɪsk; ˈbæsəˌlɪsk/",
+    "accepted_answers": [
+      "（热带美洲的）小蜥蜴",
+      "（神话中的）蛇怪（传说其目光或气息可致命）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "basin",
@@ -8887,6 +9245,31 @@
     }
   },
   {
+    "term": "battlements",
+    "type": "word",
+    "pos": "N",
+    "translation": "雉堞；城垛；之插图",
+    "analysis": "n [pl] (flat roof of a tower or castle surrounded by) low walls with openings at intervals made for shooting through 雉堞; 城垛. =>illus at castle 见castle之插图.",
+    "phonetic": "/ ˈbætlmənts; ˈbætlmənts/",
+    "origin": "待查",
+    "expansions": [
+      "雉堞；城垛；之插图"
+    ],
+    "pronunciation": "/ ˈbætlmənts; ˈbætlmənts/",
+    "accepted_answers": [
+      "雉堞",
+      "城垛",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
+  },
+  {
     "term": "battlestead",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -8979,6 +9362,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bauxite",
+    "type": "word",
+    "pos": "N",
+    "translation": "铝土岩；铝矾土（炼铝的原料）",
+    "analysis": "n [U] clay-like substance from which aluminium is obtained 铝土岩, 铝矾土（炼铝的原料）.",
+    "phonetic": "/ ˈbɔːksaɪt; ˈbɔːksaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "铝土岩；铝矾土（炼铝的原料）"
+    ],
+    "pronunciation": "/ ˈbɔːksaɪt; ˈbɔːksaɪt/",
+    "accepted_answers": [
+      "铝土岩",
+      "铝矾土（炼铝的原料）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "bavin",
@@ -9075,6 +9482,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bay",
+    "type": "word",
+    "pos": "N",
+    "translation": "月桂树（长有深绿色树叶和紫色浆果）；月桂树的乾树叶（压榨时有香味；可作烹饪的调味品）",
+    "analysis": "(also `bay-tree) n laurel with dark green leaves and purple berries 月桂树（长有深绿色树叶和紫色浆果）.\nbay-leaf \nn (pl -leaves) dried leaf of the bay-tree, spicy when crushed, used as seasoning in cooking 月桂树的乾树叶（压榨时有香味, 可作烹饪的调味品）.",
+    "phonetic": "/ beɪ; be/",
+    "origin": "待查",
+    "expansions": [
+      "月桂树（长有深绿色树叶和紫色浆果）；月桂树的乾树叶（压榨时有香味；可作烹饪的调味品）"
+    ],
+    "pronunciation": "/ beɪ; be/",
+    "accepted_answers": [
+      "月桂树（长有深绿色树叶和紫色浆果）",
+      "月桂树的乾树叶（压榨时有香味",
+      "可作烹饪的调味品）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-a.txt"
   },
   {
     "term": "bayberry",
@@ -9748,6 +10180,31 @@
     }
   },
   {
+    "term": "beano",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；旧；口)",
+    "analysis": "n (pl ~s) (dated Brit infml 旧, 口) = beanfeast (bean).",
+    "phonetic": "/ ˈbiːnəʊ; ˈbino/",
+    "origin": "待查",
+    "expansions": [
+      ")(；旧；口)"
+    ],
+    "pronunciation": "/ ˈbiːnəʊ; ˈbino/",
+    "accepted_answers": [
+      ")(",
+      "旧",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "bear",
     "type": "word",
     "translation": "北极熊；大灰熊；见插图",
@@ -10261,6 +10718,29 @@
     "dict_source": "data/DICT/B/B-b,c,d,e.txt"
   },
   {
+    "term": "beautification",
+    "type": "word",
+    "pos": "N",
+    "translation": "beautification",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌbjuːtɪfɪˈkeɪʃn; ˌbjutəfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "beautification"
+    ],
+    "pronunciation": "/ ˌbjuːtɪfɪˈkeɪʃn; ˌbjutəfəˈkeʃən/",
+    "accepted_answers": [
+      "beautification"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "beautiful",
     "type": "word",
     "translation": "美丽的；美观的；美好的",
@@ -10506,6 +10986,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bebop",
+    "type": "word",
+    "pos": "N",
+    "translation": "比博普（一种具有复杂的节律与和声的爵士音乐）",
+    "analysis": "(also bop) n [U] type of jazz music with complex rhythms and harmonies 比博普（一种具有复杂的节律与和声的爵士音乐）.",
+    "phonetic": "/ ˈbiːbɒp; ˈbibɑːp/",
+    "origin": "待查",
+    "expansions": [
+      "比博普（一种具有复杂的节律与和声的爵士音乐）"
+    ],
+    "pronunciation": "/ ˈbiːbɒp; ˈbibɑːp/",
+    "accepted_answers": [
+      "比博普（一种具有复杂的节律与和声的爵士音乐）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
   },
   {
     "term": "bebreech",
@@ -11536,6 +12039,29 @@
     }
   },
   {
+    "term": "beet",
+    "type": "word",
+    "pos": "N",
+    "translation": "甜菜",
+    "analysis": "n [U, C]  1 type of plant with a fleshy root which is used as a vegetable or for making sugar 甜菜.  2 (US) = beet.",
+    "phonetic": "/ biːt; bit/",
+    "origin": "待查",
+    "expansions": [
+      "甜菜"
+    ],
+    "pronunciation": "/ biːt; bit/",
+    "accepted_answers": [
+      "甜菜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "beetle",
     "type": "word",
     "translation": "甲虫；口)；急速移动（步行或乘车）",
@@ -12400,6 +12926,29 @@
     }
   },
   {
+    "term": "begum",
+    "type": "word",
+    "pos": "N",
+    "translation": "穆斯林贵妇",
+    "analysis": "n Muslim woman of high rank 穆斯林贵妇.\nbegun\npp of begin.",
+    "phonetic": "/ ˈbeɪgəm; begəm/",
+    "origin": "待查",
+    "expansions": [
+      "穆斯林贵妇"
+    ],
+    "pronunciation": "/ ˈbeɪgəm; begəm/",
+    "accepted_answers": [
+      "穆斯林贵妇"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "begunk",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -12545,6 +13094,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "behavioural",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "行为的；行为科学",
+    "analysis": "adj of behaviour 行为的. be,havioural `science study of human behaviour 行为科学.",
+    "phonetic": "/ -jərəl; -jərəl/",
+    "origin": "待查",
+    "expansions": [
+      "行为的；行为科学"
+    ],
+    "pronunciation": "/ -jərəl; -jərəl/",
+    "accepted_answers": [
+      "行为的",
+      "行为科学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
   },
   {
     "term": "behaviourism",
@@ -13021,6 +13594,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "belay",
+    "type": "word",
+    "pos": "V",
+    "translation": "（登山和航海时）将（绳索）系绕於（桩子、岩石等）上以固定之",
+    "analysis": "v [Tn] (in mountaineering and sailing) fix (a rope) round a peg, rock, etc in order to secure it （登山和航海时）将（绳索）系绕於（桩子、岩石等）上以固定之.",
+    "phonetic": "/ bɪˈleɪ; bɪˈle/",
+    "origin": "待查",
+    "expansions": [
+      "（登山和航海时）将（绳索）系绕於（桩子、岩石等）上以固定之"
+    ],
+    "pronunciation": "/ bɪˈleɪ; bɪˈle/",
+    "accepted_answers": [
+      "（登山和航海时）将（绳索）系绕於（桩子、岩石等）上以固定之"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
   },
   {
     "term": "belch",
@@ -14461,6 +15057,30 @@
     }
   },
   {
+    "term": "benefactor",
+    "type": "word",
+    "pos": "N",
+    "translation": "捐助者；施主",
+    "analysis": "n person who gives money or other help to a school, hospital, charity, etc 捐助者; 施主.",
+    "phonetic": "/ ˈbenɪfæktə(r); ˈbenəˌfæktə/",
+    "origin": "待查",
+    "expansions": [
+      "捐助者；施主"
+    ],
+    "pronunciation": "/ ˈbenɪfæktə(r); ˈbenəˌfæktə/",
+    "accepted_answers": [
+      "捐助者",
+      "施主"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "benefactress",
     "type": "word",
     "pos": "N",
@@ -14786,6 +15406,34 @@
       "愚昧无知的"
     ],
     "added_at": "2026-03-30T05:12:25.617Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
+    "term": "benign",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指人或行为）慈祥的；和善的；（指气候）温和的；宜人的；（指肿瘤等）良性的；无危险的",
+    "analysis": "adj  1 (of people or actions) kindly; gentle （指人或行为）慈祥的, 和善的.  2 (of climate) mild; pleasant （指气候）温和的, 宜人的.  3 (of a tumour, etc) not likely to spread or recur after treatment; not dangerous （指肿瘤等）良性的, 无危险的.\nbenignly \nadv. Cf 参看 malignant.",
+    "phonetic": "/ bɪˈnaɪn; bɪˈnaɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（指人或行为）慈祥的；和善的；（指气候）温和的；宜人的；（指肿瘤等）良性的；无危险的"
+    ],
+    "pronunciation": "/ bɪˈnaɪn; bɪˈnaɪn/",
+    "accepted_answers": [
+      "（指人或行为）慈祥的",
+      "和善的",
+      "（指气候）温和的",
+      "宜人的",
+      "（指肿瘤等）良性的",
+      "无危险的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -15233,6 +15881,31 @@
     }
   },
   {
+    "term": "benzine",
+    "type": "word",
+    "pos": "N",
+    "translation": "轻质汽油；挥发油；石油精",
+    "analysis": "n [U] colourless liquid mixture of hydrocarbons obtained from petroleum and used in dry-cleaning 轻质汽油; 挥发油; 石油精.",
+    "phonetic": "/ ˈbenziːn; ˈbenzin/",
+    "origin": "待查",
+    "expansions": [
+      "轻质汽油；挥发油；石油精"
+    ],
+    "pronunciation": "/ ˈbenziːn; ˈbenzin/",
+    "accepted_answers": [
+      "轻质汽油",
+      "挥发油",
+      "石油精"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "benzodiazine",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -15346,6 +16019,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "benzol",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指未经提炼的）苯",
+    "analysis": "n [U] (esp unrefined) benzene （尤指未经提炼的）苯.",
+    "phonetic": "/ ˈbenzɒl; -zɔːl; ˈbenzɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指未经提炼的）苯"
+    ],
+    "pronunciation": "/ ˈbenzɒl; -zɔːl; ˈbenzɔːl/",
+    "accepted_answers": [
+      "（尤指未经提炼的）苯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
   },
   {
     "term": "benzonaphthol",
@@ -16674,6 +17370,29 @@
     }
   },
   {
+    "term": "bespectacled",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "戴眼镜的",
+    "analysis": "adj wearing spectacles 戴眼镜的.",
+    "phonetic": "/ bɪˈspektəkld; bɪˈspektəkld/",
+    "origin": "待查",
+    "expansions": [
+      "戴眼镜的"
+    ],
+    "pronunciation": "/ bɪˈspektəkld; bɪˈspektəkld/",
+    "accepted_answers": [
+      "戴眼镜的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
     "term": "bespelled",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -17189,6 +17908,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "betide",
+    "type": "word",
+    "pos": "V",
+    "translation": "习语)",
+    "analysis": "v (idm 习语) woe betide sb => woe.",
+    "phonetic": "/ bɪˈtaɪd; bɪˈtaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "习语)"
+    ],
+    "pronunciation": "/ bɪˈtaɪd; bɪˈtaɪd/",
+    "accepted_answers": [
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
   },
   {
     "term": "betoken",
@@ -18043,6 +18785,32 @@
       "这条路绵延不断越过村子直入山中"
     ],
     "added_at": "2026-03-30T02:32:00.037Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-b,c,d,e.txt"
+  },
+  {
+    "term": "bezique",
+    "type": "word",
+    "pos": "N",
+    "translation": "比齐克牌戏（一种两人玩的纸牌戏；用两副牌；共；张）",
+    "analysis": "n [U] card-game for two people played with a double pack of 64 cards 比齐克牌戏（一种两人玩的纸牌戏, 用两副牌, 共64张）.",
+    "phonetic": "/ bɪˈziːk; bəˈzik/",
+    "origin": "待查",
+    "expansions": [
+      "比齐克牌戏（一种两人玩的纸牌戏；用两副牌；共；张）"
+    ],
+    "pronunciation": "/ bɪˈziːk; bəˈzik/",
+    "accepted_answers": [
+      "比齐克牌戏（一种两人玩的纸牌戏",
+      "用两副牌",
+      "共",
+      "张）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -19570,6 +20338,29 @@
     }
   },
   {
+    "term": "bifurcation",
+    "type": "word",
+    "pos": "N",
+    "translation": "bifurcation",
+    "analysis": "n.",
+    "phonetic": "/ ˌbaɪfəˈkeɪʃn; ˌbaɪfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "bifurcation"
+    ],
+    "pronunciation": "/ ˌbaɪfəˈkeɪʃn; ˌbaɪfəˈkeʃən/",
+    "accepted_answers": [
+      "bifurcation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
+  },
+  {
     "term": "big",
     "type": "word",
     "translation": "（在体积、面积、范围、程度或强度方面）大的；大花园；高大的人",
@@ -20063,6 +20854,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bile",
+    "type": "word",
+    "pos": "N",
+    "translation": "胆汁；比喻)；坏脾气",
+    "analysis": "n [U]  1 bitter yellowish liquid produced by the liver to help the body to digest fats 胆汁.  2 (fig 比喻) bad temper; irritability 坏脾气; 暴躁.\nbile-duct \nn (anatomy 解) tube taking bile to the duodenum 胆管. =>illus at digestive (system) 见digestive system之插图.",
+    "phonetic": "/ baɪl; baɪl/",
+    "origin": "待查",
+    "expansions": [
+      "胆汁；比喻)；坏脾气"
+    ],
+    "pronunciation": "/ baɪl; baɪl/",
+    "accepted_answers": [
+      "胆汁",
+      "比喻)",
+      "坏脾气"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
   },
   {
     "term": "bilestone",
@@ -20658,6 +21474,31 @@
     "dict_source": "data/DICT/B/B-f,g,h,i.txt"
   },
   {
+    "term": "billy-goat",
+    "type": "word",
+    "pos": "N",
+    "translation": "公山羊；之插图；参看",
+    "analysis": "n male goat 公山羊. =>illus at goat 见goat之插图. Cf 参看 nanny-goat.",
+    "phonetic": "/ ˈbɪlɪgəʊt; ˈbɪlɪˌgot/",
+    "origin": "待查",
+    "expansions": [
+      "公山羊；之插图；参看"
+    ],
+    "pronunciation": "/ ˈbɪlɪgəʊt; ˈbɪlɪˌgot/",
+    "accepted_answers": [
+      "公山羊",
+      "之插图",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
+  },
+  {
     "term": "billy-oh",
     "type": "word",
     "translation": "习语)；旧；口)；猛烈地",
@@ -20820,6 +21661,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bimetallism",
+    "type": "word",
+    "pos": "N",
+    "translation": "复本位制（尤指金银二本位制；在货币的法定纯度中保持二者的固定比率）",
+    "analysis": "n [U] use of two metals, esp gold and silver, with a fixed ratio to each other as the monetary standard 复本位制（尤指金银二本位制, 在货币的法定纯度中保持二者的固定比率）.",
+    "phonetic": "/ ˌbaɪˈmetəlɪzəm; baɪˈmetlˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "复本位制（尤指金银二本位制；在货币的法定纯度中保持二者的固定比率）"
+    ],
+    "pronunciation": "/ ˌbaɪˈmetəlɪzəm; baɪˈmetlˌɪzəm/",
+    "accepted_answers": [
+      "复本位制（尤指金银二本位制",
+      "在货币的法定纯度中保持二者的固定比率）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
   },
   {
     "term": "bimetallist",
@@ -21276,6 +22141,29 @@
     }
   },
   {
+    "term": "biochemical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "biochemical",
+    "analysis": "adj.",
+    "phonetic": "/ ˌbaɪəʊˈkemɪkl; ˌbaɪoˈkemɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "biochemical"
+    ],
+    "pronunciation": "/ ˌbaɪəʊˈkemɪkl; ˌbaɪoˈkemɪkl/",
+    "accepted_answers": [
+      "biochemical"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
+  },
+  {
     "term": "biochemics",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -21390,6 +22278,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "biographer",
+    "type": "word",
+    "pos": "N",
+    "translation": "传记作家",
+    "analysis": "n person who writes a biography 传记作家.",
+    "phonetic": "/ baɪˈɒgrəfə(r); baɪˈɑːgrəfə/",
+    "origin": "待查",
+    "expansions": [
+      "传记作家"
+    ],
+    "pronunciation": "/ baɪˈɒgrəfə(r); baɪˈɑːgrəfə/",
+    "accepted_answers": [
+      "传记作家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
   },
   {
     "term": "biography",
@@ -22005,6 +22916,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "biretta",
+    "type": "word",
+    "pos": "N",
+    "translation": "法冠（天主教教士戴的通常为黑色的四角帽）",
+    "analysis": "n square, usu black, cap worn by Roman Catholic priests 法冠（天主教教士戴的通常为黑色的四角帽）.",
+    "phonetic": "/ bɪˈretə; bəˈretə/",
+    "origin": "待查",
+    "expansions": [
+      "法冠（天主教教士戴的通常为黑色的四角帽）"
+    ],
+    "pronunciation": "/ bɪˈretə; bəˈretə/",
+    "accepted_answers": [
+      "法冠（天主教教士戴的通常为黑色的四角帽）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
   },
   {
     "term": "birken",
@@ -22636,6 +23570,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bistro",
+    "type": "word",
+    "pos": "N",
+    "translation": "小餐馆",
+    "analysis": "n (pl ~s) small restaurant 小餐馆.",
+    "phonetic": "/ ˈbiːstrəʊ; ˈbɪstro/",
+    "origin": "待查",
+    "expansions": [
+      "小餐馆"
+    ],
+    "pronunciation": "/ ˈbiːstrəʊ; ˈbɪstro/",
+    "accepted_answers": [
+      "小餐馆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
   },
   {
     "term": "bisymmetric",
@@ -24012,6 +24969,31 @@
     }
   },
   {
+    "term": "blarney",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；奉承话；花言巧语",
+    "analysis": "n [U] (infml 口) smooth talk that flatters and deceives people 奉承话; 花言巧语.",
+    "phonetic": "/ ˈblɑː:nɪ; ˈblɑːrnɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；奉承话；花言巧语"
+    ],
+    "pronunciation": "/ ˈblɑː:nɪ; ˈblɑːrnɪ/",
+    "accepted_answers": [
+      "口)",
+      "奉承话",
+      "花言巧语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
+  },
+  {
     "term": "blart",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -24405,6 +25387,31 @@
     }
   },
   {
+    "term": "blather",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；尤用於苏格兰)；胡说",
+    "analysis": "(also blether/ 5bleTE(r);`blZTL/) v [I, Ipr, Ip] ~ (on) (about sb/sth)  (esp Scot 尤用於苏格兰) talk foolishly 胡说; 瞎扯.\nblather \n(also blether) n [U] foolish talk 胡话; 蠢话.",
+    "phonetic": "/ ˈblæTə(r); ˈblæTə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；尤用於苏格兰)；胡说"
+    ],
+    "pronunciation": "/ ˈblæTə(r); ˈblæTə/",
+    "accepted_answers": [
+      ")(",
+      "尤用於苏格兰)",
+      "胡说"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
+  },
+  {
     "term": "blay",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -24794,6 +25801,30 @@
     }
   },
   {
+    "term": "blench",
+    "type": "word",
+    "pos": "V",
+    "translation": "因恐惧而突然一动；畏缩",
+    "analysis": "v [I] make a sudden movement because of fear; flinch 因恐惧而突然一动; 畏缩.",
+    "phonetic": "/ blentʃ; blentʃ/",
+    "origin": "待查",
+    "expansions": [
+      "因恐惧而突然一动；畏缩"
+    ],
+    "pronunciation": "/ blentʃ; blentʃ/",
+    "accepted_answers": [
+      "因恐惧而突然一动",
+      "畏缩"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
+  },
+  {
     "term": "blenchingly",
     "type": "word",
     "translation": "…地；以…方式",
@@ -25170,6 +26201,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "blessedness",
+    "type": "word",
+    "pos": "N",
+    "translation": "blessedness",
+    "analysis": "n [U].\nthe Blessed Sacrament \n= sacrament 2.",
+    "phonetic": "/ ˈblesɪdnɪs; blesɪdnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "blessedness"
+    ],
+    "pronunciation": "/ ˈblesɪdnɪs; blesɪdnɪs/",
+    "accepted_answers": [
+      "blessedness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
   },
   {
     "term": "blesser",
@@ -26098,6 +27152,31 @@
     }
   },
   {
+    "term": "blockhead",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；笨蛋；傻瓜",
+    "analysis": "n (infml 口) stupid person 笨蛋; 傻瓜.",
+    "phonetic": "/ ˈblɒkhed; ˈblɑːkˌhed/",
+    "origin": "待查",
+    "expansions": [
+      "口)；笨蛋；傻瓜"
+    ],
+    "pronunciation": "/ ˈblɒkhed; ˈblɑːkˌhed/",
+    "accepted_answers": [
+      "口)",
+      "笨蛋",
+      "傻瓜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
+  },
+  {
     "term": "blockheaded",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -26912,6 +27991,29 @@
     }
   },
   {
+    "term": "blubber",
+    "type": "word",
+    "pos": "N",
+    "translation": "鲸脂",
+    "analysis": "n [U] fat of whales and other sea animals from which oil is obtained 鲸脂.",
+    "phonetic": "/ ˈblʌbə(r); ˈblʌbə/",
+    "origin": "待查",
+    "expansions": [
+      "鲸脂"
+    ],
+    "pronunciation": "/ ˈblʌbə(r); ˈblʌbə/",
+    "accepted_answers": [
+      "鲸脂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
+  },
+  {
     "term": "bludgeon",
     "type": "word",
     "translation": "大头短棒（用作武器）；（用大头短棒或其他重物）连击（某人）；他被大头短棒连击致死",
@@ -26955,6 +28057,31 @@
       "蔚蓝的"
     ],
     "added_at": "2026-03-30T03:00:16.785Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
+  },
+  {
+    "term": "bluebell",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（英格兰南部的）风铃草（开蓝色或白色钟形花）；见附录",
+    "analysis": "n (a) (in S England) plant with blue or white bell-shaped flowers; wood hyacinth （英格兰南部的）风铃草（开蓝色或白色钟形花）. =>illus at App 1 见附录1之插图, page ii. (b) (in Scotland and N England) harebell （苏格兰和英格兰北部的）圆叶风铃草.",
+    "phonetic": "/ ˈbluːbel; ˈbluˌbel/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（英格兰南部的）风铃草（开蓝色或白色钟形花）；见附录"
+    ],
+    "pronunciation": "/ ˈbluːbel; ˈbluˌbel/",
+    "accepted_answers": [
+      ")(",
+      "（英格兰南部的）风铃草（开蓝色或白色钟形花）",
+      "见附录"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -27156,6 +28283,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "blunderbuss",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧式大口径前膛枪",
+    "analysis": "n old type of gun with a wide mouth, firing many bullets or small shot at short range 旧式大口径前膛枪.",
+    "phonetic": "/ ˈblʌndəbʌs; ˈblʌndəˌbʌs/",
+    "origin": "待查",
+    "expansions": [
+      "旧式大口径前膛枪"
+    ],
+    "pronunciation": "/ ˈblʌndəbʌs; ˈblʌndəˌbʌs/",
+    "accepted_answers": [
+      "旧式大口径前膛枪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-j,k,l,m,n.txt"
   },
   {
     "term": "blundering",
@@ -27814,6 +28964,31 @@
     }
   },
   {
+    "term": "boatman",
+    "type": "word",
+    "pos": "N",
+    "translation": "出租小船的人；用船摆渡取酬的人；船民（乘船离国的难民）",
+    "analysis": "n (pl -men) man who hires out small boats; man who transports people in small boats for payment 出租小船的人; 用船摆渡取酬的人.\nboat people \nrefugees leaving a country in boats 船民（乘船离国的难民）.\nboat race \nrace between rowing-boats, esp (the Boat Race) the annual race between the rowing crews of Oxford and Cambridge Universities 划船比赛（尤指牛津与剑桥大学之间一年一度的比赛）.\nboat-train \nn train that takes people to or from a passenger ship （与客轮联运的）火车.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "出租小船的人；用船摆渡取酬的人；船民（乘船离国的难民）"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "出租小船的人",
+      "用船摆渡取酬的人",
+      "船民（乘船离国的难民）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
     "term": "boatsman",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -28051,6 +29226,31 @@
     "dict_source": "data/DICT/B/B-o.txt"
   },
   {
+    "term": "bobtail",
+    "type": "word",
+    "pos": "N",
+    "translation": "剪短的尾巴；（尾巴剪短的）马或狗；习语)",
+    "analysis": "n  1 (horse or dog with a) tail cut short 剪短的尾巴; （尾巴剪短的）马或狗.  2 (idm 习语) ragtag and bobtail => ragtag.",
+    "phonetic": "/ ˈbɒbteɪl; ˈbɑːbˌtel/",
+    "origin": "待查",
+    "expansions": [
+      "剪短的尾巴；（尾巴剪短的）马或狗；习语)"
+    ],
+    "pronunciation": "/ ˈbɒbteɪl; ˈbɑːbˌtel/",
+    "accepted_answers": [
+      "剪短的尾巴",
+      "（尾巴剪短的）马或狗",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
     "term": "bochism",
     "type": "word",
     "translation": "…主义；…现象",
@@ -28237,6 +29437,29 @@
       "温暖）"
     ],
     "added_at": "2026-03-30T03:00:16.785Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
+    "term": "bodkin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（大眼无尖的）粗针（用以将带子等穿过衣边）",
+    "analysis": "n blunt thick needle with a large eye, used for pulling tape, etc through a hem （大眼无尖的）粗针（用以将带子等穿过衣边）.",
+    "phonetic": "/ ˈbɒdkɪn; ˈbɑːdkɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（大眼无尖的）粗针（用以将带子等穿过衣边）"
+    ],
+    "pronunciation": "/ ˈbɒdkɪn; ˈbɑːdkɪn/",
+    "accepted_answers": [
+      "（大眼无尖的）粗针（用以将带子等穿过衣边）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -29515,6 +30738,30 @@
     "dict_source": "data/DICT/B/B-o.txt"
   },
   {
+    "term": "bomber",
+    "type": "word",
+    "pos": "N",
+    "translation": "轰炸机；投掷或安放炸弹的人（尤指恐怖分子）",
+    "analysis": "n  1 aircraft that carries and drops bombs 轰炸机.  2 person (esp a terrorist) who throws or plants bombs 投掷或安放炸弹的人（尤指恐怖分子）.",
+    "phonetic": "/ ˈbɒmə(r); ˈbɑːmə/",
+    "origin": "待查",
+    "expansions": [
+      "轰炸机；投掷或安放炸弹的人（尤指恐怖分子）"
+    ],
+    "pronunciation": "/ ˈbɒmə(r); ˈbɑːmə/",
+    "accepted_answers": [
+      "轰炸机",
+      "投掷或安放炸弹的人（尤指恐怖分子）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
     "term": "bombinae",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -29606,6 +30853,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bon mot",
+    "type": "phrase",
+    "pos": "N",
+    "translation": "法)；隽语；珠玑妙语",
+    "analysis": "n (pl bons mots)/ 9bCn 5mEUz; 9bBn `moz/ (French 法) witty saying or remark 隽语; 珠玑妙语.",
+    "phonetic": "/ ˌbɒnˈməʊ; ˌbɑːnˈmo/",
+    "origin": "待查",
+    "expansions": [
+      "法)；隽语；珠玑妙语"
+    ],
+    "pronunciation": "/ ˌbɒnˈməʊ; ˌbɑːnˈmo/",
+    "accepted_answers": [
+      "法)",
+      "隽语",
+      "珠玑妙语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
+    "term": "bon-bon",
+    "type": "word",
+    "pos": "N",
+    "translation": "糖果（尤指形状别致的）",
+    "analysis": "n sweet, esp one with a fancy shape 糖果（尤指形状别致的）.",
+    "phonetic": "/ ˈbɒnbɒn; ˈbɑːnˌbɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "糖果（尤指形状别致的）"
+    ],
+    "pronunciation": "/ ˈbɒnbɒn; ˈbɑːnˌbɑːn/",
+    "accepted_answers": [
+      "糖果（尤指形状别致的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
   },
   {
     "term": "bona fide",
@@ -30272,6 +31567,29 @@
       "他是个大笨蛋"
     ],
     "added_at": "2026-03-30T05:12:25.617Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
+    "term": "boodle",
+    "type": "word",
+    "pos": "N",
+    "translation": "钱（尤指偷盗或受贿的钱）",
+    "analysis": "n [U] (sl 俚 esp US) money, esp money gained by stealing or bribery 钱（尤指偷盗或受贿的钱）.",
+    "phonetic": "/ ˈbuːdl; ˈbudl/",
+    "origin": "待查",
+    "expansions": [
+      "钱（尤指偷盗或受贿的钱）"
+    ],
+    "pronunciation": "/ ˈbuːdl; ˈbudl/",
+    "accepted_answers": [
+      "钱（尤指偷盗或受贿的钱）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -31003,6 +32321,29 @@
     }
   },
   {
+    "term": "bootlegger",
+    "type": "word",
+    "pos": "N",
+    "translation": "bootlegger",
+    "analysis": "n.",
+    "phonetic": "/ -legə(r); -ˌlegə/",
+    "origin": "待查",
+    "expansions": [
+      "bootlegger"
+    ],
+    "pronunciation": "/ -legə(r); -ˌlegə/",
+    "accepted_answers": [
+      "bootlegger"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
     "term": "bootlegging",
     "type": "word",
     "translation": "…过程；…中的状态",
@@ -31214,6 +32555,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bordeaux",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)；波尔多葡萄酒；参看",
+    "analysis": "n (pl unchanged 复数不变) [U, C] type of red or white wine from the Bordeaux district of SW France 波尔多葡萄酒. Cf 参看 claret.",
+    "phonetic": "/ bɔːˈdəʊ; bɔːrˈdo/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)；波尔多葡萄酒；参看"
+    ],
+    "pronunciation": "/ bɔːˈdəʊ; bɔːrˈdo/",
+    "accepted_answers": [
+      "复数不变)",
+      "波尔多葡萄酒",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
   },
   {
     "term": "border",
@@ -31608,6 +32974,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "borough",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（享有特权的）自治城镇；自治市；（大伦敦的）行政区（之一）",
+    "analysis": "n  1 (Brit) (a) town or district with a corporation and certain rights of self-government granted by royal charter （享有特权的）自治城镇, 自治市. (b) any of the administrative areas of Greater London （大伦敦的）行政区（之一）. Cf 参看 parish 2.  2 (US) (a) any of the five administrative areas of New York City （纽约城的五个）行政区（之一）. (b) (in some states) town with a legal corporation （某些州）有法定自治机关的城镇.",
+    "phonetic": "/ ˈbʌrə; -rəʊ; ˈbʌro/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（享有特权的）自治城镇；自治市；（大伦敦的）行政区（之一）"
+    ],
+    "pronunciation": "/ ˈbʌrə; -rəʊ; ˈbʌro/",
+    "accepted_answers": [
+      ")(",
+      "（享有特权的）自治城镇",
+      "自治市",
+      "（大伦敦的）行政区（之一）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
   },
   {
     "term": "boroughmaster",
@@ -32452,6 +33844,29 @@
     }
   },
   {
+    "term": "botulism",
+    "type": "word",
+    "pos": "N",
+    "translation": "肉毒中毒（由变质的腌制食品引起的一种严重的细菌性食物中毒）",
+    "analysis": "n [U] type of severe food poisoning caused by bacteria in badly preserved food 肉毒中毒（由变质的腌制食品引起的一种严重的细菌性食物中毒）.",
+    "phonetic": "/ ˈbɒtjUlɪzəm; ˈbɑːtʃəˌlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "肉毒中毒（由变质的腌制食品引起的一种严重的细菌性食物中毒）"
+    ],
+    "pronunciation": "/ ˈbɒtjUlɪzəm; ˈbɑːtʃəˌlɪzəm/",
+    "accepted_answers": [
+      "肉毒中毒（由变质的腌制食品引起的一种严重的细菌性食物中毒）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
     "term": "bouchette",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -32815,6 +34230,32 @@
     "dict_source": "data/DICT/B/B-o.txt"
   },
   {
+    "term": "bounder",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧；口；贬)；不道德的人",
+    "analysis": "n (dated Brit infml derog 旧, 口, 贬) man whose behaviour is morally unacceptable 不道德的人.",
+    "phonetic": "/ ˈbaUndə(r); ˈbaJndə/",
+    "origin": "待查",
+    "expansions": [
+      "旧；口；贬)；不道德的人"
+    ],
+    "pronunciation": "/ ˈbaUndə(r); ˈbaJndə/",
+    "accepted_answers": [
+      "旧",
+      "口",
+      "贬)",
+      "不道德的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
+  },
+  {
     "term": "boundless",
     "type": "word",
     "translation": "无限的；无比的慷慨、热情",
@@ -33005,6 +34446,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bouquet garni",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "香料束（捆成束的香料；作汤、炖菜等的作料）",
+    "analysis": "bunch of herbs used for flavouring soups, stews, etc 香料束（捆成束的香料, 作汤、炖菜等的作料）.",
+    "phonetic": "/ ˌbuːkeɪˈgɑː:niː; buˈkegɑːˈni/",
+    "origin": "待查",
+    "expansions": [
+      "香料束（捆成束的香料；作汤、炖菜等的作料）"
+    ],
+    "pronunciation": "/ ˌbuːkeɪˈgɑː:niː; buˈkegɑːˈni/",
+    "accepted_answers": [
+      "香料束（捆成束的香料",
+      "作汤、炖菜等的作料）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
   },
   {
     "term": "bourbon",
@@ -33459,6 +34924,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bower",
+    "type": "word",
+    "pos": "N",
+    "translation": "（树林或花园中的）荫凉处；凉棚；凉亭",
+    "analysis": "n  1 (a) shady place under trees or climbing-plants in a wood or garden; arbour （树林或花园中的）荫凉处; 凉棚. (b) summer-house 凉亭.  2 (dated 旧) lady's bedroom; boudoir （女子的）卧室; 闺房.\nbower-bird \nn type of Australian bird of paradise 造园鸟（产於澳大利亚）.",
+    "phonetic": "/ ˈbaUə(r); ˈbaJə/",
+    "origin": "待查",
+    "expansions": [
+      "（树林或花园中的）荫凉处；凉棚；凉亭"
+    ],
+    "pronunciation": "/ ˈbaUə(r); ˈbaJə/",
+    "accepted_answers": [
+      "（树林或花园中的）荫凉处",
+      "凉棚",
+      "凉亭"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-o.txt"
   },
   {
     "term": "bowl",
@@ -34374,6 +35864,29 @@
     "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
+    "term": "brackish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指水）略咸的",
+    "analysis": "adj (of water) slightly salty （指水）略咸的.",
+    "phonetic": "/ ˈbrkɪʃ; ˈbrækɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "（指水）略咸的"
+    ],
+    "pronunciation": "/ ˈbrkɪʃ; ˈbrækɪʃ/",
+    "accepted_answers": [
+      "（指水）略咸的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
+  },
+  {
     "term": "braconidae",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -34395,6 +35908,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bract",
+    "type": "word",
+    "pos": "N",
+    "translation": ")苞",
+    "analysis": "n leaf-like and often brightly coloured part of a plant, growing below the flower (eg in bougainvillaea and poinsettia) 苞.",
+    "phonetic": "/ brkt; brækt/",
+    "origin": "待查",
+    "expansions": [
+      ")苞"
+    ],
+    "pronunciation": "/ brkt; brækt/",
+    "accepted_answers": [
+      ")苞"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
     "term": "bradshaw",
@@ -34559,6 +36095,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "braggart",
+    "type": "word",
+    "pos": "N",
+    "translation": "吹牛者；说大话者",
+    "analysis": "n person who brags 吹牛者; 说大话者.",
+    "phonetic": "/ ˈbrgət; ˈbrægət/",
+    "origin": "待查",
+    "expansions": [
+      "吹牛者；说大话者"
+    ],
+    "pronunciation": "/ ˈbrgət; ˈbrægət/",
+    "accepted_answers": [
+      "吹牛者",
+      "说大话者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
     "term": "bragite",
@@ -34945,6 +36505,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bran",
+    "type": "word",
+    "pos": "N",
+    "translation": "参看；糠桶（装有糠或锯末的摸彩桶；内藏小件礼物）",
+    "analysis": "n [U] outer covering of grain separated from the flour by sifting 糠; 麸. Cf 参看 husk 1.\nbran-tub \nn (Brit) tub containing bran or sawdust in which small gifts are hidden; lucky dip 糠桶（装有糠或锯末的摸彩桶, 内藏小件礼物）.",
+    "phonetic": "/ brn; bræn/",
+    "origin": "待查",
+    "expansions": [
+      "参看；糠桶（装有糠或锯末的摸彩桶；内藏小件礼物）"
+    ],
+    "pronunciation": "/ brn; bræn/",
+    "accepted_answers": [
+      "参看",
+      "糠桶（装有糠或锯末的摸彩桶",
+      "内藏小件礼物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
     "term": "branch",
@@ -36830,6 +38415,30 @@
     }
   },
   {
+    "term": "breeze-block",
+    "type": "word",
+    "pos": "N",
+    "translation": "（煤渣、沙、水泥制成的）一种轻型建筑砌块；煤渣砌块",
+    "analysis": "(Brit) n lightweight building block made of cinders, sand and cement （煤渣、沙、水泥制成的）一种轻型建筑砌块, 煤渣砌块.",
+    "phonetic": "/ ˈbriːzblɒk; ˈbrizˌblɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "（煤渣、沙、水泥制成的）一种轻型建筑砌块；煤渣砌块"
+    ],
+    "pronunciation": "/ ˈbriːzblɒk; ˈbrizˌblɑːk/",
+    "accepted_answers": [
+      "（煤渣、沙、水泥制成的）一种轻型建筑砌块",
+      "煤渣砌块"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
+  },
+  {
     "term": "bregma",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -36899,6 +38508,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "breviary",
+    "type": "word",
+    "pos": "N",
+    "translation": "日课经（天主教神甫每日祈祷用的书）",
+    "analysis": "n book of prayers to be said daily by Roman Catholic priests 日课经（天主教神甫每日祈祷用的书）.",
+    "phonetic": "/ ˈbriːvɪərɪ; -ɪerɪ; ˈbrivɪˌerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "日课经（天主教神甫每日祈祷用的书）"
+    ],
+    "pronunciation": "/ ˈbriːvɪərɪ; -ɪerɪ; ˈbrivɪˌerɪ/",
+    "accepted_answers": [
+      "日课经（天主教神甫每日祈祷用的书）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
     "term": "brevicaudate",
@@ -37539,6 +39171,32 @@
     "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
+    "term": "brigadier",
+    "type": "word",
+    "pos": "N",
+    "translation": "（英国陆军）准将；旅长；（相当於该地位的）参谋长；见附录",
+    "analysis": "n officer in the British Army between the ranks of colonel and major general, commanding a brigade; staff officer having similar status （英国陆军）准将, 旅长; （相当於该地位的）参谋长. =>App 9 见附录9.",
+    "phonetic": "/ ˌbrɪgəˈdɪə(r); ˌbrɪgəˈdɪr/",
+    "origin": "待查",
+    "expansions": [
+      "（英国陆军）准将；旅长；（相当於该地位的）参谋长；见附录"
+    ],
+    "pronunciation": "/ ˌbrɪgəˈdɪə(r); ˌbrɪgəˈdɪr/",
+    "accepted_answers": [
+      "（英国陆军）准将",
+      "旅长",
+      "（相当於该地位的）参谋长",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
+  },
+  {
     "term": "brigandism",
     "type": "word",
     "translation": "…主义；…现象",
@@ -37840,6 +39498,29 @@
     "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
+    "term": "brindled",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（尤指牛、狗、猫）棕色的并夹杂其他颜色之斑纹的",
+    "analysis": "adj (esp of cows, dogs and cats) brown with streaks of another colour （尤指牛、狗、猫）棕色的并夹杂其他颜色之斑纹的.",
+    "phonetic": "/ ˈbrɪndld; ˈbrɪndld/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指牛、狗、猫）棕色的并夹杂其他颜色之斑纹的"
+    ],
+    "pronunciation": "/ ˈbrɪndld; ˈbrɪndld/",
+    "accepted_answers": [
+      "（尤指牛、狗、猫）棕色的并夹杂其他颜色之斑纹的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
+  },
+  {
     "term": "brindlish",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -38087,6 +39768,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "britain",
+    "type": "word",
+    "pos": "N",
+    "translation": "用法见",
+    "analysis": "n = Great Britain (great). =>Usage at great 用法见great.",
+    "phonetic": "/ ˈbrɪtn; ˈbrɪtn/",
+    "origin": "待查",
+    "expansions": [
+      "用法见"
+    ],
+    "pronunciation": "/ ˈbrɪtn; ˈbrɪtn/",
+    "accepted_answers": [
+      "用法见"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
     "term": "british",
@@ -38595,6 +40299,30 @@
     }
   },
   {
+    "term": "broderie anglaise",
+    "type": "phrase",
+    "pos": "N",
+    "translation": "英格兰刺绣（在白亚麻布等上的剌绣）；有英格兰剌绣的织物",
+    "analysis": "n [U] open embroidery on white linen, etc; cloth embroidered in this way 英格兰刺绣（在白亚麻布等上的剌绣）; 有英格兰剌绣的织物.",
+    "phonetic": "/ ˌbrəʊdrɪɒ:ŋˈgleɪz; broˈdrɪɑːŋˈglez/",
+    "origin": "待查",
+    "expansions": [
+      "英格兰刺绣（在白亚麻布等上的剌绣）；有英格兰剌绣的织物"
+    ],
+    "pronunciation": "/ ˌbrəʊdrɪɒ:ŋˈgleɪz; broˈdrɪɑːŋˈglez/",
+    "accepted_answers": [
+      "英格兰刺绣（在白亚麻布等上的剌绣）",
+      "有英格兰剌绣的织物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
+  },
+  {
     "term": "brogger",
     "type": "word",
     "translation": "…者；…工具",
@@ -39070,6 +40798,29 @@
     }
   },
   {
+    "term": "bronchitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "支气管炎",
+    "analysis": "n [U] inflammationof the mucous membrane inside the bronchial tubes 支气管炎.",
+    "phonetic": "/ brɒŋˈkaɪtɪs; brɑːŋˈkaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "支气管炎"
+    ],
+    "pronunciation": "/ brɒŋˈkaɪtɪs; brɑːŋˈkaɪtɪs/",
+    "accepted_answers": [
+      "支气管炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
+  },
+  {
     "term": "bronchoscopic",
     "type": "word",
     "translation": "…的；与…有关的",
@@ -39306,6 +41057,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "brook",
+    "type": "word",
+    "pos": "N",
+    "translation": "小溪",
+    "analysis": "n small stream 小溪.",
+    "phonetic": "/ brUk; brJk/",
+    "origin": "待查",
+    "expansions": [
+      "小溪"
+    ],
+    "pronunciation": "/ brUk; brJk/",
+    "accepted_answers": [
+      "小溪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
   },
   {
     "term": "brookless",
@@ -40312,6 +42086,29 @@
     }
   },
   {
+    "term": "brutally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "brutally",
+    "analysis": "adv.",
+    "phonetic": "/ ˈbruːtəlɪ; ˈbrutlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "brutally"
+    ],
+    "pronunciation": "/ ˈbruːtəlɪ; ˈbrutlɪ/",
+    "accepted_answers": [
+      "brutally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-p,q,r.txt"
+  },
+  {
     "term": "brute",
     "type": "word",
     "translation": "野兽（尤指巨大或凶猛的）；那条狗真像一只野兽；有时作戏谑语)",
@@ -40480,6 +42277,30 @@
     }
   },
   {
+    "term": "bsi",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；英国标准学会",
+    "analysis": "abbr 缩写 = British Standards Institution 英国标准学会.",
+    "phonetic": "/ ˌbiːesˈaɪ; ˌbiesˈaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；英国标准学会"
+    ],
+    "pronunciation": "/ ˌbiːesˈaɪ; ˌbiesˈaɪ/",
+    "accepted_answers": [
+      "缩写",
+      "英国标准学会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "bst",
     "type": "word",
     "translation": "缩写；英国夏令时间；参看",
@@ -40601,6 +42422,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bubonic plague",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "腺鼠疫；腹股沟淋巴结鼠疫",
+    "analysis": "(also the plague) contagious, usu fatal, disease spread by rats, causing swellings in the armpits and groin, fever and delirium 腺鼠疫; 腹股沟淋巴结鼠疫.",
+    "phonetic": "/ bjuːˌbɒnɪkˈpleɪg; bjuˌbɑːnɪkˈpleg/",
+    "origin": "待查",
+    "expansions": [
+      "腺鼠疫；腹股沟淋巴结鼠疫"
+    ],
+    "pronunciation": "/ bjuːˌbɒnɪkˈpleɪg; bjuˌbɑːnɪkˈpleg/",
+    "accepted_answers": [
+      "腺鼠疫",
+      "腹股沟淋巴结鼠疫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
     "term": "buccaneer",
@@ -40793,6 +42638,31 @@
     }
   },
   {
+    "term": "buckeye",
+    "type": "word",
+    "pos": "N",
+    "translation": "七叶树；（七叶树的）坚果（光滑；呈红褐色）",
+    "analysis": "n (US)  1 horse-chestnut tree 七叶树.  2 its shiny reddish-brown nut （七叶树的）坚果（光滑, 呈红褐色）.",
+    "phonetic": "/ ˈbʌkaɪ; ˈbʌkˌaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "七叶树；（七叶树的）坚果（光滑；呈红褐色）"
+    ],
+    "pronunciation": "/ ˈbʌkaɪ; ˈbʌkˌaɪ/",
+    "accepted_answers": [
+      "七叶树",
+      "（七叶树的）坚果（光滑",
+      "呈红褐色）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "buckie",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -40931,6 +42801,31 @@
       "（猎枪用的）大号铅弹"
     ],
     "added_at": "2026-03-30T05:12:25.617Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
+    "term": "bucolic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "乡村生活的；田园生活的；田园诗",
+    "analysis": "adj of country life or the countryside; rustic 乡村生活的; 田园生活的.\nbucolics \nn [pl] poems about country life 田园诗.",
+    "phonetic": "/ bjuːˈkɒlɪk; bjuˈkɑːlɪk/",
+    "origin": "待查",
+    "expansions": [
+      "乡村生活的；田园生活的；田园诗"
+    ],
+    "pronunciation": "/ bjuːˈkɒlɪk; bjuˈkɑːlɪk/",
+    "accepted_answers": [
+      "乡村生活的",
+      "田园生活的",
+      "田园诗"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -41543,6 +43438,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bugle",
+    "type": "word",
+    "pos": "N",
+    "translation": "军号；见附录；之插图",
+    "analysis": "n brass musical instrument like a small trumpet but without keys or valves, used for giving military signals 军号. =>illus at App 1 见附录1之插图, page x.",
+    "phonetic": "/ ˈbjuːgl; ˈbjugl/",
+    "origin": "待查",
+    "expansions": [
+      "军号；见附录；之插图"
+    ],
+    "pronunciation": "/ ˈbjuːgl; ˈbjugl/",
+    "accepted_answers": [
+      "军号",
+      "见附录",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
     "term": "bugler",
@@ -42486,6 +44406,31 @@
     }
   },
   {
+    "term": "bulrush",
+    "type": "word",
+    "pos": "N",
+    "translation": "芦草；宽叶香蒲；灯心草",
+    "analysis": "n type of tall rush(3) with a thick velvety head 芦草; 宽叶香蒲; 灯心草.",
+    "phonetic": "/ ˈbUlrʌʃ; ˈbJlˌrʌʃ/",
+    "origin": "待查",
+    "expansions": [
+      "芦草；宽叶香蒲；灯心草"
+    ],
+    "pronunciation": "/ ˈbUlrʌʃ; ˈbJlˌrʌʃ/",
+    "accepted_answers": [
+      "芦草",
+      "宽叶香蒲",
+      "灯心草"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "bulwark",
     "type": "word",
     "translation": "壁垒（尤指用泥土堆砌者）；防御工事；比喻)",
@@ -42930,6 +44875,31 @@
     }
   },
   {
+    "term": "bungalow",
+    "type": "word",
+    "pos": "N",
+    "translation": "平房；见附录；之插图",
+    "analysis": "n small house with one storey 平房. =>illus at App 1 见附录1之插图, page vii.",
+    "phonetic": "/ ˈbʌŋgələʊ; ˈbʌŋgəˌlo/",
+    "origin": "待查",
+    "expansions": [
+      "平房；见附录；之插图"
+    ],
+    "pronunciation": "/ ˈbʌŋgələʊ; ˈbʌŋgəˌlo/",
+    "accepted_answers": [
+      "平房",
+      "见附录",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "bungerly",
     "type": "word",
     "translation": "…地；以…方式",
@@ -43186,6 +45156,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "buoyancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "buoyancy",
+    "analysis": "n [U].\nbuoyantly \nadv.",
+    "phonetic": "/ -ənsɪ; -ənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "buoyancy"
+    ],
+    "pronunciation": "/ -ənsɪ; -ənsɪ/",
+    "accepted_answers": [
+      "buoyancy"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
     "term": "buoyant",
@@ -43697,6 +45690,30 @@
     "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
+    "term": "burgundy",
+    "type": "word",
+    "pos": "N",
+    "translation": "勃艮第葡萄酒（产於法国东部勃艮第地区的红酒或白酒）；深的紫红色",
+    "analysis": "n  1 [U, C] any of various types of red or white wine from the Burgundy area of eastern France 勃艮第葡萄酒（产於法国东部勃艮第地区的红酒或白酒）.  2 [U] dark purplish-red colour 深的紫红色.",
+    "phonetic": "/ ˈbɜːgəndɪ; ˈbɜːgəndɪ/",
+    "origin": "待查",
+    "expansions": [
+      "勃艮第葡萄酒（产於法国东部勃艮第地区的红酒或白酒）；深的紫红色"
+    ],
+    "pronunciation": "/ ˈbɜːgəndɪ; ˈbɜːgəndɪ/",
+    "accepted_answers": [
+      "勃艮第葡萄酒（产於法国东部勃艮第地区的红酒或白酒）",
+      "深的紫红色"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "burial",
     "type": "word",
     "translation": "埋葬；葬礼；在某些国家；火葬比土葬普遍",
@@ -44038,6 +46055,30 @@
     "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
+    "term": "bursary",
+    "type": "word",
+    "pos": "N",
+    "translation": "（学院的）财务处；（授予学生的）奖学金或助学金",
+    "analysis": "n  1 college bursar's office （学院的）财务处.  2 scholarship or grant awarded to a student （授予学生的）奖学金或助学金.",
+    "phonetic": "/ ˈbɜːsərɪ; ˈbɜːsərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（学院的）财务处；（授予学生的）奖学金或助学金"
+    ],
+    "pronunciation": "/ ˈbɜːsərɪ; ˈbɜːsərɪ/",
+    "accepted_answers": [
+      "（学院的）财务处",
+      "（授予学生的）奖学金或助学金"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "burseraceous",
     "type": "word",
     "translation": "…的；充满…的",
@@ -44284,6 +46325,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "bushed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "作表语；口)；疲惫不堪",
+    "analysis": "adj [pred 作表语] (US infml 口) very tired 疲惫不堪.",
+    "phonetic": "/ bUʃt; bJʃt/",
+    "origin": "待查",
+    "expansions": [
+      "作表语；口)；疲惫不堪"
+    ],
+    "pronunciation": "/ bUʃt; bJʃt/",
+    "accepted_answers": [
+      "作表语",
+      "口)",
+      "疲惫不堪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
     "term": "bushman",
@@ -44772,6 +46838,29 @@
     }
   },
   {
+    "term": "butane",
+    "type": "word",
+    "pos": "N",
+    "translation": ")丁烷",
+    "analysis": "n [U] inflammable gas produced from petroleum, used in liquid form as a fuel (for cooking, heating, lighting, etc) 丁烷.",
+    "phonetic": "/ ˈbjuːteɪn; ˈbjuten/",
+    "origin": "待查",
+    "expansions": [
+      ")丁烷"
+    ],
+    "pronunciation": "/ ˈbjuːteɪn; ˈbjuten/",
+    "accepted_answers": [
+      ")丁烷"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "butcher",
     "type": "word",
     "translation": "屠夫；肉商；)在肉铺买肉",
@@ -45208,6 +47297,32 @@
     }
   },
   {
+    "term": "buxom",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "通常作褒义；尤作戏谑语)(；（指女子）健美而丰满的；乳房突出的",
+    "analysis": "adj (usu approv esp joc 通常作褒义, 尤作戏谑语) (of women) plump and healthy-looking; having a large bosom （指女子）健美而丰满的; 乳房突出的.",
+    "phonetic": "/ ˈbʌksəm; ˈbʌksəm/",
+    "origin": "待查",
+    "expansions": [
+      "通常作褒义；尤作戏谑语)(；（指女子）健美而丰满的；乳房突出的"
+    ],
+    "pronunciation": "/ ˈbʌksəm; ˈbʌksəm/",
+    "accepted_answers": [
+      "通常作褒义",
+      "尤作戏谑语)(",
+      "（指女子）健美而丰满的",
+      "乳房突出的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
     "term": "buy",
     "type": "word",
     "translation": "购买（某物）；采购；现在房价很低；买房子正是时候",
@@ -45335,6 +47450,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "by-election",
+    "type": "word",
+    "pos": "N",
+    "translation": "（单独在某一选区举行的）国会议员的补缺选举；参看",
+    "analysis": "n election of a new Member of Parliament in a single constituency whose member has died or resigned （单独在某一选区举行的）国会议员的补缺选举. Cf 参看 general election (general).",
+    "phonetic": "/ ˈbaɪɪlekʃn; ˈbaɪɪˌlekʃən/",
+    "origin": "待查",
+    "expansions": [
+      "（单独在某一选区举行的）国会议员的补缺选举；参看"
+    ],
+    "pronunciation": "/ ˈbaɪɪlekʃn; ˈbaɪɪˌlekʃən/",
+    "accepted_answers": [
+      "（单独在某一选区举行的）国会议员的补缺选举",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-v,w,x,y,z.txt"
+  },
+  {
+    "term": "by-law",
+    "type": "word",
+    "pos": "N",
+    "translation": "（地方）法规；（俱乐部或公司的）章程",
+    "analysis": "n  1 (also `bye-law) law or regulation made by a local, not a central, authority （地方）法规.  2 (US) regulation of a club or company （俱乐部或公司的）章程.",
+    "phonetic": "/ ˈbaɪlɔː; ˈbaɪˌlɔː/",
+    "origin": "待查",
+    "expansions": [
+      "（地方）法规；（俱乐部或公司的）章程"
+    ],
+    "pronunciation": "/ ˈbaɪlɔː; ˈbaɪˌlɔː/",
+    "accepted_answers": [
+      "（地方）法规",
+      "（俱乐部或公司的）章程"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-v,w,x,y,z.txt"
   },
   {
     "term": "by-play",

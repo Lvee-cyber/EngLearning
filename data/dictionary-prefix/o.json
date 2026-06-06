@@ -24,6 +24,30 @@
     }
   },
   {
+    "term": "o level",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "口)；参看",
+    "analysis": "(infml 口) = ordinary level (ordinary).  Cf 参看 A level.",
+    "phonetic": "/ ˈəʊlevl; ˈoˌlevl/",
+    "origin": "待查",
+    "expansions": [
+      "口)；参看"
+    ],
+    "pronunciation": "/ ˈəʊlevl; ˈoˌlevl/",
+    "accepted_answers": [
+      "口)",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "O-a,b",
     "type": "word",
     "translation": "待查",
@@ -485,6 +509,29 @@
     }
   },
   {
+    "term": "oarsman",
+    "type": "word",
+    "pos": "N",
+    "translation": "划桨人",
+    "analysis": "n (pl oarsmen), `oarswoman n (pl oarswomen) person who rows a boat; rower 划桨人.",
+    "phonetic": "/ ˈɔːzmən; ˈɔːrzmən/",
+    "origin": "待查",
+    "expansions": [
+      "划桨人"
+    ],
+    "pronunciation": "/ ˈɔːzmən; ˈɔːrzmən/",
+    "accepted_answers": [
+      "划桨人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "oas",
     "type": "word",
     "pos": "word",
@@ -556,6 +603,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oast",
+    "type": "word",
+    "pos": "N",
+    "translation": "忽布（啤酒花）烘乾；忽布烘乾房",
+    "analysis": "n kiln for drying hops 忽布（啤酒花）烘乾　.\noasthouse \nn building containing an oast 忽布烘乾房.",
+    "phonetic": "/ əʊst; ost/",
+    "origin": "待查",
+    "expansions": [
+      "忽布（啤酒花）烘乾；忽布烘乾房"
+    ],
+    "pronunciation": "/ əʊst; ost/",
+    "accepted_answers": [
+      "忽布（啤酒花）烘乾",
+      "忽布烘乾房"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
   },
   {
     "term": "oat",
@@ -1065,6 +1136,29 @@
     }
   },
   {
+    "term": "obelisk",
+    "type": "word",
+    "pos": "N",
+    "translation": "方尖碑（用作纪念碑或地标）",
+    "analysis": "n tall pointed stone pillar with four sides, set up as a monument or landmark 方尖碑（用作纪念碑或地标）.",
+    "phonetic": "/ ˈɒbəlɪsk; ˈɑːblˌɪsk/",
+    "origin": "待查",
+    "expansions": [
+      "方尖碑（用作纪念碑或地标）"
+    ],
+    "pronunciation": "/ ˈɒbəlɪsk; ˈɑːblˌɪsk/",
+    "accepted_answers": [
+      "方尖碑（用作纪念碑或地标）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "obese",
     "type": "word",
     "translation": "文或医)(；（指人）过度肥胖的；建议肥胖病人改变饮食",
@@ -1256,6 +1350,32 @@
     }
   },
   {
+    "term": "obiter dictum",
+    "type": "phrase",
+    "pos": "N",
+    "translation": ")(；拉；律或文)；附带意见",
+    "analysis": "n (pl dicta / 5dIktE; `dIktE/) (Latin law or fml 拉, 律或文) incidental remark or statement not essential to the main argument 附带意见; 附言.\ndid\npt of do.",
+    "phonetic": "/ ˌɒbɪtəˈdɪktəm; ˈɑːbɪtəˈdɪktəm/",
+    "origin": "待查",
+    "expansions": [
+      ")(；拉；律或文)；附带意见"
+    ],
+    "pronunciation": "/ ˌɒbɪtəˈdɪktəm; ˈɑːbɪtəˈdɪktəm/",
+    "accepted_answers": [
+      ")(",
+      "拉",
+      "律或文)",
+      "附带意见"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/D/D-i.txt"
+  },
+  {
     "term": "obituary",
     "type": "word",
     "translation": "口语作；讣闻；讣告",
@@ -1358,6 +1478,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "objectionably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "objectionably",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃənəblɪ; -ʃənəblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "objectionably"
+    ],
+    "pronunciation": "/ -ʃənəblɪ; -ʃənəblɪ/",
+    "accepted_answers": [
+      "objectionably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
   },
   {
     "term": "objective",
@@ -1823,6 +1966,31 @@
     }
   },
   {
+    "term": "obliquity",
+    "type": "word",
+    "pos": "word",
+    "translation": "倾斜；歪斜；间接",
+    "analysis": "(also obliqueness) [C, U] (instance of the) state of being oblique 倾斜; 歪斜; 间接.\noblique angle \nany angle that is not a right angle (ie not 90); acute or obtuse angle 斜角（非90的角, 即锐角或钝角）.",
+    "phonetic": "/ əˈblɪkwətɪ; əˈblɪkwətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "倾斜；歪斜；间接"
+    ],
+    "pronunciation": "/ əˈblɪkwətɪ; əˈblɪkwətɪ/",
+    "accepted_answers": [
+      "倾斜",
+      "歪斜",
+      "间接"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "obliterate",
     "type": "word",
     "translation": "文)；除去（某物）的痕迹；涂去",
@@ -1846,6 +2014,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "obliteration",
+    "type": "word",
+    "pos": "N",
+    "translation": "obliteration",
+    "analysis": "n [U].",
+    "phonetic": "/ əˌblɪtəˈreɪʃn; əˌblɪtəˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "obliteration"
+    ],
+    "pronunciation": "/ əˌblɪtəˈreɪʃn; əˌblɪtəˈreʃən/",
+    "accepted_answers": [
+      "obliteration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
   },
   {
     "term": "oblivescence",
@@ -1993,6 +2184,31 @@
     }
   },
   {
+    "term": "obloquy",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；公开的羞辱；辱骂",
+    "analysis": "n [U] (fml 文) public shame or disgrace; abuse; discredit 公开的羞辱; 辱骂; 败坏名誉.",
+    "phonetic": "/ ˈɒbləkwɪ; ˈɑːbləkwɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；公开的羞辱；辱骂"
+    ],
+    "pronunciation": "/ ˈɒbləkwɪ; ˈɑːbləkwɪ/",
+    "accepted_answers": [
+      "文)",
+      "公开的羞辱",
+      "辱骂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "obnoxiety",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -2039,6 +2255,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oboe",
+    "type": "word",
+    "pos": "N",
+    "translation": "音)；双簧管；见附录",
+    "analysis": "n (music 音) woodwind instrument of treble pitch, played through a double reed 双簧管. =>illus at App 1 见附录1插图, page x.",
+    "phonetic": "/ ˈəʊbəʊ; ˈobo/",
+    "origin": "待查",
+    "expansions": [
+      "音)；双簧管；见附录"
+    ],
+    "pronunciation": "/ ˈəʊbəʊ; ˈobo/",
+    "accepted_answers": [
+      "音)",
+      "双簧管",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
   },
   {
     "term": "oboist",
@@ -2405,6 +2646,30 @@
     }
   },
   {
+    "term": "obsequies",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；葬礼",
+    "analysis": "n [pl] (fml 文) funeral ceremonies 葬礼.",
+    "phonetic": "/ ˈɒbsɪkwɪz; ˈɑːbsɪkwɪz/",
+    "origin": "待查",
+    "expansions": [
+      "文)；葬礼"
+    ],
+    "pronunciation": "/ ˈɒbsɪkwɪz; ˈɑːbsɪkwɪz/",
+    "accepted_answers": [
+      "文)",
+      "葬礼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "obsequious",
     "type": "word",
     "translation": "贬)；)逢迎的；巴结的",
@@ -2555,6 +2820,31 @@
     }
   },
   {
+    "term": "observatory",
+    "type": "word",
+    "pos": "N",
+    "translation": "天文台；气象台；观象台",
+    "analysis": "n building from which the stars, the weather, etc can be observed by scientists 天文台; 气象台; 观象台.",
+    "phonetic": "/ əbˈzɜːvətrɪ; -tɔːrɪ; əbˈzɜːvəˌtɔːrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "天文台；气象台；观象台"
+    ],
+    "pronunciation": "/ əbˈzɜːvətrɪ; -tɔːrɪ; əbˈzɜːvəˌtɔːrɪ/",
+    "accepted_answers": [
+      "天文台",
+      "气象台",
+      "观象台"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-a,b.txt"
+  },
+  {
     "term": "observe",
     "type": "word",
     "translation": "只用於被动语态；看到；注意到（某人；某事物",
@@ -2596,9 +2886,7 @@
     "pronunciation": "/ əbˈses; əbˈses/",
     "accepted_answers": [
       "通常用於被动语态",
-      "使（某人）牵挂",
-      "惦念",
-      "著迷或困扰",
+      "使（某人）牵挂、惦念、著迷或困扰",
       "她晚年一直受著死亡恐惧的困扰"
     ],
     "added_at": "2026-03-30T03:30:42.102Z",
@@ -2607,7 +2895,15 @@
       "incorrect_count": 0,
       "review_history": []
     },
-    "dict_source": "data/DICT/O/O-a,b.txt"
+    "dict_source": "data/DICT/O/O-a,b.txt",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "使着迷；使困扰；反复挂念；过度关注",
+        "analysis": "让某人被某个想法、问题或对象持续占据注意力；也可表示自己反复纠结某事。常带有过度关注、难以放下的意味。"
+      }
+    ]
   },
   {
     "term": "obsession",
@@ -3540,6 +3836,32 @@
     }
   },
   {
+    "term": "ocarina",
+    "type": "word",
+    "pos": "N",
+    "translation": "埙；洋埙（高音小笛；形如卵；用陶土、金属或塑料制成）",
+    "analysis": "n small high-pitched musical instrument, shaped like an egg, with holes for the fingertips, played by blowing and made of clay, metal or plastic 埙, 洋埙（高音小笛, 形如卵, 用陶土、 金属或塑料制成）.",
+    "phonetic": "/ ˌɒkəˈriːnə; ˌɑːkəˈrinə/",
+    "origin": "待查",
+    "expansions": [
+      "埙；洋埙（高音小笛；形如卵；用陶土、金属或塑料制成）"
+    ],
+    "pronunciation": "/ ˌɒkəˈriːnə; ˌɑːkəˈrinə/",
+    "accepted_answers": [
+      "埙",
+      "洋埙（高音小笛",
+      "形如卵",
+      "用陶土、金属或塑料制成）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "occasion",
     "type": "word",
     "translation": ")（事情发生的）时刻；时候；场合；此时；彼时",
@@ -3616,6 +3938,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "occident",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；西方国家；参看",
+    "analysis": "n the Occident [sing] (fml 文) the countries of the West, ie Europe and America 西方国家. Cf 参看 orient1.",
+    "phonetic": "/ ˈɒksɪdənt; ˈɑːksədənt/",
+    "origin": "待查",
+    "expansions": [
+      "文)；西方国家；参看"
+    ],
+    "pronunciation": "/ ˈɒksɪdənt; ˈɑːksədənt/",
+    "accepted_answers": [
+      "文)",
+      "西方国家",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
+    "term": "occidental",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；西方人；西洋人",
+    "analysis": "n (fml 文) person from the Occident 西方人; 西洋人.\noccidental \nadj of or from the Occident 西方的; 西洋的.",
+    "phonetic": "/ ˌɒksɪˈdentl; ˌɑːksəˈdentl/",
+    "origin": "待查",
+    "expansions": [
+      "文)；西方人；西洋人"
+    ],
+    "pronunciation": "/ ˌɒksɪˈdentl; ˌɑːksəˈdentl/",
+    "accepted_answers": [
+      "文)",
+      "西方人",
+      "西洋人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
   },
   {
     "term": "occipitoanterior",
@@ -4615,6 +4987,31 @@
     }
   },
   {
+    "term": "octavo",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；缩写；八开",
+    "analysis": "n (pl ~s) (abbrs 缩写 oct) (size of a) book or page produced by folding a piece of paper of standard size three times to give eight sheets 八开; 八开的纸; 八开本的书.",
+    "phonetic": "/ ɒkˈteɪvəʊ; ɑːkˈtevo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；缩写；八开"
+    ],
+    "pronunciation": "/ ɒkˈteɪvəʊ; ɑːkˈtevo/",
+    "accepted_answers": [
+      ")(",
+      "缩写",
+      "八开"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "octet",
     "type": "word",
     "translation": "八重唱；八重奏；八重演唱或演奏者",
@@ -4707,6 +5104,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "october",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；十月；关於",
+    "analysis": "n [U, C] (abbr 缩写 Oct) the tenth month of the year, next after September 十月. For the uses of October see the examples at April. 关於October 的用法见April词条中的示例.",
+    "phonetic": "/ ɒkˈtəʊbə(r); ɑːkˈtobə/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；十月；关於"
+    ],
+    "pronunciation": "/ ɒkˈtəʊbə(r); ɑːkˈtobə/",
+    "accepted_answers": [
+      "缩写",
+      "十月",
+      "关於"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
   },
   {
     "term": "octocentenary",
@@ -5977,6 +6399,31 @@
     }
   },
   {
+    "term": "odorous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧；文)；有（香的或臭的）气味的",
+    "analysis": "adj (dated fml 旧, 文) having a (pleasant or unpleasant) smell 有（香的或臭的）气味的.",
+    "phonetic": "/ ˈəʊdərəs; ˈodərəs/",
+    "origin": "待查",
+    "expansions": [
+      "旧；文)；有（香的或臭的）气味的"
+    ],
+    "pronunciation": "/ ˈəʊdərəs; ˈodərəs/",
+    "accepted_answers": [
+      "旧",
+      "文)",
+      "有（香的或臭的）气味的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "odour",
     "type": "word",
     "translation": "文)；（香的或臭的）气味；新煮的咖啡的香味",
@@ -6144,6 +6591,30 @@
     }
   },
   {
+    "term": "oecd",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；经济合作与发展组织",
+    "analysis": "abbr 缩写 = Organization for Economic Co-operation and Development 经济合作与发展组织.\noecumenical\n= ecumenical.",
+    "phonetic": "/ ˌəʊiːsiːˈdiː; ˌoisiˈdi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；经济合作与发展组织"
+    ],
+    "pronunciation": "/ ˌəʊiːsiːˈdiː; ˌoisiˈdi/",
+    "accepted_answers": [
+      "缩写",
+      "经济合作与发展组织"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "oecist",
     "type": "word",
     "translation": "…者；…主义者",
@@ -6166,6 +6637,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oedipus complex",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "心)；俄狄浦斯情结（儿童对异性生身亲长的性欲望；对同性生身亲长的忌妒）；（女）恋父情结",
+    "analysis": "(psychology 心) unconscious sexual desire of a child for the parent of the opposite sex (esp of a boy for his mother), and jealousy of the other parent 俄狄浦斯情结（儿童对异性生身亲长的性欲望, 对同性生身亲长的忌妒）; （女）恋父情结; （尤指）（子）恋母情结.",
+    "phonetic": "/ ˈiːdɪpəskɒmpleks; ˈed-; ˈedəpəsˈkɑːmpleks/",
+    "origin": "待查",
+    "expansions": [
+      "心)；俄狄浦斯情结（儿童对异性生身亲长的性欲望；对同性生身亲长的忌妒）；（女）恋父情结"
+    ],
+    "pronunciation": "/ ˈiːdɪpəskɒmpleks; ˈed-; ˈedəpəsˈkɑːmpleks/",
+    "accepted_answers": [
+      "心)",
+      "俄狄浦斯情结（儿童对异性生身亲长的性欲望",
+      "对同性生身亲长的忌妒）",
+      "（女）恋父情结"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
   },
   {
     "term": "oenanthate",
@@ -6526,6 +7023,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "off-licence",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；持有准许外卖酒类执照的酒店或柜台；准许外卖酒类的执照",
+    "analysis": "n (Brit) (a) (US `package store) shop or part of a public house where alcoholic drinks are sold to be taken away 持有准许外卖酒类执照的酒店或柜台. (b) licence for this 准许外卖酒类的执照.",
+    "phonetic": "/ ˈɒflaɪsns; ˈɔːfˌlaɪsns/",
+    "origin": "待查",
+    "expansions": [
+      ")(；持有准许外卖酒类执照的酒店或柜台；准许外卖酒类的执照"
+    ],
+    "pronunciation": "/ ˈɒflaɪsns; ˈɔːfˌlaɪsns/",
+    "accepted_answers": [
+      ")(",
+      "持有准许外卖酒类执照的酒店或柜台",
+      "准许外卖酒类的执照"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
   },
   {
     "term": "off-line",
@@ -7281,6 +7803,29 @@
     }
   },
   {
+    "term": "offprint",
+    "type": "word",
+    "pos": "N",
+    "translation": "（书刊中选文的）单行本",
+    "analysis": "n separate printed copy of an article that is part of a larger publication （书刊中选文的）单行本.",
+    "phonetic": "/ ˈɒfprɪnt; ˈɔːf-; ˈɔːfˌprɪnt/",
+    "origin": "待查",
+    "expansions": [
+      "（书刊中选文的）单行本"
+    ],
+    "pronunciation": "/ ˈɒfprɪnt; ˈɔːf-; ˈɔːfˌprɪnt/",
+    "accepted_answers": [
+      "（书刊中选文的）单行本"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-c,d,e,f.txt"
+  },
+  {
     "term": "offscouring",
     "type": "word",
     "translation": "…过程；…中的状态",
@@ -7647,6 +8192,30 @@
     }
   },
   {
+    "term": "ogrish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（似）吃人巨妖的；极可怕的",
+    "analysis": "adj of or like an ogre （似）吃人巨妖的; 极可怕的.",
+    "phonetic": "/ ˈəʊgərɪʃ; ˈogərɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "（似）吃人巨妖的；极可怕的"
+    ],
+    "pronunciation": "/ ˈəʊgərɪʃ; ˈogərɪʃ/",
+    "accepted_answers": [
+      "（似）吃人巨妖的",
+      "极可怕的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
+  },
+  {
     "term": "ogum",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -7697,6 +8266,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ohm",
+    "type": "word",
+    "pos": "N",
+    "translation": "欧姆（电阻单位）",
+    "analysis": "n unit of electrical resistance 欧姆（电阻单位）.",
+    "phonetic": "/ əʊm; om/",
+    "origin": "待查",
+    "expansions": [
+      "欧姆（电阻单位）"
+    ],
+    "pronunciation": "/ əʊm; om/",
+    "accepted_answers": [
+      "欧姆（电阻单位）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "ohms",
@@ -7943,6 +8535,31 @@
     "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
+    "term": "okapi",
+    "type": "word",
+    "pos": "N",
+    "translation": "俄卡鹿皮（产於中非；类似长颈鹿；但颈短身有条斑）",
+    "analysis": "n animal of Central Africa, similar to a giraffe but with a shorter neck and a striped body 俄卡鹿皮 （产於中非, 类似长颈鹿, 但颈短身有条斑）.",
+    "phonetic": "/ əʊˈkɑː:pɪ; oˈkɑːpɪ/",
+    "origin": "待查",
+    "expansions": [
+      "俄卡鹿皮（产於中非；类似长颈鹿；但颈短身有条斑）"
+    ],
+    "pronunciation": "/ əʊˈkɑː:pɪ; oˈkɑːpɪ/",
+    "accepted_answers": [
+      "俄卡鹿皮（产於中非",
+      "类似长颈鹿",
+      "但颈短身有条斑）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
+  },
+  {
     "term": "okay",
     "type": "word",
     "translation": "口)；不错；希望孩子们都好",
@@ -8036,6 +8653,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "okra",
+    "type": "word",
+    "pos": "N",
+    "translation": "秋葵（荚）（可作蔬菜）",
+    "analysis": "n [U] (tropical plant with) green seed pods eaten as a vegetable 秋葵（荚）（可作蔬菜）.",
+    "phonetic": "/ ˈəʊkrə; ˈokrə/",
+    "origin": "待查",
+    "expansions": [
+      "秋葵（荚）（可作蔬菜）"
+    ],
+    "pronunciation": "/ ˈəʊkrə; ˈokrə/",
+    "accepted_answers": [
+      "秋葵（荚）（可作蔬菜）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "okshoofd",
@@ -8210,6 +8850,31 @@
     }
   },
   {
+    "term": "oldster",
+    "type": "word",
+    "pos": "N",
+    "translation": "口；谑)；老人",
+    "analysis": "n (infml joc 口, 谑) old person 老人.",
+    "phonetic": "/ ˈəʊldstə(r); ˈoldstə/",
+    "origin": "待查",
+    "expansions": [
+      "口；谑)；老人"
+    ],
+    "pronunciation": "/ ˈəʊldstə(r); ˈoldstə/",
+    "accepted_answers": [
+      "口",
+      "谑)",
+      "老人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
+  },
+  {
     "term": "oleacina",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -8277,6 +8942,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oleander",
+    "type": "word",
+    "pos": "N",
+    "translation": "夹竹桃",
+    "analysis": "n [C, U] evergreen Mediterranean shrub with red, white or pink flowers and tough leaves 夹竹桃.",
+    "phonetic": "/ ˌəʊlɪˈændə(r); ˌolɪˈændə/",
+    "origin": "待查",
+    "expansions": [
+      "夹竹桃"
+    ],
+    "pronunciation": "/ ˌəʊlɪˈændə(r); ˌolɪˈændə/",
+    "accepted_answers": [
+      "夹竹桃"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "oleaster",
@@ -8560,6 +9248,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oligarchy",
+    "type": "word",
+    "pos": "N",
+    "translation": "政)；寡头政治；寡头统治",
+    "analysis": "n (politics 政)  1 (a) [U] form of government in which a small group of people hold all the power 寡头政治; 寡头统治. (b) [C] these people as a group 寡头统治集团.  2 [C] country governed by an oligarchy 寡头统治的国家.",
+    "phonetic": "/ ˈɒlɪgɑː:kɪ; ˈɑːlɪˌgɑːrkɪ/",
+    "origin": "待查",
+    "expansions": [
+      "政)；寡头政治；寡头统治"
+    ],
+    "pronunciation": "/ ˈɒlɪgɑː:kɪ; ˈɑːlɪˌgɑːrkɪ/",
+    "accepted_answers": [
+      "政)",
+      "寡头政治",
+      "寡头统治"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "oligocene",
@@ -9150,6 +9863,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ombudsman",
+    "type": "word",
+    "pos": "N",
+    "translation": "巡视官（调查公民对政府提出陈诉的特派员）",
+    "analysis": "n (pl ombudsmen / -mEn; -mEn/) official appointed by a government to investigate and report on complaints made by citizens against public authorities 巡视官（调查公民对政府提出陈诉的特派员）.",
+    "phonetic": "/ ˈɒmbUdzmən,also-mæn; ˈɑːmbudzmən,-ˌmæn/",
+    "origin": "待查",
+    "expansions": [
+      "巡视官（调查公民对政府提出陈诉的特派员）"
+    ],
+    "pronunciation": "/ ˈɒmbUdzmən,also-mæn; ˈɑːmbudzmən,-ˌmæn/",
+    "accepted_answers": [
+      "巡视官（调查公民对政府提出陈诉的特派员）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
+  },
+  {
+    "term": "omega",
+    "type": "word",
+    "pos": "N",
+    "translation": "希腊字母表的最後一个字母；习语)",
+    "analysis": "n  1 the last letter of the Greek alphabet 希腊字母表的最後一个字母.  2 (idm 习语) Alpha and Omega => alpha.",
+    "phonetic": "/ ˈəʊmɪgə; əʊˈmegə; oˈmegə/",
+    "origin": "待查",
+    "expansions": [
+      "希腊字母表的最後一个字母；习语)"
+    ],
+    "pronunciation": "/ ˈəʊmɪgə; əʊˈmegə; oˈmegə/",
+    "accepted_answers": [
+      "希腊字母表的最後一个字母",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
   },
   {
     "term": "omelet",
@@ -10709,6 +11469,30 @@
     }
   },
   {
+    "term": "onomatopoeia",
+    "type": "word",
+    "pos": "N",
+    "translation": "拟声；象声词（如",
+    "analysis": "n [U] combination of sounds in a word that imitates or suggests what the word refers to eg hiss, cuckoo, thud 拟声; 象声词（如hiss、 cuckoo、 thud）.",
+    "phonetic": "/ ˌɒnəˌmætəˈpɪə; ˌɑːnəˌmætəˈpiə/",
+    "origin": "待查",
+    "expansions": [
+      "拟声；象声词（如"
+    ],
+    "pronunciation": "/ ˌɒnəˌmætəˈpɪə; ˌɑːnəˌmætəˈpiə/",
+    "accepted_answers": [
+      "拟声",
+      "象声词（如"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-g,h,i,j,k,l,m,n.txt"
+  },
+  {
     "term": "onomatopoeic",
     "type": "word",
     "translation": "是象声词",
@@ -11721,6 +12505,29 @@
     }
   },
   {
+    "term": "op art",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "光效应艺术（利用几何图形产生视幻觉的抽象艺术）",
+    "analysis": "(also optical art) form of modern abstract art using geometrical patterns that produce optical illusions 光效应艺术（利用几何图形产生视幻觉的抽象艺术）.",
+    "phonetic": "/ ˈɒpɑː:t; ˈɑːpɑːrt/",
+    "origin": "待查",
+    "expansions": [
+      "光效应艺术（利用几何图形产生视幻觉的抽象艺术）"
+    ],
+    "pronunciation": "/ ˈɒpɑː:t; ˈɑːpɑːrt/",
+    "accepted_answers": [
+      "光效应艺术（利用几何图形产生视幻觉的抽象艺术）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-q,r.txt"
+  },
+  {
     "term": "opacate",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -11977,6 +12784,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "opec",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；石油输出国组织",
+    "analysis": "abbr 缩写 = Organization of Petroleum Exporting Countries 石油输出国组织.",
+    "phonetic": "/ ˈəʊpek; ˈoˌpek/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；石油输出国组织"
+    ],
+    "pronunciation": "/ ˈəʊpek; ˈoˌpek/",
+    "accepted_answers": [
+      "缩写",
+      "石油输出国组织"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
   },
   {
     "term": "open",
@@ -12279,6 +13110,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "operatically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "（观剧用的）小型双筒望远镜；歌剧院",
+    "analysis": "adv.\nopera-glasses \nn [pl] small binoculars for use in the theatre （观剧用的）小型双筒望远镜.\nopera-house \nn theatre for performances of operas 歌剧院.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（观剧用的）小型双筒望远镜；歌剧院"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "（观剧用的）小型双筒望远镜",
+      "歌剧院"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
   },
   {
     "term": "operation",
@@ -13014,6 +13869,30 @@
     }
   },
   {
+    "term": "ophthalmology",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；眼科学",
+    "analysis": "n [U] (medical 医) scientific study of the eye and its diseases 眼科学.",
+    "phonetic": "/ ˌɒfθælˈmɒlədʒɪ; ˌɑːfθælˈmɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "医)；眼科学"
+    ],
+    "pronunciation": "/ ˌɒfθælˈmɒlədʒɪ; ˌɑːfθælˈmɑːlədʒɪ/",
+    "accepted_answers": [
+      "医)",
+      "眼科学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
+  },
+  {
     "term": "ophthalmoplasty",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -13082,6 +13961,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ophthalmoscope",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；检眼镜；眼底镜",
+    "analysis": "n (medical 医) instrument for examining the eye closely, having a mirror with a hole in the centre 检眼镜; 眼底镜.",
+    "phonetic": "/ ɒfˈθælməskəʊp; ɑːfˈθælməˌskop/",
+    "origin": "待查",
+    "expansions": [
+      "医)；检眼镜；眼底镜"
+    ],
+    "pronunciation": "/ ɒfˈθælməskəʊp; ɑːfˈθælməˌskop/",
+    "accepted_answers": [
+      "医)",
+      "检眼镜",
+      "眼底镜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
   },
   {
     "term": "ophthalmoscopist",
@@ -13437,6 +14341,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "opossum",
+    "type": "word",
+    "pos": "N",
+    "translation": "负鼠（产於美洲或澳洲）；缩写",
+    "analysis": "(US also possum / 5pCsEm; `pBsEm/) n type of small American or Australian animal that lives in trees and carries its young in a pouch 负鼠（产於美洲或澳洲）.\nopp\nabbr 缩写 = opposite.",
+    "phonetic": "/ əˈpɒsəm; əˈpɑːsəm/",
+    "origin": "待查",
+    "expansions": [
+      "负鼠（产於美洲或澳洲）；缩写"
+    ],
+    "pronunciation": "/ əˈpɒsəm; əˈpɑːsəm/",
+    "accepted_answers": [
+      "负鼠（产於美洲或澳洲）",
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
   },
   {
     "term": "oppilative",
@@ -13970,6 +14898,29 @@
     }
   },
   {
+    "term": "ops",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n [pl] (infml 口) = operations (operation 5a).",
+    "phonetic": "/ ɒps; ɑːps/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ɒps; ɑːps/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
+  },
+  {
     "term": "opsonin",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -14279,6 +15230,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "optimistically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "optimistically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "optimistically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "optimistically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-o,p.txt"
   },
   {
     "term": "optimization",
@@ -15840,6 +16814,29 @@
     "dict_source": "data/DICT/O/O-q,r.txt"
   },
   {
+    "term": "orderliness",
+    "type": "word",
+    "pos": "N",
+    "translation": "orderliness",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈɔːdəlɪnɪs; ˈɔːrdəlɪnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "orderliness"
+    ],
+    "pronunciation": "/ ˈɔːdəlɪnɪs; ˈɔːrdəlɪnɪs/",
+    "accepted_answers": [
+      "orderliness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "orderly",
     "type": "word",
     "translation": "安排好的；有秩序的；有顺序的",
@@ -16078,6 +17075,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ordure",
+    "type": "word",
+    "pos": "N",
+    "translation": "文或婉)；排泄物；污物",
+    "analysis": "n [U] (fml or euph 文或婉) excrement; dung; filth 排泄物; 粪; 污物.",
+    "phonetic": "/ ˈɔːdjUə(r); -dʒər; ˈɔːrdʒə/",
+    "origin": "待查",
+    "expansions": [
+      "文或婉)；排泄物；污物"
+    ],
+    "pronunciation": "/ ˈɔːdjUə(r); -dʒər; ˈɔːrdʒə/",
+    "accepted_answers": [
+      "文或婉)",
+      "排泄物",
+      "污物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
   },
   {
     "term": "ore",
@@ -17301,6 +18323,30 @@
     }
   },
   {
+    "term": "oriole",
+    "type": "word",
+    "pos": "N",
+    "translation": "黄鹂；（北美）金莺",
+    "analysis": "n  1 (also ,golden `oriole) type of European bird with black and yellow feathers 黄鹂.  2 similar type of N American bird of which the male has black and yellow feathers （北美）金莺.",
+    "phonetic": "/ ˈɔːrɪəʊl; ˈɔːrɪˌol/",
+    "origin": "待查",
+    "expansions": [
+      "黄鹂；（北美）金莺"
+    ],
+    "pronunciation": "/ ˈɔːrɪəʊl; ˈɔːrɪˌol/",
+    "accepted_answers": [
+      "黄鹂",
+      "（北美）金莺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "orismology",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -17558,6 +18604,52 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ornithologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "鸟类学家",
+    "analysis": "n expert in ornithology 鸟类学家.",
+    "phonetic": "/ ˌɔːnɪˈθɒlədʒɪst; ˌɔːrnɪˈθɑːlədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "鸟类学家"
+    ],
+    "pronunciation": "/ ˌɔːnɪˈθɒlədʒɪst; ˌɔːrnɪˈθɑːlədʒɪst/",
+    "accepted_answers": [
+      "鸟类学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
+    "term": "ornithology",
+    "type": "word",
+    "pos": "N",
+    "translation": "鸟类学",
+    "analysis": "n [U] scientific study of birds 鸟类学.",
+    "phonetic": "/ ˌɔːnɪˈθɒlədʒɪ; ˌɔːrnəˈθɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "鸟类学"
+    ],
+    "pronunciation": "/ ˌɔːnɪˈθɒlədʒɪ; ˌɔːrnəˈθɑːlədʒɪ/",
+    "accepted_answers": [
+      "鸟类学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
   },
   {
     "term": "ornithomantia",
@@ -17891,6 +18983,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "orphanage",
+    "type": "word",
+    "pos": "N",
+    "translation": "孤儿院",
+    "analysis": "n home for children who are orphans 孤儿院.",
+    "phonetic": "/ ˈɔːfənɪdʒ; ˈɔːrfənɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "孤儿院"
+    ],
+    "pronunciation": "/ ˈɔːfənɪdʒ; ˈɔːrfənɪdʒ/",
+    "accepted_answers": [
+      "孤儿院"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
   },
   {
     "term": "orphandom",
@@ -18623,6 +19738,29 @@
     }
   },
   {
+    "term": "orthographic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "orthographic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌɔːθəˈgræfɪk,-fɪkl; ˌɔːrθəˈgræfɪk,-fɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "orthographic"
+    ],
+    "pronunciation": "/ ˌɔːθəˈgræfɪk,-fɪkl; ˌɔːrθəˈgræfɪk,-fɪkl/",
+    "accepted_answers": [
+      "orthographic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "orthographically",
     "type": "word",
     "pos": "Adv",
@@ -19181,6 +20319,29 @@
     }
   },
   {
+    "term": "oryx",
+    "type": "word",
+    "pos": "N",
+    "translation": "（非洲）大羚羊",
+    "analysis": "n large African antelope with long straight horns （非洲）大羚羊.",
+    "phonetic": "/ ˈɒrɪks; ˈɔːr-; ˈɔːrɪks/",
+    "origin": "待查",
+    "expansions": [
+      "（非洲）大羚羊"
+    ],
+    "pronunciation": "/ ˈɒrɪks; ˈɔːr-; ˈɔːrɪks/",
+    "accepted_answers": [
+      "（非洲）大羚羊"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-q,r.txt"
+  },
+  {
     "term": "oryzorictinae",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -19417,6 +20578,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oscillator",
+    "type": "word",
+    "pos": "N",
+    "translation": "物)；振荡器",
+    "analysis": "n (physics 物) instrument for producing electrical oscillations 振荡器.",
+    "phonetic": "/ -tə(r); -tə/",
+    "origin": "待查",
+    "expansions": [
+      "物)；振荡器"
+    ],
+    "pronunciation": "/ -tə(r); -tə/",
+    "accepted_answers": [
+      "物)",
+      "振荡器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "oscillatoriaceous",
@@ -19770,6 +20955,29 @@
     }
   },
   {
+    "term": "osmotic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "osmotic",
+    "analysis": "adj.",
+    "phonetic": "/ ɒzˈmɒtɪk; ɑːzˈmɑːtɪk/",
+    "origin": "待查",
+    "expansions": [
+      "osmotic"
+    ],
+    "pronunciation": "/ ɒzˈmɒtɪk; ɑːzˈmɑːtɪk/",
+    "accepted_answers": [
+      "osmotic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "osmunda",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -19931,6 +21139,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "osprey",
+    "type": "word",
+    "pos": "N",
+    "translation": "osprey",
+    "analysis": "n (type of) large fish-eating bird with a dark back and whitish head 鹗.",
+    "phonetic": "/ ˈɒspreɪ; ˈɑːsprɪ/",
+    "origin": "待查",
+    "expansions": [
+      "osprey"
+    ],
+    "pronunciation": "/ ˈɒspreɪ; ˈɑːsprɪ/",
+    "accepted_answers": [
+      "osprey"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "ossarium",
@@ -20294,6 +21525,30 @@
     }
   },
   {
+    "term": "osteo-arthritis",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；骨关节炎",
+    "analysis": "n [U] (medical 医) painful disease of the joints of the body that causes inflammation and stiffness 骨关节炎.",
+    "phonetic": "/ ˌɒstɪəʊɑː:ˈθraɪtɪs; ˌɑːstɪoɑːrˈθraɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "医)；骨关节炎"
+    ],
+    "pronunciation": "/ ˌɒstɪəʊɑː:ˈθraɪtɪs; ˌɑːstɪoɑːrˈθraɪtɪs/",
+    "accepted_answers": [
+      "医)",
+      "骨关节炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "osteochondroma",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -20503,6 +21758,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "osteopathy",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；按骨术；整骨术",
+    "analysis": "n [U] (medical 医) treatment of certain diseases by manipulation of the bones and muscles 按骨术; 整骨术.",
+    "phonetic": "/ ˌɒstɪˈɒpəθɪ; ˌɑːstɪˈɑːpəθɪ/",
+    "origin": "待查",
+    "expansions": [
+      "医)；按骨术；整骨术"
+    ],
+    "pronunciation": "/ ˌɒstɪˈɒpəθɪ; ˌɑːstɪˈɑːpəθɪ/",
+    "accepted_answers": [
+      "医)",
+      "按骨术",
+      "整骨术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "osteophone",
@@ -21122,6 +22402,30 @@
     "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
+    "term": "other-worldly",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "专心於心灵问题的；超脱世俗的",
+    "analysis": "adj concerned with or thinking about spiritual (rather than mundane) matters 专心於心灵问题的; 超脱世俗的.",
+    "phonetic": "/ ˌʌTəˈwɜːldlɪ; ˈʌTəˈwɜːldlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "专心於心灵问题的；超脱世俗的"
+    ],
+    "pronunciation": "/ ˌʌTəˈwɜːldlɪ; ˈʌTəˈwɜːldlɪ/",
+    "accepted_answers": [
+      "专心於心灵问题的",
+      "超脱世俗的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "otherness",
     "type": "word",
     "translation": "…性质；…状态",
@@ -21662,6 +22966,29 @@
     }
   },
   {
+    "term": "oubliette",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指旧时）地下密牢（出入口在顶部）",
+    "analysis": "n (esp formerly) secret dungeon or underground prison with an entrance only by a trapdoor in the roof （尤指旧时）地下密牢（出入口在顶部）.",
+    "phonetic": "/ ˌuːblɪˈet; ˌublɪˈet/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指旧时）地下密牢（出入口在顶部）"
+    ],
+    "pronunciation": "/ ˌuːblɪˈet; ˌublɪˈet/",
+    "accepted_answers": [
+      "（尤指旧时）地下密牢（出入口在顶部）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "ouch",
     "type": "word",
     "translation": "表示突然疼痛)；哎哟",
@@ -21777,6 +23104,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ouija",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；灵应牌（上有字母等符号；用於降神会中接收亡魂传来的信息）",
+    "analysis": "(also `Ouija-board) n (propr 专利名) board marked with letters of the alphabet and other signs, used in seances to receive messages said to come from the dead 灵应牌（上有字母等符号, 用於降神会中接收亡魂传来的信息）.",
+    "phonetic": "/ ˈwiːdʒə; ˈwidʒə/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；灵应牌（上有字母等符号；用於降神会中接收亡魂传来的信息）"
+    ],
+    "pronunciation": "/ ˈwiːdʒə; ˈwidʒə/",
+    "accepted_answers": [
+      "专利名)",
+      "灵应牌（上有字母等符号",
+      "用於降神会中接收亡魂传来的信息）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "ouistiti",
@@ -22211,6 +23563,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "outboard motor",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "（装在船尾外可拆卸的）船外发动机；插图",
+    "analysis": "removable engine that is attached to the outside of the back (stern) of a boat （装在船尾外可拆卸的）船外发动机. =>illus at dinghy 见dinghy插图.",
+    "phonetic": "/ ˌaUtbɔːdˈməʊtə(r); ˌaJtbɔːrdˈmotə/",
+    "origin": "待查",
+    "expansions": [
+      "（装在船尾外可拆卸的）船外发动机；插图"
+    ],
+    "pronunciation": "/ ˌaUtbɔːdˈməʊtə(r); ˌaJtbɔːrdˈmotə/",
+    "accepted_answers": [
+      "（装在船尾外可拆卸的）船外发动机",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
   },
   {
     "term": "outbolting",
@@ -22664,6 +24040,30 @@
     }
   },
   {
+    "term": "outcrop",
+    "type": "word",
+    "pos": "N",
+    "translation": "地质)；（岩层等的）露头（露出地表的部分）",
+    "analysis": "n (geology 地质) part of a layer (of rock, etc) that can be seen above the surface of the ground （岩层等的）露头（露出地表的部分）.",
+    "phonetic": "/ ˈaUtkrɒp; ˈaJtˌkrɑːp/",
+    "origin": "待查",
+    "expansions": [
+      "地质)；（岩层等的）露头（露出地表的部分）"
+    ],
+    "pronunciation": "/ ˈaUtkrɒp; ˈaJtˌkrɑːp/",
+    "accepted_answers": [
+      "地质)",
+      "（岩层等的）露头（露出地表的部分）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "outcrossing",
     "type": "word",
     "translation": "…过程；…中的状态",
@@ -23000,6 +24400,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "outfall",
+    "type": "word",
+    "pos": "N",
+    "translation": "（湖、河等的）出水口",
+    "analysis": "n place where water falls or flows out (of a lake, river, etc); outlet （湖、 河等的）出水口.",
+    "phonetic": "/ ˈaUtfɔːl; ˈaJtˌfɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "（湖、河等的）出水口"
+    ],
+    "pronunciation": "/ ˈaUtfɔːl; ˈaJtˌfɔːl/",
+    "accepted_answers": [
+      "（湖、河等的）出水口"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
     "term": "outfangthief",
@@ -24735,6 +26158,30 @@
     }
   },
   {
+    "term": "outrigger",
+    "type": "word",
+    "pos": "N",
+    "translation": "舷外撑架；有舷外撑架的船",
+    "analysis": "n  1 structure projectingover the side of a boat or ship, eg for the rowlocks in a racing boat or to give stability to a canoe 舷外撑架.  2 boat fitted with one of these structures 有舷外撑架的船.",
+    "phonetic": "/ ˈaUtrɪgə(r); ˈaJtˌrɪgə/",
+    "origin": "待查",
+    "expansions": [
+      "舷外撑架；有舷外撑架的船"
+    ],
+    "pronunciation": "/ ˈaUtrɪgə(r); ˈaJtˌrɪgə/",
+    "accepted_answers": [
+      "舷外撑架",
+      "有舷外撑架的船"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "outright",
     "type": "word",
     "translation": "坦率地；率直地；诚实地",
@@ -25315,6 +26762,30 @@
     "dict_source": "data/DICT/O/O-s,t,u.txt"
   },
   {
+    "term": "outstation",
+    "type": "word",
+    "pos": "N",
+    "translation": "设在边远地区的分站；前哨站",
+    "analysis": "n remote station(1); outpost 设在边远地区的分站; 前哨站.",
+    "phonetic": "/ ˈaUtsteɪʃn; ˈaJtˌsteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "设在边远地区的分站；前哨站"
+    ],
+    "pronunciation": "/ ˈaUtsteɪʃn; ˈaJtˌsteʃən/",
+    "accepted_answers": [
+      "设在边远地区的分站",
+      "前哨站"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "outstay",
     "type": "word",
     "translation": ")比（某人）停留的时间长；停留的时间比其他客人长久；习语)",
@@ -25881,6 +27352,30 @@
     }
   },
   {
+    "term": "ouzo",
+    "type": "word",
+    "pos": "N",
+    "translation": "茴香烈酒（希腊产；通常搀水饮用）",
+    "analysis": "n [U] Greek alcoholic drink flavoured with aniseed, usu drunk with water 茴香烈酒（希腊产, 通常搀水饮用）.",
+    "phonetic": "/ ˈuːzəʊ; ˈuzo/",
+    "origin": "待查",
+    "expansions": [
+      "茴香烈酒（希腊产；通常搀水饮用）"
+    ],
+    "pronunciation": "/ ˈuːzəʊ; ˈuzo/",
+    "accepted_answers": [
+      "茴香烈酒（希腊产",
+      "通常搀水饮用）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-s,t,u.txt"
+  },
+  {
     "term": "ova",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -26429,6 +27924,54 @@
     }
   },
   {
+    "term": "over-sexed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "性欲比通常旺盛的；耽於性事的；参看",
+    "analysis": "adj having greater sexual desire than is usual; obsessed by sex 性欲比通常旺盛的; 耽於性事的. Cf 参看 under-sexed.",
+    "phonetic": "/ ˌəʊvəˈsekst; ˌovəˈsekst/",
+    "origin": "待查",
+    "expansions": [
+      "性欲比通常旺盛的；耽於性事的；参看"
+    ],
+    "pronunciation": "/ ˌəʊvəˈsekst; ˌovəˈsekst/",
+    "accepted_answers": [
+      "性欲比通常旺盛的",
+      "耽於性事的",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
+    "term": "over-simplification",
+    "type": "word",
+    "pos": "N",
+    "translation": "过於简单的叙述或说明",
+    "analysis": "n [C, U] (instance of) over-simplifying 过於简单的叙述或说明.",
+    "phonetic": "/ ˌəʊvəˌsɪmplɪfɪˈkeɪʃn; ˌovə-ˌsɪmpləfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "过於简单的叙述或说明"
+    ],
+    "pronunciation": "/ ˌəʊvəˌsɪmplɪfɪˈkeɪʃn; ˌovə-ˌsɪmpləfəˈkeʃən/",
+    "accepted_answers": [
+      "过於简单的叙述或说明"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
     "term": "over-simplify",
     "type": "word",
     "translation": "尤用於被动语态；叙述或说明（一问题、事实等）过於简单；对我们面临的问题所做的简单化的分析",
@@ -26956,6 +28499,31 @@
     }
   },
   {
+    "term": "overbid",
+    "type": "word",
+    "pos": "V",
+    "translation": "（拍卖时）出价高於（某人）；出高价压倒（他人）；（桥牌中）叫牌压过（对方）或超过自己的实力",
+    "analysis": "v (-tt-; pt, pp overbid)  1 [Tn] offer more money than (sb) at an auction; outbid （拍卖时）出价高於（某人）; 出高价压倒（他人）.  2 [I, Tn] (in the game of bridge) make a higher bid than (one's partner) or than one's cards are worth （桥牌中）叫牌压过（对方）或超过自己的实力. Cf 参看 underbid.",
+    "phonetic": "/ ˌəʊvəˈbɪd; ˌovəˈbɪd/",
+    "origin": "待查",
+    "expansions": [
+      "（拍卖时）出价高於（某人）；出高价压倒（他人）；（桥牌中）叫牌压过（对方）或超过自己的实力"
+    ],
+    "pronunciation": "/ ˌəʊvəˈbɪd; ˌovəˈbɪd/",
+    "accepted_answers": [
+      "（拍卖时）出价高於（某人）",
+      "出高价压倒（他人）",
+      "（桥牌中）叫牌压过（对方）或超过自己的实力"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
     "term": "overbillow",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -27380,6 +28948,75 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "overcapitalisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "overcapitalisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌəʊvəˌkpɪtəlaɪˈzeɪʃn; -lɪˈz; ˈovəˌkæpətlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "overcapitalisation"
+    ],
+    "pronunciation": "/ ˌəʊvəˌkpɪtəlaɪˈzeɪʃn; -lɪˈz; ˈovəˌkæpətlɪˈzeʃən/",
+    "accepted_answers": [
+      "overcapitalisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
+    "term": "overcapitalise",
+    "type": "word",
+    "pos": "V",
+    "translation": "将（公司、企业等）的资本定得或估价过高",
+    "analysis": "v [Tn] fix or estimate the money supply of (a company, business, etc) too high 将（公司、 企业等）的资本定得或估价过高.",
+    "phonetic": "/ ˌəʊvəˈkpɪtəlaɪz; ˈovəˈkæpətlˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "将（公司、企业等）的资本定得或估价过高"
+    ],
+    "pronunciation": "/ ˌəʊvəˈkpɪtəlaɪz; ˈovəˈkæpətlˌaɪz/",
+    "accepted_answers": [
+      "将（公司、企业等）的资本定得或估价过高"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
+    "term": "overcapitalization",
+    "type": "word",
+    "pos": "N",
+    "translation": "overcapitalization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌəʊvəˌkpɪtəlaɪˈzeɪʃn; -lɪˈz; ˈovəˌkæpətlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "overcapitalization"
+    ],
+    "pronunciation": "/ ˌəʊvəˌkpɪtəlaɪˈzeɪʃn; -lɪˈz; ˈovəˌkæpətlɪˈzeʃən/",
+    "accepted_answers": [
+      "overcapitalization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "overcapitalize",
@@ -27861,6 +29498,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "overcrop",
+    "type": "word",
+    "pos": "V",
+    "translation": "过度使用（耕地）而使之贫瘠",
+    "analysis": "v (-pp-) [Tn] take too many crops from (farmland) so that it loses fertility 过度使用（耕地）而使之贫瘠.",
+    "phonetic": "/ ˌəʊvəˈkrɒp; ˌovəˈkrɑːp/",
+    "origin": "待查",
+    "expansions": [
+      "过度使用（耕地）而使之贫瘠"
+    ],
+    "pronunciation": "/ ˌəʊvəˈkrɒp; ˌovəˈkrɑːp/",
+    "accepted_answers": [
+      "过度使用（耕地）而使之贫瘠"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "overcrow",
@@ -28886,6 +30546,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "overexpose",
+    "type": "word",
+    "pos": "V",
+    "translation": "尤用於被动语态；（胶片等）曝光过度；参看",
+    "analysis": "v [Tn esp passive 尤用於被动语态] expose (a film, etc) for too long or in too bright a light （胶片等）曝光过度. Cf 参看 underexpose.\noverexposure \nn [U].",
+    "phonetic": "/ ˌəʊvərɪkˈspəʊz; ˈovərɪkˈspoz/",
+    "origin": "待查",
+    "expansions": [
+      "尤用於被动语态；（胶片等）曝光过度；参看"
+    ],
+    "pronunciation": "/ ˌəʊvərɪkˈspəʊz; ˈovərɪkˈspoz/",
+    "accepted_answers": [
+      "尤用於被动语态",
+      "（胶片等）曝光过度",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "overexquisite",
@@ -31067,6 +32752,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "overpass",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；立体交叉桥；立交桥",
+    "analysis": "n (esp US) (Brit also flyover / 5flaIEUvE(r); `flaI9ovL/) bridge that carries a road over a motorway 立体交叉桥; 立交桥. Cf 参看 underpass.",
+    "phonetic": "/ ˈəʊvəpɑː:s; -pæs; ˈovəˌpæs/",
+    "origin": "待查",
+    "expansions": [
+      ")(；立体交叉桥；立交桥"
+    ],
+    "pronunciation": "/ ˈəʊvəpɑː:s; -pæs; ˈovəˌpæs/",
+    "accepted_answers": [
+      ")(",
+      "立体交叉桥",
+      "立交桥"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "overpassionate",
@@ -34906,6 +36616,30 @@
     }
   },
   {
+    "term": "owl",
+    "type": "word",
+    "pos": "N",
+    "translation": "猫头鹰（传统上认为是聪明的象徵）；习语)",
+    "analysis": "n  1 bird of prey that flies at night and feeds on small animals, eg mice, and is traditionally regarded as a symbol of wisdom 　, 猫头鹰（传统上认为是聪明的象徵）.  2 (idm 习语) wise as an owl =>wise.",
+    "phonetic": "/ aUl; aJl/",
+    "origin": "待查",
+    "expansions": [
+      "猫头鹰（传统上认为是聪明的象徵）；习语)"
+    ],
+    "pronunciation": "/ aUl; aJl/",
+    "accepted_answers": [
+      "猫头鹰（传统上认为是聪明的象徵）",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
     "term": "owlet",
     "type": "word",
     "translation": "幼枭；小猫头鹰；（似）猫头鹰的",
@@ -35585,6 +37319,29 @@
     }
   },
   {
+    "term": "oxidation",
+    "type": "word",
+    "pos": "N",
+    "translation": "氧化",
+    "analysis": "(also oxidization,oxidisation / 9CksIdaI5zeIFn; ?@ -dI5z-; 9BksEdI`zeFEn/) n action or process of oxidizing 氧化.",
+    "phonetic": "/ ˌɒksɪˈdeɪʃən; ˌɑːksəˈdeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "氧化"
+    ],
+    "pronunciation": "/ ˌɒksɪˈdeɪʃən; ˌɑːksəˈdeʃən/",
+    "accepted_answers": [
+      "氧化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
+  },
+  {
     "term": "oxidator",
     "type": "word",
     "translation": "…者；…工具",
@@ -35680,6 +37437,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oxidize",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；（使某物）氧化；参看",
+    "analysis": "v [I, Tn] (a) (cause sth to) combine with oxygen （使某物）氧化. Cf 参看 reduce 6. (b) (cause sth to) become rusty （使某物）生锈.",
+    "phonetic": "/ ˈɒksɪdaɪz; ˈɑːksəˌdaɪz/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（使某物）氧化；参看"
+    ],
+    "pronunciation": "/ ˈɒksɪdaɪz; ˈɑːksəˌdaɪz/",
+    "accepted_answers": [
+      ")(",
+      "（使某物）氧化",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "oxidoreduction",
@@ -36336,6 +38118,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "oyez",
+    "type": "word",
+    "pos": "word",
+    "translation": "肃静；的喊声（连喊三次）；（尤指旧时）街头公告员或法庭中的官员的呼喊)",
+    "analysis": "(also oyes / EU5jes; `ojZs/) interj (cry meaning `listen' shouted three times (esp formerly) by a town crier or by an official in a lawcourt to demand silence and attention ｀肃静＇的喊声（连喊三次）, （尤指旧时）街头公告员或法庭中的官员的呼喊).",
+    "phonetic": "/ əʊˈjez; ˈojez/",
+    "origin": "待查",
+    "expansions": [
+      "肃静；的喊声（连喊三次）；（尤指旧时）街头公告员或法庭中的官员的呼喊)"
+    ],
+    "pronunciation": "/ əʊˈjez; ˈojez/",
+    "accepted_answers": [
+      "肃静",
+      "的喊声（连喊三次）",
+      "（尤指旧时）街头公告员或法庭中的官员的呼喊)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/O/O-v,w,x,y,z.txt"
   },
   {
     "term": "oyster",

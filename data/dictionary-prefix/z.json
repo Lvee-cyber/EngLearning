@@ -145,6 +145,32 @@
     ]
   },
   {
+    "term": "zest",
+    "type": "word",
+    "pos": "N",
+    "translation": "极大的快乐或兴奋；热情；兴趣",
+    "analysis": "n [U, sing]  1 ~ (for sth) great enjoyment or excitement; gusto 极大的快乐或兴奋; 热情; 兴趣: Her zest for life is as great as ever. 她对生活的极大乐趣一如既往. * He entered into our plans withterrific zest. 他满腔热情地参加了我们的项目.  2 (qualityof) having added interest, flavour, charm, etc 增加的兴 趣、 风味、 魅力等（的性质）: The element of risk gave (an) added zest to the adventure. 这种冒险成分更给探险活动平添几分乐趣.  3 outer skin of oranges, lemons, etc when used as a flavouring in cooking （用於烹饪时调味的）橙子、 柠檬等的外皮. Cf 参看 peeln, rind, skin4.",
+    "phonetic": "/ zest; zest/",
+    "origin": "待查",
+    "expansions": [
+      "Her zest for life is as great as ever. 她对生活的极大乐趣一如既往.",
+      "He entered into our plans withterrific zest. 他满腔热情地参加了我们的项目. 2 (qualityof) having added interest, flavour, charm, etc 增加的兴 趣、 风味、 魅力等（的性质）: The element of risk gave (an) added zest to the adventure. 这种冒险成分更给探险活动平添几分乐趣. 3 outer skin of oranges, lemons, etc when used as a flavouring in cooking （用於烹饪时调味的）橙子、 柠檬等的外皮. Cf 参看 peeln, rind, skin4."
+    ],
+    "pronunciation": "/ zest; zest/",
+    "accepted_answers": [
+      "极大的快乐或兴奋",
+      "热情",
+      "兴趣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
     "term": "zestful",
     "type": "word",
     "pos": "Adj",
@@ -168,6 +194,33 @@
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
+    "term": "zigzag",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指线条、小径等）锯齿形的；之字形的；字形的；弯弯曲曲的道路、路线、闪电",
+    "analysis": "adj [attrib 作定语] (of a line, path, etc) turning right and left alternately at sharp angles （指线条、 小径等）锯齿形的, 之字形的, Z字形的: a zigzag road, course, flash of lightning 弯弯曲曲的道路、 路线、 闪电.\nzigzag \nn line, path, etc forming a zigzag 锯齿形的线条、 小径等.\nzigzag \nv (-gg-) [I, Ipr, Ip] go in a zigzag 曲折地前进: The narrow path zigzags up the cliff. 这条狭窄的小径曲曲折折地向峭壁伸延. =>illus at pattern 见 pattern 插图.",
+    "phonetic": "/ ˈzɪgzæg; ˈzɪgzæg/",
+    "origin": "待查",
+    "expansions": [
+      "a zigzag road, course, flash of lightning 弯弯曲曲的道路、 路线、 闪电.",
+      "The narrow path zigzags up the cliff. 这条狭窄的小径曲曲折折地向峭壁伸延. =>illus at pattern 见 pattern 插图."
+    ],
+    "pronunciation": "/ ˈzɪgzæg; ˈzɪgzæg/",
+    "accepted_answers": [
+      "（指线条、小径等）锯齿形的",
+      "之字形的",
+      "字形的",
+      "弯弯曲曲的道路、路线、闪电"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
     "term": "zinc",
     "type": "word",
     "pos": "N",
@@ -181,6 +234,31 @@
     "pronunciation": "/ zɪŋk; zɪŋk/",
     "accepted_answers": [
       "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zion",
+    "type": "word",
+    "pos": "N",
+    "translation": "犹太教；基督教会；天国",
+    "analysis": "n  1 the Jewish religion 犹太教. 2 the Christian Church 基督教会.  3 the kingdom of Heaven 天国; 天堂.",
+    "phonetic": "/ ˈzaɪən; ˈzaɪən/",
+    "origin": "待查",
+    "expansions": [
+      "犹太教；基督教会；天国"
+    ],
+    "pronunciation": "/ ˈzaɪən; ˈzaɪən/",
+    "accepted_answers": [
+      "犹太教",
+      "基督教会",
+      "天国"
     ],
     "added_at": "",
     "review": {
@@ -232,6 +310,55 @@
       "拉链",
       "拉锁",
       "我的皮猴上的拉链卡住了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zircon",
+    "type": "word",
+    "pos": "N",
+    "translation": "锆石；锆英石",
+    "analysis": "n (a) [C] translucent bluish-white gem 锆石. (b) [U] mineral from which this is cut 锆英石.",
+    "phonetic": "/ ˈzɜːkɒn; ˈzɜːˌkɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "锆石；锆英石"
+    ],
+    "pronunciation": "/ ˈzɜːkɒn; ˈzɜːˌkɑːn/",
+    "accepted_answers": [
+      "锆石",
+      "锆英石"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Z/Z.TXT"
+  },
+  {
+    "term": "zonked",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "作表语；)(；俚)",
+    "analysis": "adj [pred 作表语] ~ (out) (sl 俚)  1 drugged or drunk 麻醉了; 喝醉了.  2 very tired; exhausted 极疲倦; 筋疲力尽: I feel utterly zonked. 我感到精疲力竭了.",
+    "phonetic": "/ zɒŋkt; zɑːŋkt/",
+    "origin": "待查",
+    "expansions": [
+      "I feel utterly zonked. 我感到精疲力竭了."
+    ],
+    "pronunciation": "/ zɒŋkt; zɑːŋkt/",
+    "accepted_answers": [
+      "作表语",
+      ")(",
+      "俚)"
     ],
     "added_at": "",
     "review": {

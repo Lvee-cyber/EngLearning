@@ -595,6 +595,32 @@
     }
   },
   {
+    "term": "wainscot",
+    "type": "word",
+    "pos": "N",
+    "translation": "护板；（尤指）护墙板；内壁板（通常指室内墙壁下半部的）；（指房间）有护墙板的",
+    "analysis": "n wooden covering, esp panelling on (usu the lower half of) the walls of a room 护板; （尤指）护墙板, 内壁板（通常指室内墙壁下半部的）.\nwainscoted \nadj (of a room) having a wainscot （指房间）有护墙板的.\nwainscoting \nn [U] (material used for a) wainscot 护板, 护墙板（材料）.",
+    "phonetic": "/ ˈweɪnskət; ˈwenskət/",
+    "origin": "待查",
+    "expansions": [
+      "护板；（尤指）护墙板；内壁板（通常指室内墙壁下半部的）；（指房间）有护墙板的"
+    ],
+    "pronunciation": "/ ˈweɪnskət; ˈwenskət/",
+    "accepted_answers": [
+      "护板",
+      "（尤指）护墙板",
+      "内壁板（通常指室内墙壁下半部的）",
+      "（指房间）有护墙板的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "waist",
     "type": "word",
     "translation": "腰部；腰围；她束了一条宽腰带",
@@ -770,6 +796,29 @@
     }
   },
   {
+    "term": "wakefully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "wakefully",
+    "analysis": "adv.\nwakefulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "wakefully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "wakefully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "walk",
     "type": "word",
     "translation": ")(；（指人）行走；这个女孩几岁开始走路的",
@@ -845,6 +894,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wallaby",
+    "type": "word",
+    "pos": "N",
+    "translation": "沙袋鼠",
+    "analysis": "n any of various types of small kangaroo 沙袋鼠.",
+    "phonetic": "/ ˈwɒləbɪ; ˈwɑːləbɪ/",
+    "origin": "待查",
+    "expansions": [
+      "沙袋鼠"
+    ],
+    "pronunciation": "/ ˈwɒləbɪ; ˈwɑːləbɪ/",
+    "accepted_answers": [
+      "沙袋鼠"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
   },
   {
     "term": "wallah",
@@ -1019,6 +1091,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wampum",
+    "type": "word",
+    "pos": "N",
+    "translation": "贝壳串珠（装饰品；旧时北美印第安人用作货币）",
+    "analysis": "n [U] ornaments made of shells threaded on a string like beads, used formerly by N American Indians as money 贝壳串珠（装饰品, 旧时北美印第安人用作货币）.",
+    "phonetic": "/ ˈwɒmpəm; ˈwɑːmpəm/",
+    "origin": "待查",
+    "expansions": [
+      "贝壳串珠（装饰品；旧时北美印第安人用作货币）"
+    ],
+    "pronunciation": "/ ˈwɒmpəm; ˈwɑːmpəm/",
+    "accepted_answers": [
+      "贝壳串珠（装饰品",
+      "旧时北美印第安人用作货币）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
   },
   {
     "term": "wan",
@@ -1323,6 +1419,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "warbler",
+    "type": "word",
+    "pos": "N",
+    "translation": "（能叫出柔和颤音的）鸣禽",
+    "analysis": "n any of various types of bird that warble （能叫出柔和颤音的）鸣禽.",
+    "phonetic": "/ ˈwɔːblə(r); ˈwɔːrblə/",
+    "origin": "待查",
+    "expansions": [
+      "（能叫出柔和颤音的）鸣禽"
+    ],
+    "pronunciation": "/ ˈwɔːblə(r); ˈwɔːrblə/",
+    "accepted_answers": [
+      "（能叫出柔和颤音的）鸣禽"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
   },
   {
     "term": "ward",
@@ -1697,6 +1816,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "warrantor",
+    "type": "word",
+    "pos": "N",
+    "translation": ")保证人；担保人",
+    "analysis": "n person who makes a warranty(1) 保证人; 担保人.",
+    "phonetic": "/ ˈwɒrəntɔː(r); ˈwɔːr-; ˈwɔːrənˌtɔːr/",
+    "origin": "待查",
+    "expansions": [
+      ")保证人；担保人"
+    ],
+    "pronunciation": "/ ˈwɒrəntɔː(r); ˈwɔːr-; ˈwɔːrənˌtɔːr/",
+    "accepted_answers": [
+      ")保证人",
+      "担保人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
   },
   {
     "term": "warranty",
@@ -2074,6 +2217,54 @@
     }
   },
   {
+    "term": "wastefully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "污水管；废水管",
+    "analysis": "adv.\nwastefulness \nn [U].\nwaste-basket (also `waste-bin) \nn (US) = waste-paper basket (waste1).\nwaste-pipe \nn pipe that carries away water which has been used or is not needed, eg dirty water from a sink, bath, etc 污水管; 废水管.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "污水管；废水管"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "污水管",
+      "废水管"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
+    "term": "wastrel",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；懒惰而无用的人",
+    "analysis": "(also waster) n (fml 文) lazy good-for-nothing person 懒惰而无用的人.",
+    "phonetic": "/ ˈweɪstrəl; ˈwestrəl/",
+    "origin": "待查",
+    "expansions": [
+      "文)；懒惰而无用的人"
+    ],
+    "pronunciation": "/ ˈweɪstrəl; ˈwestrəl/",
+    "accepted_answers": [
+      "文)",
+      "懒惰而无用的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "watch",
     "type": "word",
     "translation": ")(；（船上的）部分船员值班时间（通常为四小时）；午夜值勤（午夜至凌晨",
@@ -2391,6 +2582,31 @@
     }
   },
   {
+    "term": "wavelength",
+    "type": "word",
+    "pos": "N",
+    "translation": "波长；波段；习语)",
+    "analysis": "n  1 distance between the corresponding points in a sound wave or an electromagnetic wave 波长.  2 length of the radio wave that a particular radio station uses to broadcast its programmes 波段.  3 (idm 习语) on the same wavelength => same1.",
+    "phonetic": "/ ˈweɪvleŋθ; ˈwevˌleŋθ/",
+    "origin": "待查",
+    "expansions": [
+      "波长；波段；习语)"
+    ],
+    "pronunciation": "/ ˈweɪvleŋθ; ˈwevˌleŋθ/",
+    "accepted_answers": [
+      "波长",
+      "波段",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
+  },
+  {
     "term": "waver",
     "type": "word",
     "translation": "减弱；动摇；犹豫",
@@ -2436,6 +2652,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "waveringly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "waveringly",
+    "analysis": "adv.",
+    "phonetic": "/ ˈweɪvərɪŋlɪ; ˈwevərɪŋlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "waveringly"
+    ],
+    "pronunciation": "/ ˈweɪvərɪŋlɪ; ˈwevərɪŋlɪ/",
+    "accepted_answers": [
+      "waveringly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-a.txt"
   },
   {
     "term": "wax",
@@ -2640,6 +2879,29 @@
     }
   },
   {
+    "term": "we'd",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式  1 we had => have.  2 we would => will1, would2.",
+    "phonetic": "/ wiːd; wid/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ wiːd; wid/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "we'll",
     "type": "word",
     "pos": "word",
@@ -2651,6 +2913,29 @@
       "缩约式"
     ],
     "pronunciation": "/ wiːl; wil/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
+    "term": "we're",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式 we are => be.",
+    "phonetic": "/ wɪə(r); wɪr/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ wɪə(r); wɪr/",
     "accepted_answers": [
       "缩约式"
     ],
@@ -3041,6 +3326,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "weasel",
+    "type": "word",
+    "pos": "N",
+    "translation": "黄鼠狼；见附录；插图",
+    "analysis": "n small fierce animal with reddish-brown fur, that lives on rats, rabbits, birds' eggs, etc 鼬; 黄鼠狼. =>illus at App 1 见附录1插图, page iii. Cf 参看 ermine, ferret, stoat.\nweasel \nv (phr v) weasel out (of sth) (infml derog 口, 贬 esp US) avoid fulfilling a promise, doing a duty, etc 逃避已做出的承诺、 承担的责任等.\nweasel word \n(infml 口 esp US) word or expression that reduces the force of what one is saying, used when one wishes to avoid committing oneself to a definite statement 含糊其辞的推脱话.",
+    "phonetic": "/ ˈwiːzl; ˈwizl/",
+    "origin": "待查",
+    "expansions": [
+      "黄鼠狼；见附录；插图"
+    ],
+    "pronunciation": "/ ˈwiːzl; ˈwizl/",
+    "accepted_answers": [
+      "黄鼠狼",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "weather",
@@ -3599,6 +3909,33 @@
     }
   },
   {
+    "term": "weirdo",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；口；通常作贬义)；（行为、衣著等）奇怪的人；古怪的人",
+    "analysis": "(pl ~s / -EUz; -oz/) (also weirdie / 5wIEdI; `wIrdI/) n (infml usu derog 口, 通常作贬义) person who behaves, dresses, etc in a bizarre or an unconventional way; eccentric person （行为、 衣著等）奇怪的人, 古怪的人.",
+    "phonetic": "/ ˈwɪədəʊ; ˈwɪrdo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；口；通常作贬义)；（行为、衣著等）奇怪的人；古怪的人"
+    ],
+    "pronunciation": "/ ˈwɪədəʊ; ˈwɪrdo/",
+    "accepted_answers": [
+      ")(",
+      "口",
+      "通常作贬义)",
+      "（行为、衣著等）奇怪的人",
+      "古怪的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
+  },
+  {
     "term": "welcome",
     "type": "word",
     "translation": "受欢迎的；令人愉快的；可喜的变化、及时的救助、巴不得的休息、悦目的景象、受欢迎的客人",
@@ -3800,6 +4137,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "welshman",
+    "type": "word",
+    "pos": "N",
+    "translation": "阴性作；威尔士人；威尔士小吃（面包片烤热；上有融化奶酪）",
+    "analysis": "(pl -men / -mEn; -mEn/,fem 阴性作 Welshwoman / -wUmEn; -9wJmEn/, pl -women / -wImIn; -9wImIn/) n native of Wales 威尔士人.\nWelsh rarebit (also rarebit, ,Welsh `rabbit) \ndish of melted cheese on toast 威尔士小吃（面包片烤热, 上有融化奶酪）.",
+    "phonetic": "/ ˈwelʃmən; ˈwelʃmən/",
+    "origin": "待查",
+    "expansions": [
+      "阴性作；威尔士人；威尔士小吃（面包片烤热；上有融化奶酪）"
+    ],
+    "pronunciation": "/ ˈwelʃmən; ˈwelʃmən/",
+    "accepted_answers": [
+      "阴性作",
+      "威尔士人",
+      "威尔士小吃（面包片烤热",
+      "上有融化奶酪）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "welter",
@@ -4049,6 +4412,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "westernization",
+    "type": "word",
+    "pos": "N",
+    "translation": "westernization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌwestənaɪˈzeɪʃn; US-nɪˈz-; ˌwestənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "westernization"
+    ],
+    "pronunciation": "/ ˌwestənaɪˈzeɪʃn; US-nɪˈz-; ˌwestənəˈzeʃən/",
+    "accepted_answers": [
+      "westernization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-b,c,d,e.txt"
   },
   {
     "term": "westernize",
@@ -4456,6 +4842,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "whelp",
+    "type": "word",
+    "pos": "N",
+    "translation": "犬科的幼兽；幼犬或幼小的狐、熊、狮、虎等；旧；贬)",
+    "analysis": "n  1 young animal of the dog family; puppy or cub 犬科的幼兽; 幼犬或幼小的狐、 熊、 狮、 虎等.  2 (dated derog 旧, 贬) badly-behaved child or young man 行为不良的儿童或年轻男子.\nwhelp \nv [I] (fml 文) (of a female dog, wolf, etc) give birth （指母狗、 母狼等）产（仔）.",
+    "phonetic": "/ welp; hwelp; hwelp/",
+    "origin": "待查",
+    "expansions": [
+      "犬科的幼兽；幼犬或幼小的狐、熊、狮、虎等；旧；贬)"
+    ],
+    "pronunciation": "/ welp; hwelp; hwelp/",
+    "accepted_answers": [
+      "犬科的幼兽",
+      "幼犬或幼小的狐、熊、狮、虎等",
+      "旧",
+      "贬)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
   },
   {
     "term": "when",
@@ -4892,6 +5304,29 @@
     }
   },
   {
+    "term": "whimsicality",
+    "type": "word",
+    "pos": "N",
+    "translation": "whimsicality",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌwɪmzɪˈkælətɪ; ˌhwɪ-; ˌhwɪmzəˈkælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "whimsicality"
+    ],
+    "pronunciation": "/ ˌwɪmzɪˈkælətɪ; ˌhwɪ-; ˌhwɪmzəˈkælətɪ/",
+    "accepted_answers": [
+      "whimsicality"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
     "term": "whimsy",
     "type": "word",
     "translation": "希奇的或耍笑的举动或幽默；他妙语如珠；你怎样做出这种事来",
@@ -5013,6 +5448,30 @@
     }
   },
   {
+    "term": "whipper-in",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（打猎时）管猎狗的人",
+    "analysis": "n (pl ~s-in) (also whip) person responsible for controlling the hounds during a hunt （打猎时）管猎狗的人.",
+    "phonetic": "/ ˌwɪpərˈɪn; hw-; ˌhwɪpəˈɪn/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（打猎时）管猎狗的人"
+    ],
+    "pronunciation": "/ ˌwɪpərˈɪn; hw-; ˌhwɪpəˈɪn/",
+    "accepted_answers": [
+      ")(",
+      "（打猎时）管猎狗的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
     "term": "whipper-snapper",
     "type": "word",
     "pos": "N",
@@ -5029,6 +5488,29 @@
       "口",
       "贬)",
       "厚颜无耻的或妄自尊大的年轻人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
+  },
+  {
+    "term": "whippet",
+    "type": "word",
+    "pos": "N",
+    "translation": "小灵狗（常用作赛狗）",
+    "analysis": "n small thin dog similar to a greyhound, often used for racing 小灵狗（常用作赛狗）.",
+    "phonetic": "/ ˈwɪpɪt; ˈhw-; ˈhwɪpɪt/",
+    "origin": "待查",
+    "expansions": [
+      "小灵狗（常用作赛狗）"
+    ],
+    "pronunciation": "/ ˈwɪpɪt; ˈhw-; ˈhwɪpɪt/",
+    "accepted_answers": [
+      "小灵狗（常用作赛狗）"
     ],
     "added_at": "",
     "review": {
@@ -5065,6 +5547,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "whirligig",
+    "type": "word",
+    "pos": "N",
+    "translation": "旋转式玩具；（尤指）陀螺",
+    "analysis": "n  1 any of several types of spinning or whirling toy, esp a top 旋转式玩具; （尤指）陀螺.  2 = roundabout 1.",
+    "phonetic": "/ ˈwɜːlɪgɪg; ˈhw-; ˈhwɜːlɪˌgɪg/",
+    "origin": "待查",
+    "expansions": [
+      "旋转式玩具；（尤指）陀螺"
+    ],
+    "pronunciation": "/ ˈwɜːlɪgɪg; ˈhw-; ˈhwɜːlɪˌgɪg/",
+    "accepted_answers": [
+      "旋转式玩具",
+      "（尤指）陀螺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
   },
   {
     "term": "whirr",
@@ -5371,6 +5877,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "whiting",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)；牙鳕（多种银灰色小海鱼）",
+    "analysis": "n (pl unchanged 复数不变) any of several types of small silvery-grey sea-fish 牙鳕（多种银灰色小海鱼）.",
+    "phonetic": "/ ˈwaɪtɪŋ; ˈhwaɪ-; ˈhwaɪtɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)；牙鳕（多种银灰色小海鱼）"
+    ],
+    "pronunciation": "/ ˈwaɪtɪŋ; ˈhwaɪ-; ˈhwaɪtɪŋ/",
+    "accepted_answers": [
+      "复数不变)",
+      "牙鳕（多种银灰色小海鱼）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-f,g,h.txt"
   },
   {
     "term": "whitsun",
@@ -6155,6 +6685,29 @@
     }
   },
   {
+    "term": "widower",
+    "type": "word",
+    "pos": "N",
+    "translation": "鳏夫",
+    "analysis": "n man whose wife has died and who has not married again 鳏夫.",
+    "phonetic": "/ ˈwɪdəʊə(r); ˈwɪdəwə/",
+    "origin": "待查",
+    "expansions": [
+      "鳏夫"
+    ],
+    "pronunciation": "/ ˈwɪdəʊə(r); ˈwɪdəwə/",
+    "accepted_answers": [
+      "鳏夫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
+  },
+  {
     "term": "width",
     "type": "word",
     "translation": "宽度；米宽；测量地板的宽度",
@@ -6206,6 +6759,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wiener",
+    "type": "word",
+    "pos": "N",
+    "translation": "wiener",
+    "analysis": "n (US) = frankfurter.",
+    "phonetic": "/ ˈwiːnə(r); ˈwinə/",
+    "origin": "待查",
+    "expansions": [
+      "wiener"
+    ],
+    "pronunciation": "/ ˈwiːnə(r); ˈwinə/",
+    "accepted_answers": [
+      "wiener"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
   },
   {
     "term": "wife",
@@ -7105,6 +7681,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "winterize",
+    "type": "word",
+    "pos": "V",
+    "translation": "为过冬收拾（房子、汽车等）",
+    "analysis": "v [Tn] (esp US) prepare (a house, car, etc) for winter weather 为过冬收拾（房子、 汽车等）.",
+    "phonetic": "/ ˈwɪntəraɪz; ˈwɪntəˌraɪz/",
+    "origin": "待查",
+    "expansions": [
+      "为过冬收拾（房子、汽车等）"
+    ],
+    "pronunciation": "/ ˈwɪntəraɪz; ˈwɪntəˌraɪz/",
+    "accepted_answers": [
+      "为过冬收拾（房子、汽车等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-i.txt"
   },
   {
     "term": "wintry",
@@ -8142,6 +8741,29 @@
     }
   },
   {
+    "term": "wolfram",
+    "type": "word",
+    "pos": "N",
+    "translation": "钨矿石",
+    "analysis": "n [U] (a) = tungsten. (b) tungsten ore 钨矿石.",
+    "phonetic": "/ ˈwUlfrəm; ˈwJlfrəm/",
+    "origin": "待查",
+    "expansions": [
+      "钨矿石"
+    ],
+    "pronunciation": "/ ˈwUlfrəm; ˈwJlfrəm/",
+    "accepted_answers": [
+      "钨矿石"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-j,k,l,,m,n,o.txt"
+  },
+  {
     "term": "woman",
     "type": "word",
     "translation": "成年女子；男子、女子和孩子；单身女子（未婚的）",
@@ -8817,6 +9439,32 @@
     }
   },
   {
+    "term": "workaholic",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬或褒；口)；拼命工作难以停止的人；工作狂",
+    "analysis": "n (derog or approv infml 贬或褒, 口) person who works obsessively and finds it difficult to stop 拼命工作难以停止的人; 工作狂; 工作迷.",
+    "phonetic": "/ ˌwɜːkəˈhɒlɪk; ˌwɜːkəˈhɔːlɪk/",
+    "origin": "待查",
+    "expansions": [
+      "贬或褒；口)；拼命工作难以停止的人；工作狂"
+    ],
+    "pronunciation": "/ ˌwɜːkəˈhɒlɪk; ˌwɜːkəˈhɔːlɪk/",
+    "accepted_answers": [
+      "贬或褒",
+      "口)",
+      "拼命工作难以停止的人",
+      "工作狂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-j,k,l,,m,n,o.txt"
+  },
+  {
     "term": "worker",
     "type": "word",
     "translation": ")(；常用以构成复合词)；工作的人；工作者（尤指做某类型工作的）",
@@ -9360,6 +10008,30 @@
     }
   },
   {
+    "term": "wpb",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；口)",
+    "analysis": "abbr 缩写 = (Brit infml 口) waste-paper basket.",
+    "phonetic": "/ ˌdʌbljuːpiːˈbiː; ˌdʌbljJpiˈbi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；口)"
+    ],
+    "pronunciation": "/ ˌdʌbljuːpiːˈbiː; ˌdʌbljJpiˈbi/",
+    "accepted_answers": [
+      "缩写",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "wpc",
     "type": "word",
     "translation": "缩写；女警察；（琳达·）格林女警察",
@@ -9838,6 +10510,29 @@
     }
   },
   {
+    "term": "wrestler",
+    "type": "word",
+    "pos": "N",
+    "translation": "摔交运动员",
+    "analysis": "n person who takes part in the sport of wrestling 摔交运动员.",
+    "phonetic": "/ ˈreslə(r); ˈreslə/",
+    "origin": "待查",
+    "expansions": [
+      "摔交运动员"
+    ],
+    "pronunciation": "/ ˈreslə(r); ˈreslə/",
+    "accepted_answers": [
+      "摔交运动员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "wrestling",
     "type": "word",
     "translation": "摔交运动；看电视节目中的摔交运动",
@@ -9962,6 +10657,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wringer",
+    "type": "word",
+    "pos": "N",
+    "translation": "绞衣机（绞乾衣物中的水用的）；参看",
+    "analysis": "n device with a pair of rollers between which washed clothes, etc are passed so that water is squeezed out 绞衣机（绞乾衣物中的水用的）. Cf 参看 mangle2.",
+    "phonetic": "/ ˈrɪŋə(r); ˈrɪŋə/",
+    "origin": "待查",
+    "expansions": [
+      "绞衣机（绞乾衣物中的水用的）；参看"
+    ],
+    "pronunciation": "/ ˈrɪŋə(r); ˈrɪŋə/",
+    "accepted_answers": [
+      "绞衣机（绞乾衣物中的水用的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "wrinkle",
@@ -10235,6 +10954,30 @@
     }
   },
   {
+    "term": "wrongdoer",
+    "type": "word",
+    "pos": "N",
+    "translation": "做不道德的或不合法的事情的人；做坏事的人",
+    "analysis": "n person who does sth immoral or illegal 做不道德的或不合法的事情的人; 做坏事的人.",
+    "phonetic": "/ ˈrɒŋduːə(r); ˈrɔːŋˌduə/",
+    "origin": "待查",
+    "expansions": [
+      "做不道德的或不合法的事情的人；做坏事的人"
+    ],
+    "pronunciation": "/ ˈrɒŋduːə(r); ˈrɔːŋˌduə/",
+    "accepted_answers": [
+      "做不道德的或不合法的事情的人",
+      "做坏事的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "wrongdoing",
     "type": "word",
     "translation": "不道德的行为；坏事；这种不道德的行为应该受到惩罚",
@@ -10359,5 +11102,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "wx",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)（尤作衣物上的标记）女装特大（号）",
+    "analysis": "abbr 缩写 = (esp on clothing) women's extra large (size) （尤作衣物上的标记）女装特大（号）.",
+    "phonetic": "/ ˌdʌbljuːˈeks; ˌdʌbljJˈeks/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)（尤作衣物上的标记）女装特大（号）"
+    ],
+    "pronunciation": "/ ˌdʌbljuːˈeks; ˌdʌbljJˈeks/",
+    "accepted_answers": [
+      "缩写",
+      ")（尤作衣物上的标记）女装特大（号）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/W/W-p,q,r,s,t,u,v,w,x,y,z.txt"
   }
 ]

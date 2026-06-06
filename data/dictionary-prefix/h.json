@@ -71,6 +71,29 @@
     "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
+    "term": "h-bomb",
+    "type": "word",
+    "pos": "N",
+    "translation": "氢弹",
+    "analysis": "n hydrogen bomb 氢弹.",
+    "phonetic": "/ ˈeɪtʃbɒm; ˈetʃˌbɑːm/",
+    "origin": "待查",
+    "expansions": [
+      "氢弹"
+    ],
+    "pronunciation": "/ ˈeɪtʃbɒm; ˈetʃˌbɑːm/",
+    "accepted_answers": [
+      "氢弹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "H-f,g,h,i",
     "type": "word",
     "translation": "待查",
@@ -143,6 +166,31 @@
     "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "ha",
+    "type": "word",
+    "pos": "word",
+    "translation": "用以表示惊奇、快乐、得意、疑惑等)；)(；书写或印刷中用以表示大笑声",
+    "analysis": "interj  1 (used to express surprise, joy, triumph, suspicion, etc 用以表示惊奇、 快乐、 得意、 疑惑等)  2 (also ha! ha!) (used in print to indicate laughter; when spoken used ironically 书写或印刷中用以表示大笑声; 用於口头时含讥讽之意).\nha \nv (idm 习语) hum and ha => hum.\nha\nabbr 缩写 = hectare(s).",
+    "phonetic": "/ hɑː:; hɑː/",
+    "origin": "待查",
+    "expansions": [
+      "用以表示惊奇、快乐、得意、疑惑等)；)(；书写或印刷中用以表示大笑声"
+    ],
+    "pronunciation": "/ hɑː:; hɑː/",
+    "accepted_answers": [
+      "用以表示惊奇、快乐、得意、疑惑等)",
+      ")(",
+      "书写或印刷中用以表示大笑声"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "ha-ha",
     "type": "word",
     "pos": "N",
@@ -156,6 +204,57 @@
     "pronunciation": "/ ˈhɑː:hɑː:; ˈhɑːˌhɑː/",
     "accepted_answers": [
       "（有墙或篱筑於其间的）壕沟（作公园或花园的边界而不致妨碍视线）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "habeas corpus",
+    "type": "phrase",
+    "pos": "word",
+    "translation": ")(；律)；人身保护状（要求将某人移送法院处理的令状；尤指为调查有关当局将其拘禁是否合法）",
+    "analysis": "(also writ of habeas corpus) (law 律) order requiring a person to be brought before a judge or into court, esp to investigate the right of the authorities to keep him in prison 人身保护状（要求将某人移送法院处理的令状, 尤指为调查有关当局将其拘禁是否合法）.",
+    "phonetic": "/ ˌheɪbɪəsˈkɔːpəs; ˈhebɪəsˈkɔːrpəs/",
+    "origin": "待查",
+    "expansions": [
+      ")(；律)；人身保护状（要求将某人移送法院处理的令状；尤指为调查有关当局将其拘禁是否合法）"
+    ],
+    "pronunciation": "/ ˌheɪbɪəsˈkɔːpəs; ˈhebɪəsˈkɔːrpəs/",
+    "accepted_answers": [
+      ")(",
+      "律)",
+      "人身保护状（要求将某人移送法院处理的令状",
+      "尤指为调查有关当局将其拘禁是否合法）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
+    "term": "haberdasher",
+    "type": "word",
+    "pos": "N",
+    "translation": "经营缝纫用小商品（如针、线、钮扣、拉链等）的店主；经营男子服装的店主；（英）缝纫用小商品",
+    "analysis": "n  1 (Brit) shopkeeper who sells small articles for sewing such as pins, cotton, buttons, zips, etc 经营缝纫用小商品（如针、 线、 钮扣、 拉链等）的店主.  2 (US) shopkeeper who sells men's clothing 经营男子服装的店主.\nhaberdashery \nn  1 [U] goods sold by a haberdasher （英）缝纫用小商品; （美）（作为商品的）男子服装.  2 [C] haberdasher's shop （英）出售缝纫用小商品的商店; （美）出售男子服装的商店.",
+    "phonetic": "/ ˈhæbədæʃə(r); ˈhæbəˌdæʃə/",
+    "origin": "待查",
+    "expansions": [
+      "经营缝纫用小商品（如针、线、钮扣、拉链等）的店主；经营男子服装的店主；（英）缝纫用小商品"
+    ],
+    "pronunciation": "/ ˈhæbədæʃə(r); ˈhæbəˌdæʃə/",
+    "accepted_answers": [
+      "经营缝纫用小商品（如针、线、钮扣、拉链等）的店主",
+      "经营男子服装的店主",
+      "（英）缝纫用小商品"
     ],
     "added_at": "",
     "review": {
@@ -423,6 +522,128 @@
     }
   },
   {
+    "term": "hackles",
+    "type": "word",
+    "pos": "N",
+    "translation": "（雄鸡等家禽颈上的）长羽毛；（狗的）颈部的毛；习语)",
+    "analysis": "n [pl]  1 long feathers on the neck of the domestic cock, etc or hairs on the neck of a dog （雄鸡等家禽颈上的）长羽毛; （狗的）颈部的毛.  2 (idm 习语) make sb's `hackles rise/raise sb's `hackles make sb angry 激怒某人. with one's `hackles up angry and ready to fight 怒气冲冲地要动武.",
+    "phonetic": "/ ˈhæklz; ˈhæklz/",
+    "origin": "待查",
+    "expansions": [
+      "（雄鸡等家禽颈上的）长羽毛；（狗的）颈部的毛；习语)"
+    ],
+    "pronunciation": "/ ˈhæklz; ˈhæklz/",
+    "accepted_answers": [
+      "（雄鸡等家禽颈上的）长羽毛",
+      "（狗的）颈部的毛",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hackney carriage",
+    "type": "phrase",
+    "pos": "word",
+    "translation": ")(；计程车",
+    "analysis": "(also hackney cab) (dated 旧 Brit) taxi 计程车.",
+    "phonetic": "/ ˈhæknɪkærɪdʒ; ˈhæknɪˌkærɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      ")(；计程车"
+    ],
+    "pronunciation": "/ ˈhæknɪkærɪdʒ; ˈhæknɪˌkærɪdʒ/",
+    "accepted_answers": [
+      ")(",
+      "计程车"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "hackneyed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指词语、言辞等）陈腐的；老生常谈的",
+    "analysis": "adj (of a phrase, saying, etc) used so often that it has become trite and dull （指词语、 言辞等）陈腐的, 老生常谈的.\nhad\npt, pp of have.",
+    "phonetic": "/ ˈhæknɪd; ˈhæknɪd/",
+    "origin": "待查",
+    "expansions": [
+      "（指词语、言辞等）陈腐的；老生常谈的"
+    ],
+    "pronunciation": "/ ˈhæknɪd; ˈhæknɪd/",
+    "accepted_answers": [
+      "（指词语、言辞等）陈腐的",
+      "老生常谈的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "haddock",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)；黑线鳕（海鱼；用作食物）",
+    "analysis": "n (pl unchanged 复数不变) [C, U] sea-fish like cod but smaller, used for food 黑线鳕（海鱼, 用作食物）.",
+    "phonetic": "/ ˈhædək; ˈhædək/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)；黑线鳕（海鱼；用作食物）"
+    ],
+    "pronunciation": "/ ˈhædək; ˈhædək/",
+    "accepted_answers": [
+      "复数不变)",
+      "黑线鳕（海鱼",
+      "用作食物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hades",
+    "type": "word",
+    "pos": "N",
+    "translation": "（希腊神话中的）冥府；阴间",
+    "analysis": "n [sing] (in Greek mythology) place where the spirits of the dead go; the underworld （希腊神话中的）冥府, 阴间.",
+    "phonetic": "/ ˈheɪdiːz; ˈhediz/",
+    "origin": "待查",
+    "expansions": [
+      "（希腊神话中的）冥府；阴间"
+    ],
+    "pronunciation": "/ ˈheɪdiːz; ˈhediz/",
+    "accepted_answers": [
+      "（希腊神话中的）冥府",
+      "阴间"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hadji",
     "type": "word",
     "translation": "去麦加朝拜过的伊斯兰教徒；构词成分；血液的",
@@ -470,6 +691,29 @@
     "dict_source": "data/DICT/H/H-a.txt"
   },
   {
+    "term": "haemoglobin",
+    "type": "word",
+    "pos": "N",
+    "translation": "血红蛋白",
+    "analysis": "n [U] substance carrying oxygen in the red blood-cells of vertebrates 血红蛋白.",
+    "phonetic": "/ ˌhiːməˈgləʊbɪn; ˌhiməˈglobɪn/",
+    "origin": "待查",
+    "expansions": [
+      "血红蛋白"
+    ],
+    "pronunciation": "/ ˌhiːməˈgləʊbɪn; ˌhiməˈglobɪn/",
+    "accepted_answers": [
+      "血红蛋白"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "haemophilia",
     "type": "word",
     "pos": "N",
@@ -506,6 +750,102 @@
     "pronunciation": "/ ˌhiːməˈfɪlɪæk; ˌhiməˌfɪlɪˌæk/",
     "accepted_answers": [
       "血友病患者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "haemorrhage",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指大量的）出血；失血；大出血",
+    "analysis": "n  1 [U] (esp heavy) bleeding （尤指大量的）出血.  2 [C] escape of blood 失血.\nhaemorrhage \nv [I] bleed heavily; undergo a haemorrhage 大出血.",
+    "phonetic": "/ ˈhemərɪdʒ; ˈhemərɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指大量的）出血；失血；大出血"
+    ],
+    "pronunciation": "/ ˈhemərɪdʒ; ˈhemərɪdʒ/",
+    "accepted_answers": [
+      "（尤指大量的）出血",
+      "失血",
+      "大出血"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "haemorrhoids",
+    "type": "word",
+    "pos": "N",
+    "translation": "痔（内痔或外痔）",
+    "analysis": "(also piles) n [pl] swollen veins at or near the anus 痔（内痔或外痔）.",
+    "phonetic": "/ ˈhemərɔːɪdz; ˈheməˌrɔːɪdz/",
+    "origin": "待查",
+    "expansions": [
+      "痔（内痔或外痔）"
+    ],
+    "pronunciation": "/ ˈhemərɔːɪdz; ˈheməˌrɔːɪdz/",
+    "accepted_answers": [
+      "痔（内痔或外痔）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "haft",
+    "type": "word",
+    "pos": "N",
+    "translation": "（斧、刀等的）柄",
+    "analysis": "n handle of an axe, a knife, etc （斧、 刀等的）柄.",
+    "phonetic": "/ hɑː:ft; hæft; hæft/",
+    "origin": "待查",
+    "expansions": [
+      "（斧、刀等的）柄"
+    ],
+    "pronunciation": "/ hɑː:ft; hæft; hæft/",
+    "accepted_answers": [
+      "（斧、刀等的）柄"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hag",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；丑老太婆；巫婆",
+    "analysis": "n (derog 贬) ugly old woman or witch 丑老太婆; 巫婆.",
+    "phonetic": "/ hæg; hæg/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；丑老太婆；巫婆"
+    ],
+    "pronunciation": "/ hæg; hæg/",
+    "accepted_answers": [
+      "贬)",
+      "丑老太婆",
+      "巫婆"
     ],
     "added_at": "",
     "review": {
@@ -587,6 +927,30 @@
     }
   },
   {
+    "term": "hagiography",
+    "type": "word",
+    "pos": "N",
+    "translation": "圣徒传记；充满溢美之辞的传记",
+    "analysis": "n [U, C]  1writing about the lives of saints 圣徒传记.  2 biographical writing that is too full of praise for its subject 充满溢美之辞的传记.",
+    "phonetic": "/ ˌhægɪˈɒgrəfɪ; ˌhægɪˈɑːgrəfɪ/",
+    "origin": "待查",
+    "expansions": [
+      "圣徒传记；充满溢美之辞的传记"
+    ],
+    "pronunciation": "/ ˌhægɪˈɒgrəfɪ; ˌhægɪˈɑːgrəfɪ/",
+    "accepted_answers": [
+      "圣徒传记",
+      "充满溢美之辞的传记"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hagridden",
     "type": "word",
     "translation": "受噩梦惊扰的；非常苦恼的；愁眉苦脸的样子",
@@ -661,6 +1025,29 @@
     }
   },
   {
+    "term": "hairspring",
+    "type": "word",
+    "pos": "N",
+    "translation": "（表的）游丝（控制摆轮的细小弹簧）",
+    "analysis": "n fine spring in a watch, controlling the balance-wheel （表的）游丝（控制摆轮的细小弹簧）.",
+    "phonetic": "/ ˈheəsprɪŋ; ˈherˌsprɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "（表的）游丝（控制摆轮的细小弹簧）"
+    ],
+    "pronunciation": "/ ˈheəsprɪŋ; ˈherˌsprɪŋ/",
+    "accepted_answers": [
+      "（表的）游丝（控制摆轮的细小弹簧）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hake",
     "type": "word",
     "pos": "N",
@@ -675,6 +1062,30 @@
     "accepted_answers": [
       "复数不变)",
       "鳕鱼（可食）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "halal",
+    "type": "word",
+    "pos": "V",
+    "translation": "（按伊斯兰教教规的规定）宰杀（肉畜）；（伊斯兰教的）合法肉食",
+    "analysis": "v [Tn] kill (animals for meat) as prescribed by Muslim law （按伊斯兰教教规的规定）宰杀（肉畜）.\nhalal \nn [U] meat prepared in this way （伊斯兰教的）合法肉食.",
+    "phonetic": "/ hɑː:ˈlɑː:l; həˈlɑːl/",
+    "origin": "待查",
+    "expansions": [
+      "（按伊斯兰教教规的规定）宰杀（肉畜）；（伊斯兰教的）合法肉食"
+    ],
+    "pronunciation": "/ hɑː:ˈlɑː:l; həˈlɑːl/",
+    "accepted_answers": [
+      "（按伊斯兰教教规的规定）宰杀（肉畜）",
+      "（伊斯兰教的）合法肉食"
     ],
     "added_at": "",
     "review": {
@@ -706,6 +1117,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hale",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "习语)；（尤指老年人）健壮的；矍铄的",
+    "analysis": "adj (idm 习语) hale and `hearty (esp of an old person) strong and healthy （尤指老年人）健壮的; 矍铄的.",
+    "phonetic": "/ heɪl; hel/",
+    "origin": "待查",
+    "expansions": [
+      "习语)；（尤指老年人）健壮的；矍铄的"
+    ],
+    "pronunciation": "/ heɪl; hel/",
+    "accepted_answers": [
+      "习语)",
+      "（尤指老年人）健壮的",
+      "矍铄的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "half",
@@ -758,6 +1194,31 @@
     "dict_source": "data/DICT/H/H-a.txt"
   },
   {
+    "term": "halfpenny",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数通常作；指硬币作；指币值作",
+    "analysis": "n (pl usu  halfpennies for separate coins, halfpence / 5heIpEns; `hepEns/  for a sum of money 复数通常作 halfpennies 或 halfpence, 指硬币作halfpennies, 指币值作halfpence) (Brit) obsolete coin, either (before 1971) one worth half a penny, or (after 1971) a smaller one worth half a (new) penny 半便士硬币（废用的硬币, 1971年以前面值为半便士, 1971年改为较小的硬币後, 面值为新币半便士）.",
+    "phonetic": "/ ˈheɪpnɪ; ˈhepnɪ/",
+    "origin": "待查",
+    "expansions": [
+      "复数通常作；指硬币作；指币值作"
+    ],
+    "pronunciation": "/ ˈheɪpnɪ; ˈhepnɪ/",
+    "accepted_answers": [
+      "复数通常作",
+      "指硬币作",
+      "指币值作"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "halfpennyworth",
     "type": "word",
     "translation": "半便士能买到的东西；极小数量；以半价",
@@ -798,6 +1259,53 @@
     "accepted_answers": [
       "复数不变)",
       "大比目鱼（可食）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "halide",
+    "type": "word",
+    "pos": "N",
+    "translation": "化)；卤化物",
+    "analysis": "n (chemistry 化) chemical compound of a halogen with another element or radical 卤化物.",
+    "phonetic": "/ ˈheɪlaɪd; ˈhælaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "化)；卤化物"
+    ],
+    "pronunciation": "/ ˈheɪlaɪd; ˈhælaɪd/",
+    "accepted_answers": [
+      "化)",
+      "卤化物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "halitosis",
+    "type": "word",
+    "pos": "N",
+    "translation": "口臭",
+    "analysis": "n [U] breath that smells unpleasant 口臭.",
+    "phonetic": "/ ˌhælɪˈtəʊsɪs; ˌhæləˈtosɪs/",
+    "origin": "待查",
+    "expansions": [
+      "口臭"
+    ],
+    "pronunciation": "/ ˌhælɪˈtəʊsɪs; ˌhæləˈtosɪs/",
+    "accepted_answers": [
+      "口臭"
     ],
     "added_at": "",
     "review": {
@@ -885,6 +1393,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "halloo",
+    "type": "word",
+    "pos": "N",
+    "translation": "（嗾狗追逐的叫声）嘿；（引起注意的呼语）哎；（尤用以嗾狗）",
+    "analysis": "interj, n cry used to urge on hounds or to attract attention （嗾狗追逐的叫声）嘿; （引起注意的呼语）哎.\nhalloo \nv [I] shout `halloo', esp to hounds 叫｀嘿＇（尤用以嗾狗）.",
+    "phonetic": "/ həˈluː; həˈlu/",
+    "origin": "待查",
+    "expansions": [
+      "（嗾狗追逐的叫声）嘿；（引起注意的呼语）哎；（尤用以嗾狗）"
+    ],
+    "pronunciation": "/ həˈluː; həˈlu/",
+    "accepted_answers": [
+      "（嗾狗追逐的叫声）嘿",
+      "（引起注意的呼语）哎",
+      "（尤用以嗾狗）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hallow",
@@ -1000,6 +1533,78 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hallucinogen",
+    "type": "word",
+    "pos": "N",
+    "translation": "致幻剂；幻觉剂",
+    "analysis": "n drug causing hallucinations 致幻剂; 幻觉剂.",
+    "phonetic": "/ həˈluːsɪnədʒen; həˈlusənədʒen/",
+    "origin": "待查",
+    "expansions": [
+      "致幻剂；幻觉剂"
+    ],
+    "pronunciation": "/ həˈluːsɪnədʒen; həˈlusənədʒen/",
+    "accepted_answers": [
+      "致幻剂",
+      "幻觉剂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hallucinogenic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "hallucinogenic",
+    "analysis": "adj.",
+    "phonetic": "/ həˌluːsɪnəˈdʒenɪk; həˌlusənəˈdʒenɪk/",
+    "origin": "待查",
+    "expansions": [
+      "hallucinogenic"
+    ],
+    "pronunciation": "/ həˌluːsɪnəˈdʒenɪk; həˌlusənəˈdʒenɪk/",
+    "accepted_answers": [
+      "hallucinogenic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "halo",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（绘画等作品中）（环绕圣像头上的）光轮；光环",
+    "analysis": "n (~es or  ~s) (also aureola, aureole)  1 (in paintings, etc) circle of light shown round or above the head of a sacred figure （绘画等作品中）（环绕圣像头上的）光轮, 光环.  2 = corona.",
+    "phonetic": "/ ˈheɪləʊ; ˈhelo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（绘画等作品中）（环绕圣像头上的）光轮；光环"
+    ],
+    "pronunciation": "/ ˈheɪləʊ; ˈhelo/",
+    "accepted_answers": [
+      ")(",
+      "（绘画等作品中）（环绕圣像头上的）光轮",
+      "光环"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "halogen",
@@ -1125,6 +1730,29 @@
     }
   },
   {
+    "term": "halyard",
+    "type": "word",
+    "pos": "N",
+    "translation": "（帆和旗的）升降索",
+    "analysis": "n rope for raising or lowering a sail or flag （帆和旗的）升降索.",
+    "phonetic": "/ ˈhæljəd; ˈhæljəd/",
+    "origin": "待查",
+    "expansions": [
+      "（帆和旗的）升降索"
+    ],
+    "pronunciation": "/ ˈhæljəd; ˈhæljəd/",
+    "accepted_answers": [
+      "（帆和旗的）升降索"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "ham",
     "type": "word",
     "translation": "火腿；挂在钩上的几只火腿；火腿肉",
@@ -1242,6 +1870,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hammock",
+    "type": "word",
+    "pos": "N",
+    "translation": "吊床",
+    "analysis": "n bed made of canvas or rope netting, suspended by cords at the ends, used esp on board ship 吊床.",
+    "phonetic": "/ ˈhæmək; ˈhæmək/",
+    "origin": "待查",
+    "expansions": [
+      "吊床"
+    ],
+    "pronunciation": "/ ˈhæmək; ˈhæmək/",
+    "accepted_answers": [
+      "吊床"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hamper",
@@ -1575,6 +2226,30 @@
     }
   },
   {
+    "term": "handyman",
+    "type": "word",
+    "pos": "N",
+    "translation": "善於干家庭中修修补补的活儿的人；受雇干零碎杂活的人",
+    "analysis": "n (pl -men /-men; -mZn/) person who is clever at doing household repairs, etc or who is employed to do odd jobs 善於干家庭中修修补补的活儿的人; 受雇干零碎杂活的人.",
+    "phonetic": "/ ˈhændɪmæn; ˈhændɪmæn/",
+    "origin": "待查",
+    "expansions": [
+      "善於干家庭中修修补补的活儿的人；受雇干零碎杂活的人"
+    ],
+    "pronunciation": "/ ˈhændɪmæn; ˈhændɪmæn/",
+    "accepted_answers": [
+      "善於干家庭中修修补补的活儿的人",
+      "受雇干零碎杂活的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hang",
     "type": "word",
     "translation": "用於下述第；义和第；义时作",
@@ -1646,6 +2321,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hanger",
+    "type": "word",
+    "pos": "N",
+    "translation": "衣架；（挂东西的）环子；挂钩",
+    "analysis": "n  1 (also `clothes-hanger, `coat-hanger) curved piece of wood, plastic or wire with a hook, used for hanging up a garment 衣架.  2 loop or hook on or by which sth is hung （挂东西的）环子, 挂钩.",
+    "phonetic": "/ ˈhæŋə(r); ˈhæŋə/",
+    "origin": "待查",
+    "expansions": [
+      "衣架；（挂东西的）环子；挂钩"
+    ],
+    "pronunciation": "/ ˈhæŋə(r); ˈhæŋə/",
+    "accepted_answers": [
+      "衣架",
+      "（挂东西的）环子",
+      "挂钩"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hanger-on",
@@ -1792,6 +2492,30 @@
     }
   },
   {
+    "term": "hanky",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；手帕",
+    "analysis": "n (infml 口) handkerchief 手帕.",
+    "phonetic": "/ ˈhæŋkɪ; ˈhæŋkɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；手帕"
+    ],
+    "pronunciation": "/ ˈhæŋkɪ; ˈhæŋkɪ/",
+    "accepted_answers": [
+      "口)",
+      "手帕"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hanky-panky",
     "type": "word",
     "pos": "N",
@@ -1807,6 +2531,54 @@
       "口)",
       "不老实的行为",
       "骗人的把戏"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hansard",
+    "type": "word",
+    "pos": "N",
+    "translation": "英国议会议事录",
+    "analysis": "n [sing] official report of the proceedings of the British Parliament 英国议会议事录.",
+    "phonetic": "/ ˈhænsɑː:d; ˈhænˌsɑːrd/",
+    "origin": "待查",
+    "expansions": [
+      "英国议会议事录"
+    ],
+    "pronunciation": "/ ˈhænsɑː:d; ˈhænˌsɑːrd/",
+    "accepted_answers": [
+      "英国议会议事录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hansom",
+    "type": "word",
+    "pos": "N",
+    "translation": "汉萨姆马车（旧式的双轮双座马车；车夫的座位高踞车後；缰绳越过车顶）",
+    "analysis": "n (also ,hansom `cab) old type of horse-drawn carriage with two wheels, for carrying two passengers inside, having the driver's seat high at the back outside, and the reins going over the roof 汉萨姆马车（旧式的双轮双座马车, 车夫的座位高踞车後, 缰绳越过车顶）.",
+    "phonetic": "/ ˈhænsəm; ˈhænsəm/",
+    "origin": "待查",
+    "expansions": [
+      "汉萨姆马车（旧式的双轮双座马车；车夫的座位高踞车後；缰绳越过车顶）"
+    ],
+    "pronunciation": "/ ˈhænsəm; ˈhænsəm/",
+    "accepted_answers": [
+      "汉萨姆马车（旧式的双轮双座马车",
+      "车夫的座位高踞车後",
+      "缰绳越过车顶）"
     ],
     "added_at": "",
     "review": {
@@ -1967,6 +2739,30 @@
     }
   },
   {
+    "term": "hara-kiri",
+    "type": "word",
+    "pos": "N",
+    "translation": "切腹；剖腹（旧时日本武士在自知任务失败时为免受屈辱的自杀手段）",
+    "analysis": "n [U] ritual suicide using a sword to cut open one's stomach, formerly practised by Japanese Samurai to avoid dishonour when they believed they had failed in their duty 切腹, 剖腹（旧时日本武士在自知任务失败时为免受屈辱的自杀手段）.",
+    "phonetic": "/ ˌhærəˈkɪrɪ; ˈhɑːrəˈkɪrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "切腹；剖腹（旧时日本武士在自知任务失败时为免受屈辱的自杀手段）"
+    ],
+    "pronunciation": "/ ˌhærəˈkɪrɪ; ˈhɑːrəˈkɪrɪ/",
+    "accepted_answers": [
+      "切腹",
+      "剖腹（旧时日本武士在自知任务失败时为免受屈辱的自杀手段）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "harangue",
     "type": "word",
     "translation": "长篇大论、慷慨激昂、郑重其事且通常为义愤填膺的演讲；)对（某人）作慷慨激昂的演讲；临作战时向士兵作慷慨激昂的讲话",
@@ -2065,6 +2861,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "harbourage",
+    "type": "word",
+    "pos": "N",
+    "translation": "庇护；港务监督",
+    "analysis": "n [U] shelter 庇护.\nharbour-master \nn official in charge of a harbour 港务监督.",
+    "phonetic": "/ ˈhɑː:bərɪdʒ; ˈhɑːrbərɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "庇护；港务监督"
+    ],
+    "pronunciation": "/ ˈhɑː:bərɪdʒ; ˈhɑːrbərɪdʒ/",
+    "accepted_answers": [
+      "庇护",
+      "港务监督"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hard",
@@ -2241,6 +3061,53 @@
     "dict_source": "data/DICT/H/H-a.txt"
   },
   {
+    "term": "harem",
+    "type": "word",
+    "pos": "N",
+    "translation": "穆斯林传统住宅中女眷居住的内室或闺房；穆斯林闺房中的女眷",
+    "analysis": "n  1 separate part of a traditional Muslim house in which the women live 穆斯林传统住宅中女眷居住的内室或闺房.  2 women living in this 穆斯林闺房中的女眷.",
+    "phonetic": "/ ˈhɑː:riːm; ˈhærəm; ˈherəm/",
+    "origin": "待查",
+    "expansions": [
+      "穆斯林传统住宅中女眷居住的内室或闺房；穆斯林闺房中的女眷"
+    ],
+    "pronunciation": "/ ˈhɑː:riːm; ˈhærəm; ˈherəm/",
+    "accepted_answers": [
+      "穆斯林传统住宅中女眷居住的内室或闺房",
+      "穆斯林闺房中的女眷"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "haricot",
+    "type": "word",
+    "pos": "N",
+    "translation": "扁豆",
+    "analysis": "n (also ,haricot `bean) white dried seed of a type of bean plant, eaten as a vegetable 扁豆.",
+    "phonetic": "/ ˈhærɪkəʊ; ˈhærɪˌko/",
+    "origin": "待查",
+    "expansions": [
+      "扁豆"
+    ],
+    "pronunciation": "/ ˈhærɪkəʊ; ˈhærɪˌko/",
+    "accepted_answers": [
+      "扁豆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hark",
     "type": "word",
     "translation": "古)；口；谑)(；通常用於祈使语气)",
@@ -2263,6 +3130,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "harlequin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时）童话剧中的滑稽角色（通常身穿杂色衣服；头戴面具）；色彩鲜艳的",
+    "analysis": "n (formerly) comic character in pantomime, usu dressed in a costume of many colours and wearing a mask （旧时）童话剧中的滑稽角色（通常身穿杂色衣服, 头戴面具）.\nharlequin \nadj [usu attrib 通常作定语] gaily coloured色彩鲜艳的.",
+    "phonetic": "/ ˈhɑː:lɪkwɪn; ˈhɑːrləkwɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时）童话剧中的滑稽角色（通常身穿杂色衣服；头戴面具）；色彩鲜艳的"
+    ],
+    "pronunciation": "/ ˈhɑː:lɪkwɪn; ˈhɑːrləkwɪn/",
+    "accepted_answers": [
+      "（旧时）童话剧中的滑稽角色（通常身穿杂色衣服",
+      "头戴面具）",
+      "色彩鲜艳的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "harlequinade",
+    "type": "word",
+    "pos": "N",
+    "translation": "（童话剧中以滑稽角色为主的）丑角戏",
+    "analysis": "n part of a pantomime in which a harlequin plays the main part （童话剧中以滑稽角色为主的）丑角戏.",
+    "phonetic": "/ ˌhɑː:lɪkwɪˈneɪd; ˌhɑːrləkwɪnˈed/",
+    "origin": "待查",
+    "expansions": [
+      "（童话剧中以滑稽角色为主的）丑角戏"
+    ],
+    "pronunciation": "/ ˌhɑː:lɪkwɪˈneɪd; ˌhɑːrləkwɪnˈed/",
+    "accepted_answers": [
+      "（童话剧中以滑稽角色为主的）丑角戏"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "harlot",
@@ -2437,6 +3352,29 @@
     }
   },
   {
+    "term": "harmonisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "harmonisation",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ˌhɑː:mənaɪˈzeɪʃn; -nɪˈz-; ˌhɑːrmənɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "harmonisation"
+    ],
+    "pronunciation": "/ ˌhɑː:mənaɪˈzeɪʃn; -nɪˈz-; ˌhɑːrmənɪˈzeʃən/",
+    "accepted_answers": [
+      "harmonisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "harmonise",
     "type": "word",
     "translation": ")(；（使某事物）和谐；协调；极为调和的各种颜色（整体上产生悦目的艺术效果）",
@@ -2461,6 +3399,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "harmonium",
+    "type": "word",
+    "pos": "N",
+    "translation": "簧风琴（类似风琴的键盘乐器；依靠空气使金属簧片振动而发音）",
+    "analysis": "n musical instrument with a keyboard (like an organ), in which notes are produced by air pumped through metal reeds 簧风琴（类似风琴的键盘乐器, 依靠空气使金属簧片振动而发音）.",
+    "phonetic": "/ hɑː:ˈməʊnɪəm; hɑːrˈmonɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "簧风琴（类似风琴的键盘乐器；依靠空气使金属簧片振动而发音）"
+    ],
+    "pronunciation": "/ hɑː:ˈməʊnɪəm; hɑːrˈmonɪəm/",
+    "accepted_answers": [
+      "簧风琴（类似风琴的键盘乐器",
+      "依靠空气使金属簧片振动而发音）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "harmonization",
@@ -2613,6 +3575,31 @@
     "dict_source": "data/DICT/H/H-a.txt"
   },
   {
+    "term": "harpsichord",
+    "type": "word",
+    "pos": "N",
+    "translation": "拨弦键琴（似钢琴的一种乐器；有弦；用机械拨奏）",
+    "analysis": "n musical instrument similar to a piano, but with strings that are plucked mechanically 拨弦键琴（似钢琴的一种乐器, 有弦, 用机械拨奏）.",
+    "phonetic": "/ ˈhɑː:psɪkɔːd; ˈhɑːrpsɪˌkɔːrd/",
+    "origin": "待查",
+    "expansions": [
+      "拨弦键琴（似钢琴的一种乐器；有弦；用机械拨奏）"
+    ],
+    "pronunciation": "/ ˈhɑː:psɪkɔːd; ˈhɑːrpsɪˌkɔːrd/",
+    "accepted_answers": [
+      "拨弦键琴（似钢琴的一种乐器",
+      "有弦",
+      "用机械拨奏）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "harpy",
     "type": "word",
     "pos": "N",
@@ -2629,6 +3616,30 @@
       "头部及身躯似女人",
       "生有鸟翼与鸟爪）",
       "残酷无情、贪婪成性的女子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "harridan",
+    "type": "word",
+    "pos": "N",
+    "translation": "脾气暴躁的老妇人；老泼妇",
+    "analysis": "n bad-tempered old woman 脾气暴躁的老妇人; 老泼妇.",
+    "phonetic": "/ ˈhærɪdən; ˈhærədən/",
+    "origin": "待查",
+    "expansions": [
+      "脾气暴躁的老妇人；老泼妇"
+    ],
+    "pronunciation": "/ ˈhærɪdən; ˈhærədən/",
+    "accepted_answers": [
+      "脾气暴躁的老妇人",
+      "老泼妇"
     ],
     "added_at": "",
     "review": {
@@ -2739,6 +3750,80 @@
     }
   },
   {
+    "term": "hart",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数或不变或作；（长成的）公鹿（尤指红鹿）；参看",
+    "analysis": "n (pl unchanged or ~s 复数或不变或作 harts) adult male of (esp red) deer; stag （长成的）公鹿（尤指红鹿）. Cf 参看 hind2.",
+    "phonetic": "/ hɑː:t; hɑːrt/",
+    "origin": "待查",
+    "expansions": [
+      "复数或不变或作；（长成的）公鹿（尤指红鹿）；参看"
+    ],
+    "pronunciation": "/ hɑː:t; hɑːrt/",
+    "accepted_answers": [
+      "复数或不变或作",
+      "（长成的）公鹿（尤指红鹿）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hartebeest",
+    "type": "word",
+    "pos": "N",
+    "translation": "麋羚（非洲的大羚羊；有弯角）",
+    "analysis": "n large African antelope with curving horns 麋羚（非洲的大羚羊, 有弯角）.",
+    "phonetic": "/ ˈhɑː:təbiːst; ˈhɑːrtəˌbist/",
+    "origin": "待查",
+    "expansions": [
+      "麋羚（非洲的大羚羊；有弯角）"
+    ],
+    "pronunciation": "/ ˈhɑː:təbiːst; ˈhɑːrtəˌbist/",
+    "accepted_answers": [
+      "麋羚（非洲的大羚羊",
+      "有弯角）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "harum-scarum",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)(；（指人或其行为）莽撞的；冒失的",
+    "analysis": "adj (infml 口) (of a person or his behaviour) wild and reckless （指人或其行为）莽撞的, 冒失的.",
+    "phonetic": "/ ˌheərəmˈskeərəm; ˈherəmˈskerəm/",
+    "origin": "待查",
+    "expansions": [
+      "口)(；（指人或其行为）莽撞的；冒失的"
+    ],
+    "pronunciation": "/ ˌheərəmˈskeərəm; ˈherəmˈskerəm/",
+    "accepted_answers": [
+      "口)(",
+      "（指人或其行为）莽撞的",
+      "冒失的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "harvest",
     "type": "word",
     "translation": "收割；收获；收获季节",
@@ -2763,6 +3848,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "has-been",
+    "type": "word",
+    "pos": "N",
+    "translation": "口；贬)；已经不如过去那样有名、有为、走红等的人或事物；过时的人或事物",
+    "analysis": "n (infml derog 口, 贬) person or thing that is no longer as famous, successful, popular, etc as formerly 已经不如过去那样有名、 有为、 走红等的人或事物; 过时的人或事物.",
+    "phonetic": "/ ˈhæzbiːn; ˈhæzˌbɪn/",
+    "origin": "待查",
+    "expansions": [
+      "口；贬)；已经不如过去那样有名、有为、走红等的人或事物；过时的人或事物"
+    ],
+    "pronunciation": "/ ˈhæzbiːn; ˈhæzˌbɪn/",
+    "accepted_answers": [
+      "口",
+      "贬)",
+      "已经不如过去那样有名、有为、走红等的人或事物",
+      "过时的人或事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hash",
@@ -2861,6 +3972,29 @@
     }
   },
   {
+    "term": "hassock",
+    "type": "word",
+    "pos": "N",
+    "translation": "厚实的跪垫（尤指教堂用的）",
+    "analysis": "n thick firm cushion for kneeling on, esp in church 厚实的跪垫（尤指教堂用的）.",
+    "phonetic": "/ ˈhæsək; ˌhæsək/",
+    "origin": "待查",
+    "expansions": [
+      "厚实的跪垫（尤指教堂用的）"
+    ],
+    "pronunciation": "/ ˈhæsək; ˌhæsək/",
+    "accepted_answers": [
+      "厚实的跪垫（尤指教堂用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "haste",
     "type": "word",
     "translation": "急忙；匆忙；为什麽这麽匆忙",
@@ -2906,6 +4040,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hastily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hastily",
+    "analysis": "adv.\nhastiness \nn [U]",
+    "phonetic": "/ -ɪlɪ; -lɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hastily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -lɪ/",
+    "accepted_answers": [
+      "hastily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hasty",
@@ -3026,6 +4183,29 @@
     }
   },
   {
+    "term": "hatchway",
+    "type": "word",
+    "pos": "N",
+    "translation": "hatchway",
+    "analysis": "n = hatch1 1.",
+    "phonetic": "/ ˈhætʃweɪ; ˈhætʃˌwe/",
+    "origin": "待查",
+    "expansions": [
+      "hatchway"
+    ],
+    "pronunciation": "/ ˈhætʃweɪ; ˈhætʃˌwe/",
+    "accepted_answers": [
+      "hatchway"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hate",
     "type": "word",
     "translation": ")憎恨；憎恶（某人；某事物；我的猫与狗极不睦",
@@ -3077,6 +4257,29 @@
     }
   },
   {
+    "term": "hatefully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hatefully",
+    "analysis": "adv.\nhatefulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hatefully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "hatefully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hatred",
     "type": "word",
     "translation": "仇恨；憎恨；对敌人怀著仇恨",
@@ -3123,6 +4326,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "haughtily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "haughtily",
+    "analysis": "adv.\nhaughtiness \nn [U].",
+    "phonetic": "/ -ɪlɪ; -lɪ/",
+    "origin": "待查",
+    "expansions": [
+      "haughtily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -lɪ/",
+    "accepted_answers": [
+      "haughtily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "haughty",
@@ -3199,6 +4425,31 @@
     }
   },
   {
+    "term": "haulier",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；公路运输业者；公路运输行",
+    "analysis": "n (Brit) (US hauler) person or firm whose trade is transporting goods by road 公路运输业者; 公路运输行.",
+    "phonetic": "/ ˈhɔːlɪə(r); ˈhɔːljə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；公路运输业者；公路运输行"
+    ],
+    "pronunciation": "/ ˈhɔːlɪə(r); ˈhɔːljə/",
+    "accepted_answers": [
+      ")(",
+      "公路运输业者",
+      "公路运输行"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "haunch",
     "type": "word",
     "translation": "通常作复数)(；（人和动物）臀部和腿部多肉的部分；那狗蹲著",
@@ -3246,6 +4497,103 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "haute couture",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "法)；最具有影响力的时装制作公司；此类公司制作的时装",
+    "analysis": "(French 法) leading companies making fashionable clothes, or their products; high fashion 最具有影响力的时装制作公司; 此类公司制作的时装; 高级时装式样.",
+    "phonetic": "/ ˌəʊtkuːˈtjUə(r); ˌotkuˈtur/",
+    "origin": "待查",
+    "expansions": [
+      "法)；最具有影响力的时装制作公司；此类公司制作的时装"
+    ],
+    "pronunciation": "/ ˌəʊtkuːˈtjUə(r); ˌotkuˈtur/",
+    "accepted_answers": [
+      "法)",
+      "最具有影响力的时装制作公司",
+      "此类公司制作的时装"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
+    "term": "haute cuisine",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "法)；高级烹饪术",
+    "analysis": "(French 法) high-class cookery 高级烹饪术.",
+    "phonetic": "/ ˌəʊtkwɪˈziːn; ˌotkwɪˈzin/",
+    "origin": "待查",
+    "expansions": [
+      "法)；高级烹饪术"
+    ],
+    "pronunciation": "/ ˌəʊtkwɪˈziːn; ˌotkwɪˈzin/",
+    "accepted_answers": [
+      "法)",
+      "高级烹饪术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hauteur",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；傲慢；自大",
+    "analysis": "n [U] (fml 文) haughtiness 傲慢; 自大.",
+    "phonetic": "/ əʊˈtɜː(r); oˈtɜː/",
+    "origin": "待查",
+    "expansions": [
+      "文)；傲慢；自大"
+    ],
+    "pronunciation": "/ əʊˈtɜː(r); oˈtɜː/",
+    "accepted_answers": [
+      "文)",
+      "傲慢",
+      "自大"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "havana",
+    "type": "word",
+    "pos": "N",
+    "translation": "哈瓦那雪茄（产於古巴）",
+    "analysis": "n cigar made in Cuba 哈瓦那雪茄（产於古巴）.",
+    "phonetic": "/ həˈvænə; həˈvænə/",
+    "origin": "待查",
+    "expansions": [
+      "哈瓦那雪茄（产於古巴）"
+    ],
+    "pronunciation": "/ həˈvænə; həˈvænə/",
+    "accepted_answers": [
+      "哈瓦那雪茄（产於古巴）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "have",
@@ -3323,6 +4671,55 @@
     }
   },
   {
+    "term": "haver",
+    "type": "word",
+    "pos": "V",
+    "translation": "犹豫；迟疑；尤用於苏格兰)",
+    "analysis": "v [I]  1 keep changing one's mind; hesitate 犹豫; 迟疑.  2 (esp Scot 尤用於苏格兰) talk foolishly 说胡话.",
+    "phonetic": "/ ˈheɪvə; ˈhevə/",
+    "origin": "待查",
+    "expansions": [
+      "犹豫；迟疑；尤用於苏格兰)"
+    ],
+    "pronunciation": "/ ˈheɪvə; ˈhevə/",
+    "accepted_answers": [
+      "犹豫",
+      "迟疑",
+      "尤用於苏格兰)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "haversack",
+    "type": "word",
+    "pos": "N",
+    "translation": "背包（通常为帆布的）；参看",
+    "analysis": "n strong (usu canvas) bag carried on the back or over the shoulder 背包（通常为帆布的）. Cf 参看 rucksack.",
+    "phonetic": "/ ˈhvəsæk; ˈhævəˌsæk/",
+    "origin": "待查",
+    "expansions": [
+      "背包（通常为帆布的）；参看"
+    ],
+    "pronunciation": "/ ˈhvəsæk; ˈhævəˌsæk/",
+    "accepted_answers": [
+      "背包（通常为帆布的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "havoc",
     "type": "word",
     "translation": "（大范围的）破坏；（巨大的）毁坏；洪水造成了巨大的灾害",
@@ -3344,6 +4741,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "haw",
+    "type": "word",
+    "pos": "N",
+    "translation": "山楂果",
+    "analysis": "n red berry of the hawthorn bush 山楂果.",
+    "phonetic": "/ hɔː; hɔː/",
+    "origin": "待查",
+    "expansions": [
+      "山楂果"
+    ],
+    "pronunciation": "/ hɔː; hɔː/",
+    "accepted_answers": [
+      "山楂果"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
   },
   {
     "term": "hawk",
@@ -3513,6 +4933,33 @@
     }
   },
   {
+    "term": "hazel",
+    "type": "word",
+    "pos": "N",
+    "translation": "榛树（灌木；结小的坚果；可食）；见附录；插图",
+    "analysis": "n bush or small tree with small edible nuts 榛树（灌木, 结小的坚果, 可食）. =>illus at App 1 见附录1插图, page i.\nhazel \nadj (esp of eyes) reddish or light yellowish brown （尤指眼睛）红褐色的, 浅黄褐色的.\nhazel-nut \nn edible nut of the hazel 榛子（可食）. =>illus at nut 见nut插图.",
+    "phonetic": "/ ˈheɪzl; ˈhezl/",
+    "origin": "待查",
+    "expansions": [
+      "榛树（灌木；结小的坚果；可食）；见附录；插图"
+    ],
+    "pronunciation": "/ ˈheɪzl; ˈhezl/",
+    "accepted_answers": [
+      "榛树（灌木",
+      "结小的坚果",
+      "可食）",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
     "term": "hazy",
     "type": "word",
     "translation": "有薄雾的；雾气蒙蒙妨碍了我们的视线；模糊的",
@@ -3636,6 +5083,53 @@
     "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
+    "term": "he'll",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式 he will => will1.",
+    "phonetic": "/ hiːl; hil/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ hiːl; hil/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "he's",
+    "type": "word",
+    "pos": "word",
+    "translation": "见词条使用详细说明；缩约式",
+    "analysis": "见词条使用详细说明 6.3. contracted form 缩约式  1 he is => be.  2 he has => have.",
+    "phonetic": "/ hiːz; hiz/",
+    "origin": "待查",
+    "expansions": [
+      "见词条使用详细说明；缩约式"
+    ],
+    "pronunciation": "/ hiːz; hiz/",
+    "accepted_answers": [
+      "见词条使用详细说明",
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "head",
     "type": "word",
     "translation": "头部；他摔著了脑袋；那球打在她头上了",
@@ -3683,6 +5177,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "heading",
+    "type": "word",
+    "pos": "N",
+    "translation": "（书籍等篇页、章节上端的）标题",
+    "analysis": "n word or words put at the top of a page, section of a book, etc as a title （书籍等篇页、 章节上端的）标题.",
+    "phonetic": "/ ˈhedɪŋ; ˈhedɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "（书籍等篇页、章节上端的）标题"
+    ],
+    "pronunciation": "/ ˈhedɪŋ; ˈhedɪŋ/",
+    "accepted_answers": [
+      "（书籍等篇页、章节上端的）标题"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "headland",
@@ -3736,6 +5253,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "headstrong",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "刚愎自用的；固执任性的",
+    "analysis": "adj obstinately determined to do things in one's own way without listening to others; self-willed 刚愎自用的; 固执任性的.",
+    "phonetic": "/ ˈhedstrɒŋ; -strɔːŋ; ˈhedˌstrɔːŋ/",
+    "origin": "待查",
+    "expansions": [
+      "刚愎自用的；固执任性的"
+    ],
+    "pronunciation": "/ ˈhedstrɒŋ; -strɔːŋ; ˈhedˌstrɔːŋ/",
+    "accepted_answers": [
+      "刚愎自用的",
+      "固执任性的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "heady",
@@ -3921,6 +5462,30 @@
     }
   },
   {
+    "term": "hearer",
+    "type": "word",
+    "pos": "N",
+    "translation": "听者；（尤指）一名听众或观众",
+    "analysis": "n person who hears sth, esp a member of an audience 听者; （尤指）一名听众或观众.",
+    "phonetic": "/ ˈhɪərə(r); ˈhɪrə/",
+    "origin": "待查",
+    "expansions": [
+      "听者；（尤指）一名听众或观众"
+    ],
+    "pronunciation": "/ ˈhɪərə(r); ˈhɪrə/",
+    "accepted_answers": [
+      "听者",
+      "（尤指）一名听众或观众"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hearing",
     "type": "word",
     "translation": "听力；听觉；她的听觉不灵（她耳朵有点背）",
@@ -3947,6 +5512,31 @@
     }
   },
   {
+    "term": "hearken",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；古)；聆听",
+    "analysis": "v [I, Ipr] ~ (to sb/sth) (arch 古) listen 聆听; 谛听; 倾听.",
+    "phonetic": "/ ˈhɑː:kən; ˈhɑːrkən/",
+    "origin": "待查",
+    "expansions": [
+      ")(；古)；聆听"
+    ],
+    "pronunciation": "/ ˈhɑː:kən; ˈhɑːrkən/",
+    "accepted_answers": [
+      ")(",
+      "古)",
+      "聆听"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hearsay",
     "type": "word",
     "translation": "道听途说；谣言；你不该相信那话",
@@ -3969,6 +5559,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hearse",
+    "type": "word",
+    "pos": "N",
+    "translation": "灵车；柩车",
+    "analysis": "n vehicle for carrying a coffin at a funeral 灵车; 柩车.",
+    "phonetic": "/ hɜːs; hɜːs/",
+    "origin": "待查",
+    "expansions": [
+      "灵车；柩车"
+    ],
+    "pronunciation": "/ hɜːs; hɜːs/",
+    "accepted_answers": [
+      "灵车",
+      "柩车"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "heart",
@@ -4219,6 +5833,31 @@
     }
   },
   {
+    "term": "heathenish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "异教徒的；似异教徒的；野蛮的",
+    "analysis": "adj of or like heathens; barbarous 异教徒的; 似异教徒的; 野蛮的.",
+    "phonetic": "/ ˈhiːTənɪʃ; ˈhiTənɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "异教徒的；似异教徒的；野蛮的"
+    ],
+    "pronunciation": "/ ˈhiːTənɪʃ; ˈhiTənɪʃ/",
+    "accepted_answers": [
+      "异教徒的",
+      "似异教徒的",
+      "野蛮的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heather",
     "type": "word",
     "pos": "N",
@@ -4346,6 +5985,32 @@
     }
   },
   {
+    "term": "heaviside layer",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "物)；亥维赛层；海氏层；电离层（地球大气中反射中频电波的大气层）",
+    "analysis": "(physics 物) part of the earth's atmosphere that reflects medium-frequency waves 亥维赛层, 海氏层, E电离层（地球大气中反射中频电波的大气层）. Cf 参看 ionosphere (ion).",
+    "phonetic": "/ ˌhevɪsaɪdˈleɪə(r); ˈhevɪˌsaɪdˈleə/",
+    "origin": "待查",
+    "expansions": [
+      "物)；亥维赛层；海氏层；电离层（地球大气中反射中频电波的大气层）"
+    ],
+    "pronunciation": "/ ˌhevɪsaɪdˈleɪə(r); ˈhevɪˌsaɪdˈleə/",
+    "accepted_answers": [
+      "物)",
+      "亥维赛层",
+      "海氏层",
+      "电离层（地球大气中反射中频电波的大气层）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heavy",
     "type": "word",
     "translation": "重的；难以抬起、举起或移动的；这个东西有多重",
@@ -4371,6 +6036,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hebraic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "希伯来语的；希伯来人的",
+    "analysis": "adj of the Hebrew language or people 希伯来语的; 希伯来人的.",
+    "phonetic": "/ hiːˈbreɪɪk; hiˈbreɪk/",
+    "origin": "待查",
+    "expansions": [
+      "希伯来语的；希伯来人的"
+    ],
+    "pronunciation": "/ hiːˈbreɪɪk; hiˈbreɪk/",
+    "accepted_answers": [
+      "希伯来语的",
+      "希伯来人的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hebrew",
+    "type": "word",
+    "pos": "N",
+    "translation": "希伯来人；希伯来语；现代希伯来语（尤用於以色列）",
+    "analysis": "n  1 [C] member of a Semitic people in ancient Palestine 希伯来人.  2 [U] (a) language of the Hebrews 希伯来语. (b) modern form of this used esp in Israel 现代希伯来语（尤用於以色列）. Cf 参看 Yiddish.\nHebrew \nadj.",
+    "phonetic": "/ ˈhiːbruː; ˈhibru/",
+    "origin": "待查",
+    "expansions": [
+      "希伯来人；希伯来语；现代希伯来语（尤用於以色列）"
+    ],
+    "pronunciation": "/ ˈhiːbruː; ˈhibru/",
+    "accepted_answers": [
+      "希伯来人",
+      "希伯来语",
+      "现代希伯来语（尤用於以色列）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "heck",
@@ -4449,6 +6163,31 @@
     }
   },
   {
+    "term": "hectare",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；)公顷（合；公亩或",
+    "analysis": "n (abbr 缩写 ha) measure of area in the metric system, equal to 100 ares or 10000 square metres (2.471 acres) 公顷（合100公亩或10000平方米或2.471英亩）. =>App 5 见附录5.",
+    "phonetic": "/ ˈhekteə(r),ˈhektɑː:(r); ˈhekter/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)公顷（合；公亩或"
+    ],
+    "pronunciation": "/ ˈhekteə(r),ˈhektɑː:(r); ˈhekter/",
+    "accepted_answers": [
+      "缩写",
+      ")公顷（合",
+      "公亩或"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hectic",
     "type": "word",
     "translation": "忙乱的；忙碌的；最後关头忙碌的准备工作",
@@ -4472,6 +6211,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hectically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hectically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -kəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hectically"
+    ],
+    "pronunciation": "/ -klɪ; -kəlɪ/",
+    "accepted_answers": [
+      "hectically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hectogram",
+    "type": "word",
+    "pos": "N",
+    "translation": "百克（；克）",
+    "analysis": "n unit of mass in the metric system, equal to 100 grams 百克（100克）.",
+    "phonetic": "/ ˈhektəgræm; ˈhektəˌgræm/",
+    "origin": "待查",
+    "expansions": [
+      "百克（；克）"
+    ],
+    "pronunciation": "/ ˈhektəgræm; ˈhektəˌgræm/",
+    "accepted_answers": [
+      "百克（",
+      "克）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "hector",
@@ -4520,6 +6306,31 @@
     }
   },
   {
+    "term": "hedgehog",
+    "type": "word",
+    "pos": "N",
+    "translation": "刺猬；见附录；插图",
+    "analysis": "n small insect-eating animal covered with stiff spines, that rolls itself up into a ball to defend itself 刺猬. =>illus at App 1 见附录1插图, page iii.",
+    "phonetic": "/ ˈhedʒhɒg; -hɔːg; ˈhedʒˌhɑːg/",
+    "origin": "待查",
+    "expansions": [
+      "刺猬；见附录；插图"
+    ],
+    "pronunciation": "/ ˈhedʒhɒg; -hɔːg; ˈhedʒˌhɑːg/",
+    "accepted_answers": [
+      "刺猬",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hedonism",
     "type": "word",
     "pos": "N",
@@ -4535,6 +6346,29 @@
       "享乐主义",
       "享乐主义的行为",
       "享乐主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hedonistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "hedonistic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌhiːdəˈnɪstɪk; ˌhidəˈnɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "hedonistic"
+    ],
+    "pronunciation": "/ ˌhiːdəˈnɪstɪk; ˌhidəˈnɪstɪk/",
+    "accepted_answers": [
+      "hedonistic"
     ],
     "added_at": "",
     "review": {
@@ -4690,6 +6524,103 @@
     }
   },
   {
+    "term": "hegemony",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；领导权；支配权",
+    "analysis": "n [U, C] (fml 文) leadership, esp by one state in a group of states 领导权; 支配权; （尤指国家集团中的）霸权.",
+    "phonetic": "/ hɪˈgemənɪ; ˈhedʒəməʊnɪ; ˈhedʒəmonɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；领导权；支配权"
+    ],
+    "pronunciation": "/ hɪˈgemənɪ; ˈhedʒəməʊnɪ; ˈhedʒəmonɪ/",
+    "accepted_answers": [
+      "文)",
+      "领导权",
+      "支配权"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hegira",
+    "type": "word",
+    "pos": "N",
+    "translation": "公元；年穆罕默德从麦加到麦地那之逃亡；回教纪元",
+    "analysis": "n the Hegira [sing] Muhammad's flight from Mecca to Medina in AD 622, from which date the Muslim era is reckoned 公元622年穆罕默德从麦加到麦地那之逃亡; 回教纪元.",
+    "phonetic": "/ ˈhedʒɪrə,hɪˈdʒaɪərə; hɪˈdʒaɪrə/",
+    "origin": "待查",
+    "expansions": [
+      "公元；年穆罕默德从麦加到麦地那之逃亡；回教纪元"
+    ],
+    "pronunciation": "/ ˈhedʒɪrə,hɪˈdʒaɪərə; hɪˈdʒaɪrə/",
+    "accepted_answers": [
+      "公元",
+      "年穆罕默德从麦加到麦地那之逃亡",
+      "回教纪元"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "heifer",
+    "type": "word",
+    "pos": "N",
+    "translation": "小母牛（尤指未曾生育的）；参看",
+    "analysis": "n young cow, esp one that has not yet had a calf 小母牛（尤指未曾生育的）. Cf 参看 cow1 1.",
+    "phonetic": "/ ˈhefə(r); ˈhefə/",
+    "origin": "待查",
+    "expansions": [
+      "小母牛（尤指未曾生育的）；参看"
+    ],
+    "pronunciation": "/ ˈhefə(r); ˈhefə/",
+    "accepted_answers": [
+      "小母牛（尤指未曾生育的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "heigh-ho",
+    "type": "word",
+    "pos": "word",
+    "translation": "用以表示失望、厌烦等)",
+    "analysis": "interj (used to express disappointment, boredom, etc 用以表示失望、 厌烦等).",
+    "phonetic": "/ ˌheɪˈhəʊ; ˈheˈho/",
+    "origin": "待查",
+    "expansions": [
+      "用以表示失望、厌烦等)"
+    ],
+    "pronunciation": "/ ˌheɪˈhəʊ; ˈheˈho/",
+    "accepted_answers": [
+      "用以表示失望、厌烦等)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "height",
     "type": "word",
     "translation": "高度；身高；这山有多高",
@@ -4791,6 +6722,31 @@
     }
   },
   {
+    "term": "heiress",
+    "type": "word",
+    "pos": "N",
+    "translation": "女继承人（尤指继承大笔财产者）；确定继承人（其继承权不因其他人之出生而受影响）；推定继承人（其继承权可能因其他人之出生而丧失）",
+    "analysis": "n female heir, esp one who inherits great wealth 女继承人（尤指继承大笔财产者）.\nheir apparent \n(pl heirs apparent) heir whose legal right cannot be cancelled by the birth of another with a stronger claim 确定继承人（其继承权不因其他人之出生而受影响）.\nheir presumptive \n(pl heirs presumptive) heir who may lose his legal right if another heir with a stronger claim is born 推定继承人（其继承权可能因其他人之出生而丧失）.",
+    "phonetic": "/ ˈeərɪs,eəˈres; ˈerɪs/",
+    "origin": "待查",
+    "expansions": [
+      "女继承人（尤指继承大笔财产者）；确定继承人（其继承权不因其他人之出生而受影响）；推定继承人（其继承权可能因其他人之出生而丧失）"
+    ],
+    "pronunciation": "/ ˈeərɪs,eəˈres; ˈerɪs/",
+    "accepted_answers": [
+      "女继承人（尤指继承大笔财产者）",
+      "确定继承人（其继承权不因其他人之出生而受影响）",
+      "推定继承人（其继承权可能因其他人之出生而丧失）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heirloom",
     "type": "word",
     "translation": "（通常为贵重的）祖传遗物；传家宝；那个座钟是祖传下来的",
@@ -4812,6 +6768,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "heist",
+    "type": "word",
+    "pos": "N",
+    "translation": "抢劫；盗窃；)抢劫；盗窃（某物）",
+    "analysis": "n (sl 俚 esp US) robbery; burglary 抢劫; 盗窃.\nheist \nv [Tn] (sl 俚 esp US) rob or steal (sth) 抢劫, 盗窃（某物）.\nHejira\n= hegira.\nheld\npt, pp of hold.",
+    "phonetic": "/ haɪst; haɪst/",
+    "origin": "待查",
+    "expansions": [
+      "抢劫；盗窃；)抢劫；盗窃（某物）"
+    ],
+    "pronunciation": "/ haɪst; haɪst/",
+    "accepted_answers": [
+      "抢劫",
+      "盗窃",
+      ")抢劫",
+      "盗窃（某物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "helical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "螺旋形的",
+    "analysis": "adj like a helix 螺旋形的.",
+    "phonetic": "/ ˈhelɪkl,alsoˈhiːlɪkl; ˈhelɪkəl,ˈhilɪkəl/",
+    "origin": "待查",
+    "expansions": [
+      "螺旋形的"
+    ],
+    "pronunciation": "/ ˈhelɪkl,alsoˈhiːlɪkl; ˈhelɪkəl,ˈhilɪkəl/",
+    "accepted_answers": [
+      "螺旋形的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "helicopter",
@@ -4836,6 +6841,77 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "heliotrope",
+    "type": "word",
+    "pos": "N",
+    "translation": "天芥菜属植物（开芳香之紫色小花）；浅紫色",
+    "analysis": "n  1 [C, U] plant with small sweet-smelling purple flowers 天芥菜属植物（开芳香之紫色小花）.  2 [U] light purple colour 浅紫色.",
+    "phonetic": "/ ˈhiːlɪətrəʊp; ˈhilɪəˌtrop/",
+    "origin": "待查",
+    "expansions": [
+      "天芥菜属植物（开芳香之紫色小花）；浅紫色"
+    ],
+    "pronunciation": "/ ˈhiːlɪətrəʊp; ˈhilɪəˌtrop/",
+    "accepted_answers": [
+      "天芥菜属植物（开芳香之紫色小花）",
+      "浅紫色"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "heliport",
+    "type": "word",
+    "pos": "N",
+    "translation": "直升飞机机场；直升飞机航站",
+    "analysis": "n place where helicopters take off and land 直升飞机机场; 直升飞机航站.",
+    "phonetic": "/ ˈhelɪpɔːt; ˈhelɪˌpɔːrt/",
+    "origin": "待查",
+    "expansions": [
+      "直升飞机机场；直升飞机航站"
+    ],
+    "pronunciation": "/ ˈhelɪpɔːt; ˈhelɪˌpɔːrt/",
+    "accepted_answers": [
+      "直升飞机机场",
+      "直升飞机航站"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "helium",
+    "type": "word",
+    "pos": "N",
+    "translation": "见附录",
+    "analysis": "n [U] chemical element, a light colourless gas that does not burn, used in airships 氦. =>App 10 见附录10.",
+    "phonetic": "/ ˈhiːlɪəm; ˈhilɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "见附录"
+    ],
+    "pronunciation": "/ ˈhiːlɪəm; ˈhilɪəm/",
+    "accepted_answers": [
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "helix",
@@ -4886,6 +6962,30 @@
     }
   },
   {
+    "term": "hellene",
+    "type": "word",
+    "pos": "N",
+    "translation": "现今的希腊人；古希腊人",
+    "analysis": "n  1 native of modern Greece 现今的希腊人.  2 person of genuine Greek race in ancient times 古希腊人.",
+    "phonetic": "/ ˈheliːn; ˈhelin/",
+    "origin": "待查",
+    "expansions": [
+      "现今的希腊人；古希腊人"
+    ],
+    "pronunciation": "/ ˈheliːn; ˈhelin/",
+    "accepted_answers": [
+      "现今的希腊人",
+      "古希腊人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hellenic",
     "type": "word",
     "pos": "Adj",
@@ -4900,6 +7000,54 @@
     "accepted_answers": [
       "（古今）希腊人的",
       "希腊艺术、文化等的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hellenistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（公元前；世纪至公元前；世纪的）希腊语言和文化的",
+    "analysis": "adj of the Greek language and culture of the 4th-1st centuries BC （公元前4世纪至公元前1世纪的）希腊语言和文化的.\nhello\n= hallo.",
+    "phonetic": "/ ˌhelɪˈnɪstɪk; ˌhelɪˈnɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "（公元前；世纪至公元前；世纪的）希腊语言和文化的"
+    ],
+    "pronunciation": "/ ˌhelɪˈnɪstɪk; ˌhelɪˈnɪstɪk/",
+    "accepted_answers": [
+      "（公元前",
+      "世纪至公元前",
+      "世纪的）希腊语言和文化的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "helluva",
+    "type": "word",
+    "pos": "word",
+    "translation": "helluva",
+    "analysis": "=> hell 4.",
+    "phonetic": "/ ˈheləvə; ˈheləvə/",
+    "origin": "待查",
+    "expansions": [
+      "helluva"
+    ],
+    "pronunciation": "/ ˈheləvə; ˈheləvə/",
+    "accepted_answers": [
+      "helluva"
     ],
     "added_at": "",
     "review": {
@@ -4931,6 +7079,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "helmet",
+    "type": "word",
+    "pos": "N",
+    "translation": "头盔；)见；)插图",
+    "analysis": "n protective head-covering such as that worn by firemen, miners, motor-cyclists, policemen and sportsmen, and by soldiers when they arefighting 头盔. =>illus at American football (American)见American football (American)插图.\nhelmeted \nadj wearing or provided with a helmet 戴头盔; 备有头盔的.",
+    "phonetic": "/ ˈhelmɪt; ˈhelmɪt/",
+    "origin": "待查",
+    "expansions": [
+      "头盔；)见；)插图"
+    ],
+    "pronunciation": "/ ˈhelmɪt; ˈhelmɪt/",
+    "accepted_answers": [
+      "头盔",
+      ")见",
+      ")插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "helmsman",
+    "type": "word",
+    "pos": "N",
+    "translation": "舵手；操舵人；参看",
+    "analysis": "n (pl -men / -mEn;-mEn/) person who steers a ship 舵手; 操舵人. Cf 参看 steersman (steer1).",
+    "phonetic": "/ -zmən; -zmən/",
+    "origin": "待查",
+    "expansions": [
+      "舵手；操舵人；参看"
+    ],
+    "pronunciation": "/ -zmən; -zmən/",
+    "accepted_answers": [
+      "舵手",
+      "操舵人",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "help",
@@ -5015,6 +7213,30 @@
     "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
+    "term": "helpmate",
+    "type": "word",
+    "pos": "N",
+    "translation": "可以依靠的伴侣；（尤指）丈夫或妻子",
+    "analysis": "n helpful partner or companion, esp a husband or wife 可以依靠的伴侣; （尤指）丈夫或妻子.",
+    "phonetic": "/ ˈhelpmeɪt; ˈhelpˌmet/",
+    "origin": "待查",
+    "expansions": [
+      "可以依靠的伴侣；（尤指）丈夫或妻子"
+    ],
+    "pronunciation": "/ ˈhelpmeɪt; ˈhelpˌmet/",
+    "accepted_answers": [
+      "可以依靠的伴侣",
+      "（尤指）丈夫或妻子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "helter-skelter",
     "type": "word",
     "pos": "Adv",
@@ -5029,6 +7251,29 @@
     "accepted_answers": [
       "忙乱地",
       "（游乐场等处的）螺旋滑梯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "helve",
+    "type": "word",
+    "pos": "N",
+    "translation": "（武器或工具的）柄（尤指斧柄）",
+    "analysis": "n handle of a weapon or tool, esp an axe （武器或工具的）柄（尤指斧柄）.",
+    "phonetic": "/ helv; helv/",
+    "origin": "待查",
+    "expansions": [
+      "（武器或工具的）柄（尤指斧柄）"
+    ],
+    "pronunciation": "/ helv; helv/",
+    "accepted_answers": [
+      "（武器或工具的）柄（尤指斧柄）"
     ],
     "added_at": "",
     "review": {
@@ -5068,6 +7313,31 @@
     }
   },
   {
+    "term": "hemisphere",
+    "type": "word",
+    "pos": "N",
+    "translation": "半球；)（地球的）半球（尤指按赤道划分之南；半球或按通过极地之经线划分之东半球",
+    "analysis": "n  1 half a sphere 半球.  2 any half of the earth, esp as divided by the equator (the Northern/Southern hemisphere) or by a line passing through the poles (the Eastern hemisphere, ie Europe, Africa, Asia, Australia, and the Western hemisphere, ie N and S America) （地球的）半球（尤指按赤道划分之南[北]半球或按通过极地之经线划分之东半球--即欧洲、 非洲、 亚洲、 澳洲和西半球--即南北美洲）. =>illus at globe 见globe插图.  3 (anatomy 解) either half of the cerebrum （大脑 的）半球.",
+    "phonetic": "/ ˈhemɪsfɪə(r); ˈheməsˌfɪr/",
+    "origin": "待查",
+    "expansions": [
+      "半球；)（地球的）半球（尤指按赤道划分之南；半球或按通过极地之经线划分之东半球"
+    ],
+    "pronunciation": "/ ˈhemɪsfɪə(r); ˈheməsˌfɪr/",
+    "accepted_answers": [
+      "半球",
+      ")（地球的）半球（尤指按赤道划分之南",
+      "半球或按通过极地之经线划分之东半球"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hemispherical",
     "type": "word",
     "pos": "Adj",
@@ -5081,6 +7351,79 @@
     "pronunciation": "/ ˌhemɪˈsferɪkl; ˌheməˈsferɪkl/",
     "accepted_answers": [
       "半球形的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hemlock",
+    "type": "word",
+    "pos": "N",
+    "translation": "毒芹（有毒；开小白花）；由毒芹提取的毒药",
+    "analysis": "n  1 [C, U] poisonous plant with small white flowers 毒芹（有毒, 开小白花）.  2 [U] poison made from this plant 由毒芹提取的毒药.",
+    "phonetic": "/ ˈhemlɒk; ˈhemlɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "毒芹（有毒；开小白花）；由毒芹提取的毒药"
+    ],
+    "pronunciation": "/ ˈhemlɒk; ˈhemlɑːk/",
+    "accepted_answers": [
+      "毒芹（有毒",
+      "开小白花）",
+      "由毒芹提取的毒药"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hemorrhoids",
+    "type": "word",
+    "pos": "N",
+    "translation": "痔（内痔或外痔）",
+    "analysis": "(also piles) n [pl] swollen veins at or near the anus 痔（内痔或外痔）.",
+    "phonetic": "/ ˈhemərɔːɪdz; ˈheməˌrɔːɪdz/",
+    "origin": "待查",
+    "expansions": [
+      "痔（内痔或外痔）"
+    ],
+    "pronunciation": "/ ˈhemərɔːɪdz; ˈheməˌrɔːɪdz/",
+    "accepted_answers": [
+      "痔（内痔或外痔）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-a.txt"
+  },
+  {
+    "term": "hemp",
+    "type": "word",
+    "pos": "N",
+    "translation": "大麻；大麻制的麻醉剂；参看",
+    "analysis": "n [U]  1 plant from which coarse fibres are obtained for making rope and cloth 大麻.  2 narcotic drug made from this plant 大麻制的麻醉剂. Cf 参看 cannabis, hashish, marijuana.",
+    "phonetic": "/ hemp; hemp/",
+    "origin": "待查",
+    "expansions": [
+      "大麻；大麻制的麻醉剂；参看"
+    ],
+    "pronunciation": "/ hemp; hemp/",
+    "accepted_answers": [
+      "大麻",
+      "大麻制的麻醉剂",
+      "参看"
     ],
     "added_at": "",
     "review": {
@@ -5203,6 +7546,102 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "henna",
+    "type": "word",
+    "pos": "N",
+    "translation": "散沫花染剂（一种棕红色的染料；尤用以染发）；散沫花（热带植物；可制染剂）",
+    "analysis": "n [U]  1 reddish-brown dye used esp on the hair 散沫花染剂（一种棕红色的染料, 尤用以染发）.  2 tropical plant from which this dye is obtained 散沫花（热带植物, 可制染剂）.",
+    "phonetic": "/ ˈhenə; ˈhenə/",
+    "origin": "待查",
+    "expansions": [
+      "散沫花染剂（一种棕红色的染料；尤用以染发）；散沫花（热带植物；可制染剂）"
+    ],
+    "pronunciation": "/ ˈhenə; ˈhenə/",
+    "accepted_answers": [
+      "散沫花染剂（一种棕红色的染料",
+      "尤用以染发）",
+      "散沫花（热带植物",
+      "可制染剂）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hennaed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "用散沫花染剂染过的",
+    "analysis": "adj dyed with henna 用散沫花染剂染过的.",
+    "phonetic": "/ ˈhenəd; ˈhenəd/",
+    "origin": "待查",
+    "expansions": [
+      "用散沫花染剂染过的"
+    ],
+    "pronunciation": "/ ˈhenəd; ˈhenəd/",
+    "accepted_answers": [
+      "用散沫花染剂染过的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hepatitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "肝炎",
+    "analysis": "n [U] inflammation of the liver 肝炎.",
+    "phonetic": "/ ˌhepəˈtaɪtɪs; ˌhepəˈtaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "肝炎"
+    ],
+    "pronunciation": "/ ˌhepəˈtaɪtɪs; ˌhepəˈtaɪtɪs/",
+    "accepted_answers": [
+      "肝炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "heptagon",
+    "type": "word",
+    "pos": "N",
+    "translation": "七边形；七角形",
+    "analysis": "n geometric figure with seven sides and angles 七边形; 七角形.",
+    "phonetic": "/ ˈheptəgən; -gɒn; ˈheptəˌgɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "七边形；七角形"
+    ],
+    "pronunciation": "/ ˈheptəgən; -gɒn; ˈheptəˌgɑːn/",
+    "accepted_answers": [
+      "七边形",
+      "七角形"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "heptagonal",
@@ -5333,6 +7772,31 @@
     }
   },
   {
+    "term": "herbaceous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "草本的；草质的；（花园中种有多年生花草的）花坛",
+    "analysis": "adj of or like herbs 草本的; 草质的.\nherbaceous border \nflower-bed in a garden with plants that flower year after year （花园中种有多年生花草的）花坛.",
+    "phonetic": "/ hɜːˈbeɪʃəs; ɜːr-; ɜːˈbeʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "草本的；草质的；（花园中种有多年生花草的）花坛"
+    ],
+    "pronunciation": "/ hɜːˈbeɪʃəs; ɜːr-; ɜːˈbeʃəs/",
+    "accepted_answers": [
+      "草本的",
+      "草质的",
+      "（花园中种有多年生花草的）花坛"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "herbage",
     "type": "word",
     "pos": "N",
@@ -5374,6 +7838,76 @@
       "药草治疗法"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "herbicide",
+    "type": "word",
+    "pos": "N",
+    "translation": "除草剂",
+    "analysis": "n substance that is poisonous to plants, used to destroy weeds, etc 除草剂.",
+    "phonetic": "/ ˈhɜːbɪsaɪd; ˈɜːr-; ˈɜːbəˌsaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "除草剂"
+    ],
+    "pronunciation": "/ ˈhɜːbɪsaɪd; ˈɜːr-; ˈɜːbəˌsaɪd/",
+    "accepted_answers": [
+      "除草剂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "herbivore",
+    "type": "word",
+    "pos": "N",
+    "translation": "食草动物；参看",
+    "analysis": "n animal that feeds on plants 食草动物. Cf 参看 carnivore.",
+    "phonetic": "/ ˈhɜːbɪvɔː(r); ˈɜːr-; ˈɜːbəˌvɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "食草动物；参看"
+    ],
+    "pronunciation": "/ ˈhɜːbɪvɔː(r); ˈɜːr-; ˈɜːbəˌvɔːr/",
+    "accepted_answers": [
+      "食草动物",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "herbivorous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指动物）食草的",
+    "analysis": "adj (of animals) feeding on plants （指动物）食草的.",
+    "phonetic": "/ hɜːˈbɪvərəs; ɜːr-; ɜːˈbɪvərəs/",
+    "origin": "待查",
+    "expansions": [
+      "（指动物）食草的"
+    ],
+    "pronunciation": "/ hɜːˈbɪvərəs; ɜːr-; ɜːˈbɪvərəs/",
+    "accepted_answers": [
+      "（指动物）食草的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5430,6 +7964,30 @@
     }
   },
   {
+    "term": "herdsman",
+    "type": "word",
+    "pos": "N",
+    "translation": "牧人；群集本能（人或动物在行为和思维上与大多数求同的本能）",
+    "analysis": "n (pl -men / -men; -mZn/) person who looks after a herd of animals 牧人.\nherd instinct \ninstinct in people or animals to behave and think like the majority 群集本能（人或动物在行为和思维上与大多数求同的本能）.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "牧人；群集本能（人或动物在行为和思维上与大多数求同的本能）"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "牧人",
+      "群集本能（人或动物在行为和思维上与大多数求同的本能）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "here",
     "type": "word",
     "translation": ")(；与动词连用或用於介词之後)；在这里",
@@ -5454,6 +8012,82 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hereabouts",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "文)；在附近；在这一带",
+    "analysis": "(also hereabout) adv (fml 文) near this place; around here 在附近; 在这一带.",
+    "phonetic": "/ ˌhɪərəˈbaUts; ˌhɪrəˈbaJts/",
+    "origin": "待查",
+    "expansions": [
+      "文)；在附近；在这一带"
+    ],
+    "pronunciation": "/ ˌhɪərəˈbaUts; ˌhɪrəˈbaJts/",
+    "accepted_answers": [
+      "文)",
+      "在附近",
+      "在这一带"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hereafter",
+    "type": "word",
+    "pos": "N / Adv",
+    "translation": "文)；（用於法律文件等）自此以後；此後；在将来",
+    "analysis": "adv (fml 文)  1 (in legal documents, etc) from now on; following this （用於法律文件等）自此以後, 此後.  2 in future 在将来.  n the hereafter [sing] the future; life after death 将来; 死後的生命.",
+    "phonetic": "/ ˌhɪərˈɑː:ftə(r); -ˈf-; hɪrˈæftə/",
+    "origin": "待查",
+    "expansions": [
+      "文)；（用於法律文件等）自此以後；此後；在将来"
+    ],
+    "pronunciation": "/ ˌhɪərˈɑː:ftə(r); -ˈf-; hɪrˈæftə/",
+    "accepted_answers": [
+      "文)",
+      "（用於法律文件等）自此以後",
+      "此後",
+      "在将来"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hereby",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "文)；以此方式；由此",
+    "analysis": "adv (fml 文) by this means; as a result of this 以此方式; 由此.",
+    "phonetic": "/ ˌhɪəˈbaɪ; hɪrˈbaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；以此方式；由此"
+    ],
+    "pronunciation": "/ ˌhɪəˈbaɪ; hɪrˈbaɪ/",
+    "accepted_answers": [
+      "文)",
+      "以此方式",
+      "由此"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "hereditary",
@@ -5505,6 +8139,31 @@
     }
   },
   {
+    "term": "herein",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "文)；於此处；於此文件中",
+    "analysis": "adv (fml 文) in this place or document 於此处; 於此文件中.",
+    "phonetic": "/ ˌhɪərˈɪn; hɪrˈɪn/",
+    "origin": "待查",
+    "expansions": [
+      "文)；於此处；於此文件中"
+    ],
+    "pronunciation": "/ ˌhɪərˈɪn; hɪrˈɪn/",
+    "accepted_answers": [
+      "文)",
+      "於此处",
+      "於此文件中"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "hereof",
     "type": "word",
     "pos": "Adv",
@@ -5552,6 +8211,30 @@
     }
   },
   {
+    "term": "heretic",
+    "type": "word",
+    "pos": "N",
+    "translation": "犯异端罪者；持异端观点者",
+    "analysis": "n person who is guilty of heresy or who supports a heresy 犯异端罪者; 持异端观点者.",
+    "phonetic": "/ ˈherətɪk; ˈherətɪk/",
+    "origin": "待查",
+    "expansions": [
+      "犯异端罪者；持异端观点者"
+    ],
+    "pronunciation": "/ ˈherətɪk; ˈherətɪk/",
+    "accepted_answers": [
+      "犯异端罪者",
+      "持异端观点者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heretical",
     "type": "word",
     "translation": "异端的；持异端观点者的；异端观点",
@@ -5573,6 +8256,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hereto",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "古)；至此",
+    "analysis": "adv (arch 古) to this 至此.",
+    "phonetic": "/ ˌhɪəˈtuː; hɪrˈtu/",
+    "origin": "待查",
+    "expansions": [
+      "古)；至此"
+    ],
+    "pronunciation": "/ ˌhɪəˈtuː; hɪrˈtu/",
+    "accepted_answers": [
+      "古)",
+      "至此"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "heretofore",
@@ -5623,6 +8330,31 @@
     }
   },
   {
+    "term": "heritable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "律)；（指财产等）可继承的；（指人）有继承权的",
+    "analysis": "adj (law 律)  1 (of property, etc) that can be inherited （指财产等）可继承的.  2 (of a person) able to inherit （指人）有继承权的.",
+    "phonetic": "/ ˈherɪtəbl; ˈherətəbl/",
+    "origin": "待查",
+    "expansions": [
+      "律)；（指财产等）可继承的；（指人）有继承权的"
+    ],
+    "pronunciation": "/ ˈherɪtəbl; ˈherətəbl/",
+    "accepted_answers": [
+      "律)",
+      "（指财产等）可继承的",
+      "（指人）有继承权的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heritage",
     "type": "word",
     "translation": "通常作单数；文化遗产（如祖辈遗留下来的艺术作品、文明成果及民俗）；我们的文学遗产",
@@ -5646,6 +8378,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hermaphrodite",
+    "type": "word",
+    "pos": "N",
+    "translation": "两性人；阴阳人；雌雄同体的动物",
+    "analysis": "n person or animal that has both male and female sexual organs or characteristics 两性人; 阴阳人; 雌雄同体的动物. Cf 参看 bisexual.",
+    "phonetic": "/ hɜːˈmfrədaɪt; hɜːˈmæfrəˌdaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "两性人；阴阳人；雌雄同体的动物"
+    ],
+    "pronunciation": "/ hɜːˈmfrədaɪt; hɜːˈmæfrəˌdaɪt/",
+    "accepted_answers": [
+      "两性人",
+      "阴阳人",
+      "雌雄同体的动物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "hermaphroditic",
@@ -5714,6 +8471,78 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hermit",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指早期基督教的）隐居修道士；隐士；遁世者",
+    "analysis": "n person (esp a man in early Christian times) who has withdrawn from society and lives completely alone; recluse （尤指早期基督教的）隐居修道士; 隐士; 遁世者.",
+    "phonetic": "/ ˈhɜːmɪt; ˈhɜːmɪt/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指早期基督教的）隐居修道士；隐士；遁世者"
+    ],
+    "pronunciation": "/ ˈhɜːmɪt; ˈhɜːmɪt/",
+    "accepted_answers": [
+      "（尤指早期基督教的）隐居修道士",
+      "隐士",
+      "遁世者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hermitage",
+    "type": "word",
+    "pos": "N",
+    "translation": "隐居处；修道院",
+    "analysis": "n place where a hermit or a group of hermits lives 隐居处; 修道院.",
+    "phonetic": "/ -ɪdʒ; -ɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "隐居处；修道院"
+    ],
+    "pronunciation": "/ -ɪdʒ; -ɪdʒ/",
+    "accepted_answers": [
+      "隐居处",
+      "修道院"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hernia",
+    "type": "word",
+    "pos": "N",
+    "translation": "突出",
+    "analysis": "n [U, C] rupture, esp one caused by a part of the bowel being pushed through a weak point of the muscle wall of the abdomen 疝; 突出.",
+    "phonetic": "/ ˈhɜːnɪə; ˈhɜːnɪə/",
+    "origin": "待查",
+    "expansions": [
+      "突出"
+    ],
+    "pronunciation": "/ ˈhɜːnɪə; ˈhɜːnɪə/",
+    "accepted_answers": [
+      "突出"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "hero",
@@ -5790,6 +8619,54 @@
     }
   },
   {
+    "term": "heroin",
+    "type": "word",
+    "pos": "N",
+    "translation": "海洛因；吗啡",
+    "analysis": "n [U] narcotic drug made from morphine, used medically to cause sleep or relieve pain, or by drug addicts 海洛因; 吗啡.\nheroine\n=> hero.",
+    "phonetic": "/ ˈherəʊɪn; ˈheroɪn/",
+    "origin": "待查",
+    "expansions": [
+      "海洛因；吗啡"
+    ],
+    "pronunciation": "/ ˈherəʊɪn; ˈheroɪn/",
+    "accepted_answers": [
+      "海洛因",
+      "吗啡"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "heroine",
+    "type": "word",
+    "pos": "N",
+    "translation": "女主角；女主人公",
+    "analysis": "n female hero 女主角; 女主人公.",
+    "phonetic": "/ ˈherəʊɪn; ˈheroɪn/",
+    "origin": "待查",
+    "expansions": [
+      "女主角；女主人公"
+    ],
+    "pronunciation": "/ ˈherəʊɪn; ˈheroɪn/",
+    "accepted_answers": [
+      "女主角",
+      "女主人公"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heroism",
     "type": "word",
     "translation": "英雄行为；英勇精神；大无畏的举动",
@@ -5812,6 +8689,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "heron",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "见附录；插图；鹭群繁殖处",
+    "analysis": "n water-bird with a long neck and long legs that lives in marshy places 鹭. =>illus at App 1 见附录1插图, page v.\nheronry \nn place where herons breed 鹭群繁殖处.",
+    "phonetic": "/ ˈherən; ˈherən/",
+    "origin": "待查",
+    "expansions": [
+      "见附录；插图；鹭群繁殖处"
+    ],
+    "pronunciation": "/ ˈherən; ˈherən/",
+    "accepted_answers": [
+      "见附录",
+      "插图",
+      "鹭群繁殖处"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "herpes",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；湿疹；单纯性湿疹（无痛）",
+    "analysis": "n [U] (medical 医) virus disease that causes blisters on the skin 湿疹.\nherpes simplex \nsimple and painless form of herpes 单纯性湿疹（无痛）.\nherpes zoster \n= shingles.",
+    "phonetic": "/ ˈhɜːpiːz; ˈhɜːpiz/",
+    "origin": "待查",
+    "expansions": [
+      "医)；湿疹；单纯性湿疹（无痛）"
+    ],
+    "pronunciation": "/ ˈhɜːpiːz; ˈhɜːpiz/",
+    "accepted_answers": [
+      "医)",
+      "湿疹",
+      "单纯性湿疹（无痛）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "herr",
@@ -5916,6 +8843,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hertz",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)(；缩写；赫（兹）（频率单位；等於每秒一周）",
+    "analysis": "n (pl unchanged 复数不变) (abbr 缩写 Hz) unit of frequency, equal to one cycle per second 赫（兹）（频率单位, 等於每秒一周）.",
+    "phonetic": "/ hɜːts; hɜːts/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)(；缩写；赫（兹）（频率单位；等於每秒一周）"
+    ],
+    "pronunciation": "/ hɜːts; hɜːts/",
+    "accepted_answers": [
+      "复数不变)(",
+      "缩写",
+      "赫（兹）（频率单位",
+      "等於每秒一周）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "hesitancy",
@@ -6090,6 +9043,29 @@
     }
   },
   {
+    "term": "heterogeneity",
+    "type": "word",
+    "pos": "N",
+    "translation": "heterogeneity",
+    "analysis": "n [U].\nheterogeneously \nadv.",
+    "phonetic": "/ -dʒɪˈniːətɪ; -dʒəˈniətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "heterogeneity"
+    ],
+    "pronunciation": "/ -dʒɪˈniːətɪ; -dʒəˈniətɪ/",
+    "accepted_answers": [
+      "heterogeneity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
     "term": "heterogeneous",
     "type": "word",
     "translation": "由不同种类组成的；成分混杂的；由不同种族组成的美国人口",
@@ -6111,6 +9087,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "heterosexual",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "异性恋的；参看；异性恋者",
+    "analysis": "adj feeling sexually attracted to people of the opposite sex 异性恋的. Cf 参看 bisexual, homosexual.\nheterosexual \nn heterosexual person 异性恋者.",
+    "phonetic": "/ ˌhetərəˈsekʃUəl; ˌhetərəˈsekʃJəl/",
+    "origin": "待查",
+    "expansions": [
+      "异性恋的；参看；异性恋者"
+    ],
+    "pronunciation": "/ ˌhetərəˈsekʃUəl; ˌhetərəˈsekʃJəl/",
+    "accepted_answers": [
+      "异性恋的",
+      "参看",
+      "异性恋者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "heterosexuality",
+    "type": "word",
+    "pos": "N",
+    "translation": "heterosexuality",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌhetərəˌsekʃUˈlətɪ; ˌhetərəˌsekʃJˈælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "heterosexuality"
+    ],
+    "pronunciation": "/ ˌhetərəˌsekʃUˈlətɪ; ˌhetərəˌsekʃJˈælətɪ/",
+    "accepted_answers": [
+      "heterosexuality"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "heuristic",
@@ -6164,6 +9188,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hexagon",
+    "type": "word",
+    "pos": "N",
+    "translation": "六边形；六角形",
+    "analysis": "n geometric figure with six sides and angles 六边形; 六角形.",
+    "phonetic": "/ ˈheksəgən; -gɒn; ˈheksəˌgɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "六边形；六角形"
+    ],
+    "pronunciation": "/ ˈheksəgən; -gɒn; ˈheksəˌgɑːn/",
+    "accepted_answers": [
+      "六边形",
+      "六角形"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
+  },
+  {
+    "term": "hexagonal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "六边形的；六角形的",
+    "analysis": "adj six-sided 六边形的; 六角形的.",
+    "phonetic": "/ heksˈægənl; heksˈægənl/",
+    "origin": "待查",
+    "expansions": [
+      "六边形的；六角形的"
+    ],
+    "pronunciation": "/ heksˈægənl; heksˈægənl/",
+    "accepted_answers": [
+      "六边形的",
+      "六角形的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-b,c,d,e.txt"
   },
   {
     "term": "hexameter",
@@ -6359,6 +9431,30 @@
     "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
+    "term": "hibernate",
+    "type": "word",
+    "pos": "V",
+    "translation": "（指动物）冬眠；蛰伏",
+    "analysis": "v [I] (of animals) spend the winter in a state like deep sleep （指动物）冬眠, 蛰伏.",
+    "phonetic": "/ ˈhaɪbəneɪt; ˈhaɪbəˌnet/",
+    "origin": "待查",
+    "expansions": [
+      "（指动物）冬眠；蛰伏"
+    ],
+    "pronunciation": "/ ˈhaɪbəneɪt; ˈhaɪbəˌnet/",
+    "accepted_answers": [
+      "（指动物）冬眠",
+      "蛰伏"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hibernation",
     "type": "word",
     "translation": "进入冬眠状态",
@@ -6378,6 +9474,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hibiscus",
+    "type": "word",
+    "pos": "N",
+    "translation": "木槿",
+    "analysis": "n plant or shrub with large brightly coloured flowers, grown esp in tropical countries 木槿.",
+    "phonetic": "/ hɪˈbɪskəs; haɪ-; haɪˈbɪskəs/",
+    "origin": "待查",
+    "expansions": [
+      "木槿"
+    ],
+    "pronunciation": "/ hɪˈbɪskəs; haɪ-; haɪˈbɪskəs/",
+    "accepted_answers": [
+      "木槿"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
     "term": "hiccup",
@@ -6425,6 +9544,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hickey",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；小机械；小装置",
+    "analysis": "n (US infml 口)  1 gadget; device 小机械; 小装置.  2 pimple; blemish 丘疹; 瑕疵.",
+    "phonetic": "/ ˈhɪkɪ; ˌhɪkɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；小机械；小装置"
+    ],
+    "pronunciation": "/ ˈhɪkɪ; ˌhɪkɪ/",
+    "accepted_answers": [
+      "口)",
+      "小机械",
+      "小装置"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
     "term": "hickory",
@@ -6645,6 +9789,30 @@
     }
   },
   {
+    "term": "hieroglyph",
+    "type": "word",
+    "pos": "N",
+    "translation": "象形字（如古埃及等所用的）；秘密的或另有含义的书写符号",
+    "analysis": "n  1 picture or symbol of an object, representing a word, syllable or sound, as used in ancient Egyptian and other writing 象形字（如古埃及等所用的）.  2 written symbol with a secret or hidden meaning 秘密的或另有含义的书写符号.",
+    "phonetic": "/ ˈhaɪərəglɪf; ˈhaɪərəˌglɪf/",
+    "origin": "待查",
+    "expansions": [
+      "象形字（如古埃及等所用的）；秘密的或另有含义的书写符号"
+    ],
+    "pronunciation": "/ ˈhaɪərəglɪf; ˈhaɪərəˌglɪf/",
+    "accepted_answers": [
+      "象形字（如古埃及等所用的）",
+      "秘密的或另有含义的书写符号"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hieroglyphic",
     "type": "word",
     "translation": "（用）象形文字（写成）的；（用）秘密的书写符号（写成）的；象形文字",
@@ -6797,6 +9965,53 @@
     }
   },
   {
+    "term": "highball",
+    "type": "word",
+    "pos": "N",
+    "translation": "混有汽水、姜汁麦芽酒等的酒精饮料（加有冰块；盛於高杯内）",
+    "analysis": "n (US) drink of spirits mixed with soda water, ginger ale, etc and served with ice in a tall glass 混有汽水、 姜汁麦芽酒等的酒精饮料（加有冰块, 盛於高杯内）.",
+    "phonetic": "/ ˈhaɪbɔːl; ˈhaɪˌbɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "混有汽水、姜汁麦芽酒等的酒精饮料（加有冰块；盛於高杯内）"
+    ],
+    "pronunciation": "/ ˈhaɪbɔːl; ˈhaɪˌbɔːl/",
+    "accepted_answers": [
+      "混有汽水、姜汁麦芽酒等的酒精饮料（加有冰块",
+      "盛於高杯内）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
+    "term": "highboy",
+    "type": "word",
+    "pos": "N",
+    "translation": "highboy",
+    "analysis": "n (US) = tallboy (tall).",
+    "phonetic": "/ ˈhaɪbɔːɪ; ˈhaɪˌbɔːɪ/",
+    "origin": "待查",
+    "expansions": [
+      "highboy"
+    ],
+    "pronunciation": "/ ˈhaɪbɔːɪ; ˈhaɪˌbɔːɪ/",
+    "accepted_answers": [
+      "highboy"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "highbrow",
     "type": "word",
     "translation": "常作贬义)；博学而兴趣高雅的人；风雅之士",
@@ -6945,6 +10160,30 @@
     }
   },
   {
+    "term": "highwayman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（旧时）拦路抢劫的强盗（通常骑马持械）",
+    "analysis": "n (pl -men / -mEn; -9mEn/) (formerly) man, usu armed and on horseback, who robbed travellers on public roads （旧时）拦路抢劫的强盗（通常骑马持械）.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（旧时）拦路抢劫的强盗（通常骑马持械）"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      ")(",
+      "（旧时）拦路抢劫的强盗（通常骑马持械）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hijack",
     "type": "word",
     "translation": "劫持（交通工具；尤指飞行器）；该机在飞往德里的途中遭到劫持；抢劫（载运中的货物）",
@@ -7065,6 +10304,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hill-billy",
+    "type": "word",
+    "pos": "N",
+    "translation": "口；通常作贬义)；乡巴佬；（尤指）美国东南部的山里人",
+    "analysis": "n  1 [C] (US infml usu derog 口, 通常作贬义) unsophisticated person from a remote rural area, esp the mountains in the south-eastern US 乡巴佬; （尤指）美国东南部的山里人.  2 [U] folk music like that of the southern US （类似美国南部曲调的）民间音乐.",
+    "phonetic": "/ ˈhɪlbɪlɪ; ˈhɪlˌbɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口；通常作贬义)；乡巴佬；（尤指）美国东南部的山里人"
+    ],
+    "pronunciation": "/ ˈhɪlbɪlɪ; ˈhɪlˌbɪlɪ/",
+    "accepted_answers": [
+      "口",
+      "通常作贬义)",
+      "乡巴佬",
+      "（尤指）美国东南部的山里人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
     "term": "hillock",
@@ -7316,6 +10581,57 @@
     }
   },
   {
+    "term": "hindu",
+    "type": "word",
+    "pos": "N",
+    "translation": "印度人；（尤指印度北部的）印度斯坦人（信奉印度教）；印度人的",
+    "analysis": "n person, esp of N India, whose religion is Hinduism 印度人; （尤指印度北部的）印度斯坦人（信奉印度教）.\nHindu \nadj of the Hindus 印度人的; 印度斯坦人的.",
+    "phonetic": "/ ˌhɪnˈduː; ˈhɪnduː; ˈhɪndu/",
+    "origin": "待查",
+    "expansions": [
+      "印度人；（尤指印度北部的）印度斯坦人（信奉印度教）；印度人的"
+    ],
+    "pronunciation": "/ ˌhɪnˈduː; ˈhɪnduː; ˈhɪndu/",
+    "accepted_answers": [
+      "印度人",
+      "（尤指印度北部的）印度斯坦人（信奉印度教）",
+      "印度人的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
+    "term": "hinduism",
+    "type": "word",
+    "pos": "N",
+    "translation": "印度教（印度的宗教、哲学及社会体系；其特点为相信轮回转世；崇拜几位天神；实行种姓制度）",
+    "analysis": "n [U] Indian religion, philosophy and social system characterized by belief in reincarnation, worship of several gods and the caste system 印度教（印度的宗教、 哲学及社会体系, 其特点为相信轮回转世, 崇拜几位天神, 实行种姓制度）.",
+    "phonetic": "/ ˈhɪnduːɪzəm; ˈhɪndJˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "印度教（印度的宗教、哲学及社会体系；其特点为相信轮回转世；崇拜几位天神；实行种姓制度）"
+    ],
+    "pronunciation": "/ ˈhɪnduːɪzəm; ˈhɪndJˌɪzəm/",
+    "accepted_answers": [
+      "印度教（印度的宗教、哲学及社会体系",
+      "其特点为相信轮回转世",
+      "崇拜几位天神",
+      "实行种姓制度）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hinge",
     "type": "word",
     "translation": "铰链；合叶；把门从铰链上卸下重装",
@@ -7365,6 +10681,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hinterland",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作单数)；内陆地区；内地",
+    "analysis": "n (usu sing 通常作单数)  1 area lying inland from the coast or away from a river 内陆地区; 内地; 腹地.  2 part of a country that is served by a port or some other centre （由某一港口或某些其他中心城市供应物资的）内陆贸易区.",
+    "phonetic": "/ ˈhɪntəlænd; ˈhɪntəˌlænd/",
+    "origin": "待查",
+    "expansions": [
+      "通常作单数)；内陆地区；内地"
+    ],
+    "pronunciation": "/ ˈhɪntəlænd; ˈhɪntəˌlænd/",
+    "accepted_answers": [
+      "通常作单数)",
+      "内陆地区",
+      "内地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
     "term": "hip",
@@ -7419,6 +10760,53 @@
     "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
+    "term": "hippo",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；口)",
+    "analysis": "n (pl ~s) (infml 口) = hippopotamus.",
+    "phonetic": "/ ˈhɪpəʊ; ˈhɪpo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；口)"
+    ],
+    "pronunciation": "/ ˈhɪpəʊ; ˈhɪpo/",
+    "accepted_answers": [
+      ")(",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
+    "term": "hippocratic oath",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "医生在取得行医资格时保证遵守医生道德守则的誓言",
+    "analysis": "oath to observe the medical code of ethical and professional behaviour, sworn by doctors when they become qualified 医生在取得行医资格时保证遵守医生道德守则的誓言.",
+    "phonetic": "/ ˌhɪpəkrætɪkˈəʊθ; ˌhɪpəˌkrætɪkˈoθ/",
+    "origin": "待查",
+    "expansions": [
+      "医生在取得行医资格时保证遵守医生道德守则的誓言"
+    ],
+    "pronunciation": "/ ˌhɪpəkrætɪkˈəʊθ; ˌhɪpəˌkrætɪkˈoθ/",
+    "accepted_answers": [
+      "医生在取得行医资格时保证遵守医生道德守则的誓言"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hippodrome",
     "type": "word",
     "translation": "（尤用於专名）舞厅或音乐厅；剧院或电影院；布赖顿剧院；（古希腊或古罗马）赛马埸；战车竞赛埸",
@@ -7442,6 +10830,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hippopotamus",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；河马（产於非洲）；见插图",
+    "analysis": "n (pl hippopotamuses / -mEsIz; -mEsIz/ or -mi / -maI; -maI/) (also hippo) large African river animal with short legs and thick dark skin 河马（产於非洲）. =>illus 见插图.\nhippy\n= hippie.",
+    "phonetic": "/ ˌhɪpəˈpɒtəməs; ˌhɪpəˈpɑːtəməs/",
+    "origin": "待查",
+    "expansions": [
+      ")(；河马（产於非洲）；见插图"
+    ],
+    "pronunciation": "/ ˌhɪpəˈpɒtəməs; ˌhɪpəˈpɑːtəməs/",
+    "accepted_answers": [
+      ")(",
+      "河马（产於非洲）",
+      "见插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
   },
   {
     "term": "hire",
@@ -7570,6 +10983,30 @@
     }
   },
   {
+    "term": "hispanic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "西班牙和葡萄牙的；西班牙及其他说西班牙语国家的",
+    "analysis": "adj  1 of Spain and Portugal 西班牙和葡萄牙的.  2 of Spain and other Spanish-speaking countries 西班牙及其他说西班牙语国家的.",
+    "phonetic": "/ hɪˈspænɪk; hɪsˈpænɪk/",
+    "origin": "待查",
+    "expansions": [
+      "西班牙和葡萄牙的；西班牙及其他说西班牙语国家的"
+    ],
+    "pronunciation": "/ hɪˈspænɪk; hɪsˈpænɪk/",
+    "accepted_answers": [
+      "西班牙和葡萄牙的",
+      "西班牙及其他说西班牙语国家的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hiss",
     "type": "word",
     "translation": "发出；蒸汽发出很大的嘶嘶声冒了出来；把水浇到火上；火就发出嘶嘶声",
@@ -7597,6 +11034,30 @@
     }
   },
   {
+    "term": "histamine",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；组胺",
+    "analysis": "n [U] (medical 医) chemical compound that is present in all body tissues and causes (usu unpleasant) reactions in people with certain allergies 组胺.",
+    "phonetic": "/ ˈhɪstəmiːn; ˈhɪstəmin/",
+    "origin": "待查",
+    "expansions": [
+      "医)；组胺"
+    ],
+    "pronunciation": "/ ˈhɪstəmiːn; ˈhɪstəmin/",
+    "accepted_answers": [
+      "医)",
+      "组胺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "histogram",
     "type": "word",
     "pos": "N",
@@ -7610,6 +11071,53 @@
     "pronunciation": "/ ˈhɪstəgræm; ˈhɪstəˌgræm/",
     "accepted_answers": [
       "histogram"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
+    "term": "histology",
+    "type": "word",
+    "pos": "N",
+    "translation": "组织学",
+    "analysis": "n [U] scientific study of animal and plant tissues 组织学.",
+    "phonetic": "/ hɪˈstɒlədʒɪ; hɪˈstɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "组织学"
+    ],
+    "pronunciation": "/ hɪˈstɒlədʒɪ; hɪˈstɑːlədʒɪ/",
+    "accepted_answers": [
+      "组织学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
+    "term": "historian",
+    "type": "word",
+    "pos": "N",
+    "translation": "历史学家；史学工作者",
+    "analysis": "n person who studies or writes about history 历史学家; 史学工作者.",
+    "phonetic": "/ hɪˈstɔːrɪənor,rarely罕读作ɪˈs-; hɪsˈtɔːrɪən/",
+    "origin": "待查",
+    "expansions": [
+      "历史学家；史学工作者"
+    ],
+    "pronunciation": "/ hɪˈstɔːrɪənor,rarely罕读作ɪˈs-; hɪsˈtɔːrɪən/",
+    "accepted_answers": [
+      "历史学家",
+      "史学工作者"
     ],
     "added_at": "",
     "review": {
@@ -7914,6 +11422,53 @@
     }
   },
   {
+    "term": "hives",
+    "type": "word",
+    "pos": "N",
+    "translation": "荨麻疹",
+    "analysis": "n [pl] skin disease with itchy red patches; nettle-rash 荨麻疹.",
+    "phonetic": "/ haɪvz; haɪvz/",
+    "origin": "待查",
+    "expansions": [
+      "荨麻疹"
+    ],
+    "pronunciation": "/ haɪvz; haɪvz/",
+    "accepted_answers": [
+      "荨麻疹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
+    "term": "hiya",
+    "type": "word",
+    "pos": "word",
+    "translation": "口)(；用作招呼语)",
+    "analysis": "interj (US infml 口) (used as a greeting 用作招呼语).",
+    "phonetic": "/ ˈhaɪjə; ˈhaɪjə/",
+    "origin": "待查",
+    "expansions": [
+      "口)(；用作招呼语)"
+    ],
+    "pronunciation": "/ ˈhaɪjə; ˈhaɪjə/",
+    "accepted_answers": [
+      "口)(",
+      "用作招呼语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-f,g,h,i.txt"
+  },
+  {
     "term": "hmi",
     "type": "word",
     "translation": "缩写；)皇家督学；督学所进行的视察",
@@ -8079,6 +11634,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hoar-frost",
+    "type": "word",
+    "pos": "N",
+    "translation": "白霜；草、叶子、房顶等上面的霜",
+    "analysis": "n [U] white frost; frozen dew on grass, leaves, roofs, etc 白霜; 草、 叶子、 房顶等上面的霜.",
+    "phonetic": "/ ˈhɔːfrɒst; -frɔːst; ˈhɔːrˌfrɔːst/",
+    "origin": "待查",
+    "expansions": [
+      "白霜；草、叶子、房顶等上面的霜"
+    ],
+    "pronunciation": "/ ˈhɔːfrɒst; -frɔːst; ˈhɔːrˌfrɔːst/",
+    "accepted_answers": [
+      "白霜",
+      "草、叶子、房顶等上面的霜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hoard",
@@ -8327,6 +11906,31 @@
     }
   },
   {
+    "term": "hobgoblin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（民间传说中的）淘气的小妖精；鬼怪；妖怪",
+    "analysis": "n (in folklore) mischievous little creature; ugly and evil spirit; goblin （民间传说中的）淘气的小妖精, 鬼怪, 妖怪.",
+    "phonetic": "/ hɒbˈgɒblɪn; ˈhɑːbˌgɑːblɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（民间传说中的）淘气的小妖精；鬼怪；妖怪"
+    ],
+    "pronunciation": "/ hɒbˈgɒblɪn; ˈhɑːbˌgɑːblɪn/",
+    "accepted_answers": [
+      "（民间传说中的）淘气的小妖精",
+      "鬼怪",
+      "妖怪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hobnail",
     "type": "word",
     "translation": "（钉在笨重靴鞋底部的）平头钉；带有平头钉的靴子；（指靴等）装有平头钉的",
@@ -8348,6 +11952,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hobo",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；流动的失业工人；无业游民",
+    "analysis": "n (pl ~s or ~es / -bEUz; -boz/) (esp US) (a) unemployed worker who wanders from place to place 流动的失业工人; 无业游民. (b) tramp; vagrant 流浪者; 漂泊者.",
+    "phonetic": "/ ˈhəʊbəʊ; ˈhobo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；流动的失业工人；无业游民"
+    ],
+    "pronunciation": "/ ˈhəʊbəʊ; ˈhobo/",
+    "accepted_answers": [
+      ")(",
+      "流动的失业工人",
+      "无业游民"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hobson's choice",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "无可选择的选择；没有选择余地的局面",
+    "analysis": "situation in which a person must accept what is offered because there is no alternative other than taking nothing at all 无可选择的选择; 没有选择余地的局面.",
+    "phonetic": "/ ˌhɒbsnzˈtʃɔːɪs; ˈhɑːbsnzˈtʃɔːɪs/",
+    "origin": "待查",
+    "expansions": [
+      "无可选择的选择；没有选择余地的局面"
+    ],
+    "pronunciation": "/ ˌhɒbsnzˈtʃɔːɪs; ˈhɑːbsnzˈtʃɔːɪs/",
+    "accepted_answers": [
+      "无可选择的选择",
+      "没有选择余地的局面"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
   },
   {
     "term": "hock",
@@ -8374,6 +12027,31 @@
     "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
+    "term": "hockey",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；美式英语通常作；曲棍球",
+    "analysis": "n [U]  1 (Brit) (US usu 美式英语通常作 `field hockey) game played on a field by two teams of eleven players each, with curved sticks and a small hard ball 曲棍球. =>illus 见插图.  2 (US) = ice hockey (ice).\nhockey stick  \n1 long stick curved at the bottom, used to hit the ball in hockey 曲棍球球棍.  2 (idm 习语) jolly hockey sticks => jolly.",
+    "phonetic": "/ ˈhɒkɪ; ˈhɑːkɪ/",
+    "origin": "待查",
+    "expansions": [
+      ")(；美式英语通常作；曲棍球"
+    ],
+    "pronunciation": "/ ˈhɒkɪ; ˈhɑːkɪ/",
+    "accepted_answers": [
+      ")(",
+      "美式英语通常作",
+      "曲棍球"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hocus-pocus",
     "type": "word",
     "pos": "N",
@@ -8389,6 +12067,31 @@
       "旨在转移他人注意力的言谈或举止",
       "花招",
       "骗术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hod",
+    "type": "word",
+    "pos": "N",
+    "translation": "（建筑工人挑砖等用的连在扁担上的）轻便无盖挂斗；（家用）煤斗；煤桶",
+    "analysis": "n  1 light open box attached to a pole, used by builders for carrying bricks, etc on the shoulder （建筑工人挑砖等用的连在扁担上的）轻便无盖挂斗.  2 container for coal used in the home; coal-scuttle （家用）煤斗; 煤桶.\nhodgepodge\n= hotchpotch.",
+    "phonetic": "/ hɒd; hɑːd/",
+    "origin": "待查",
+    "expansions": [
+      "（建筑工人挑砖等用的连在扁担上的）轻便无盖挂斗；（家用）煤斗；煤桶"
+    ],
+    "pronunciation": "/ hɒd; hɑːd/",
+    "accepted_answers": [
+      "（建筑工人挑砖等用的连在扁担上的）轻便无盖挂斗",
+      "（家用）煤斗",
+      "煤桶"
     ],
     "added_at": "",
     "review": {
@@ -8447,6 +12150,82 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hogmanay",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作；)(；苏格兰)",
+    "analysis": "n (usu 通常作 Hogmanay) (Scot 苏格兰) last day of the year and the celebrations that occur on it, esp in Scotland 除夕（尤指苏格兰的）.",
+    "phonetic": "/ ˈhɒgməneɪ; ˌhɑːgməˈne/",
+    "origin": "待查",
+    "expansions": [
+      "通常作；)(；苏格兰)"
+    ],
+    "pronunciation": "/ ˈhɒgməneɪ; ˌhɑːgməˈne/",
+    "accepted_answers": [
+      "通常作",
+      ")(",
+      "苏格兰)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hogshead",
+    "type": "word",
+    "pos": "N",
+    "translation": "大啤酒桶；液量或乾量单位（在英国约合；加仑；在美国约合",
+    "analysis": "n  1 large barrel for beer 大啤酒桶.  2 liquid or dry measure, about 50 gallons in Britain, 62 gallons in the US 液量或乾量单位（在英国约合50加仑, 在美国约合62加仑）.",
+    "phonetic": "/ ˈhɒgzhed; ˈhɔːg-; ˈhɔːgzˌhed/",
+    "origin": "待查",
+    "expansions": [
+      "大啤酒桶；液量或乾量单位（在英国约合；加仑；在美国约合"
+    ],
+    "pronunciation": "/ ˈhɒgzhed; ˈhɔːg-; ˈhɔːgzˌhed/",
+    "accepted_answers": [
+      "大啤酒桶",
+      "液量或乾量单位（在英国约合",
+      "加仑",
+      "在美国约合"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hoi polloi",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "贬)；民众；老百姓",
+    "analysis": "[pl] the hoi polloi (derog 贬) the common people; the masses 民众; 老百姓; 乌合之众.",
+    "phonetic": "/ ˌhɔːɪpəˈlɔːɪ; ˈhɔːɪpəˈlɔːɪ/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；民众；老百姓"
+    ],
+    "pronunciation": "/ ˌhɔːɪpəˈlɔːɪ; ˈhɔːɪpəˈlɔːɪ/",
+    "accepted_answers": [
+      "贬)",
+      "民众",
+      "老百姓"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hoick",
@@ -8577,6 +12356,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "holdall",
+    "type": "word",
+    "pos": "N",
+    "translation": "（装衣物用的）大旅行袋（通常为软包）",
+    "analysis": "(US `carry-all) n large (usu soft) bag for holding clothes, etc when travelling （装衣物用的）大旅行袋（通常为软包）.",
+    "phonetic": "/ ˈhəʊldɔːl; ˈholdˌɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "（装衣物用的）大旅行袋（通常为软包）"
+    ],
+    "pronunciation": "/ ˈhəʊldɔːl; ˈholdˌɔːl/",
+    "accepted_answers": [
+      "（装衣物用的）大旅行袋（通常为软包）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "holder",
@@ -8710,6 +12512,55 @@
     }
   },
   {
+    "term": "holiness",
+    "type": "word",
+    "pos": "N",
+    "translation": "神圣；陛下；圣座（对教皇的尊称）",
+    "analysis": "n  1 [U] state of being holy or sacred 神圣.  2 His/Your Holiness title used of or to the Pope 陛下, 圣座（对教皇的尊称）.",
+    "phonetic": "/ ˈhəʊlɪnɪs; ˈholɪnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "神圣；陛下；圣座（对教皇的尊称）"
+    ],
+    "pronunciation": "/ ˈhəʊlɪnɪs; ˈholɪnɪs/",
+    "accepted_answers": [
+      "神圣",
+      "陛下",
+      "圣座（对教皇的尊称）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "holler",
+    "type": "word",
+    "pos": "V",
+    "translation": "喊出（某事物）；叫喊",
+    "analysis": "v [I, Tn] (infml 口 esp US) shout (sth); yell 喊出（某事物）; 叫喊.",
+    "phonetic": "/ ˈhɒlə(r); ˈhɑːlə/",
+    "origin": "待查",
+    "expansions": [
+      "喊出（某事物）；叫喊"
+    ],
+    "pronunciation": "/ ˈhɒlə(r); ˈhɑːlə/",
+    "accepted_answers": [
+      "喊出（某事物）",
+      "叫喊"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hollow",
     "type": "word",
     "translation": "空的；中空的；中空的树、球",
@@ -8737,6 +12588,82 @@
     }
   },
   {
+    "term": "holly",
+    "type": "word",
+    "pos": "N",
+    "translation": "冬青（常绿灌木；叶尖而硬；有光泽；冬季结红色浆果）；（用作圣诞节饰物的）冬青树枝",
+    "analysis": "n (a) [C] evergreen shrub with hard shiny sharp-pointed leaves and, in winter, red berries 冬青（常绿灌木, 叶尖而硬, 有光泽, 冬季结红色浆果）. (b) [U] its branches used for Christmas decorations （用作圣诞节饰物的）冬青树枝.",
+    "phonetic": "/ ˈhɒlɪ; ˈhɑːlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "冬青（常绿灌木；叶尖而硬；有光泽；冬季结红色浆果）；（用作圣诞节饰物的）冬青树枝"
+    ],
+    "pronunciation": "/ ˈhɒlɪ; ˈhɑːlɪ/",
+    "accepted_answers": [
+      "冬青（常绿灌木",
+      "叶尖而硬",
+      "有光泽",
+      "冬季结红色浆果）",
+      "（用作圣诞节饰物的）冬青树枝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hollyhock",
+    "type": "word",
+    "pos": "N",
+    "translation": "蜀葵（高株园艺植物；花鲜艳）；见附录；插图",
+    "analysis": "n tall garden plant with brightly coloured flowers 蜀葵（高株园艺植物, 花鲜艳）. =>illus at App 1 见附录1插图, page ii.",
+    "phonetic": "/ ˈhɒlɪhɒk; ˈhɑːlɪˌhɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "蜀葵（高株园艺植物；花鲜艳）；见附录；插图"
+    ],
+    "pronunciation": "/ ˈhɒlɪhɒk; ˈhɑːlɪˌhɑːk/",
+    "accepted_answers": [
+      "蜀葵（高株园艺植物",
+      "花鲜艳）",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "holm-oak",
+    "type": "word",
+    "pos": "N",
+    "translation": "holm-oak",
+    "analysis": "n = ilex 2.",
+    "phonetic": "/ ˈhəʊməʊk; ˈhomok/",
+    "origin": "待查",
+    "expansions": [
+      "holm-oak"
+    ],
+    "pronunciation": "/ ˈhəʊməʊk; ˈhomok/",
+    "accepted_answers": [
+      "holm-oak"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "holocaust",
     "type": "word",
     "translation": "大规模的毁灭（尤指由火灾造成的）；大批的人的死亡；惧怕核灾难",
@@ -8758,6 +12685,102 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hologram",
+    "type": "word",
+    "pos": "N",
+    "translation": "物)；全息图；全息照相",
+    "analysis": "n (physics 物) photographic representation that gives a three-dimensional image when suitably lit 全息图; 全息照相.",
+    "phonetic": "/ ˈhɒləgræm; ˈhɑːləˌgræm/",
+    "origin": "待查",
+    "expansions": [
+      "物)；全息图；全息照相"
+    ],
+    "pronunciation": "/ ˈhɒləgræm; ˈhɑːləˌgræm/",
+    "accepted_answers": [
+      "物)",
+      "全息图",
+      "全息照相"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "holograph",
+    "type": "word",
+    "pos": "N",
+    "translation": "亲笔文件",
+    "analysis": "n document that is handwritten by the author 亲笔文件.",
+    "phonetic": "/ ˈhɒləgrɑː:f; -græf; ˈhɑːləˌgræf/",
+    "origin": "待查",
+    "expansions": [
+      "亲笔文件"
+    ],
+    "pronunciation": "/ ˈhɒləgrɑː:f; -græf; ˈhɑːləˌgræf/",
+    "accepted_answers": [
+      "亲笔文件"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hols",
+    "type": "word",
+    "pos": "word",
+    "translation": "口)；)假期",
+    "analysis": "(Brit infml 口) holidays (holiday 1b) 假期.",
+    "phonetic": "/ hɒlz; hɑːlz/",
+    "origin": "待查",
+    "expansions": [
+      "口)；)假期"
+    ],
+    "pronunciation": "/ hɒlz; hɑːlz/",
+    "accepted_answers": [
+      "口)",
+      ")假期"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "holster",
+    "type": "word",
+    "pos": "N",
+    "translation": "（手枪的）皮套（通常固定於腰带或鞍子上）；插图",
+    "analysis": "n leather case for a pistol, usu fixed to a belt or saddle （手枪的）皮套（通常固定於腰带或鞍子上）. =>illus at gun 见gun插图.",
+    "phonetic": "/ ˈhəʊlstə(r); ˈholstə/",
+    "origin": "待查",
+    "expansions": [
+      "（手枪的）皮套（通常固定於腰带或鞍子上）；插图"
+    ],
+    "pronunciation": "/ ˈhəʊlstə(r); ˈholstə/",
+    "accepted_answers": [
+      "（手枪的）皮套（通常固定於腰带或鞍子上）",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "holy",
@@ -8810,6 +12833,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "homburg",
+    "type": "word",
+    "pos": "N",
+    "translation": "洪堡毡帽（男用软毡帽；帽边狭窄呈卷形；帽顶有纵向凹坑）",
+    "analysis": "n man's soft felt hat with a narrow curled brim and a lengthwise dent in the top 洪堡毡帽（男用软毡帽, 帽边狭窄呈卷形, 帽顶有纵向凹坑）.",
+    "phonetic": "/ ˈhɒmbɜːg; ˈhɑːmbɜːg/",
+    "origin": "待查",
+    "expansions": [
+      "洪堡毡帽（男用软毡帽；帽边狭窄呈卷形；帽顶有纵向凹坑）"
+    ],
+    "pronunciation": "/ ˈhɒmbɜːg; ˈhɑːmbɜːg/",
+    "accepted_answers": [
+      "洪堡毡帽（男用软毡帽",
+      "帽边狭窄呈卷形",
+      "帽顶有纵向凹坑）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "home",
@@ -8887,6 +12935,30 @@
     }
   },
   {
+    "term": "homeric",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "荷马史诗的；荷马史诗中的人物的",
+    "analysis": "adj of the writings or heroes of Homer 荷马史诗的; 荷马史诗中的人物的.",
+    "phonetic": "/ həʊˈmerɪk; hoˈmerɪk/",
+    "origin": "待查",
+    "expansions": [
+      "荷马史诗的；荷马史诗中的人物的"
+    ],
+    "pronunciation": "/ həʊˈmerɪk; hoˈmerɪk/",
+    "accepted_answers": [
+      "荷马史诗的",
+      "荷马史诗中的人物的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "homestead",
     "type": "word",
     "translation": "包括周围土地及附属房屋的家宅；（尤指）带农场的家宅；国家分给个人定居并进行开垦的土地",
@@ -8961,6 +13033,30 @@
     }
   },
   {
+    "term": "homey",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；口)",
+    "analysis": "adj (-mier, -miest) (US infml 口) = homy.",
+    "phonetic": "/ ˈhəʊmɪ; ˈhomɪ/",
+    "origin": "待查",
+    "expansions": [
+      ")(；口)"
+    ],
+    "pronunciation": "/ ˈhəʊmɪ; ˈhomɪ/",
+    "accepted_answers": [
+      ")(",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "homicidal",
     "type": "word",
     "translation": "杀人的；有杀人的倾向；杀人狂",
@@ -9006,6 +13102,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "homiletic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "homiletic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌhɒmɪˈletɪk; ˌhɑːməˈletɪk/",
+    "origin": "待查",
+    "expansions": [
+      "homiletic"
+    ],
+    "pronunciation": "/ ˌhɒmɪˈletɪk; ˌhɑːməˈletɪk/",
+    "accepted_answers": [
+      "homiletic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "homily",
@@ -9059,6 +13178,53 @@
     }
   },
   {
+    "term": "homo sapiens",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "拉)；智人",
+    "analysis": "(Latin 拉) modern man regarded as a species 智人.",
+    "phonetic": "/ ˌhəʊməʊˈsæpɪenz; ˌhomoˈsæpɪenz/",
+    "origin": "待查",
+    "expansions": [
+      "拉)；智人"
+    ],
+    "pronunciation": "/ ˌhəʊməʊˈsæpɪenz; ˌhomoˈsæpɪenz/",
+    "accepted_answers": [
+      "拉)",
+      "智人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "homoeopath",
+    "type": "word",
+    "pos": "N",
+    "translation": "采用顺势疗法的医生",
+    "analysis": "n person who practises homoeopathy 采用顺势疗法的医生.",
+    "phonetic": "/ ˈhəʊmɪəpæθ; ˈhomɪəˌpæθ/",
+    "origin": "待查",
+    "expansions": [
+      "采用顺势疗法的医生"
+    ],
+    "pronunciation": "/ ˈhəʊmɪəpæθ; ˈhomɪəˌpæθ/",
+    "accepted_answers": [
+      "采用顺势疗法的医生"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "homoeopathic",
     "type": "word",
     "translation": "顺势疗法、顺势治疗、顺势治疗所用的药物",
@@ -9080,6 +13246,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "homoeopathy",
+    "type": "word",
+    "pos": "N",
+    "translation": "顺势疗法",
+    "analysis": "n [U] treatment of a disease by very small amounts of drugs that, if given to a healthy person, would produce symptoms like those of the disease itself 顺势疗法.",
+    "phonetic": "/ ˌhəʊmɪˈɒpəθɪ; ˌhomɪˈɑːpəθɪ/",
+    "origin": "待查",
+    "expansions": [
+      "顺势疗法"
+    ],
+    "pronunciation": "/ ˌhəʊmɪˈɒpəθɪ; ˌhomɪˈɑːpəθɪ/",
+    "accepted_answers": [
+      "顺势疗法"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "homogeneity",
@@ -9120,6 +13309,30 @@
     "accepted_answers": [
       "由同类部分组成的",
       "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "homogenise",
+    "type": "word",
+    "pos": "V",
+    "translation": "对（牛奶）作均质处理（将脂肪微粒搅碎使奶油分布均匀）；使（某物）成分均匀",
+    "analysis": "v [Tn]  1 treat (milk) so that the particles of fat are broken down and the cream is blended with the rest 对（牛奶）作均质处理（将脂肪微粒搅碎使奶油分布均匀）.  2 make (sth) homogeneous 使（某物）成分均匀.",
+    "phonetic": "/ həˈmɒdʒənaɪz; həˈmɑːdʒəˌnaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "对（牛奶）作均质处理（将脂肪微粒搅碎使奶油分布均匀）；使（某物）成分均匀"
+    ],
+    "pronunciation": "/ həˈmɒdʒənaɪz; həˈmɑːdʒəˌnaɪz/",
+    "accepted_answers": [
+      "对（牛奶）作均质处理（将脂肪微粒搅碎使奶油分布均匀）",
+      "使（某物）成分均匀"
     ],
     "added_at": "",
     "review": {
@@ -9178,6 +13391,30 @@
     "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
+    "term": "homonym",
+    "type": "word",
+    "pos": "N",
+    "translation": "同形同音异义词（写法和读音相同而意义不同者）；如",
+    "analysis": "n word spelt and pronounced like another word but with a different meaning 同形同音异义词（写法和读音相同而意义不同者）, 如 see1, see2.",
+    "phonetic": "/ ˈhɒmənɪm; ˈhɑːməˌnɪm/",
+    "origin": "待查",
+    "expansions": [
+      "同形同音异义词（写法和读音相同而意义不同者）；如"
+    ],
+    "pronunciation": "/ ˈhɒmənɪm; ˈhɑːməˌnɪm/",
+    "accepted_answers": [
+      "同形同音异义词（写法和读音相同而意义不同者）",
+      "如"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "homophone",
     "type": "word",
     "translation": "同音异义词；同音异形词（读音相同而意义或写法不同者）；如",
@@ -9223,6 +13460,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "homosexuality",
+    "type": "word",
+    "pos": "N",
+    "translation": "同性恋",
+    "analysis": "n [U] condition of being homosexual 同性恋.",
+    "phonetic": "/ ˌhɒməsekʃUˈælətɪ; ˌhoməˌsekʃJˈælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "同性恋"
+    ],
+    "pronunciation": "/ ˌhɒməsekʃUˈælətɪ; ˌhoməˌsekʃJˈælətɪ/",
+    "accepted_answers": [
+      "同性恋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "homy",
@@ -9395,6 +13655,56 @@
     }
   },
   {
+    "term": "honeydew",
+    "type": "word",
+    "pos": "N",
+    "translation": "树蜜（树叶和树茎在天气炎热时分泌的带甜味的黏汁）；蜜瓜；白兰瓜",
+    "analysis": "n [U] sweet sticky substance found on leaves and stems in hot weather 树蜜（树叶和树茎在天气炎热时分泌的带甜味的黏汁）.\nhoneydew melon \ncultivated variety of melon with pale skin and sweet green flesh 蜜瓜; 白兰瓜.",
+    "phonetic": "/ ˈhʌnɪdjuː; ˈhʌnɪˌdju/",
+    "origin": "待查",
+    "expansions": [
+      "树蜜（树叶和树茎在天气炎热时分泌的带甜味的黏汁）；蜜瓜；白兰瓜"
+    ],
+    "pronunciation": "/ ˈhʌnɪdjuː; ˈhʌnɪˌdju/",
+    "accepted_answers": [
+      "树蜜（树叶和树茎在天气炎热时分泌的带甜味的黏汁）",
+      "蜜瓜",
+      "白兰瓜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "honeyed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指词语）亲切而讨好的；甜言蜜语的；蜜蜂",
+    "analysis": "adj (of words) sentimentaland flattering （指词语）亲切而讨好的; 甜言蜜语的.\nhoney-bee \nn ordinary type of bee that lives in hives 蜜蜂.",
+    "phonetic": "/ ˈhʌnɪd; ˈhʌnɪd/",
+    "origin": "待查",
+    "expansions": [
+      "（指词语）亲切而讨好的；甜言蜜语的；蜜蜂"
+    ],
+    "pronunciation": "/ ˈhʌnɪd; ˈhʌnɪd/",
+    "accepted_answers": [
+      "（指词语）亲切而讨好的",
+      "甜言蜜语的",
+      "蜜蜂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "honeymoon",
     "type": "word",
     "translation": "蜜月；他们去意大利度蜜月；我们正在度蜜月",
@@ -9418,6 +13728,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "honeysuckle",
+    "type": "word",
+    "pos": "N",
+    "translation": "忍冬（蔓生灌木；开黄色或粉红色的花；气味芳香）",
+    "analysis": "n [U] climbing shrub with sweet-smelling yellow or pink flowers 忍冬（蔓生灌木, 开黄色或粉红色的花, 气味芳香）.",
+    "phonetic": "/ ˈhʌnɪsʌkl; ˈhʌnɪˌsʌkl/",
+    "origin": "待查",
+    "expansions": [
+      "忍冬（蔓生灌木；开黄色或粉红色的花；气味芳香）"
+    ],
+    "pronunciation": "/ ˈhʌnɪsʌkl; ˈhʌnɪˌsʌkl/",
+    "accepted_answers": [
+      "忍冬（蔓生灌木",
+      "开黄色或粉红色的花",
+      "气味芳香）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "honk",
@@ -9467,6 +13802,30 @@
     }
   },
   {
+    "term": "honorarium",
+    "type": "word",
+    "pos": "N",
+    "translation": "（自愿赠予的）酬金；谢礼",
+    "analysis": "n (pl ~s) voluntary payment made for professional services for which a fee is not normally paid or required by law （自愿赠予的）酬金, 谢礼.",
+    "phonetic": "/ ˌɒnəˈreərɪəm; ˌɑːnəˈrerɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "（自愿赠予的）酬金；谢礼"
+    ],
+    "pronunciation": "/ ˌɒnəˈreərɪəm; ˌɑːnəˈrerɪəm/",
+    "accepted_answers": [
+      "（自愿赠予的）酬金",
+      "谢礼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "honorary",
     "type": "word",
     "translation": "（指学位、级别等）荣誉的；被授予荣誉博士学位、头衔；称谓中作",
@@ -9491,6 +13850,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "honorific",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "表示敬意的（用语）；（尤指东方语言中的）敬语（的）",
+    "analysis": "n, adj (expression) indicating respect for the person being addressed, esp in Oriental languages 表示敬意的（用语）; （尤指东方语言中的）敬语（的）.",
+    "phonetic": "/ ˌɒnəˈrɪfɪk; ˌɑːnəˈrɪfɪk/",
+    "origin": "待查",
+    "expansions": [
+      "表示敬意的（用语）；（尤指东方语言中的）敬语（的）"
+    ],
+    "pronunciation": "/ ˌɒnəˈrɪfɪk; ˌɑːnəˈrɪfɪk/",
+    "accepted_answers": [
+      "表示敬意的（用语）",
+      "（尤指东方语言中的）敬语（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "honour",
@@ -9617,6 +14000,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hooch",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)(；（尤指便宜的或非法酿造的）酒",
+    "analysis": "n [U] (US infml 口) (esp cheap or illegally made) alcoholic liquor （尤指便宜的或非法酿造的）酒.",
+    "phonetic": "/ huːtʃ; hutʃ/",
+    "origin": "待查",
+    "expansions": [
+      "口)(；（尤指便宜的或非法酿造的）酒"
+    ],
+    "pronunciation": "/ huːtʃ; hutʃ/",
+    "accepted_answers": [
+      "口)(",
+      "（尤指便宜的或非法酿造的）酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hood",
@@ -9795,6 +14202,53 @@
     }
   },
   {
+    "term": "hookah",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指阿拉伯国家用的）水烟袋",
+    "analysis": "(also hubble-bubble) n pipe used esp in Arab countries for smoking tobacco, with a long flexible tube to a container of water which cools the smoke as it is drawn through it （尤指阿拉伯国家用的）水烟袋.",
+    "phonetic": "/ ˈhUkə; ˈhJkə/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指阿拉伯国家用的）水烟袋"
+    ],
+    "pronunciation": "/ ˈhUkə; ˈhJkə/",
+    "accepted_answers": [
+      "（尤指阿拉伯国家用的）水烟袋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hooker",
+    "type": "word",
+    "pos": "N",
+    "translation": "妓女；（橄榄球并列争球时位於前排的）钩射队员",
+    "analysis": "n  1 (sl 俚 esp US) prostitute 妓女.  2 player in the front row of a scrum in Rugby football, who tries to hook2(4) the ball （橄榄球并列争球时位於前排的）钩射队员.",
+    "phonetic": "/ ˈhUkə(r); ˈhJkə/",
+    "origin": "待查",
+    "expansions": [
+      "妓女；（橄榄球并列争球时位於前排的）钩射队员"
+    ],
+    "pronunciation": "/ ˈhUkə(r); ˈhJkə/",
+    "accepted_answers": [
+      "妓女",
+      "（橄榄球并列争球时位於前排的）钩射队员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hookey",
     "type": "word",
     "pos": "N",
@@ -9867,6 +14321,29 @@
     }
   },
   {
+    "term": "hooliganism",
+    "type": "word",
+    "pos": "N",
+    "translation": "hooliganism",
+    "analysis": "n [U].",
+    "phonetic": "/ -ɪzəm; -ˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "hooliganism"
+    ],
+    "pronunciation": "/ -ɪzəm; -ˌɪzəm/",
+    "accepted_answers": [
+      "hooliganism"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hoop",
     "type": "word",
     "translation": "（木头、金属等做的）箍；圈；环；加有铁箍的桶；（马戏团中供骑手或动物穿越的）大圈",
@@ -9893,6 +14370,29 @@
     }
   },
   {
+    "term": "hoop-la",
+    "type": "word",
+    "pos": "N",
+    "translation": "投环套物游戏（套中则获得该物）",
+    "analysis": "n [U] game in which players try to throw rings over objects in order to win them as prizes 投环套物游戏（套中则获得该物）.",
+    "phonetic": "/ ˈhuːplɑː:; ˈhupˌlɑː/",
+    "origin": "待查",
+    "expansions": [
+      "投环套物游戏（套中则获得该物）"
+    ],
+    "pronunciation": "/ ˈhuːplɑː:; ˈhupˌlɑː/",
+    "accepted_answers": [
+      "投环套物游戏（套中则获得该物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hoopoe",
     "type": "word",
     "pos": "N",
@@ -9908,6 +14408,29 @@
       "戴胜（鸟名",
       "有大的扇状冠",
       "翼部及尾部的羽毛带有条纹）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hooray",
+    "type": "word",
+    "pos": "word",
+    "translation": "hooray",
+    "analysis": "interj = hurrah.",
+    "phonetic": "/ hUˈreɪ; hJˈre/",
+    "origin": "待查",
+    "expansions": [
+      "hooray"
+    ],
+    "pronunciation": "/ hUˈreɪ; hJˈre/",
+    "accepted_answers": [
+      "hooray"
     ],
     "added_at": "",
     "review": {
@@ -10126,6 +14649,30 @@
     "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
+    "term": "hopscotch",
+    "type": "word",
+    "pos": "N",
+    "translation": "跳房子；跳间（一种儿童游戏）",
+    "analysis": "n [U] children's game of hopping into and over squares marked on the ground in order to retrieve a stone thrown into one of these squares 跳房子, 跳间（一种儿童游戏）.",
+    "phonetic": "/ ˈhɒpskɒtʃ; ˈhɑːpˌskɑːtʃ/",
+    "origin": "待查",
+    "expansions": [
+      "跳房子；跳间（一种儿童游戏）"
+    ],
+    "pronunciation": "/ ˈhɒpskɒtʃ; ˈhɑːpˌskɑːtʃ/",
+    "accepted_answers": [
+      "跳房子",
+      "跳间（一种儿童游戏）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "horde",
     "type": "word",
     "translation": "有时作贬义)；大群；大帮（尤指人）；人群",
@@ -10202,6 +14749,30 @@
     }
   },
   {
+    "term": "hormonal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "激素的；荷尔蒙的",
+    "analysis": "adj of a hormone or hormones 激素的; 荷尔蒙的.",
+    "phonetic": "/ hɔːˈməʊnl; hɔːrˈmonl/",
+    "origin": "待查",
+    "expansions": [
+      "激素的；荷尔蒙的"
+    ],
+    "pronunciation": "/ hɔːˈməʊnl; hɔːrˈmonl/",
+    "accepted_answers": [
+      "激素的",
+      "荷尔蒙的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "horn",
     "type": "word",
     "translation": "（牛、鹿、羊等动物的）角；插图；角质",
@@ -10230,6 +14801,33 @@
     }
   },
   {
+    "term": "hornbeam",
+    "type": "word",
+    "pos": "N",
+    "translation": "鹅耳枥（树；皮光滑；灰色；木质坚韧；常用以构筑树篱）",
+    "analysis": "n type of tree with smooth grey bark and hard tough wood, often used in hedges 鹅耳枥（树, 皮光滑, 灰色, 木质坚韧, 常用以构筑树篱）.",
+    "phonetic": "/ ˈhɔːnbiːm; ˈhɔːrnˌbim/",
+    "origin": "待查",
+    "expansions": [
+      "鹅耳枥（树；皮光滑；灰色；木质坚韧；常用以构筑树篱）"
+    ],
+    "pronunciation": "/ ˈhɔːnbiːm; ˈhɔːrnˌbim/",
+    "accepted_answers": [
+      "鹅耳枥（树",
+      "皮光滑",
+      "灰色",
+      "木质坚韧",
+      "常用以构筑树篱）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hornet",
     "type": "word",
     "translation": "大黄蜂；马蜂；习语)",
@@ -10251,6 +14849,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hornpipe",
+    "type": "word",
+    "pos": "N",
+    "translation": "角笛舞；角笛舞曲",
+    "analysis": "n  1 lively dance usu performed by one person and traditionally associated with sailors 角笛舞.  2 music for such a dance 角笛舞曲.",
+    "phonetic": "/ ˈhɔːnpaɪp; ˈhɔːrnˌpaɪp/",
+    "origin": "待查",
+    "expansions": [
+      "角笛舞；角笛舞曲"
+    ],
+    "pronunciation": "/ ˈhɔːnpaɪp; ˈhɔːrnˌpaɪp/",
+    "accepted_answers": [
+      "角笛舞",
+      "角笛舞曲"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "horoscope",
@@ -10496,6 +15118,30 @@
     }
   },
   {
+    "term": "hors-d'oeuvre",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数或不变或作；（餐前的）开胃小吃",
+    "analysis": "n (pl unchanged or -d'oeuvres 复数或不变或作 hors-d'oeuvres) food served at the beginning of a meal as an appetizer （餐前的）开胃小吃.",
+    "phonetic": "/ ˌɔːˈdɜːvrə; -ˈdɜːv; ɔːrˈdɜːv/",
+    "origin": "待查",
+    "expansions": [
+      "复数或不变或作；（餐前的）开胃小吃"
+    ],
+    "pronunciation": "/ ˌɔːˈdɜːvrə; -ˈdɜːv; ɔːrˈdɜːv/",
+    "accepted_answers": [
+      "复数或不变或作",
+      "（餐前的）开胃小吃"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "horse",
     "type": "word",
     "translation": "见插图；参看；（未阉过的）成年公马",
@@ -10641,6 +15287,77 @@
     }
   },
   {
+    "term": "horticulture",
+    "type": "word",
+    "pos": "N",
+    "translation": "园艺；园艺学",
+    "analysis": "n [U] art of growing flowers, fruit and vegetables; gardening 园艺; 园艺学.",
+    "phonetic": "/ ˈhɔːtɪkʌltʃə(r); ˈhɔːrtɪˌkʌltʃə/",
+    "origin": "待查",
+    "expansions": [
+      "园艺；园艺学"
+    ],
+    "pronunciation": "/ ˈhɔːtɪkʌltʃə(r); ˈhɔːrtɪˌkʌltʃə/",
+    "accepted_answers": [
+      "园艺",
+      "园艺学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "horticulturist",
+    "type": "word",
+    "pos": "word",
+    "translation": "园艺家；园艺学家",
+    "analysis": "personwho practises horticulture; skilled gardener 园艺家; 园艺学家.",
+    "phonetic": "/ ˌhɔːtɪˈkʌltʃərɪst; ˌhɔːrtɪˈkʌltʃərɪst/",
+    "origin": "待查",
+    "expansions": [
+      "园艺家；园艺学家"
+    ],
+    "pronunciation": "/ ˌhɔːtɪˈkʌltʃərɪst; ˌhɔːrtɪˈkʌltʃərɪst/",
+    "accepted_answers": [
+      "园艺家",
+      "园艺学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hosanna",
+    "type": "word",
+    "pos": "N",
+    "translation": "和散那（赞美和崇敬上帝的呼喊声）",
+    "analysis": "interj, n shout of praise and worship to God 和散那（赞美和崇敬上帝的呼喊声）.",
+    "phonetic": "/ həʊˈzænə; hoˈzænə/",
+    "origin": "待查",
+    "expansions": [
+      "和散那（赞美和崇敬上帝的呼喊声）"
+    ],
+    "pronunciation": "/ həʊˈzænə; hoˈzænə/",
+    "accepted_answers": [
+      "和散那（赞美和崇敬上帝的呼喊声）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hose",
     "type": "word",
     "translation": "软管（橡皮、塑料或帆布制成；用以输水救火、浇花等）；一段软管；消防队员用水龙向失火的建筑物喷水",
@@ -10668,6 +15385,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hosier",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧或文)；卖袜子的商人",
+    "analysis": "n (dated or fml 旧或文) person who sells stockings and socks 卖袜子的商人.",
+    "phonetic": "/ ˈhəʊzɪə(r); -ʒər; ˈhoʒə/",
+    "origin": "待查",
+    "expansions": [
+      "旧或文)；卖袜子的商人"
+    ],
+    "pronunciation": "/ ˈhəʊzɪə(r); -ʒər; ˈhoʒə/",
+    "accepted_answers": [
+      "旧或文)",
+      "卖袜子的商人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hosiery",
@@ -10740,6 +15481,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hospitably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hospitably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hospitably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "hospitably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hospital",
@@ -11107,6 +15871,30 @@
     }
   },
   {
+    "term": "hotelier",
+    "type": "word",
+    "pos": "N",
+    "translation": "旅馆老板；旅馆经理",
+    "analysis": "n person who owns or manages a hotel 旅馆老板; 旅馆经理.",
+    "phonetic": "/ həʊˈtelɪə(r),-lɪeɪ; ˌhəʊtelˈjeɪ; ˌhotelˈje/",
+    "origin": "待查",
+    "expansions": [
+      "旅馆老板；旅馆经理"
+    ],
+    "pronunciation": "/ həʊˈtelɪə(r),-lɪeɪ; ˌhəʊtelˈjeɪ; ˌhotelˈje/",
+    "accepted_answers": [
+      "旅馆老板",
+      "旅馆经理"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "hound",
     "type": "word",
     "translation": "猎犬；猎狐狗；这些猎犬失去了狐狸的臭迹",
@@ -11156,6 +15944,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "houri",
+    "type": "word",
+    "pos": "N",
+    "translation": "（伊斯兰教）天堂的美女",
+    "analysis": "n beautiful young woman of the Muslim paradise （伊斯兰教）天堂的美女.",
+    "phonetic": "/ ˈhUərɪ; ˈhJrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（伊斯兰教）天堂的美女"
+    ],
+    "pronunciation": "/ ˈhUərɪ; ˈhJrɪ/",
+    "accepted_answers": [
+      "（伊斯兰教）天堂的美女"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hourly",
@@ -11283,6 +16094,31 @@
     }
   },
   {
+    "term": "housewifery",
+    "type": "word",
+    "pos": "N",
+    "translation": "家务；家政；家务劳动（如打扫卫生和烹调食品）",
+    "analysis": "n [U] work of a housewife 家务; 家政.\nhousework \nn [U] work done in a house, eg cleaning and cooking 家务劳动（如打扫卫生和烹调食品）.",
+    "phonetic": "/ -wɪfərɪ; -ˌwaɪfrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "家务；家政；家务劳动（如打扫卫生和烹调食品）"
+    ],
+    "pronunciation": "/ -wɪfərɪ; -ˌwaɪfrɪ/",
+    "accepted_answers": [
+      "家务",
+      "家政",
+      "家务劳动（如打扫卫生和烹调食品）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "housing",
     "type": "word",
     "translation": "房屋、住宅等（总称）；住处；需要为老年人提供更多的住宅",
@@ -11306,6 +16142,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hovel",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；不适於居住的小屋；简陋肮脏的住所",
+    "analysis": "n (derog 贬) small house that is unfit to live in; very poor and squalid dwelling 不适於居住的小屋; 简陋肮脏的住所.",
+    "phonetic": "/ ˈhɒvl; ˈhʌvl; ˈhʌvl/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；不适於居住的小屋；简陋肮脏的住所"
+    ],
+    "pronunciation": "/ ˈhɒvl; ˈhʌvl; ˈhʌvl/",
+    "accepted_answers": [
+      "贬)",
+      "不适於居住的小屋",
+      "简陋肮脏的住所"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hover",
@@ -11411,6 +16272,29 @@
     }
   },
   {
+    "term": "howitzer",
+    "type": "word",
+    "pos": "N",
+    "translation": "榴弹炮",
+    "analysis": "n short gun for firing shells at a high angle and at short range 榴弹炮.",
+    "phonetic": "/ ˈhaUɪtsə(r); ˈhaJɪtsə/",
+    "origin": "待查",
+    "expansions": [
+      "榴弹炮"
+    ],
+    "pronunciation": "/ ˈhaUɪtsə(r); ˈhaJɪtsə/",
+    "accepted_answers": [
+      "榴弹炮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "howl",
     "type": "word",
     "translation": "（狗、狼等的）尖利的长嚎；叫；（表示疼痛、轻蔑、高兴等的）高声叫喊；发出狂笑、哀号、怒吼声",
@@ -11488,6 +16372,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hoyden",
+    "type": "word",
+    "pos": "N",
+    "translation": "文；贬)；撒野的女孩子；胡闹的姑娘",
+    "analysis": "n (fml derog 文, 贬) girl who behaves in a wild noisy manner 撒野的女孩子; 胡闹的姑娘.",
+    "phonetic": "/ ˈhɔːɪdn; ˈhɔːɪdn/",
+    "origin": "待查",
+    "expansions": [
+      "文；贬)；撒野的女孩子；胡闹的姑娘"
+    ],
+    "pronunciation": "/ ˈhɔːɪdn; ˈhɔːɪdn/",
+    "accepted_answers": [
+      "文",
+      "贬)",
+      "撒野的女孩子",
+      "胡闹的姑娘"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "hoydenish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "hoydenish",
+    "analysis": "adj.",
+    "phonetic": "/ -dənɪʃ; -dənɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "hoydenish"
+    ],
+    "pronunciation": "/ -dənɪʃ; -dənɪʃ/",
+    "accepted_answers": [
+      "hoydenish"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-j,k,l,m,n,o.txt"
   },
   {
     "term": "hp",
@@ -11624,6 +16557,101 @@
       "喧嚷",
       "喧闹",
       "嘈杂声"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hubby",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；丈夫",
+    "analysis": "n (Brit infml 口) husband 丈夫.",
+    "phonetic": "/ ˈhʌbɪ; ˈhʌbɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；丈夫"
+    ],
+    "pronunciation": "/ ˈhʌbɪ; ˈhʌbɪ/",
+    "accepted_answers": [
+      "口)",
+      "丈夫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hubris",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；傲慢",
+    "analysis": "n [U] (fml 文) arrogant pride 傲慢.",
+    "phonetic": "/ ˈhjuːbrɪs; ˈhjubrɪs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；傲慢"
+    ],
+    "pronunciation": "/ ˈhjuːbrɪs; ˈhjubrɪs/",
+    "accepted_answers": [
+      "文)",
+      "傲慢"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "huckleberry",
+    "type": "word",
+    "pos": "N",
+    "translation": "越橘树（北美常见的灌木）；越橘（越橘树的深蓝色小浆果）",
+    "analysis": "n  1 low shrub common in N America 越橘树（北美常见的灌木）.  2 its small dark-blue berry 越橘（越橘树的深蓝色小浆果）.",
+    "phonetic": "/ ˈhʌklbərɪ; -berɪ; ˈhʌklˌberɪ/",
+    "origin": "待查",
+    "expansions": [
+      "越橘树（北美常见的灌木）；越橘（越橘树的深蓝色小浆果）"
+    ],
+    "pronunciation": "/ ˈhʌklbərɪ; -berɪ; ˈhʌklˌberɪ/",
+    "accepted_answers": [
+      "越橘树（北美常见的灌木）",
+      "越橘（越橘树的深蓝色小浆果）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "huckster",
+    "type": "word",
+    "pos": "N",
+    "translation": "沿街叫卖的小贩",
+    "analysis": "n person who sells goods in the street; hawker 沿街叫卖的小贩.",
+    "phonetic": "/ ˈhʌkstə(r); ˈhʌkstə/",
+    "origin": "待查",
+    "expansions": [
+      "沿街叫卖的小贩"
+    ],
+    "pronunciation": "/ ˈhʌkstə(r); ˈhʌkstə/",
+    "accepted_answers": [
+      "沿街叫卖的小贩"
     ],
     "added_at": "",
     "review": {
@@ -11798,6 +16826,54 @@
         }
       ]
     }
+  },
+  {
+    "term": "hugger-mugger",
+    "type": "word",
+    "pos": "Adj / Adv",
+    "translation": ")秘密（的）；混乱（的）；乱糟糟（的）",
+    "analysis": "adj, adv  1 secret(ly) 秘密（的）.  2 confused(ly); in disorder 混乱（的）; 乱糟糟（的）.\nhugger-mugger \nn [U]  1 secrecy 秘密.  2 confusion 混乱.",
+    "phonetic": "/ ˈhʌgəmʌgə(r); ˈhʌgəˌmʌgə/",
+    "origin": "待查",
+    "expansions": [
+      ")秘密（的）；混乱（的）；乱糟糟（的）"
+    ],
+    "pronunciation": "/ ˈhʌgəmʌgə(r); ˈhʌgəˌmʌgə/",
+    "accepted_answers": [
+      ")秘密（的）",
+      "混乱（的）",
+      "乱糟糟（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "huguenot",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时）法国基督教新教徒",
+    "analysis": "n (formerly) French Protestant （旧时）法国基督教新教徒.",
+    "phonetic": "/ ˈhjuːgənəʊ; ˈhjugəˌnɑːt/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时）法国基督教新教徒"
+    ],
+    "pronunciation": "/ ˈhjuːgənəʊ; ˈhjugəˌnɑːt/",
+    "accepted_answers": [
+      "（旧时）法国基督教新教徒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "huh",
@@ -11977,6 +17053,29 @@
     }
   },
   {
+    "term": "humanisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "humanisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌhjuːmənaɪˈzeɪʃn; -nɪˈz-; ˌhjumənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "humanisation"
+    ],
+    "pronunciation": "/ ˌhjuːmənaɪˈzeɪʃn; -nɪˈz-; ˌhjumənəˈzeʃən/",
+    "accepted_answers": [
+      "humanisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "humanise",
     "type": "word",
     "translation": "使（某事物）具有人的属性；将（某事物）人格化；在动画片中人性化了的动物角色",
@@ -12042,6 +17141,29 @@
       "人道主义者",
       "人本主义者",
       "人文主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "humanistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "humanistic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌhjuːməˈnɪstɪk; ˌhjuməˈnɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "humanistic"
+    ],
+    "pronunciation": "/ ˌhjuːməˈnɪstɪk; ˌhjuməˈnɪstɪk/",
+    "accepted_answers": [
+      "humanistic"
     ],
     "added_at": "",
     "review": {
@@ -12120,6 +17242,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "humanization",
+    "type": "word",
+    "pos": "N",
+    "translation": "humanization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌhjuːmənaɪˈzeɪʃn; -nɪˈz-; ˌhjumənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "humanization"
+    ],
+    "pronunciation": "/ ˌhjuːmənaɪˈzeɪʃn; -nɪˈz-; ˌhjumənəˈzeʃən/",
+    "accepted_answers": [
+      "humanization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "humanize",
@@ -12462,6 +17607,30 @@
     }
   },
   {
+    "term": "hummock",
+    "type": "word",
+    "pos": "N",
+    "translation": "小丘；小山",
+    "analysis": "n low hill or hump in the ground; hillock 小丘; 小山.",
+    "phonetic": "/ ˈhʌmək; ˈhʌmək/",
+    "origin": "待查",
+    "expansions": [
+      "小丘；小山"
+    ],
+    "pronunciation": "/ ˈhʌmək; ˈhʌmək/",
+    "accepted_answers": [
+      "小丘",
+      "小山"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "humorist",
     "type": "word",
     "pos": "N",
@@ -12558,6 +17727,79 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "humph",
+    "type": "word",
+    "pos": "word",
+    "translation": "通常为双唇闭拢发出的轻微的哼声；用以表示怀疑或不满)",
+    "analysis": "interj (light grunting sound usu made with the lips closed and used to express doubt or dissatisfaction 通常为双唇闭拢发出的轻微的哼声, 用以表示怀疑或不满).",
+    "phonetic": "/ hʌmpf,həh; hʌmpf/",
+    "origin": "待查",
+    "expansions": [
+      "通常为双唇闭拢发出的轻微的哼声；用以表示怀疑或不满)"
+    ],
+    "pronunciation": "/ hʌmpf,həh; hʌmpf/",
+    "accepted_answers": [
+      "通常为双唇闭拢发出的轻微的哼声",
+      "用以表示怀疑或不满)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "humus",
+    "type": "word",
+    "pos": "N",
+    "translation": "腐殖质",
+    "analysis": "n [U] rich dark organic material formed by the decay of dead leaves, etc and essential to the fertility of soil 腐殖质.",
+    "phonetic": "/ ˌhjuːməs; ˈhjuməs/",
+    "origin": "待查",
+    "expansions": [
+      "腐殖质"
+    ],
+    "pronunciation": "/ ˌhjuːməs; ˈhjuməs/",
+    "accepted_answers": [
+      "腐殖质"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hun",
+    "type": "word",
+    "pos": "N",
+    "translation": "匈奴人；贬；蔑)；德国人",
+    "analysis": "n  1 member of one of the Asiatic peoples who ravaged Europe in the 4th and 5th centuries AD 匈奴人.  2 (derog offensive 贬, 蔑) German 德国人.",
+    "phonetic": "/ hʌn; hʌn/",
+    "origin": "待查",
+    "expansions": [
+      "匈奴人；贬；蔑)；德国人"
+    ],
+    "pronunciation": "/ hʌn; hʌn/",
+    "accepted_answers": [
+      "匈奴人",
+      "贬",
+      "蔑)",
+      "德国人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hunch",
@@ -12658,6 +17900,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hungrily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hungrily",
+    "analysis": "adv.",
+    "phonetic": "/ ˈhʌŋgrəlɪ; ˈhʌŋgrəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hungrily"
+    ],
+    "pronunciation": "/ ˈhʌŋgrəlɪ; ˈhʌŋgrəlɪ/",
+    "accepted_answers": [
+      "hungrily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hungry",
@@ -12786,6 +18051,31 @@
     }
   },
   {
+    "term": "huntsman",
+    "type": "word",
+    "pos": "N",
+    "translation": "猎人；（尤指）猎狐的人；猎狐时管理猎犬的人",
+    "analysis": "n (pl -men / -mEn; -mEn/)  1 man who hunts wild animals, esp foxes 猎人; （尤指）猎狐的人.  2 man in charge of the hounds during a hunt 猎狐时管理猎犬的人.",
+    "phonetic": "/ ˈhʌntsmən; ˈhʌntsmən/",
+    "origin": "待查",
+    "expansions": [
+      "猎人；（尤指）猎狐的人；猎狐时管理猎犬的人"
+    ],
+    "pronunciation": "/ ˈhʌntsmən; ˈhʌntsmən/",
+    "accepted_answers": [
+      "猎人",
+      "（尤指）猎狐的人",
+      "猎狐时管理猎犬的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hurdle",
     "type": "word",
     "translation": "（体育或赛马用的）栏架；跳栏；五弗隆（即；码）跨栏比赛",
@@ -12824,6 +18114,30 @@
     "pronunciation": "/ ˈhɜːdlə(r); ˈhɜːdlə/",
     "accepted_answers": [
       "跨栏运动员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hurdy-gurdy",
+    "type": "word",
+    "pos": "N",
+    "translation": "手摇风琴；口)",
+    "analysis": "n  1 portable musical instrument with a droning sound, played by turning a handle 手摇风琴.  2 (infml 口) = barrel-organ (barrel).",
+    "phonetic": "/ ˈhɜːdɪgɜːdɪ; ˈhɜːdɪˌgɜːdɪ/",
+    "origin": "待查",
+    "expansions": [
+      "手摇风琴；口)"
+    ],
+    "pronunciation": "/ ˈhɜːdɪgɜːdɪ; ˈhɜːdɪˌgɜːdɪ/",
+    "accepted_answers": [
+      "手摇风琴",
+      "口)"
     ],
     "added_at": "",
     "review": {
@@ -12878,6 +18192,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hurly-burly",
+    "type": "word",
+    "pos": "N",
+    "translation": ")骚乱；闹腾",
+    "analysis": "n [U] noisy and energetic activity (esp of many people together) 骚乱; 闹腾.",
+    "phonetic": "/ ˈhɜːlɪbɜːlɪ; ˈhɜːlɪˌbɜːlɪ/",
+    "origin": "待查",
+    "expansions": [
+      ")骚乱；闹腾"
+    ],
+    "pronunciation": "/ ˈhɜːlɪbɜːlɪ; ˈhɜːlɪˌbɜːlɪ/",
+    "accepted_answers": [
+      ")骚乱",
+      "闹腾"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hurrah",
@@ -13004,6 +18342,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hurtfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hurtfully",
+    "analysis": "adv.\nhurtfulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hurtfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "hurtfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hurtle",
@@ -13252,6 +18613,57 @@
     }
   },
   {
+    "term": "hustler",
+    "type": "word",
+    "pos": "N",
+    "translation": ")竭力地（有时以欺诈手段）兜售或获取某物的人；俚)；妓女",
+    "analysis": "n  1 (infml 口 esp US) person who hustles (hustle 4) 竭力地（有时以欺诈手段）兜售或获取某物的人.  2 (US sl 俚) prostitute 妓女; 男妓.",
+    "phonetic": "/ ˈhʌslə(r); ˈhʌslə/",
+    "origin": "待查",
+    "expansions": [
+      ")竭力地（有时以欺诈手段）兜售或获取某物的人；俚)；妓女"
+    ],
+    "pronunciation": "/ ˈhʌslə(r); ˈhʌslə/",
+    "accepted_answers": [
+      ")竭力地（有时以欺诈手段）兜售或获取某物的人",
+      "俚)",
+      "妓女"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hut",
+    "type": "word",
+    "pos": "N",
+    "translation": "简陋的小房子；棚；舍（通常为木头或金属建造的）；参看",
+    "analysis": "n small roughly-built house or shelter, usu made of wood or metal 简陋的小房子, 棚, 舍（通常为木头或金属建造的）. Cf 参看 shed1.",
+    "phonetic": "/ hʌt; hʌt/",
+    "origin": "待查",
+    "expansions": [
+      "简陋的小房子；棚；舍（通常为木头或金属建造的）；参看"
+    ],
+    "pronunciation": "/ hʌt; hʌt/",
+    "accepted_answers": [
+      "简陋的小房子",
+      "棚",
+      "舍（通常为木头或金属建造的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hutch",
     "type": "word",
     "pos": "N",
@@ -13299,6 +18711,31 @@
     }
   },
   {
+    "term": "hyacinth",
+    "type": "word",
+    "pos": "N",
+    "translation": "风信子；见附录；插图",
+    "analysis": "n plant with sweet-smelling bell-shaped flowers, growing from a bulb 风信子. =>illus at App 1 见附录1插图, page ii.\nhyaena\n= hyena.",
+    "phonetic": "/ ˈhaɪəsɪnθ; ˈhaɪəˌsɪnθ/",
+    "origin": "待查",
+    "expansions": [
+      "风信子；见附录；插图"
+    ],
+    "pronunciation": "/ ˈhaɪəsɪnθ; ˈhaɪəˌsɪnθ/",
+    "accepted_answers": [
+      "风信子",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hybrid",
     "type": "word",
     "translation": "杂交生成的动植物；杂种动物；杂交植物",
@@ -13323,6 +18760,84 @@
     }
   },
   {
+    "term": "hybridise",
+    "type": "word",
+    "pos": "V",
+    "translation": "（指动植物）产生杂交品种；杂交；使（动植物）产生杂交品种；使杂交",
+    "analysis": "v  1 [I] (of animals or plants) produce hybrids; interbreed （指动植物）产生杂交品种, 杂交.  2 [Tn] cause (animals or plants) to produce hybrids; cross-breed 使（动植物）产生杂交品种; 使杂交.",
+    "phonetic": "/ -aɪz; -ˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "（指动植物）产生杂交品种；杂交；使（动植物）产生杂交品种；使杂交"
+    ],
+    "pronunciation": "/ -aɪz; -ˌaɪz/",
+    "accepted_answers": [
+      "（指动植物）产生杂交品种",
+      "杂交",
+      "使（动植物）产生杂交品种",
+      "使杂交"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hybridize",
+    "type": "word",
+    "pos": "V",
+    "translation": "（指动植物）产生杂交品种；杂交；使（动植物）产生杂交品种；使杂交",
+    "analysis": "v  1 [I] (of animals or plants) produce hybrids; interbreed （指动植物）产生杂交品种, 杂交.  2 [Tn] cause (animals or plants) to produce hybrids; cross-breed 使（动植物）产生杂交品种; 使杂交.",
+    "phonetic": "/ -aɪz; -ˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "（指动植物）产生杂交品种；杂交；使（动植物）产生杂交品种；使杂交"
+    ],
+    "pronunciation": "/ -aɪz; -ˌaɪz/",
+    "accepted_answers": [
+      "（指动植物）产生杂交品种",
+      "杂交",
+      "使（动植物）产生杂交品种",
+      "使杂交"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hydra",
+    "type": "word",
+    "pos": "N",
+    "translation": "（希腊神话中的）蛇怪（长著许多头；斩去後能重新长出）；比喻)；难以除掉的事物",
+    "analysis": "n  1 (in Greek mythology) snake-like monster with many heads that grew again if they were cut off （希腊神话中的）蛇怪（长著许多头, 斩去後能重新长出）.  2 (fig 比喻) thing that is hard to get rid of; recurring problem 难以除掉的事物; 一再出现的问题.",
+    "phonetic": "/ ˈhaɪdrə; ˈhaɪdrə/",
+    "origin": "待查",
+    "expansions": [
+      "（希腊神话中的）蛇怪（长著许多头；斩去後能重新长出）；比喻)；难以除掉的事物"
+    ],
+    "pronunciation": "/ ˈhaɪdrə; ˈhaɪdrə/",
+    "accepted_answers": [
+      "（希腊神话中的）蛇怪（长著许多头",
+      "斩去後能重新长出）",
+      "比喻)",
+      "难以除掉的事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hydrangea",
     "type": "word",
     "pos": "N",
@@ -13336,6 +18851,30 @@
     "pronunciation": "/ haɪˈdreɪndʒə; haɪˈdrendʒə/",
     "accepted_answers": [
       "绣球花（有白色、粉红色或蓝色大花球）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hydrant",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指街道上的）给水栓；消防栓",
+    "analysis": "n pipe (esp in a street) with a nozzle to which a hose can be attached, for drawing water from a water-main to clean streets, put out fires, etc （尤指街道上的）给水栓, 消防栓.",
+    "phonetic": "/ ˈhaɪdrənt; ˈhaɪdrənt/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指街道上的）给水栓；消防栓"
+    ],
+    "pronunciation": "/ ˈhaɪdrənt; ˈhaɪdrənt/",
+    "accepted_answers": [
+      "（尤指街道上的）给水栓",
+      "消防栓"
     ],
     "added_at": "",
     "review": {
@@ -13369,6 +18908,29 @@
     "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "hydration",
+    "type": "word",
+    "pos": "N",
+    "translation": "hydration",
+    "analysis": "n [U].",
+    "phonetic": "/ haɪˈdreɪʃn; haɪˈdreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "hydration"
+    ],
+    "pronunciation": "/ haɪˈdreɪʃn; haɪˈdreʃən/",
+    "accepted_answers": [
+      "hydration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hydraulic",
     "type": "word",
     "translation": "通过水管流动之水的；用水力驱动的；液压升降机",
@@ -13392,6 +18954,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hydraulically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "水力学",
+    "analysis": "adv.\nhydraulics \nn [sing or pl v] science of using water to produce power 水力学.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "水力学"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "水力学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hydrocarbon",
@@ -13464,6 +19049,29 @@
     "origin": "待查"
   },
   {
+    "term": "hydroelectrically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hydroelectrically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hydroelectrically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "hydroelectrically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hydroelectricity",
     "type": "word",
     "pos": "N",
@@ -13477,6 +19085,103 @@
     "pronunciation": "/ ˌhaɪdrəʊˌɪlekˈtrɪsətɪ; ˌhaɪdroɪˌlekˈtrɪsətɪ/",
     "accepted_answers": [
       "hydroelectricity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hydrofoil",
+    "type": "word",
+    "pos": "N",
+    "translation": "水翼船；水翼",
+    "analysis": "n  1 boat equipped with a device which raises the hull out of the water when the boat is moving, enabling it to travel fast and economically 水翼船.  2 such a device 水翼.",
+    "phonetic": "/ ˈhaɪdrəfɔːɪl; ˈhaɪdrəˌfɔːɪl/",
+    "origin": "待查",
+    "expansions": [
+      "水翼船；水翼"
+    ],
+    "pronunciation": "/ ˈhaɪdrəfɔːɪl; ˈhaɪdrəˌfɔːɪl/",
+    "accepted_answers": [
+      "水翼船",
+      "水翼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hydrogen",
+    "type": "word",
+    "pos": "N",
+    "translation": "化)；见附录；氢弹",
+    "analysis": "n [U] (chemistry 化) gas that has no colour, taste or smell and is the lightest substance known, combining with oxygen to form water 氢. =>App 10 见附录10.\nhydrogen bomb (also H-bomb) \nimmensely powerful type of bomb which explodes when the nuclei of hydrogen atoms fuse 氢弹.\nhydrogen peroxide \n= peroxide 2.",
+    "phonetic": "/ ˈhaɪdrədʒən; ˈhaɪdrədʒən/",
+    "origin": "待查",
+    "expansions": [
+      "化)；见附录；氢弹"
+    ],
+    "pronunciation": "/ ˈhaɪdrədʒən; ˈhaɪdrədʒən/",
+    "accepted_answers": [
+      "化)",
+      "见附录",
+      "氢弹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hydrometer",
+    "type": "word",
+    "pos": "N",
+    "translation": "液体比重计",
+    "analysis": "n scientificinstrument that measures the density of liquids 液体比重计.",
+    "phonetic": "/ ˌhaɪˈdrɒmɪtə(r); haɪˈdrɑːmətə/",
+    "origin": "待查",
+    "expansions": [
+      "液体比重计"
+    ],
+    "pronunciation": "/ ˌhaɪˈdrɒmɪtə(r); haɪˈdrɑːmətə/",
+    "accepted_answers": [
+      "液体比重计"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hydrophobia",
+    "type": "word",
+    "pos": "N",
+    "translation": "恐水（尤指恐水病的症状）；（尤指人患的）恐水病；狂犬病",
+    "analysis": "n [U]  1 abnormal fear of water and of drinking, esp as a symptom of rabies in humans 恐水（尤指恐水病的症状）.  2 rabies, esp in humans （尤指人患的）恐水病, 狂犬病.",
+    "phonetic": "/ ˌhaɪdrəˈfəʊbɪə; ˌhaɪdrəˈfobɪə/",
+    "origin": "待查",
+    "expansions": [
+      "恐水（尤指恐水病的症状）；（尤指人患的）恐水病；狂犬病"
+    ],
+    "pronunciation": "/ ˌhaɪdrəˈfəʊbɪə; ˌhaɪdrəˈfobɪə/",
+    "accepted_answers": [
+      "恐水（尤指恐水病的症状）",
+      "（尤指人患的）恐水病",
+      "狂犬病"
     ],
     "added_at": "",
     "review": {
@@ -13536,6 +19241,55 @@
     "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "hydrotherapy",
+    "type": "word",
+    "pos": "N",
+    "translation": "水疗法",
+    "analysis": "n [U] treatment of disease and abnormal physical conditions by exercising the body in water and applying water internally 水疗法.",
+    "phonetic": "/ ˌhaɪdrəʊˈθerəpɪ; ˌhaɪdrəˈθerəpɪ/",
+    "origin": "待查",
+    "expansions": [
+      "水疗法"
+    ],
+    "pronunciation": "/ ˌhaɪdrəʊˈθerəpɪ; ˌhaɪdrəˈθerəpɪ/",
+    "accepted_answers": [
+      "水疗法"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyena",
+    "type": "word",
+    "pos": "N",
+    "translation": "鬣狗（产於非洲和亚洲；似狼；食肉；叫声似狂笑）",
+    "analysis": "n flesh-eating animal of Africa and Asia, like a wolf, with a howl that sounds like wild laughter 鬣狗（产於非洲和亚洲, 似狼, 食肉, 叫声似狂笑）.",
+    "phonetic": "/ haɪˈiːnə; haɪˈinə/",
+    "origin": "待查",
+    "expansions": [
+      "鬣狗（产於非洲和亚洲；似狼；食肉；叫声似狂笑）"
+    ],
+    "pronunciation": "/ haɪˈiːnə; haɪˈinə/",
+    "accepted_answers": [
+      "鬣狗（产於非洲和亚洲",
+      "似狼",
+      "食肉",
+      "叫声似狂笑）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hygiene",
     "type": "word",
     "translation": "卫生（学）；要经常洗澡以保证个人卫生；请勿在本店吸烟以利健康",
@@ -13581,6 +19335,78 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hygienically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hygienically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hygienically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "hygienically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hymen",
+    "type": "word",
+    "pos": "N",
+    "translation": "解)；处女膜",
+    "analysis": "n (anatomy 解) piece of skin-like tissue partly closing the external opening of the vagina of a virgin girl or woman 处女膜.",
+    "phonetic": "/ ˈhaɪmən; ˈhaɪmən/",
+    "origin": "待查",
+    "expansions": [
+      "解)；处女膜"
+    ],
+    "pronunciation": "/ ˈhaɪmən; ˈhaɪmən/",
+    "accepted_answers": [
+      "解)",
+      "处女膜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hymn",
+    "type": "word",
+    "pos": "N",
+    "translation": "赞美诗；圣歌（尤指基督徒为颂扬上帝而唱的）；唱圣歌赞颂（上帝）",
+    "analysis": "n song of praise, esp one praising God sung by Christians 赞美诗, 圣歌（尤指基督徒为颂扬上帝而唱的）.\nhymn \nv [Tn] praise (God) in hymns 唱圣歌赞颂（上帝）.",
+    "phonetic": "/ hɪm; hɪm/",
+    "origin": "待查",
+    "expansions": [
+      "赞美诗；圣歌（尤指基督徒为颂扬上帝而唱的）；唱圣歌赞颂（上帝）"
+    ],
+    "pronunciation": "/ hɪm; hɪm/",
+    "accepted_answers": [
+      "赞美诗",
+      "圣歌（尤指基督徒为颂扬上帝而唱的）",
+      "唱圣歌赞颂（上帝）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hymnal",
@@ -13633,6 +19459,102 @@
     }
   },
   {
+    "term": "hyperactive",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（尤指儿童）活跃得反常的；多动的",
+    "analysis": "adj(esp of a child) abnormally and excessively active; unable to relax （尤指儿童）活跃得反常的, 多动的.",
+    "phonetic": "/ ˌhaɪpə(r)ˈæktɪv; ˌhaɪpəˈæktɪv/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指儿童）活跃得反常的；多动的"
+    ],
+    "pronunciation": "/ ˌhaɪpə(r)ˈæktɪv; ˌhaɪpəˈæktɪv/",
+    "accepted_answers": [
+      "（尤指儿童）活跃得反常的",
+      "多动的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyperactivity",
+    "type": "word",
+    "pos": "N",
+    "translation": "hyperactivity",
+    "analysis": "n [U]",
+    "phonetic": "/ ˌhaɪpərækˈtɪvətɪ; ˌhaɪpəækˈtɪvətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hyperactivity"
+    ],
+    "pronunciation": "/ ˌhaɪpərækˈtɪvətɪ; ˌhaɪpəækˈtɪvətɪ/",
+    "accepted_answers": [
+      "hyperactivity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyperbola",
+    "type": "word",
+    "pos": "N",
+    "translation": "几)；双曲线；见插图",
+    "analysis": "n (geometry 几) curve produced when a cone is cut by a plane that makes a larger angle with the base than the side of the cone makes 双曲线. =>illus 见插图.",
+    "phonetic": "/ haɪˈpɜːbələ; haɪˈpɜːbələ/",
+    "origin": "待查",
+    "expansions": [
+      "几)；双曲线；见插图"
+    ],
+    "pronunciation": "/ haɪˈpɜːbələ; haɪˈpɜːbələ/",
+    "accepted_answers": [
+      "几)",
+      "双曲线",
+      "见插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyperbole",
+    "type": "word",
+    "pos": "N",
+    "translation": "夸张（修辞手段；如我请来赴宴的人成千上万）",
+    "analysis": "n [U, C] exaggeratedstatement that is made for special effect and is not meant to be taken literally, eg I've invited millions of people to my party 夸张（修辞手段, 如我请来赴宴的人成千上万）.",
+    "phonetic": "/ haɪˈpɜːbəlɪ; haɪˈpɜːbəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "夸张（修辞手段；如我请来赴宴的人成千上万）"
+    ],
+    "pronunciation": "/ haɪˈpɜːbəlɪ; haɪˈpɜːbəlɪ/",
+    "accepted_answers": [
+      "夸张（修辞手段",
+      "如我请来赴宴的人成千上万）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hyperbolic",
     "type": "word",
     "pos": "Adj",
@@ -13646,6 +19568,53 @@
     "pronunciation": "/ ˌhaɪpəˈbɒlɪk; ˌhaɪpəˈbɑːlɪk/",
     "accepted_answers": [
       "hyperbolic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyperbolical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "hyperbolical",
+    "analysis": "adj.",
+    "phonetic": "/ ˌhaɪpəˈbɒlɪkl; ˌhaɪpəˈbɑːlɪkəl/",
+    "origin": "待查",
+    "expansions": [
+      "hyperbolical"
+    ],
+    "pronunciation": "/ ˌhaɪpəˈbɒlɪkl; ˌhaɪpəˈbɑːlɪkəl/",
+    "accepted_answers": [
+      "hyperbolical"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypercritical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "批评苛刻的；（尤指）吹毛求疵的",
+    "analysis": "adj too critical, esp of small faults 批评苛刻的; （尤指）吹毛求疵的.",
+    "phonetic": "/ ˌhaɪpəˈkrɪtɪkl; ˈhaɪpəˈkrɪtɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "批评苛刻的；（尤指）吹毛求疵的"
+    ],
+    "pronunciation": "/ ˌhaɪpəˈkrɪtɪkl; ˈhaɪpəˈkrɪtɪkl/",
+    "accepted_answers": [
+      "批评苛刻的",
+      "（尤指）吹毛求疵的"
     ],
     "added_at": "",
     "review": {
@@ -13679,6 +19648,79 @@
     "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "hypermarket",
+    "type": "word",
+    "pos": "N",
+    "translation": "巨型超级市场（采取自选购物方式；经营范围极广并提供多种服务；如美发等；通常设於城区之外）",
+    "analysis": "n (Brit) very large self-service shop, selling a wide range ofgoods and offering a number of services (eg hairdressing), usu situated outside a town 巨型超级市场（采取自选购物方式, 经营范围极广并提供多种服务, 如美发等, 通常设於城区之外）.",
+    "phonetic": "/ ˈhaɪpəmɑː:kɪt; ˈhaɪpəˌmɑːrkɪt/",
+    "origin": "待查",
+    "expansions": [
+      "巨型超级市场（采取自选购物方式；经营范围极广并提供多种服务；如美发等；通常设於城区之外）"
+    ],
+    "pronunciation": "/ ˈhaɪpəmɑː:kɪt; ˈhaɪpəˌmɑːrkɪt/",
+    "accepted_answers": [
+      "巨型超级市场（采取自选购物方式",
+      "经营范围极广并提供多种服务",
+      "如美发等",
+      "通常设於城区之外）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypersensitive",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（情绪上）过敏的；（对某些药物等）有过敏反应的",
+    "analysis": "adj  1 ~ (to/about sth) extremely sensitive emotionally （情绪上）过敏的.  2 ~ (to sth) abnormally sensitive to certain drugs, etc （对某些药物等）有过敏反应的.",
+    "phonetic": "/ ˌhaɪpəˈsensətɪv; ˌhaɪpəˈsensətɪv/",
+    "origin": "待查",
+    "expansions": [
+      "（情绪上）过敏的；（对某些药物等）有过敏反应的"
+    ],
+    "pronunciation": "/ ˌhaɪpəˈsensətɪv; ˌhaɪpəˈsensətɪv/",
+    "accepted_answers": [
+      "（情绪上）过敏的",
+      "（对某些药物等）有过敏反应的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypersensitivity",
+    "type": "word",
+    "pos": "N",
+    "translation": "hypersensitivity",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌhaɪpəˌsensəˈtɪvətɪ; ˌhaɪpəˌsensəˈtɪvətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hypersensitivity"
+    ],
+    "pronunciation": "/ ˌhaɪpəˌsensəˈtɪvətɪ; ˌhaɪpəˌsensəˈtɪvətɪ/",
+    "accepted_answers": [
+      "hypersensitivity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hypertension",
     "type": "word",
     "pos": "N",
@@ -13694,6 +19736,80 @@
       "医)",
       "高血压",
       "精神过度紧张"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyphen",
+    "type": "word",
+    "pos": "N",
+    "translation": "连接号（）（用以将两词连接为一个复合词；如；中者；或将词分解为其组成之部分；如移行时所见）；见附录",
+    "analysis": "n short line (-) used to join two words together (as in ex-wife; co-operated; long-legged; a ten-dollar bill) or to show that a word has been divided into parts, eg between the end of one line and the beginning of the next 连接号（）（用以将两词连接为一个复合词, 如ex-wife、 co-operated、 long-legged、 a ten-dollar bill中者, 或将词分解为其组成之部分, 如移行时所见）. =>App 3 见附录3.",
+    "phonetic": "/ ˈhaɪfn; ˈhaɪfən/",
+    "origin": "待查",
+    "expansions": [
+      "连接号（）（用以将两词连接为一个复合词；如；中者；或将词分解为其组成之部分；如移行时所见）；见附录"
+    ],
+    "pronunciation": "/ ˈhaɪfn; ˈhaɪfən/",
+    "accepted_answers": [
+      "连接号（）（用以将两词连接为一个复合词",
+      "如",
+      "中者",
+      "或将词分解为其组成之部分",
+      "如移行时所见）",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyphenate",
+    "type": "word",
+    "pos": "word",
+    "translation": "用连接号连接或分割（词语）",
+    "analysis": "vs [Tn] join or write (words) with a hyphen 用连接号连接或分割（词语）.",
+    "phonetic": "/ ˈhaɪfəneɪt; ˈhaɪfənˌet/",
+    "origin": "待查",
+    "expansions": [
+      "用连接号连接或分割（词语）"
+    ],
+    "pronunciation": "/ ˈhaɪfəneɪt; ˈhaɪfənˌet/",
+    "accepted_answers": [
+      "用连接号连接或分割（词语）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hyphenation",
+    "type": "word",
+    "pos": "N",
+    "translation": "hyphenation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌhaɪfəˈneɪʃn; ˌhaˈfəˈneʃən/",
+    "origin": "待查",
+    "expansions": [
+      "hyphenation"
+    ],
+    "pronunciation": "/ ˌhaɪfəˈneɪʃn; ˌhaˈfəˈneʃən/",
+    "accepted_answers": [
+      "hyphenation"
     ],
     "added_at": "",
     "review": {
@@ -13772,24 +19888,66 @@
     }
   },
   {
-    "term": "hypnotize",
+    "term": "hypnotism",
     "type": "word",
-    "translation": "催眠；使着迷；使恍惚般专注",
-    "analysis": "基础义是通过语言、节奏或暗示让人进入高度放松、注意力集中的催眠状态。日常表达中也常夸张地表示某物太吸引人了，让人像被迷住一样移不开眼。",
-    "phonetic": "/ˈhɪpnətaɪz/",
-    "pronunciation": "/ˈhɪpnətaɪz/",
+    "pos": "N",
+    "translation": "催眠；催眠术",
+    "analysis": "n [U] production or practice of hypnosis 催眠; 催眠术.",
+    "phonetic": "/ ˈhɪpnətɪzəm; ˈhɪpnəˌtɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "催眠；催眠术"
+    ],
+    "pronunciation": "/ ˈhɪpnətɪzəm; ˈhɪpnəˌtɪzəm/",
     "accepted_answers": [
       "催眠",
-      "使着迷",
-      "使恍惚般专注",
-      "迷住"
+      "催眠术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypnotist",
+    "type": "word",
+    "pos": "N",
+    "translation": "催眠术士",
+    "analysis": "n person who produces hypnosis in another person or who practices hypnosis 催眠术士.",
+    "phonetic": "/ ˈhɪpnətɪst; ˈhɪpnətɪst/",
+    "origin": "待查",
+    "expansions": [
+      "催眠术士"
+    ],
+    "pronunciation": "/ ˈhɪpnətɪst; ˈhɪpnətɪst/",
+    "accepted_answers": [
+      "催眠术士"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypnotize",
+    "type": "word",
+    "translation": ")对（某人）施催眠术；比喻)；使（某人）精神恍惚",
+    "analysis": "v [Tn]  1 produce hypnosis in (sb) 对（某人）施催眠术.  2 (fig 比喻) fascinate (sb); chaam 使（某人）精神恍惚; 使著迷: He was hypnotized by her beauty. 他见她艳丽动人而神魂颠倒.",
+    "phonetic": "/ ˈhɪpnətaɪz; ˈhɪpnəˌtaɪz/",
+    "pronunciation": "/ ˈhɪpnətaɪz; ˈhɪpnəˌtaɪz/",
+    "accepted_answers": [
+      ")对（某人）施催眠术",
+      "比喻)",
+      "使（某人）精神恍惚"
     ],
     "expansions": [
-      "hypnotize someone into doing... 催眠某人去做……",
-      "be hypnotized by... 被……迷住",
-      "hypnotic voice 催眠般的声音",
-      "hypnotic rhythm 让人沉迷的节奏",
-      "hypnosis 催眠；催眠状态"
+      "He was hypnotized by her beauty. 他见她艳丽动人而神魂颠倒."
     ],
     "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt",
     "added_at": "2026-03-30T16:18:34+08:00",
@@ -13802,11 +19960,11 @@
     "senses": [
       {
         "pos": "V",
-        "translation": "催眠；使着迷；使恍惚般专注",
-        "definition": "To put someone into hypnosis, or to hold someone’s attention so strongly that they seem spellbound."
+        "translation": "催眠；使着迷；使入迷",
+        "analysis": "使某人进入催眠状态；也可表示强烈吸引某人注意力，让人入迷。英式也常写作 hypnotise。"
       }
     ],
-    "origin": "来自 hypnosis，其源头是希腊语 hypnos，意为“睡眠”。hypnotize 字面上就是“使进入类似睡眠/催眠状态”。"
+    "origin": "待查"
   },
   {
     "term": "hypo",
@@ -13847,6 +20005,79 @@
     "accepted_answers": [
       "（过分关心自己的健康而引起的病态的过虑）疑病症",
       "忧郁症"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypochondriac",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "疑病症患者；参看；（患）疑病症的",
+    "analysis": "n person who suffers from hypochondria 疑病症患者. Cf 参看 valetudinarian.  adj of or suffering from hypochondria （患）疑病症的.",
+    "phonetic": "/ -drɪæk; -drɪˌæk/",
+    "origin": "待查",
+    "expansions": [
+      "疑病症患者；参看；（患）疑病症的"
+    ],
+    "pronunciation": "/ -drɪæk; -drɪˌæk/",
+    "accepted_answers": [
+      "疑病症患者",
+      "参看",
+      "（患）疑病症的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypocrisy",
+    "type": "word",
+    "pos": "N",
+    "translation": "伪善；虚伪",
+    "analysis": "n [U] practice of misrepresenting one's real character, opinions, etc, esp by pretending to be more virtuous than one really is; insincerity 伪善; 虚伪.",
+    "phonetic": "/ hɪˈpɒkrəsɪ; hɪˈpɑːkrəsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "伪善；虚伪"
+    ],
+    "pronunciation": "/ hɪˈpɒkrəsɪ; hɪˈpɑːkrəsɪ/",
+    "accepted_answers": [
+      "伪善",
+      "虚伪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypocrite",
+    "type": "word",
+    "pos": "N",
+    "translation": "伪善者；伪君子",
+    "analysis": "n person who pretends to have opinions which he does not have or to be what he is not 伪善者; 伪君子.",
+    "phonetic": "/ ˈhɪpəkrɪt; ˈhɪpəˌkrɪt/",
+    "origin": "待查",
+    "expansions": [
+      "伪善者；伪君子"
+    ],
+    "pronunciation": "/ ˈhɪpəkrɪt; ˈhɪpəˌkrɪt/",
+    "accepted_answers": [
+      "伪善者",
+      "伪君子"
     ],
     "added_at": "",
     "review": {
@@ -13926,6 +20157,56 @@
     }
   },
   {
+    "term": "hypotenuse",
+    "type": "word",
+    "pos": "N",
+    "translation": "几)；（直角三角形的）斜边；弦；插图",
+    "analysis": "n (geometry 几) side opposite the right angle of a right-angled triangle （直角三角形的）斜边, 弦. =>illusat triangle 见triangle插图.",
+    "phonetic": "/ haɪˈpɒtənjuːz; -tənuːs; haɪˈpɑːtnˌus/",
+    "origin": "待查",
+    "expansions": [
+      "几)；（直角三角形的）斜边；弦；插图"
+    ],
+    "pronunciation": "/ haɪˈpɒtənjuːz; -tənuːs; haɪˈpɑːtnˌus/",
+    "accepted_answers": [
+      "几)",
+      "（直角三角形的）斜边",
+      "弦",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypothermia",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；体温过低",
+    "analysis": "n [U] (medical 医) condition of having an abnormally low body-temperature 体温过低.",
+    "phonetic": "/ ˌhaɪpəˈθɜːmɪə; ˌhaɪpəˈθɜːmɪə/",
+    "origin": "待查",
+    "expansions": [
+      "医)；体温过低"
+    ],
+    "pronunciation": "/ ˌhaɪpəˈθɜːmɪə; ˌhaɪpəˈθɜːmɪə/",
+    "accepted_answers": [
+      "医)",
+      "体温过低"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "hypothesis",
     "type": "word",
     "translation": "（根据已知事实提出并有待於进一步论证或研究的）假说；假设；提出一种假说；证明某种假设正确",
@@ -13949,6 +20230,101 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "hypothesise",
+    "type": "word",
+    "pos": "V",
+    "translation": "假设；假定（某事物）",
+    "analysis": "v [I, Tn, Tf] form a hypothesis; assume (sth) as a hypothesis 假设; 假定（某事物）.",
+    "phonetic": "/ haɪˈpɒθəsaɪz; ˌhaɪˈpɑːθəˌsaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "假设；假定（某事物）"
+    ],
+    "pronunciation": "/ haɪˈpɒθəsaɪz; ˌhaɪˈpɑːθəˌsaɪz/",
+    "accepted_answers": [
+      "假设",
+      "假定（某事物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypothesize",
+    "type": "word",
+    "pos": "V",
+    "translation": "假设；假定（某事物）",
+    "analysis": "v [I, Tn, Tf] form a hypothesis; assume (sth) as a hypothesis 假设; 假定（某事物）.",
+    "phonetic": "/ haɪˈpɒθəsaɪz; ˌhaɪˈpɑːθəˌsaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "假设；假定（某事物）"
+    ],
+    "pronunciation": "/ haɪˈpɒθəsaɪz; ˌhaɪˈpɑːθəˌsaɪz/",
+    "accepted_answers": [
+      "假设",
+      "假定（某事物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypothetical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（基於）假设的；未必是事实的",
+    "analysis": "adj of or based on a hypothesis; not necessarily true or real （基於）假设的; 未必是事实的.",
+    "phonetic": "/ ˌhaɪpəˈθetɪkl; ˌhaɪpəˈθetɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "（基於）假设的；未必是事实的"
+    ],
+    "pronunciation": "/ ˌhaɪpəˈθetɪkl; ˌhaɪpəˈθetɪkl/",
+    "accepted_answers": [
+      "（基於）假设的",
+      "未必是事实的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "hypothetically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "hypothetically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "hypothetically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "hypothetically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/H/H-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "hysterectomy",

@@ -34,6 +34,7 @@ const cacheHint = {
 
 const DETAIL_CACHE_KEY = "englearning.dictionary.detail";
 const DETAIL_CACHE_TTL_MS = Number(APP_CONFIG.contentCacheTtlMs || 3 * 60 * 1000);
+const CONTENT_STATS = APP_CONFIG.contentStats || {};
 
 const COMMON_FIELDS = new Set([
   "term",
@@ -272,6 +273,21 @@ function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return String(value);
   return date.toLocaleString("zh-CN", { hour12: false });
+}
+
+function formatContentTimestamp(value) {
+  if (!value) return "未知";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return date.toLocaleString("zh-CN", { hour12: false });
+}
+
+function getDictionaryStatsText() {
+  const total = Number(CONTENT_STATS.dictionaryCount || 0);
+  const updatedAt = formatContentTimestamp(CONTENT_STATS.dictionaryUpdatedAt);
+  const latestTerm = CONTENT_STATS.dictionaryLatestTerm ? `，最新词条：${CONTENT_STATS.dictionaryLatestTerm}` : "";
+  if (!total) return "";
+  return `当前辞典 ${total} 条，最新更新：${updatedAt}${latestTerm}。`;
 }
 
 function renderList(items) {
@@ -673,7 +689,7 @@ async function init() {
     state.supabase = window.ContentStore.createSupabaseClient();
   }
   if (!state.dictionaryLoaded) {
-    updateStatus("输入单词后会按需读取对应首字母辞典。");
+    updateStatus(`${getDictionaryStatsText()}输入单词后会按需读取对应首字母辞典。`);
     updateSummary("输入单词后点击查询。");
   }
 }

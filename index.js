@@ -28,6 +28,7 @@ const cacheHints = {
 };
 
 const DETAIL_CACHE_KEY = "englearning.dictionary.detail";
+const CONTENT_STATS = APP_CONFIG.contentStats || {};
 
 function escapeHtml(value) {
   return String(value || "")
@@ -183,8 +184,14 @@ function cacheDictionaryDetail(entry) {
 }
 
 function renderContentStatus() {
-  if (state.words.length || state.dictionary.length) {
-    elements.contentStatus.textContent = `词库 ${state.words.length} 条，辞典 ${state.dictionary.length} 条。当前读取来源：词库 ${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}，辞典 ${state.dictionarySource === "supabase" ? "Supabase" : "本地 JSON"}。`;
+  const wordsCount = Number(CONTENT_STATS.wordsCount || state.words.length || 0);
+  const dictionaryCount = Number(CONTENT_STATS.dictionaryCount || state.dictionary.length || 0);
+  if (wordsCount || dictionaryCount) {
+    const wordsUpdated = formatContentTimestamp(CONTENT_STATS.wordsUpdatedAt);
+    const dictionaryUpdated = formatContentTimestamp(CONTENT_STATS.dictionaryUpdatedAt);
+    const wordsTerm = CONTENT_STATS.wordsLatestTerm ? `，最新：${CONTENT_STATS.wordsLatestTerm}` : "";
+    const dictionaryTerm = CONTENT_STATS.dictionaryLatestTerm ? `，最新：${CONTENT_STATS.dictionaryLatestTerm}` : "";
+    elements.contentStatus.textContent = `词库 ${wordsCount} 条，辞典 ${dictionaryCount} 条。词库更新：${wordsUpdated}${wordsTerm}；辞典更新：${dictionaryUpdated}${dictionaryTerm}。`;
     return;
   }
   if (cacheHints.words || cacheHints.dictionary) {
@@ -192,6 +199,13 @@ function renderContentStatus() {
     return;
   }
   elements.contentStatus.textContent = "正在读取词库与辞典。";
+}
+
+function formatContentTimestamp(value) {
+  if (!value) return "未知";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return date.toLocaleString("zh-CN", { hour12: false });
 }
 
 function renderProgressStatus() {
@@ -246,13 +260,34 @@ function renderLookupResult(entry, query) {
   `;
 }
 
-function runLookup() {
+async function findDictionaryEntryRemote(query) {
+  const { item } = await window.ContentStore.fetchTerm({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+    term: query,
+  });
+  const entry = normalizeEntry(item, query);
+  if (!entry) return null;
+  state.dictionary.push(entry);
+  return entry;
+}
+
+async function runLookup() {
   const query = String(elements.dictionaryInput.value || "").trim();
   if (!query) {
     renderLookupState("输入单词后即可在主页快速查看简要释义。");
     return;
   }
-  renderLookupResult(findDictionaryEntry(query), query);
+  const localEntry = findDictionaryEntry(query);
+  if (localEntry) {
+    renderLookupResult(localEntry, query);
+    return;
+  }
+  renderLookupState("正在按需查询辞典。");
+  const remoteEntry = await findDictionaryEntryRemote(query);
+  renderLookupResult(remoteEntry, query);
 }
 
 function hydrateLandingCache() {
@@ -263,21 +298,10 @@ function hydrateLandingCache() {
     fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
     label: "词库",
   });
-  cacheHints.dictionary = window.ContentStore.peekCollectionCache({
-    supabase: state.supabase,
-    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
-    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
-    label: "辞典",
-  });
 
   if (cacheHints.words) {
     state.words = Array.isArray(cacheHints.words.items) ? cacheHints.words.items : [];
     state.wordsSource = cacheHints.words.source || "json";
-  }
-
-  if (cacheHints.dictionary) {
-    state.dictionary = normalizeDictionary(cacheHints.dictionary.items);
-    state.dictionarySource = cacheHints.dictionary.source || "json";
   }
 
   renderContentStatus();
@@ -289,36 +313,22 @@ async function init() {
     state.supabase = window.ContentStore.createSupabaseClient();
   }
 
-  const [wordsResult, dictionaryResult] = await Promise.all([
-    window.ContentStore.fetchCollection({
-      supabase: state.supabase,
-      tableName: APP_CONFIG.wordsTable || "vocabulary_words",
-      fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
-      label: "词库",
-    }),
-    window.ContentStore.fetchCollection({
-      supabase: state.supabase,
-      tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
-      fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
-      label: "辞典",
-    }),
-  ]);
-
-  state.words = Array.isArray(wordsResult.items) ? wordsResult.items : [];
-  state.wordsSource = wordsResult.source;
-  state.dictionary = normalizeDictionary(dictionaryResult.items);
-  state.dictionarySource = dictionaryResult.source;
-
   renderContentStatus();
   renderProgressStatus();
   renderLookupState("输入单词后即可在主页快速查看简要释义。");
 }
 
-elements.dictionarySubmit?.addEventListener("click", runLookup);
+elements.dictionarySubmit?.addEventListener("click", () => {
+  runLookup().catch((error) => {
+    renderLookupState(`查询失败：${error.message}`);
+  });
+});
 elements.dictionaryInput?.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
     event.preventDefault();
-    runLookup();
+    runLookup().catch((error) => {
+      renderLookupState(`查询失败：${error.message}`);
+    });
   }
 });
 function prepareDictionaryDetailHandoff(event) {

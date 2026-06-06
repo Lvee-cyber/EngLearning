@@ -6489,27 +6489,25 @@
     "senses": [
       {
         "pos": "V",
-        "translation": "催眠；使着迷；使恍惚般专注",
-        "definition": "To put someone into hypnosis, or to hold someone’s attention so strongly that they seem spellbound."
+        "translation": "催眠；使着迷；使入迷",
+        "analysis": "使某人进入催眠状态；也可表示强烈吸引某人注意力，让人入迷。英式也常写作 hypnotise。"
       }
     ],
-    "translation": "催眠；使着迷；使恍惚般专注",
-    "analysis": "基础义是通过语言、节奏或暗示让人进入高度放松、注意力集中的催眠状态。日常表达中也常夸张地表示某物太吸引人了，让人像被迷住一样移不开眼。",
+    "translation": "催眠；使着迷；使入迷",
+    "analysis": "具体语境中指催眠某人；抽象语境中表示让人完全着迷、看得入神，语气强于普通的 attract。",
     "phonetic": "/ˈhɪpnətaɪz/",
-    "origin": "来自 hypnosis，其源头是希腊语 hypnos，意为“睡眠”。hypnotize 字面上就是“使进入类似睡眠/催眠状态”。",
+    "origin": "来自 hypnosis；hypnosis 源自希腊语 hypnos，意为睡眠，现代含义从催眠状态扩展到令人入迷、强烈吸引。",
     "expansions": [
-      "hypnotize someone into doing... 催眠某人去做……",
-      "be hypnotized by... 被……迷住",
-      "hypnotic voice 催眠般的声音",
-      "hypnotic rhythm 让人沉迷的节奏",
-      "hypnosis 催眠；催眠状态"
+      "hypnotize a patient 催眠病人",
+      "be hypnotized by the music 被音乐迷住",
+      "a hypnotizing performance 令人着迷的表演",
+      "hypnotic effect 催眠般的效果"
     ],
     "pronunciation": "/ˈhɪpnətaɪz/",
     "accepted_answers": [
       "催眠",
       "使着迷",
-      "使恍惚般专注",
-      "迷住"
+      "使入迷"
     ],
     "added_at": "2026-05-10T07:20:41.393Z",
     "review": {
@@ -6566,26 +6564,25 @@
     "senses": [
       {
         "pos": "Adj",
-        "translation": "高深莫测的；难以理解的；捉摸不透的",
-        "definition": "Difficult or impossible to understand, interpret, or read, especially in expression, motive, or character."
+        "translation": "难以理解的；高深莫测的；令人费解的",
+        "analysis": "指某人的表情、想法、意图或某件事物很难被看懂、解释或判断，带有隐藏很深、无法洞察的感觉。"
       }
     ],
-    "translation": "高深莫测的；难以理解的；捉摸不透的",
-    "analysis": "强调别人看不透、猜不透、弄不明白。常用来形容人的表情、动机、性格，也可形容文本、制度或现象显得过于复杂难解。相比 mysterious，它更强调“无法看穿、无法参透”，语气也更书面。",
+    "translation": "难以理解的；高深莫测的；令人费解的",
+    "analysis": "常用于描述看不透的人、表情、动机、系统或现象。比 unclear 更强，强调无法被深入理解或判断。",
     "phonetic": "/ɪnˈskruːtəbl/",
-    "origin": "来自拉丁语 scrutari，意为“搜查、仔细探究”，前缀 in- 在这里表示否定，因此 inscrutable 字面意思就是“无法被探究清楚的”。",
+    "origin": "来自拉丁语 scrutari，意为搜寻、仔细检查；前缀 in- 表示否定，整体含义接近无法被彻底探查的。",
     "expansions": [
-      "an inscrutable look 难以捉摸的神情",
-      "inscrutable silence 令人猜不透的沉默",
-      "remain inscrutable 依旧高深莫测",
-      "inscrutable motives 难以揣测的动机",
-      "inscrutably 高深莫测地；难以理解地"
+      "an inscrutable expression 难以捉摸的表情",
+      "inscrutable motives 令人难以理解的动机",
+      "remain inscrutable 仍然让人看不透",
+      "an inscrutable system 难以理解的系统"
     ],
     "pronunciation": "/ɪnˈskruːtəbl/",
     "accepted_answers": [
-      "高深莫测的",
       "难以理解的",
-      "捉摸不透的"
+      "高深莫测的",
+      "令人费解的"
     ],
     "added_at": "2026-05-10T07:24:07.216Z",
     "review": {
@@ -7320,6 +7317,83 @@
       "消耗"
     ],
     "added_at": "2026-06-04T09:24:29.271Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "minuscule",
+    "type": "word",
+    "pos": "Adj; N",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "极小的；微小的；小写字母的",
+        "analysis": "表示非常小、小到几乎可以忽略；也可指小写的。"
+      },
+      {
+        "pos": "N",
+        "translation": "小写字母；小字体",
+        "analysis": "主要见于印刷、书写或语言学语境，表示小写字母或小写字体。"
+      }
+    ],
+    "translation": "极小的；微小的；小写字母的；小写字母；小字体",
+    "analysis": "最常见意思是极小的、微小的，常用于数量、差异、概率、影响等；比 small 更强调小到几乎可以忽略。注意标准拼写是 minuscule，不是常见误拼 miniscule。",
+    "phonetic": "/ˈmɪnəskjuːl/",
+    "origin": "来自拉丁语 minusculus，意为较小的、微小的，由 minus（更小）发展而来。",
+    "expansions": [
+      "a minuscule amount 极少量",
+      "a minuscule chance 极小的机会",
+      "a minuscule difference 微小差异",
+      "minuscule impact 微不足道的影响"
+    ],
+    "pronunciation": "/ˈmɪnəskjuːl/",
+    "accepted_answers": [
+      "极小的",
+      "微小的",
+      "小写字母的",
+      "小写字母",
+      "小字体"
+    ],
+    "added_at": "2026-06-06T02:04:26.782Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "obsess",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "使着迷；使困扰；反复挂念；过度关注",
+        "analysis": "让某人被某个想法、问题或对象持续占据注意力；也可表示自己反复纠结某事。常带有过度关注、难以放下的意味。"
+      }
+    ],
+    "translation": "使着迷；使困扰；反复挂念；过度关注",
+    "analysis": "常表示一种不健康或过度的关注。常见 be obsessed with/about ... 表示对某事着迷或过度关注；obsess over 表示反复纠结。",
+    "phonetic": "/əbˈses/",
+    "origin": "来自拉丁语 obsidere，原义与围住、占据、包围有关，后来引申为某种想法占据头脑。",
+    "expansions": [
+      "be obsessed with success 对成功过度执着",
+      "obsess over details 反复纠结细节",
+      "an idea that obsesses him 一个让他念念不忘的想法",
+      "stop obsessing about it 别再纠结这件事了"
+    ],
+    "pronunciation": "/əbˈses/",
+    "accepted_answers": [
+      "使着迷",
+      "使困扰",
+      "反复挂念",
+      "过度关注",
+      "纠结"
+    ],
+    "added_at": "2026-06-06T02:08:05.031Z",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,

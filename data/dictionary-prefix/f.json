@@ -1010,6 +1010,30 @@
     "dict_source": "data/DICT/F/F-a.txt"
   },
   {
+    "term": "factorise",
+    "type": "word",
+    "pos": "V",
+    "translation": "数)；)分解（某数的）因数",
+    "analysis": "v [Tn] (mathematics 数) find the factors of (a number) 分解（某数的）因数.",
+    "phonetic": "/ ˈfæktəraɪz; ˈfæktəˌraɪz/",
+    "origin": "待查",
+    "expansions": [
+      "数)；)分解（某数的）因数"
+    ],
+    "pronunciation": "/ ˈfæktəraɪz; ˈfæktəˌraɪz/",
+    "accepted_answers": [
+      "数)",
+      ")分解（某数的）因数"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "factorization",
     "type": "word",
     "pos": "N",
@@ -1274,6 +1298,54 @@
     }
   },
   {
+    "term": "faecal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；粪便的",
+    "analysis": "adj [usu attrib 通常作定语] (fml 文) of faeces 粪便的.",
+    "phonetic": "/ ˈfiːkl; ˈfikl/",
+    "origin": "待查",
+    "expansions": [
+      "文)；粪便的"
+    ],
+    "pronunciation": "/ ˈfiːkl; ˈfikl/",
+    "accepted_answers": [
+      "文)",
+      "粪便的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
+    "term": "faeces",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；粪便",
+    "analysis": "n [pl] (fml 文) waste matter passed from the bowels 粪便.",
+    "phonetic": "/ ˈfiːsiːz; ˈfisiz/",
+    "origin": "待查",
+    "expansions": [
+      "文)；粪便"
+    ],
+    "pronunciation": "/ ˈfiːsiːz; ˈfisiz/",
+    "accepted_answers": [
+      "文)",
+      "粪便"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "faff",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -1319,6 +1391,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "faggot",
+    "type": "word",
+    "pos": "N",
+    "translation": "枝条捆；柴捆；烤的或煎的肉丸",
+    "analysis": "n  1 bundle of sticks or twigs tied together for burning 枝条捆; 柴捆.  2 ball of chopped seasoned meat, etc cooked by baking or frying 烤的或煎的肉丸.  3 (also esp US fag) (infml derog 口, 贬) male homosexual 男同性恋者.\nfah\n= fa.",
+    "phonetic": "/ ˈfægət; ˈfægət/",
+    "origin": "待查",
+    "expansions": [
+      "枝条捆；柴捆；烤的或煎的肉丸"
+    ],
+    "pronunciation": "/ ˈfægət; ˈfægət/",
+    "accepted_answers": [
+      "枝条捆",
+      "柴捆",
+      "烤的或煎的肉丸"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
   },
   {
     "term": "fahrenheit",
@@ -1623,6 +1720,31 @@
     }
   },
   {
+    "term": "fairway",
+    "type": "word",
+    "pos": "N",
+    "translation": "（高尔夫球场上的）平坦球道（球座和草坪间剪平的草地）；插图；参看",
+    "analysis": "n  1 part of a golf-course between the tee and the green, kept free of rough grass （高尔夫球场上的）平坦球道（球座和草坪间剪平的草地）. =>illus at golf 见 golf 插图. Cf 参看 rough3 1.  2 channel that ships can sail through easily 航道; 水路.",
+    "phonetic": "/ ˈfeəweɪ; ˈferˌwe/",
+    "origin": "待查",
+    "expansions": [
+      "（高尔夫球场上的）平坦球道（球座和草坪间剪平的草地）；插图；参看"
+    ],
+    "pronunciation": "/ ˈfeəweɪ; ˈferˌwe/",
+    "accepted_answers": [
+      "（高尔夫球场上的）平坦球道（球座和草坪间剪平的草地）",
+      "插图",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "fairy",
     "type": "word",
     "translation": "小仙子；小精灵；娇美的声音、轻巧的脚步",
@@ -1847,6 +1969,31 @@
     }
   },
   {
+    "term": "falcon",
+    "type": "word",
+    "pos": "N",
+    "translation": "猎鹰；训练猎鹰者；养猎鹰者",
+    "analysis": "n small bird of prey 猎鹰.\nfalconer \nn (a) person who trains falcons to hunt and kill other birds or animals for sport 训练猎鹰者. (b) person who keeps trained falcons 养猎鹰者.",
+    "phonetic": "/ ˈfɔːlkən; ˈfælkən; ˈfælkən/",
+    "origin": "待查",
+    "expansions": [
+      "猎鹰；训练猎鹰者；养猎鹰者"
+    ],
+    "pronunciation": "/ ˈfɔːlkən; ˈfælkən; ˈfælkən/",
+    "accepted_answers": [
+      "猎鹰",
+      "训练猎鹰者",
+      "养猎鹰者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "fall",
     "type": "word",
     "translation": "落下；跌落；降落",
@@ -2061,6 +2208,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "falsies",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；假乳房（用以使乳房显得丰满的衬垫）",
+    "analysis": "n [pl] (infml 口) pads or material to make the breasts seem larger 假乳房（用以使乳房显得丰满的衬垫）.",
+    "phonetic": "/ ˈfɔːlsɪz; ˈfɔːlsɪz/",
+    "origin": "待查",
+    "expansions": [
+      "口)；假乳房（用以使乳房显得丰满的衬垫）"
+    ],
+    "pronunciation": "/ ˈfɔːlsɪz; ˈfɔːlsɪz/",
+    "accepted_answers": [
+      "口)",
+      "假乳房（用以使乳房显得丰满的衬垫）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
   },
   {
     "term": "falsifier",
@@ -2759,6 +2930,29 @@
     }
   },
   {
+    "term": "fanlight",
+    "type": "word",
+    "pos": "N",
+    "translation": "气窗（门或窗户上方的小窗）",
+    "analysis": "n small window above a door or another window 气窗（门或窗户上方的小窗）.",
+    "phonetic": "/ ˈfænlaɪt; ˈfænˌlaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "气窗（门或窗户上方的小窗）"
+    ],
+    "pronunciation": "/ ˈfænlaɪt; ˈfænˌlaɪt/",
+    "accepted_answers": [
+      "气窗（门或窗户上方的小窗）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "fanmaker",
     "type": "word",
     "translation": "…者；…工具",
@@ -2781,6 +2975,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fanny",
+    "type": "word",
+    "pos": "N",
+    "translation": "讳；俚)；女性生殖器；屁股",
+    "analysis": "n  1 (Brit <!> sl 讳, 俚) female sex organs 女性生殖器.  2 (sl 俚 esp US) buttocks 屁股.",
+    "phonetic": "/ ˈfænɪ; ˈfænɪ/",
+    "origin": "待查",
+    "expansions": [
+      "讳；俚)；女性生殖器；屁股"
+    ],
+    "pronunciation": "/ ˈfænɪ; ˈfænɪ/",
+    "accepted_answers": [
+      "讳",
+      "俚)",
+      "女性生殖器",
+      "屁股"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
   },
   {
     "term": "fantasise",
@@ -3315,6 +3535,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "farthing",
+    "type": "word",
+    "pos": "N",
+    "translation": "英国旧时面值为四分之一便士的硬币；习语)；毫不在乎",
+    "analysis": "n  1 former British coin worth one quarter of an old penny 英国旧时面值为四分之一便士的硬币.  2 (idm 习语) not care/give a farthing not care at all 毫不在乎.\nfascia\n= facia.",
+    "phonetic": "/ ˈfɑː:Tɪŋ; ˈfɑːrTɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "英国旧时面值为四分之一便士的硬币；习语)；毫不在乎"
+    ],
+    "pronunciation": "/ ˈfɑː:Tɪŋ; ˈfɑːrTɪŋ/",
+    "accepted_answers": [
+      "英国旧时面值为四分之一便士的硬币",
+      "习语)",
+      "毫不在乎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
   },
   {
     "term": "fascet",
@@ -3993,6 +4238,30 @@
     }
   },
   {
+    "term": "fatalist",
+    "type": "word",
+    "pos": "N",
+    "translation": "宿命论者；听天由命者",
+    "analysis": "n person who believes in fate(1) or accepts everything as inevitable 宿命论者; 听天由命者.",
+    "phonetic": "/ ˈfeɪtəlɪst; ˈfetlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "宿命论者；听天由命者"
+    ],
+    "pronunciation": "/ ˈfeɪtəlɪst; ˈfetlɪst/",
+    "accepted_answers": [
+      "宿命论者",
+      "听天由命者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
+  },
+  {
     "term": "fatalistic",
     "type": "word",
     "translation": "宿命论的；听天由命的；听天由命的人、态度、观点",
@@ -4550,6 +4819,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "faun",
+    "type": "word",
+    "pos": "N",
+    "translation": "（罗马神话的）农牧神（躯干呈人形；角、腿呈山羊形）",
+    "analysis": "n (in Roman myths) god of the fields and woods, with goat's horns and legs but a human torso （罗马神话的）农牧神（躯干呈人形, 角、 腿呈山羊形）.",
+    "phonetic": "/ fɔːn; fɔːn/",
+    "origin": "待查",
+    "expansions": [
+      "（罗马神话的）农牧神（躯干呈人形；角、腿呈山羊形）"
+    ],
+    "pronunciation": "/ fɔːn; fɔːn/",
+    "accepted_answers": [
+      "（罗马神话的）农牧神（躯干呈人形",
+      "角、腿呈山羊形）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-a.txt"
   },
   {
     "term": "fauna",
@@ -5975,6 +6268,31 @@
     }
   },
   {
+    "term": "fell",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "古)；凶猛的；毁灭性的",
+    "analysis": "adj  1 (arch 古) fierce; destructive 凶猛的; 毁灭性的.  2 (idm 习语) at one fell swoop in a single deadly action 狠狠地一下子.",
+    "phonetic": "/ fel; fel/",
+    "origin": "待查",
+    "expansions": [
+      "古)；凶猛的；毁灭性的"
+    ],
+    "pronunciation": "/ fel; fel/",
+    "accepted_answers": [
+      "古)",
+      "凶猛的",
+      "毁灭性的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
+  },
+  {
     "term": "fellatio",
     "type": "word",
     "translation": "文)；吮吸或舔阴茎之刺激",
@@ -6170,6 +6488,29 @@
     }
   },
   {
+    "term": "felon",
+    "type": "word",
+    "pos": "N",
+    "translation": "重罪犯",
+    "analysis": "n person guilty of felony 重罪犯.",
+    "phonetic": "/ ˈfelən; ˈfelən/",
+    "origin": "待查",
+    "expansions": [
+      "重罪犯"
+    ],
+    "pronunciation": "/ ˈfelən; ˈfelən/",
+    "accepted_answers": [
+      "重罪犯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
+  },
+  {
     "term": "feloniousness",
     "type": "word",
     "translation": "…性质；…状态",
@@ -6265,6 +6606,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "felucca",
+    "type": "word",
+    "pos": "N",
+    "translation": "（用桨或帆或两者皆用的）小船（用於地中海沿岸）；缩写；参看",
+    "analysis": "n narrow ship with oars or sails or both, used on Mediterranean coasts （用桨或帆或两者皆用的）小船（用於地中海沿岸）.\nfem\nabbr 缩写 = female; feminine. Cf 参看 masc.",
+    "phonetic": "/ fəˈlʌkə; fəˈlʌkə/",
+    "origin": "待查",
+    "expansions": [
+      "（用桨或帆或两者皆用的）小船（用於地中海沿岸）；缩写；参看"
+    ],
+    "pronunciation": "/ fəˈlʌkə; fəˈlʌkə/",
+    "accepted_answers": [
+      "（用桨或帆或两者皆用的）小船（用於地中海沿岸）",
+      "缩写",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
   },
   {
     "term": "female",
@@ -6386,6 +6752,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "feminism",
+    "type": "word",
+    "pos": "N",
+    "translation": "男女平等主义；争取女权运动",
+    "analysis": "n [U] (a) belief in the principle that women should have the same rights and opportunities (legal, political, social, economic, etc) as men 男女平等主义. (b) movement in support of this 争取女权运动.",
+    "phonetic": "/ ˈfemɪnɪzəm; ˈfeməˌnɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "男女平等主义；争取女权运动"
+    ],
+    "pronunciation": "/ ˈfemɪnɪzəm; ˈfeməˌnɪzəm/",
+    "accepted_answers": [
+      "男女平等主义",
+      "争取女权运动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
   },
   {
     "term": "feminist",
@@ -6552,6 +6942,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fender",
+    "type": "word",
+    "pos": "N",
+    "translation": "壁炉的栅栏；护舷垫（船舷悬挂的绳团、木块、轮胎等；防碰损用）；)(",
+    "analysis": "n  1 metal frame placed around a fireplace to prevent burning coal, etc from falling out or young children from falling in 壁炉的栅栏.  2 mass of rope, piece of wood, rubber tyre, etc, hung on the side of a boat to prevent damage, eg when it is alongside a wharf or another boat 护舷垫（船舷悬挂的绳团、 木块、 轮胎等, 防碰损用）.  3 (US) (a) mudguard (mud) of a bicycle, etc （自行车等的）挡泥板. (b) = wing 4.",
+    "phonetic": "/ ˈfendə(r); ˈfendə/",
+    "origin": "待查",
+    "expansions": [
+      "壁炉的栅栏；护舷垫（船舷悬挂的绳团、木块、轮胎等；防碰损用）；)("
+    ],
+    "pronunciation": "/ ˈfendə(r); ˈfendə/",
+    "accepted_answers": [
+      "壁炉的栅栏",
+      "护舷垫（船舷悬挂的绳团、木块、轮胎等",
+      "防碰损用）",
+      ")("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
   },
   {
     "term": "fenestral",
@@ -7838,6 +8254,30 @@
     }
   },
   {
+    "term": "feudalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "封建制度；封建主义",
+    "analysis": "n [U] (attitudes and structure of) the feudal system 封建制度; 封建主义.",
+    "phonetic": "/ -dəlɪzəm; -dlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "封建制度；封建主义"
+    ],
+    "pronunciation": "/ -dəlɪzəm; -dlɪzəm/",
+    "accepted_answers": [
+      "封建制度",
+      "封建主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
+  },
+  {
     "term": "feudee",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -8044,6 +8484,30 @@
       "苏格兰)",
       "感到死期近的",
       "能预知灾难的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-b,c,d,e.txt"
+  },
+  {
+    "term": "fez",
+    "type": "word",
+    "pos": "N",
+    "translation": "（某些回教国家男子戴的平顶无边的）红毡帽；插图",
+    "analysis": "n (pl fezzes) red felt hat with a flat top and a tassle but no brim, worn by men in certain Muslim countries （某些回教国家男子戴的平顶无边的）红毡帽. =>illus at hat 见hat插图.",
+    "phonetic": "/ fez; fez/",
+    "origin": "待查",
+    "expansions": [
+      "（某些回教国家男子戴的平顶无边的）红毡帽；插图"
+    ],
+    "pronunciation": "/ fez; fez/",
+    "accepted_answers": [
+      "（某些回教国家男子戴的平顶无边的）红毡帽",
+      "插图"
     ],
     "added_at": "",
     "review": {
@@ -8504,6 +8968,31 @@
     "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
+    "term": "fibrositis",
+    "type": "word",
+    "pos": "N",
+    "translation": "纤维织炎；肌风湿病；参看",
+    "analysis": "n [U] inflammation of the fibrous tissue of the body, esp the muscles of the back, causing severe pain and stiffness 纤维织炎; 肌风湿病. Cf 参看 arthritis, rheumatism.",
+    "phonetic": "/ ˌfaɪbrəˈsaɪtɪs; ˌfaɪbrəˈsaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "纤维织炎；肌风湿病；参看"
+    ],
+    "pronunciation": "/ ˌfaɪbrəˈsaɪtɪs; ˌfaɪbrəˈsaɪtɪs/",
+    "accepted_answers": [
+      "纤维织炎",
+      "肌风湿病",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fibrotic",
     "type": "word",
     "translation": "…的；与…有关的",
@@ -8859,6 +9348,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fiddlesticks",
+    "type": "word",
+    "pos": "word",
+    "translation": "旧)；胡扯；废话",
+    "analysis": "interj (dated 旧) nonsense 胡扯; 废话.",
+    "phonetic": "/ ˈfɪdlstɪks; ˈfɪdlˌstɪks/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；胡扯；废话"
+    ],
+    "pronunciation": "/ ˈfɪdlstɪks; ˈfɪdlˌstɪks/",
+    "accepted_answers": [
+      "旧)",
+      "胡扯",
+      "废话"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
     "term": "fiddlewood",
@@ -9247,6 +9761,29 @@
     }
   },
   {
+    "term": "fierily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "fierily",
+    "analysis": "adv.\nfieriness \nn [U].",
+    "phonetic": "/ -rəlɪ; -rɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "fierily"
+    ],
+    "pronunciation": "/ -rəlɪ; -rɪlɪ/",
+    "accepted_answers": [
+      "fierily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fiery",
     "type": "word",
     "translation": "似火的；含火的；燃烧著的",
@@ -9591,6 +10128,30 @@
     }
   },
   {
+    "term": "figurine",
+    "type": "word",
+    "pos": "N",
+    "translation": "小塑像；（尤指）人的雕像",
+    "analysis": "n small ornamental statue, esp of a person 小塑像; （尤指）人的雕像.",
+    "phonetic": "/ ˈfɪgəriːn; ˌfɪgjəˈriːn; ˌfɪgjəˈrin/",
+    "origin": "待查",
+    "expansions": [
+      "小塑像；（尤指）人的雕像"
+    ],
+    "pronunciation": "/ ˈfɪgəriːn; ˌfɪgjəˈriːn; ˌfɪgjəˈrin/",
+    "accepted_answers": [
+      "小塑像",
+      "（尤指）人的雕像"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fikie",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -9659,6 +10220,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "filament",
+    "type": "word",
+    "pos": "N",
+    "translation": "细线；细丝；线状物",
+    "analysis": "n  1 very thin strand or fibre, like a thread 细线; 细丝; 线状物.  2 thin wire in a light bulb that glows when electricity is passed through it （电灯泡的）灯丝. =>illus at bulb 见bulb插图.",
+    "phonetic": "/ ˈfɪləmənt; ˈfɪləmənt/",
+    "origin": "待查",
+    "expansions": [
+      "细线；细丝；线状物"
+    ],
+    "pronunciation": "/ ˈfɪləmənt; ˈfɪləmənt/",
+    "accepted_answers": [
+      "细线",
+      "细丝",
+      "线状物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
     "term": "filao",
@@ -10921,6 +11507,29 @@
     }
   },
   {
+    "term": "finnan",
+    "type": "word",
+    "pos": "N",
+    "translation": "熏鳕鱼",
+    "analysis": "n (also ,finnan `haddock) type of smoked haddock 熏鳕鱼.",
+    "phonetic": "/ fɪnən; ˈfɪnən/",
+    "origin": "待查",
+    "expansions": [
+      "熏鳕鱼"
+    ],
+    "pronunciation": "/ fɪnən; ˈfɪnən/",
+    "accepted_answers": [
+      "熏鳕鱼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
     "term": "fiot",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -11495,6 +12104,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fish-plate",
+    "type": "word",
+    "pos": "N",
+    "translation": "鱼尾板（用於连接铁轨的结合板）",
+    "analysis": "n flat piece of iron joining one length of railway line to the next 鱼尾板（用於连接铁轨的结合板）.",
+    "phonetic": "/ ˈfɪʃpleɪt; ˈfɪʃˌplet/",
+    "origin": "待查",
+    "expansions": [
+      "鱼尾板（用於连接铁轨的结合板）"
+    ],
+    "pronunciation": "/ ˈfɪʃpleɪt; ˈfɪʃˌplet/",
+    "accepted_answers": [
+      "鱼尾板（用於连接铁轨的结合板）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
+  },
+  {
+    "term": "fisherman",
+    "type": "word",
+    "pos": "N",
+    "translation": "渔民；渔夫；钓鱼人（尤指作为职业者；但也可指作为运动、娱乐或爱好者）；参看",
+    "analysis": "n (pl -men) person who catches fish, esp as a job but also as a sport or hobby 渔民, 渔夫, 钓鱼人（尤指作为职业者, 但也可指作为运动、 娱乐或爱好者）. Cf 参看 angler (angle2).",
+    "phonetic": "/ ˈfɪʃəmən; ˈfɪʃəmən/",
+    "origin": "待查",
+    "expansions": [
+      "渔民；渔夫；钓鱼人（尤指作为职业者；但也可指作为运动、娱乐或爱好者）；参看"
+    ],
+    "pronunciation": "/ ˈfɪʃəmən; ˈfɪʃəmən/",
+    "accepted_answers": [
+      "渔民",
+      "渔夫",
+      "钓鱼人（尤指作为职业者",
+      "但也可指作为运动、娱乐或爱好者）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-f,g,h,i.txt"
   },
   {
     "term": "fishery",
@@ -13085,6 +13744,30 @@
     }
   },
   {
+    "term": "flamenco",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；弗拉明柯舞（曲）（源於西班牙吉普赛人的节奏强烈的舞蹈）",
+    "analysis": "n [C, U] (pl ~s) (music for a) strongly rhythmical dance performed originally by Spanish gypsies 弗拉明柯舞（曲）（源於西班牙吉普赛人的节奏强烈的舞蹈）.",
+    "phonetic": "/ fləˈmeŋkəʊ; fləˈmeŋko/",
+    "origin": "待查",
+    "expansions": [
+      ")(；弗拉明柯舞（曲）（源於西班牙吉普赛人的节奏强烈的舞蹈）"
+    ],
+    "pronunciation": "/ fləˈmeŋkəʊ; fləˈmeŋko/",
+    "accepted_answers": [
+      ")(",
+      "弗拉明柯舞（曲）（源於西班牙吉普赛人的节奏强烈的舞蹈）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "flammable",
     "type": "word",
     "translation": "易燃烧的；大部分商店都不再出售用易燃材料做的睡衣了；参看",
@@ -13152,6 +13835,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flange",
+    "type": "word",
+    "pos": "N",
+    "translation": "凸缘；法兰",
+    "analysis": "n raised outside edge, eg of a railway wheel, to hold it in place 凸缘; 法兰.",
+    "phonetic": "/ flændʒ; flændʒ/",
+    "origin": "待查",
+    "expansions": [
+      "凸缘；法兰"
+    ],
+    "pronunciation": "/ flændʒ; flændʒ/",
+    "accepted_answers": [
+      "凸缘",
+      "法兰"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flank",
@@ -13253,6 +13960,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flapjack",
+    "type": "word",
+    "pos": "N",
+    "translation": "（用燕麦粉、黄油和蜂蜜或糖汁做的）饼乾；厚煎饼",
+    "analysis": "n  1 biscuit made from oats, butter and honey or syrup （用燕麦粉、 黄油和蜂蜜或糖汁做的）饼乾.  2 (esp US) thick pancake 厚煎饼.",
+    "phonetic": "/ ˈflæpdʒk; ˈflæpˌdʒæk/",
+    "origin": "待查",
+    "expansions": [
+      "（用燕麦粉、黄油和蜂蜜或糖汁做的）饼乾；厚煎饼"
+    ],
+    "pronunciation": "/ ˈflæpdʒk; ˈflæpˌdʒæk/",
+    "accepted_answers": [
+      "（用燕麦粉、黄油和蜂蜜或糖汁做的）饼乾",
+      "厚煎饼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flapper",
@@ -14455,6 +15186,29 @@
       "皮线"
     ],
     "added_at": "2026-03-30T03:04:37.993Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
+    "term": "flexibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "flexibility",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌfleksəˈbɪlətɪ; ˌfleksəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "flexibility"
+    ],
+    "pronunciation": "/ ˌfleksəˈbɪlətɪ; ˌfleksəˈbɪlətɪ/",
+    "accepted_answers": [
+      "flexibility"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -15738,6 +16492,31 @@
     }
   },
   {
+    "term": "florin",
+    "type": "word",
+    "pos": "N",
+    "translation": ")英国旧币制中的硬币；值二先令或十分之一镑（现值；便士）",
+    "analysis": "n former British coin worth two shillings or one tenth of 1 (now ten pence) 英国旧币制中的硬币, 值二先令或十分之一镑（现值10便士）.",
+    "phonetic": "/ ˈflɒrɪn; ˈflɔːrɪn; ˈflɔːrɪn/",
+    "origin": "待查",
+    "expansions": [
+      ")英国旧币制中的硬币；值二先令或十分之一镑（现值；便士）"
+    ],
+    "pronunciation": "/ ˈflɒrɪn; ˈflɔːrɪn; ˈflɔːrɪn/",
+    "accepted_answers": [
+      ")英国旧币制中的硬币",
+      "值二先令或十分之一镑（现值",
+      "便士）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "florist",
     "type": "word",
     "translation": "花商；从花店订购花圈；在花店买一束花",
@@ -15760,6 +16539,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "flotation",
+    "type": "word",
+    "pos": "N",
+    "translation": "（公开发行股票）开办新公司",
+    "analysis": "n [C, U] starting of a new company by selling shares in it to the public （公开发行股票）开办新公司.",
+    "phonetic": "/ fləʊˈteɪʃn; floˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "（公开发行股票）开办新公司"
+    ],
+    "pronunciation": "/ fləʊˈteɪʃn; floˈteʃən/",
+    "accepted_answers": [
+      "（公开发行股票）开办新公司"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
     "term": "flotilla",
@@ -16504,6 +17306,31 @@
     }
   },
   {
+    "term": "fluorescence",
+    "type": "word",
+    "pos": "N",
+    "translation": "荧光；参看；放射荧光",
+    "analysis": "n [U] property that a substance has of emitting light while being exposed to light or some other radiation of a shorter wavelength 荧光. Cf 参看 phosphorescence.\nfluoresce \nv [I] send out light in this manner 放射荧光.",
+    "phonetic": "/ flɔːˈresns; flUəˈr-; ˌflJəˈresns/",
+    "origin": "待查",
+    "expansions": [
+      "荧光；参看；放射荧光"
+    ],
+    "pronunciation": "/ flɔːˈresns; flUəˈr-; ˌflJəˈresns/",
+    "accepted_answers": [
+      "荧光",
+      "参看",
+      "放射荧光"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "fluorescent",
     "type": "word",
     "translation": "荧光的；有荧光的；显出荧光的",
@@ -16528,6 +17355,29 @@
     "dict_source": "data/DICT/F/F-j,k,l.txt"
   },
   {
+    "term": "fluoridation",
+    "type": "word",
+    "pos": "N",
+    "translation": "fluoridation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌflɔːrɪˈdeɪʃn; ˌflUər-; ˌflJərəˈdeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "fluoridation"
+    ],
+    "pronunciation": "/ ˌflɔːrɪˈdeɪʃn; ˌflUər-; ˌflJərəˈdeʃən/",
+    "accepted_answers": [
+      "fluoridation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "fluoridization",
     "type": "word",
     "pos": "N",
@@ -16541,6 +17391,29 @@
     "pronunciation": "/ ˌflɔːrɪdəɪˈzeɪʃn; USˌflUərɪdɪˈz-; ˌflJərədɪˈzeʃən/",
     "accepted_answers": [
       "fluoridization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
+    "term": "fluoridize",
+    "type": "word",
+    "pos": "V",
+    "translation": "fluoridize",
+    "analysis": "v [Tn] = fluoridate.",
+    "phonetic": "/ ˈflɔːrɪdaɪz; ˈflUər-; ˈflJərəˌdaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "fluoridize"
+    ],
+    "pronunciation": "/ ˈflɔːrɪdaɪz; ˈflUər-; ˈflJərəˌdaɪz/",
+    "accepted_answers": [
+      "fluoridize"
     ],
     "added_at": "",
     "review": {
@@ -17370,6 +18243,31 @@
     }
   },
   {
+    "term": "foetus",
+    "type": "word",
+    "pos": "N",
+    "translation": "胎儿；胚胎；参看",
+    "analysis": "n young human, animal, bird, etc that has developed within the womb or egg but has not yet been born or hatched 胎儿; 胚胎. Cf 参看 embryo 1.",
+    "phonetic": "/ ˈfiːtəs; ˈfitəs/",
+    "origin": "待查",
+    "expansions": [
+      "胎儿；胚胎；参看"
+    ],
+    "pronunciation": "/ ˈfiːtəs; ˈfitəs/",
+    "accepted_answers": [
+      "胎儿",
+      "胚胎",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
     "term": "fog",
     "type": "word",
     "translation": "浓雾笼罩了北部的公路；能见度很低；早晨一过局部地区的雾气就能消散；有雾时",
@@ -17608,6 +18506,30 @@
     }
   },
   {
+    "term": "folder",
+    "type": "word",
+    "pos": "N",
+    "translation": "文件夹；纸夹",
+    "analysis": "n cover for holding loose papers, etc, made of stiff material, esp cardboard, folded together 文件夹; 纸夹.",
+    "phonetic": "/ ˈfəʊldə(r); ˈfoldə/",
+    "origin": "待查",
+    "expansions": [
+      "文件夹；纸夹"
+    ],
+    "pronunciation": "/ ˈfəʊldə(r); ˈfoldə/",
+    "accepted_answers": [
+      "文件夹",
+      "纸夹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
     "term": "foliage",
     "type": "word",
     "translation": "植物的叶子（总称）；叶子及梗和枝；茂密的绿叶",
@@ -17680,6 +18602,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "folklorist",
+    "type": "word",
+    "pos": "N",
+    "translation": "民俗学研究者；民间音乐；民谣",
+    "analysis": "n person who studies folklore, esp as an academic subject 民俗学研究者.\nfolk-music (also folk), folk-song \nns music or song in the traditional style of a country 民间音乐; 民谣; 民歌.\nfolk-tale \nn popular story passed on in spoken form from one generation to the next 民间故事; 民间传说.",
+    "phonetic": "/ ˈfəʊklɔːrɪst; ˈfokˌlɔːrɪst/",
+    "origin": "待查",
+    "expansions": [
+      "民俗学研究者；民间音乐；民谣"
+    ],
+    "pronunciation": "/ ˈfəʊklɔːrɪst; ˈfokˌlɔːrɪst/",
+    "accepted_answers": [
+      "民俗学研究者",
+      "民间音乐",
+      "民谣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
   },
   {
     "term": "folksy",
@@ -18949,6 +19896,29 @@
     }
   },
   {
+    "term": "forcemeat",
+    "type": "word",
+    "pos": "N",
+    "translation": "加香料的碎肉（如用作填充烤鸡的馅）",
+    "analysis": "n [U] finely chopped meat mixed with herbs, etc and used as stuffing, eg in a roast chicken 加香料的碎肉（如用作填充烤鸡的馅）.",
+    "phonetic": "/ ˈfɔːsmiːt; ˈfɔːrsˌmit/",
+    "origin": "待查",
+    "expansions": [
+      "加香料的碎肉（如用作填充烤鸡的馅）"
+    ],
+    "pronunciation": "/ ˈfɔːsmiːt; ˈfɔːrsˌmit/",
+    "accepted_answers": [
+      "加香料的碎肉（如用作填充烤鸡的馅）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
     "term": "forceps",
     "type": "word",
     "translation": "（医生用的）钳子；镊子；一把钳子；产钳分娩",
@@ -19060,6 +20030,30 @@
       "飞机"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
+    "term": "forearm",
+    "type": "word",
+    "pos": "N",
+    "translation": "前臂；插图",
+    "analysis": "n part of the arm from the elbow to the wrist or fingertips 前臂. =>illus at human 见human插图.",
+    "phonetic": "/ ˈfɔːrɑː:m; ˈfɔːrˌɑːrm/",
+    "origin": "待查",
+    "expansions": [
+      "前臂；插图"
+    ],
+    "pronunciation": "/ ˈfɔːrɑː:m; ˈfɔːrˌɑːrm/",
+    "accepted_answers": [
+      "前臂",
+      "插图"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -20710,6 +21704,29 @@
     "dict_source": "data/DICT/F/F-m,n,o.txt"
   },
   {
+    "term": "forgetfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "forgetfully",
+    "analysis": "adv.\nforgetfulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "forgetfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "forgetfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
     "term": "forgivable",
     "type": "word",
     "translation": "可原谅的；可宽恕的；可饶恕的",
@@ -21313,6 +22330,30 @@
     }
   },
   {
+    "term": "formic acid",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "甲酸；蚁酸",
+    "analysis": "colourless acid used in textile finishing, etc originally obtained from ants but now produced synthetically 甲酸; 蚁酸.",
+    "phonetic": "/ ˌfɔːmɪkˈæsɪd; ˌfɔːrmɪkˈæsɪd/",
+    "origin": "待查",
+    "expansions": [
+      "甲酸；蚁酸"
+    ],
+    "pronunciation": "/ ˌfɔːmɪkˈæsɪd; ˌfɔːrmɪkˈæsɪd/",
+    "accepted_answers": [
+      "甲酸",
+      "蚁酸"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-c.txt"
+  },
+  {
     "term": "formica",
     "type": "word",
     "translation": "专利名)；福米加（贴於家具等表面的抗热硬塑料薄板）",
@@ -21382,6 +22423,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "formidably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "formidably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "formidably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "formidably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
   },
   {
     "term": "formula",
@@ -21595,6 +22659,29 @@
       "通奸"
     ],
     "added_at": "2026-03-30T03:04:37.993Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-m,n,o.txt"
+  },
+  {
+    "term": "fornication",
+    "type": "word",
+    "pos": "N",
+    "translation": "fornication",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌfɔːnɪˈkeɪʃn; ˌfɔːrnɪˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "fornication"
+    ],
+    "pronunciation": "/ ˌfɔːnɪˈkeɪʃn; ˌfɔːrnɪˈkeʃən/",
+    "accepted_answers": [
+      "fornication"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -23650,6 +24737,29 @@
     }
   },
   {
+    "term": "franc",
+    "type": "word",
+    "pos": "N",
+    "translation": "法郎（如法国、比利时和瑞士的货币单位）",
+    "analysis": "n unit of currency in eg France, Belgium and Switzerland 法郎（如法国、 比利时和瑞士的货币单位）.",
+    "phonetic": "/ fræŋk; fræŋk/",
+    "origin": "待查",
+    "expansions": [
+      "法郎（如法国、比利时和瑞士的货币单位）"
+    ],
+    "pronunciation": "/ fræŋk; fræŋk/",
+    "accepted_answers": [
+      "法郎（如法国、比利时和瑞士的货币单位）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "franchise",
     "type": "word",
     "translation": "（公众选举的）投票权；选举权；全体成年人都享有选举权的制度；英国妇女直到二十世纪才获得选举权",
@@ -23985,6 +25095,29 @@
     }
   },
   {
+    "term": "fraternisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "fraternisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌfrætənaɪˈzeɪʃn; -nɪˈz-; ˌfrætənɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "fraternisation"
+    ],
+    "pronunciation": "/ ˌfrætənaɪˈzeɪʃn; -nɪˈz-; ˌfrætənɪˈzeʃən/",
+    "accepted_answers": [
+      "fraternisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "fraternise",
     "type": "word",
     "translation": "（与敌军士兵、原敌国百姓）建立友谊；亲敌的士兵将受到惩罚；军职人员常被禁止与平民百姓友好往来",
@@ -24129,6 +25262,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fraudulence",
+    "type": "word",
+    "pos": "N",
+    "translation": "fraudulence",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈfrɔːdjUləns; -dʒU-; ˈfrɔːdʒələns/",
+    "origin": "待查",
+    "expansions": [
+      "fraudulence"
+    ],
+    "pronunciation": "/ ˈfrɔːdjUləns; -dʒU-; ˈfrɔːdʒələns/",
+    "accepted_answers": [
+      "fraudulence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "fraudulent",
@@ -24580,6 +25736,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "freezer",
+    "type": "word",
+    "pos": "N",
+    "translation": "冰柜；冷藏室；（冰箱里的）冷冻室",
+    "analysis": "n  1 (also deep freeze) large refrigerator or room in which food is stored for a long time at a temperature below freezing point 冰柜; 冷藏室.  2 small compartment in a refrigerator for freezing ice and storing frozen food （冰箱里的）冷冻室.",
+    "phonetic": "/ ˈfriːzə(r); ˈfrizə/",
+    "origin": "待查",
+    "expansions": [
+      "冰柜；冷藏室；（冰箱里的）冷冻室"
+    ],
+    "pronunciation": "/ ˈfriːzə(r); ˈfrizə/",
+    "accepted_answers": [
+      "冰柜",
+      "冷藏室",
+      "（冰箱里的）冷冻室"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "freight",
@@ -25260,6 +26441,31 @@
     "origin": "待查"
   },
   {
+    "term": "friday",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；星期五；关於",
+    "analysis": "n [U, C] (abbr 缩写 Fri) the sixth day of the week, next after Thursday 星期五. For the uses of Friday see the examples at Monday. 关於Friday的用法见Monday词条中的示例.",
+    "phonetic": "/ ˈfraɪdɪ; ˈfraɪdɪ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；星期五；关於"
+    ],
+    "pronunciation": "/ ˈfraɪdɪ; ˈfraɪdɪ/",
+    "accepted_answers": [
+      "缩写",
+      "星期五",
+      "关於"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "fridge",
     "type": "word",
     "pos": "N",
@@ -25794,6 +27000,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "frippery",
+    "type": "word",
+    "pos": "N",
+    "translation": "无必要的炫耀装饰（尤指服装上的）；通常作复数；廉价而无用的装饰",
+    "analysis": "n  1 [U] unnecessary showy ornamentation, esp in clothing 无必要的炫耀装饰（尤指服装上的）.  2 [C usu pl 通常作复数] cheap useless ornament 廉价而无用的装饰.",
+    "phonetic": "/ ˈfrɪpərɪ; ˈfrɪpərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "无必要的炫耀装饰（尤指服装上的）；通常作复数；廉价而无用的装饰"
+    ],
+    "pronunciation": "/ ˈfrɪpərɪ; ˈfrɪpərɪ/",
+    "accepted_answers": [
+      "无必要的炫耀装饰（尤指服装上的）",
+      "通常作复数",
+      "廉价而无用的装饰"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "frisca",
@@ -26472,6 +27703,31 @@
     }
   },
   {
+    "term": "frontiersman",
+    "type": "word",
+    "pos": "N",
+    "translation": "边疆居民；边民；拓荒者",
+    "analysis": "n (pl -men / -mEn; -mEn/) man living on the frontier; one of the first settlers of an area 边疆居民; 边民; 拓荒者; 开拓者.",
+    "phonetic": "/ -zmən; -zmən/",
+    "origin": "待查",
+    "expansions": [
+      "边疆居民；边民；拓荒者"
+    ],
+    "pronunciation": "/ -zmən; -zmən/",
+    "accepted_answers": [
+      "边疆居民",
+      "边民",
+      "拓荒者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "frontless",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -26611,6 +27867,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "frosting",
+    "type": "word",
+    "pos": "N",
+    "translation": "frosting",
+    "analysis": "n [U] (esp US) = icing.",
+    "phonetic": "/ ˈfrɒstɪŋ; ˈfrɔːstɪŋ; ˈfrɔːstɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "frosting"
+    ],
+    "pronunciation": "/ ˈfrɒstɪŋ; ˈfrɔːstɪŋ; ˈfrɔːstɪŋ/",
+    "accepted_answers": [
+      "frosting"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "frosty",
@@ -26906,6 +28185,29 @@
     }
   },
   {
+    "term": "fructification",
+    "type": "word",
+    "pos": "N",
+    "translation": "fructification",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌfrʌktɪfɪˈkeɪʃn; ˌfrʌktəfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "fructification"
+    ],
+    "pronunciation": "/ ˌfrʌktɪfɪˈkeɪʃn; ˌfrʌktəfəˈkeʃən/",
+    "accepted_answers": [
+      "fructification"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "fructificative",
     "type": "word",
     "translation": "…的；具有…倾向的",
@@ -27003,6 +28305,29 @@
     }
   },
   {
+    "term": "frugally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "frugally",
+    "analysis": "adv",
+    "phonetic": "/ -gəlɪ; -glɪ/",
+    "origin": "待查",
+    "expansions": [
+      "frugally"
+    ],
+    "pronunciation": "/ -gəlɪ; -glɪ/",
+    "accepted_answers": [
+      "frugally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
     "term": "fruit",
     "type": "word",
     "translation": "水果；水果的量；该国出口热带水果",
@@ -27090,6 +28415,29 @@
     "pronunciation": "/ ˈfruːtfəlɪ; ˈfrutfəlɪ/",
     "accepted_answers": [
       "fruitfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
+  },
+  {
+    "term": "fruitfulness",
+    "type": "word",
+    "pos": "N",
+    "translation": "fruitfulness",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈfruːtfəlnɪs; ˈfrutfəlnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "fruitfulness"
+    ],
+    "pronunciation": "/ ˈfruːtfəlnɪs; ˈfrutfəlnɪs/",
+    "accepted_answers": [
+      "fruitfulness"
     ],
     "added_at": "",
     "review": {
@@ -27292,6 +28640,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "fryer",
+    "type": "word",
+    "pos": "N",
+    "translation": "大而深的锅（用以炸食物、尤指鱼）；（适宜炸食的）雏鸡",
+    "analysis": "n  1 large deep pan for frying food, esp fish 大而深的锅（用以炸食物、 尤指鱼）.  2 (esp US) small young chicken suitable for frying （适宜炸食的）雏鸡.",
+    "phonetic": "/ ˈfraɪə(r); ˈfraɪə/",
+    "origin": "待查",
+    "expansions": [
+      "大而深的锅（用以炸食物、尤指鱼）；（适宜炸食的）雏鸡"
+    ],
+    "pronunciation": "/ ˈfraɪə(r); ˈfraɪə/",
+    "accepted_answers": [
+      "大而深的锅（用以炸食物、尤指鱼）",
+      "（适宜炸食的）雏鸡"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-p,q,r.txt"
   },
   {
     "term": "ft",
@@ -27860,6 +29232,30 @@
     }
   },
   {
+    "term": "fulminate",
+    "type": "word",
+    "pos": "V",
+    "translation": "强烈抗议；叱责",
+    "analysis": "v [I, Ipr] ~ (against sb/sth) protest strongly and loudly 强烈抗议; 叱责.",
+    "phonetic": "/ ˈfʌlmɪneɪt; ˈfUl-; ˈfJlməˌnet/",
+    "origin": "待查",
+    "expansions": [
+      "强烈抗议；叱责"
+    ],
+    "pronunciation": "/ ˈfʌlmɪneɪt; ˈfUl-; ˈfJlməˌnet/",
+    "accepted_answers": [
+      "强烈抗议",
+      "叱责"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "fulmination",
     "type": "word",
     "pos": "N",
@@ -28226,6 +29622,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "functionalist",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "功能主义的；功能主义者",
+    "analysis": "n, adj (believer in the principle) of functionalism 功能主义的; 功能主义者.",
+    "phonetic": "/ -ʃənəlɪst; -ʃənlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "功能主义的；功能主义者"
+    ],
+    "pronunciation": "/ -ʃənəlɪst; -ʃənlɪst/",
+    "accepted_answers": [
+      "功能主义的",
+      "功能主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "functionally",
@@ -29048,6 +30468,33 @@
     }
   },
   {
+    "term": "furlong",
+    "type": "word",
+    "pos": "N",
+    "translation": "弗隆；浪（长度单位；相当於；码、；米或",
+    "analysis": "n distance of 220 yards or 201 metres; one eighth of a mile 弗隆, 浪（长度单位, 相当於220码、 201米或1/8英里）. =>App 5 见附录5.",
+    "phonetic": "/ ˈfɜːlɒŋ; -lɔːŋ; ˈfɜːlɔːŋ/",
+    "origin": "待查",
+    "expansions": [
+      "弗隆；浪（长度单位；相当於；码、；米或"
+    ],
+    "pronunciation": "/ ˈfɜːlɒŋ; -lɔːŋ; ˈfɜːlɔːŋ/",
+    "accepted_answers": [
+      "弗隆",
+      "浪（长度单位",
+      "相当於",
+      "码、",
+      "米或"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "furlough",
     "type": "word",
     "translation": "休假（许可）（尤指给予在国外工作的官员、士兵等的）；个月的假期；休假回国",
@@ -29309,6 +30756,31 @@
       "此外",
       "再者",
       "而且"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "furthermost",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")（在空间或时间上）相隔最远的；继续教育（为超过中学学龄的人所设的正规教育；但并非大学）",
+    "analysis": "adj most distant in space or time; furthest (further 1) （在空间或时间上）相隔最远的.\nfurther education \nformal (but not university) education provided for people older than school age 继续教育（为超过中学学龄的人所设的正规教育, 但并非大学）.",
+    "phonetic": "/ -məʊst; -ˌmost/",
+    "origin": "待查",
+    "expansions": [
+      ")（在空间或时间上）相隔最远的；继续教育（为超过中学学龄的人所设的正规教育；但并非大学）"
+    ],
+    "pronunciation": "/ -məʊst; -ˌmost/",
+    "accepted_answers": [
+      ")（在空间或时间上）相隔最远的",
+      "继续教育（为超过中学学龄的人所设的正规教育",
+      "但并非大学）"
     ],
     "added_at": "",
     "review": {

@@ -1056,6 +1056,31 @@
     }
   },
   {
+    "term": "ebullient",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "精力充沛的；洋溢的；奔放的",
+    "analysis": "adj full of energy and excitement; exuberant 精力充沛的; 洋溢的; 奔放的.",
+    "phonetic": "/ ɪˈbʌlɪənt,alsoɪˈbUlɪənt; ɪˈbʌljənt/",
+    "origin": "待查",
+    "expansions": [
+      "精力充沛的；洋溢的；奔放的"
+    ],
+    "pronunciation": "/ ɪˈbʌlɪənt,alsoɪˈbUlɪənt; ɪˈbʌljənt/",
+    "accepted_answers": [
+      "精力充沛的",
+      "洋溢的",
+      "奔放的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
+  },
+  {
     "term": "ec",
     "type": "word",
     "translation": "缩写；东部中央；伦敦",
@@ -1165,6 +1190,29 @@
     "accepted_answers": [
       ")（基督教会的）传教士",
       "牧师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
+  },
+  {
+    "term": "ecclesiastically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ecclesiastically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ecclesiastically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "ecclesiastically"
     ],
     "added_at": "",
     "review": {
@@ -1759,6 +1807,29 @@
     }
   },
   {
+    "term": "ecumenically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ecumenically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ecumenically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "ecumenically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-b,c.txt"
+  },
+  {
     "term": "edam",
     "type": "word",
     "pos": "N",
@@ -2180,6 +2251,30 @@
     }
   },
   {
+    "term": "edp",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；电子数据处理",
+    "analysis": "abbr 缩写 = electronic data processing 电子数据处理.",
+    "phonetic": "/ ˌiːdiːˈpiː; ˌidiˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；电子数据处理"
+    ],
+    "pronunciation": "/ ˌiːdiːˈpiː; ˌidiˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "电子数据处理"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
     "term": "educate",
     "type": "word",
     "translation": "训练某人的思想和性格；教某人；教育某人",
@@ -2404,6 +2499,29 @@
     }
   },
   {
+    "term": "eerily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "eerily",
+    "analysis": "adv.",
+    "phonetic": "/ ˈɪərəlɪ; ˈɪrɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "eerily"
+    ],
+    "pronunciation": "/ ˈɪərəlɪ; ˈɪrɪlɪ/",
+    "accepted_answers": [
+      "eerily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
     "term": "eff",
     "type": "word",
     "translation": "讳；婉)(；走开；滚开",
@@ -2533,6 +2651,29 @@
     "dict_source": "data/DICT/E/E-d,e,f,g.txt"
   },
   {
+    "term": "effectually",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "effectually",
+    "analysis": "adv.",
+    "phonetic": "/ -əlɪ; -əlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "effectually"
+    ],
+    "pronunciation": "/ -əlɪ; -əlɪ/",
+    "accepted_answers": [
+      "effectually"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
     "term": "effeminate",
     "type": "word",
     "translation": "贬)(；（指男人或其行为）像女人的；没男子气的",
@@ -2554,6 +2695,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "effeminately",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "effeminately",
+    "analysis": "adv.",
+    "phonetic": "/ -lɪ; -lɪ/",
+    "origin": "待查",
+    "expansions": [
+      "effeminately"
+    ],
+    "pronunciation": "/ -lɪ; -lɪ/",
+    "accepted_answers": [
+      "effeminately"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
+    "term": "effervesce",
+    "type": "word",
+    "pos": "V",
+    "translation": "（指液体）释放出气泡；嘶嘶起泡；)(；文)(",
+    "analysis": "v  1 [I] (of a liquid) release bubbles of gas; fizz （指液体）释放出气泡, 嘶嘶起泡.  2 [I, Ipr] ~ (with sth) (fml 文) (of people) be happy, lively and excited （指人）愉快、 活跃而兴奋.",
+    "phonetic": "/ ˌefəˈves; ˌefəˈves/",
+    "origin": "待查",
+    "expansions": [
+      "（指液体）释放出气泡；嘶嘶起泡；)(；文)("
+    ],
+    "pronunciation": "/ ˌefəˈves; ˌefəˈves/",
+    "accepted_answers": [
+      "（指液体）释放出气泡",
+      "嘶嘶起泡",
+      ")(",
+      "文)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
   },
   {
     "term": "effervescent",
@@ -3022,6 +3212,30 @@
     }
   },
   {
+    "term": "eglantine",
+    "type": "word",
+    "pos": "N",
+    "translation": "多花蔷薇；野蔷薇",
+    "analysis": "(also sweet-briar) n [U] type of wild rose 多花蔷薇; 野蔷薇.",
+    "phonetic": "/ ˈegləntaɪn; ˈeglənˌtaɪn/",
+    "origin": "待查",
+    "expansions": [
+      "多花蔷薇；野蔷薇"
+    ],
+    "pronunciation": "/ ˈegləntaɪn; ˈeglənˌtaɪn/",
+    "accepted_answers": [
+      "多花蔷薇",
+      "野蔷薇"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
     "term": "ego",
     "type": "word",
     "translation": "心)；自我；参看",
@@ -3046,6 +3260,30 @@
     }
   },
   {
+    "term": "egocentric",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "只考虑自己的；以自我为中心的",
+    "analysis": "adj considering only oneself; self-centred 只考虑自己的;以自我为中心的.",
+    "phonetic": "/ ˌegəʊˈsentrɪk; ˌiːg-; ˌigoˈsentrɪk/",
+    "origin": "待查",
+    "expansions": [
+      "只考虑自己的；以自我为中心的"
+    ],
+    "pronunciation": "/ ˌegəʊˈsentrɪk; ˌiːg-; ˌigoˈsentrɪk/",
+    "accepted_answers": [
+      "只考虑自己的",
+      "以自我为中心的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
+  },
+  {
     "term": "egoistic",
     "type": "word",
     "translation": "自私自利的；利己主义者的；自我主义者的",
@@ -3067,6 +3305,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "egotism",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作贬义)；自我中心；自私自利",
+    "analysis": "n [U] (usu derog 通常作贬义) practice of talking too often or too much about oneself; selfishness 自我中心; 自私自利.",
+    "phonetic": "/ ˈegəʊtɪzəm; ˈiːg-; ˈigəˌtɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "通常作贬义)；自我中心；自私自利"
+    ],
+    "pronunciation": "/ ˈegəʊtɪzəm; ˈiːg-; ˈigəˌtɪzəm/",
+    "accepted_answers": [
+      "通常作贬义)",
+      "自我中心",
+      "自私自利"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-d,e,f,g.txt"
   },
   {
     "term": "egregious",
@@ -3166,6 +3429,31 @@
     }
   },
   {
+    "term": "eightieth",
+    "type": "word",
+    "pos": "N",
+    "translation": "第八十（个）；八十分之一；八十",
+    "analysis": "pron, det 80th; next after seventy-ninth 第80, 第八十（个）.  n one of eighty equal parts of sth 八十分之一.\neighty \nn  1 [C] the number 80 *80;八十.  2 the eighties [pl] numbers, years or temperature from 80 to 89 从80到89的数目、 年数或温度.  3 (idm 习语) in one's eighties between the ages of 80 and 90 在80岁到90岁之间. For the uses of eighty and eightieth see the examples at fifty, five and fifth. 关於eighty和eightieth的用法见fifty、 five和fifth词条中的示例.",
+    "phonetic": "/ ˈeɪtɪəθ; ˈetɪɪθ/",
+    "origin": "待查",
+    "expansions": [
+      "第八十（个）；八十分之一；八十"
+    ],
+    "pronunciation": "/ ˈeɪtɪəθ; ˈetɪɪθ/",
+    "accepted_answers": [
+      "第八十（个）",
+      "八十分之一",
+      "八十"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "eighty",
     "type": "word",
     "pos": "word",
@@ -3180,6 +3468,29 @@
     "accepted_answers": [
       "八十（个）",
       "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "eisteddfod",
+    "type": "word",
+    "pos": "N",
+    "translation": "在威尔士举行的诗人与音乐家的比赛年会",
+    "analysis": "n annual gathering in Wales where poets and musicians compete 在威尔士举行的诗人与音乐家的比赛年会.",
+    "phonetic": "/ ˌaɪˈsteTvɒd; aɪˈsteTvɑːd/",
+    "origin": "待查",
+    "expansions": [
+      "在威尔士举行的诗人与音乐家的比赛年会"
+    ],
+    "pronunciation": "/ ˌaɪˈsteTvɒd; aɪˈsteTvɑːd/",
+    "accepted_answers": [
+      "在威尔士举行的诗人与音乐家的比赛年会"
     ],
     "added_at": "",
     "review": {
@@ -3264,6 +3575,30 @@
     }
   },
   {
+    "term": "ejector",
+    "type": "word",
+    "pos": "N",
+    "translation": "弹射器（弹射人或物的装置）；)（飞行器上的）弹射座椅",
+    "analysis": "n device for ejecting people or things 弹射器（弹射人或物的装置）. ejector seat (US also ejection seat) seat in an aircraft that allows the pilot to eject(3) （飞行器上的）弹射座椅.",
+    "phonetic": "/ ɪˈdʒektə(r); ɪˈdʒektə/",
+    "origin": "待查",
+    "expansions": [
+      "弹射器（弹射人或物的装置）；)（飞行器上的）弹射座椅"
+    ],
+    "pronunciation": "/ ɪˈdʒektə(r); ɪˈdʒektə/",
+    "accepted_answers": [
+      "弹射器（弹射人或物的装置）",
+      ")（飞行器上的）弹射座椅"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "eke",
     "type": "word",
     "translation": "使小量物品用的时间长（靠节省用量或以他物弥补）；他们拣拾木柴以补充煤的不足；竭力维持（生活）",
@@ -3334,6 +3669,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "eland",
+    "type": "word",
+    "pos": "N",
+    "translation": "大角斑羚（非洲大羚羊）",
+    "analysis": "n large African antelope 大角斑羚（非洲大羚羊）.",
+    "phonetic": "/ ˈiːlənd; ˈilənd/",
+    "origin": "待查",
+    "expansions": [
+      "大角斑羚（非洲大羚羊）"
+    ],
+    "pronunciation": "/ ˈiːlənd; ˈilənd/",
+    "accepted_answers": [
+      "大角斑羚（非洲大羚羊）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
     "term": "elapse",
@@ -3559,6 +3917,30 @@
     }
   },
   {
+    "term": "elderberry",
+    "type": "word",
+    "pos": "N",
+    "translation": "接骨木浆果；接骨木浆果酒",
+    "analysis": "n fruit of an elder 接骨木浆果. ,elderberry `wine wine made from these berries 接骨木浆果酒.",
+    "phonetic": "/ ˈeldəbrɪ; ˈeldərˌberɪ; ˈeldəˌberɪ/",
+    "origin": "待查",
+    "expansions": [
+      "接骨木浆果；接骨木浆果酒"
+    ],
+    "pronunciation": "/ ˈeldəbrɪ; ˈeldərˌberɪ; ˈeldəˌberɪ/",
+    "accepted_answers": [
+      "接骨木浆果",
+      "接骨木浆果酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "elderly",
     "type": "word",
     "translation": "常作委婉语)(；（指人）相当老的；过了中年的；上了年纪的；按老年人来说；他非常活跃",
@@ -3662,6 +4044,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "electioneering",
+    "type": "word",
+    "pos": "N",
+    "translation": "竞选活动",
+    "analysis": "n [U] activity of trying to influence voters in an election by canvassing, making speeches, etc 竞选活动.",
+    "phonetic": "/ ɪˌlekʃəˈnɪərɪŋ; ɪˌlekʃənˈɪrɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "竞选活动"
+    ],
+    "pronunciation": "/ ɪˌlekʃəˈnɪərɪŋ; ɪˌlekʃənˈɪrɪŋ/",
+    "accepted_answers": [
+      "竞选活动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
     "term": "elective",
@@ -4035,6 +4440,30 @@
     "pronunciation": "/ ɪˌlektrəʊenˈsefələˌgrɑː:f; -græf; ɪˌlektroenˈsefələˌgræf/",
     "accepted_answers": [
       "脑电图仪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "electrolyte",
+    "type": "word",
+    "pos": "N",
+    "translation": "电解液；电解质",
+    "analysis": "n [C, U] (substance that can dissolve to produce a) solution able to conduct electric current, esp in an electric cell or battery 电解液; 电解质.",
+    "phonetic": "/ ɪˈlektrəlaɪt; ɪˈlektrəˌlaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "电解液；电解质"
+    ],
+    "pronunciation": "/ ɪˈlektrəlaɪt; ɪˈlektrəˌlaɪt/",
+    "accepted_answers": [
+      "电解液",
+      "电解质"
     ],
     "added_at": "",
     "review": {
@@ -4459,6 +4888,29 @@
     "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
   },
   {
+    "term": "elf",
+    "type": "word",
+    "pos": "N",
+    "translation": "小精灵、小妖精、小淘气",
+    "analysis": "n (pl elves / elvz; Zlvz/) type of small fairy; mischievous little creature 小精灵、 小妖精、 小淘气.",
+    "phonetic": "/ elf; elf/",
+    "origin": "待查",
+    "expansions": [
+      "小精灵、小妖精、小淘气"
+    ],
+    "pronunciation": "/ elf; elf/",
+    "accepted_answers": [
+      "小精灵、小妖精、小淘气"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
     "term": "elfin",
     "type": "word",
     "translation": "小精灵的；似小妖精的；小精灵的乐曲",
@@ -4626,6 +5078,31 @@
       "消除文字中的错误"
     ],
     "added_at": "2026-03-30T02:23:05.682Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-h,i,j,k,l.txt"
+  },
+  {
+    "term": "elision",
+    "type": "word",
+    "pos": "N",
+    "translation": "读音时省略一字的部分读音（如；省略部分读音；参看",
+    "analysis": "n (a) [U] leaving out of the sound of part of a word in pronunciation, as in we'll, don't and let's 读音时省略一字的部分读音（如we'll、 don't、 let's）. (b) [C] instance of this 省略部分读音. Cf 参看 elide.",
+    "phonetic": "/ ɪˈlɪʒn; ɪˈlɪʒən/",
+    "origin": "待查",
+    "expansions": [
+      "读音时省略一字的部分读音（如；省略部分读音；参看"
+    ],
+    "pronunciation": "/ ɪˈlɪʒn; ɪˈlɪʒən/",
+    "accepted_answers": [
+      "读音时省略一字的部分读音（如",
+      "省略部分读音",
+      "参看"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5272,6 +5749,29 @@
     }
   },
   {
+    "term": "emaciation",
+    "type": "word",
+    "pos": "N",
+    "translation": "emaciation",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪˌmeɪsɪˈeɪʃn; ɪˌmesɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "emaciation"
+    ],
+    "pronunciation": "/ ɪˌmeɪsɪˈeɪʃn; ɪˌmesɪˈeʃən/",
+    "accepted_answers": [
+      "emaciation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
+  },
+  {
     "term": "emanate",
     "type": "word",
     "translation": "文或谑)；来自某物；某人",
@@ -5410,6 +5910,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "embalmment",
+    "type": "word",
+    "pos": "N",
+    "translation": "embalmment",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪmˈbɑː:mmənt; also-bɑː:lm-; ɪmˈbɑːmmənt,-bɑːlm-/",
+    "origin": "待查",
+    "expansions": [
+      "embalmment"
+    ],
+    "pronunciation": "/ ɪmˈbɑː:mmənt; also-bɑː:lm-; ɪmˈbɑːmmənt,-bɑːlm-/",
+    "accepted_answers": [
+      "embalmment"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
   },
   {
     "term": "embankment",
@@ -7005,6 +7528,30 @@
     "pronunciation": "/ -klɪ; -klɪ/",
     "accepted_answers": [
       "empirically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-m.txt"
+  },
+  {
+    "term": "empiricist",
+    "type": "word",
+    "pos": "N",
+    "translation": "以观察或实验方法工作的人；经验主义者",
+    "analysis": "n person who works in an empirical way 以观察或实验方法工作的人; 经验主义者.",
+    "phonetic": "/ -sɪst; -sɪst/",
+    "origin": "待查",
+    "expansions": [
+      "以观察或实验方法工作的人；经验主义者"
+    ],
+    "pronunciation": "/ -sɪst; -sɪst/",
+    "accepted_answers": [
+      "以观察或实验方法工作的人",
+      "经验主义者"
     ],
     "added_at": "",
     "review": {
@@ -9857,6 +10404,29 @@
     }
   },
   {
+    "term": "entente cordiale",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "两政府间的相互谅解（尤指英国与法国间）",
+    "analysis": "entente between two governments, esp between those of Britain and France 两政府间的相互谅解（尤指英国与法国间）.",
+    "phonetic": "/ ˌkɔːdɪˈɑː:l; kɔːrˈdjɑːl/",
+    "origin": "待查",
+    "expansions": [
+      "两政府间的相互谅解（尤指英国与法国间）"
+    ],
+    "pronunciation": "/ ˌkɔːdɪˈɑː:l; kɔːrˈdjɑːl/",
+    "accepted_answers": [
+      "两政府间的相互谅解（尤指英国与法国间）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
     "term": "enter",
     "type": "word",
     "translation": ")进来；进去；进入（某物）中",
@@ -10620,6 +11190,32 @@
     "origin": "来自法语相关词形，词根和 trench（壕沟）有关。最初偏向“挖壕设防”，后来引申为“使某种局面牢固固定下来”。"
   },
   {
+    "term": "entrepot",
+    "type": "word",
+    "pos": "N",
+    "translation": "货仓；（进出口）货物集散地；贸易中心；转口港",
+    "analysis": "n (a) warehouse where goods being sent from one place to another may be stored temporarily 货仓. (b) trading centre or port for the import, export, collection and distribution of goods （进出口）货物集散地, 贸易中心, 转口港.",
+    "phonetic": "/ ˈɒntrəpəʊ; ˈɑːntrəˌpo/",
+    "origin": "待查",
+    "expansions": [
+      "货仓；（进出口）货物集散地；贸易中心；转口港"
+    ],
+    "pronunciation": "/ ˈɒntrəpəʊ; ˈɑːntrəˌpo/",
+    "accepted_answers": [
+      "货仓",
+      "（进出口）货物集散地",
+      "贸易中心",
+      "转口港"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
     "term": "entrepreneur",
     "type": "word",
     "translation": "企业家（尤指涉及财务风险的）；假若他不是那麽精明强干的企业家；就不会在这样冒险的事业中取得成功；承包人",
@@ -10810,6 +11406,29 @@
     }
   },
   {
+    "term": "enumeration",
+    "type": "word",
+    "pos": "N",
+    "translation": "enumeration",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ɪˌnjuːməˈreɪʃn; ɪˌnuː-; ɪˌnuməˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "enumeration"
+    ],
+    "pronunciation": "/ ɪˌnjuːməˈreɪʃn; ɪˌnuː-; ɪˌnuməˈreʃən/",
+    "accepted_answers": [
+      "enumeration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
+  },
+  {
     "term": "enunciate",
     "type": "word",
     "translation": "（清晰地）念（字）；发（音）；那演员发音很清晰；她把每个字都给学生慢慢念清楚",
@@ -10833,6 +11452,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "enunciation",
+    "type": "word",
+    "pos": "N",
+    "translation": "enunciation",
+    "analysis": "n [C, U].",
+    "phonetic": "/ ɪˌnʌnsɪˈeɪʃn; ɪˌnʌnsɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "enunciation"
+    ],
+    "pronunciation": "/ ɪˌnʌnsɪˈeɪʃn; ɪˌnʌnsɪˈeʃən/",
+    "accepted_answers": [
+      "enunciation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-n.txt"
   },
   {
     "term": "envelop",
@@ -11742,6 +12384,30 @@
     }
   },
   {
+    "term": "epns",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；（餐具等上的字样）电镀镍银",
+    "analysis": "abbr 缩写 = (on cutlery, tableware, etc) electroplated nickel silver （餐具等上的字样）电镀镍银.",
+    "phonetic": "/ ˌiːpiːenˈes; ˌipienˈes/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；（餐具等上的字样）电镀镍银"
+    ],
+    "pronunciation": "/ ˌiːpiːenˈes; ˌipienˈes/",
+    "accepted_answers": [
+      "缩写",
+      "（餐具等上的字样）电镀镍银"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-o,p,q.txt"
+  },
+  {
     "term": "epoch",
     "type": "word",
     "translation": "纪元；时代；时期",
@@ -11767,6 +12433,29 @@
     }
   },
   {
+    "term": "epsom salts",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "泻盐",
+    "analysis": "magnesium sulphate, a bitter white powder used medically to empty the bowels 泻盐.",
+    "phonetic": "/ ˌepsəmˈsɔːlts; ˈepsəmˈsɔːlts/",
+    "origin": "待查",
+    "expansions": [
+      "泻盐"
+    ],
+    "pronunciation": "/ ˌepsəmˈsɔːlts; ˈepsəmˈsɔːlts/",
+    "accepted_answers": [
+      "泻盐"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-o,p,q.txt"
+  },
+  {
     "term": "equable",
     "type": "word",
     "translation": "冷热适中的；温和的；温和的气候",
@@ -11789,6 +12478,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "equably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "equably",
+    "analysis": "adv.",
+    "phonetic": "/ ˈekwəblɪ; ˈekwəblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "equably"
+    ],
+    "pronunciation": "/ ˈekwəblɪ; ˈekwəblɪ/",
+    "accepted_answers": [
+      "equably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-o,p,q.txt"
   },
   {
     "term": "equal",
@@ -11820,6 +12532,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "equalisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "equalisation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌiːkwəlaɪˈzeɪʃn; -lɪˈz-; ˌikwələˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "equalisation"
+    ],
+    "pronunciation": "/ ˌiːkwəlaɪˈzeɪʃn; -lɪˈz-; ˌikwələˈzeʃən/",
+    "accepted_answers": [
+      "equalisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-o,p,q.txt"
   },
   {
     "term": "equalise",
@@ -12671,6 +13406,29 @@
     }
   },
   {
+    "term": "erg",
+    "type": "word",
+    "pos": "N",
+    "translation": "尔格（能量的公制单位）",
+    "analysis": "n unit of energy in the metric system 尔格（能量的公制单位）.",
+    "phonetic": "/ ɜːg; ɜːg/",
+    "origin": "待查",
+    "expansions": [
+      "尔格（能量的公制单位）"
+    ],
+    "pronunciation": "/ ɜːg; ɜːg/",
+    "accepted_answers": [
+      "尔格（能量的公制单位）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
     "term": "ergonomics",
     "type": "word",
     "pos": "N / V",
@@ -13331,6 +14089,30 @@
     }
   },
   {
+    "term": "escapee",
+    "type": "word",
+    "pos": "N",
+    "translation": ")逃脱者；（尤指）越狱者",
+    "analysis": "n person who has escaped (esp from prison) 逃脱者; （尤指）越狱者.",
+    "phonetic": "/ ɪˌskeɪˈpiː; ˌɪskeˈpi/",
+    "origin": "待查",
+    "expansions": [
+      ")逃脱者；（尤指）越狱者"
+    ],
+    "pronunciation": "/ ɪˌskeɪˈpiː; ˌɪskeˈpi/",
+    "accepted_answers": [
+      ")逃脱者",
+      "（尤指）越狱者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
     "term": "escapism",
     "type": "word",
     "translation": "常作贬义)(；逃避现实（的习气）；对有些人来说；吸毒是一种逃避现实的手段",
@@ -13377,6 +14159,29 @@
     }
   },
   {
+    "term": "escapologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "脱身术表演者",
+    "analysis": "n entertainer who specializes in this 脱身术表演者.",
+    "phonetic": "/ -lədʒɪst; -lədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "脱身术表演者"
+    ],
+    "pronunciation": "/ -lədʒɪst; -lədʒɪst/",
+    "accepted_answers": [
+      "脱身术表演者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
     "term": "escapology",
     "type": "word",
     "pos": "N",
@@ -13390,6 +14195,29 @@
     "pronunciation": "/ ˌeskəˈpɒlədʒɪ; ˌeskeˈpɑːlədʒɪ/",
     "accepted_answers": [
       "脱身术（表演）（尤指从铁链、口袋等中挣脱）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
+    "term": "escarpment",
+    "type": "word",
+    "pos": "N",
+    "translation": "（通常为处於高低两平原之间的）长而陡的坡或悬崖",
+    "analysis": "n long steep slope or cliff separating two areas at different levels, usu a plateau and a low-lying plain （通常为处於高低两平原之间的）长而陡的坡或悬崖.",
+    "phonetic": "/ ɪˈskɑː:pmənt; eˈskɑːrpmənt/",
+    "origin": "待查",
+    "expansions": [
+      "（通常为处於高低两平原之间的）长而陡的坡或悬崖"
+    ],
+    "pronunciation": "/ ɪˈskɑː:pmənt; eˈskɑːrpmənt/",
+    "accepted_answers": [
+      "（通常为处於高低两平原之间的）长而陡的坡或悬崖"
     ],
     "added_at": "",
     "review": {
@@ -13449,6 +14277,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "escritoire",
+    "type": "word",
+    "pos": "N",
+    "translation": "写字台",
+    "analysis": "n writing-desk with drawers for paper, envelopes, etc 写字台.",
+    "phonetic": "/ ˌeskrɪˈtwɑː:(r); ˌeskrɪˈtwɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "写字台"
+    ],
+    "pronunciation": "/ ˌeskrɪˈtwɑː:(r); ˌeskrɪˈtwɑːr/",
+    "accepted_answers": [
+      "写字台"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
   },
   {
     "term": "escutcheon",
@@ -13515,6 +14366,31 @@
       "神秘的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
+  },
+  {
+    "term": "esp",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；专业英语（教学或研究）；超感知觉",
+    "analysis": "abbr 缩写 =  1 (teaching, learning or studying) English for Special/Specific (eg scientific, technical, etc) Purposes 专业英语（教学或研究）.  2 extra-sensory perception 超感知觉.\nesp\nabbr 缩写 = especially.",
+    "phonetic": "/ ˌiːesˈpiː; ˌiesˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；专业英语（教学或研究）；超感知觉"
+    ],
+    "pronunciation": "/ ˌiːesˈpiː; ˌiesˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "专业英语（教学或研究）",
+      "超感知觉"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -13615,6 +14491,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "esperanto",
+    "type": "word",
+    "pos": "N",
+    "translation": "世界语",
+    "analysis": "n [U] artificial language designed for use by all nations 世界语.",
+    "phonetic": "/ ˌespəˈrntəʊ; ˌespəˈrænto/",
+    "origin": "待查",
+    "expansions": [
+      "世界语"
+    ],
+    "pronunciation": "/ ˌespəˈrntəʊ; ˌespəˈrænto/",
+    "accepted_answers": [
+      "世界语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-r,s.txt"
   },
   {
     "term": "espionage",
@@ -14516,6 +15415,29 @@
     "dict_source": "data/DICT/E/E-t,u,v,w.txt"
   },
   {
+    "term": "ethnological",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "民族学的",
+    "analysis": "adj of ethnology 民族学的.",
+    "phonetic": "/ ˌeθnəˈlɒdʒɪkl; ˌeθnəˈlɑːdʒɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "民族学的"
+    ],
+    "pronunciation": "/ ˌeθnəˈlɒdʒɪkl; ˌeθnəˈlɑːdʒɪkl/",
+    "accepted_answers": [
+      "民族学的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
     "term": "ethnologist",
     "type": "word",
     "pos": "N",
@@ -15225,6 +16147,29 @@
       "不久便淡忘的"
     ],
     "added_at": "2026-03-30T15:26:26+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-t,u,v,w.txt"
+  },
+  {
+    "term": "evangelicalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "福音派新教会的信仰与教义",
+    "analysis": "n [U] evangelical(2) beliefs and teachings 福音派新教会的信仰与教义.",
+    "phonetic": "/ -əlɪzəm; -əlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "福音派新教会的信仰与教义"
+    ],
+    "pronunciation": "/ -əlɪzəm; -əlɪzəm/",
+    "accepted_answers": [
+      "福音派新教会的信仰与教义"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -18091,6 +19036,33 @@
     "origin": "来自拉丁语 exsequi / executivus 一系，核心含义与“执行、完成、贯彻”有关，后来进入英语形成“执行者、行政人员、执行的”这些含义。"
   },
   {
+    "term": "exegesis",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；诠释；注解；注释（尤指对；圣经",
+    "analysis": "n (pl -ses / -siz; -siz/)[U, C] (fml 文) explanation and interpretation of a written work, esp the Bible 诠释, 注解, 注释（尤指对《圣经》的文字）.",
+    "phonetic": "/ ˌeksɪˈdʒiːsɪs; ˌeksəˈdʒisɪs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；诠释；注解；注释（尤指对；圣经"
+    ],
+    "pronunciation": "/ ˌeksɪˈdʒiːsɪs; ˌeksəˈdʒisɪs/",
+    "accepted_answers": [
+      "文)",
+      "诠释",
+      "注解",
+      "注释（尤指对",
+      "圣经"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
+  },
+  {
     "term": "exemplary",
     "type": "word",
     "translation": "用作模范的；可作楷模的；模范行为",
@@ -18582,6 +19554,29 @@
     }
   },
   {
+    "term": "exhilaration",
+    "type": "word",
+    "pos": "N",
+    "translation": "exhilaration",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪgˌzɪləˈreɪʃn; ɪgˌzɪləˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "exhilaration"
+    ],
+    "pronunciation": "/ ɪgˌzɪləˈreɪʃn; ɪgˌzɪləˈreʃən/",
+    "accepted_answers": [
+      "exhilaration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
+  },
+  {
     "term": "exhort",
     "type": "word",
     "translation": ")(；文)；劝告；规劝或告诫（某人）",
@@ -18921,6 +19916,29 @@
     }
   },
   {
+    "term": "exoneration",
+    "type": "word",
+    "pos": "N",
+    "translation": "exoneration",
+    "analysis": "n [U].",
+    "phonetic": "/ ɪgˌzɒnəˈreɪʃn; ɪgˌzɑːnəˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "exoneration"
+    ],
+    "pronunciation": "/ ɪgˌzɒnəˈreɪʃn; ɪgˌzɑːnəˈreʃən/",
+    "accepted_answers": [
+      "exoneration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
+  },
+  {
     "term": "exorbitance",
     "type": "word",
     "translation": "文)；过於昂贵",
@@ -18992,6 +20010,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "exorcist",
+    "type": "word",
+    "pos": "N",
+    "translation": "驱除邪魔者",
+    "analysis": "n person who exorcizes 驱除邪魔者.",
+    "phonetic": "/ ˈeksɔːsɪst; ˈeksɔːrˌsɪst/",
+    "origin": "待查",
+    "expansions": [
+      "驱除邪魔者"
+    ],
+    "pronunciation": "/ ˈeksɔːsɪst; ˈeksɔːrˌsɪst/",
+    "accepted_answers": [
+      "驱除邪魔者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
   },
   {
     "term": "exorcize",
@@ -20767,6 +21808,29 @@
     }
   },
   {
+    "term": "expressionism",
+    "type": "word",
+    "pos": "N",
+    "translation": "表现主义",
+    "analysis": "n [U] style of painting, music, drama, film, etc which tries to express the artist's or writer's emotional experience rather than to show the physical world in a realistic way 表现主义.",
+    "phonetic": "/ ɪkˈspreʃənɪzəm; ɪkˈspreʃənˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "表现主义"
+    ],
+    "pronunciation": "/ ɪkˈspreʃənɪzəm; ɪkˈspreʃənˌɪzəm/",
+    "accepted_answers": [
+      "表现主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
+  },
+  {
     "term": "expressionist",
     "type": "word",
     "translation": "表现主义流派的；表现主义流派的影片；他是表现主义者",
@@ -22183,6 +23247,29 @@
     }
   },
   {
+    "term": "extrusion",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)",
+    "analysis": "n [C, U] (fml 文).",
+    "phonetic": "/ ɪkˈstruːʒn; ɪkˈstruʒən/",
+    "origin": "待查",
+    "expansions": [
+      "文)"
+    ],
+    "pronunciation": "/ ɪkˈstruːʒn; ɪkˈstruʒən/",
+    "accepted_answers": [
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
+  },
+  {
     "term": "exuberance",
     "type": "word",
     "translation": "兴高采烈；活跃；愉快",
@@ -22408,6 +23495,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "eyelet",
+    "type": "word",
+    "pos": "N",
+    "translation": "（布、帆等上穿绳等用的）孔眼；（镶孔眼的）金属环",
+    "analysis": "n [C] small hole in cloth, in a sail, etc for a rope, etc to go through; metal ring round such a hole, to strengthen it （布、 帆等上穿绳等用的）孔眼; （镶孔眼的）金属环.",
+    "phonetic": "/ ˈaɪlɪt; ˈaɪlɪt/",
+    "origin": "待查",
+    "expansions": [
+      "（布、帆等上穿绳等用的）孔眼；（镶孔眼的）金属环"
+    ],
+    "pronunciation": "/ ˈaɪlɪt; ˈaɪlɪt/",
+    "accepted_answers": [
+      "（布、帆等上穿绳等用的）孔眼",
+      "（镶孔眼的）金属环"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/E/E-x,y,z.txt"
   },
   {
     "term": "eyewitness",

@@ -620,6 +620,31 @@
     }
   },
   {
+    "term": "ululate",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；嚎叫；哀号",
+    "analysis": "v [I] (fml 文) howl or wail 嚎叫; 哀号.",
+    "phonetic": "/ ˈjuːljUleɪt; ˈjuljəˌlet/",
+    "origin": "待查",
+    "expansions": [
+      "文)；嚎叫；哀号"
+    ],
+    "pronunciation": "/ ˈjuːljUleɪt; ˈjuljəˌlet/",
+    "accepted_answers": [
+      "文)",
+      "嚎叫",
+      "哀号"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "ululation",
     "type": "word",
     "translation": "女子哀悼中的恸哭",
@@ -1177,6 +1202,30 @@
     }
   },
   {
+    "term": "unadopted",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；（指道路）未经地方当局承担保养的",
+    "analysis": "adj (Brit) (of a road) not taken over for maintenance by a local authority （指道路）未经地方当局承担保养的.",
+    "phonetic": "/ ˌʌnəˈdɒptɪd; ˌʌnəˈdɑːptɪd/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（指道路）未经地方当局承担保养的"
+    ],
+    "pronunciation": "/ ˌʌnəˈdɒptɪd; ˌʌnəˈdɑːptɪd/",
+    "accepted_answers": [
+      ")(",
+      "（指道路）未经地方当局承担保养的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "unadulterated",
     "type": "word",
     "translation": "（尤指食物）不搀其他物质的；纯的；口)；完全的",
@@ -1247,6 +1296,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unanimity",
+    "type": "word",
+    "pos": "N",
+    "translation": "一致同意；全体一致",
+    "analysis": "n [U] complete agreement or unity 一致同意; 全体一致.\nunanimously \nadv.",
+    "phonetic": "/ ˌjuːnəˈnɪmətɪ; ˌjunəˈnɪmətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "一致同意；全体一致"
+    ],
+    "pronunciation": "/ ˌjuːnəˈnɪmətɪ; ˌjunəˈnɪmətɪ/",
+    "accepted_answers": [
+      "一致同意",
+      "全体一致"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unanimous",
@@ -2806,6 +2879,54 @@
     }
   },
   {
+    "term": "unconditionally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "unconditionally",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃənəlɪ; -ʃənəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "unconditionally"
+    ],
+    "pronunciation": "/ -ʃənəlɪ; -ʃənəlɪ/",
+    "accepted_answers": [
+      "unconditionally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
+    "term": "unconditioned",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（尤指反射）无条件的；先天的；参看",
+    "analysis": "adj (espof a reflex) not learned; instinctive （尤指反射）无条件的, 先天的. Cf 参看 conditioned reflex (condition2).",
+    "phonetic": "/ ˌʌnkənˈdɪʃnd; ˌʌnkənˈdɪʃənd/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指反射）无条件的；先天的；参看"
+    ],
+    "pronunciation": "/ ˌʌnkənˈdɪʃnd; ˌʌnkənˈdɪʃənd/",
+    "accepted_answers": [
+      "（尤指反射）无条件的",
+      "先天的",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "unconfirmed",
     "type": "word",
     "translation": "（指事实等）未经证实的；未予确认的；有关政变的未经证实的报道、谣传等",
@@ -3340,6 +3461,30 @@
     }
   },
   {
+    "term": "underachieve",
+    "type": "word",
+    "pos": "V",
+    "translation": "婉)；成绩未如理想（尤指功课）",
+    "analysis": "v [I] (euph 婉) do less well than was expected, esp in school work 成绩未如理想（尤指功课）.\nunderachiever \nn.",
+    "phonetic": "/ ˌʌndərəˈtʃiːv; ˌʌndərəˈtʃiv/",
+    "origin": "待查",
+    "expansions": [
+      "婉)；成绩未如理想（尤指功课）"
+    ],
+    "pronunciation": "/ ˌʌndərəˈtʃiːv; ˌʌndərəˈtʃiv/",
+    "accepted_answers": [
+      "婉)",
+      "成绩未如理想（尤指功课）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "underact",
     "type": "word",
     "translation": "表演（角色）不够尽心、尽力等；他演剧名角色演得很不带劲；参看",
@@ -3415,6 +3560,31 @@
     }
   },
   {
+    "term": "underbid",
+    "type": "word",
+    "pos": "V",
+    "translation": "出价低於（他人）（如拍卖时）；（桥牌等中）叫牌低於（手中牌）的实力；参看",
+    "analysis": "v (-dd-; pt, pp underbid)  1 [Tn] make a lower bid than (sb else), eg at an auction 出价低於（他人）（如拍卖时）.  2 [I, Tn] (in bridge, etc) bid less on (a hand of cards) than its strength suggests （桥牌等中）叫牌低於（手中牌）的实力. Cf 参看 overbid.",
+    "phonetic": "/ ˌʌndəˈbɪd; ˌʌndəˈbɪd/",
+    "origin": "待查",
+    "expansions": [
+      "出价低於（他人）（如拍卖时）；（桥牌等中）叫牌低於（手中牌）的实力；参看"
+    ],
+    "pronunciation": "/ ˌʌndəˈbɪd; ˌʌndəˈbɪd/",
+    "accepted_answers": [
+      "出价低於（他人）（如拍卖时）",
+      "（桥牌等中）叫牌低於（手中牌）的实力",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "underbrush",
     "type": "word",
     "pos": "N",
@@ -3482,6 +3652,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "underclothes",
+    "type": "word",
+    "pos": "N",
+    "translation": "文雅语作",
+    "analysis": "n [pl] (also fml 文雅语作  underclothing / -klEUTIN; -kloTIN/ [U])= underwear.",
+    "phonetic": "/ ˈʌndəkləʊTz; ˈʌndəˌkloTz/",
+    "origin": "待查",
+    "expansions": [
+      "文雅语作"
+    ],
+    "pronunciation": "/ ˈʌndəkləʊTz; ˈʌndəˌkloTz/",
+    "accepted_answers": [
+      "文雅语作"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "undercoat",
@@ -4342,6 +4535,29 @@
     }
   },
   {
+    "term": "underscore",
+    "type": "word",
+    "pos": "V",
+    "translation": "underscore",
+    "analysis": "v [Tn] = underline.",
+    "phonetic": "/ ˌʌndəˈskɔː(r); ˌʌndəˈskɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "underscore"
+    ],
+    "pronunciation": "/ ˌʌndəˈskɔː(r); ˌʌndəˈskɔːr/",
+    "accepted_answers": [
+      "underscore"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "undersea",
     "type": "word",
     "translation": "海面下的；海下探测",
@@ -5124,6 +5340,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "undischarged",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "财)；（指债务）未偿清的；（尤指破产的个人或公司）仍须清偿债务的",
+    "analysis": "adj (finance 财)  1 (of a debt) not paid （指债务）未偿清的.  2 (esp of a bankrupt person or firm) still legally obliged to pay money owing to creditors （尤指破产的个人或公司）仍须清偿债务的. Cf 参看 discharge.",
+    "phonetic": "/ ˌʌndɪsˈtʃɑː:dʒd; ˌʌndɪsˈtʃɑːrdʒd/",
+    "origin": "待查",
+    "expansions": [
+      "财)；（指债务）未偿清的；（尤指破产的个人或公司）仍须清偿债务的"
+    ],
+    "pronunciation": "/ ˌʌndɪsˈtʃɑː:dʒd; ˌʌndɪsˈtʃɑːrdʒd/",
+    "accepted_answers": [
+      "财)",
+      "（指债务）未偿清的",
+      "（尤指破产的个人或公司）仍须清偿债务的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "undisputed",
@@ -7005,6 +7246,30 @@
     }
   },
   {
+    "term": "unicellular",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "生)(；（指有机体）单细胞组成的",
+    "analysis": "adj (biology 生) (of an organism) consisting of a single cell （指有机体）单细胞组成的.",
+    "phonetic": "/ ˌjuːnɪˈseljUlə(r); ˌjunɪˈseljələ/",
+    "origin": "待查",
+    "expansions": [
+      "生)(；（指有机体）单细胞组成的"
+    ],
+    "pronunciation": "/ ˌjuːnɪˈseljUlə(r); ˌjunɪˈseljələ/",
+    "accepted_answers": [
+      "生)(",
+      "（指有机体）单细胞组成的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "unidentified",
     "type": "word",
     "translation": "不能辨认的；无法识别的；辨别不出的种类、潜艇、来客",
@@ -7277,6 +7542,29 @@
     }
   },
   {
+    "term": "unintelligibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "unintelligibly",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "unintelligibly"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "unintelligibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "uninviting",
     "type": "word",
     "translation": "不吸引人的；令人反感的；凉鱼和炸土豆条这样一顿不起眼的饭食",
@@ -7325,6 +7613,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unionisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "联合王国国旗；英国国旗",
+    "analysis": "n [U].\nthe Union Jack (also the Union flag) \nthe national flag of the United Kingdom 联合王国国旗; 英国国旗.",
+    "phonetic": "/ ˌjuːnɪənaɪˈzeɪʃn; US-nɪˈz-; ˌjunjənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "联合王国国旗；英国国旗"
+    ],
+    "pronunciation": "/ ˌjuːnɪənaɪˈzeɪʃn; US-nɪˈz-; ˌjunjənəˈzeʃən/",
+    "accepted_answers": [
+      "联合王国国旗",
+      "英国国旗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unionise",
@@ -7829,6 +8141,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unlace",
+    "type": "word",
+    "pos": "V",
+    "translation": "解开（尤指鞋）的带子；解开带子以放开或松开（某物）",
+    "analysis": "v [Tn] undo the laces of (esp shoes); unfasten or loosen (sth) by slackening its laces 解开（尤指鞋）的带子; 解开带子以放开或松开（某物）.",
+    "phonetic": "/ ʌnˈleɪs; ʌnˈles/",
+    "origin": "待查",
+    "expansions": [
+      "解开（尤指鞋）的带子；解开带子以放开或松开（某物）"
+    ],
+    "pronunciation": "/ ʌnˈleɪs; ʌnˈles/",
+    "accepted_answers": [
+      "解开（尤指鞋）的带子",
+      "解开带子以放开或松开（某物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unladen",
@@ -9383,6 +9719,31 @@
     }
   },
   {
+    "term": "unputdownable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)(；（指书等）爱不忍释的；不忍释手的",
+    "analysis": "adj (infml 口) (of a book, etc) so interesting or absorbing that the reader is reluctant to stop reading until he has finished it （指书等）爱不忍释的, 不忍释手的.",
+    "phonetic": "/ ˌʌnpUtˈdaUnəbl; ˌʌnpJtˈdaJnəbl/",
+    "origin": "待查",
+    "expansions": [
+      "口)(；（指书等）爱不忍释的；不忍释手的"
+    ],
+    "pronunciation": "/ ˌʌnpUtˈdaUnəbl; ˌʌnpJtˈdaJnəbl/",
+    "accepted_answers": [
+      "口)(",
+      "（指书等）爱不忍释的",
+      "不忍释手的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "unqualified",
     "type": "word",
     "translation": "无资格的；不合格的；不合格的教师",
@@ -9429,6 +9790,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "unquestionably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "unquestionably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "unquestionably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "unquestionably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
   },
   {
     "term": "unquestioned",
@@ -11277,6 +11661,29 @@
     }
   },
   {
+    "term": "untruthful",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "untruthful",
+    "analysis": "adj.",
+    "phonetic": "/ ʌnˈtruːθfl; ʌnˈtruθfəl/",
+    "origin": "待查",
+    "expansions": [
+      "untruthful"
+    ],
+    "pronunciation": "/ ʌnˈtruːθfl; ʌnˈtruθfəl/",
+    "accepted_answers": [
+      "untruthful"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-a~n.txt"
+  },
+  {
     "term": "untutored",
     "type": "word",
     "translation": "文或谑)；未受教导的；未经训练的",
@@ -12322,6 +12729,30 @@
     }
   },
   {
+    "term": "upholstery",
+    "type": "word",
+    "pos": "N",
+    "translation": "家具装饰用品业；家具装饰材料",
+    "analysis": "n [U]  1 trade of an upholsterer 家具装饰用品业.  2 materials used in this trade 家具装饰材料.",
+    "phonetic": "/ -stərɪ; -stərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "家具装饰用品业；家具装饰材料"
+    ],
+    "pronunciation": "/ -stərɪ; -stərɪ/",
+    "accepted_answers": [
+      "家具装饰用品业",
+      "家具装饰材料"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
+  },
+  {
     "term": "upkeep",
     "type": "word",
     "translation": "保养；维修；养护",
@@ -13213,6 +13644,30 @@
     "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
+    "term": "urbanize",
+    "type": "word",
+    "pos": "word",
+    "translation": "尤用於被动语态；使（尤指农村地区）城市化",
+    "analysis": "[Tn esp passive 尤用於被动语态] change (esp a rural place) into a town-likearea 使（尤指农村地区）城市化.",
+    "phonetic": "/ -aɪz; -ˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "尤用於被动语态；使（尤指农村地区）城市化"
+    ],
+    "pronunciation": "/ -aɪz; -ˌaɪz/",
+    "accepted_answers": [
+      "尤用於被动语态",
+      "使（尤指农村地区）城市化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
+  },
+  {
     "term": "urchin",
     "type": "word",
     "translation": ")(；尤作旧)；顽童；淘气鬼（尤指男孩）",
@@ -13263,6 +13718,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "urea",
+    "type": "word",
+    "pos": "N",
+    "translation": "尿素",
+    "analysis": "n [U] white soluble crystalline compound contained esp in the urine of mammals 尿素.",
+    "phonetic": "/ jUəˈrɪə; ˈjUrɪə; ˈjJrɪə/",
+    "origin": "待查",
+    "expansions": [
+      "尿素"
+    ],
+    "pronunciation": "/ jUəˈrɪə; ˈjUrɪə; ˈjJrɪə/",
+    "accepted_answers": [
+      "尿素"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
     "term": "urethra",
@@ -13509,6 +13987,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "usa",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；美国陆军；（尤用於地址）美利坚合众国",
+    "analysis": "abbr 缩写 =  1 (US) United States Army 美国陆军.  2 (esp in addresses) United States of America （尤用於地址）美利坚合众国.",
+    "phonetic": "/ ˌjuːesˈeɪ; ˌjuesˈe/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；美国陆军；（尤用於地址）美利坚合众国"
+    ],
+    "pronunciation": "/ ˌjuːesˈeɪ; ˌjuesˈe/",
+    "accepted_answers": [
+      "缩写",
+      "美国陆军",
+      "（尤用於地址）美利坚合众国"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
     "term": "usable",
@@ -13805,6 +14308,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ussr",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；苏联",
+    "analysis": "abbr 缩写 = Union of Soviet Socialist Republics 苏联.",
+    "phonetic": "/ ˌjuːesesˈɑː:(r); ˌjuesesˈɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；苏联"
+    ],
+    "pronunciation": "/ ˌjuːesesˈɑː:(r); ˌjuesesˈɑːr/",
+    "accepted_answers": [
+      "缩写",
+      "苏联"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/U/U-o~z.txt"
   },
   {
     "term": "usual",

@@ -24,6 +24,128 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kale",
+    "type": "word",
+    "pos": "N",
+    "translation": "羽衣甘蓝",
+    "analysis": "n [U] type of cabbage with curly leaves 羽衣甘蓝.",
+    "phonetic": "/ keɪl; kel/",
+    "origin": "待查",
+    "expansions": [
+      "羽衣甘蓝"
+    ],
+    "pronunciation": "/ keɪl; kel/",
+    "accepted_answers": [
+      "羽衣甘蓝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kaleidoscope",
+    "type": "word",
+    "pos": "N",
+    "translation": "万花筒；)(；通常作单数)(",
+    "analysis": "n (a) toy consisting of a tube containing small loose pieces of coloured glass, etc and mirrors which reflect these to form changing patterns when the tube is turned 万花筒. (b) (usu sing 通常作单数) (fig 比喻) constantly and quickly changing pattern 千变万化; 瞬息万变: His paintings are a kaleidoscope of gorgeous colours. 他的油画色彩斑斓, 变化万千. * The bazaar was a kaleidoscope of strange sights and impressions. 集市的景象光怪陆离, 纷然杂陈.",
+    "phonetic": "/ kəˈlaɪdəskəʊp; kəˈlaɪdəˌskop/",
+    "origin": "待查",
+    "expansions": [
+      "His paintings are a kaleidoscope of gorgeous colours. 他的油画色彩斑斓, 变化万千.",
+      "The bazaar was a kaleidoscope of strange sights and impressions. 集市的景象光怪陆离, 纷然杂陈."
+    ],
+    "pronunciation": "/ kəˈlaɪdəskəʊp; kəˈlaɪdəˌskop/",
+    "accepted_answers": [
+      "万花筒",
+      ")(",
+      "通常作单数)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kaleidoscopic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "kaleidoscopic",
+    "analysis": "adj.",
+    "phonetic": "/ kəˌlaɪdəˈskɒpɪk; kəˌlaɪdəˈskɑːpɪk/",
+    "origin": "待查",
+    "expansions": [
+      "kaleidoscopic"
+    ],
+    "pronunciation": "/ kəˌlaɪdəˈskɒpɪk; kəˌlaɪdəˈskɑːpɪk/",
+    "accepted_answers": [
+      "kaleidoscopic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kaleidoscopically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "kaleidoscopically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "kaleidoscopically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "kaleidoscopically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kamikaze",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（第二次世界大战中日本的）神风飞机；神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）；神风飞机的攻击",
+    "analysis": "n (in World War II) (pilot of a) Japanese aircraft deliberately crashed on enemy ships, etc （第二次世界大战中日本的）神风飞机, 神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）: [attrib 作定语] a kamikaze attack 神风飞机的攻击 * (fig 比喻) kamikaze (ie suicidal) tactics 同归於尽的战术.",
+    "phonetic": "/ ˌkæmɪˈkɑː:zɪ; ˌkɑːmɪˈkɑːzi/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] a kamikaze attack 神风飞机的攻击",
+      "(fig 比喻) kamikaze (ie suicidal) tactics 同归於尽的战术."
+    ],
+    "pronunciation": "/ ˌkæmɪˈkɑː:zɪ; ˌkɑːmɪˈkɑːzi/",
+    "accepted_answers": [
+      ")(",
+      "（第二次世界大战中日本的）神风飞机",
+      "神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）",
+      "神风飞机的攻击"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kangaroo",
     "type": "word",
     "pos": "N",
@@ -39,6 +161,29 @@
       "袋鼠（产於澳洲）",
       "见插图",
       "私设的公堂（囚犯、罢工工人等为解决内部纠纷而设的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kapok",
+    "type": "word",
+    "pos": "N",
+    "translation": "木棉",
+    "analysis": "n [U] substance like cotton wool, used for stuffing cushions, soft toys, etc 木棉.",
+    "phonetic": "/ ˈkeɪpɒk; ˈkepɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "木棉"
+    ],
+    "pronunciation": "/ ˈkeɪpɒk; ˈkepɑːk/",
+    "accepted_answers": [
+      "木棉"
     ],
     "added_at": "",
     "review": {
@@ -74,6 +219,54 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "karma",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（佛教和印度教的）业（音译；羯磨",
+    "analysis": "n [U] (a) (in Buddhism and Hinduism) sum of a person's actions in one of his successive lives, believed to decide his fate in the next （佛教和印度教的）业（音译｀羯磨＇, 意为个人行为的总和可决定其来世的命运）. (b) (esp joc 尤作戏谑语) destiny; fate 命运; 宿缘: It's my karma always to fall in love with brunettes. 我爱上的总是深褐色头发、 浅黑色皮肤的白种女子, 这是我的缘分.",
+    "phonetic": "/ ˈkɑː:mə; ˈkɑːrmə/",
+    "origin": "待查",
+    "expansions": [
+      "It's my karma always to fall in love with brunettes. 我爱上的总是深褐色头发、 浅黑色皮肤的白种女子, 这是我的缘分."
+    ],
+    "pronunciation": "/ ˈkɑː:mə; ˈkɑːrmə/",
+    "accepted_answers": [
+      ")(",
+      "（佛教和印度教的）业（音译",
+      "羯磨"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kart",
+    "type": "word",
+    "pos": "N",
+    "translation": "kart",
+    "analysis": "n = go-kart.",
+    "phonetic": "/ kɑː:t; kɑːrt/",
+    "origin": "待查",
+    "expansions": [
+      "kart"
+    ],
+    "pronunciation": "/ kɑː:t; kɑːrt/",
+    "accepted_answers": [
+      "kart"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kbe",
     "type": "word",
     "pos": "word",
@@ -90,6 +283,84 @@
       "缩写",
       "（第二等的）大英帝国最高勋爵",
       "英帝国爵级司令勋章"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "keen",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "热切的；热情的；热心的",
+    "analysis": "adj (-er, -est)  1 ~ (to do sth/that...) eager; enthusiastic 热切的; 热情的; 热心的: a keen swimmer 喜好游泳的人 * I'm not keen to go again. 我不太想再去了. * She's keen that we should go. 她热情地叫我们去.  2 (of feelings, etc) intense; strong; deep （指感情等）热烈的, 强烈的, 深刻的: a keen desire, interest, sense of loss 强烈的愿望、 兴趣、 失落感.  3 (of the senses) highly developed （指感觉）灵敏的, 敏锐的: Dogs have a keen sense of smell. 狗的嗅觉很灵敏.  4 (of the mind) quick to understand （指头脑）敏捷的, 精明的: a keen wit, intelligence 敏捷的头脑、 很强的理解力.  5 [esp attrib 尤作定语] (of the points and cutting edges of knives, etc) sharp （指刀等的尖和刃）锋利的, 快的: a keen blade, edge 锋利的刀片、 刀刃.  6 (of a wind) bitterly cold （指风）刺骨的, 凛冽的.  7 (Brit) (of prices) low; very competitive （指价格）低廉的, 竞争力强的.  8 (idm 习语) (as) ,keen as `mustard (infml 口) extremely eager or enthusiastic 极热心的; 极热情的. keen on sth/sb (infml 口) (a) interested in sth 热衷於某事物: keen on (playing) tennis 很喜欢（打）网球. (b) fond of sb/sth 喜爱某人[某事物]: He seemed mad keen on (ie very interested in) my sister. 他发疯似的爱著我妹妹. * I'm not too keen on jazz. 我不太喜欢爵士乐. (c) enthusiastic about sth 对某事物满腔热情的: She's not very keen on the idea. 她对那主张不很感兴趣. * Mrs Hill is keen on Tom's marrying Susan. 希尔太太很希望汤姆能和苏珊结婚.\nkeenly \nadv. \nkeenness \nn [U].",
+    "phonetic": "/ kiːn; kin/",
+    "origin": "待查",
+    "expansions": [
+      "a keen swimmer 喜好游泳的人",
+      "I'm not keen to go again. 我不太想再去了.",
+      "She's keen that we should go. 她热情地叫我们去. 2 (of feelings, etc) intense; strong; deep （指感情等）热烈的, 强烈的, 深刻的: a keen desire, interest, sense of loss 强烈的愿望、 兴趣、 失落感. 3 (of the senses) highly developed （指感觉）灵敏的, 敏锐的: Dogs have a keen sense of smell. 狗的嗅觉很灵敏. 4 (of the mind) quick to understand （指头脑）敏捷的, 精明的: a keen wit, intelligence 敏捷的头脑、 很强的理解力. 5 [esp attrib 尤作定语] (of the points and cutting edges of knives, etc) sharp （指刀等的尖和刃）锋利的, 快的: a keen blade, edge 锋利的刀片、 刀刃. 6 (of a wind) bitterly cold （指风）刺骨的, 凛冽的. 7 (Brit) (of prices) low; very competitive （指价格）低廉的, 竞争力强的. 8 (idm 习语) (as) ,keen as `mustard (infml 口) extremely eager or enthusiastic 极热心的; 极热情的. keen on sth/sb (infml 口) (a) interested in sth 热衷於某事物: keen on (playing) tennis 很喜欢（打）网球. (b) fond of sb/sth 喜爱某人[某事物]: He seemed mad keen on (ie very interested in) my sister. 他发疯似的爱著我妹妹.",
+      "I'm not too keen on jazz. 我不太喜欢爵士乐. (c) enthusiastic about sth 对某事物满腔热情的: She's not very keen on the idea. 她对那主张不很感兴趣.",
+      "Mrs Hill is keen on Tom's marrying Susan. 希尔太太很希望汤姆能和苏珊结婚."
+    ],
+    "pronunciation": "/ kiːn; kin/",
+    "accepted_answers": [
+      "热切的",
+      "热情的",
+      "热心的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "keepsake",
+    "type": "word",
+    "pos": "N",
+    "translation": "纪念品；我的姑母把她的一只胸针送给我作纪念",
+    "analysis": "n gift, usu small and often not very costly, that is kept in memory of the giver or previous owner 纪念品: My aunt gave me one of her brooches as a keepsake. 我的姑母把她的一只胸针送给我作纪念.",
+    "phonetic": "/ ˈkiːpseɪk; ˈkipˌsek/",
+    "origin": "待查",
+    "expansions": [
+      "My aunt gave me one of her brooches as a keepsake. 我的姑母把她的一只胸针送给我作纪念."
+    ],
+    "pronunciation": "/ ˈkiːpseɪk; ˈkipˌsek/",
+    "accepted_answers": [
+      "纪念品",
+      "我的姑母把她的一只胸针送给我作纪念"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "keg",
+    "type": "word",
+    "pos": "N",
+    "translation": "小桶（通常容量不足；英加仑或；美加仑）",
+    "analysis": "n small barrel, usu containing less than 10 British or 30 US gallons of liquid 小桶（通常容量不足10英加仑或30美加仑）. =>illus at barrel 见barrel插图.\nkeg beer \n(Brit) beer served from kegs, using gas pressure 小桶啤酒（用气压压出）.",
+    "phonetic": "/ keg; keg/",
+    "origin": "待查",
+    "expansions": [
+      "小桶（通常容量不足；英加仑或；美加仑）"
+    ],
+    "pronunciation": "/ keg; keg/",
+    "accepted_answers": [
+      "小桶（通常容量不足",
+      "英加仑或",
+      "美加仑）"
     ],
     "added_at": "",
     "review": {
@@ -199,6 +470,29 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kerosine",
+    "type": "word",
+    "pos": "N",
+    "translation": "煤油灯",
+    "analysis": "n [U] (esp US) = paraffin 1: [attrib 作定语] a kerosene lamp 煤油灯.",
+    "phonetic": "/ ˈkerəsiːn; ˈkerəˌsin/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] a kerosene lamp 煤油灯."
+    ],
+    "pronunciation": "/ ˈkerəsiːn; ˈkerəˌsin/",
+    "accepted_answers": [
+      "煤油灯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kestrel",
     "type": "word",
     "pos": "N",
@@ -268,6 +562,57 @@
       ")钥匙",
       "转动锁孔中的钥匙",
       "汽车钥匙"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kibbutznik",
+    "type": "word",
+    "pos": "N",
+    "translation": "基布兹成员",
+    "analysis": "n member of a kibbutz 基布兹成员.",
+    "phonetic": "/ -nɪk; -nɪk/",
+    "origin": "待查",
+    "expansions": [
+      "基布兹成员"
+    ],
+    "pronunciation": "/ -nɪk; -nɪk/",
+    "accepted_answers": [
+      "基布兹成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kid",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；小孩；年轻人",
+    "analysis": "n  1 (a) [C] (infml 口) child or young person 小孩; 年轻人: How are your wife and kids? 夫人和孩子们都好吗? * Half the kids round here are unemployed. 这里的年轻人有一半失业. (b) [attrib 作定语] (infml 口 esp US) younger 较年幼的: his kid sister/brother 他的妹妹[弟弟].  2 (a) [C] young goat 小山羊. =>illus at goat 见goat插图. (b) [U] leather made from its skin 小山羊皮革: a bag made of kid 小山羊皮手提包 * [attrib 作定语] a pair of kid gloves 一副小山羊皮手套.  3 (idm 习语) handle, treat, etc sb with kid `gloves deal with sb very gently or tactfully 以温和的或圆通的手段对待某人.\nkiddy (also kiddie) \nn (infml 口) child 小孩儿.\nkid-glove \nadj [attrib 作定语] gentle; tactful 温柔的; 圆通的: Kid-glove methods haven't worked  it's time to get tough. 既然软的办法不行--那就来硬的.",
+    "phonetic": "/ kɪd; kɪd/",
+    "origin": "待查",
+    "expansions": [
+      "How are your wife and kids? 夫人和孩子们都好吗?",
+      "Half the kids round here are unemployed. 这里的年轻人有一半失业. (b) [attrib 作定语] (infml 口 esp US) younger 较年幼的: his kid sister/brother 他的妹妹[弟弟]. 2 (a) [C] young goat 小山羊. =>illus at goat 见goat插图. (b) [U] leather made from its skin 小山羊皮革: a bag made of kid 小山羊皮手提包",
+      "[attrib 作定语] a pair of kid gloves 一副小山羊皮手套. 3 (idm 习语) handle, treat, etc sb with kid `gloves deal with sb very gently or tactfully 以温和的或圆通的手段对待某人.",
+      "Kid-glove methods haven't worked it's time to get tough. 既然软的办法不行--那就来硬的."
+    ],
+    "pronunciation": "/ kɪd; kɪd/",
+    "accepted_answers": [
+      "口)",
+      "小孩",
+      "年轻人"
     ],
     "added_at": "",
     "review": {
@@ -402,6 +747,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kilogram",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；千克；公斤",
+    "analysis": "n (abbr 缩写 kg) basic unit of mass in the SI system; 1000 grams 千克; 公斤. =>App 5, 11 见附录5、 11.",
+    "phonetic": "/ ˈkɪləgræm; ˈkɪləˌgræm/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；千克；公斤"
+    ],
+    "pronunciation": "/ ˈkɪləgræm; ˈkɪləˌgræm/",
+    "accepted_answers": [
+      "缩写",
+      "千克",
+      "公斤"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kilometre",
     "type": "word",
     "pos": "N",
@@ -429,6 +799,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kimono",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；和服（日式长袍）；（和服式）晨服",
+    "analysis": "n (pl ~s) (a) long loose Japanese robe with wide sleeves, worn with a sash 和服（日式长袍）. (b) dressing-gown resembling this （和服式）晨服.",
+    "phonetic": "/ kɪˈməʊnəʊ; -nə; kəˈmonə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；和服（日式长袍）；（和服式）晨服"
+    ],
+    "pronunciation": "/ kɪˈməʊnəʊ; -nə; kəˈmonə/",
+    "accepted_answers": [
+      ")(",
+      "和服（日式长袍）",
+      "（和服式）晨服"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kin",
     "type": "word",
     "pos": "N / V",
@@ -446,6 +841,29 @@
       "旧或文)",
       "家人和亲戚",
       "他的家人和亲戚都参加了婚礼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kindergarten",
+    "type": "word",
+    "pos": "N",
+    "translation": "幼儿园",
+    "analysis": "n school for very young children; nursery school 幼儿园.",
+    "phonetic": "/ ˈkɪndəgɑː:tn; ˈkɪndəˌgɑːrtn/",
+    "origin": "待查",
+    "expansions": [
+      "幼儿园"
+    ],
+    "pronunciation": "/ ˈkɪndəgɑː:tn; ˈkɪndəˌgɑːrtn/",
+    "accepted_answers": [
+      "幼儿园"
     ],
     "added_at": "",
     "review": {
@@ -495,6 +913,60 @@
       "亲切的",
       "和蔼的",
       "友好的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kingfisher",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "翠鸟；鱼狗（羽毛鲜艳、能在河湖上潜水捕鱼的小鸟）；见附录；插图",
+    "analysis": "n small brightly-coloured bird that dives to catch fish in rivers, etc 翠鸟, 鱼狗（羽毛鲜艳、 能在河湖上潜水捕鱼的小鸟）. =>illus at App 1 见附录1插图, page v.",
+    "phonetic": "/ ˈkɪŋfɪʃə(r); ˈkɪŋˌfɪʃə/",
+    "origin": "待查",
+    "expansions": [
+      "翠鸟；鱼狗（羽毛鲜艳、能在河湖上潜水捕鱼的小鸟）；见附录；插图"
+    ],
+    "pronunciation": "/ ˈkɪŋfɪʃə(r); ˈkɪŋˌfɪʃə/",
+    "accepted_answers": [
+      "翠鸟",
+      "鱼狗（羽毛鲜艳、能在河湖上潜水捕鱼的小鸟）",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kink",
+    "type": "word",
+    "pos": "N",
+    "translation": "扭结（如铁丝、绳索、管子、毛发等）；比喻；通常作贬义)；乖僻",
+    "analysis": "n  1 sharp twist in sth that is normally straight, eg a wire, rope, pipe, hair, etc 扭结（如铁丝、 绳索、 管子、 毛发等）.  2 (fig usu derog 比喻, 通常作贬义) mental or moral peculiarity 乖僻; 奇想: He's got a few kinks in his personality, if you ask me. 我认为他的个性有些怪僻.\nkink \nv [I, Tn, Tn.pr] (cause sth to) form kinks （使某物）扭结: Keep the wire stretched tight  don't let it kink. 把铁丝拉紧, 别让它扭成结.\nkinky \nadj (infml derog 口, 贬) bizarre or abnormal, esp in sexual behaviour 变态的, 不正常的（尤指性行为）: There's lots of straight sex in the film, but nothing kinky. 那部影片里有不少性行为镜头, 但是没有变态的. \nkinkiness \nn [U].\nkinsfolk\n=> kin.\nkinsman\n=> kin.\nkinswoman\n=> kin.",
+    "phonetic": "/ kɪŋk; kɪŋk/",
+    "origin": "待查",
+    "expansions": [
+      "He's got a few kinks in his personality, if you ask me. 我认为他的个性有些怪僻.",
+      "Keep the wire stretched tight don't let it kink. 把铁丝拉紧, 别让它扭成结.",
+      "There's lots of straight sex in the film, but nothing kinky. 那部影片里有不少性行为镜头, 但是没有变态的."
+    ],
+    "pronunciation": "/ kɪŋk; kɪŋk/",
+    "accepted_answers": [
+      "扭结（如铁丝、绳索、管子、毛发等）",
+      "比喻",
+      "通常作贬义)",
+      "乖僻"
     ],
     "added_at": "",
     "review": {
@@ -593,6 +1065,36 @@
       "修辞)",
       "命运",
       "天命"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kiss",
+    "type": "word",
+    "pos": "V",
+    "translation": "吻（某人；某物；她一来到；他们就热烈亲吻",
+    "analysis": "v [I, Tn, Tn.pr]  1 touch (sb/sth) with the lips to show affection or as a greeting 吻（某人[某物]）: They kissed passionately when she arrived. 她一来到, 他们就热烈亲吻. * kiss the children goodnight 吻孩子向他们道晚安 * She kissed him on the lips. 她吻了吻他的双唇.  2 (idm 习语) kiss sth goodbye/kiss goodbye to sth (sl 俚) accept the loss or failure of sth as certain 承认某事物的损失或失败已成定局: You can kiss goodbye to a holiday this year  we've no money! 今年你别指望度假了--咱们没钱!  3 (phr v) kiss sth away remove sth with kisses 吻掉某物: Let mummy kiss your tears away, ie help you to stop crying by kissing you. 让妈妈吻去你的眼泪.\nkiss \nn  1 touch or caress given with the lips 吻: give sb a kiss 给某人一吻.  2 (idm 习语) blow a kiss => blow1. the kiss of `death (infml esp joc 口, 尤作戏谑语) apparently favourable action that makes failure certain 貌似有利却导致失败的行动: one of those polite lukewarm reviews that are the kiss of death for a commercial film 措辞温和有礼而其实是扼杀一营利影片的评论.\nkissable \nadj (approv 褒) inviting kisses 诱人亲吻的: kissable lips 撩人欲吻的唇 * Darling, you look so kissable tonight. 亲爱的, 你今晚美得诱人欲吻.\nkisser \nn (sl 俚) mouth 嘴: a punch in the kisser 在嘴上的重击.\nthe kiss of life \nmouth-to-mouth method of restoring breathing to save the life of sb injured or rescued from drowning 口对口的人工呼吸: (fig 比喻) the Government's 2 million kiss of life for the ailing cotton industry 政府为挽救气息奄奄的棉纺工业的200万英镑应急款.",
+    "phonetic": "/ kɪs; kɪs/",
+    "origin": "待查",
+    "expansions": [
+      "They kissed passionately when she arrived. 她一来到, 他们就热烈亲吻.",
+      "kiss the children goodnight 吻孩子向他们道晚安",
+      "She kissed him on the lips. 她吻了吻他的双唇. 2 (idm 习语) kiss sth goodbye/kiss goodbye to sth (sl 俚) accept the loss or failure of sth as certain 承认某事物的损失或失败已成定局: You can kiss goodbye to a holiday this year we've no money! 今年你别指望度假了--咱们没钱! 3 (phr v) kiss sth away remove sth with kisses 吻掉某物: Let mummy kiss your tears away, ie help you to stop crying by kissing you. 让妈妈吻去你的眼泪.",
+      "give sb a kiss 给某人一吻. 2 (idm 习语) blow a kiss => blow1. the kiss of `death (infml esp joc 口, 尤作戏谑语) apparently favourable action that makes failure certain 貌似有利却导致失败的行动: one of those polite lukewarm reviews that are the kiss of death for a commercial film 措辞温和有礼而其实是扼杀一营利影片的评论.",
+      "kissable lips 撩人欲吻的唇"
+    ],
+    "pronunciation": "/ kɪs; kɪs/",
+    "accepted_answers": [
+      "吻（某人",
+      "某物",
+      "她一来到",
+      "他们就热烈亲吻"
     ],
     "added_at": "",
     "review": {
@@ -704,6 +1206,53 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kkk",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写",
+    "analysis": "abbr 缩写 = (US) Ku-Klux-Klan 三K党.",
+    "phonetic": "/ ˌkeɪkeɪˈkeɪ; ˌkekeˈke/",
+    "origin": "待查",
+    "expansions": [
+      "缩写"
+    ],
+    "pronunciation": "/ ˌkeɪkeɪˈkeɪ; ˌkekeˈke/",
+    "accepted_answers": [
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "klaxon",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；高音电喇叭或警报器",
+    "analysis": "n (propr 专利名) powerful electric warning horn or siren 高音电喇叭或警报器.",
+    "phonetic": "/ ˈklæksn; ˈklæksən/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；高音电喇叭或警报器"
+    ],
+    "pronunciation": "/ ˈklæksn; ˈklæksən/",
+    "accepted_answers": [
+      "专利名)",
+      "高音电喇叭或警报器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "knavery",
     "type": "word",
     "pos": "N",
@@ -719,6 +1268,33 @@
       "古)",
       "不诚实",
       "欺诈"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knead",
+    "type": "word",
+    "pos": "V",
+    "translation": "揉；捏（面团、湿黏土等）；)把面团揉成球形；按摩；揉捏（肌肉等）",
+    "analysis": "v  1 [Tn, Tn.pr] press and stretch (bread dough, wet clay, etc) with the hands to form a firm smooth paste 揉, 捏（面团、 湿黏土等）: Knead the dough (into a ball) 把面团揉成球形.  2 [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）.",
+    "phonetic": "/ niːd; nid/",
+    "origin": "待查",
+    "expansions": [
+      "Knead the dough (into a ball) 把面团揉成球形. 2 [Tn] massage (muscles, etc) firmly to relieve tension or pain 按摩, 揉捏（肌肉等）."
+    ],
+    "pronunciation": "/ niːd; nid/",
+    "accepted_answers": [
+      "揉",
+      "捏（面团、湿黏土等）",
+      ")把面团揉成球形",
+      "按摩",
+      "揉捏（肌肉等）"
     ],
     "added_at": "",
     "review": {
@@ -803,6 +1379,60 @@
       "是有人敲门吗",
       "要是八点钟你还不起床",
       "我就来敲你的门"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knocker",
+    "type": "word",
+    "pos": "N",
+    "translation": "门环；见附录；插图",
+    "analysis": "n  1 [C] hinged metal hammer attached to a door, used for knocking by sb outside who wants the door to be opened 门环. =>illus at App 1 见附录1插图, page vi.  2 [C] (infml 口) person who constantly criticizes 一味批评的人; 吹毛求疵的人.  3 knockers [pl] (<!> Brit sl sexist 讳, 俚, 性别偏见) woman's breasts 女子的乳房: a nice pair of knockers 一对漂亮的乳房.",
+    "phonetic": "/ ˈnɒkə(r); ˈnɑːkə/",
+    "origin": "待查",
+    "expansions": [
+      "a nice pair of knockers 一对漂亮的乳房."
+    ],
+    "pronunciation": "/ ˈnɒkə(r); ˈnɑːkə/",
+    "accepted_answers": [
+      "门环",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "knot",
+    "type": "word",
+    "pos": "N",
+    "translation": "（绳索等的）结；在绳头上打个结；打个结实的结把这两条绳系在一起",
+    "analysis": "n  1 fastening made by tying a piece or pieces of string, rope, etc （绳索等的）结: make a knot at the end of the rope 在绳头上打个结 * tie the two ropes together with a secure knot 打个结实的结把这两条绳系在一起. =>illus 见插图.  2 ornament or decoration made of ribbon, etc twisted and tied （用丝带等打成的）装饰性花结.  3 tangle; twistedpiece 扭结; 纠结: comb a knot out of one's hair 梳个发髻.  4 hard round spot in timber where a branch used to join the trunk or another branch （木材上的）结节, 节瘤. =>illus at grain 见grain插图.  5 small gathering (of people or things) （人或物的）小群, 小簇: a knot of people arguing outside the pub 在酒店外争论著的一小群人.  6 (idm 习语) cut the Gordian knot => Gordian knot. tie sb/oneself in knots => tie2. tie the knot => tie2.\nknot \nv (-tt-)  1 [I, Tn, Tn.p] (cause sth to) form knots （使某物）打结, 缠结: My hair knots easily. 我的头发爱打结. * knot two ropes together 把两条绳子系在一起.  2 [Tn] fasten (sth) with a knot or knots 打结系牢（某物）: knot one's tie loosely 打个很松的领结.  3 (idm 习语) get `knotted (Brit sl 俚) (used to express contempt, annoyance, etc 用以表示轻蔑、 恼怒等): If he asks you for money again just tell him to get knotted. 要是他再向你要钱, 乾脆叫他滚.\nknotty \nadj (-ier, -iest)  1 (of timber) full of knots （指木材）多结节的, 多节瘤的.  2 puzzling; difficult 棘手的; 困难的: a knotty problem, question, etc 难以解决的疑难、 问题等.\nknot-hole \nn hole in a piece of timber where a knot1(4) has fallen out （木材上的）节孔（节结脱落形成的空洞）.",
+    "phonetic": "/ nɒt; nɑːt/",
+    "origin": "待查",
+    "expansions": [
+      "make a knot at the end of the rope 在绳头上打个结",
+      "tie the two ropes together with a secure knot 打个结实的结把这两条绳系在一起. =>illus 见插图. 2 ornament or decoration made of ribbon, etc twisted and tied （用丝带等打成的）装饰性花结. 3 tangle; twistedpiece 扭结; 纠结: comb a knot out of one's hair 梳个发髻. 4 hard round spot in timber where a branch used to join the trunk or another branch （木材上的）结节, 节瘤. =>illus at grain 见grain插图. 5 small gathering (of people or things) （人或物的）小群, 小簇: a knot of people arguing outside the pub 在酒店外争论著的一小群人. 6 (idm 习语) cut the Gordian knot => Gordian knot. tie sb/oneself in knots => tie2. tie the knot => tie2.",
+      "My hair knots easily. 我的头发爱打结.",
+      "knot two ropes together 把两条绳子系在一起. 2 [Tn] fasten (sth) with a knot or knots 打结系牢（某物）: knot one's tie loosely 打个很松的领结. 3 (idm 习语) get `knotted (Brit sl 俚) (used to express contempt, annoyance, etc 用以表示轻蔑、 恼怒等): If he asks you for money again just tell him to get knotted. 要是他再向你要钱, 乾脆叫他滚.",
+      "a knotty problem, question, etc 难以解决的疑难、 问题等."
+    ],
+    "pronunciation": "/ nɒt; nɑːt/",
+    "accepted_answers": [
+      "（绳索等的）结",
+      "在绳头上打个结",
+      "打个结实的结把这两条绳系在一起"
     ],
     "added_at": "",
     "review": {
@@ -903,6 +1533,29 @@
     "pronunciation": "/ kəʊl; kol/",
     "accepted_answers": [
       "眼睑粉（东方妇女的化妆品）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kohlrabi",
+    "type": "word",
+    "pos": "N",
+    "translation": "球茎甘蓝（可供食用）",
+    "analysis": "n [C, U] cabbage with an edible turnip-shaped stem 球茎甘蓝（可供食用）.\nkola\n= cola.",
+    "phonetic": "/ ˌkəʊlˈrɑː:bɪ; ˈkolˌrɑːbɪ/",
+    "origin": "待查",
+    "expansions": [
+      "球茎甘蓝（可供食用）"
+    ],
+    "pronunciation": "/ ˌkəʊlˈrɑː:bɪ; ˈkolˌrɑːbɪ/",
+    "accepted_answers": [
+      "球茎甘蓝（可供食用）"
     ],
     "added_at": "",
     "review": {
@@ -1014,6 +1667,56 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "kraal",
+    "type": "word",
+    "pos": "N",
+    "translation": "用於南非)；用栅栏围起来的茅舍村庄；家畜栏",
+    "analysis": "n (in S Africa 用於南非)  1 village of huts enclosed by a fence 用栅栏围起来的茅舍村庄.  2 enclosure for cattle, sheep, etc 家畜栏.",
+    "phonetic": "/ krɑː:l; krɔːl; krɔːl/",
+    "origin": "待查",
+    "expansions": [
+      "用於南非)；用栅栏围起来的茅舍村庄；家畜栏"
+    ],
+    "pronunciation": "/ krɑː:l; krɔːl; krɔːl/",
+    "accepted_answers": [
+      "用於南非)",
+      "用栅栏围起来的茅舍村庄",
+      "家畜栏"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kremlin",
+    "type": "word",
+    "pos": "N",
+    "translation": "（俄国的）城堡；前苏联政府；克里姆林宫",
+    "analysis": "n  1 [C] citadel within a Russian town （俄国的）城堡.  2 the Kremlin (a) [Gp] government of the former USSR 前苏联政府. (b) [sing] the citadel of Moscow 克里姆林宫.",
+    "phonetic": "/ ˈkremlɪn; ˈkremlɪn/",
+    "origin": "待查",
+    "expansions": [
+      "（俄国的）城堡；前苏联政府；克里姆林宫"
+    ],
+    "pronunciation": "/ ˈkremlɪn; ˈkremlɪn/",
+    "accepted_answers": [
+      "（俄国的）城堡",
+      "前苏联政府",
+      "克里姆林宫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "krill",
     "type": "word",
     "pos": "N / V",
@@ -1027,6 +1730,30 @@
     "pronunciation": "/ krɪl; krɪl/",
     "accepted_answers": [
       "（鲸鱼吞食的）磷虾群"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "krona",
+    "type": "word",
+    "pos": "N",
+    "translation": "克朗（瑞典的货币单位）；克朗（冰岛的货币单位）",
+    "analysis": "n  1 (pl -nor / -nE(r); -nEr/) unit of money in Sweden 克朗（瑞典的货币单位）.  2 (pl -nur / -nE(r); -nEr/) unit of money in Iceland 克朗（冰岛的货币单位）.",
+    "phonetic": "/ ˈkrəʊnə; ˈkronə/",
+    "origin": "待查",
+    "expansions": [
+      "克朗（瑞典的货币单位）；克朗（冰岛的货币单位）"
+    ],
+    "pronunciation": "/ ˈkrəʊnə; ˈkronə/",
+    "accepted_answers": [
+      "克朗（瑞典的货币单位）",
+      "克朗（冰岛的货币单位）"
     ],
     "added_at": "",
     "review": {
@@ -1085,6 +1812,31 @@
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
+    "term": "ku-klux-klan",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；党（美国的；尤指其南部的白人基督教徒的种族主义秘密组织）",
+    "analysis": "n [Gp] (abbr 缩写 KKK) secret racialist organization of white Protestant men in the (esp southern) United States 三K党（美国的, 尤指其南部的白人基督教徒的种族主义秘密组织）.",
+    "phonetic": "/ ˌkuːklʌksˈkæln; ˌkuˌklʌksˈklæn/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；党（美国的；尤指其南部的白人基督教徒的种族主义秘密组织）"
+    ],
+    "pronunciation": "/ ˌkuːklʌksˈkæln; ˌkuˌklʌksˈklæn/",
+    "accepted_answers": [
+      "缩写",
+      "党（美国的",
+      "尤指其南部的白人基督教徒的种族主义秘密组织）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
     "term": "kumis",
     "type": "word",
     "pos": "N",
@@ -1121,6 +1873,55 @@
     "pronunciation": "/ ˈkUməl; ˈkɪml/",
     "accepted_answers": [
       "（用莳萝和葛缕子调味的）烈性甜酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kwashiorkor",
+    "type": "word",
+    "pos": "N",
+    "translation": "夸希奥科；蛋白质营养不良（热带严重儿科病）",
+    "analysis": "n [U] severetropical disease of children whose diet does not contain enough protein 夸希奥科, 蛋白质营养不良（热带严重儿科病）.",
+    "phonetic": "/ kwæʃɪˈɔːkɔː(r); ˌkwɑːʃiˈɔːrkɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "夸希奥科；蛋白质营养不良（热带严重儿科病）"
+    ],
+    "pronunciation": "/ kwæʃɪˈɔːkɔː(r); ˌkwɑːʃiˈɔːrkɔːr/",
+    "accepted_answers": [
+      "夸希奥科",
+      "蛋白质营养不良（热带严重儿科病）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/K/K.TXT"
+  },
+  {
+    "term": "kybosh",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；俚)；止住某人",
+    "analysis": "n (idm 习语) put the kybosh on sb/sth (sl 俚) prevent sb/sth from continuing; stop sb/sth 止住某人[某事物]; 使某人[某事物]停止:: When he broke his leg it put the kybosh on his holiday. 他摔坏了腿, 度假只好中止.",
+    "phonetic": "/ ˈkaɪbɒʃ; ˈkaɪbɑːʃ/",
+    "origin": "待查",
+    "expansions": [
+      ": When he broke his leg it put the kybosh on his holiday. 他摔坏了腿, 度假只好中止."
+    ],
+    "pronunciation": "/ ˈkaɪbɒʃ; ˈkaɪbɑːʃ/",
+    "accepted_answers": [
+      "习语)",
+      "俚)",
+      "止住某人"
     ],
     "added_at": "",
     "review": {

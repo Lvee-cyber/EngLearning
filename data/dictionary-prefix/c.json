@@ -146,6 +146,29 @@
     "dict_source": "data/DICT/C/C-i,j,k.txt"
   },
   {
+    "term": "c-in-c",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写",
+    "analysis": "abbr 缩写 = Commander-in-Chief.",
+    "phonetic": "/ ˌsiːɪnˈsiː; ˌsiɪnˈsi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写"
+    ],
+    "pronunciation": "/ ˌsiːɪnˈsiː; ˌsiɪnˈsi/",
+    "accepted_answers": [
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "C-l,m,n",
     "type": "word",
     "translation": "棨",
@@ -997,6 +1020,29 @@
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
+    "term": "cafe",
+    "type": "word",
+    "pos": "N",
+    "translation": "小餐馆（在英国通常不供应酒类）",
+    "analysis": "n small inexpensive restaurant serving light meals and (in Britain usu non-alcoholic) drinks 小餐馆（在英国通常不供应酒类）.",
+    "phonetic": "/ ˈkæfeɪ; kæˈfeɪ; kæˈfe/",
+    "origin": "待查",
+    "expansions": [
+      "小餐馆（在英国通常不供应酒类）"
+    ],
+    "pronunciation": "/ ˈkæfeɪ; kæˈfeɪ; kæˈfe/",
+    "accepted_answers": [
+      "小餐馆（在英国通常不供应酒类）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "caffeine",
     "type": "word",
     "pos": "N",
@@ -1305,6 +1351,29 @@
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
+    "term": "calcify",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某物）钙化",
+    "analysis": "v (pt, pp -fied) [I, Tn] (cause sth to) harden by a deposit of calcium salts （使某物）钙化.",
+    "phonetic": "/ ˈkælsɪfaɪ; ˈkælsəˌfaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（使某物）钙化"
+    ],
+    "pronunciation": "/ ˈkælsɪfaɪ; ˈkælsəˌfaɪ/",
+    "accepted_answers": [
+      "（使某物）钙化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "calcination",
     "type": "word",
     "pos": "N",
@@ -1342,6 +1411,31 @@
     "accepted_answers": [
       "（使某物）烧成粉末",
       "烧成灰"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "calcium",
+    "type": "word",
+    "pos": "N",
+    "translation": "见附录；碳化钙；氢氧化钙",
+    "analysis": "n [U] chemical element, a greyish-white metal found as a compound in bones, teeth and chalk 钙. =>App 10 见附录10.\ncalcium carbide \ncompound of calcium and carbon used in making acetylene gas 碳化钙.\ncalcium hydroxide \nwhite crystalline compound of calcium; slaked lime 氢氧化钙; 熟石灰.",
+    "phonetic": "/ ˈkælsɪəm; ˈkælsɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "见附录；碳化钙；氢氧化钙"
+    ],
+    "pronunciation": "/ ˈkælsɪəm; ˈkælsɪəm/",
+    "accepted_answers": [
+      "见附录",
+      "碳化钙",
+      "氢氧化钙"
     ],
     "added_at": "",
     "review": {
@@ -1686,6 +1780,31 @@
     "accepted_answers": [
       "柔软体操",
       "健美运动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "callosity",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；胼胝；茧子（皮肤硬化的部分）",
+    "analysis": "n (fml 文) area of hardened skin; callus 胼胝, 茧子（皮肤硬化的部分）.",
+    "phonetic": "/ kæˈlɒsətɪ; kæˈlɑːsətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；胼胝；茧子（皮肤硬化的部分）"
+    ],
+    "pronunciation": "/ kæˈlɒsətɪ; kæˈlɑːsətɪ/",
+    "accepted_answers": [
+      "文)",
+      "胼胝",
+      "茧子（皮肤硬化的部分）"
     ],
     "added_at": "",
     "review": {
@@ -2091,6 +2210,30 @@
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
+    "term": "camaraderie",
+    "type": "word",
+    "pos": "N",
+    "translation": "友谊与互相信任；同志情谊",
+    "analysis": "n [U] friendship and mutual trust; comradeship 友谊与互相信任; 同志情谊.",
+    "phonetic": "/ ˌkæməˈrɑː:dərɪ; -ˈræd-; ˌkæməˈræ-dərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "友谊与互相信任；同志情谊"
+    ],
+    "pronunciation": "/ ˌkæməˈrɑː:dərɪ; -ˈræd-; ˌkæməˈræ-dərɪ/",
+    "accepted_answers": [
+      "友谊与互相信任",
+      "同志情谊"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "camber",
     "type": "word",
     "translation": "中凸形；拱势（物体；尤指道路；表面略向上弯的曲面）；)使（尤指路面）拱起；这条街的这个地方拱起很高",
@@ -2234,6 +2377,29 @@
     }
   },
   {
+    "term": "cameraman",
+    "type": "word",
+    "pos": "N",
+    "translation": "（电影或电视）摄影师",
+    "analysis": "n (pl -men) person whose job is operating a camera for film-making or television （电影或电视）摄影师.",
+    "phonetic": "/ -mæn; -ˌmæn/",
+    "origin": "待查",
+    "expansions": [
+      "（电影或电视）摄影师"
+    ],
+    "pronunciation": "/ -mæn; -ˌmæn/",
+    "accepted_answers": [
+      "（电影或电视）摄影师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "cameras",
     "type": "word",
     "translation": "相机；摄像机；摄影设备（复数）",
@@ -2358,6 +2524,29 @@
       "商业的或政治的目的而进行的一系列有计划的活动）"
     ],
     "added_at": "2026-03-30T02:24:49.619Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "campanile",
+    "type": "word",
+    "pos": "N",
+    "translation": "钟楼（尤指不依附於其他建筑而独立的）",
+    "analysis": "n bell-tower, esp one that is not part of another building 钟楼（尤指不依附於其他建筑而独立的）.",
+    "phonetic": "/ ˌkæmpəˈniːlɪ; ˌkæmpəˈnilɪ/",
+    "origin": "待查",
+    "expansions": [
+      "钟楼（尤指不依附於其他建筑而独立的）"
+    ],
+    "pronunciation": "/ ˌkæmpəˈniːlɪ; ˌkæmpəˈnilɪ/",
+    "accepted_answers": [
+      "钟楼（尤指不依附於其他建筑而独立的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3214,6 +3403,29 @@
     }
   },
   {
+    "term": "cannelloni",
+    "type": "word",
+    "pos": "N",
+    "translation": "（肉馅的）面卷",
+    "analysis": "n [U] rolls of pasta filled with meat and seasoning （肉馅的）面卷.\ncannery\n=> can1.",
+    "phonetic": "/ ˌkænəˈləʊnɪ; ˌkænəˈlonɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（肉馅的）面卷"
+    ],
+    "pronunciation": "/ ˌkænəˈləʊnɪ; ˌkænəˈlonɪ/",
+    "accepted_answers": [
+      "（肉馅的）面卷"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "cannery",
     "type": "word",
     "translation": "罐头食品厂；口；通常作贬义)；录音音乐",
@@ -3672,6 +3884,31 @@
     }
   },
   {
+    "term": "canteen",
+    "type": "word",
+    "pos": "N",
+    "translation": "（工厂、办事处、学校等的）食堂；（一套刀、叉、勺的）餐具箱；（士兵或露营者的）水壶",
+    "analysis": "n  1 place serving food and drink in a factory, an office, a school, etc （工厂、 办事处、 学校等的）食堂.  2 (Brit) case or box containing a set of knives, forks and spoons （一套刀、 叉、 勺的）餐具箱.  3 soldier's or camper's water-flask （士兵或露营者的）水壶.",
+    "phonetic": "/ kænˈtiːn; kænˈtin/",
+    "origin": "待查",
+    "expansions": [
+      "（工厂、办事处、学校等的）食堂；（一套刀、叉、勺的）餐具箱；（士兵或露营者的）水壶"
+    ],
+    "pronunciation": "/ kænˈtiːn; kænˈtin/",
+    "accepted_answers": [
+      "（工厂、办事处、学校等的）食堂",
+      "（一套刀、叉、勺的）餐具箱",
+      "（士兵或露营者的）水壶"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "canter",
     "type": "word",
     "translation": "通常作单数)；（指马）慢跑；小跑；骑马慢跑",
@@ -4043,6 +4280,31 @@
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
+    "term": "caparison",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作复数)(；（旧时）装饰性的马衣或马与武士的盛装；)给（马）穿马衣",
+    "analysis": "n (usu pl 通常作复数) (formerly) decorated covering for a horse, or for a horse and knight （旧时）装饰性的马衣或马与武士的盛装.\ncaparison \nv [Tn] put caparisons on (a horse) 给（马）穿马衣.",
+    "phonetic": "/ kəˈpærɪsn; kəˈpærəsn/",
+    "origin": "待查",
+    "expansions": [
+      "通常作复数)(；（旧时）装饰性的马衣或马与武士的盛装；)给（马）穿马衣"
+    ],
+    "pronunciation": "/ kəˈpærɪsn; kəˈpærəsn/",
+    "accepted_answers": [
+      "通常作复数)(",
+      "（旧时）装饰性的马衣或马与武士的盛装",
+      ")给（马）穿马衣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "cape",
     "type": "word",
     "pos": "N",
@@ -4353,6 +4615,29 @@
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
+    "term": "capitulation",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指根据商定条件的）投降",
+    "analysis": "n [C, U] (act of) capitulating （尤指根据商定条件的）投降.",
+    "phonetic": "/ kəˌpɪtʃUˈleɪʃn; kəˌpɪtʃəˈleʃən/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指根据商定条件的）投降"
+    ],
+    "pronunciation": "/ kəˌpɪtʃUˈleɪʃn; kəˌpɪtʃəˈleʃən/",
+    "accepted_answers": [
+      "（尤指根据商定条件的）投降"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "capon",
     "type": "word",
     "pos": "N",
@@ -4594,6 +4879,31 @@
       "他适合当舰长"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "captious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；好吹毛求疵的；好挑剔的",
+    "analysis": "adj (fml 文) fond of criticizingor raising objections about unimportant matters; quibbling 好吹毛求疵的; 好挑剔的.\ncaptiously \nadv. \ncaptiousness \nn [U].",
+    "phonetic": "/ ˈkæpʃəs; ˈkæpʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；好吹毛求疵的；好挑剔的"
+    ],
+    "pronunciation": "/ ˈkæpʃəs; ˈkæpʃəs/",
+    "accepted_answers": [
+      "文)",
+      "好吹毛求疵的",
+      "好挑剔的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5281,6 +5591,30 @@
       "卡片"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "cardamom",
+    "type": "word",
+    "pos": "N",
+    "translation": "小豆蔻（东印度植物）；小豆蔻的子（用以调味）",
+    "analysis": "n (a) [C] E Indian plant 小豆蔻（东印度植物）. (b) [U] its seeds used as a spice 小豆蔻的子（用以调味）.",
+    "phonetic": "/ ˈkɑː:dəməm; ˈkɑːrdəməm/",
+    "origin": "待查",
+    "expansions": [
+      "小豆蔻（东印度植物）；小豆蔻的子（用以调味）"
+    ],
+    "pronunciation": "/ ˈkɑː:dəməm; ˈkɑːrdəməm/",
+    "accepted_answers": [
+      "小豆蔻（东印度植物）",
+      "小豆蔻的子（用以调味）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -6348,6 +6682,29 @@
     }
   },
   {
+    "term": "carto-graphic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "carto-graphic",
+    "analysis": "adj.",
+    "phonetic": "/ ˌkɑː:təˈgræfɪk; ˌkɑːrtəˈgræfɪk/",
+    "origin": "待查",
+    "expansions": [
+      "carto-graphic"
+    ],
+    "pronunciation": "/ ˌkɑː:təˈgræfɪk; ˌkɑːrtəˈgræfɪk/",
+    "accepted_answers": [
+      "carto-graphic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "carton",
     "type": "word",
     "translation": "纸板箱；纸板盒；一纸盒奶、奶油、酸奶等",
@@ -6515,6 +6872,31 @@
     "accepted_answers": [
       "酪蛋白",
       "酪素"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "casement",
+    "type": "word",
+    "pos": "N",
+    "translation": "门式窗；见附录；之插图",
+    "analysis": "n (also casement window) window that opens on hinges like a door 门式窗. =>illus at App 1 见附录1之插图, page vi.",
+    "phonetic": "/ ˈkeɪsmənt; ˈkesmənt/",
+    "origin": "待查",
+    "expansions": [
+      "门式窗；见附录；之插图"
+    ],
+    "pronunciation": "/ ˈkeɪsmənt; ˈkesmənt/",
+    "accepted_answers": [
+      "门式窗",
+      "见附录",
+      "之插图"
     ],
     "added_at": "",
     "review": {
@@ -6842,6 +7224,30 @@
     }
   },
   {
+    "term": "castellated",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（似城堡的）有角楼或城垛的；有雉堞的",
+    "analysis": "adj having turrets or battlements like a castle （似城堡的）有角楼或城垛的; 有雉堞的.",
+    "phonetic": "/ ˈkæstəleɪtɪd; ˈkæstəˌletɪd/",
+    "origin": "待查",
+    "expansions": [
+      "（似城堡的）有角楼或城垛的；有雉堞的"
+    ],
+    "pronunciation": "/ ˈkæstəleɪtɪd; ˈkæstəˌletɪd/",
+    "accepted_answers": [
+      "（似城堡的）有角楼或城垛的",
+      "有雉堞的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "castigate",
     "type": "word",
     "pos": "N",
@@ -6957,6 +7363,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "castration",
+    "type": "word",
+    "pos": "N",
+    "translation": "castration",
+    "analysis": "n [U].",
+    "phonetic": "/ kˈæstreɪʃn; kæsˈtreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "castration"
+    ],
+    "pronunciation": "/ kˈæstreɪʃn; kæsˈtreʃən/",
+    "accepted_answers": [
+      "castration"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
   },
   {
     "term": "casual",
@@ -7170,6 +7599,29 @@
     "pronunciation": "/ ˈkætəkuːmz; -kəʊmz; ˈkætəˌkomz/",
     "accepted_answers": [
       ")地下墓穴（如古罗马的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "catafalque",
+    "type": "word",
+    "pos": "N",
+    "translation": "灵柩台",
+    "analysis": "n decorated platform on which the coffin of a distinguished person lies before or during a funeral 灵柩台.",
+    "phonetic": "/ ˈkætəfælk; ˈkætəˌfælk/",
+    "origin": "待查",
+    "expansions": [
+      "灵柩台"
+    ],
+    "pronunciation": "/ ˈkætəfælk; ˈkætəˌfælk/",
+    "accepted_answers": [
+      "灵柩台"
     ],
     "added_at": "",
     "review": {
@@ -7712,6 +8164,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "caterpillar",
+    "type": "word",
+    "pos": "N",
+    "translation": "毛虫；蛹（蝶或蛾的幼虫）；之插图；)(",
+    "analysis": "n  1 larva of a butterfly or moth 毛虫, 蛹（蝶或蛾的幼虫）. =>illus at butterfly 见butterfly之插图.  2 (a) (also Cater-pillar track) (propr 专利名) endless belt passing round the wheels of a tractor or tank, enabling it to travel over rough ground 履带. (b) (also Caterpillar tractor, abbr 缩写  cat) tractor fitted with such a belt 履带拖拉机.",
+    "phonetic": "/ ˈkætəpɪlə(r); ˈkætəˌpɪlə/",
+    "origin": "待查",
+    "expansions": [
+      "毛虫；蛹（蝶或蛾的幼虫）；之插图；)("
+    ],
+    "pronunciation": "/ ˈkætəpɪlə(r); ˈkætəˌpɪlə/",
+    "accepted_answers": [
+      "毛虫",
+      "蛹（蝶或蛾的幼虫）",
+      "之插图",
+      ")("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
   },
   {
     "term": "caterwaul",
@@ -8272,6 +8750,30 @@
     }
   },
   {
+    "term": "caustically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "讽刺地；挖苦地",
+    "analysis": "adv in a caustic(2) way 讽刺地; 挖苦地.\ncaustic soda \n= sodium hydroxide (sodium).",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "讽刺地；挖苦地"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "讽刺地",
+      "挖苦地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "cauterise",
     "type": "word",
     "translation": "（用腐蚀性物质或烙铁）烧灼（表皮组织）以消毒或止血；烧灼蛇咬伤口",
@@ -8637,6 +9139,29 @@
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
+    "term": "cayenne",
+    "type": "word",
+    "pos": "N",
+    "translation": "辣椒粉",
+    "analysis": "n [U] (also ,cayenne `pepper) type of hot red powdered pepper(1), used for seasoning foods 辣椒粉.",
+    "phonetic": "/ keɪˈen; keˈen/",
+    "origin": "待查",
+    "expansions": [
+      "辣椒粉"
+    ],
+    "pronunciation": "/ keɪˈen; keˈen/",
+    "accepted_answers": [
+      "辣椒粉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
     "term": "cayman",
     "type": "word",
     "pos": "N",
@@ -8729,6 +9254,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "cbi",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；英国工业联合会",
+    "analysis": "abbr 缩写 = Confederation of British Industry 英国工业联合会.",
+    "phonetic": "/ ˌsiːbiːˈaɪ:; ˌsibiˈaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；英国工业联合会"
+    ],
+    "pronunciation": "/ ˌsiːbiːˈaɪ:; ˌsibiˈaɪ/",
+    "accepted_answers": [
+      "缩写",
+      "英国工业联合会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-b,c,d,e,f,g.txt"
   },
   {
     "term": "cbs",
@@ -9146,6 +9695,29 @@
       "地下煤窖"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-b,c,d,e,f,g.txt"
+  },
+  {
+    "term": "cellist",
+    "type": "word",
+    "pos": "N",
+    "translation": "大提琴演奏者",
+    "analysis": "n person who plays the cello 大提琴演奏者.",
+    "phonetic": "/ ˈtʃelɪst; ˈtʃelɪst/",
+    "origin": "待查",
+    "expansions": [
+      "大提琴演奏者"
+    ],
+    "pronunciation": "/ ˈtʃelɪst; ˈtʃelɪst/",
+    "accepted_answers": [
+      "大提琴演奏者"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -9715,6 +10287,30 @@
     "dict_source": "data/DICT/C/C-b,c,d,e,f,g.txt"
   },
   {
+    "term": "centime",
+    "type": "word",
+    "pos": "N",
+    "translation": "生丁（百分之一法郎）；生丁值的硬币",
+    "analysis": "n (a) one 100th part of a franc 生丁（百分之一法郎）. (b) coin of this value 生丁值的硬币.",
+    "phonetic": "/ ˈsɒntiːm; ˈsɑːntim/",
+    "origin": "待查",
+    "expansions": [
+      "生丁（百分之一法郎）；生丁值的硬币"
+    ],
+    "pronunciation": "/ ˈsɒntiːm; ˈsɑːntim/",
+    "accepted_answers": [
+      "生丁（百分之一法郎）",
+      "生丁值的硬币"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-b,c,d,e,f,g.txt"
+  },
+  {
     "term": "centimetre",
     "type": "word",
     "pos": "N",
@@ -10127,6 +10723,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ceremonially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ceremonially",
+    "analysis": "adv.",
+    "phonetic": "/ -nɪəlɪ; -nɪəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ceremonially"
+    ],
+    "pronunciation": "/ -nɪəlɪ; -nɪəlɪ/",
+    "accepted_answers": [
+      "ceremonially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-b,c,d,e,f,g.txt"
   },
   {
     "term": "ceremonious",
@@ -11485,6 +12104,31 @@
     }
   },
   {
+    "term": "chaplet",
+    "type": "word",
+    "pos": "N",
+    "translation": "花冠（叶子、花、珠宝等做成的环；用作头饰）；（祈祷时计数用的）短串珠",
+    "analysis": "n  1 wreath of leaves, flowers, jewels, etc for the head 花冠（叶子、 花、 珠宝等做成的环, 用作头饰）.  2 short string of beads for counting prayers （祈祷时计数用的）短串珠.",
+    "phonetic": "/ ˈtʃæplɪt; ˈtʃæplɪt/",
+    "origin": "待查",
+    "expansions": [
+      "花冠（叶子、花、珠宝等做成的环；用作头饰）；（祈祷时计数用的）短串珠"
+    ],
+    "pronunciation": "/ ˈtʃæplɪt; ˈtʃæplɪt/",
+    "accepted_answers": [
+      "花冠（叶子、花、珠宝等做成的环",
+      "用作头饰）",
+      "（祈祷时计数用的）短串珠"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
+  },
+  {
     "term": "chapter",
     "type": "word",
     "translation": "缩写；)(；（通常为编序的）（书中的）章；篇；回",
@@ -12421,6 +13065,31 @@
     "dict_source": "data/DICT/C/C-h.txt"
   },
   {
+    "term": "chaste",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧)；没有经过性交的；童贞的",
+    "analysis": "adj  1 (dated 旧) not having had sexual intercourse; virgin 没有经过性交的; 童贞的.  2 not having sexual intercourse except with the person to whom one is married （性生活）忠於配偶的.  3 pure; virtuous 纯真的; 有道德的.  4 simple in style; not ornate （风格）简单的; 不修饰的.\nchastely \nadv.",
+    "phonetic": "/ tʃeɪst; tʃest/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；没有经过性交的；童贞的"
+    ],
+    "pronunciation": "/ tʃeɪst; tʃest/",
+    "accepted_answers": [
+      "旧)",
+      "没有经过性交的",
+      "童贞的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
+  },
+  {
     "term": "chasten",
     "type": "word",
     "translation": "惩罚（某人）（使之改正或改进）；惩戒；遏制（某人）",
@@ -12459,6 +13128,30 @@
     "accepted_answers": [
       "文)",
       "严惩（某人）（尤指责打）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
+  },
+  {
+    "term": "chastisement",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；严惩",
+    "analysis": "n [C, U] (fml 文) severe punishment 严惩.",
+    "phonetic": "/ tʃæˈstaɪzmənt,alsoˈtʃæstɪzmənt; tʃæsˈtaɪzmənt; ˈtʃæstɪzmənt/",
+    "origin": "待查",
+    "expansions": [
+      "文)；严惩"
+    ],
+    "pronunciation": "/ tʃæˈstaɪzmənt,alsoˈtʃæstɪzmənt; tʃæsˈtaɪzmənt; ˈtʃæstɪzmənt/",
+    "accepted_answers": [
+      "文)",
+      "严惩"
     ],
     "added_at": "",
     "review": {
@@ -13174,6 +13867,30 @@
       "猎豹（产於非洲",
       "有黑色斑点",
       "腿长善跑）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
+  },
+  {
+    "term": "chef",
+    "type": "word",
+    "pos": "N",
+    "translation": "厨师；（尤指饭店的）厨师长",
+    "analysis": "n professional cook, esp the chief cook in a restaurant 厨师; （尤指饭店的）厨师长.",
+    "phonetic": "/ ʃef; ʃef/",
+    "origin": "待查",
+    "expansions": [
+      "厨师；（尤指饭店的）厨师长"
+    ],
+    "pronunciation": "/ ʃef; ʃef/",
+    "accepted_answers": [
+      "厨师",
+      "（尤指饭店的）厨师长"
     ],
     "added_at": "",
     "review": {
@@ -16277,6 +16994,31 @@
     "dict_source": "data/DICT/C/C-h.txt"
   },
   {
+    "term": "chrysanthemum",
+    "type": "word",
+    "pos": "N",
+    "translation": "菊花；菊花（花朵）；见附录",
+    "analysis": "n (a) garden plant with brightly coloured flowers 菊花. (b) one of these flowers 菊花（花朵）. =>illus at App 1 见附录1之插图, page ii.",
+    "phonetic": "/ krɪˈsænθəməm; krɪsˈænθəməm/",
+    "origin": "待查",
+    "expansions": [
+      "菊花；菊花（花朵）；见附录"
+    ],
+    "pronunciation": "/ krɪˈsænθəməm; krɪsˈænθəməm/",
+    "accepted_answers": [
+      "菊花",
+      "菊花（花朵）",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
+  },
+  {
     "term": "chub",
     "type": "word",
     "pos": "N",
@@ -16350,6 +17092,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "chucker-out",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；（受雇从酒馆、会议等中撵走捣乱者的）保安人员",
+    "analysis": "n (infml 口) person whose job is to remove troublesome people from public-houses, meetings, etc （受雇从酒馆、 会议等中撵走捣乱者的）保安人员.",
+    "phonetic": "/ ˌtʃʌkərˈaUt; ˌtʃʌkəˈaJt/",
+    "origin": "待查",
+    "expansions": [
+      "口)；（受雇从酒馆、会议等中撵走捣乱者的）保安人员"
+    ],
+    "pronunciation": "/ ˌtʃʌkərˈaUt; ˌtʃʌkəˈaJt/",
+    "accepted_answers": [
+      "口)",
+      "（受雇从酒馆、会议等中撵走捣乱者的）保安人员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-h.txt"
   },
   {
     "term": "chuckle",
@@ -18581,6 +19347,29 @@
     }
   },
   {
+    "term": "clapboard",
+    "type": "word",
+    "pos": "word",
+    "translation": "clapboard",
+    "analysis": "(US) = weather-board (weather1).",
+    "phonetic": "/ ˈklæpbɔːd; ˈklæbɔːrd; ˈklæbɔːrd/",
+    "origin": "待查",
+    "expansions": [
+      "clapboard"
+    ],
+    "pronunciation": "/ ˈklæpbɔːd; ˈklæbɔːrd; ˈklæbɔːrd/",
+    "accepted_answers": [
+      "clapboard"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-l,m,n.txt"
+  },
+  {
     "term": "clapper",
     "type": "word",
     "translation": "（钟铃的）击锤；钟舌；铃舌",
@@ -18695,6 +19484,31 @@
       "声明"
     ],
     "added_at": "2026-03-30T02:24:49.619Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-l,m,n.txt"
+  },
+  {
+    "term": "clarinet",
+    "type": "word",
+    "pos": "N",
+    "translation": "单簧管；竖笛；见附录",
+    "analysis": "n musical instrument of the woodwind group with finger-holes and keys 单簧管; 竖笛. =>illus at App 1 见附录1之插图, page x.\nclarinettist (also clarinetist) \nn person who plays the clarinet 单簧管或竖笛吹奏者.",
+    "phonetic": "/ ˌklærəˈnet; ˌklærəˈnet/",
+    "origin": "待查",
+    "expansions": [
+      "单簧管；竖笛；见附录"
+    ],
+    "pronunciation": "/ ˌklærəˈnet; ˌklærəˈnet/",
+    "accepted_answers": [
+      "单簧管",
+      "竖笛",
+      "见附录"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -19619,6 +20433,31 @@
     "dict_source": "data/DICT/C/C-l,m,n.txt"
   },
   {
+    "term": "clerestory",
+    "type": "word",
+    "pos": "N",
+    "translation": "高侧墙（大教堂墙壁的上部；高於侧廊的屋顶；有一排高侧窗）",
+    "analysis": "n upper part of a wall in a large church, with a row of windows, above the roofs of the aisles 高侧墙（大教堂墙壁的上部, 高於侧廊的屋顶, 有一排高侧窗）.",
+    "phonetic": "/ ˈklɪəstɔːrɪ; ˈklɪrˌstɔːrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "高侧墙（大教堂墙壁的上部；高於侧廊的屋顶；有一排高侧窗）"
+    ],
+    "pronunciation": "/ ˈklɪəstɔːrɪ; ˈklɪrˌstɔːrɪ/",
+    "accepted_answers": [
+      "高侧墙（大教堂墙壁的上部",
+      "高於侧廊的屋顶",
+      "有一排高侧窗）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-l,m,n.txt"
+  },
+  {
     "term": "clergy",
     "type": "word",
     "translation": "神职人员；（尤指基督教的）教士或牧师；当地所有的牧师出席了仪式",
@@ -20422,6 +21261,30 @@
     }
   },
   {
+    "term": "clitoris",
+    "type": "word",
+    "pos": "N",
+    "translation": "阴蒂；阴核",
+    "analysis": "n small part of the female genitals which becomes larger when the female is sexually excited 阴蒂; 阴核.",
+    "phonetic": "/ ˈklɪtərɪs; ˈklɪtərɪs/",
+    "origin": "待查",
+    "expansions": [
+      "阴蒂；阴核"
+    ],
+    "pronunciation": "/ ˈklɪtərɪs; ˈklɪtərɪs/",
+    "accepted_answers": [
+      "阴蒂",
+      "阴核"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-l,m,n.txt"
+  },
+  {
     "term": "cloak",
     "type": "word",
     "translation": "斗篷；披风；见插图",
@@ -21012,6 +21875,29 @@
     "accepted_answers": [
       "丁香（一种热带树的乾花苞",
       "用作香料或调味品）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-l,m,n.txt"
+  },
+  {
+    "term": "clove hitch",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "卷结（用绳绕过杆、柱等的一种结绳法）",
+    "analysis": "knot used to fasten a rope round a pole, bar, etc 卷结（用绳绕过杆、 柱等的一种结绳法）.\ncloven\npp of cleave1.",
+    "phonetic": "/ ˈkləʊvhɪtʃ; ˈklovˌhɪtʃ/",
+    "origin": "待查",
+    "expansions": [
+      "卷结（用绳绕过杆、柱等的一种结绳法）"
+    ],
+    "pronunciation": "/ ˈkləʊvhɪtʃ; ˈklovˌhɪtʃ/",
+    "accepted_answers": [
+      "卷结（用绳绕过杆、柱等的一种结绳法）"
     ],
     "added_at": "",
     "review": {
@@ -21958,6 +22844,29 @@
     }
   },
   {
+    "term": "coalescence",
+    "type": "word",
+    "pos": "N",
+    "translation": "coalescence",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌkəʊəˈlesns; ˌkoəˈlesns/",
+    "origin": "待查",
+    "expansions": [
+      "coalescence"
+    ],
+    "pronunciation": "/ ˌkəʊəˈlesns; ˌkoəˈlesns/",
+    "accepted_answers": [
+      "coalescence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "coalition",
     "type": "word",
     "translation": "结合；联合；政党间的暂时联合（通常为成立联合政府的）",
@@ -22230,6 +23139,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "cobber",
+    "type": "word",
+    "pos": "N",
+    "translation": "澳；口)(；尤用作男子间的称呼)；朋友",
+    "analysis": "n (Austral infml 澳, 口) (esp used as a form of address between men 尤用作男子间的称呼) friend; mate 朋友; 同伴.",
+    "phonetic": "/ ˈkɒbə(r); ˈkɑːbə/",
+    "origin": "待查",
+    "expansions": [
+      "澳；口)(；尤用作男子间的称呼)；朋友"
+    ],
+    "pronunciation": "/ ˈkɒbə(r); ˈkɑːbə/",
+    "accepted_answers": [
+      "澳",
+      "口)(",
+      "尤用作男子间的称呼)",
+      "朋友"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
   },
   {
     "term": "cobble",
@@ -22734,6 +23669,31 @@
     }
   },
   {
+    "term": "cocky",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；口)；自高自大的",
+    "analysis": "adj (-ier, -iest) (infml 口) conceited; arrogant 自高自大的; 趾高气扬的.\ncockily \nadv. \ncockiness \nn [U].",
+    "phonetic": "/ ˈkɒkɪ; ˈkɑːkɪ/",
+    "origin": "待查",
+    "expansions": [
+      ")(；口)；自高自大的"
+    ],
+    "pronunciation": "/ ˈkɒkɪ; ˈkɑːkɪ/",
+    "accepted_answers": [
+      ")(",
+      "口)",
+      "自高自大的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "cocoa",
     "type": "word",
     "translation": "可可粉；巧克力粉；（一杯）可可与牛奶或水调成的热饮料",
@@ -23013,6 +23973,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "coeducational",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "coeducational",
+    "analysis": "adj.",
+    "phonetic": "/ -ˈkeɪʃənl; -ˈkeʃənl/",
+    "origin": "待查",
+    "expansions": [
+      "coeducational"
+    ],
+    "pronunciation": "/ -ˈkeɪʃənl; -ˈkeʃənl/",
+    "accepted_answers": [
+      "coeducational"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
   },
   {
     "term": "coefficient",
@@ -23328,6 +24311,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "cognition",
+    "type": "word",
+    "pos": "N",
+    "translation": "心)；认知；认识",
+    "analysis": "n [U] (psychology 心) action or process of acquiring knowledge, by reasoning or by intuition or through the senses 认知; 认识; 认识力.",
+    "phonetic": "/ kɒgˈnɪʃn; kɑːgˈnɪʃən/",
+    "origin": "待查",
+    "expansions": [
+      "心)；认知；认识"
+    ],
+    "pronunciation": "/ kɒgˈnɪʃn; kɑːgˈnɪʃən/",
+    "accepted_answers": [
+      "心)",
+      "认知",
+      "认识"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
   },
   {
     "term": "cognitive",
@@ -24488,6 +25496,30 @@
     }
   },
   {
+    "term": "collectivize",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（农场、工业、土地等）集体化；国有化",
+    "analysis": "v [Tn] change (farms, industries, land, etc) from private ownership to ownership by the State 使（农场、 工业、 土地等）集体化, 国有化.",
+    "phonetic": "/ kəˈlektɪvaɪz; kəˈlektɪˌvaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "使（农场、工业、土地等）集体化；国有化"
+    ],
+    "pronunciation": "/ kəˈlektɪvaɪz; kəˈlektɪˌvaɪz/",
+    "accepted_answers": [
+      "使（农场、工业、土地等）集体化",
+      "国有化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "collector",
     "type": "word",
     "translation": "尤用以构成复合词)；收集人；收藏家",
@@ -24612,6 +25644,32 @@
     }
   },
   {
+    "term": "collie",
+    "type": "word",
+    "pos": "N",
+    "translation": "柯利牧羊狗（毛粗；嘴长而尖）；见附录；之插图",
+    "analysis": "n sheep-dog with shaggy hair and a long pointed muzzle 柯利牧羊狗（毛粗, 嘴长而尖）. =>illus at App 1 见附录1之插图, page iii.",
+    "phonetic": "/ ˈkɒlɪ; ˈkɑːlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "柯利牧羊狗（毛粗；嘴长而尖）；见附录；之插图"
+    ],
+    "pronunciation": "/ ˈkɒlɪ; ˈkɑːlɪ/",
+    "accepted_answers": [
+      "柯利牧羊狗（毛粗",
+      "嘴长而尖）",
+      "见附录",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "collier",
     "type": "word",
     "pos": "N",
@@ -24626,6 +25684,29 @@
     "accepted_answers": [
       "煤矿工人",
       "运煤船"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
+    "term": "colliery",
+    "type": "word",
+    "pos": "N",
+    "translation": "煤矿及其建筑物",
+    "analysis": "n (esp Brit) coal-mine with its buildings 煤矿及其建筑物.",
+    "phonetic": "/ ˈkɒlɪərɪ; ˈkɑːljərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "煤矿及其建筑物"
+    ],
+    "pronunciation": "/ ˈkɒlɪərɪ; ˈkɑːljərɪ/",
+    "accepted_answers": [
+      "煤矿及其建筑物"
     ],
     "added_at": "",
     "review": {
@@ -24996,6 +26077,30 @@
       "英国在非洲开拓了许多殖民地"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
+    "term": "colonnade",
+    "type": "word",
+    "pos": "N",
+    "translation": "列柱；柱廊",
+    "analysis": "n row of columns, usu with equal spaces between them and often supporting a roof, etc 列柱; 柱廊.",
+    "phonetic": "/ ˌkɒləˈneɪd; ˌkɑːləˈned/",
+    "origin": "待查",
+    "expansions": [
+      "列柱；柱廊"
+    ],
+    "pronunciation": "/ ˌkɒləˈneɪd; ˌkɑːləˈned/",
+    "accepted_answers": [
+      "列柱",
+      "柱廊"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -25738,6 +26843,31 @@
     }
   },
   {
+    "term": "comforter",
+    "type": "word",
+    "pos": "N",
+    "translation": "安慰者；被子；)(",
+    "analysis": "n  1 person who comforts 安慰者.  2 (US) quilt 被子.  3 (Brit) (US pacifier) = dummy.  4 (dated 旧 Brit) woollen scarf worn round the neck 毛围巾.",
+    "phonetic": "/ ˈkʌmfətə(r); ˈkʌmfətə/",
+    "origin": "待查",
+    "expansions": [
+      "安慰者；被子；)("
+    ],
+    "pronunciation": "/ ˈkʌmfətə(r); ˈkʌmfətə/",
+    "accepted_answers": [
+      "安慰者",
+      "被子",
+      ")("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "comfy",
     "type": "word",
     "pos": "Adj",
@@ -25909,6 +27039,31 @@
       "司令",
       "（尤指）战俘营的首长",
       "军事院校的校长等"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
+    "term": "commandeer",
+    "type": "word",
+    "pos": "V",
+    "translation": "强取；强占；徵用（车辆、建筑物等）（尤指作军用）",
+    "analysis": "v [Tn] take possession or control of (vehicles, buildings, etc) forcibly or for official (esp military) purposes 强取, 强占, 徵用（车辆、 建筑物等）（尤指作军用）.",
+    "phonetic": "/ ˌkɒmənˈdɪə(r); ˌkɑːmənˈdɪr/",
+    "origin": "待查",
+    "expansions": [
+      "强取；强占；徵用（车辆、建筑物等）（尤指作军用）"
+    ],
+    "pronunciation": "/ ˌkɒmənˈdɪə(r); ˌkɑːmənˈdɪr/",
+    "accepted_answers": [
+      "强取",
+      "强占",
+      "徵用（车辆、建筑物等）（尤指作军用）"
     ],
     "added_at": "",
     "review": {
@@ -28302,6 +29457,29 @@
     }
   },
   {
+    "term": "complainant",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)",
+    "analysis": "n (law 律) = plaintiff.",
+    "phonetic": "/ kəmˈpleɪnənt; kəmˈplenənt/",
+    "origin": "待查",
+    "expansions": [
+      "律)"
+    ],
+    "pronunciation": "/ kəmˈpleɪnənt; kəmˈplenənt/",
+    "accepted_answers": [
+      "律)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "complaint",
     "type": "word",
     "translation": "抱怨；埋怨；不满",
@@ -29739,6 +30917,31 @@
     "dict_source": "data/DICT/C/C-on.txt"
   },
   {
+    "term": "concavity",
+    "type": "word",
+    "pos": "N",
+    "translation": "凹状；凹形；凹面",
+    "analysis": "n (a) [U] quality of being concave 凹状; 凹形. (b) [C] concave surface 凹面.",
+    "phonetic": "/ ˌkɒnˈkævətɪ; kɑːnˈkævətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "凹状；凹形；凹面"
+    ],
+    "pronunciation": "/ ˌkɒnˈkævətɪ; kɑːnˈkævətɪ/",
+    "accepted_answers": [
+      "凹状",
+      "凹形",
+      "凹面"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "conceal",
     "type": "word",
     "translation": "隐藏、掩盖或隐瞒某事物；某人；藏在抽屉里的录音机",
@@ -30321,6 +31524,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "conch",
+    "type": "word",
+    "pos": "N",
+    "translation": "海螺（有大螺旋贝壳的贝类）；海螺壳",
+    "analysis": "n (a) shellfish with a large spiral shell 海螺（有大螺旋贝壳的贝类）. (b) shell of this creature 海螺壳.",
+    "phonetic": "/ kɒntʃ; kɑːntʃ/",
+    "origin": "待查",
+    "expansions": [
+      "海螺（有大螺旋贝壳的贝类）；海螺壳"
+    ],
+    "pronunciation": "/ kɒntʃ; kɑːntʃ/",
+    "accepted_answers": [
+      "海螺（有大螺旋贝壳的贝类）",
+      "海螺壳"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
   },
   {
     "term": "conciliate",
@@ -32711,6 +33938,31 @@
     "dict_source": "data/DICT/C/C-on.txt"
   },
   {
+    "term": "confute",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；证明（某人或某论点）有误；驳倒",
+    "analysis": "v [Tn] (fml 文) prove (a person or an argument) to be wrong 证明（某人或某论点）有误; 驳倒.",
+    "phonetic": "/ kənˈfjuːt; kənˈfjut/",
+    "origin": "待查",
+    "expansions": [
+      "文)；证明（某人或某论点）有误；驳倒"
+    ],
+    "pronunciation": "/ kənˈfjuːt; kənˈfjut/",
+    "accepted_answers": [
+      "文)",
+      "证明（某人或某论点）有误",
+      "驳倒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "congeal",
     "type": "word",
     "translation": ")(；（指液体）（使）变浓或凝结（尤指遇冷冻结）；血液在她的膝盖伤口周围凝固了",
@@ -34423,6 +35675,31 @@
     "dict_source": "data/DICT/C/C-on.txt"
   },
   {
+    "term": "conservatory",
+    "type": "word",
+    "pos": "N",
+    "translation": "温室；见附录；之插图",
+    "analysis": "n  1 room with glass walls and roof used to protect plants from cold, built against an outside wall of a house, and with a door into the house 温室. =>illus at App 1 见附录1之插图, page vii.  2 = conservatoire.",
+    "phonetic": "/ kənˈsɜːvətrɪ; -tɔːrɪ; kənˈsɜːvəˌtɔːrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "温室；见附录；之插图"
+    ],
+    "pronunciation": "/ kənˈsɜːvətrɪ; -tɔːrɪ; kənˈsɜːvəˌtɔːrɪ/",
+    "accepted_answers": [
+      "温室",
+      "见附录",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "conserve",
     "type": "word",
     "translation": "使（某事物）不变质、不受损失或不被损坏；保护；保藏",
@@ -35580,6 +36857,31 @@
     "dict_source": "data/DICT/C/C-on.txt"
   },
   {
+    "term": "constitutionalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "立宪、政体；立宪主义；拥护宪政",
+    "analysis": "n [U] (belief in) constitutional government or constitutional principles 立宪、 政体; 立宪主义; 拥护宪政; 拥护立宪主义.",
+    "phonetic": "/ -ʃənəlɪzəm; -ʃənlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "立宪、政体；立宪主义；拥护宪政"
+    ],
+    "pronunciation": "/ -ʃənəlɪzəm; -ʃənlɪzəm/",
+    "accepted_answers": [
+      "立宪、政体",
+      "立宪主义",
+      "拥护宪政"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "constitutive",
     "type": "word",
     "translation": "文)；有权采取行动、任命等的；有采取行动及任命权的委员会",
@@ -35628,6 +36930,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "constrainedly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "constrainedly",
+    "analysis": "adv.",
+    "phonetic": "/ -ɪdlɪ; -ɪdlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "constrainedly"
+    ],
+    "pronunciation": "/ -ɪdlɪ; -ɪdlɪ/",
+    "accepted_answers": [
+      "constrainedly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
   },
   {
     "term": "constraint",
@@ -37070,6 +38395,29 @@
     "dict_source": "data/DICT/C/C-on.txt"
   },
   {
+    "term": "continuum",
+    "type": "word",
+    "pos": "N",
+    "translation": "连续统一体",
+    "analysis": "n (pl ~s or  -ua/ -UE; -JE/) graded sequence of things of a similar kind, so that the ones next to each other are almost identical, but the ones at either end are quite distinct; cline 连续统一体.",
+    "phonetic": "/ kənˈtɪnjUəm; kənˈtɪnjJəm/",
+    "origin": "待查",
+    "expansions": [
+      "连续统一体"
+    ],
+    "pronunciation": "/ kənˈtɪnjUəm; kənˈtɪnjJəm/",
+    "accepted_answers": [
+      "连续统一体"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "contort",
     "type": "word",
     "translation": ")(；（使某物）扭曲；走样；她的脸因疼痛而走了样",
@@ -37709,6 +39057,32 @@
     }
   },
   {
+    "term": "contretemps",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)(；法；文或谑)；不幸事件",
+    "analysis": "n (pl unchanged 复数不变) (French fml or joc 法, 文或谑) unfortunate event; mishap; set-back 不幸事件; 灾祸; 挫折.",
+    "phonetic": "/ ˈkɒntrətɒm; ˈkɑːntrəˌtɑː/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)(；法；文或谑)；不幸事件"
+    ],
+    "pronunciation": "/ ˈkɒntrətɒm; ˈkɑːntrəˌtɑː/",
+    "accepted_answers": [
+      "复数不变)(",
+      "法",
+      "文或谑)",
+      "不幸事件"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "contribute",
     "type": "word",
     "translation": ")(；出（钱、力、主意等）；捐助",
@@ -37943,6 +39317,29 @@
     "dict_source": "data/DICT/C/C-on.txt"
   },
   {
+    "term": "controversially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "controversially",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃəlɪ; -ʃəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "controversially"
+    ],
+    "pronunciation": "/ -ʃəlɪ; -ʃəlɪ/",
+    "accepted_answers": [
+      "controversially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
     "term": "controversy",
     "type": "word",
     "translation": "公开辩论；论战；新负责人的任命引起了激烈的争论",
@@ -37983,6 +39380,31 @@
       "争论"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
+  },
+  {
+    "term": "contumacious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；固执的；桀骜不驯的",
+    "analysis": "adj (fml 文) obstinate and disobedient 固执的; 桀骜不驯的; 顽抗的.\ncontumaciously \nadv.",
+    "phonetic": "/ ˌkɒntjuːˈmeɪʃəs; -tuː-; ˌkɑːntuˈmeʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；固执的；桀骜不驯的"
+    ],
+    "pronunciation": "/ ˌkɒntjuːˈmeɪʃəs; -tuː-; ˌkɑːntuˈmeʃəs/",
+    "accepted_answers": [
+      "文)",
+      "固执的",
+      "桀骜不驯的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -38688,6 +40110,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "convertibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "摺篷汽车",
+    "analysis": "n [U]. convertible n car with a roof that can be folded down or removed 摺篷汽车.",
+    "phonetic": "/ kənˌvɜːtəˈbɪlətɪ; kənˌvɜːtəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "摺篷汽车"
+    ],
+    "pronunciation": "/ kənˌvɜːtəˈbɪlətɪ; kənˌvɜːtəˈbɪlətɪ/",
+    "accepted_answers": [
+      "摺篷汽车"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-on.txt"
   },
   {
     "term": "convertible",
@@ -40431,6 +41876,30 @@
     }
   },
   {
+    "term": "coreligionist",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；信奉同一宗教的人",
+    "analysis": "n (fml 文) person who belongs to the same religion as sb else 信奉同一宗教的人.",
+    "phonetic": "/ ˌkəʊrɪˈlɪdʒənɪst; ˌkorɪˈlɪdʒənɪst/",
+    "origin": "待查",
+    "expansions": [
+      "文)；信奉同一宗教的人"
+    ],
+    "pronunciation": "/ ˌkəʊrɪˈlɪdʒənɪst; ˌkorɪˈlɪdʒənɪst/",
+    "accepted_answers": [
+      "文)",
+      "信奉同一宗教的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oa~m.txt"
+  },
+  {
     "term": "corespondent",
     "type": "word",
     "translation": "律)(；（旧时离婚诉讼中被控通奸的）共同被告；指某人为共同被告",
@@ -41187,6 +42656,31 @@
     "dict_source": "data/DICT/C/C-oo~z.txt"
   },
   {
+    "term": "corral",
+    "type": "word",
+    "pos": "N",
+    "translation": "（牧场或农场上关马、牛等的）畜栏；（形成防御圈的）车阵；把（牛等）赶入或关进畜栏",
+    "analysis": "n (esp US)  1 enclosure for horses, cattle, etc on a ranch or farm （牧场或农场上关马、 牛等的）畜栏.  2 defensive circle of wagons, etc; laager （形成防御圈的）车阵.\ncorral \nv (-ll-)  1 [Tn] drive (cattle, etc) into or shut up in a corral 把（牛等）赶入或关进畜栏.  2 [Tn] form (wagons, etc) into a corral 把（车辆等）布成车阵.",
+    "phonetic": "/ kəˈrɑː:l; -ˈræl; kəˈræl/",
+    "origin": "待查",
+    "expansions": [
+      "（牧场或农场上关马、牛等的）畜栏；（形成防御圈的）车阵；把（牛等）赶入或关进畜栏"
+    ],
+    "pronunciation": "/ kəˈrɑː:l; -ˈræl; kəˈræl/",
+    "accepted_answers": [
+      "（牧场或农场上关马、牛等的）畜栏",
+      "（形成防御圈的）车阵",
+      "把（牛等）赶入或关进畜栏"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
     "term": "correct",
     "type": "word",
     "translation": "正确的；对的；准确的",
@@ -41455,6 +42949,31 @@
     "pos": "N"
   },
   {
+    "term": "corrigendum",
+    "type": "word",
+    "pos": "N",
+    "translation": "已改正的错误；（尤指书前的）勘误表；参看",
+    "analysis": "n (pl -da/ -dE; -dE/) corrected error, esp one of a list printed at the beginning of a book 已改正的错误; （尤指书前的）勘误表. Cf 参看 erratum.",
+    "phonetic": "/ ˌkɒrɪˈdʒendəm; ˌkɔːr-; ˌkɔːrɪˈdʒendəm/",
+    "origin": "待查",
+    "expansions": [
+      "已改正的错误；（尤指书前的）勘误表；参看"
+    ],
+    "pronunciation": "/ ˌkɒrɪˈdʒendəm; ˌkɔːr-; ˌkɔːrɪˈdʒendəm/",
+    "accepted_answers": [
+      "已改正的错误",
+      "（尤指书前的）勘误表",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
     "term": "corroborate",
     "type": "word",
     "translation": ")证实；支持（某种说法、信仰、理论等）；实验证实了她的预言",
@@ -41701,6 +43220,29 @@
     }
   },
   {
+    "term": "corruptibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "corruptibility",
+    "analysis": "n [U].",
+    "phonetic": "/ kəˌrʌptəˈbɪlətɪ; kəˌrʌptəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "corruptibility"
+    ],
+    "pronunciation": "/ kəˌrʌptəˈbɪlətɪ; kəˌrʌptəˈbɪlətɪ/",
+    "accepted_answers": [
+      "corruptibility"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
     "term": "corruption",
     "type": "word",
     "translation": "堕落；腐化；腐败",
@@ -41723,6 +43265,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "corsair",
+    "type": "word",
+    "pos": "N",
+    "translation": "史)；海盗（船）（尤指活动於北非沿岸以欧洲国家之船只为攻击目标的）",
+    "analysis": "n (history 史) pirate or pirate ship attacking ships of European countries, esp off the coast of N Africa 海盗（船）（尤指活动於北非沿岸以欧洲国家之船只为攻击目标的）.",
+    "phonetic": "/ ˈkɔːseə(r); ˈkɔːrser/",
+    "origin": "待查",
+    "expansions": [
+      "史)；海盗（船）（尤指活动於北非沿岸以欧洲国家之船只为攻击目标的）"
+    ],
+    "pronunciation": "/ ˈkɔːseə(r); ˈkɔːrser/",
+    "accepted_answers": [
+      "史)",
+      "海盗（船）（尤指活动於北非沿岸以欧洲国家之船只为攻击目标的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
   },
   {
     "term": "corset",
@@ -42438,6 +44004,31 @@
     "dict_source": "data/DICT/C/C-oo~z.txt"
   },
   {
+    "term": "cotangent",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；)(；数)",
+    "analysis": "n (abbr 缩写 cot) (mathematics 数) tangent of the complement of a given angle 余切.",
+    "phonetic": "/ kəʊˈtændʒənt; koˈtændʒənt/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)(；数)"
+    ],
+    "pronunciation": "/ kəʊˈtændʒənt; koˈtændʒənt/",
+    "accepted_answers": [
+      "缩写",
+      ")(",
+      "数)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
     "term": "cote",
     "type": "word",
     "translation": "用以构成复合词)；（家畜或家禽的）棚；圈；栏",
@@ -42623,6 +44214,30 @@
       "（指纹章上的动物）昂首蹲伏的"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
+    "term": "couchette",
+    "type": "word",
+    "pos": "N",
+    "translation": "法)；（列车的）坐卧两用铺位（可摺叠成靠背椅）",
+    "analysis": "n (French 法 ) bed in a railway carriage which can be folded down to make the back of a seat during the day （列车的）坐卧两用铺位（可摺叠成靠背椅）.",
+    "phonetic": "/ kuːˈʃet; kuˈʃet/",
+    "origin": "待查",
+    "expansions": [
+      "法)；（列车的）坐卧两用铺位（可摺叠成靠背椅）"
+    ],
+    "pronunciation": "/ kuːˈʃet; kuˈʃet/",
+    "accepted_answers": [
+      "法)",
+      "（列车的）坐卧两用铺位（可摺叠成靠背椅）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -43573,6 +45188,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "countersink",
+    "type": "word",
+    "pos": "V",
+    "translation": "通常用於被动语态；钻埋头孔；将（螺钉或螺栓）旋入埋头孔中",
+    "analysis": "v (pt -sank /-sNk; -9sANk/, pp -sunk / -sQNk; -9sQNk/) [Tn usu passive通常用於被动语态 ]  1 enlarge the top of (a hole) so that the head of a screw or bolt fits into it level with or below the surrounding surface 钻埋头孔.  2 insert (a screw or bolt) into such an enlarged hole 将（螺钉或螺栓）旋入埋头孔中.",
+    "phonetic": "/ ˈkaUntəsɪŋk; ˈkaJntəˌsɪŋk/",
+    "origin": "待查",
+    "expansions": [
+      "通常用於被动语态；钻埋头孔；将（螺钉或螺栓）旋入埋头孔中"
+    ],
+    "pronunciation": "/ ˈkaUntəsɪŋk; ˈkaJntəˌsɪŋk/",
+    "accepted_answers": [
+      "通常用於被动语态",
+      "钻埋头孔",
+      "将（螺钉或螺栓）旋入埋头孔中"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
   },
   {
     "term": "countervailing",
@@ -44582,6 +46222,29 @@
     "dict_source": "data/DICT/C/C-oo~z.txt"
   },
   {
+    "term": "covey",
+    "type": "word",
+    "pos": "N",
+    "translation": "一小群鹧鸪",
+    "analysis": "n (pl ~s) [CGp] small flock of partridges 一小群鹧鸪.",
+    "phonetic": "/ ˈkʌvɪ; ˈkʌvɪ/",
+    "origin": "待查",
+    "expansions": [
+      "一小群鹧鸪"
+    ],
+    "pronunciation": "/ ˈkʌvɪ; ˈkʌvɪ/",
+    "accepted_answers": [
+      "一小群鹧鸪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
     "term": "cow",
     "type": "word",
     "translation": "母牛（尤指奶牛和菜牛）；给奶牛挤奶；一群母牛",
@@ -44725,6 +46388,30 @@
       "（修士道袍上的）大兜帽",
       "通风帽",
       "烟囱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-oo~z.txt"
+  },
+  {
+    "term": "cowlick",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；（额前翘起的）一绺头发",
+    "analysis": "n (infml 口) tuft of hair just above the forehead that will not lie flat （额前翘起的）一绺头发.",
+    "phonetic": "/ ˈkaUlɪk; ˈkaJˌlɪk/",
+    "origin": "待查",
+    "expansions": [
+      "口)；（额前翘起的）一绺头发"
+    ],
+    "pronunciation": "/ ˈkaUlɪk; ˈkaJˌlɪk/",
+    "accepted_answers": [
+      "口)",
+      "（额前翘起的）一绺头发"
     ],
     "added_at": "",
     "review": {
@@ -46273,6 +47960,29 @@
       "不会说话的动物"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
+    "term": "creche",
+    "type": "word",
+    "pos": "N",
+    "translation": "托儿所",
+    "analysis": "n  1 (Brit) nursery where babies are looked after while their mothers work 托儿所.  2 (US) = crib.",
+    "phonetic": "/ kreɪʃ,kreʃ; kreʃ/",
+    "origin": "待查",
+    "expansions": [
+      "托儿所"
+    ],
+    "pronunciation": "/ kreɪʃ,kreʃ; kreʃ/",
+    "accepted_answers": [
+      "托儿所"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -48427,6 +50137,30 @@
     "dict_source": "data/DICT/C/C-p,q,r.txt"
   },
   {
+    "term": "cross-benches",
+    "type": "word",
+    "pos": "N",
+    "translation": "中立议员席（英国议会中不固定追随任何政党的议员席位）；中立议员",
+    "analysis": "n [pl] seats in the British parliament occupied by those members who do not regularly support a particular political party 中立议员席（英国议会中不固定追随任何政党的议员席位）.\ncross-bencher \nn member of parliament who usu sits on these seats 中立议员.",
+    "phonetic": "/ ˈkrɒsbentʃɪz; ˈkrɔːs-; ˈkrɔːsˌbentʃɪz/",
+    "origin": "待查",
+    "expansions": [
+      "中立议员席（英国议会中不固定追随任何政党的议员席位）；中立议员"
+    ],
+    "pronunciation": "/ ˈkrɒsbentʃɪz; ˈkrɔːs-; ˈkrɔːsˌbentʃɪz/",
+    "accepted_answers": [
+      "中立议员席（英国议会中不固定追随任何政党的议员席位）",
+      "中立议员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
     "term": "cross-bones",
     "type": "word",
     "pos": "N",
@@ -48853,6 +50587,30 @@
     }
   },
   {
+    "term": "cross-question",
+    "type": "word",
+    "pos": "V",
+    "translation": ")追问；诘问（某人）",
+    "analysis": "v [Tn] question (sb) thoroughly and often aggressively; cross-examine(2) 追问, 诘问（某人）.",
+    "phonetic": "/ ˌkrɒsˈkwestʃən; ˌkrɔːs; ˈkrɔːsˈkwestʃən/",
+    "origin": "待查",
+    "expansions": [
+      ")追问；诘问（某人）"
+    ],
+    "pronunciation": "/ ˌkrɒsˈkwestʃən; ˌkrɔːs; ˈkrɔːsˈkwestʃən/",
+    "accepted_answers": [
+      ")追问",
+      "诘问（某人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
     "term": "cross-reference",
     "type": "word",
     "translation": "互见；相互参照的诠释；参阅所有标明相互参照的注释",
@@ -48994,6 +50752,30 @@
     "dict_source": "data/DICT/C/C-p,q,r.txt"
   },
   {
+    "term": "crossbeam",
+    "type": "word",
+    "pos": "N",
+    "translation": "横梁；大梁",
+    "analysis": "n horizontal beam between two supporting parts of a structure; girder 横梁; 大梁.",
+    "phonetic": "/ ˈkrɒsbiːm; ˈkrɔːs-; ˈkrɔːsˌbim/",
+    "origin": "待查",
+    "expansions": [
+      "横梁；大梁"
+    ],
+    "pronunciation": "/ ˈkrɒsbiːm; ˈkrɔːs-; ˈkrɔːsˌbim/",
+    "accepted_answers": [
+      "横梁",
+      "大梁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
     "term": "crossbow",
     "type": "word",
     "pos": "N",
@@ -49114,6 +50896,30 @@
     }
   },
   {
+    "term": "crotchety",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)；脾气坏的",
+    "analysis": "adj (infml 口) bad-tempered 脾气坏的.",
+    "phonetic": "/ ˈkrɒtʃɪtɪ; ˈkrɑːtʃɪtɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；脾气坏的"
+    ],
+    "pronunciation": "/ ˈkrɒtʃɪtɪ; ˈkrɑːtʃɪtɪ/",
+    "accepted_answers": [
+      "口)",
+      "脾气坏的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
     "term": "crouch",
     "type": "word",
     "translation": "蹲伏；那只猫弓著身子；准备扑过去；我蹲在沙发後面",
@@ -49212,6 +51018,30 @@
     "dict_source": "data/DICT/C/C-p,q,r.txt"
   },
   {
+    "term": "crowbar",
+    "type": "word",
+    "pos": "N",
+    "translation": "撬棍；铁撬",
+    "analysis": "n straight iron bar, usu with a hooked end, used as a lever to open crates, move heavy objects, etc 撬棍; 铁撬.",
+    "phonetic": "/ ˈkrəʊbɑː:(r); ˈkroˌbɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "撬棍；铁撬"
+    ],
+    "pronunciation": "/ ˈkrəʊbɑː:(r); ˈkroˌbɑːr/",
+    "accepted_answers": [
+      "撬棍",
+      "铁撬"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
     "term": "crowd",
     "type": "word",
     "translation": "人群；使馆大门外已经聚集了一群人；他在人群中往前挤",
@@ -49291,6 +51121,29 @@
     }
   },
   {
+    "term": "crucially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "crucially",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃəlɪ; -ʃəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "crucially"
+    ],
+    "pronunciation": "/ -ʃəlɪ; -ʃəlɪ/",
+    "accepted_answers": [
+      "crucially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
+  },
+  {
     "term": "crucible",
     "type": "word",
     "translation": "坩埚；比喻；修辞)；严峻的考验",
@@ -49358,6 +51211,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "cruciform",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "十字形的",
+    "analysis": "adj cross-shaped 十字形的.",
+    "phonetic": "/ ˈkruːsɪfɔːm; ˈkrusəˌfɔːrm/",
+    "origin": "待查",
+    "expansions": [
+      "十字形的"
+    ],
+    "pronunciation": "/ ˈkruːsɪfɔːm; ˈkrusəˌfɔːrm/",
+    "accepted_answers": [
+      "十字形的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-p,q,r.txt"
   },
   {
     "term": "crucify",
@@ -50431,6 +52307,30 @@
     "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "cubism",
+    "type": "word",
+    "pos": "N",
+    "translation": "立体主义；立体派",
+    "analysis": "n [U] modern style of art in which objects are represented as if they are made up of geometrical shapes 立体主义; 立体派.",
+    "phonetic": "/ ˈkjuːbɪzəm; ˈkjubɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "立体主义；立体派"
+    ],
+    "pronunciation": "/ ˈkjuːbɪzəm; ˈkjubɪzəm/",
+    "accepted_answers": [
+      "立体主义",
+      "立体派"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "cubist",
     "type": "word",
     "pos": "N / Adj",
@@ -51057,6 +52957,30 @@
     "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "culvert",
+    "type": "word",
+    "pos": "N",
+    "translation": "（公路、铁路等的）涵洞；地下电缆道",
+    "analysis": "n drain that crosses beneath a road, railway, etc; underground channel for electrical cables （公路、 铁路等的）涵洞; 地下电缆道.",
+    "phonetic": "/ ˈkʌlvət; ˈkʌlvət/",
+    "origin": "待查",
+    "expansions": [
+      "（公路、铁路等的）涵洞；地下电缆道"
+    ],
+    "pronunciation": "/ ˈkʌlvət; ˈkʌlvət/",
+    "accepted_answers": [
+      "（公路、铁路等的）涵洞",
+      "地下电缆道"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "cum",
     "type": "word",
     "translation": "用以联结两个名词)；兼作；卧室、客厅两用房间",
@@ -51148,6 +53072,29 @@
       "几种疾病日积月累造成的影响"
     ],
     "added_at": "2026-03-30T15:35:28+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "cumulus",
+    "type": "word",
+    "pos": "N",
+    "translation": "积云",
+    "analysis": "n (pl -li / -laI; -9laI/) [U, C] cloud formed of rounded masses heaped on a flat base 积云.",
+    "phonetic": "/ ˈkjuːmjUləs; ˈkjumjələs/",
+    "origin": "待查",
+    "expansions": [
+      "积云"
+    ],
+    "pronunciation": "/ ˈkjuːmjUləs; ˈkjumjələs/",
+    "accepted_answers": [
+      "积云"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -51309,6 +53256,31 @@
     }
   },
   {
+    "term": "cupful",
+    "type": "word",
+    "pos": "N",
+    "translation": "一杯的容量；通常作；优胜杯决赛（尤指足球）",
+    "analysis": "n amount that a cup will hold 一杯的容量.\ncup final (usu 通常作 Cup Final) \nfinal match to decide the winner of a knock-out competition, esp in football 优胜杯决赛（尤指足球）.\ncup-tie \nn match between teams competing for a cup, esp in football 优胜杯淘汰赛（尤指足球）.",
+    "phonetic": "/ ˈkʌpfUl; ˈkʌpˌfJl/",
+    "origin": "待查",
+    "expansions": [
+      "一杯的容量；通常作；优胜杯决赛（尤指足球）"
+    ],
+    "pronunciation": "/ ˈkʌpfUl; ˈkʌpˌfJl/",
+    "accepted_answers": [
+      "一杯的容量",
+      "通常作",
+      "优胜杯决赛（尤指足球）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "cupid",
     "type": "word",
     "pos": "N",
@@ -51357,6 +53329,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "cupro-nickel",
+    "type": "word",
+    "pos": "N",
+    "translation": "铜镍合金（用以制造硬币）",
+    "analysis": "n [U] alloy of copper and nickel used for making coins 铜镍合金（用以制造硬币）.",
+    "phonetic": "/ ˌkjuːprəʊˈnɪkl; ˌkjuproˈnɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "铜镍合金（用以制造硬币）"
+    ],
+    "pronunciation": "/ ˌkjuːprəʊˈnɪkl; ˌkjuproˈnɪkl/",
+    "accepted_answers": [
+      "铜镍合金（用以制造硬币）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "cur",
@@ -51794,6 +53789,30 @@
       "喙长而下弯）",
       "见附录",
       "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "curling",
+    "type": "word",
+    "pos": "N",
+    "translation": "冰上溜石游戏（将圆底石片滑向一目标；尤风行於苏格兰）",
+    "analysis": "n [U] game played on ice, esp in Scotland, with heavy flat round stones which are slid along the ice towards a mark 冰上溜石游戏（将圆底石片滑向一目标, 尤风行於苏格兰）.",
+    "phonetic": "/ ˈkɜːlɪŋ; ˈkɜːlɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "冰上溜石游戏（将圆底石片滑向一目标；尤风行於苏格兰）"
+    ],
+    "pronunciation": "/ ˈkɜːlɪŋ; ˈkɜːlɪŋ/",
+    "accepted_answers": [
+      "冰上溜石游戏（将圆底石片滑向一目标",
+      "尤风行於苏格兰）"
     ],
     "added_at": "",
     "review": {
@@ -52964,6 +54983,30 @@
     "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "cutworm",
+    "type": "word",
+    "pos": "N",
+    "translation": "切根虫；地老虎（夜蛾的幼虫）",
+    "analysis": "n any of various types of caterpillar that eat the stems of young plants near the ground 切根虫, 地老虎（夜蛾的幼虫）.",
+    "phonetic": "/ ˈkʌtwɜːm; ˈkʌtˌwɜːm/",
+    "origin": "待查",
+    "expansions": [
+      "切根虫；地老虎（夜蛾的幼虫）"
+    ],
+    "pronunciation": "/ ˈkʌtwɜːm; ˈkʌtˌwɜːm/",
+    "accepted_answers": [
+      "切根虫",
+      "地老虎（夜蛾的幼虫）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "cwm",
     "type": "word",
     "translation": "圆形的山谷或山上的大圆坑；缩写；)英担（源自拉丁文",
@@ -53208,6 +55251,29 @@
     "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "cyclotron",
+    "type": "word",
+    "pos": "N",
+    "translation": "螺旋加速器",
+    "analysis": "n device for making atomic particles move at a very high speed, used for experiments in nuclear research 螺旋加速器.\ncyder\n= cider.",
+    "phonetic": "/ ˈsaɪklətrɒn; ˈsaɪkləˌtrɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "螺旋加速器"
+    ],
+    "pronunciation": "/ ˈsaɪklətrɒn; ˈsaɪkləˌtrɑːn/",
+    "accepted_answers": [
+      "螺旋加速器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "cygnet",
     "type": "word",
     "pos": "N",
@@ -53254,6 +55320,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "cymbal",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作复数)；见附录；之插图",
+    "analysis": "n (usu pl 通常作复数) one of a pair of round brass plates struck together or hit with a stick to produce a clanging sound 钹. =>illus at App 1 见附录1之插图, page xi.",
+    "phonetic": "/ ˈsɪmbl; ˈsɪmbl/",
+    "origin": "待查",
+    "expansions": [
+      "通常作复数)；见附录；之插图"
+    ],
+    "pronunciation": "/ ˈsɪmbl; ˈsɪmbl/",
+    "accepted_answers": [
+      "通常作复数)",
+      "见附录",
+      "之插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "cynic",
+    "type": "word",
+    "pos": "N",
+    "translation": "愤世嫉俗者；（古希腊哲学）犬儒学派的成员",
+    "analysis": "n  1 person who believes that people do not do things for good, sincere or noble reasons, but only for their own advantage 愤世嫉俗者.  2 Cynic member of a school of ancient Greek philosophy that despised ease and comfort （古希腊哲学）犬儒学派的成员.",
+    "phonetic": "/ ˈsɪnɪk; ˈsɪnɪk/",
+    "origin": "待查",
+    "expansions": [
+      "愤世嫉俗者；（古希腊哲学）犬儒学派的成员"
+    ],
+    "pronunciation": "/ ˈsɪnɪk; ˈsɪnɪk/",
+    "accepted_answers": [
+      "愤世嫉俗者",
+      "（古希腊哲学）犬儒学派的成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "cynical",

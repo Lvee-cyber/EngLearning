@@ -11,4 +11,12 @@ window.APP_CONFIG = {
   contentCacheTtlMs: 1800000,
   localContentCacheTtlMs: 86400000,
   defaultProfileId: "",
+  contentStats: {
+    wordsCount: 173,
+    dictionaryCount: 26631,
+    wordsUpdatedAt: "2026-06-06T02:08:05.031Z",
+    dictionaryUpdatedAt: "2026-06-06T02:04:26.782Z",
+    wordsLatestTerm: "obsess",
+    dictionaryLatestTerm: "minuscule",
+  },
 };
