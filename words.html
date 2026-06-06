@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./review.css" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./site-config.js"></script>
-    <script src="./content-store.js"></script>
+    <script src="./content-store.js?v=20260606-prefetch"></script>
   </head>
   <body>
     <main class="page">
@@ -62,6 +62,18 @@
           </button>
         </div>
 
+        <div class="words-sort-row" aria-label="词库排序">
+          <button type="button" class="words-sort-button is-active" data-sort-key="added_at" aria-pressed="true">
+            添加时间 <span class="sort-arrow" aria-hidden="true">▼</span>
+          </button>
+          <button type="button" class="words-sort-button" data-sort-key="term" aria-pressed="false">
+            字母排序 <span class="sort-arrow" aria-hidden="true">▲▼</span>
+          </button>
+          <button type="button" class="words-sort-button" data-sort-key="correct_count" aria-pressed="false">
+            答对次数 <span class="sort-arrow" aria-hidden="true">▲▼</span>
+          </button>
+        </div>
+
         <p id="words-sync-status" class="status-text">正在读取词库与在线进度。</p>
       </section>
 
@@ -71,6 +83,6 @@
       </section>
     </main>
 
-    <script src="./words.js" defer></script>
+    <script src="./words.js?v=20260606-prefetch" defer></script>
   </body>
 </html>

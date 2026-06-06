@@ -6,6 +6,8 @@
   const CACHE_TTL_MS = Number(APP_CONFIG.contentCacheTtlMs || 3 * 60 * 1000);
   const LOCAL_CACHE_TTL_MS = Number(APP_CONFIG.localContentCacheTtlMs || 24 * 60 * 60 * 1000);
   const memoryCache = new Map();
+  const jsonMemoryCache = new Map();
+  const jsonPromiseCache = new Map();
 
   function createSupabaseClient() {
     if (!APP_CONFIG.supabaseUrl || !APP_CONFIG.supabaseAnonKey) return null;
@@ -15,10 +17,26 @@
     });
   }
 
-  async function fetchJson(url, label) {
-    const response = await fetch(url, { cache: "no-store" });
-    if (!response.ok) throw new Error(`${label}读取失败：${response.status}`);
-    return response.json();
+  async function fetchJson(url, label, options = {}) {
+    const cacheKey = String(url || "");
+    if (options.memoryCache && jsonMemoryCache.has(cacheKey)) return jsonMemoryCache.get(cacheKey);
+    if (options.memoryCache && jsonPromiseCache.has(cacheKey)) return jsonPromiseCache.get(cacheKey);
+
+    const promise = fetch(url, { cache: "no-store" }).then((response) => {
+      if (!response.ok) throw new Error(`${label}读取失败：${response.status}`);
+      return response.json();
+    });
+
+    if (!options.memoryCache) return promise;
+
+    jsonPromiseCache.set(cacheKey, promise);
+    try {
+      const data = await promise;
+      jsonMemoryCache.set(cacheKey, data);
+      return data;
+    } finally {
+      jsonPromiseCache.delete(cacheKey);
+    }
   }
 
   function buildCacheKey({ tableName, fallbackUrl, label }) {
@@ -212,7 +230,7 @@
 
     const detailUrl = buildDictionaryUrl("dictionaryDetailUrl", getDetailToken(normalizedTerm), { tableName, fallbackUrl });
     if (detailUrl) {
-      const localDetail = await fetchJson(detailUrl, label).catch(() => null);
+      const localDetail = await fetchJson(detailUrl, label, { memoryCache: true }).catch(() => null);
       if (Array.isArray(localDetail)) {
         const item = localDetail.find((entry) => getEntryTerm(entry).toLowerCase() === normalizedTerm.toLowerCase()) || null;
         if (item) return saveCache(termCacheKey, { item, source: "json-detail" });

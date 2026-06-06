@@ -1419,6 +1419,59 @@ code {
   outline-offset: 2px;
 }
 
+.words-sort-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: -2px 0 14px;
+}
+
+.words-sort-button {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid rgba(127, 57, 16, 0.14);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--muted);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    background 160ms ease,
+    border-color 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
+}
+
+.words-sort-button:hover {
+  border-color: rgba(127, 57, 16, 0.24);
+  color: var(--ink);
+  transform: translateY(-1px);
+}
+
+.words-sort-button.is-active {
+  background: rgba(167, 85, 33, 0.12);
+  border-color: rgba(127, 57, 16, 0.28);
+  color: var(--accent);
+}
+
+.words-sort-button:focus-visible {
+  outline: 3px solid rgba(167, 85, 33, 0.22);
+  outline-offset: 2px;
+}
+
+.sort-arrow {
+  font-size: 12px;
+  line-height: 1;
+}
+
 .words-search .control,
 .words-toolbar .control {
   width: 100%;

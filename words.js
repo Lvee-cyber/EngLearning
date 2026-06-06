@@ -11,12 +11,15 @@ const state = {
   wordsSource: "json",
   progressByTerm: {},
   supabase: null,
+  sortKey: "added_at",
+  sortDirection: "desc",
 };
 
 const elements = {
   profileIdInput: document.querySelector("#words-profile-id"),
   filter: document.querySelector("#words-filter"),
   filterPills: [...document.querySelectorAll(".words-filter-pill")],
+  sortButtons: [...document.querySelectorAll(".words-sort-button")],
   search: document.querySelector("#words-search"),
   syncStatus: document.querySelector("#words-sync-status"),
   list: document.querySelector("#words-list"),
@@ -290,6 +293,59 @@ function syncFilterPills() {
   });
 }
 
+function syncSortButtons() {
+  elements.sortButtons.forEach((button) => {
+    const isActive = button.dataset.sortKey === state.sortKey;
+    const arrow = button.querySelector(".sort-arrow");
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-pressed", isActive ? "true" : "false");
+    if (arrow) arrow.textContent = isActive ? (state.sortDirection === "asc" ? "▲" : "▼") : "▲▼";
+  });
+}
+
+function getAddedTimestamp(entry) {
+  const rawValue = entry.added_at || entry.created_at || entry.updated_at || "";
+  const timestamp = Date.parse(rawValue);
+  return Number.isFinite(timestamp) ? timestamp : 0;
+}
+
+function getSortValue(entry, key) {
+  if (key === "term") return String(entry.term || "").trim().toLowerCase();
+  if (key === "correct_count") return getProgress(entry).correct_count || 0;
+  return getAddedTimestamp(entry);
+}
+
+function compareWordsBySort(a, b) {
+  const direction = state.sortDirection === "asc" ? 1 : -1;
+  const aValue = getSortValue(a, state.sortKey);
+  const bValue = getSortValue(b, state.sortKey);
+  let result = 0;
+
+  if (typeof aValue === "string" || typeof bValue === "string") {
+    result = String(aValue).localeCompare(String(bValue));
+  } else {
+    result = Number(aValue || 0) - Number(bValue || 0);
+  }
+
+  if (result !== 0) return result * direction;
+  return String(a.term || "").localeCompare(String(b.term || ""));
+}
+
+function getDefaultSortDirection(key) {
+  if (key === "term") return "asc";
+  return "desc";
+}
+
+function setSort(key) {
+  if (state.sortKey === key) {
+    state.sortDirection = state.sortDirection === "asc" ? "desc" : "asc";
+  } else {
+    state.sortKey = key;
+    state.sortDirection = getDefaultSortDirection(key);
+  }
+  renderWords();
+}
+
 function applyFilter(words) {
   const filter = elements.filter.value;
   if (filter === "reviewable") return words.filter((entry) => !isMastered(entry));
@@ -324,13 +380,9 @@ function applySearch(words) {
 
 function renderWords() {
   syncFilterPills();
-  const hasSearchQuery = Boolean(String(elements.search.value || "").trim());
+  syncSortButtons();
   const filtered = applySearch(applyFilter([...state.words]));
-  filtered.sort((a, b) => {
-    if (hasSearchQuery) return String(a.term || "").localeCompare(String(b.term || ""));
-    if (isMastered(a) !== isMastered(b)) return isMastered(a) ? 1 : -1;
-    return a.term.localeCompare(b.term);
-  });
+  filtered.sort(compareWordsBySort);
 
   if (!filtered.length) {
     elements.list.innerHTML = "";
@@ -396,6 +448,11 @@ elements.filterPills.forEach((pill) => {
     if (elements.filter.value === nextFilter) return;
     elements.filter.value = nextFilter;
     renderWords();
+  });
+});
+elements.sortButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    setSort(button.dataset.sortKey || "added_at");
   });
 });
 elements.search.addEventListener("input", renderWords);
