@@ -230,7 +230,10 @@ async function fetchDictionaryTerm(query) {
 
   const entry = normalizeEntry(item, query);
   if (!entry) return [];
-  if (!state.entries.some((existing) => normalizeText(existing.term) === normalizeText(entry.term))) {
+  const existingIndex = state.entries.findIndex((existing) => normalizeText(existing.term) === normalizeText(entry.term));
+  if (existingIndex >= 0) {
+    state.entries[existingIndex] = entry;
+  } else {
     state.entries.push(entry);
   }
   state.dictionarySource = source || state.dictionarySource;
@@ -431,9 +434,6 @@ async function updateSuggestions() {
   remoteMatches.forEach((entry) => {
     if (!merged.some((item) => normalizeText(item.term) === normalizeText(entry.term))) {
       merged.push(entry);
-    }
-    if (!state.entries.some((item) => normalizeText(item.term) === normalizeText(entry.term))) {
-      state.entries.push(entry);
     }
   });
   state.suggestions = merged.slice(0, 8);
