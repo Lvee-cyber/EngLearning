@@ -2,6 +2,8 @@ window.APP_CONFIG = {
   wordsUrl: "./data/words.json",
   dictionaryUrl: "./data/dictionary.json",
   dictionaryPrefixUrl: "./data/dictionary-prefix/{prefix}.json",
+  dictionarySuggestUrl: "./data/dictionary-suggest/{prefix}.json",
+  dictionaryDetailUrl: "./data/dictionary-detail/{prefix}.json",
   supabaseUrl: "https://ttzjzkzlxeuytbzkjshe.supabase.co",
   supabaseAnonKey: "sb_publishable_7eNwoD4bLbdd2GdRwdoD0w_iZakuBPk",
   reviewProgressTable: "review_progress",

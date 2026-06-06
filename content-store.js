@@ -84,12 +84,30 @@
     return first || "";
   }
 
+  function getDetailToken(value) {
+    const normalized = String(value || "").trim().toLowerCase().replace(/^[^a-z]+/, "");
+    const token = normalized.match(/^[a-z]{1,2}/)?.[0] || "";
+    return token || getPrefixToken(value);
+  }
+
+  function getSuggestToken(value) {
+    const normalized = String(value || "").trim().toLowerCase().replace(/^[^a-z]+/, "");
+    if (normalized.length >= 2) return normalized.match(/^[a-z]{2}/)?.[0] || getPrefixToken(value);
+    return getPrefixToken(value);
+  }
+
   function isDictionaryCollection({ tableName, fallbackUrl }) {
     return (
       Boolean(APP_CONFIG.dictionaryPrefixUrl) &&
       (String(tableName || "") === String(APP_CONFIG.dictionaryTable || "dictionary_entries") ||
         String(fallbackUrl || "") === String(APP_CONFIG.dictionaryUrl || "./data/dictionary.json"))
     );
+  }
+
+  function buildDictionaryUrl(templateKey, token, context = {}) {
+    const template = APP_CONFIG[templateKey];
+    if (!template || !token || !isDictionaryCollection(context)) return "";
+    return String(template).replace("{prefix}", encodeURIComponent(token));
   }
 
   function buildPrefixUrl(prefix, context = {}) {
@@ -192,6 +210,15 @@
       }
     }
 
+    const detailUrl = buildDictionaryUrl("dictionaryDetailUrl", getDetailToken(normalizedTerm), { tableName, fallbackUrl });
+    if (detailUrl) {
+      const localDetail = await fetchJson(detailUrl, label).catch(() => null);
+      if (Array.isArray(localDetail)) {
+        const item = localDetail.find((entry) => getEntryTerm(entry).toLowerCase() === normalizedTerm.toLowerCase()) || null;
+        if (item) return saveCache(termCacheKey, { item, source: "json-detail" });
+      }
+    }
+
     if (supabase && tableName) {
       const response = await supabase.from(tableName).select("term, payload").eq("term", normalizedTerm).maybeSingle();
       if (!response.error && response.data?.payload) {
@@ -229,6 +256,13 @@
   async function fetchPrefix({ supabase, tableName, fallbackUrl, label, query, limit = 8 }) {
     const normalizedQuery = String(query || "").trim();
     if (!normalizedQuery) return { items: [], source: "empty", cached: false };
+
+    const suggestUrl = buildDictionaryUrl("dictionarySuggestUrl", getSuggestToken(normalizedQuery), { tableName, fallbackUrl });
+    const localSuggest = suggestUrl ? await fetchJson(suggestUrl, label).catch(() => null) : null;
+    if (Array.isArray(localSuggest)) {
+      const items = pickPrefixItems(localSuggest, normalizedQuery, limit);
+      if (items.length) return { items, source: "json-suggest", cached: false };
+    }
 
     let supabaseItems = [];
     if (supabase && tableName) {

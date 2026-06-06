@@ -1301,6 +1301,14 @@ code {
   line-height: 1.65;
 }
 
+.content-status-line {
+  display: block;
+}
+
+.content-status-line + .content-status-line {
+  margin-top: 4px;
+}
+
 .landing-section-head {
   display: flex;
   justify-content: space-between;

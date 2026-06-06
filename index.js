@@ -189,9 +189,12 @@ function renderContentStatus() {
   if (wordsCount || dictionaryCount) {
     const wordsUpdated = formatContentTimestamp(CONTENT_STATS.wordsUpdatedAt);
     const dictionaryUpdated = formatContentTimestamp(CONTENT_STATS.dictionaryUpdatedAt);
-    const wordsTerm = CONTENT_STATS.wordsLatestTerm ? `，最新：${CONTENT_STATS.wordsLatestTerm}` : "";
-    const dictionaryTerm = CONTENT_STATS.dictionaryLatestTerm ? `，最新：${CONTENT_STATS.dictionaryLatestTerm}` : "";
-    elements.contentStatus.textContent = `词库 ${wordsCount} 条，辞典 ${dictionaryCount} 条。词库更新：${wordsUpdated}${wordsTerm}；辞典更新：${dictionaryUpdated}${dictionaryTerm}。`;
+    const wordsTerm = CONTENT_STATS.wordsLatestTerm ? CONTENT_STATS.wordsLatestTerm : "未知";
+    const dictionaryTerm = CONTENT_STATS.dictionaryLatestTerm ? CONTENT_STATS.dictionaryLatestTerm : "未知";
+    elements.contentStatus.innerHTML = `
+      <span class="content-status-line">词库：${escapeHtml(wordsCount)}条（更新时间：${escapeHtml(wordsUpdated)}；最新：${escapeHtml(wordsTerm)}）。</span>
+      <span class="content-status-line">辞典：${escapeHtml(dictionaryCount)}条（更新时间：${escapeHtml(dictionaryUpdated)}；最新：${escapeHtml(dictionaryTerm)}）。</span>
+    `;
     return;
   }
   if (cacheHints.words || cacheHints.dictionary) {

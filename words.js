@@ -4,6 +4,7 @@ const STORAGE_KEYS = {
 };
 const MASTERED_THRESHOLD = Number(APP_CONFIG.masteredThreshold || 10);
 const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supabaseTable || "review_progress";
+const CONTENT_STATS = APP_CONFIG.contentStats || {};
 
 const state = {
   words: [],
@@ -127,6 +128,25 @@ function formatDate(value) {
   return date.toLocaleString("zh-CN", { hour12: false });
 }
 
+function getStaticWordsStatus() {
+  const total = Number(CONTENT_STATS.wordsCount || 0);
+  const updatedAt = formatDate(CONTENT_STATS.wordsUpdatedAt) || "未知";
+  const latestTerm = CONTENT_STATS.wordsLatestTerm || "未知";
+  if (!total) return "";
+  return `词库：${total}条（更新时间：${updatedAt}；最新：${latestTerm}）。`;
+}
+
+function renderStaticStats() {
+  const total = Number(CONTENT_STATS.wordsCount || 0);
+  if (total) elements.totalCount.textContent = String(total);
+  if (!state.words.length) {
+    elements.reviewableCount.textContent = "—";
+    elements.masteredCount.textContent = "—";
+  }
+  const status = getStaticWordsStatus();
+  if (status) elements.syncStatus.textContent = `${status}正在读取词条与在线进度。`;
+}
+
 function renderList(items) {
   const normalized = toArray(items).map((item) => escapeHtml(item));
   if (!normalized.length) return "";
@@ -231,7 +251,8 @@ async function fetchWords() {
 async function loadProgress() {
   const profileId = getProfileId();
   if (!state.supabase || !profileId) {
-    elements.syncStatus.textContent = "当前未连接在线进度，展示的是词库内容和已有本地基线数据。";
+    const status = getStaticWordsStatus();
+    elements.syncStatus.textContent = `${status ? `${status}` : ""}当前未连接在线进度，展示的是词库内容和已有本地基线数据。`;
     return;
   }
 
@@ -363,6 +384,7 @@ async function reload() {
 async function init() {
   elements.profileIdInput.value = window.localStorage.getItem(STORAGE_KEYS.profileId) || APP_CONFIG.defaultProfileId || "";
   state.supabase = window.ContentStore.createSupabaseClient();
+  renderStaticStats();
   await fetchWords();
   await reload();
 }
