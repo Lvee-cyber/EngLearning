@@ -7399,5 +7399,75 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "syntax",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "句法；语法结构；语法规则；代码语法",
+        "analysis": "指语言中词语组成句子的规则；也可指编程语言中代码必须遵守的结构规则。"
+      }
+    ],
+    "translation": "句法；语法结构；语法规则；代码语法",
+    "analysis": "在自然语言里，syntax 更专注于句子结构；grammar 范围更大。编程语境中，syntax 指代码写法是否符合语言规则。",
+    "phonetic": "/ˈsɪntæks/",
+    "origin": "来自希腊语 syntaxis，意为排列、安排、组合，由 syn-（一起）和 taxis（排列、秩序）构成。",
+    "expansions": [
+      "English syntax 英语句法",
+      "sentence syntax 句子结构",
+      "syntax error 语法错误",
+      "complex syntax 复杂句法",
+      "the syntax of Python Python 的语法"
+    ],
+    "pronunciation": "/ˈsɪntæks/",
+    "accepted_answers": [
+      "句法",
+      "语法结构",
+      "语法规则",
+      "代码语法"
+    ],
+    "added_at": "2026-06-17T01:26:30.963Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "take pride in",
+    "type": "phrase",
+    "pos": "Phrase",
+    "senses": [
+      {
+        "pos": "Phrase",
+        "translation": "为……感到自豪；以……为荣",
+        "analysis": "表示因为某人、某事、成果、身份或行为而感到自豪，常接名词或动名词。"
+      }
+    ],
+    "translation": "为……感到自豪；以……为荣",
+    "analysis": "后接名词或动名词。比 be proud of 更强调主动珍视、认真维护某种品质或成果，常用于工作、家庭、个人习惯和专业标准语境。",
+    "phonetic": "take /teɪk/; pride /praɪd/; in /ɪn/",
+    "origin": "pride 来自古英语 pryde，与自尊、自豪、尊严有关；take pride in 后来固定为把自豪感放在某事上的表达。",
+    "expansions": [
+      "take pride in your work 为自己的工作感到自豪；认真对待工作",
+      "take pride in doing something 以做某事为荣",
+      "take great pride in... 对……非常自豪",
+      "take pride in quality 重视品质并以此为荣"
+    ],
+    "pronunciation": "take /teɪk/; pride /praɪd/; in /ɪn/",
+    "accepted_answers": [
+      "为……感到自豪",
+      "以……为荣",
+      "认真珍视"
+    ],
+    "added_at": "2026-06-17T01:44:26.897Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
