@@ -7469,5 +7469,113 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "at capacity",
+    "type": "phrase",
+    "pos": "Phrase",
+    "senses": [
+      {
+        "pos": "Phrase",
+        "translation": "满负荷；达到容量上限；没有余量；无法再接收更多",
+        "analysis": "表示某个系统、场所、团队、资源或人已经达到可承载上限。"
+      }
+    ],
+    "translation": "满负荷；达到容量上限；没有余量；无法再接收更多",
+    "analysis": "capacity 是容量、承载能力、处理能力。at capacity 强调已经满了或已经到上限，常用于医院、服务器、工厂、团队、活动场地、客服队列等。用于人时，表示精力、时间或工作量已经满了。",
+    "phonetic": "at /ət/ or /æt/; capacity /kəˈpæsəti/",
+    "origin": "capacity 来自拉丁语 capacitas，与 capax（能容纳的）相关，核心含义是可容纳或可承受的能力。",
+    "expansions": [
+      "The server is at capacity. 服务器已满负荷。",
+      "Hospitals are operating at capacity. 医院正在满负荷运转。",
+      "We are at capacity this week. 我们这周已经排满了。",
+      "The venue is at full capacity. 场地已满员。",
+      "I am at capacity right now. 我现在已经没有余力了。"
+    ],
+    "pronunciation": "at /ət/ or /æt/; capacity /kəˈpæsəti/",
+    "accepted_answers": [
+      "满负荷",
+      "达到容量上限",
+      "没有余量",
+      "无法再接收更多",
+      "排满"
+    ],
+    "added_at": "2026-06-27T02:52:46.217Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "converges",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "汇聚；会合；趋同；收敛",
+        "analysis": "converge 的第三人称单数形式，表示从不同方向逐渐靠近同一点；也可表示观点、趋势、技术、数据或模型逐渐趋同或收敛。"
+      }
+    ],
+    "translation": "汇聚；会合；趋同；收敛",
+    "analysis": "核心意思是从不同方向逐渐靠近同一点。可用于道路、人群等物理汇聚，也可用于观点、趋势、技术、数据、模型等抽象收敛。",
+    "phonetic": "/kənˈvɜːdʒɪz/; /kənˈvɝːdʒɪz/",
+    "origin": "来自拉丁语 convergere，由 con-（一起）和 vergere（转向、倾向）构成，原义是朝同一方向转去。",
+    "expansions": [
+      "the paths converge 道路汇合",
+      "opinions converge 意见趋同",
+      "technologies converge 技术融合",
+      "the model converges 模型收敛",
+      "converge on a solution 逐渐达成一个解决方案"
+    ],
+    "pronunciation": "/kənˈvɜːdʒɪz/; /kənˈvɝːdʒɪz/",
+    "accepted_answers": [
+      "汇聚",
+      "会合",
+      "趋同",
+      "收敛"
+    ],
+    "added_at": "2026-06-30T02:17:07.345Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
+  },
+  {
+    "term": "illuminate",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "照亮；阐明；解释清楚；启发",
+        "analysis": "用光照亮某处；也可表示把问题、观点或事实解释清楚，使人理解。"
+      }
+    ],
+    "translation": "照亮；阐明；解释清楚；启发",
+    "analysis": "具体意义是照亮；抽象意义是阐明、解释清楚，常用于文章、研究、例子、数据等帮助人理解复杂问题。比 explain 更有让原本模糊的东西变清楚的感觉。",
+    "phonetic": "/ɪˈluːmɪneɪt/",
+    "origin": "来自拉丁语 illuminare，由 in-（进入、使）和 lumen（光）相关词根构成，原义是使有光、照亮，后引申为使明白、启发。",
+    "expansions": [
+      "illuminate a room 照亮房间",
+      "illuminate the issue 阐明这个问题",
+      "the data illuminates a trend 数据揭示了一种趋势",
+      "an example that illuminates the point 一个能说明要点的例子"
+    ],
+    "pronunciation": "/ɪˈluːmɪneɪt/",
+    "accepted_answers": [
+      "照亮",
+      "阐明",
+      "解释清楚",
+      "启发"
+    ],
+    "added_at": "2026-07-01T08:16:51.704Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]
