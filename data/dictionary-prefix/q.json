@@ -24,6 +24,31 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "qb",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；律)；参看",
+    "analysis": "abbr 缩写 = (Brit law 律) Queen's Bench. Cf 参看 KB.",
+    "phonetic": "/ ˌkjuːˈbiː; ˌkjuˈbi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；律)；参看"
+    ],
+    "pronunciation": "/ ˌkjuːˈbiː; ˌkjuˈbi/",
+    "accepted_answers": [
+      "缩写",
+      "律)",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "qc",
     "type": "word",
     "pos": "word",
@@ -40,6 +65,104 @@
       "缩写",
       "律)",
       "王室法律顾问诺曼法官"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "qed",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；)证明完毕（源自拉丁文；商)(",
+    "analysis": "abbr 缩写 = which was to be proved (Latin quod erat demonstrandum) 证明完毕（源自拉丁文quod erat demonstrandum）.\nqr\nabbr 缩写 = quarter(s).\nqt\nabbr 缩写 = quart(s).\nqto \nabbr 缩写 = quarto.\nqty\nabbr 缩写 = (commerce 商) (esp on order forms) quantity （尤用於订货单）.",
+    "phonetic": "/ ˌkjuːiːˈdiː; ˌkjuiˈdi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)证明完毕（源自拉丁文；商)("
+    ],
+    "pronunciation": "/ ˌkjuːiːˈdiː; ˌkjuiˈdi/",
+    "accepted_answers": [
+      "缩写",
+      ")证明完毕（源自拉丁文",
+      "商)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "qua",
+    "type": "word",
+    "pos": "word",
+    "translation": "文)；以（某人；某事物",
+    "analysis": "prep (fml 文) in the capacity or characterof (sb/sth); as 以（某人[某事物]）的身分或特性; 作为: I don't dislike sport qua sport  I just think it's rather a waste of time. 我倒不是不喜欢运动本身--而是觉得有些浪费时间.",
+    "phonetic": "/ kweɪ; kwe/",
+    "origin": "待查",
+    "expansions": [
+      "I don't dislike sport qua sport I just think it's rather a waste of time. 我倒不是不喜欢运动本身--而是觉得有些浪费时间."
+    ],
+    "pronunciation": "/ kweɪ; kwe/",
+    "accepted_answers": [
+      "文)",
+      "以（某人",
+      "某事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quack",
+    "type": "word",
+    "pos": "N",
+    "translation": "（鸭叫的）嘎嘎声；作鸭叫；儿语)",
+    "analysis": "interj, n harsh sound made by a duck （鸭叫的）嘎嘎声.\nquack \nv [I] make the sound of a duck 作鸭叫.\nquack-quack \nn (used by and to small children 儿语) duck 鸭鸭; 鸭子",
+    "phonetic": "/ kwæk; kwæk/",
+    "origin": "待查",
+    "expansions": [
+      "（鸭叫的）嘎嘎声；作鸭叫；儿语)"
+    ],
+    "pronunciation": "/ kwæk; kwæk/",
+    "accepted_answers": [
+      "（鸭叫的）嘎嘎声",
+      "作鸭叫",
+      "儿语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quackery",
+    "type": "word",
+    "pos": "N",
+    "translation": "庸医的医术或行医",
+    "analysis": "n [U] methods or practices of a quack 庸医的医术或行医.",
+    "phonetic": "/ -ərɪ; -ərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "庸医的医术或行医"
+    ],
+    "pronunciation": "/ -ərɪ; -ərɪ/",
+    "accepted_answers": [
+      "庸医的医术或行医"
     ],
     "added_at": "",
     "review": {
@@ -77,6 +200,29 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quadragesima",
+    "type": "word",
+    "pos": "N",
+    "translation": "大斋期的第一个星期日",
+    "analysis": "n the first Sunday in Lent 大斋期的第一个星期日.",
+    "phonetic": "/ ˌkwɒdrəˈdʒesɪmə; ˌkwɑːdrəˈdʒesɪmə/",
+    "origin": "待查",
+    "expansions": [
+      "大斋期的第一个星期日"
+    ],
+    "pronunciation": "/ ˌkwɒdrəˈdʒesɪmə; ˌkwɑːdrəˈdʒesɪmə/",
+    "accepted_answers": [
+      "大斋期的第一个星期日"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quadrangle",
     "type": "word",
     "pos": "N",
@@ -103,6 +249,30 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quadrangular",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "有四边的；四边形的",
+    "analysis": "adj having four sides 有四边的; 四边形的.",
+    "phonetic": "/ kwɒˈdræŋgjUlə(r); kwɑːdˈræŋgjJlə/",
+    "origin": "待查",
+    "expansions": [
+      "有四边的；四边形的"
+    ],
+    "pronunciation": "/ kwɒˈdræŋgjUlə(r); kwɑːdˈræŋgjJlə/",
+    "accepted_answers": [
+      "有四边的",
+      "四边形的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quadrant",
     "type": "word",
     "pos": "N",
@@ -118,6 +288,29 @@
       "圆的或圆周的四分之一",
       "象限",
       "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadraphonic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指录音放音）四声道的",
+    "analysis": "adj (of sound-reproduction) using four transmission channels （指录音放音）四声道的.",
+    "phonetic": "/ ˌkwɒdrəˈfɒnɪk; ˌkwɑːdrəˈfɑːnɪk/",
+    "origin": "待查",
+    "expansions": [
+      "（指录音放音）四声道的"
+    ],
+    "pronunciation": "/ ˌkwɒdrəˈfɒnɪk; ˌkwɑːdrəˈfɑːnɪk/",
+    "accepted_answers": [
+      "（指录音放音）四声道的"
     ],
     "added_at": "",
     "review": {
@@ -212,6 +405,31 @@
     "pronunciation": "/ ˌkwɒdrɪˈlætərəl; ˌkwɑːdrəˈlætərəl/",
     "accepted_answers": [
       "四边形（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quadrille",
+    "type": "word",
+    "pos": "N",
+    "translation": "四对方舞（曲）；演奏四对方舞曲；跳四对方舞",
+    "analysis": "n (music for a) square dance for four couples 四对方舞（曲）: play/dance a quadrille 演奏四对方舞曲[跳四对方舞].",
+    "phonetic": "/ kwəˈdrɪl; kwəˈdrɪl/",
+    "origin": "待查",
+    "expansions": [
+      "play/dance a quadrille 演奏四对方舞曲[跳四对方舞]."
+    ],
+    "pronunciation": "/ kwəˈdrɪl; kwəˈdrɪl/",
+    "accepted_answers": [
+      "四对方舞（曲）",
+      "演奏四对方舞曲",
+      "跳四对方舞"
     ],
     "added_at": "",
     "review": {
@@ -398,6 +616,85 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quail",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "复数或不变或作；)(；鹌鹑",
+    "analysis": "n (pl unchanged or ~s 复数或不变或作 quails) (a) [C] small bird, similar to a partridge 鹌鹑. =>illus at App 1 见附录1插图, page v. (b) [U] its meat as food （食用的）鹌鹑肉.",
+    "phonetic": "/ kweɪl; kwel/",
+    "origin": "待查",
+    "expansions": [
+      "复数或不变或作；)(；鹌鹑"
+    ],
+    "pronunciation": "/ kweɪl; kwel/",
+    "accepted_answers": [
+      "复数或不变或作",
+      ")(",
+      "鹌鹑"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quaint",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "离奇有趣的；古色古香的；稀奇古怪的旧风俗",
+    "analysis": "adj attractively odd or old-fashioned 离奇有趣的; 古色古香的: quaint old customs 稀奇古怪的旧风俗 * quaint little cottages on the village green 在村中草地上的古朴的小房子.\nquaintly \nadv. \nquaintness \nn [U].",
+    "phonetic": "/ kweɪnt; kwent/",
+    "origin": "待查",
+    "expansions": [
+      "quaint old customs 稀奇古怪的旧风俗",
+      "quaint little cottages on the village green 在村中草地上的古朴的小房子."
+    ],
+    "pronunciation": "/ kweɪnt; kwent/",
+    "accepted_answers": [
+      "离奇有趣的",
+      "古色古香的",
+      "稀奇古怪的旧风俗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quake",
+    "type": "word",
+    "pos": "V",
+    "translation": "（指地）震动；颤动；炸弹爆炸时；他们觉得地都震动了；（指人）颤抖；哆嗦",
+    "analysis": "v [I]  1 (of the earth) shake （指地）震动, 颤动: They felt the ground quake as the bomb exploded. 炸弹爆炸时, 他们觉得地都震动了.  2 (of persons) tremble （指人）颤抖, 哆嗦: quaking with fear/cold 因恐惧[寒冷]而颤抖.\nquake \nn (infml 口) = earthquake.",
+    "phonetic": "/ kweɪk; kwek/",
+    "origin": "待查",
+    "expansions": [
+      "They felt the ground quake as the bomb exploded. 炸弹爆炸时, 他们觉得地都震动了. 2 (of persons) tremble （指人）颤抖, 哆嗦: quaking with fear/cold 因恐惧[寒冷]而颤抖."
+    ],
+    "pronunciation": "/ kweɪk; kwek/",
+    "accepted_answers": [
+      "（指地）震动",
+      "颤动",
+      "炸弹爆炸时",
+      "他们觉得地都震动了",
+      "（指人）颤抖",
+      "哆嗦"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quaker",
     "type": "word",
     "pos": "N",
@@ -415,6 +712,59 @@
       "教友会教徒（基督教的教派",
       "既无任何正式仪式又无固定教义",
       "其信条为强烈反对暴力与战争）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "qualification",
+    "type": "word",
+    "pos": "N",
+    "translation": "赋予资格；获得资格；资格",
+    "analysis": "n  1 [U] qualifying or becoming qualified 赋予资格; 获得资格.  2 [C] (a) training, examination or experience that qualifies (qualify 1) sb for work, further training, etc 资格; 资历. (b) degree, diploma, certificate, etc awarded for this （获得的）学位, 文凭, 证书, 执照等: What sort of qualifications do you need for the job? 做这项工作需要什麽资格? * He's got all the right qualifications but is temperamentally unsuitable. 他具备所需要的一切合格证件, 惟独性情不适合.  3 [C, U] statement that modifies or restricts a previous statement （对前述言语或文字的）限定条件: She gave her approval to the scheme but not without several qualifications. 她批准了这项计画,但附加了几项意见. * I can recommend him without qualification. 我可以毫无保留地推荐他.",
+    "phonetic": "/ ˌkwɒlɪfɪˈkeɪʃn; ˌkwɑːləfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "What sort of qualifications do you need for the job? 做这项工作需要什麽资格?",
+      "He's got all the right qualifications but is temperamentally unsuitable. 他具备所需要的一切合格证件, 惟独性情不适合. 3 [C, U] statement that modifies or restricts a previous statement （对前述言语或文字的）限定条件: She gave her approval to the scheme but not without several qualifications. 她批准了这项计画,但附加了几项意见.",
+      "I can recommend him without qualification. 我可以毫无保留地推荐他."
+    ],
+    "pronunciation": "/ ˌkwɒlɪfɪˈkeɪʃn; ˌkwɑːləfəˈkeʃən/",
+    "accepted_answers": [
+      "赋予资格",
+      "获得资格",
+      "资格"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "qualifier",
+    "type": "word",
+    "pos": "N",
+    "translation": "修饰词；（尤指）形容词；副词；（有资格进入下一轮竞赛等的）合格者",
+    "analysis": "n  1 (grammar) word, esp an adjective or adverb, that qualifies another word 修饰词; （尤指）形容词, 副词.  2 person who becomes entitled to compete in the next round of a competition, etc （有资格进入下一轮竞赛等的）合格者: The final brings together four qualifiers from each heat. 有四名初赛获胜者进入决赛.",
+    "phonetic": "/ -faɪə(r); -ˌfaɪə/",
+    "origin": "待查",
+    "expansions": [
+      "The final brings together four qualifiers from each heat. 有四名初赛获胜者进入决赛."
+    ],
+    "pronunciation": "/ -faɪə(r); -ˌfaɪə/",
+    "accepted_answers": [
+      "修饰词",
+      "（尤指）形容词",
+      "副词",
+      "（有资格进入下一轮竞赛等的）合格者"
     ],
     "added_at": "",
     "review": {
@@ -534,6 +884,32 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quandary",
+    "type": "word",
+    "pos": "N",
+    "translation": "困惑；窘况；有人要给我一份更好的工作；但薪水较低",
+    "analysis": "n state of not being able to decide what to do; awkward or difficult situation 困惑; 窘况: I've been offered a better job but at a lower salary  I'm in a quandary about what to do. 有人要给我一份更好的工作, 但薪水较低--我很为难, 不知如何是好.",
+    "phonetic": "/ ˈkwɒndərɪ; ˈkwɑːndərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "I've been offered a better job but at a lower salary I'm in a quandary about what to do. 有人要给我一份更好的工作, 但薪水较低--我很为难, 不知如何是好."
+    ],
+    "pronunciation": "/ ˈkwɒndərɪ; ˈkwɑːndərɪ/",
+    "accepted_answers": [
+      "困惑",
+      "窘况",
+      "有人要给我一份更好的工作",
+      "但薪水较低"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quango",
     "type": "word",
     "pos": "N",
@@ -548,6 +924,78 @@
     "accepted_answers": [
       ")（由政府赞助的）自治机构（此字由",
       "之首字母组成）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quantification",
+    "type": "word",
+    "pos": "N",
+    "translation": "quantification",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌkwɒntɪfɪˈkeɪʃn; ˌkwɑːntəfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "quantification"
+    ],
+    "pronunciation": "/ ˌkwɒntɪfɪˈkeɪʃn; ˌkwɑːntəfəˈkeʃən/",
+    "accepted_answers": [
+      "quantification"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quantify",
+    "type": "word",
+    "pos": "V",
+    "translation": ")表示或测量（某事物）的数量；这次水灾的损失是无可估量的",
+    "analysis": "v (pt, pp -fied) [Tn] express or measure the quantity of (sth) 表示或测量（某事物）的数量: The cost of the flood damage is impossible to quantify. 这次水灾的损失是无可估量的.\nquantifiable \nadj.",
+    "phonetic": "/ ˈkwɒntɪfaɪ; ˈkwɑːntəˌfaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "The cost of the flood damage is impossible to quantify. 这次水灾的损失是无可估量的."
+    ],
+    "pronunciation": "/ ˈkwɒntɪfaɪ; ˈkwɑːntəˌfaɪ/",
+    "accepted_answers": [
+      ")表示或测量（某事物）的数量",
+      "这次水灾的损失是无可估量的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quantitative",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "数量的；关於数量的；定量分析",
+    "analysis": "adj of or concerned with quantity 数量的; 关於数量的: quantitative analysis 定量分析. Cf 参看 qualitative.",
+    "phonetic": "/ ˈkwɒntɪtətɪv; -teɪt-; ˈkwɑːntəˌtetɪv/",
+    "origin": "待查",
+    "expansions": [
+      "quantitative analysis 定量分析. Cf 参看 qualitative."
+    ],
+    "pronunciation": "/ ˈkwɒntɪtətɪv; -teɪt-; ˈkwɑːntəˌtetɪv/",
+    "accepted_answers": [
+      "数量的",
+      "关於数量的",
+      "定量分析"
     ],
     "added_at": "",
     "review": {
@@ -734,6 +1182,164 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quarry",
+    "type": "word",
+    "pos": "N",
+    "translation": "正在被捕猎的鸟兽；猎人失去了在林中追捕的鸟兽踪影；被寻找或追逐的人或事物",
+    "analysis": "n (a) animal or bird that is being hunted 正在被捕猎的鸟兽: The hunters lost sight of their quarry in the forest. 猎人失去了在林中追捕的鸟兽踪影. (b) person or thing that is being looked for or pursued eagerly 被寻找或追逐的人或事物: It took the police several days to track down their quarry. 警方用了几天时间追查到案中目标.",
+    "phonetic": "/ ˈkwɒrɪ; ˈkwɔːrɪ; ˈkwɔːrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "The hunters lost sight of their quarry in the forest. 猎人失去了在林中追捕的鸟兽踪影. (b) person or thing that is being looked for or pursued eagerly 被寻找或追逐的人或事物: It took the police several days to track down their quarry. 警方用了几天时间追查到案中目标."
+    ],
+    "pronunciation": "/ ˈkwɒrɪ; ˈkwɔːrɪ; ˈkwɔːrɪ/",
+    "accepted_answers": [
+      "正在被捕猎的鸟兽",
+      "猎人失去了在林中追捕的鸟兽踪影",
+      "被寻找或追逐的人或事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quart",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；夸脱（液体容量单位；等於；品脱或约",
+    "analysis": "n  1 (abbr 缩写 qt) measure of capacity for liquids, equal to 2 pints or approximately 1.14 litres 夸脱（液体容量单位, 等於2品脱或约1.14升）. =>App 5 见附录5.  2 (idm 习语) put a quart into a pint `pot (try to) do sth that is impossible, esp to put sth into a space that is too small for it （试图）做不可能做到的事（尤指将某物置於容纳不下之处）.",
+    "phonetic": "/ kwɔːt; kwɔːrt/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；夸脱（液体容量单位；等於；品脱或约"
+    ],
+    "pronunciation": "/ kwɔːt; kwɔːrt/",
+    "accepted_answers": [
+      "缩写",
+      "夸脱（液体容量单位",
+      "等於",
+      "品脱或约"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quarter",
+    "type": "word",
+    "pos": "N",
+    "translation": "四分之一；四等份；四分之一英里",
+    "analysis": "n  1 [C] each of four equal or corresponding parts of sth 四分之一; 四等份: a quarter of a mile 四分之一英里 * three and a quarter (ie 3) inches 三又四分之一（3）英寸 * The programme lasted an hour and a quarter. 节目持续了一小时十五分钟. * Divide the apples into quarters. 把这些苹果分成四份. * Three quarters of the theatre was full. 剧院的座位坐满了四分之三. * (infml 口) A quarter (ie of a pound) of coffee, please. 请给我四分之一磅的咖啡. =>App 4, 5 见附录4 5. =>Usage at half1 用法见half1.  2 [C] point of time fifteen minutes before or after every hour 每小时之前或之後的第十五分钟: It's (a) quarter to (US of) four now  I'll meet you at quarter past (US after). 现在是差一刻四点--我四点一刻见你. * The clock strikes the hours, the half-hours and the quarters. 这个钟在正点、 半点和一刻钟都打点. * The buses leave twice every hour on the quarter, eg at 10.15 and 10.45. 公共汽车在每小时的第一刻钟和第三刻钟各开出一班车（如10时15分及10时45分）. =>App 4 见附录4.  3 [C] three months, esp as a period for which rent or other payment is made, or a firm's earnings are calculated 季度, 三个月（尤指作为偿付租金或公司收益结算等的阶段）: The rent is due at the end of each quarter. 缴纳租金以每季度末为期限. * Our gas bill for the last quarter was unusually high. 我们上季度的煤气费异常高. * Sales of the dictionary are twice what they were in the same quarter last year. 这部词典的销售量是去年同季度的两倍.  4 [C] (a) direction 方向: The wind blew from all quarters. 风从四面八方吹来. * Her travels had taken her to every quarter of the globe. 她游遍了世界各地. (b) district; part of a town 地区; 城镇的一部分: a residential quarter 住宅区 * the student quarter of the city, ie the part mainly inhabited by students 城里的学生居住区.  5 [C] person or group of people, esp as a possible source of help, information, etc 人, 团体（尤指可能提供援助、 消息等的）: As her mother was now very poor she could expect no help from that quarter. 她母亲已很贫困, 她无法指望得到母亲的帮助. * The minister's speech is interpreted in some quarters (ie by some people) as an admission that the Government was wrong. 部长的讲话有人认为是承认政府错了.  6 [C] (US) (coin worth) 25 cents; fourth part of a dollar 两角五分（的硬币）; 四分之一元: It'llcost you a quarter. 你得花两角五分钱. =>App 4 见附录4.7 [C] one fourth of a lunar month; position of the moon at the end of the first and third of these 太阴月的四分之一; 月球上弦或下弦的位相: The moon is in its last quarter. 月球现处於下弦.  8 [C usu sing 通常作单数] rear part of a ship's side 船舷的後部: on the port/starboard quarter 在左舷[右舷]後部.  9 [C] fourth part of a hundredweight, ie (in UK) 28 lb or (in US) 25 lb 夸特（四分之一英担, 即英国为28磅, 美国为25磅）. =>App 4, 5 见附录4 5.  10 quarters [pl] accommodation,esp for soldiers 住处; （尤指）营房: take up quarters in the nearest village 在最近的村中驻扎 * married/single quarters, ie place where a soldier with/without a family can lodge 已婚军人[单身军人]营房 * ordered to return to their quarters 被命令回营房.  11 [U] (dated or fml旧或文) mercy shown towards an enemy who has surrendered or to an opponent who is one's power （对降敌或对手的）慈悲, 宽恕: His business rivals knew they could expect no quarter from such a ruthless adversary. 他的业务对手都知道不可指望他这样无情的人会手软.  12 (idm 习语) at close quarters => close1.\nquarter \nv  1 [Tn] divide (sb/sth) into four parts 将（人[事物]）分成四部分: quarter an apple 把苹果切成四瓣儿 * sentenced to be hung, drawn and quartered, ie executed by hanging, the body then being opened and cut up 被判处绞刑并剖尸裂肢.  2 [Tn, Tn.pr] ~ sb (on sb) provide sb with lodgings 供某人住宿: troops quartered on the local villagers 驻扎在当地村民家中的部队.\nquarter-day \nn first day of a quarter(3) when payments become due 季度结帐日（一季度的第一天, 为付款到期日）.\nquarterdeck \nn part of the upper deck of a ship near the stern, usu reserved for officers 上层後甲板区（通常为高级船员专用处）.\nquarter-final \nn (in sport, etc) any of four competitions or matches to choose the players or teams for the semifinals （运动等的）四分之一决赛.\nquarter-light \nn small triangular section of a window in a car, which can be opened to admit air without opening the main section 边窗（汽车窗中的三角形小窗）.\nquartermaster \nn  1 (in the army) regimental officer in charge of stores and accommodation for a battalion（陆军的）军需官（负责营的物资及住宿的团级军官）.2 (in the navy) petty officer in charge of steering, signals, etc （海军的）航信士官（负责掌舵、 信号等）. \nQuartermaster-General \nn staff officer in charge of supplies for an army 陆军军需总长.\nquarter-note \nn (US) = crotchet.\nquarter sessions \n(formerly) court of law with limited power to try criminal and civil cases, held every three months （旧时）（按季开庭的）初级法院.\nquarterstaff \nn strong pole, 6 to 8 feet long, formerly used as a weapon （旧时用作武器的6至8英尺长的）棍棒.",
+    "phonetic": "/ ˈkwɔːtə(r); ˈkwɔːrtə/",
+    "origin": "待查",
+    "expansions": [
+      "a quarter of a mile 四分之一英里",
+      "three and a quarter (ie 3) inches 三又四分之一（3）英寸",
+      "The programme lasted an hour and a quarter. 节目持续了一小时十五分钟.",
+      "Divide the apples into quarters. 把这些苹果分成四份.",
+      "Three quarters of the theatre was full. 剧院的座位坐满了四分之三."
+    ],
+    "pronunciation": "/ ˈkwɔːtə(r); ˈkwɔːrtə/",
+    "accepted_answers": [
+      "四分之一",
+      "四等份",
+      "四分之一英里"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quarterly",
+    "type": "word",
+    "pos": "Adj / Adv",
+    "translation": "季度的；按季度（每三个月一次）；我每三个月都收到一份银行结单；订费按季度交付",
+    "analysis": "adj, adv produced or occurring once every three months 季度的, 按季度（每三个月一次）: I receive quarterly bank statements. 我每三个月都收到一份银行结单. * Subscriptions should be paid quarterly. 订费按季度交付.\nquarterly \nn periodical published four times a year 季刊.",
+    "phonetic": "/ ˈkwɔːtəlɪ; ˈkwɔːrtəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "I receive quarterly bank statements. 我每三个月都收到一份银行结单.",
+      "Subscriptions should be paid quarterly. 订费按季度交付."
+    ],
+    "pronunciation": "/ ˈkwɔːtəlɪ; ˈkwɔːrtəlɪ/",
+    "accepted_answers": [
+      "季度的",
+      "按季度（每三个月一次）",
+      "我每三个月都收到一份银行结单",
+      "订费按季度交付"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quartet",
+    "type": "word",
+    "pos": "N",
+    "translation": "四重奏（曲）；四重唱（曲）；四重奏演奏者",
+    "analysis": "n  1 (piece of music for) four players or singers 四重奏（曲）; 四重唱（曲）; 四重奏演奏者; 四重唱演唱者: a string quartet, ie players of or music for two violins, a viola and a cello 弦乐四重奏（两个小提琴、 一个中提琴和一个大提琴的演奏者或其乐曲）.  2 set of four people or things 四人一组; 四件一套: a quartet of novels with a linking theme 主题连贯的四部小说.",
+    "phonetic": "/ kwɔːˈtet; kwɔːrˈtet/",
+    "origin": "待查",
+    "expansions": [
+      "a string quartet, ie players of or music for two violins, a viola and a cello 弦乐四重奏（两个小提琴、 一个中提琴和一个大提琴的演奏者或其乐曲）. 2 set of four people or things 四人一组; 四件一套: a quartet of novels with a linking theme 主题连贯的四部小说."
+    ],
+    "pronunciation": "/ kwɔːˈtet; kwɔːrˈtet/",
+    "accepted_answers": [
+      "四重奏（曲）",
+      "四重唱（曲）",
+      "四重奏演奏者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quarto",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；缩写；四开（标准纸张摺两次而成八页的大小）",
+    "analysis": "n (pl ~s) (a) (abbrs 缩写 4to, qto) size of page made by folding a standard sheet of paper twice to form eight pages 四开（标准纸张摺　两次而成八页的大小）. (b) book made of these folded sheets 四开本: the first quarto of `Hamlet' 《哈姆雷特》的第一种四开本 * [attrib 作定语] Quarto volumes are too large to fit on this shelf. 这架子上放不下四开本的书.",
+    "phonetic": "/ ˈkwɔːtəʊ; ˈkwɔːrto/",
+    "origin": "待查",
+    "expansions": [
+      "the first quarto of `Hamlet' 《哈姆雷特》的第一种四开本",
+      "[attrib 作定语] Quarto volumes are too large to fit on this shelf. 这架子上放不下四开本的书."
+    ],
+    "pronunciation": "/ ˈkwɔːtəʊ; ˈkwɔːrto/",
+    "accepted_answers": [
+      ")(",
+      "缩写",
+      "四开（标准纸张摺两次而成八页的大小）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quartz",
     "type": "word",
     "pos": "N",
@@ -782,6 +1388,32 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quash",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；（依法）撤销（某事物）；宣布（某事物）无效",
+    "analysis": "v [Tn]  1 reject (sth) (by legal procedure) as not valid; declare (sth) not to be enforceable by law （依法）撤销（某事物）; 宣布（某事物）无效: quash a verdict 宣布裁决无效 * They had their sentence quashed by the appeal court judge. 上诉法院的法官撤销了对他们的判决.  2 put an end to (sth); suppress or crush 制止（某事物）; 镇压; 捣碎: The rebellion was quickly quashed.叛乱被迅速平息.",
+    "phonetic": "/ kwɒʃ; kwɑːʃ/",
+    "origin": "待查",
+    "expansions": [
+      "quash a verdict 宣布裁决无效",
+      "They had their sentence quashed by the appeal court judge. 上诉法院的法官撤销了对他们的判决. 2 put an end to (sth); suppress or crush 制止（某事物）; 镇压; 捣碎: The rebellion was quickly quashed.叛乱被迅速平息."
+    ],
+    "pronunciation": "/ kwɒʃ; kwɑːʃ/",
+    "accepted_answers": [
+      ")(",
+      "（依法）撤销（某事物）",
+      "宣布（某事物）无效"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quasi-",
     "type": "word",
     "pos": "word",
@@ -798,6 +1430,30 @@
       "前缀(",
       "用以构成形容词和名词)",
       "达到某种程度"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quatercentenary",
+    "type": "word",
+    "pos": "N",
+    "translation": "周年；纪念莎士比亚诞生四百周年",
+    "analysis": "n 400th anniversary 第400周年: celebrate the quatercentenary of Shakespeare's birth 纪念莎士比亚诞生四百周年.",
+    "phonetic": "/ ˌkwɒtəsenˈtiːnərɪ; -ˈsentənerɪ; ˌkwɑːtəˈsentəˌnerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "celebrate the quatercentenary of Shakespeare's birth 纪念莎士比亚诞生四百周年."
+    ],
+    "pronunciation": "/ ˌkwɒtəsenˈtiːnərɪ; -ˈsentənerɪ; ˌkwɑːtəˈsentəˌnerɪ/",
+    "accepted_answers": [
+      "周年",
+      "纪念莎士比亚诞生四百周年"
     ],
     "added_at": "",
     "review": {
@@ -859,6 +1515,30 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quavery",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指嗓音）颤抖的；发颤的",
+    "analysis": "adj (of a voice) shaking; tremulous （指嗓音）颤抖的, 发颤的.",
+    "phonetic": "/ ˈkweɪvərɪ; ˈkwevərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（指嗓音）颤抖的；发颤的"
+    ],
+    "pronunciation": "/ ˈkweɪvərɪ; ˈkwevərɪ/",
+    "accepted_answers": [
+      "（指嗓音）颤抖的",
+      "发颤的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quay",
     "type": "word",
     "pos": "N",
@@ -910,6 +1590,37 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "queen",
+    "type": "word",
+    "pos": "N",
+    "translation": "（独立政体的）女王；女酋长；女首领（的头衔）（通常为世袭的）；英女王伊丽莎白二世；荷兰女王",
+    "analysis": "n  1 (title of the) female ruler of an independent state, usu inheriting the position by right of birth （独立政体的）女王, 女酋长, 女首领（的头衔）（通常为世袭的）: Queen Elizabeth II 英女王伊丽莎白二世 * the Queen of the Netherlands 荷兰女王 * be made/crowned queen 被立[加冕]为女王. Cf 参看 king.  2 wife of a king 王后: King George VI and Queen Elizabeth 英王乔治六世及王后伊丽莎白.  3 (a) woman, place or thing regarded as best or most important in some way 最好的或最重要的女子、 地方或事物: Agatha Christie, the queen of detective-story writers 阿加莎·克里斯蒂, 侦探小说杰出女作家 * Marilyn Monroe is the most famous of all American movie queens, ie leading film actresses. 玛丽莲·梦露是全美最著名的影后. * Venice, the queen of the Adriatic 威尼斯, 亚得里亚海沿岸的名城. (b) woman or girl chosen to hold the most important position in a festival or celebration 节日或庆典中最重要的女子: Queen of the May, ie girl chosen to lead a procession, dance, etc to celebrate spring 五朔节小姐（带领庆祝春季节日者） * a carnival queen 狂欢节小姐 * a beauty queen 选美赛的冠军.  4 fertile female insect (eg ant, bee or wasp) that produces eggs for the whole group （为群体产卵的雌性昆虫, 如蚂蚁、 蜜蜂、 黄蜂等的）王; 蚁王; 蜂王: A hive cannot exist without a queen. 蜂房不可无蜂王. * [attrib 作定语] The queen bee never leaves the hive. 蜂王从不离开蜂房.  5 (a) (in chess) the most powerful piece on the board, used for attack and defence （国际象棋的）后. =>illus at chess 见chess插图. (b) (in a pack of playing-cards) any of the four cards with the picture of a queen on （纸牌中的）王后,Q: the queen of hearts 红桃Q.  6 (sl derog 俚, 贬) effeminate male homosexual 女性化的男同性恋者.  7 (idm 习语)the King's/Queen's English => English. turn King's/Queen's evidence => evidence. the uncrowned king/queen of sth => uncrowned.\nqueen \nv  1 (a) [Tn] (in chess) change (a pawn) into a queen by moving it across the board to the opponent's end （国际象棋中）使（卒）升变为后（至对方底线者）. (b) [I] (of a pawn) be changed in this way （指卒）升变为后.  2 (idm 习语) queen it (over sb) behave as if in a position of power (over sb) （对某人）似掌权者行事: Since her promotion she queens it over everyone else in the office. 她获提升後对办事处所有的人都发号施令.\nqueenly \nadj of, like or suitable for a queen; majestic （似）女王的; 适合女王的; 堂皇的: her queenly duties 她的女王职权 * give a queenly wave 像女王那样挥手 * dressed in queenly robes 穿著华丽的（女装）礼服.\nqueen bee  \n1 => queen 4.  2 (fig 比喻) woman who behaves as if she is the most important person in a particular place or group （在某场合或某些人中, 举止宛如最重要人物的）女子.\nqueen consort \nwife of a king 王后.\nqueen dowager \nwidow of a king 孀居的王后.\nqueen mother \nwidow of a king and mother of a reigning king or queen 孀居的王后及执政王之母: The queen mother waved to the crowd. 王太后向人群挥手.\nQueen's Bench \n(Division) => King's Bench (king).\nQueen's Counsel \n=> King's Counsel (king).\nthe Queen's English \nform of written and spoken English generally regarded as the most correct 标准英语.",
+    "phonetic": "/ kwiːn; kwin/",
+    "origin": "待查",
+    "expansions": [
+      "Queen Elizabeth II 英女王伊丽莎白二世",
+      "the Queen of the Netherlands 荷兰女王",
+      "be made/crowned queen 被立[加冕]为女王. Cf 参看 king. 2 wife of a king 王后: King George VI and Queen Elizabeth 英王乔治六世及王后伊丽莎白. 3 (a) woman, place or thing regarded as best or most important in some way 最好的或最重要的女子、 地方或事物: Agatha Christie, the queen of detective-story writers 阿加莎·克里斯蒂, 侦探小说杰出女作家",
+      "Marilyn Monroe is the most famous of all American movie queens, ie leading film actresses. 玛丽莲·梦露是全美最著名的影后.",
+      "Venice, the queen of the Adriatic 威尼斯, 亚得里亚海沿岸的名城. (b) woman or girl chosen to hold the most important position in a festival or celebration 节日或庆典中最重要的女子: Queen of the May, ie girl chosen to lead a procession, dance, etc to celebrate spring 五朔节小姐（带领庆祝春季节日者）"
+    ],
+    "pronunciation": "/ kwiːn; kwin/",
+    "accepted_answers": [
+      "（独立政体的）女王",
+      "女酋长",
+      "女首领（的头衔）（通常为世袭的）",
+      "英女王伊丽莎白二世",
+      "荷兰女王"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "queer",
     "type": "word",
     "pos": "Adj",
@@ -939,6 +1650,32 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quell",
+    "type": "word",
+    "pos": "V",
+    "translation": "制止（某事物）；镇压；压制",
+    "analysis": "v [Tn] put an end to (sth); suppress制止（某事物）; 镇压; 压制: quell the rebellion, opposition,uprising, etc 镇压叛乱、 反抗、 起义等 * quell sb's fears, anxieties, etc 消除某人的恐惧、 忧虑等.",
+    "phonetic": "/ kwel; kwel/",
+    "origin": "待查",
+    "expansions": [
+      "quell the rebellion, opposition,uprising, etc 镇压叛乱、 反抗、 起义等",
+      "quell sb's fears, anxieties, etc 消除某人的恐惧、 忧虑等."
+    ],
+    "pronunciation": "/ kwel; kwel/",
+    "accepted_answers": [
+      "制止（某事物）",
+      "镇压",
+      "压制"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quench",
     "type": "word",
     "pos": "V",
@@ -954,6 +1691,60 @@
       "扑灭（火焰等）（尤指用水）",
       "比喻)",
       "使某人的热情冷却下来"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "querulous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "抱怨的；易怒的；以发牢骚的腔调",
+    "analysis": "adj complaining; irritable 抱怨的; 易怒的: in a querulous tone 以发牢骚的腔调.\nquerulously \nadv. \nquerulousness \nn [U].",
+    "phonetic": "/ ˈkwerUləs; ˈkwerJləs/",
+    "origin": "待查",
+    "expansions": [
+      "in a querulous tone 以发牢骚的腔调."
+    ],
+    "pronunciation": "/ ˈkwerUləs; ˈkwerJləs/",
+    "accepted_answers": [
+      "抱怨的",
+      "易怒的",
+      "以发牢骚的腔调"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "query",
+    "type": "word",
+    "pos": "N",
+    "translation": "疑问；问题；答读者问",
+    "analysis": "n  1 question 疑问; 问题: answer readers' queries 答读者问 * Your interesting report raises several important queries. 你的精彩报告引发出了几个重要问题.  2 question mark (?) 问号（?）: Put a query against that. 在那儿加一个问号.\nquery \nv (pt, pp queried)  1 [Tn, Tn.pr] ~sb (about sth) ask sb a question or questions 向某人提出问题: `Will it be too late?' she queried. ｀是否太晚呢?＇她问道. * The minister was queried about his plans for the industry. 有人向部长提出了工业计画问题.  2 [Tn, Tw] express doubt about sth 对某事物表示怀疑: query a statement, suggestion, conclusion, etc 对一言论、 建议、 决议等表示怀疑 * query the amount charged, ie say that one thinks it is wrong 对索要的数额质疑（称认为有误） * I query whether he can be trusted. 我怀疑他是否可靠",
+    "phonetic": "/ ˈkwɪərɪ; ˈkwɪrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "answer readers' queries 答读者问",
+      "Your interesting report raises several important queries. 你的精彩报告引发出了几个重要问题. 2 question mark (?) 问号（?）: Put a query against that. 在那儿加一个问号.",
+      "`Will it be too late?' she queried. ｀是否太晚呢?＇她问道.",
+      "The minister was queried about his plans for the industry. 有人向部长提出了工业计画问题. 2 [Tn, Tw] express doubt about sth 对某事物表示怀疑: query a statement, suggestion, conclusion, etc 对一言论、 建议、 决议等表示怀疑",
+      "query the amount charged, ie say that one thinks it is wrong 对索要的数额质疑（称认为有误）"
+    ],
+    "pronunciation": "/ ˈkwɪərɪ; ˈkwɪrɪ/",
+    "accepted_answers": [
+      "疑问",
+      "问题",
+      "答读者问"
     ],
     "added_at": "",
     "review": {
@@ -991,6 +1782,118 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "question",
+    "type": "word",
+    "pos": "N",
+    "translation": "问题；问很多问题；个问题很难",
+    "analysis": "n  1 [C] form of expression in speech or writing that requests an answer from sb 问题: ask a lot of questions 问很多问题 * Question 3 is quite difficult. 第3个问题很难. * I will be happy to answer questions at the end. 我愿在最後回答一些问题. * I'd like to put a question to the speaker. 我想向发言者提一个问题.  2 [C] topic that is being or needs to be discussed; problem that needs to be solved 议题; 难题: What about the question of security? 安全的问题怎麽办? * We have to consider the question of where to sleep. 我们得考虑在何处安歇的问题. * The question of choosing a successor has arisen. 挑选後继人的问题已经提出.  3 [U] raising of doubt 质疑: There is no/some question about his honesty. 他的诚实没有[有些]问题. * Her sincerity is beyond question. 她态度诚恳, 毋庸置疑. * His suitability for the post is open to question. 对这一职位他是否适宜很成问题.  4 (idm 习语) beg the question=> beg. bring sth/come into `question (cause sth to) be discussed or considered as a matter of importance （使某事物）被讨论, 被考虑: My promotion brings into question the status of certain other members of staff. 提升我後某些职员的地位就成了问题. call sth in/into `question express doubt about sth 对某事物表示怀疑: His moral standards have been called into question. 他的道德标准令人生疑. a fair question => fair1. in `question being considered or discussed 正被考虑或讨论: The woman in question is sitting over there. 提到的那个女的就在那里坐著呢. * The job in question is available for three months only. 所谈到的这一工作空缺为时仅三个月. it is a question of what is really involved is 问题在於: It isn't a question of whether we can afford a holiday  I'm just too busy at the moment. 问题倒不是我们是否有钱度假--而是目前我实在太忙了. * She is so talented that her success can only be a question of time. 她才华横溢, 事业成功只是时间问题.a loaded question => load2. a moot point/question=> moot. out of the `question not worth discussing; impossible 不值得讨论的; 不可能的: Missing school to watch the football match is out of the question. 为看足球比赛而旷课, 那可不行. * A new bicycle is out of the question  we can't afford it. 买新自行车的事谈不到--我们买不起. pop the question => pop4. a/the sixty-four thousand dollar question => dollar.there is some/no question of there is a/no possibility of 有[没有]...的可能性: There was some question of selling the business. 有可能将公司转让. * There will be no question of anyone being made redundant. 决不可能裁掉任何人. a vexed question => vex.\nquestion mark \nthe symbol (?) used in writing aftera question 问号（? ）. =>App 3 见附录3. Cf 参看 query 2.`question-master (also `quiz-master) n person who asks the questions in a quiz, esp on TV or radio 测试中问问题的人; （尤指电视或电台中）问答节目主持人.\nquestion time \n(Brit) (in the House of Commons) period of time during which ministers answer questions from MPs （下议院中的）质询时间（大臣答覆议员提问的时间）.",
+    "phonetic": "/ ˈkwestʃən; ˈkwestʃən/",
+    "origin": "待查",
+    "expansions": [
+      "ask a lot of questions 问很多问题",
+      "Question 3 is quite difficult. 第3个问题很难.",
+      "I will be happy to answer questions at the end. 我愿在最後回答一些问题.",
+      "I'd like to put a question to the speaker. 我想向发言者提一个问题. 2 [C] topic that is being or needs to be discussed; problem that needs to be solved 议题; 难题: What about the question of security? 安全的问题怎麽办?",
+      "We have to consider the question of where to sleep. 我们得考虑在何处安歇的问题."
+    ],
+    "pronunciation": "/ ˈkwestʃən; ˈkwestʃən/",
+    "accepted_answers": [
+      "问题",
+      "问很多问题",
+      "个问题很难"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "questionably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "问问题的人；（尤指广播节目或公开辩论中的）发问者；表示怀疑地",
+    "analysis": "adv.\nquestioner \nn person who asks questions, esp in a broadcast programme or a public debate 问问题的人; （尤指广播节目或公开辩论中的）发问者.\nquestioningly \nadv using a questioning gesture ortone of voice 表示怀疑地: She looked at me questioningly.她用怀疑的目光看著我.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "She looked at me questioningly.她用怀疑的目光看著我."
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "问问题的人",
+      "（尤指广播节目或公开辩论中的）发问者",
+      "表示怀疑地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "questionnaire",
+    "type": "word",
+    "pos": "N",
+    "translation": "问卷；（尤指为作统计或调查用的）问题单；调查表；徵求意见表；所附问卷请填妥交回",
+    "analysis": "n writtenor printed list of questions to be answered by a number of people, esp to collect statistics or as part of a survey 问卷; （尤指为作统计或调查用的）问题单, 调查表,徵求意见表: Please complete and return the enclosed questionnaire. 所附问卷请填妥交回.",
+    "phonetic": "/ ˌkwestʃəˈneə(r); ˌkwestʃənˈer/",
+    "origin": "待查",
+    "expansions": [
+      "Please complete and return the enclosed questionnaire. 所附问卷请填妥交回."
+    ],
+    "pronunciation": "/ ˌkwestʃəˈneə(r); ˌkwestʃənˈer/",
+    "accepted_answers": [
+      "问卷",
+      "（尤指为作统计或调查用的）问题单",
+      "调查表",
+      "徵求意见表",
+      "所附问卷请填妥交回"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "queue",
+    "type": "word",
+    "pos": "N",
+    "translation": "（人或车辆等的）长列；行列；点钟时；电影院门外已经排成了长队；人们买票得排几小时的队",
+    "analysis": "n  1 line of people, vehicles, etc waiting for sth or to do sth （人或车辆等的）长列, 行列: By 7 o'clock a long queue had formed outside the cinema. 到7点钟时, 电影院门外已经排成了长队. * People had to stand in a queue for hours to buy a ticket. 人们买票得排几小时的队. * Is this the queue for the bus? 这是等候公共汽车的队吗? * a queue of cars at the traffic-lights 交通灯前的一长列汽车.  2 (idm 习语) jump the queue => jump2.\nqueue \nv [I, Ipr, Ip] ~ (up) (for sth) wait in a queue 排队等候: We queued for an hour but didn't get in. 我们排队等候一小时也没进去. * Queue here for a taxi. 等候出租汽车在此排队. * They're queuing up to see a film. 他们排著队等候看电影.",
+    "phonetic": "/ kjuː; kju/",
+    "origin": "待查",
+    "expansions": [
+      "By 7 o'clock a long queue had formed outside the cinema. 到7点钟时, 电影院门外已经排成了长队.",
+      "People had to stand in a queue for hours to buy a ticket. 人们买票得排几小时的队.",
+      "Is this the queue for the bus? 这是等候公共汽车的队吗?",
+      "a queue of cars at the traffic-lights 交通灯前的一长列汽车. 2 (idm 习语) jump the queue => jump2.",
+      "We queued for an hour but didn't get in. 我们排队等候一小时也没进去."
+    ],
+    "pronunciation": "/ kjuː; kju/",
+    "accepted_answers": [
+      "（人或车辆等的）长列",
+      "行列",
+      "点钟时",
+      "电影院门外已经排成了长队",
+      "人们买票得排几小时的队"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "qui vive",
     "type": "phrase",
     "pos": "word",
@@ -1006,6 +1909,57 @@
       "习语)",
       "注视某事物发生",
       "警惕著"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quibble",
+    "type": "word",
+    "pos": "N",
+    "translation": "反对或批评的意见；（尤指）吹毛求疵；斤斤计较",
+    "analysis": "n  1 objection or criticism, esp atrivial one 反对或批评的意见; （尤指）吹毛求疵: quibbles over the exact amount 斤斤计较 * Basically it was a fine performance  I have only minor quibbles to make about her technique. 表演基本上很精彩--我只对她的技巧稍有意见.  2 remark, etc made in order to evade the mainpoint of an argument 回避正题的话等; 遁词: She's only introducing this as a quibble. 她提出此点, 纯属遁词.\nquibble \nv [I, Ipr] ~ (over/about sth) argue about small differences or disagreements （对小的差别或分歧）争论: Stop quibbling about the use of the comma. 别再争辩逗号的用法了. * 50p isn't worth quibbling about. 50 便士不值一争.",
+    "phonetic": "/ ˈkwɪbl; ˈkwɪbl/",
+    "origin": "待查",
+    "expansions": [
+      "quibbles over the exact amount 斤斤计较",
+      "Basically it was a fine performance I have only minor quibbles to make about her technique. 表演基本上很精彩--我只对她的技巧稍有意见. 2 remark, etc made in order to evade the mainpoint of an argument 回避正题的话等; 遁词: She's only introducing this as a quibble. 她提出此点, 纯属遁词.",
+      "Stop quibbling about the use of the comma. 别再争辩逗号的用法了.",
+      "50p isn't worth quibbling about. 50 便士不值一争."
+    ],
+    "pronunciation": "/ ˈkwɪbl; ˈkwɪbl/",
+    "accepted_answers": [
+      "反对或批评的意见",
+      "（尤指）吹毛求疵",
+      "斤斤计较"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quiche",
+    "type": "word",
+    "pos": "N",
+    "translation": "一种糕饼（上层多为鸡蛋、腌肉、乾酪等）",
+    "analysis": "n open pastry tart with a savoury filling, esp of eggs, bacon, cheese, etc 一种糕饼（上层多为鸡蛋、 腌肉、 乾酪等）.",
+    "phonetic": "/ kiːʃ; kiʃ/",
+    "origin": "待查",
+    "expansions": [
+      "一种糕饼（上层多为鸡蛋、腌肉、乾酪等）"
+    ],
+    "pronunciation": "/ kiːʃ; kiʃ/",
+    "accepted_answers": [
+      "一种糕饼（上层多为鸡蛋、腌肉、乾酪等）"
     ],
     "added_at": "",
     "review": {
@@ -1099,6 +2053,77 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quicklime",
+    "type": "word",
+    "pos": "N",
+    "translation": "quicklime",
+    "analysis": "n [U] = lime1 1.",
+    "phonetic": "/ ˈkwɪklaɪm; ˈkwɪkˌlaɪm/",
+    "origin": "待查",
+    "expansions": [
+      "quicklime"
+    ],
+    "pronunciation": "/ ˈkwɪklaɪm; ˈkwɪkˌlaɪm/",
+    "accepted_answers": [
+      "quicklime"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quicksand",
+    "type": "word",
+    "pos": "N",
+    "translation": "作可数名词时常作复数；亦作不可数名词；流沙（区）",
+    "analysis": "n [C often pl, U 作可数名词时常作复数, 亦作不可数名词] (area of) loose wet deep sand into which people or things will sink 流沙（区）.",
+    "phonetic": "/ ˈkwɪksænd; ˈkwɪkˌsænd/",
+    "origin": "待查",
+    "expansions": [
+      "作可数名词时常作复数；亦作不可数名词；流沙（区）"
+    ],
+    "pronunciation": "/ ˈkwɪksænd; ˈkwɪkˌsænd/",
+    "accepted_answers": [
+      "作可数名词时常作复数",
+      "亦作不可数名词",
+      "流沙（区）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quicksilver",
+    "type": "word",
+    "pos": "N",
+    "translation": ")极快",
+    "analysis": "n [U] = mercury:like quicksilver, ie very quick(ly) 极快.",
+    "phonetic": "/ ˈkwɪksɪlvə(r); ˈkwɪkˌsɪlvə/",
+    "origin": "待查",
+    "expansions": [
+      "like quicksilver, ie very quick(ly) 极快."
+    ],
+    "pronunciation": "/ ˈkwɪksɪlvə(r); ˈkwɪkˌsɪlvə/",
+    "accepted_answers": [
+      ")极快"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quid",
     "type": "word",
     "pos": "N",
@@ -1172,6 +2197,31 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quiescent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；不活动的；被动的",
+    "analysis": "adj (fml 文) inactive; passive; quiet 不活动的; 被动的; 静止的: It is unlikely that such an extremist organization will remain quiescent for long. 这种过激的组织是不太可能长期沉默的.",
+    "phonetic": "/ kwaɪˈesnt,kwɪˈesnt; kwaɪˈesnt,kwɪˈesnt/",
+    "origin": "待查",
+    "expansions": [
+      "It is unlikely that such an extremist organization will remain quiescent for long. 这种过激的组织是不太可能长期沉默的."
+    ],
+    "pronunciation": "/ kwaɪˈesnt,kwɪˈesnt; kwaɪˈesnt,kwɪˈesnt/",
+    "accepted_answers": [
+      "文)",
+      "不活动的",
+      "被动的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quiet",
     "type": "word",
     "pos": "Adj",
@@ -1191,6 +2241,58 @@
       "轻声的",
       "无声的",
       "安静的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quieten",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；（使某人；某事物",
+    "analysis": "v [I, Ip, Tn, Tn.p] ~ (sb/sth) (down) (esp Brit) (cause sb/sth to) become less disturbed, noisy, etc （使某人[某事物]）平静些, 安静些: Quieten down and get on with your work. 静下心来继续工作吧. * quieten a screaming baby 哄著惊叫的小孩儿 * quieten (ie allay, calm) sb's fears/suspicions 消除某人的恐惧[怀疑].\nquietly \nadv: This car engine runs very quietly. 这辆汽车的发动机噪音很小. * She died quietly in her bed. 她在床上安然去世.\nquietness \nn [U]: the quietness of the chapel 教堂中的寂静.\nquiet\nNOTE ON USAGE 用法: Quiet, silent and calm can all be applied to both people and things and generallyindicate the absence of a quality rather than the presence of something. *quiet, silent, calm三词用於人和事物均可, 通常指不具有某种性质, 而不指具有某种性质. A silent film has no speech and a silent machine makes no noise. *silent影片没有言语, 而silent机器没有噪声. The opposite of reading silently (or to oneself) is reading aloud. 与reading silently（或to oneself）（默读）相对的是reading aloud（读出声来）. Quiet can mean silent *quiet可意为silent: Quiet! Don't make any noise! 静一静! 不要出声! It can also indicate a lack of disturbance 这个词还可指没有骚扰: a quiet road with few cars 没有什麽汽车经过的平静的道路. *  Politicians must sometimes long for a quieter life. 政治家有时巴不得能过些清静日子. The opposite of quiet music is loudmusic. 与quiet music（轻柔的音乐）相对的是loud music（喧闹的音乐）. Still indicates the absence of movement *still意思是不动: Stand still! 站著别动! It may also suggest a lack of noise 这个词也可指没有噪声: a still night after a stormy day 白天风暴过後的寂静的夜晚. Acalm person shows no agitation in difficult circumstances.*calm形容人, 意为在困难情况下不慌里慌张. A calm sea has no, or only small, waves. *calm形容海洋, 意为没有波浪或只有波纹.",
+    "phonetic": "/ ˈkwaɪətn; ˈkwaɪətn/",
+    "origin": "待查",
+    "expansions": [
+      "Quieten down and get on with your work. 静下心来继续工作吧.",
+      "quieten a screaming baby 哄著惊叫的小孩儿",
+      "quieten (ie allay, calm) sb's fears/suspicions 消除某人的恐惧[怀疑].",
+      "This car engine runs very quietly. 这辆汽车的发动机噪音很小.",
+      "She died quietly in her bed. 她在床上安然去世."
+    ],
+    "pronunciation": "/ ˈkwaɪətn; ˈkwaɪətn/",
+    "accepted_answers": [
+      ")(",
+      "（使某人",
+      "某事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quietism",
+    "type": "word",
+    "pos": "N",
+    "translation": "寂静主义（主张清心寡欲的宗教形式）",
+    "analysis": "n [U] form of religious devotion based on a calm and passive acceptance of life and the abandonment of all desires 寂静主义（主张清心寡欲的宗教形式）.",
+    "phonetic": "/ ˈkwaɪətɪzəm; ˈkwaɪətɪzm/",
+    "origin": "待查",
+    "expansions": [
+      "寂静主义（主张清心寡欲的宗教形式）"
+    ],
+    "pronunciation": "/ ˈkwaɪətɪzəm; ˈkwaɪətɪzm/",
+    "accepted_answers": [
+      "寂静主义（主张清心寡欲的宗教形式）"
     ],
     "added_at": "",
     "review": {
@@ -1249,6 +2351,32 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quietus",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作单数)(；文)；死亡",
+    "analysis": "n (usu sing 通常作单数) (fml 文) release from life; extinction 死亡; 灭绝: give sb his quietus, ie put an end to his life 结束某人的生命 * The plan has finally got its quietus, ie been abandoned. 这一计画终於胎死腹中（遭放弃）.",
+    "phonetic": "/ kwaɪˈiːtəs; kwaɪˈitəs/",
+    "origin": "待查",
+    "expansions": [
+      "give sb his quietus, ie put an end to his life 结束某人的生命",
+      "The plan has finally got its quietus, ie been abandoned. 这一计画终於胎死腹中（遭放弃）."
+    ],
+    "pronunciation": "/ kwaɪˈiːtəs; kwaɪˈitəs/",
+    "accepted_answers": [
+      "通常作单数)(",
+      "文)",
+      "死亡"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quiff",
     "type": "word",
     "pos": "N",
@@ -1297,6 +2425,31 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quilt",
+    "type": "word",
+    "pos": "N",
+    "translation": "被褥；被子；褥子",
+    "analysis": "n thick covering for a bed, made of cloth padded with soft material 被褥; 被子; 褥子. Cf 参看 duvet, eiderdown.\nquilt \nv [Tn] line (a garment or coverlet) with padding held in place by lines of stitches （用线绗著絮好的材料）给（衣服或床罩）做衬里: a quilted anorak, dressing-gown, etc 用线绗著絮好的材料做衬里的皮猴儿、 晨衣等.",
+    "phonetic": "/ kwɪlt; kwɪlt/",
+    "origin": "待查",
+    "expansions": [
+      "a quilted anorak, dressing-gown, etc 用线绗著絮好的材料做衬里的皮猴儿、 晨衣等."
+    ],
+    "pronunciation": "/ kwɪlt; kwɪlt/",
+    "accepted_answers": [
+      "被褥",
+      "被子",
+      "褥子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quin",
     "type": "word",
     "pos": "N",
@@ -1310,6 +2463,31 @@
     "pronunciation": "/ kwɪn; kwɪn/",
     "accepted_answers": [
       "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quince",
+    "type": "word",
+    "pos": "N",
+    "translation": "（梨状淡黄色坚硬水果；可制果酱等）；果冻",
+    "analysis": "n   1 hard yellowish pear-shaped fruit used for making jam, etc wen1 po（梨状淡黄色坚硬水果, 可制果酱等）: [attrib 作定语] quince jelly wen1 po 果冻.  2 tree bearing this fruit wen1 po 树.",
+    "phonetic": "/ kwɪns; kwɪns/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] quince jelly wen1 po 果冻. 2 tree bearing this fruit wen1 po 树."
+    ],
+    "pronunciation": "/ kwɪns; kwɪns/",
+    "accepted_answers": [
+      "（梨状淡黄色坚硬水果",
+      "可制果酱等）",
+      "果冻"
     ],
     "added_at": "",
     "review": {
@@ -1334,6 +2512,30 @@
     "accepted_answers": [
       "周年",
       "第五百周年庆典"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quinine",
+    "type": "word",
+    "pos": "N",
+    "translation": "奎宁；金鸡纳霜",
+    "analysis": "n [U] bitter liquid made from the bark of a tree and used in drinks or as a medicine against fever 奎宁; 金鸡纳霜.",
+    "phonetic": "/ kwɪˈniːn; ˈkwaɪnaɪn; ˈkwaɪnaɪn/",
+    "origin": "待查",
+    "expansions": [
+      "奎宁；金鸡纳霜"
+    ],
+    "pronunciation": "/ kwɪˈniːn; ˈkwaɪnaɪn; ˈkwaɪnaɪn/",
+    "accepted_answers": [
+      "奎宁",
+      "金鸡纳霜"
     ],
     "added_at": "",
     "review": {
@@ -1417,6 +2619,29 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quintessential",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "quintessential",
+    "analysis": "adj.",
+    "phonetic": "/ ˌkwɪntɪˈsenʃl; ˌkwɪntəˈsenʃəl/",
+    "origin": "待查",
+    "expansions": [
+      "quintessential"
+    ],
+    "pronunciation": "/ ˌkwɪntɪˈsenʃl; ˌkwɪntəˈsenʃəl/",
+    "accepted_answers": [
+      "quintessential"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quintessentially",
     "type": "word",
     "pos": "Adv",
@@ -1455,6 +2680,56 @@
       "五重奏（曲）",
       "五重唱（曲）",
       "五重奏演奏者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quintuplet",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作复数)；五胞胎中的一个孩子",
+    "analysis": "(also quin, US quint) n (usu pl 通常作复数) any of five children born to the same mother at one birth 五胞胎中的一个孩子.",
+    "phonetic": "/ ˈkwɪntjuːplet; kwɪnˈtuːplɪt; kwɪnˈtuplɪt/",
+    "origin": "待查",
+    "expansions": [
+      "通常作复数)；五胞胎中的一个孩子"
+    ],
+    "pronunciation": "/ ˈkwɪntjuːplet; kwɪnˈtuːplɪt; kwɪnˈtuplɪt/",
+    "accepted_answers": [
+      "通常作复数)",
+      "五胞胎中的一个孩子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quip",
+    "type": "word",
+    "pos": "N",
+    "translation": "妙语；讽刺话；他以十分风趣的话结束了演讲",
+    "analysis": "n witty or sarcastic remark 妙语; 讽刺话: He ended his speech with a merry quip. 他以十分风趣的话结束了演讲.\nquip \nv (-pp-) [I] make a quip or quips 说风趣的或讽刺的话: `Who overslept this morning?' She quipped. ｀今天早晨谁睡过头了?＇她风趣地问.",
+    "phonetic": "/ kwɪp; kwɪp/",
+    "origin": "待查",
+    "expansions": [
+      "He ended his speech with a merry quip. 他以十分风趣的话结束了演讲.",
+      "`Who overslept this morning?' She quipped. ｀今天早晨谁睡过头了?＇她风趣地问."
+    ],
+    "pronunciation": "/ kwɪp; kwɪp/",
+    "accepted_answers": [
+      "妙语",
+      "讽刺话",
+      "他以十分风趣的话结束了演讲"
     ],
     "added_at": "",
     "review": {
@@ -1508,6 +2783,31 @@
       "某事物",
       "特有的）习惯",
       "举动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quisling",
+    "type": "word",
+    "pos": "N",
+    "translation": "卖国贼；内奸；叛徒（尤指助敌侵占本国者）",
+    "analysis": "n traitor, esp one who helps an enemy occupying his country 卖国贼, 内奸, 叛徒（尤指助敌侵占本国者）.",
+    "phonetic": "/ ˈkwɪzlɪŋ; ˈkwɪzlɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "卖国贼；内奸；叛徒（尤指助敌侵占本国者）"
+    ],
+    "pronunciation": "/ ˈkwɪzlɪŋ; ˈkwɪzlɪŋ/",
+    "accepted_answers": [
+      "卖国贼",
+      "内奸",
+      "叛徒（尤指助敌侵占本国者）"
     ],
     "added_at": "",
     "review": {
@@ -1623,6 +2923,60 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quiver",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某事物）轻微颤动；抖动；蛾子抖动著翅膀；颤动著的叶子",
+    "analysis": "v [I, Tn] (cause sth to) tremble slightly or vibrate （使某事物）轻微颤动, 抖动: The moth quivered its wings. 蛾子抖动著翅膀. * a quivering leaf 颤动著的叶子 * Quivering with rage she slammed the door shut. 她气得浑身发抖, 砰的一声使劲把门关上了.\nquiver \nn quivering sound or movement 颤抖的声音或动作: A quiver of expectancy ran through the audience. 全场引颈以待, 群情鼎沸. * the quiver of an eyelid 眼跳.",
+    "phonetic": "/ ˈkwɪvə(r); ˈkwɪvə/",
+    "origin": "待查",
+    "expansions": [
+      "The moth quivered its wings. 蛾子抖动著翅膀.",
+      "a quivering leaf 颤动著的叶子",
+      "Quivering with rage she slammed the door shut. 她气得浑身发抖, 砰的一声使劲把门关上了.",
+      "A quiver of expectancy ran through the audience. 全场引颈以待, 群情鼎沸.",
+      "the quiver of an eyelid 眼跳."
+    ],
+    "pronunciation": "/ ˈkwɪvə(r); ˈkwɪvə/",
+    "accepted_answers": [
+      "（使某事物）轻微颤动",
+      "抖动",
+      "蛾子抖动著翅膀",
+      "颤动著的叶子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quixotic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "堂吉诃德式的；空想而侠义的",
+    "analysis": "adj noble, unselfish or gallant in an extravagant or impractical way 堂吉诃德式的; 空想而侠义的.",
+    "phonetic": "/ kwɪkˈsɒtɪk; kwɪkˈsɑːtɪk/",
+    "origin": "待查",
+    "expansions": [
+      "堂吉诃德式的；空想而侠义的"
+    ],
+    "pronunciation": "/ kwɪkˈsɒtɪk; kwɪkˈsɑːtɪk/",
+    "accepted_answers": [
+      "堂吉诃德式的",
+      "空想而侠义的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quixotically",
     "type": "word",
     "pos": "Adv",
@@ -1675,6 +3029,56 @@
     "dict_source": "data/DICT/Q/Q.TXT"
   },
   {
+    "term": "quizzical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "疑问的；（尤指）戏弄的；揶揄的；带著嘲弄的微笑",
+    "analysis": "adj in a questioning manner, esp when amused 疑问的; （尤指）戏弄的, 揶揄的: with a quizzical smile 带著嘲弄的微笑 * He continued in a quizzical tone. 他以揶揄的声调继续说.",
+    "phonetic": "/ ˈkwɪzɪkl; ˈkwɪzɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "with a quizzical smile 带著嘲弄的微笑",
+      "He continued in a quizzical tone. 他以揶揄的声调继续说."
+    ],
+    "pronunciation": "/ ˈkwɪzɪkl; ˈkwɪzɪkl/",
+    "accepted_answers": [
+      "疑问的",
+      "（尤指）戏弄的",
+      "揶揄的",
+      "带著嘲弄的微笑"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quizzically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "她疑惑地看著我",
+    "analysis": "adv: She looked at me quizzically. 她疑惑地看著我.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "She looked at me quizzically. 她疑惑地看著我."
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "她疑惑地看著我"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
     "term": "quod",
     "type": "word",
     "pos": "N",
@@ -1690,6 +3094,31 @@
     "accepted_answers": [
       ")监狱（尤用於以下示例）",
       "进监狱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quoit",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "（掷向桩子用的）环（如用金属、橡胶、绳等制成的）；掷环游戏（尤指在船上玩的）；在甲板上玩掷环游戏",
+    "analysis": "n (a) [C] ring, made of eg metal, rubber or rope, that is thrown onto an upright peg （掷向桩子用的）环（如用金属、 橡胶、 绳等制成的）. (b) quoits [sing v] game in which this is done, esp when on board a ship 掷环游戏（尤指在船上玩的）: play deck quoits 在甲板上玩掷环游戏.",
+    "phonetic": "/ kɔːɪt; kwɔːɪt; kwɔːɪt/",
+    "origin": "待查",
+    "expansions": [
+      "play deck quoits 在甲板上玩掷环游戏."
+    ],
+    "pronunciation": "/ kɔːɪt; kwɔːɪt; kwɔːɪt/",
+    "accepted_answers": [
+      "（掷向桩子用的）环（如用金属、橡胶、绳等制成的）",
+      "掷环游戏（尤指在船上玩的）",
+      "在甲板上玩掷环游戏"
     ],
     "added_at": "",
     "review": {
@@ -1825,6 +3254,56 @@
       "仅用於过去式单数第",
       "及第",
       "人称)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "quotient",
+    "type": "word",
+    "pos": "N",
+    "translation": "数)；商（除数除以被除数的得数）",
+    "analysis": "n (mathematics 数) number obtained when one number is divided by another 商（除数除以被除数的得数）.",
+    "phonetic": "/ ˈkwəʊʃnt; ˈkwoʃənt/",
+    "origin": "待查",
+    "expansions": [
+      "数)；商（除数除以被除数的得数）"
+    ],
+    "pronunciation": "/ ˈkwəʊʃnt; ˈkwoʃənt/",
+    "accepted_answers": [
+      "数)",
+      "商（除数除以被除数的得数）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/Q/Q.TXT"
+  },
+  {
+    "term": "qv",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；文)；见该项；参看该条（源自拉丁文",
+    "analysis": "abbr 缩写 = (fml 文) which may be referred to (Latin quod vide), eg showing a cross-reference 见该项, 参看该条（源自拉丁文quod vide）（如表示相互参看条目）.",
+    "phonetic": "/ ˌkjuːˈviː; ˌkjuˈvi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；文)；见该项；参看该条（源自拉丁文"
+    ],
+    "pronunciation": "/ ˌkjuːˈviː; ˌkjuˈvi/",
+    "accepted_answers": [
+      "缩写",
+      "文)",
+      "见该项",
+      "参看该条（源自拉丁文"
     ],
     "added_at": "",
     "review": {

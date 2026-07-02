@@ -7577,5 +7577,41 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "morphology",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "形态学；词形学；形态结构；形貌",
+        "analysis": "在语言学中指词的内部结构和词形变化；在生物学、材料科学等语境中也可指形态、形貌或结构特征。"
+      }
+    ],
+    "translation": "形态学；词形学；形态结构；形貌",
+    "analysis": "英语学习中通常指词形学，研究词根、前缀、后缀、复数、时态、派生词等。syntax 关注句子结构，morphology 关注单词内部结构。科学语境中也可表示细胞、材料表面或地貌等形态特征。",
+    "phonetic": "/mɔːˈfɒlədʒi/; /mɔːrˈfɑːlədʒi/",
+    "origin": "来自希腊语 morphe（形状、形式）和 -logy（学科、研究），整体意思是对形态或形式的研究。",
+    "expansions": [
+      "English morphology 英语词形学",
+      "word morphology 词的形态结构",
+      "morphological analysis 形态分析；词形分析",
+      "cell morphology 细胞形态",
+      "surface morphology 表面形貌"
+    ],
+    "pronunciation": "/mɔːˈfɒlədʒi/; /mɔːrˈfɑːlədʒi/",
+    "accepted_answers": [
+      "形态学",
+      "词形学",
+      "形态结构",
+      "形貌"
+    ],
+    "added_at": "2026-07-02T03:31:48.589Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

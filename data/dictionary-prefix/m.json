@@ -28931,13 +28931,20 @@
       "形态学",
       "语言)"
     ],
-    "added_at": "",
+    "added_at": "2026-07-02T03:31:48.589Z",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
     },
-    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt"
+    "dict_source": "data/DICT/M/M-j,k,l,m,n,o.txt",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "形态学；词形学；形态结构；形貌",
+        "analysis": "在语言学中指词的内部结构和词形变化；在生物学、材料科学等语境中也可指形态、形貌或结构特征。"
+      }
+    ]
   },
   {
     "term": "morris dance",

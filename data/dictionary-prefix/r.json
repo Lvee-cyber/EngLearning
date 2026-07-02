@@ -24,6 +24,31 @@
     }
   },
   {
+    "term": "r and d",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "缩写；商)；研究与开发",
+    "analysis": "abbr 缩写 = (commerce 商) research and development 研究与开发.\nT and AVR\n(also TAVR) abbr 缩写 = (Brit) Territorial and Army Volunteer Reserve 本土军暨陆军志愿後备队.",
+    "phonetic": "/ ˌɑː:rənˈdiː; ˌɑːrənˈdi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；商)；研究与开发"
+    ],
+    "pronunciation": "/ ˌɑː:rənˈdiː; ˌɑːrənˈdi/",
+    "accepted_answers": [
+      "缩写",
+      "商)",
+      "研究与开发"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-n.txt"
+  },
+  {
     "term": "R-a",
     "type": "word",
     "translation": "待查",
@@ -313,6 +338,31 @@
     }
   },
   {
+    "term": "rabies",
+    "type": "word",
+    "pos": "N",
+    "translation": "狂犬病；恐水症；参看",
+    "analysis": "n [U] fatal virus disease causing madness in dogs, foxes and other animals, transmitted to humans usu by a bite 狂犬病, 恐水症. Cf 参看 hydrophobia.",
+    "phonetic": "/ ˈreɪbiːz; ˈrebiz/",
+    "origin": "待查",
+    "expansions": [
+      "狂犬病；恐水症；参看"
+    ],
+    "pronunciation": "/ ˈreɪbiːz; ˈrebiz/",
+    "accepted_answers": [
+      "狂犬病",
+      "恐水症",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "rac",
     "type": "word",
     "pos": "word",
@@ -327,6 +377,31 @@
     "accepted_answers": [
       "缩写",
       "英国皇家汽车俱乐部"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "raccoon",
+    "type": "word",
+    "pos": "N",
+    "translation": "美式口语作；浣熊（北美产的食肉的哺乳动物）；浣熊的毛皮",
+    "analysis": "(also US infml 美式口语作 coon) n  1 [C] small N American flesh-eating mammal with a pointed snout and a bushy black-ringed tail 浣熊（北美产的食肉的哺乳动物）.  2 [U] (US) its fur 浣熊的毛皮.",
+    "phonetic": "/ rəˈkuːn; r-; ræˈkun/",
+    "origin": "待查",
+    "expansions": [
+      "美式口语作；浣熊（北美产的食肉的哺乳动物）；浣熊的毛皮"
+    ],
+    "pronunciation": "/ rəˈkuːn; r-; ræˈkun/",
+    "accepted_answers": [
+      "美式口语作",
+      "浣熊（北美产的食肉的哺乳动物）",
+      "浣熊的毛皮"
     ],
     "added_at": "",
     "review": {
@@ -415,6 +490,31 @@
     }
   },
   {
+    "term": "racialism",
+    "type": "word",
+    "pos": "N",
+    "translation": "种族主义；种族偏见；种族优越感",
+    "analysis": "(also racism) n [U]  1 belief that human abilities, etc depend on race and that some races are superior to others 种族主义; 种族偏见; 种族优越感.  2 (aggressive behaviour, speech, etc showing) hostility between races 种族仇视; 表现种族仇视的挑衅行为、 讲话等.",
+    "phonetic": "/ -ʃəlɪzəm; -ʃəlˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "种族主义；种族偏见；种族优越感"
+    ],
+    "pronunciation": "/ -ʃəlɪzəm; -ʃəlˌɪzəm/",
+    "accepted_answers": [
+      "种族主义",
+      "种族偏见",
+      "种族优越感"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "racialist",
     "type": "word",
     "translation": "种族主义者；（似）种族主义的；宣扬种族主义的理论、书、讲话",
@@ -459,6 +559,75 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "racily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "racily",
+    "analysis": "adv.\nraciness \nn [U].",
+    "phonetic": "/ -ɪlɪ; -ɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "racily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -ɪlɪ/",
+    "accepted_answers": [
+      "racily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "racism",
+    "type": "word",
+    "pos": "N",
+    "translation": "racism",
+    "analysis": "n [U] =racialism.",
+    "phonetic": "/ ˈreɪsɪzəm; ˈresɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "racism"
+    ],
+    "pronunciation": "/ ˈreɪsɪzəm; ˈresɪzəm/",
+    "accepted_answers": [
+      "racism"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "racist",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "racist",
+    "analysis": "n, adj =racialist.",
+    "phonetic": "/ ˈreɪsɪst; ˈresɪst/",
+    "origin": "待查",
+    "expansions": [
+      "racist"
+    ],
+    "pronunciation": "/ ˈreɪsɪst; ˈresɪst/",
+    "accepted_answers": [
+      "racist"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "rack",
@@ -828,6 +997,30 @@
     "dict_source": "data/DICT/R/R-a.txt"
   },
   {
+    "term": "radicalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "激进主义；激进的思想和原则",
+    "analysis": "n [U] (belief in) radical(3) ideas and principles 激进主义; 激进的思想和原则.",
+    "phonetic": "/ -kəlɪzəm; -klɪzm/",
+    "origin": "待查",
+    "expansions": [
+      "激进主义；激进的思想和原则"
+    ],
+    "pronunciation": "/ -kəlɪzəm; -klɪzm/",
+    "accepted_answers": [
+      "激进主义",
+      "激进的思想和原则"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "radically",
     "type": "word",
     "translation": "根本地改变、改善等",
@@ -901,6 +1094,30 @@
     }
   },
   {
+    "term": "radio-carbon",
+    "type": "word",
+    "pos": "N",
+    "translation": "放射性碳（有机材料中碳元素的放射性形式；用以测定某物的年代）",
+    "analysis": "n [U] radioactive form of carbon present in organic materials, used in carbon dating 放射性碳（有机材料中碳元素的放射性形式, 用以测定某物的年代）.",
+    "phonetic": "/ ˌredɪəʊˈkɑː:bən; ˌredɪoˈkɑːrbən/",
+    "origin": "待查",
+    "expansions": [
+      "放射性碳（有机材料中碳元素的放射性形式；用以测定某物的年代）"
+    ],
+    "pronunciation": "/ ˌredɪəʊˈkɑː:bən; ˌredɪoˈkɑːrbən/",
+    "accepted_answers": [
+      "放射性碳（有机材料中碳元素的放射性形式",
+      "用以测定某物的年代）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "radio-therapy",
     "type": "word",
     "pos": "N",
@@ -949,6 +1166,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "radioactivity",
+    "type": "word",
+    "pos": "N",
+    "translation": "radioactivity",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌreɪdɪəʊækˈtɪvətɪ; ˈredɪˌoækˈtɪvətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "radioactivity"
+    ],
+    "pronunciation": "/ ˌreɪdɪəʊækˈtɪvətɪ; ˈredɪˌoækˈtɪvətɪ/",
+    "accepted_answers": [
+      "radioactivity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "radiograph",
@@ -1033,6 +1273,29 @@
     "pronunciation": "/ ˌreɪdɪəʊˈaɪsətəʊp; ˌredɪoˈaɪsəˌtop/",
     "accepted_answers": [
       "放射性同位素"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "radiologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "放射学家",
+    "analysis": "n expert in radiology 放射学家.",
+    "phonetic": "/ ˌreɪdɪˈɒlədʒɪst; ˌredɪˈɑːlədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "放射学家"
+    ],
+    "pronunciation": "/ ˌreɪdɪˈɒlədʒɪst; ˌredɪˈɑːlədʒɪst/",
+    "accepted_answers": [
+      "放射学家"
     ],
     "added_at": "",
     "review": {
@@ -1132,6 +1395,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "radon",
+    "type": "word",
+    "pos": "N",
+    "translation": "见附录",
+    "analysis": "n [U] chemical element, a radioactive gas produced by the decay of radium 氡. =>App 10 见附录10.",
+    "phonetic": "/ ˈreɪdɒn; ˈredɑːn/",
+    "origin": "待查",
+    "expansions": [
+      "见附录"
+    ],
+    "pronunciation": "/ ˈreɪdɒn; ˈredɑːn/",
+    "accepted_answers": [
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "raf",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；皇家空军",
+    "analysis": "abbr 缩写 = (Brit) Royal Air Force 皇家空军.",
+    "phonetic": "/ ˌɑː:reɪˈef,or,ininfmluse,俗读作rf; ˌɑːreˈef,ræf/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；皇家空军"
+    ],
+    "pronunciation": "/ ˌɑː:reɪˈef,or,ininfmluse,俗读作rf; ˌɑːreˈef,ræf/",
+    "accepted_answers": [
+      "缩写",
+      "皇家空军"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "raffia",
@@ -1254,6 +1564,30 @@
     }
   },
   {
+    "term": "raftered",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "有椽的；（尤指）椽暴露在外面的（如因无天花板）",
+    "analysis": "adj having rafters, esp ones that are exposed, eg because there is no ceiling 有椽的; （尤指）椽暴露在外面的（如因无天花板）.",
+    "phonetic": "/ ˈrɑː:ftəd; ˈræf-; ˈræftəd/",
+    "origin": "待查",
+    "expansions": [
+      "有椽的；（尤指）椽暴露在外面的（如因无天花板）"
+    ],
+    "pronunciation": "/ ˈrɑː:ftəd; ˈræf-; ˈræftəd/",
+    "accepted_answers": [
+      "有椽的",
+      "（尤指）椽暴露在外面的（如因无天花板）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "rag",
     "type": "word",
     "translation": "碎布（通常指撕碎、磨破的）；我用沾满油污的碎布擦我的自行车；他拿一块旧布当作手绢用",
@@ -1279,6 +1613,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ragamuffin",
+    "type": "word",
+    "pos": "N",
+    "translation": "衣衫褴褛的人（尤指小男孩）",
+    "analysis": "n person, esp a small boy, in dirty untidy clothes 衣衫褴褛的人（尤指小男孩）.",
+    "phonetic": "/ ˈrægəmʌfɪn; ˈrægəˌmʌfɪn/",
+    "origin": "待查",
+    "expansions": [
+      "衣衫褴褛的人（尤指小男孩）"
+    ],
+    "pronunciation": "/ ˈrægəmʌfɪn; ˈrægəˌmʌfɪn/",
+    "accepted_answers": [
+      "衣衫褴褛的人（尤指小男孩）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "rage",
@@ -1333,6 +1690,31 @@
     }
   },
   {
+    "term": "raglan",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": ")(；插肩的（袖子）；插肩袖的（大衣、毛衣等）",
+    "analysis": "n, adj [attrib 作定语] (a) (sleeve) that is joined to the body of a garment by sloping seams from the armpit to the neckline 插肩的（袖子）. (b) (coat, sweater, etc) having sleeves of this kind 插肩袖的（大衣、 毛衣等）.",
+    "phonetic": "/ ˈræglən; ˈræglən/",
+    "origin": "待查",
+    "expansions": [
+      ")(；插肩的（袖子）；插肩袖的（大衣、毛衣等）"
+    ],
+    "pronunciation": "/ ˈræglən; ˈræglən/",
+    "accepted_answers": [
+      ")(",
+      "插肩的（袖子）",
+      "插肩袖的（大衣、毛衣等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "ragout",
     "type": "word",
     "pos": "N",
@@ -1346,6 +1728,31 @@
     "pronunciation": "/ ˈræguː; ræˈguː; ræˈgu/",
     "accepted_answers": [
       "（一道）蔬菜炖肉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "ragtag",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；声名狼藉之辈；流氓",
+    "analysis": "n (idm 习语) ,ragtag and `bobtail disreputable people; riff-raff 声名狼藉之辈; 流氓.",
+    "phonetic": "/ ˈrægtæg; ˈrægˌtæg/",
+    "origin": "待查",
+    "expansions": [
+      "习语)；声名狼藉之辈；流氓"
+    ],
+    "pronunciation": "/ ˈrægtæg; ˈrægˌtæg/",
+    "accepted_answers": [
+      "习语)",
+      "声名狼藉之辈",
+      "流氓"
     ],
     "added_at": "",
     "review": {
@@ -1392,6 +1799,31 @@
     "accepted_answers": [
       "豚草（产於北美",
       "其花粉能使人患枯草热）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "ragwort",
+    "type": "word",
+    "pos": "N",
+    "translation": "千里光（野生植物；开黄花似雏菊；叶呈不规则齿形）",
+    "analysis": "n [C, U] wild plant with yellow daisy-like flowers and ragged leaves 千里光（野生植物, 开黄花似雏菊, 叶呈不规则齿形）.",
+    "phonetic": "/ ˈrægwɜːt; ˈrægˌwɜːt/",
+    "origin": "待查",
+    "expansions": [
+      "千里光（野生植物；开黄花似雏菊；叶呈不规则齿形）"
+    ],
+    "pronunciation": "/ ˈrægwɜːt; ˈrægˌwɜːt/",
+    "accepted_answers": [
+      "千里光（野生植物",
+      "开黄花似雏菊",
+      "叶呈不规则齿形）"
     ],
     "added_at": "",
     "review": {
@@ -1474,6 +1906,53 @@
     }
   },
   {
+    "term": "railing",
+    "type": "word",
+    "pos": "N",
+    "translation": "常作复数)；（有立柱支撑的）横条的栏杆、栅栏或扶手",
+    "analysis": "n (often pl 常作复数) fence or barrier made of rails (rail1 1a), supported by upright bars （有立柱支撑的）横条的栏杆、 栅栏或扶手.",
+    "phonetic": "/ ˈreɪlɪŋ; ˈrelɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "常作复数)；（有立柱支撑的）横条的栏杆、栅栏或扶手"
+    ],
+    "pronunciation": "/ ˈreɪlɪŋ; ˈrelɪŋ/",
+    "accepted_answers": [
+      "常作复数)",
+      "（有立柱支撑的）横条的栏杆、栅栏或扶手"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "raillery",
+    "type": "word",
+    "pos": "N",
+    "translation": "善意的嘲讽或揶揄",
+    "analysis": "n [U] good-humoured mockery or ridicule 善意的嘲讽或揶揄.",
+    "phonetic": "/ ˈreɪlərɪ; ˈrelərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "善意的嘲讽或揶揄"
+    ],
+    "pronunciation": "/ ˈreɪlərɪ; ˈrelərɪ/",
+    "accepted_answers": [
+      "善意的嘲讽或揶揄"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "railway",
     "type": "word",
     "translation": "铁路；铁道；修建中的铁路",
@@ -1492,6 +1971,29 @@
       "修建中的铁路"
     ],
     "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "railwayman",
+    "type": "word",
+    "pos": "N",
+    "translation": "铁路员工",
+    "analysis": "n (pl -men / -mEn; -mEn/) man who works for a railway company 铁路员工.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "铁路员工"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "铁路员工"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -1929,6 +2431,29 @@
     }
   },
   {
+    "term": "rambunctious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "rambunctious",
+    "analysis": "adj (infml 口 esp US) =rumbustious.",
+    "phonetic": "/ ræmˈbʌŋkʃəs; ræmˈbʌŋkʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "rambunctious"
+    ],
+    "pronunciation": "/ ræmˈbʌŋkʃəs; ræmˈbʌŋkʃəs/",
+    "accepted_answers": [
+      "rambunctious"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "ramekin",
     "type": "word",
     "translation": "（烘烤一人分量的食物用的）小模子；小烤盘；一人分量的烤盘食物；小烤盘中的食物",
@@ -2196,6 +2721,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rancorous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "rancorous",
+    "analysis": "adj.\nrancorously \nadv.",
+    "phonetic": "/ ˈræŋkərəs; ˈræŋkərəs/",
+    "origin": "待查",
+    "expansions": [
+      "rancorous"
+    ],
+    "pronunciation": "/ ˈræŋkərəs; ˈræŋkərəs/",
+    "accepted_answers": [
+      "rancorous"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "rancour",
@@ -2545,6 +3093,29 @@
     }
   },
   {
+    "term": "ranter",
+    "type": "word",
+    "pos": "N",
+    "translation": "ranter",
+    "analysis": "n.",
+    "phonetic": "/ ˈræntə(r); ˈræntə/",
+    "origin": "待查",
+    "expansions": [
+      "ranter"
+    ],
+    "pronunciation": "/ ˈræntə(r); ˈræntə/",
+    "accepted_answers": [
+      "ranter"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "rap",
     "type": "word",
     "translation": "（轻快的）敲击（声）；急敲（声）；碰了一下胳膊肘",
@@ -2593,6 +3164,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rapacity",
+    "type": "word",
+    "pos": "N",
+    "translation": "贪婪；贪心；劫掠的欲望",
+    "analysis": "n [U] greed; desire to rob and plunder 贪婪; 贪心; 劫掠的欲望.",
+    "phonetic": "/ rəˈpæsətɪ; rəˈpæsətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "贪婪；贪心；劫掠的欲望"
+    ],
+    "pronunciation": "/ rəˈpæsətɪ; rəˈpæsətɪ/",
+    "accepted_answers": [
+      "贪婪",
+      "贪心",
+      "劫掠的欲望"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "rape",
@@ -2717,6 +3313,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rapist",
+    "type": "word",
+    "pos": "N",
+    "translation": "强奸者；强奸犯",
+    "analysis": "n person who commits rape 强奸者; 强奸犯.",
+    "phonetic": "/ ˈreɪpɪst; ˈrepɪst/",
+    "origin": "待查",
+    "expansions": [
+      "强奸者；强奸犯"
+    ],
+    "pronunciation": "/ ˈreɪpɪst; ˈrepɪst/",
+    "accepted_answers": [
+      "强奸者",
+      "强奸犯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "rapport",
@@ -3162,6 +3782,31 @@
     }
   },
   {
+    "term": "rastafarian",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "拉斯塔法里（牙买加的教派；认为黑人是上帝将拯救的人）；该教派的成员",
+    "analysis": "n, adj (member) of a Jamaican sect regarding Blacks as a people chosen by God for salvation 拉斯塔法里（牙买加的教派, 认为黑人是上帝将拯救的人）; 该教派的成员.",
+    "phonetic": "/ ˌræstəˈfeərɪən; ˌræstəˈfærɪən/",
+    "origin": "待查",
+    "expansions": [
+      "拉斯塔法里（牙买加的教派；认为黑人是上帝将拯救的人）；该教派的成员"
+    ],
+    "pronunciation": "/ ˌræstəˈfeərɪən; ˌræstəˈfærɪən/",
+    "accepted_answers": [
+      "拉斯塔法里（牙买加的教派",
+      "认为黑人是上帝将拯救的人）",
+      "该教派的成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "rat",
     "type": "word",
     "translation": "大鼠；见附录；插图",
@@ -3209,6 +3854,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ratchet",
+    "type": "word",
+    "pos": "N",
+    "translation": "棘轮机构；棘轮；见插图",
+    "analysis": "n  1 device consisting of a toothed wheel or bar with a catch that fits between the teeth allowing movement in one direction only 棘轮机构.  2 (also `ratchet-wheel) wheel that forms part of this device 棘轮. =>illus 见插图.",
+    "phonetic": "/ ˈrætʃɪt; ˈrætʃɪt/",
+    "origin": "待查",
+    "expansions": [
+      "棘轮机构；棘轮；见插图"
+    ],
+    "pronunciation": "/ ˈrætʃɪt; ˈrætʃɪt/",
+    "accepted_answers": [
+      "棘轮机构",
+      "棘轮",
+      "见插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
   },
   {
     "term": "rate",
@@ -3388,6 +4058,31 @@
     }
   },
   {
+    "term": "ratiocination",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；推论；推理",
+    "analysis": "n [U] (fml 文) process of logical and methodical reasoning 推论; 推理.",
+    "phonetic": "/ ˌrætɪˌɒsɪˈneɪʃn; ˌræʃɪ-; ˌræʃɪˌɑːsnˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)；推论；推理"
+    ],
+    "pronunciation": "/ ˌrætɪˌɒsɪˈneɪʃn; ˌræʃɪ-; ˌræʃɪˌɑːsnˈeʃən/",
+    "accepted_answers": [
+      "文)",
+      "推论",
+      "推理"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "ration",
     "type": "word",
     "translation": "定量；（尤指食物等短缺时的）配给限额；黄油、煤炭、汽油等的每周配给量（如在战争期间）",
@@ -3513,6 +4208,31 @@
     }
   },
   {
+    "term": "rationalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "理性主义；唯理主义；唯理论",
+    "analysis": "n [U] practiceof testing all religious belief and knowledge by reason and logic 理性主义; 唯理主义; 唯理论.",
+    "phonetic": "/ ˈræʃnəlɪzəm; ˈræʃənlˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "理性主义；唯理主义；唯理论"
+    ],
+    "pronunciation": "/ ˈræʃnəlɪzəm; ˈræʃənlˌɪzəm/",
+    "accepted_answers": [
+      "理性主义",
+      "唯理主义",
+      "唯理论"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "rationalist",
     "type": "word",
     "pos": "N / Adj",
@@ -3527,6 +4247,30 @@
     "accepted_answers": [
       "理性主义者（的）",
       "唯理论者（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "rationalistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "理性主义（者）的；唯理论（者）的",
+    "analysis": "adj of rationalism or rationalists 理性主义（者）的; 唯理论（者）的.",
+    "phonetic": "/ ˌræʃnəˈlɪstɪk; ˌræʃənlˈɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "理性主义（者）的；唯理论（者）的"
+    ],
+    "pronunciation": "/ ˌræʃnəˈlɪstɪk; ˌræʃənlˈɪstɪk/",
+    "accepted_answers": [
+      "理性主义（者）的",
+      "唯理论（者）的"
     ],
     "added_at": "",
     "review": {
@@ -3552,6 +4296,29 @@
       "理性",
       "合理性",
       "理智"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
+    "term": "rationalization",
+    "type": "word",
+    "pos": "N",
+    "translation": "rationalization",
+    "analysis": "n [C, U].",
+    "phonetic": "/ ˌrʃnəlaɪˈzeɪʃn; US-lɪˈz-; ˌræʃənəlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "rationalization"
+    ],
+    "pronunciation": "/ ˌrʃnəlaɪˈzeɪʃn; US-lɪˈz-; ˌræʃənəlɪˈzeʃən/",
+    "accepted_answers": [
+      "rationalization"
     ],
     "added_at": "",
     "review": {
@@ -3905,6 +4672,29 @@
     }
   },
   {
+    "term": "ravine",
+    "type": "word",
+    "pos": "N",
+    "translation": "既深且狭、坡度很大的山谷",
+    "analysis": "n deep narrow steep-sided valley between mountains 既深且狭、 坡度很大的山谷.",
+    "phonetic": "/ rəˈviːn; rəˈvin/",
+    "origin": "待查",
+    "expansions": [
+      "既深且狭、坡度很大的山谷"
+    ],
+    "pronunciation": "/ rəˈviːn; rəˈvin/",
+    "accepted_answers": [
+      "既深且狭、坡度很大的山谷"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "ravioli",
     "type": "word",
     "pos": "N",
@@ -4105,6 +4895,31 @@
     }
   },
   {
+    "term": "razzle",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；口)；外出庆祝和找乐",
+    "analysis": "n (idm 习语) be/go (out) on the razzle (infml 口) be/go out to celebrate and enjoy oneself; be/go on a spree 外出庆祝和找乐; 寻欢作乐.",
+    "phonetic": "/ ˈræzl; ˈræzl/",
+    "origin": "待查",
+    "expansions": [
+      "习语)；口)；外出庆祝和找乐"
+    ],
+    "pronunciation": "/ ˈræzl; ˈræzl/",
+    "accepted_answers": [
+      "习语)",
+      "口)",
+      "外出庆祝和找乐"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-a.txt"
+  },
+  {
     "term": "razzmatazz",
     "type": "word",
     "translation": "口)；魅力；刺激",
@@ -4225,6 +5040,30 @@
     }
   },
   {
+    "term": "re-count",
+    "type": "word",
+    "pos": "V",
+    "translation": "重新计算（尤指选票）；重数",
+    "analysis": "v [Tn] count (esp votes) again 重新计算（尤指选票）; 重数.",
+    "phonetic": "/ ˌriːˈkaUnt; ˌriˈkaJnt/",
+    "origin": "待查",
+    "expansions": [
+      "重新计算（尤指选票）；重数"
+    ],
+    "pronunciation": "/ ˌriːˈkaUnt; ˌriˈkaJnt/",
+    "accepted_answers": [
+      "重新计算（尤指选票）",
+      "重数"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "re-create",
     "type": "word",
     "translation": "再创（已成为过去的事物）；再创造；再现",
@@ -4246,6 +5085,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "re-creation",
+    "type": "word",
+    "pos": "N",
+    "translation": "re-creation",
+    "analysis": "n [U, C].",
+    "phonetic": "/ -ˈeɪʃn; -ˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "re-creation"
+    ],
+    "pronunciation": "/ -ˈeɪʃn; -ˈeʃən/",
+    "accepted_answers": [
+      "re-creation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "re-echo",
@@ -4339,6 +5201,29 @@
     }
   },
   {
+    "term": "re-election",
+    "type": "word",
+    "pos": "N",
+    "translation": "re-election",
+    "analysis": "n [C, U].",
+    "phonetic": "/ -ˈlekʃn; -ˈlekʃən/",
+    "origin": "待查",
+    "expansions": [
+      "re-election"
+    ],
+    "pronunciation": "/ -ˈlekʃn; -ˈlekʃən/",
+    "accepted_answers": [
+      "re-election"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "re-enter",
     "type": "word",
     "translation": "再次进入或加入（某事物）中；重返；由另一个门再进入（该房间）",
@@ -4408,6 +5293,30 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "re-examine",
+    "type": "word",
+    "pos": "V",
+    "translation": "律)；再诘问（己方证人）",
+    "analysis": "v [Tn] (law 律) examine or question (one's own witness) again 再诘问（己方证人）.",
+    "phonetic": "/ ˌriːɪgˈzæmɪn; ˌriɪgˈzæmɪn/",
+    "origin": "待查",
+    "expansions": [
+      "律)；再诘问（己方证人）"
+    ],
+    "pronunciation": "/ ˌriːɪgˈzæmɪn; ˌriɪgˈzæmɪn/",
+    "accepted_answers": [
+      "律)",
+      "再诘问（己方证人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "re-export",
     "type": "word",
     "pos": "V",
@@ -4453,6 +5362,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "re-lay",
+    "type": "word",
+    "pos": "V",
+    "translation": "重新铺设（电缆、地毯、草坪等）",
+    "analysis": "v (pt, pp re-laid / -5leId; -`led/) [Tn] lay (a cable, carpet, lawn, etc) again 重新铺设（电缆、 地毯、 草坪等）.",
+    "phonetic": "/ ˌriːˈleɪ; ˌriˈle/",
+    "origin": "待查",
+    "expansions": [
+      "重新铺设（电缆、地毯、草坪等）"
+    ],
+    "pronunciation": "/ ˌriːˈleɪ; ˌriˈle/",
+    "accepted_answers": [
+      "重新铺设（电缆、地毯、草坪等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "re-route",
@@ -4536,6 +5468,31 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "reactant",
+    "type": "word",
+    "pos": "N",
+    "translation": "化)；反应物；参看",
+    "analysis": "n (chemistry 化) substance taking part in a chemical reaction 反应物. Cf 参看 product 3.",
+    "phonetic": "/ rɪˈæktənt; rɪˈæktənt/",
+    "origin": "待查",
+    "expansions": [
+      "化)；反应物；参看"
+    ],
+    "pronunciation": "/ rɪˈæktənt; rɪˈæktənt/",
+    "accepted_answers": [
+      "化)",
+      "反应物",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reaction",
     "type": "word",
     "translation": "（对情况、行动、影响等做出的）反应；回应；他对这消息的反应如何；她被捕的事立刻",
@@ -4563,6 +5520,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reactionary",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "反对（尤指政治的）进步或改革的（人）；反动的（人）",
+    "analysis": "n, adj (person) opposing (esp political) progress or reform 反对（尤指政治的）进步或改革的（人）; 反动的（人）.",
+    "phonetic": "/ rɪˈækʃənrɪ; -ənerɪ; rɪˈækʃənˌerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "反对（尤指政治的）进步或改革的（人）；反动的（人）"
+    ],
+    "pronunciation": "/ rɪˈækʃənrɪ; -ənerɪ; rɪˈækʃənˌerɪ/",
+    "accepted_answers": [
+      "反对（尤指政治的）进步或改革的（人）",
+      "反动的（人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "reactivate",
@@ -4911,6 +5892,54 @@
     }
   },
   {
+    "term": "reafforestation",
+    "type": "word",
+    "pos": "N",
+    "translation": "reafforestation",
+    "analysis": "(US reforestation / 9ri:9fCr-; ?@ -9fR:r-; 9rifRr-/) n [U].",
+    "phonetic": "/ ˌriːəˌfɒrɪˈsteɪʃn; -ˌfɔːr-; ˌriəfɔːrəsˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "9fCr-; ?@ -9fR:r-; 9rifRr-/) n [U]."
+    ],
+    "pronunciation": "/ ˌriːəˌfɒrɪˈsteɪʃn; -ˌfɔːr-; ˌriəfɔːrəsˈteʃən/",
+    "accepted_answers": [
+      "reafforestation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reagent",
+    "type": "word",
+    "pos": "N",
+    "translation": "化)；试药；试剂",
+    "analysis": "n (chemistry 化) substance used to cause a chemical reaction, esp to detect another substance 试药; 试剂; 反应物.",
+    "phonetic": "/ riːˈeɪdʒənt; riˈedʒənt/",
+    "origin": "待查",
+    "expansions": [
+      "化)；试药；试剂"
+    ],
+    "pronunciation": "/ riːˈeɪdʒənt; riˈedʒənt/",
+    "accepted_answers": [
+      "化)",
+      "试药",
+      "试剂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "real",
     "type": "word",
     "translation": "确实的；实在的；确实的和想像的恐惧、疾病、成就",
@@ -5089,6 +6118,29 @@
     "pos": "Adj"
   },
   {
+    "term": "realistically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "realistically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "realistically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "realistically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reality",
     "type": "word",
     "translation": "真实（性）；他的绘画作品中表现的真实性；现实",
@@ -5264,6 +6316,29 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "realtor",
+    "type": "word",
+    "pos": "N",
+    "translation": "realtor",
+    "analysis": "n (US) = estate agent (estate).",
+    "phonetic": "/ ˈrɪəltə(r); ˈrɪəltə/",
+    "origin": "待查",
+    "expansions": [
+      "realtor"
+    ],
+    "pronunciation": "/ ˈrɪəltə(r); ˈrɪəltə/",
+    "accepted_answers": [
+      "realtor"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "realty",
     "type": "word",
     "pos": "N",
@@ -5335,6 +6410,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reappear",
+    "type": "word",
+    "pos": "V",
+    "translation": ")再出现；再现",
+    "analysis": "v [I] appear again (afterbeing absent or not visible) 再出现; 再现.",
+    "phonetic": "/ ˌriːəˈpɪə(r); ˌriəˈpɪr/",
+    "origin": "待查",
+    "expansions": [
+      ")再出现；再现"
+    ],
+    "pronunciation": "/ ˌriːəˈpɪə(r); ˌriəˈpɪr/",
+    "accepted_answers": [
+      ")再出现",
+      "再现"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reappearance",
+    "type": "word",
+    "pos": "N",
+    "translation": "reappearance",
+    "analysis": "n [U, C].",
+    "phonetic": "/ -rəns; -rəns/",
+    "origin": "待查",
+    "expansions": [
+      "reappearance"
+    ],
+    "pronunciation": "/ -rəns; -rəns/",
+    "accepted_answers": [
+      "reappearance"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "reappraisal",
@@ -5410,6 +6532,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rearm",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；重新武装或装备（军队等）；给（军队等）更新装备",
+    "analysis": "v [I, Ipr, Tn, Tn.pr] ~ (sb/sth) (with sth) supply (an army, etc) with weapons again or with better weapons 重新武装或装备（军队等）; 给（军队等）更新装备.",
+    "phonetic": "/ ˌriːˈɑː:m; riˈɑːrm/",
+    "origin": "待查",
+    "expansions": [
+      ")(；重新武装或装备（军队等）；给（军队等）更新装备"
+    ],
+    "pronunciation": "/ ˌriːˈɑː:m; riˈɑːrm/",
+    "accepted_answers": [
+      ")(",
+      "重新武装或装备（军队等）",
+      "给（军队等）更新装备"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "rearmament",
+    "type": "word",
+    "pos": "N",
+    "translation": "rearmament",
+    "analysis": "n [U].",
+    "phonetic": "/ riːˈɑː:məmənt; riˈɑːrməmənt/",
+    "origin": "待查",
+    "expansions": [
+      "rearmament"
+    ],
+    "pronunciation": "/ riːˈɑː:məmənt; riˈɑːrməmənt/",
+    "accepted_answers": [
+      "rearmament"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "rearmost",
@@ -5903,6 +7073,54 @@
     }
   },
   {
+    "term": "rebus",
+    "type": "word",
+    "pos": "N",
+    "translation": "（以画或图代表字母或音节的）画谜",
+    "analysis": "n puzzle in which a word or phrase has to be guessed from pictures or diagrams representing the letters or syllables in it （以画或图代表字母或音节的）画谜.",
+    "phonetic": "/ ˈriːbəs; ˈribəs/",
+    "origin": "待查",
+    "expansions": [
+      "（以画或图代表字母或音节的）画谜"
+    ],
+    "pronunciation": "/ ˈriːbəs; ˈribəs/",
+    "accepted_answers": [
+      "（以画或图代表字母或音节的）画谜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "rebut",
+    "type": "word",
+    "pos": "V",
+    "translation": "证明（指控、证据等）不实；反驳；驳斥",
+    "analysis": "v (-tt-) [Tn] prove (a charge, piece of evidence, etc) to be false; refute 证明（指控、 证据等）不实; 反驳; 驳斥.",
+    "phonetic": "/ rɪˈbʌt; rɪˈbʌt/",
+    "origin": "待查",
+    "expansions": [
+      "证明（指控、证据等）不实；反驳；驳斥"
+    ],
+    "pronunciation": "/ rɪˈbʌt; rɪˈbʌt/",
+    "accepted_answers": [
+      "证明（指控、证据等）不实",
+      "反驳",
+      "驳斥"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "rebuttal",
     "type": "word",
     "translation": "反驳；反证；提出反驳指控的证据",
@@ -5924,6 +7142,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rec",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；游乐场",
+    "analysis": "abbr 缩写 = recreation ground 游乐场.",
+    "phonetic": "/ rek; rek/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；游乐场"
+    ],
+    "pronunciation": "/ rek; rek/",
+    "accepted_answers": [
+      "缩写",
+      "游乐场"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recalcitrance",
@@ -6040,6 +7282,29 @@
       "文)",
       "放弃",
       "撤销"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "recap",
+    "type": "word",
+    "pos": "V",
+    "translation": "口)",
+    "analysis": "v (-pp-) [I, Tn, Tw] (infml 口) = recapitulate.\nrecap \nn [C, U] (infml 口) = recapitulation (recapitulate).",
+    "phonetic": "/ ˈriːkæp; ˈrikæp/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ˈriːkæp; ˈrikæp/",
+    "accepted_answers": [
+      "口)"
     ],
     "added_at": "",
     "review": {
@@ -6407,6 +7672,31 @@
     }
   },
   {
+    "term": "receptionist",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旅馆、事务所、诊所、理发馆等雇用的）接待员；)(；（旅馆、事务所等的）服务台",
+    "analysis": "n person employed to make appointments for and receive clients at a hotel, an office building, a doctor's or dentist's surgery, a hairdressing salon, etc （旅馆、 事务所、 诊所、 理发馆等雇用的）接待员.\nreception desk \n(Brit) (in a hotel, an office building, etc) counter where guests, clients, etc are received, where they ask for rooms, etc （旅馆、 事务所等的）服务台.\nreception room  \n1 (used esp when advertising houses for sale 尤用於房屋出售广告) living-room; room other than a kitchen, bathroom or bedroom 客厅; 起居室.  2 room (eg in a hotel) suitable for large social functions （适於大型活动的）客厅（如旅馆中的）.",
+    "phonetic": "/ -ʃənɪst; -ʃənɪst/",
+    "origin": "待查",
+    "expansions": [
+      "（旅馆、事务所、诊所、理发馆等雇用的）接待员；)(；（旅馆、事务所等的）服务台"
+    ],
+    "pronunciation": "/ -ʃənɪst; -ʃənɪst/",
+    "accepted_answers": [
+      "（旅馆、事务所、诊所、理发馆等雇用的）接待员",
+      ")(",
+      "（旅馆、事务所等的）服务台"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "receptive",
     "type": "word",
     "translation": "（对新的思想、建议等）易於接受的；接受得快的；敏於接受新思想的人、头脑、态度；对新事物接受得快的",
@@ -6433,6 +7723,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "receptiveness",
+    "type": "word",
+    "pos": "word",
+    "translation": "receptiveness",
+    "analysis": "ns [U].",
+    "phonetic": "/ ˌriːsepˈtɪvətɪ; ˌrisepˈtɪvətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "receptiveness"
+    ],
+    "pronunciation": "/ ˌriːsepˈtɪvətɪ; ˌrisepˈtɪvətɪ/",
+    "accepted_answers": [
+      "receptiveness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "receptivity",
@@ -6513,6 +7826,56 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "recessional",
+    "type": "word",
+    "pos": "N",
+    "translation": "（礼拜仪式完毕後牧师和唱诗班退场时唱的）退场赞美诗",
+    "analysis": "n (also recessional hymn) hymn sung while the clergy and choir withdraw after a church service （礼拜仪式完毕後牧师和唱诗班退场时唱的）退场赞美诗.",
+    "phonetic": "/ rɪˈseʃənl; rɪˈseʃənəl/",
+    "origin": "待查",
+    "expansions": [
+      "（礼拜仪式完毕後牧师和唱诗班退场时唱的）退场赞美诗"
+    ],
+    "pronunciation": "/ rɪˈseʃənl; rɪˈseʃənəl/",
+    "accepted_answers": [
+      "（礼拜仪式完毕後牧师和唱诗班退场时唱的）退场赞美诗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "recessive",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "生)(；（指遗传性状；如眼睛或毛发的颜色）隐性的；潜性的；参看",
+    "analysis": "adj  1 (biology 生) (of characteristics inherited from a parent, such as the colour of the eyes or of the hair) not appearing in a child but remaining hidden because of the presence of stronger characteristics （指遗传性状, 如眼睛或毛发的颜色）隐性的, 潜性的. Cf 参看 dominant.  2 having a tendency to recede or go back （倾向於）後退的, 倒退的.",
+    "phonetic": "/ rɪˈsesɪv; rɪˈsesɪv/",
+    "origin": "待查",
+    "expansions": [
+      "生)(；（指遗传性状；如眼睛或毛发的颜色）隐性的；潜性的；参看"
+    ],
+    "pronunciation": "/ rɪˈsesɪv; rɪˈsesɪv/",
+    "accepted_answers": [
+      "生)(",
+      "（指遗传性状",
+      "如眼睛或毛发的颜色）隐性的",
+      "潜性的",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "recharge",
     "type": "word",
     "translation": "给（电池）再充电；给（枪）再装弹药；习语)",
@@ -6557,6 +7920,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "recidivism",
+    "type": "word",
+    "pos": "N",
+    "translation": "recidivism",
+    "analysis": "n [U].",
+    "phonetic": "/ -ɪzəm; -ɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "recidivism"
+    ],
+    "pronunciation": "/ -ɪzəm; -ɪzəm/",
+    "accepted_answers": [
+      "recidivism"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recidivist",
@@ -6654,6 +8040,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reciprocally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "相互代词（表示相互之行为或关系；如",
+    "analysis": "adv.\nreciprocal pronoun \n(grammar) pronoun expressinga mutual action or relation, eg each other, one another 相互代词（表示相互之行为或关系, 如 each other、 one another）.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "相互代词（表示相互之行为或关系；如"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "相互代词（表示相互之行为或关系",
+      "如"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "reciprocate",
@@ -6777,6 +8187,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "recitative",
+    "type": "word",
+    "pos": "N",
+    "translation": "宣叙调；朗诵调（歌剧或清唱剧中近似说话的歌唱风格）",
+    "analysis": "n [C, U] (passage of) narrative or dialogue in an opera or oratorio sung in the rhythm of ordinary speech with many words on the same note 宣叙调, 朗诵调（歌剧或清唱剧中近似说话的歌唱风格）.",
+    "phonetic": "/ ˌresɪtəˈtiːv; ˌresətəˈtiv/",
+    "origin": "待查",
+    "expansions": [
+      "宣叙调；朗诵调（歌剧或清唱剧中近似说话的歌唱风格）"
+    ],
+    "pronunciation": "/ ˌresɪtəˈtiːv; ˌresətəˈtiv/",
+    "accepted_answers": [
+      "宣叙调",
+      "朗诵调（歌剧或清唱剧中近似说话的歌唱风格）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recite",
@@ -6937,6 +8371,29 @@
     "origin": "待查"
   },
   {
+    "term": "reclamation",
+    "type": "word",
+    "pos": "N",
+    "translation": "reclamation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌrekləˈmeɪʃn; ˌrekləˈmeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "reclamation"
+    ],
+    "pronunciation": "/ ˌrekləˈmeɪʃn; ˌrekləˈmeʃən/",
+    "accepted_answers": [
+      "reclamation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "recline",
     "type": "word",
     "translation": "向後倚靠或躺；躺在枕头、沙发、草坡上；斜躺在摺叠帆布椅、平底船、吊床上",
@@ -7011,6 +8468,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "recognisably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "recognisably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "recognisably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "recognisably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recognisance",
@@ -7367,6 +8847,29 @@
     }
   },
   {
+    "term": "reconcilable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "reconcilable",
+    "analysis": "adj.",
+    "phonetic": "/ -əbl,alsoˌrekənˈsaɪləbl; -əbl,ˌrekənˈsaɪləbl/",
+    "origin": "待查",
+    "expansions": [
+      "reconcilable"
+    ],
+    "pronunciation": "/ -əbl,alsoˌrekənˈsaɪləbl; -əbl,ˌrekənˈsaɪləbl/",
+    "accepted_answers": [
+      "reconcilable"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reconcile",
     "type": "word",
     "translation": "尤用於被动语态；使（人）重新和好（如争吵後）；使和解",
@@ -7415,6 +8918,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "recondite",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；（指学科）不甚了解的；不甚理解的；深奥的；（指作者等）研究鲜为人知的或难以理解的专题的",
+    "analysis": "adj (fml 文)  1 (of subjects) little known or understood; obscure （指学科）不甚了解的, 不甚理解的, 深奥的.  2 (of writers, etc) dealing with subjects that are little known or understood （指作者等）研究鲜为人知的或难以理解的专题的.",
+    "phonetic": "/ ˈrekəndaɪt; ˈrekənˌdaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "文)；（指学科）不甚了解的；不甚理解的；深奥的；（指作者等）研究鲜为人知的或难以理解的专题的"
+    ],
+    "pronunciation": "/ ˈrekəndaɪt; ˈrekənˌdaɪt/",
+    "accepted_answers": [
+      "文)",
+      "（指学科）不甚了解的",
+      "不甚理解的",
+      "深奥的",
+      "（指作者等）研究鲜为人知的或难以理解的专题的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recondition",
@@ -8020,6 +9550,31 @@
     }
   },
   {
+    "term": "recrudesce",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)(；（指疾病、暴力活动等）复发；再次发生",
+    "analysis": "v [I] (fml 文) (of diseases, violence, etc) break out again; recur （指疾病、 暴力活动等）复发, 再次发生.",
+    "phonetic": "/ ˌriːkruːˈdes; ˌrikruˈdes/",
+    "origin": "待查",
+    "expansions": [
+      "文)(；（指疾病、暴力活动等）复发；再次发生"
+    ],
+    "pronunciation": "/ ˌriːkruːˈdes; ˌrikruˈdes/",
+    "accepted_answers": [
+      "文)(",
+      "（指疾病、暴力活动等）复发",
+      "再次发生"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "recrudescence",
     "type": "word",
     "translation": "文)；新发作；再发生",
@@ -8042,6 +9597,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "recrudescent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "recrudescent",
+    "analysis": "adj.",
+    "phonetic": "/ -ˈdesnt; -ˈdesənt/",
+    "origin": "待查",
+    "expansions": [
+      "recrudescent"
+    ],
+    "pronunciation": "/ -ˈdesnt; -ˈdesənt/",
+    "accepted_answers": [
+      "recrudescent"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recruit",
@@ -8286,6 +9864,32 @@
     }
   },
   {
+    "term": "rector",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；)（英国国教的）牧区司铎；牧区长；参看",
+    "analysis": "n  1 (a) (in the Church of England) clergyman in charge of a parish from which he receives his income directly (formerly entitled to receive all the tithes of his parish) （英国国教的）牧区司铎, 牧区长. Cf 参看 vicar. (b) (in the Roman Catholic Church) head of a church or a religious community （天主教的）教区首席神甫.  2 (esp Brit) head of certain universities, colleges, schools or religious institutions （某些学校或宗教机构的）校长、 院长或领导人.",
+    "phonetic": "/ ˈrektə(r); ˈrektə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；)（英国国教的）牧区司铎；牧区长；参看"
+    ],
+    "pronunciation": "/ ˈrektə(r); ˈrektə/",
+    "accepted_answers": [
+      ")(",
+      ")（英国国教的）牧区司铎",
+      "牧区长",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "rectory",
     "type": "word",
     "pos": "N",
@@ -8380,6 +9984,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "recuperation",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；复原；恢复",
+    "analysis": "n [U] (fml 文) recuperating 复原; 恢复; 挽回.",
+    "phonetic": "/ rɪˌkuːpəˈreɪʃn; rɪˌkupəˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)；复原；恢复"
+    ],
+    "pronunciation": "/ rɪˌkuːpəˈreɪʃn; rɪˌkupəˈreʃən/",
+    "accepted_answers": [
+      "文)",
+      "复原",
+      "恢复"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "recuperative",
@@ -8635,6 +10264,31 @@
     }
   },
   {
+    "term": "redeemable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "可赎回的；可补救的；可偿清的",
+    "analysis": "adj that can be redeemed 可赎回的; 可补救的; 可偿清的; （债券等）可兑现的.\nthe Redeemer \nn [sing] Jesus Christ 救世主; 耶稣基督.",
+    "phonetic": "/ -əbl; -əbl/",
+    "origin": "待查",
+    "expansions": [
+      "可赎回的；可补救的；可偿清的"
+    ],
+    "pronunciation": "/ -əbl; -əbl/",
+    "accepted_answers": [
+      "可赎回的",
+      "可补救的",
+      "可偿清的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "redemption",
     "type": "word",
     "translation": "文)；赎回；补救",
@@ -8657,6 +10311,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "redemptive",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；（用以）赎回的；补救的；偿还的",
+    "analysis": "adj (fml 文) of redemption; serving to redeem （用以）赎回的, 补救的, 偿还的.",
+    "phonetic": "/ rɪˈdemptɪv; rɪˈdemptɪv/",
+    "origin": "待查",
+    "expansions": [
+      "文)；（用以）赎回的；补救的；偿还的"
+    ],
+    "pronunciation": "/ rɪˈdemptɪv; rɪˈdemptɪv/",
+    "accepted_answers": [
+      "文)",
+      "（用以）赎回的",
+      "补救的",
+      "偿还的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "redeploy",
@@ -8826,6 +10506,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "redolence",
+    "type": "word",
+    "pos": "N",
+    "translation": "redolence",
+    "analysis": "n [U].",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "redolence"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "redolence"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "redolent",
@@ -9236,6 +10939,31 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "reefer",
+    "type": "word",
+    "pos": "N",
+    "translation": "厚布制的双排钮上衣；俚)；手卷的大麻烟",
+    "analysis": "n  1 (also reefer-jacket) close-fitting thick double-breasted jacket 厚布制的双排钮上衣.  2 (sl 俚) hand-rolled cigarette containing marijuana 手卷的大麻烟.",
+    "phonetic": "/ ˈriːfə(r); ˈrifə/",
+    "origin": "待查",
+    "expansions": [
+      "厚布制的双排钮上衣；俚)；手卷的大麻烟"
+    ],
+    "pronunciation": "/ ˈriːfə(r); ˈrifə/",
+    "accepted_answers": [
+      "厚布制的双排钮上衣",
+      "俚)",
+      "手卷的大麻烟"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reek",
     "type": "word",
     "translation": "贬)；浓烈的臭味；)发霉烟草的臭（烟）味",
@@ -9317,6 +11045,29 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "ref",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (infml 口) = referee 1.",
+    "phonetic": "/ ref; ref/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ref; ref/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reface",
     "type": "word",
     "pos": "V",
@@ -9330,6 +11081,30 @@
     "pronunciation": "/ ˌriːˈfeɪs; riˈfes/",
     "accepted_answers": [
       ")装修（墙壁、建筑物等的）外表"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "refectory",
+    "type": "word",
+    "pos": "N",
+    "translation": "（修道院、学校等的）食堂；餐厅",
+    "analysis": "n dining-hall in a monastery, convent, college, school, etc （修道院、 学校等的）食堂, 餐厅.",
+    "phonetic": "/ rɪˈfektrɪor,rarely,罕读作ˈrefɪktrɪ; rɪˈfektərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（修道院、学校等的）食堂；餐厅"
+    ],
+    "pronunciation": "/ rɪˈfektrɪor,rarely,罕读作ˈrefɪktrɪ; rɪˈfektərɪ/",
+    "accepted_answers": [
+      "（修道院、学校等的）食堂",
+      "餐厅"
     ],
     "added_at": "",
     "review": {
@@ -9366,6 +11141,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "referable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "可送交某人；某事物",
+    "analysis": "adj ~ (to sb/sth) that can be referred (refer 3) to sb/sth 可送交某人[某事物]的.",
+    "phonetic": "/ rɪˈfɜːrəbl; rɪˈfɜːəbl/",
+    "origin": "待查",
+    "expansions": [
+      "可送交某人；某事物"
+    ],
+    "pronunciation": "/ rɪˈfɜːrəbl; rɪˈfɜːəbl/",
+    "accepted_answers": [
+      "可送交某人",
+      "某事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "referee",
@@ -9739,6 +11538,31 @@
     }
   },
   {
+    "term": "reflector",
+    "type": "word",
+    "pos": "N",
+    "translation": "反射热、光或声音的东西；反射器；反射物",
+    "analysis": "n  1 thing that reflects heat, light or sound 反射热、 光或声音的东西; 反射器; 反射物.  2 red disc fitted to the back of a vehicle; disc or strip fitted to cycle wheels, etc making them visible in the dark by reflecting the lights of other vehicles 机动车辆尾部的红色反光器; 自行车轮等上的圆形或条形反光镜. =>illus at App 1 见附录1插图, page xiii.",
+    "phonetic": "/ rɪˈflektə(r); rɪˈflektə/",
+    "origin": "待查",
+    "expansions": [
+      "反射热、光或声音的东西；反射器；反射物"
+    ],
+    "pronunciation": "/ rɪˈflektə(r); rɪˈflektə/",
+    "accepted_answers": [
+      "反射热、光或声音的东西",
+      "反射器",
+      "反射物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reflex",
     "type": "word",
     "translation": "反射作用（受刺激後的本能反应；如打喷嚏或发抖）；对不起我撞著你了；这完全是无意的",
@@ -9912,6 +11736,30 @@
     }
   },
   {
+    "term": "refraction",
+    "type": "word",
+    "pos": "N",
+    "translation": "折射（现象）；插图",
+    "analysis": "n [U] refracting or being refracted 折射（现象）. =>illus at spectrum 见 spectrum 插图.",
+    "phonetic": "/ rɪˈfrækʃn; rɪˈfrækʃən/",
+    "origin": "待查",
+    "expansions": [
+      "折射（现象）；插图"
+    ],
+    "pronunciation": "/ rɪˈfrækʃn; rɪˈfrækʃən/",
+    "accepted_answers": [
+      "折射（现象）",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "refractory",
     "type": "word",
     "translation": "文)；难控制的；不听管教的",
@@ -10082,6 +11930,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "refrigerator",
+    "type": "word",
+    "pos": "N",
+    "translation": "口语作；冰箱；冷藏室",
+    "analysis": "n (also esp US ice-box, infml 口语作 fridge / frIdV; frIdV/) cabinet or room in which food is kept cold 冰箱; 冷藏室; 冷藏库. Cf 参看 freezer.",
+    "phonetic": "/ rɪˈfrɪdʒəreɪtə(r); rɪˈfrɪdʒəˌretə/",
+    "origin": "待查",
+    "expansions": [
+      "口语作；冰箱；冷藏室"
+    ],
+    "pronunciation": "/ rɪˈfrɪdʒəreɪtə(r); rɪˈfrɪdʒəˌretə/",
+    "accepted_answers": [
+      "口语作",
+      "冰箱",
+      "冷藏室"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "refuel",
@@ -10286,6 +12159,55 @@
     }
   },
   {
+    "term": "refutable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "可反驳的；可驳斥的",
+    "analysis": "adj that can be refuted 可反驳的; 可驳斥的.",
+    "phonetic": "/ -əbl,alsoˈrefjUtəbl; -əbl/",
+    "origin": "待查",
+    "expansions": [
+      "可反驳的；可驳斥的"
+    ],
+    "pronunciation": "/ -əbl,alsoˈrefjUtəbl; -əbl/",
+    "accepted_answers": [
+      "可反驳的",
+      "可驳斥的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "refutation",
+    "type": "word",
+    "pos": "N",
+    "translation": "反驳；驳斥；辩驳",
+    "analysis": "n  1 [U] refuting or being refuted 反驳; 驳斥; 辩驳.  2 [C] argument that refutes sth; counter-argument 作辩驳用的论据; 反驳性论据.",
+    "phonetic": "/ ˌrefjuːˈteɪʃn; ˌrefjuˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "反驳；驳斥；辩驳"
+    ],
+    "pronunciation": "/ ˌrefjuːˈteɪʃn; ˌrefjuˈteʃən/",
+    "accepted_answers": [
+      "反驳",
+      "驳斥",
+      "辩驳"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "refute",
     "type": "word",
     "translation": "证明（某说法、意见等或某人）不对；反驳；驳斥",
@@ -10412,6 +12334,29 @@
     }
   },
   {
+    "term": "regally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "regally",
+    "analysis": "adv.",
+    "phonetic": "/ -gəlɪ; -glɪ/",
+    "origin": "待查",
+    "expansions": [
+      "regally"
+    ],
+    "pronunciation": "/ -gəlɪ; -glɪ/",
+    "accepted_answers": [
+      "regally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "regard",
     "type": "word",
     "translation": "文)；注视；凝视（某人；某物",
@@ -10437,6 +12382,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "regatta",
+    "type": "word",
+    "pos": "N",
+    "translation": "划船比赛；赛艇会；缩写",
+    "analysis": "n sporting event at which races are held between rowing-boats or yachts 划船比赛; 赛艇会.\nregd\nabbr 缩写 = (commerce 商) registered.",
+    "phonetic": "/ rɪˈgtə; rɪˈgætə/",
+    "origin": "待查",
+    "expansions": [
+      "划船比赛；赛艇会；缩写"
+    ],
+    "pronunciation": "/ rɪˈgtə; rɪˈgætə/",
+    "accepted_answers": [
+      "划船比赛",
+      "赛艇会",
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "regency",
@@ -10552,6 +12522,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reggae",
+    "type": "word",
+    "pos": "N",
+    "translation": "西印度群岛的节奏很强的流行音乐和舞蹈",
+    "analysis": "n [U] type of West Indian popular music and dance with strong rhythms 西印度群岛的节奏很强的流行音乐和舞蹈.",
+    "phonetic": "/ ˈregeɪ; ˈrege/",
+    "origin": "待查",
+    "expansions": [
+      "西印度群岛的节奏很强的流行音乐和舞蹈"
+    ],
+    "pronunciation": "/ ˈregeɪ; ˈrege/",
+    "accepted_answers": [
+      "西印度群岛的节奏很强的流行音乐和舞蹈"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "regicide",
+    "type": "word",
+    "pos": "N",
+    "translation": "弑君罪；弑君者；弑君罪犯或从犯",
+    "analysis": "n  1 [U] crime of killing a king 弑君罪.  2 [C] person who commits or helps to commit this crime 弑君者; 弑君罪犯或从犯.",
+    "phonetic": "/ ˈredʒɪsaɪd; ˈredʒəˌsaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "弑君罪；弑君者；弑君罪犯或从犯"
+    ],
+    "pronunciation": "/ ˈredʒɪsaɪd; ˈredʒəˌsaɪd/",
+    "accepted_answers": [
+      "弑君罪",
+      "弑君者",
+      "弑君罪犯或从犯"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "regime",
@@ -10880,6 +12898,54 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "regius professor",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "钦定讲座教授（尤指牛津大学或剑桥大学的）（该职由君主钦定设立或由君主批准任命）",
+    "analysis": "(Brit) professor (esp at Oxford or Cambridge) holding a university chair which was founded by a king or queen, or is filled with the monarch's approval 钦定讲座教授（尤指牛津大学或剑桥大学的）（该职由君主钦定设立或由君主批准任命）.",
+    "phonetic": "/ ˌriːdʒɪəsprəˈfesə(r); ˌridʒɪəsprəˈfesə/",
+    "origin": "待查",
+    "expansions": [
+      "钦定讲座教授（尤指牛津大学或剑桥大学的）（该职由君主钦定设立或由君主批准任命）"
+    ],
+    "pronunciation": "/ ˌriːdʒɪəsprəˈfesə(r); ˌridʒɪəsprəˈfesə/",
+    "accepted_answers": [
+      "钦定讲座教授（尤指牛津大学或剑桥大学的）（该职由君主钦定设立或由君主批准任命）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/P/P-p,q,r.txt"
+  },
+  {
+    "term": "regress",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；文)；退步",
+    "analysis": "v [I, Ipr] ~ (to sth) (fml 文) return to an earlier or less advanced form or state 退步; 倒退; 回归; 退化.",
+    "phonetic": "/ rɪˈgres; rɪˈgres/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文)；退步"
+    ],
+    "pronunciation": "/ rɪˈgres; rɪˈgres/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "退步"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "regression",
     "type": "word",
     "pos": "N",
@@ -11145,6 +13211,29 @@
     }
   },
   {
+    "term": "regularization",
+    "type": "word",
+    "pos": "N",
+    "translation": "regularization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌregjUləraɪˈzeɪʃn; -rɪˈz-; ˌregjələrɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "regularization"
+    ],
+    "pronunciation": "/ ˌregjUləraɪˈzeɪʃn; -rɪˈz-; ˌregjələrɪˈzeʃən/",
+    "accepted_answers": [
+      "regularization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "regularize",
     "type": "word",
     "translation": "使（某事物）合法化或合乎规律；非法移民获得必要的居留证後即可使身分合法",
@@ -11315,6 +13404,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "regurgitation",
+    "type": "word",
+    "pos": "N",
+    "translation": "regurgitation",
+    "analysis": "n [U].",
+    "phonetic": "/ rɪˌgɜːdʒɪˈteɪʃn; riˌgɜːdʒəˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "regurgitation"
+    ],
+    "pronunciation": "/ rɪˌgɜːdʒɪˈteɪʃn; riˌgɜːdʒəˈteʃən/",
+    "accepted_answers": [
+      "regurgitation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "rehabilitate",
@@ -11625,6 +13737,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reincarnation",
+    "type": "word",
+    "pos": "N",
+    "translation": "转世说（认为人死後灵魂可投入另一人或动物之躯体内）；转世；（灵魂的）转世化身",
+    "analysis": "n (a) [U] belief that the soul enters a new (human or animal) body after death 转世说（认为人死後灵魂可投入另一人或动物之躯体内）. (b) [C] instance of this; new body inhabited in this way 转世; （灵魂的）转世化身.",
+    "phonetic": "/ ˌriːɪnkɑː:ˈneɪʃn; ˌriɪnkɑːrˈneʃən/",
+    "origin": "待查",
+    "expansions": [
+      "转世说（认为人死後灵魂可投入另一人或动物之躯体内）；转世；（灵魂的）转世化身"
+    ],
+    "pronunciation": "/ ˌriːɪnkɑː:ˈneɪʃn; ˌriɪnkɑːrˈneʃən/",
+    "accepted_answers": [
+      "转世说（认为人死後灵魂可投入另一人或动物之躯体内）",
+      "转世",
+      "（灵魂的）转世化身"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "reindeer",
@@ -12099,6 +14236,30 @@
       "比较的"
     ],
     "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "relativism",
+    "type": "word",
+    "pos": "N",
+    "translation": "相对主义（认为真理并非在任何时候、任何地方都站得住脚；而是受到人的认识水平的局限）",
+    "analysis": "n [U] belief that truth is not always and generally valid, but is limited by the nature of the human mind 相对主义（认为真理并非在任何时候、 任何地方都站得住脚, 而是受到人的认识水平的局限）.",
+    "phonetic": "/ ˈrelətɪvɪzəm; ˈrelətɪˌvɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "相对主义（认为真理并非在任何时候、任何地方都站得住脚；而是受到人的认识水平的局限）"
+    ],
+    "pronunciation": "/ ˈrelətɪvɪzəm; ˈrelətɪˌvɪzəm/",
+    "accepted_answers": [
+      "相对主义（认为真理并非在任何时候、任何地方都站得住脚",
+      "而是受到人的认识水平的局限）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -12674,6 +14835,31 @@
     }
   },
   {
+    "term": "reliquary",
+    "type": "word",
+    "pos": "N",
+    "translation": "盛放圣者遗骨或遗物的容器；圣骨箱；圣物箱",
+    "analysis": "n containerfor a relic or relics of a holy person 盛放圣者遗骨或遗物的容器; 圣骨箱; 圣物箱.",
+    "phonetic": "/ ˈrelɪkwərɪ; -kwerɪ; ˈreləˌkwerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "盛放圣者遗骨或遗物的容器；圣骨箱；圣物箱"
+    ],
+    "pronunciation": "/ ˈrelɪkwərɪ; -kwerɪ; ˈreləˌkwerɪ/",
+    "accepted_answers": [
+      "盛放圣者遗骨或遗物的容器",
+      "圣骨箱",
+      "圣物箱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "relish",
     "type": "word",
     "translation": "（美食等的）享受；滋味；美味",
@@ -12930,6 +15116,31 @@
     }
   },
   {
+    "term": "remake",
+    "type": "word",
+    "pos": "V",
+    "translation": "重新制作（尤指影片）；改造；重做",
+    "analysis": "v (pt, pp remade / -meId;-`med/) make (esp a film) again or differently 重新制作（尤指影片）; 改造; 重做.",
+    "phonetic": "/ ˌriːˈmeɪk; riˈmek/",
+    "origin": "待查",
+    "expansions": [
+      "重新制作（尤指影片）；改造；重做"
+    ],
+    "pronunciation": "/ ˌriːˈmeɪk; riˈmek/",
+    "accepted_answers": [
+      "重新制作（尤指影片）",
+      "改造",
+      "重做"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "remand",
     "type": "word",
     "translation": "尤用於被动语态；将（被告）还押（尤指为进一步搜集证据时）；被告还押候审一星期",
@@ -13019,6 +15230,29 @@
     "pronunciation": "/ -əblɪ; -əblɪ/",
     "accepted_answers": [
       "remarkably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "remarriage",
+    "type": "word",
+    "pos": "N",
+    "translation": "remarriage",
+    "analysis": "n.",
+    "phonetic": "/ ˌriːˈmærɪdʒ; riˈmærɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "remarriage"
+    ],
+    "pronunciation": "/ ˌriːˈmærɪdʒ; riˈmærɪdʒ/",
+    "accepted_answers": [
+      "remarriage"
     ],
     "added_at": "",
     "review": {
@@ -13707,6 +15941,31 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "remuneration",
+    "type": "word",
+    "pos": "N",
+    "translation": "文或修辞)；酬金；报酬",
+    "analysis": "n [U] (fml or rhet 文或修辞) payment; reward 酬金; 报酬.",
+    "phonetic": "/ rɪˌmjuːnəˈreɪʃn; rɪˌmjunəˈreʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文或修辞)；酬金；报酬"
+    ],
+    "pronunciation": "/ rɪˌmjuːnəˈreɪʃn; rɪˌmjunəˈreʃən/",
+    "accepted_answers": [
+      "文或修辞)",
+      "酬金",
+      "报酬"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "remunerative",
     "type": "word",
     "translation": "有报酬的；付酬的；有利益的",
@@ -13979,6 +16238,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "renege",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；违背诺言等；食言",
+    "analysis": "v (fml 文)  1 [I, Ipr] ~ (on sth) fail to keep a promise, one's word, etc 违背诺言等; 食言; 背信.  2 [I] (in card-games) revoke(2) （纸牌戏中）有牌而违例不跟.",
+    "phonetic": "/ rɪˈniːg,rɪˈneɪg; rɪˈnig,rɪˈneg/",
+    "origin": "待查",
+    "expansions": [
+      "文)；违背诺言等；食言"
+    ],
+    "pronunciation": "/ rɪˈniːg,rɪˈneɪg; rɪˈnig,rɪˈneg/",
+    "accepted_answers": [
+      "文)",
+      "违背诺言等",
+      "食言"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "renew",
@@ -14359,7 +16643,76 @@
     }
   },
   {
+    "term": "reorganisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "reorganisation",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ˌriːˌɔːgənaɪˈzeɪʃn; US-nɪˈz-; riˌɔːrgənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "reorganisation"
+    ],
+    "pronunciation": "/ ˌriːˌɔːgənaɪˈzeɪʃn; US-nɪˈz-; riˌɔːrgənəˈzeʃən/",
+    "accepted_answers": [
+      "reorganisation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reorganise",
+    "type": "word",
+    "pos": "V",
+    "translation": "重新组织、改组或整顿（某事物）",
+    "analysis": "v [I, Tn] organize (sth) again or in a new way 重新组织、 改组或整顿（某事物）.",
+    "phonetic": "/ ˌriːˈɔːgənaɪz; riˈɔːrgəˌnaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "重新组织、改组或整顿（某事物）"
+    ],
+    "pronunciation": "/ ˌriːˈɔːgənaɪz; riˈɔːrgəˌnaɪz/",
+    "accepted_answers": [
+      "重新组织、改组或整顿（某事物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reorganization",
+    "type": "word",
+    "pos": "N",
+    "translation": "reorganization",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ˌriːˌɔːgənaɪˈzeɪʃn; US-nɪˈz-; riˌɔːrgənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "reorganization"
+    ],
+    "pronunciation": "/ ˌriːˌɔːgənaɪˈzeɪʃn; US-nɪˈz-; riˌɔːrgənəˈzeʃən/",
+    "accepted_answers": [
+      "reorganization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reorganize",
     "type": "word",
     "pos": "V",
     "translation": "重新组织、改组或整顿（某事物）",
@@ -15360,6 +17713,30 @@
     }
   },
   {
+    "term": "reposeful",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "平静的；安静的",
+    "analysis": "adj calm; quiet 平静的; 安静的.",
+    "phonetic": "/ -fl; -fl/",
+    "origin": "待查",
+    "expansions": [
+      "平静的；安静的"
+    ],
+    "pronunciation": "/ -fl; -fl/",
+    "accepted_answers": [
+      "平静的",
+      "安静的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "repository",
     "type": "word",
     "translation": "贮藏或存放物品之处所；（尤指）仓库；栈房；博物馆；家具贮藏室",
@@ -15482,6 +17859,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reprehensibly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "reprehensibly",
+    "analysis": "adv.",
+    "phonetic": "/ -səblɪ; -səblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "reprehensibly"
+    ],
+    "pronunciation": "/ -səblɪ; -səblɪ/",
+    "accepted_answers": [
+      "reprehensibly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "represent",
@@ -15792,6 +18192,29 @@
     }
   },
   {
+    "term": "reproachfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "reproachfully",
+    "analysis": "adv.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "reproachfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "reproachfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reprobate",
     "type": "word",
     "translation": "文或谑)；)道德败坏的（人）；堕落的（人）",
@@ -15836,6 +18259,31 @@
       "再现某事物的形象或声音"
     ],
     "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reproducible",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "可复制的；可重现的；能繁殖的",
+    "analysis": "adj that can be reproduced 可复制的; 可重现的; 能繁殖的.",
+    "phonetic": "/ -əbl; -əbl/",
+    "origin": "待查",
+    "expansions": [
+      "可复制的；可重现的；能繁殖的"
+    ],
+    "pronunciation": "/ -əbl; -əbl/",
+    "accepted_answers": [
+      "可复制的",
+      "可重现的",
+      "能繁殖的"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -15941,6 +18389,32 @@
     }
   },
   {
+    "term": "reptile",
+    "type": "word",
+    "pos": "N",
+    "translation": "爬行动物（冷血；卵生；如蜥蜴、龟、鳄鱼、蛇等）；爬虫",
+    "analysis": "n any of the class ofcold-blooded, egg-laying animals including lizards, tortoises,crocodiles, snakes, etc with relatively short legs or no legs at all 爬行动物（冷血, 卵生, 如蜥蜴、 龟、 鳄鱼、 蛇等）; 爬虫.",
+    "phonetic": "/ ˈreptaɪl; -tl; ˈreptl/",
+    "origin": "待查",
+    "expansions": [
+      "爬行动物（冷血；卵生；如蜥蜴、龟、鳄鱼、蛇等）；爬虫"
+    ],
+    "pronunciation": "/ ˈreptaɪl; -tl; ˈreptl/",
+    "accepted_answers": [
+      "爬行动物（冷血",
+      "卵生",
+      "如蜥蜴、龟、鳄鱼、蛇等）",
+      "爬虫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reptilian",
     "type": "word",
     "pos": "N / Adj",
@@ -16013,6 +18487,31 @@
     }
   },
   {
+    "term": "republicanism",
+    "type": "word",
+    "pos": "N",
+    "translation": "共和主义；共和制；对共和制的拥护",
+    "analysis": "n [U] (support for) republican principles 共和主义; 共和制; 对共和制的拥护.\nRepublican Party \none of the two main political parties in the US （美国）共和党. Cf 参看 Democratic Party (democratic).",
+    "phonetic": "/ -ɪzəm; -ˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "共和主义；共和制；对共和制的拥护"
+    ],
+    "pronunciation": "/ -ɪzəm; -ˌɪzəm/",
+    "accepted_answers": [
+      "共和主义",
+      "共和制",
+      "对共和制的拥护"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "repudiate",
     "type": "word",
     "translation": "与（某人）断绝来往；否认；是自己的",
@@ -16036,6 +18535,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "repudiation",
+    "type": "word",
+    "pos": "N",
+    "translation": "repudiation",
+    "analysis": "n [U, C].",
+    "phonetic": "/ rɪˌpjuːdɪˈeɪʃn; rɪˌpjudɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "repudiation"
+    ],
+    "pronunciation": "/ rɪˌpjuːdɪˈeɪʃn; rɪˌpjudɪˈeʃən/",
+    "accepted_answers": [
+      "repudiation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "repugnance",
@@ -16181,6 +18703,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "reputably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "reputably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "reputably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "reputably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "reputation",
@@ -16871,6 +19416,52 @@
     }
   },
   {
+    "term": "reservedness",
+    "type": "word",
+    "pos": "N",
+    "translation": "reservedness",
+    "analysis": "n [U].",
+    "phonetic": "/ rɪˈzɜːvɪdnɪs; rɪˈzɜːvɪdnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "reservedness"
+    ],
+    "pronunciation": "/ rɪˈzɜːvɪdnɪs; rɪˈzɜːvɪdnɪs/",
+    "accepted_answers": [
+      "reservedness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reservist",
+    "type": "word",
+    "pos": "N",
+    "translation": "预备役军人",
+    "analysis": "n member of a country's reserve forces 预备役军人.",
+    "phonetic": "/ rɪˈzɜːvɪst; rɪˈzɜːvɪst/",
+    "origin": "待查",
+    "expansions": [
+      "预备役军人"
+    ],
+    "pronunciation": "/ rɪˈzɜːvɪst; rɪˈzɜːvɪst/",
+    "accepted_answers": [
+      "预备役军人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reservoir",
     "type": "word",
     "translation": "（天然的或人工的）水库；蓄水池；比喻)；储藏",
@@ -17198,6 +19789,30 @@
     }
   },
   {
+    "term": "resignedly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "顺从地；听之任之",
+    "analysis": "adv in a resigned manner 顺从地; 听之任之.",
+    "phonetic": "/ -nɪdlɪ; -nɪdlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "顺从地；听之任之"
+    ],
+    "pronunciation": "/ -nɪdlɪ; -nɪdlɪ/",
+    "accepted_answers": [
+      "顺从地",
+      "听之任之"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "resilience",
     "type": "word",
     "translation": "弹性；弹力；迅速恢复的能力",
@@ -17248,6 +19863,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "resin",
+    "type": "word",
+    "pos": "N",
+    "translation": "树脂（尤指冷杉树脂和松脂）；合成树脂",
+    "analysis": "n [C, U]  1 sticky substance that oozes esp from fir and pine trees and is used in making varnish, medicine, etc 树脂（尤指冷杉树脂和松脂）.  2 similar substance made synthetically, used as a plastic or in making plastics 合成树脂.",
+    "phonetic": "/ ˈrezɪn; ˈrezn; ˈrezn/",
+    "origin": "待查",
+    "expansions": [
+      "树脂（尤指冷杉树脂和松脂）；合成树脂"
+    ],
+    "pronunciation": "/ ˈrezɪn; ˈrezn; ˈrezn/",
+    "accepted_answers": [
+      "树脂（尤指冷杉树脂和松脂）",
+      "合成树脂"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "resinous",
@@ -17374,6 +20013,30 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "resit",
+    "type": "word",
+    "pos": "V",
+    "translation": "再行（考试或测验）；（通常指）补考",
+    "analysis": "v (-tt-; pt, pp resat) [Tn] (Brit) sit (an examination or test) again, usu after failing 再行（考试或测验）; （通常指）补考.",
+    "phonetic": "/ ˌriːˈsɪt; riˈsɪt/",
+    "origin": "待查",
+    "expansions": [
+      "再行（考试或测验）；（通常指）补考"
+    ],
+    "pronunciation": "/ ˌriːˈsɪt; riˈsɪt/",
+    "accepted_answers": [
+      "再行（考试或测验）",
+      "（通常指）补考"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "resolute",
     "type": "word",
     "translation": "坚决的；坚定的；有决心的",
@@ -17444,6 +20107,31 @@
       "决心"
     ],
     "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "resonance",
+    "type": "word",
+    "pos": "N",
+    "translation": "回响；回荡；洪亮",
+    "analysis": "n [U] quality of being resonant 回响; 回荡; 洪亮; 共鸣; 共振.\nresonantly \nadv.",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "回响；回荡；洪亮"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "回响",
+      "回荡",
+      "洪亮"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -17637,6 +20325,29 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "resourcefully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "resourcefully",
+    "analysis": "adv.\nresourcefulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "resourcefully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "resourcefully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "respect",
     "type": "word",
     "translation": "尊敬；敬重；钦敬",
@@ -17760,6 +20471,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "respectfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "respectfully",
+    "analysis": "adv.\nrespectfulness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "respectfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "respectfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "respective",
@@ -17996,6 +20730,30 @@
       "他却不回答"
     ],
     "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "respondent",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；被告（尤指离婚案的）",
+    "analysis": "n (law 律) defendant, esp in a divorce case 被告（尤指离婚案的）.",
+    "phonetic": "/ rɪˈspɒndənt; rɪˈspɑːndənt/",
+    "origin": "待查",
+    "expansions": [
+      "律)；被告（尤指离婚案的）"
+    ],
+    "pronunciation": "/ rɪˈspɒndənt; rɪˈspɑːndənt/",
+    "accepted_answers": [
+      "律)",
+      "被告（尤指离婚案的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -18257,6 +21015,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "restfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "休养疗法（通常须卧床；用以治疗因紧张、焦急等所致的疾病）；休息日（尤指国际板球赛期间的）；养老院",
+    "analysis": "adv.\nrestfulness \nn [U].\nrest area, rest stop \n(US) = lay-by.\nrest-cure \nn long period of rest, usu in bed, as medical treatment for stress, anxiety, etc 休养疗法（通常须卧床, 用以治疗因紧张、 焦急等所致的疾病）.\nrest-day \nn day spent resting, esp during an internationalcricket match 休息日（尤指国际板球赛期间的）.\nrest-home \nn place where old or convalescent people are cared for 养老院; 疗养院.\nrest-room \nn (US euph 婉) public lavatory in eg a theatre, store 盥洗室, 洗手间, 公共厕所（如剧院、 商店内的）. =>Usage at toilet 用法见 toilet.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "休养疗法（通常须卧床；用以治疗因紧张、焦急等所致的疾病）；休息日（尤指国际板球赛期间的）；养老院"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "休养疗法（通常须卧床",
+      "用以治疗因紧张、焦急等所致的疾病）",
+      "休息日（尤指国际板球赛期间的）",
+      "养老院"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "restitution",
@@ -19291,6 +22075,31 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "reticule",
+    "type": "word",
+    "pos": "N",
+    "translation": "古或谑)；（女用）小手提包（通常为网兜式；可收口）",
+    "analysis": "n (arch or joc 古或谑) woman's small bag, usu made of net, etc and shaped like a pouch with a drawstring neck （女用）小手提包（通常为网兜式, 可收口）.",
+    "phonetic": "/ ˈretɪkjuːl; ˈretɪˌkjul/",
+    "origin": "待查",
+    "expansions": [
+      "古或谑)；（女用）小手提包（通常为网兜式；可收口）"
+    ],
+    "pronunciation": "/ ˈretɪkjuːl; ˈretɪˌkjul/",
+    "accepted_answers": [
+      "古或谑)",
+      "（女用）小手提包（通常为网兜式",
+      "可收口）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "retina",
     "type": "word",
     "translation": "视网膜；插图",
@@ -19723,6 +22532,30 @@
     }
   },
   {
+    "term": "retrievable",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "尤作计算机术语)；可检索的",
+    "analysis": "adj (esp computing 尤作计算机术语) that can be retrieved 可检索的.",
+    "phonetic": "/ -əbl; -əbl/",
+    "origin": "待查",
+    "expansions": [
+      "尤作计算机术语)；可检索的"
+    ],
+    "pronunciation": "/ -əbl; -əbl/",
+    "accepted_answers": [
+      "尤作计算机术语)",
+      "可检索的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "retrieval",
     "type": "word",
     "translation": "文)；重获；取回",
@@ -19776,6 +22609,30 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "retro-rocket",
+    "type": "word",
+    "pos": "N",
+    "translation": "制动火箭；减速火箭",
+    "analysis": "n rocket engine providing power in the opposite direction to the path of flight and used to slow down or alter the course of a spacecraft, etc 制动火箭; 减速火箭.",
+    "phonetic": "/ ˈretrəʊrɒkɪt; ˈretroˌrɑːkɪt/",
+    "origin": "待查",
+    "expansions": [
+      "制动火箭；减速火箭"
+    ],
+    "pronunciation": "/ ˈretrəʊrɒkɪt; ˈretroˌrɑːkɪt/",
+    "accepted_answers": [
+      "制动火箭",
+      "减速火箭"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "retroactive",
     "type": "word",
     "translation": "文)；溯及既往的；有追溯效力的",
@@ -19799,6 +22656,31 @@
     }
   },
   {
+    "term": "retroflex",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "语音)(；（指声音）卷舌的；卷舌音的",
+    "analysis": "(also retroflexed /-kst; -kst/) adj [attrib 作定语] (phonetics 语音) (of a sound) made by bending the tip of the tongue upwards and backwards （指声音）卷舌的, 卷舌音的.",
+    "phonetic": "/ ˈretrəfleks; ˈretrəˌfleks/",
+    "origin": "待查",
+    "expansions": [
+      "语音)(；（指声音）卷舌的；卷舌音的"
+    ],
+    "pronunciation": "/ ˈretrəfleks; ˈretrəˌfleks/",
+    "accepted_answers": [
+      "语音)(",
+      "（指声音）卷舌的",
+      "卷舌音的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "retrograde",
     "type": "word",
     "translation": "文)；向後的；後退的",
@@ -19820,6 +22702,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "retrogress",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；文)；後退",
+    "analysis": "v [I, Ipr] ~ (to sth) (fml 文)  1 go backwards 後退; 倒退.  2 get worse or deteriorate 恶化; 衰退.",
+    "phonetic": "/ ˌretrəˈgres; ˌretrəˈgres/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文)；後退"
+    ],
+    "pronunciation": "/ ˌretrəˈgres; ˌretrəˈgres/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "後退"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "retrogression",
@@ -19967,6 +22874,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "retsina",
+    "type": "word",
+    "pos": "N",
+    "translation": "一种带有松香味的希腊葡萄酒",
+    "analysis": "n [U, C] Greek wine flavoured with resin 一种带有松香味的希腊葡萄酒.",
+    "phonetic": "/ retˈsiːnə; ˈretsɪnə; ˈretsɪnə/",
+    "origin": "待查",
+    "expansions": [
+      "一种带有松香味的希腊葡萄酒"
+    ],
+    "pronunciation": "/ retˈsiːnə; ˈretsɪnə; ˈretsɪnə/",
+    "accepted_answers": [
+      "一种带有松香味的希腊葡萄酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "return",
@@ -20682,6 +23612,29 @@
     }
   },
   {
+    "term": "reverentially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "reverentially",
+    "analysis": "adv.",
+    "phonetic": "/ -ʃəlɪ; -ʃəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "reverentially"
+    ],
+    "pronunciation": "/ -ʃəlɪ; -ʃəlɪ/",
+    "accepted_answers": [
+      "reverentially"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "reverie",
     "type": "word",
     "translation": "幻想；空想；遐想",
@@ -20704,6 +23657,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "revers",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变；)(；通常作复数)",
+    "analysis": "n (pl unchanged 复数不变 /-IEz; -Irz/) (usu pl 通常作复数) edge of a coat, jacket, etc, turned back to show the reverse side (eg on a lapel or cuff) （大衣、 外套等的）翻边（如翻领或翻袖口的）.",
+    "phonetic": "/ rɪˈvɪə(r); rəˈvɪr/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变；)(；通常作复数)"
+    ],
+    "pronunciation": "/ rɪˈvɪə(r); rəˈvɪr/",
+    "accepted_answers": [
+      "复数不变",
+      ")(",
+      "通常作复数)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "reversal",
@@ -20750,6 +23728,29 @@
       "过程"
     ],
     "added_at": "2026-03-30T02:51:11.067Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "reversibility",
+    "type": "word",
+    "pos": "N",
+    "translation": "倒车灯（倒车时使用的白色灯）",
+    "analysis": "n [U].\nreversing light \nwhite light at the back of a vehicle showing that it is in reverse gear 倒车灯（倒车时使用的白色灯）.",
+    "phonetic": "/ rɪˌvɜːsəˈbɪlətɪ; rɪˌvɜːsəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "倒车灯（倒车时使用的白色灯）"
+    ],
+    "pronunciation": "/ rɪˌvɜːsəˈbɪlətɪ; rɪˌvɜːsəˈbɪlətɪ/",
+    "accepted_answers": [
+      "倒车灯（倒车时使用的白色灯）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -20850,6 +23851,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "revertible",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "revertible",
+    "analysis": "adj.",
+    "phonetic": "/ rɪˈvɜːtəbl; rɪˈvɜːtəbl/",
+    "origin": "待查",
+    "expansions": [
+      "revertible"
+    ],
+    "pronunciation": "/ rɪˈvɜːtəbl; rɪˈvɜːtəbl/",
+    "accepted_answers": [
+      "revertible"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
+    "term": "revetment",
+    "type": "word",
+    "pos": "N",
+    "translation": "铺面；砌面（护墙或护堤所用的砖石、混凝土、沙袋等结构）（尤指用於工事的）；挡土墙；拥壁",
+    "analysis": "n  1 facing of masonry,concrete, sandbags, etc on a wall or an embankment, esp of a fortification 铺面, 砌面（护墙或护堤所用的砖石、 混凝土、 沙袋等结构）（尤指用於工事的）.  2 retaining wall 挡土墙; 拥壁.",
+    "phonetic": "/ rɪˈvetmənt; rɪˈvetmənt/",
+    "origin": "待查",
+    "expansions": [
+      "铺面；砌面（护墙或护堤所用的砖石、混凝土、沙袋等结构）（尤指用於工事的）；挡土墙；拥壁"
+    ],
+    "pronunciation": "/ rɪˈvetmənt; rɪˈvetmənt/",
+    "accepted_answers": [
+      "铺面",
+      "砌面（护墙或护堤所用的砖石、混凝土、沙袋等结构）（尤指用於工事的）",
+      "挡土墙",
+      "拥壁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "review",
@@ -20971,6 +24021,30 @@
     "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
+    "term": "revisionism",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤作贬义)；修正主义（尤指针对马克思主义的）",
+    "analysis": "n [U] (esp derog 尤作贬义) changes to, or questioning of, orthodox political doctrines or practices, esp Marxism 修正主义（尤指针对马克思主义的）.",
+    "phonetic": "/ rɪˈvɪʒənɪzəm; rɪˈvɪʒənˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "尤作贬义)；修正主义（尤指针对马克思主义的）"
+    ],
+    "pronunciation": "/ rɪˈvɪʒənɪzəm; rɪˈvɪʒənˌɪzəm/",
+    "accepted_answers": [
+      "尤作贬义)",
+      "修正主义（尤指针对马克思主义的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "revisionist",
     "type": "word",
     "translation": "修正主义倾向",
@@ -21041,6 +24115,29 @@
     }
   },
   {
+    "term": "revitalization",
+    "type": "word",
+    "pos": "N",
+    "translation": "revitalization",
+    "analysis": "n [U].",
+    "phonetic": "/ riːˌvaɪtəlaɪˈzeɪʃn; -lɪˈz-; ˌrivaɪtlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "revitalization"
+    ],
+    "pronunciation": "/ riːˌvaɪtəlaɪˈzeɪʃn; -lɪˈz-; ˌrivaɪtlɪˈzeʃən/",
+    "accepted_answers": [
+      "revitalization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
+  },
+  {
     "term": "revitalize",
     "type": "word",
     "translation": "使（某事物）恢复生机；使新生；使再兴",
@@ -21093,6 +24190,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "revivalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "宗教奋兴运动",
+    "analysis": "n [U] process of reawakening religious faith 宗教奋兴运动.",
+    "phonetic": "/ -vəlɪzəm; -vlɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "宗教奋兴运动"
+    ],
+    "pronunciation": "/ -vəlɪzəm; -vlɪzəm/",
+    "accepted_answers": [
+      "宗教奋兴运动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-b,c,d,e.txt"
   },
   {
     "term": "revivalist",
@@ -21654,6 +24774,31 @@
     "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
+    "term": "rhapsodize",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；尤作反语)；)极热情地说或写（某人",
+    "analysis": "v [I, Ipr] ~ (about/over sb/sth) (esp ironic 尤作反语) talk or write with great enthusiasm (about sb/sth) 极热情地说或写（某人[某事物]的事）.",
+    "phonetic": "/ ˈræpsədaɪz; ˈræpsəˌdaɪz/",
+    "origin": "待查",
+    "expansions": [
+      ")(；尤作反语)；)极热情地说或写（某人"
+    ],
+    "pronunciation": "/ ˈræpsədaɪz; ˈræpsəˌdaɪz/",
+    "accepted_answers": [
+      ")(",
+      "尤作反语)",
+      ")极热情地说或写（某人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "rhapsody",
     "type": "word",
     "translation": "音)(；常用於标题)；狂想曲",
@@ -21675,6 +24820,52 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rhea",
+    "type": "word",
+    "pos": "N",
+    "translation": "美洲鸵鸟（南美洲产之三趾鸵鸟）",
+    "analysis": "n three-toed ostrich of S America 美洲鸵鸟（南美洲产之三趾鸵鸟）.",
+    "phonetic": "/ rɪə; ˈriə/",
+    "origin": "待查",
+    "expansions": [
+      "美洲鸵鸟（南美洲产之三趾鸵鸟）"
+    ],
+    "pronunciation": "/ rɪə; ˈriə/",
+    "accepted_answers": [
+      "美洲鸵鸟（南美洲产之三趾鸵鸟）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
+    "term": "rheostat",
+    "type": "word",
+    "pos": "N",
+    "translation": "变阻器",
+    "analysis": "n instrument used to control the current in an electrical circuit by varying the resistance in it 变阻器.",
+    "phonetic": "/ ˈriːəstæt; ˈriəˌstæt/",
+    "origin": "待查",
+    "expansions": [
+      "变阻器"
+    ],
+    "pronunciation": "/ ˈriːəstæt; ˈriəˌstæt/",
+    "accepted_answers": [
+      "变阻器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
     "term": "rhesus",
@@ -21759,6 +24950,29 @@
     }
   },
   {
+    "term": "rhetorically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": ")反问（如",
+    "analysis": "adv.\nrhetorical question \nquestion asked only for dramatic effect and not to seek an answer, eg Who cares? (ie Nobody cares) 反问（如 Who cares? 即 Nobody cares）.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      ")反问（如"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      ")反问（如"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "rheumatic",
     "type": "word",
     "translation": "风湿病的；引起风湿病的；风湿病造成的",
@@ -21831,6 +25045,29 @@
     "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
+    "term": "rhinestone",
+    "type": "word",
+    "pos": "N",
+    "translation": "莱茵石（仿钻石制品）",
+    "analysis": "n imitation diamond 莱茵石（仿钻石制品）.",
+    "phonetic": "/ ˈraɪnstəʊn; ˈraɪnˌston/",
+    "origin": "待查",
+    "expansions": [
+      "莱茵石（仿钻石制品）"
+    ],
+    "pronunciation": "/ ˈraɪnstəʊn; ˈraɪnˌston/",
+    "accepted_answers": [
+      "莱茵石（仿钻石制品）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "rhino",
     "type": "word",
     "translation": "复数或不变或作；)(；口)",
@@ -21870,6 +25107,54 @@
       "复数或不变或作",
       "犀牛（产於非洲及亚洲南部）",
       "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
+    "term": "rhizome",
+    "type": "word",
+    "pos": "N",
+    "translation": "植)；根茎；根状茎",
+    "analysis": "n (botany 植) root-like stem of some plants, growing along or under the ground and sending out both roots and shoots 根茎; 根状茎. =>illus at App 1 见附录1插图, page ii.",
+    "phonetic": "/ ˈraɪzəʊm; ˈraɪzom/",
+    "origin": "待查",
+    "expansions": [
+      "植)；根茎；根状茎"
+    ],
+    "pronunciation": "/ ˈraɪzəʊm; ˈraɪzom/",
+    "accepted_answers": [
+      "植)",
+      "根茎",
+      "根状茎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
+    "term": "rhododendron",
+    "type": "word",
+    "pos": "N",
+    "translation": "杜鹃花",
+    "analysis": "(US also rosebay) n evergreen shrub with large clusters of trumpet-shaped red, purple, pink or white flowers 杜鹃花.",
+    "phonetic": "/ ˌrəʊdəˈdendrən; ˌrodəˈdendrən/",
+    "origin": "待查",
+    "expansions": [
+      "杜鹃花"
+    ],
+    "pronunciation": "/ ˌrəʊdəˈdendrən; ˌrodəˈdendrən/",
+    "accepted_answers": [
+      "杜鹃花"
     ],
     "added_at": "",
     "review": {
@@ -22259,6 +25544,33 @@
     }
   },
   {
+    "term": "richter scale",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "地质)；里克特震级；里氏震级（测定地震强度的标度；从；级）",
+    "analysis": "(geology 地质) scale from 0 to 8 for measuring the intensity of earthquakes 里克特震级, 里氏震级（测定地震强度的标度, 从0到8级）.",
+    "phonetic": "/ ˌrɪktəˈskeɪl; ˌrɪktəˈskel/",
+    "origin": "待查",
+    "expansions": [
+      "地质)；里克特震级；里氏震级（测定地震强度的标度；从；级）"
+    ],
+    "pronunciation": "/ ˌrɪktəˈskeɪl; ˌrɪktəˈskel/",
+    "accepted_answers": [
+      "地质)",
+      "里克特震级",
+      "里氏震级（测定地震强度的标度",
+      "从",
+      "级）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "rick",
     "type": "word",
     "translation": "轻度扭伤；轻度扭伤（关节等）；扭伤足踝、手腕、背",
@@ -22282,6 +25594,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rickets",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "佝偻病",
+    "analysis": "n [sing or pl v] children's disease caused by a lack of vitamin D, resulting in softening and deformity of the bones and enlargement of the liver and spleen 佝偻病.",
+    "phonetic": "/ ˈrɪkɪts; ˈrɪkɪts/",
+    "origin": "待查",
+    "expansions": [
+      "佝偻病"
+    ],
+    "pronunciation": "/ ˈrɪkɪts; ˈrɪkɪts/",
+    "accepted_answers": [
+      "佝偻病"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
     "term": "rickety",
@@ -23104,6 +26439,29 @@
     }
   },
   {
+    "term": "rime",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤作修辞)",
+    "analysis": "n [U] (esp rhet 尤作修辞) frost 霜.",
+    "phonetic": "/ raɪm; raɪm/",
+    "origin": "待查",
+    "expansions": [
+      "尤作修辞)"
+    ],
+    "pronunciation": "/ raɪm; raɪm/",
+    "accepted_answers": [
+      "尤作修辞)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "rind",
     "type": "word",
     "translation": "某些水果（如橘子、柠檬）的硬皮；乾酪、腌肉等的外皮；切掉腌肉的皮",
@@ -23154,6 +26512,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ringlet",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤作复数；下垂的长鬈发",
+    "analysis": "n [C esp pl 尤作复数] long curl of hair hanging down from sb's head 下垂的长鬈发.\nrink\n=> ice-rink (ice1), skating-rink (skate1).",
+    "phonetic": "/ ˈrɪŋlɪt; ˈrɪŋlɪt/",
+    "origin": "待查",
+    "expansions": [
+      "尤作复数；下垂的长鬈发"
+    ],
+    "pronunciation": "/ ˈrɪŋlɪt; ˈrɪŋlɪt/",
+    "accepted_answers": [
+      "尤作复数",
+      "下垂的长鬈发"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
     "term": "rinse",
@@ -23257,6 +26639,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rip-tide",
+    "type": "word",
+    "pos": "N",
+    "translation": "（造成巨浪和急流的）大潮",
+    "analysis": "n tide causing strong currents and rough water （造成巨浪和急流的）大潮.",
+    "phonetic": "/ ˈrɪptaɪd; ˈrɪpˌtaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "（造成巨浪和急流的）大潮"
+    ],
+    "pronunciation": "/ ˈrɪptaɪd; ˈrɪpˌtaɪd/",
+    "accepted_answers": [
+      "（造成巨浪和急流的）大潮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
     "term": "riparian",
@@ -23459,6 +26864,52 @@
     }
   },
   {
+    "term": "riskily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "riskily",
+    "analysis": "adv.\nriskiness \nn [U].",
+    "phonetic": "/ -ɪlɪ; -ɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "riskily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -ɪlɪ/",
+    "accepted_answers": [
+      "riskily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
+    "term": "risotto",
+    "type": "word",
+    "pos": "N",
+    "translation": "意大利汤饭（有时有蔬菜、海味等）",
+    "analysis": "n (pl ~s) [C, U] Italian dish of rice cooked in stock, to which vegetables, seafood, etc may be added 意大利汤饭（有时有蔬菜、 海味等）.",
+    "phonetic": "/ rɪˈzɒtəʊ; rɪˈzɔːto/",
+    "origin": "待查",
+    "expansions": [
+      "意大利汤饭（有时有蔬菜、海味等）"
+    ],
+    "pronunciation": "/ rɪˈzɒtəʊ; rɪˈzɔːto/",
+    "accepted_answers": [
+      "意大利汤饭（有时有蔬菜、海味等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "risque",
     "type": "word",
     "pos": "Adj",
@@ -23473,6 +26924,30 @@
     "accepted_answers": [
       "（指故事、言语、衣著等）颇为下流的",
       "有伤风化的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
+    "term": "rissole",
+    "type": "word",
+    "pos": "N",
+    "translation": "（用肉末或鱼末混以马铃薯或面包屑煎炸而成的）炸肉饼；炸丸子",
+    "analysis": "n small flat cake or ball of minced meat or fish mixed with potato or breadcrumbs and fried （用肉末或鱼末混以马铃薯或面包屑煎炸而成的）炸肉饼, 炸丸子.",
+    "phonetic": "/ ˈrɪsəʊl; ˈrɪsol/",
+    "origin": "待查",
+    "expansions": [
+      "（用肉末或鱼末混以马铃薯或面包屑煎炸而成的）炸肉饼；炸丸子"
+    ],
+    "pronunciation": "/ ˈrɪsəʊl; ˈrɪsol/",
+    "accepted_answers": [
+      "（用肉末或鱼末混以马铃薯或面包屑煎炸而成的）炸肉饼",
+      "炸丸子"
     ],
     "added_at": "",
     "review": {
@@ -23505,6 +26980,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ritzy",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")(；旧；口)；豪华的",
+    "analysis": "adj (-ier, -iest) (dated infml 旧, 口) luxurious; elegant 豪华的; 优美的; 文雅的.",
+    "phonetic": "/ ˈrɪtsɪ; ˈrɪtsɪ/",
+    "origin": "待查",
+    "expansions": [
+      ")(；旧；口)；豪华的"
+    ],
+    "pronunciation": "/ ˈrɪtsɪ; ˈrɪtsɪ/",
+    "accepted_answers": [
+      ")(",
+      "旧",
+      "口)",
+      "豪华的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
   },
   {
     "term": "rival",
@@ -23681,6 +27182,30 @@
     }
   },
   {
+    "term": "riyal",
+    "type": "word",
+    "pos": "N",
+    "translation": "里亚尔（迪拜酋长国和卡塔尔国的货币单位）；里亚尔（沙特阿拉伯和阿拉伯也门共和国的货币单位）",
+    "analysis": "n  1 unit of money in Dubai and Qatar 里亚尔（迪拜酋长国和卡塔尔国的货币单位）.  2 (also rial) unit of money in Saudi Arabia and the Yemen Arab Republic 里亚尔（沙特阿拉伯和阿拉伯也门共和国的货币单位）.",
+    "phonetic": "/ riːˈɑː:l; riˈɑːl/",
+    "origin": "待查",
+    "expansions": [
+      "里亚尔（迪拜酋长国和卡塔尔国的货币单位）；里亚尔（沙特阿拉伯和阿拉伯也门共和国的货币单位）"
+    ],
+    "pronunciation": "/ riːˈɑː:l; riˈɑːl/",
+    "accepted_answers": [
+      "里亚尔（迪拜酋长国和卡塔尔国的货币单位）",
+      "里亚尔（沙特阿拉伯和阿拉伯也门共和国的货币单位）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-f,g,h,i.txt"
+  },
+  {
     "term": "rm",
     "type": "word",
     "translation": "缩写；皇家海军陆战队；皇家海军陆战队上尉汤姆·普伦",
@@ -23753,6 +27278,30 @@
     "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
+    "term": "rnib",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；皇家全国盲人协会",
+    "analysis": "abbr 缩写 =  (Brit) Royal National Institute for the Blind 皇家全国盲人协会.",
+    "phonetic": "/ ˌɑː:renaɪˈbiː; ˌɑːrenaɪˈbi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；皇家全国盲人协会"
+    ],
+    "pronunciation": "/ ˌɑː:renaɪˈbiː; ˌɑːrenaɪˈbi/",
+    "accepted_answers": [
+      "缩写",
+      "皇家全国盲人协会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rnli",
     "type": "word",
     "pos": "word",
@@ -23767,6 +27316,30 @@
     "accepted_answers": [
       "缩写",
       "皇家全国救生艇协会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "roach",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)；拟鲤（一种鲤科淡水小鱼）",
+    "analysis": "n (pl unchanged 复数不变) small freshwater fish of the carp family 拟鲤（一种鲤科淡水小鱼）.",
+    "phonetic": "/ rəʊtʃ; rotʃ/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)；拟鲤（一种鲤科淡水小鱼）"
+    ],
+    "pronunciation": "/ rəʊtʃ; rotʃ/",
+    "accepted_answers": [
+      "复数不变)",
+      "拟鲤（一种鲤科淡水小鱼）"
     ],
     "added_at": "",
     "review": {
@@ -24030,6 +27603,33 @@
     }
   },
   {
+    "term": "robin",
+    "type": "word",
+    "pos": "N",
+    "translation": "鸲；欧洲鸲（褐色小鸟；胸部红色）；见附录；插图",
+    "analysis": "n  1 (also ,robin `redbreast) small brown red-breasted bird 鸲, 欧洲鸲（褐色小鸟, 胸部红色）. =>illus at App 1 见附录1插图, page iv.  2 (US) type of N American thrush resembling this （北美的）知更鸟（似欧洲鸲）.",
+    "phonetic": "/ ˈrɒbɪn; ˈrɑːbɪn/",
+    "origin": "待查",
+    "expansions": [
+      "鸲；欧洲鸲（褐色小鸟；胸部红色）；见附录；插图"
+    ],
+    "pronunciation": "/ ˈrɒbɪn; ˈrɑːbɪn/",
+    "accepted_answers": [
+      "鸲",
+      "欧洲鸲（褐色小鸟",
+      "胸部红色）",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "robot",
     "type": "word",
     "translation": "机器人；在汽车制造厂里；生产线上的许多工作现在是由机器人来完成的；尤作贬义)",
@@ -24229,6 +27829,30 @@
     }
   },
   {
+    "term": "rococo",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "洛可可式的（；世纪盛行於欧洲的家具、建筑、音乐等精致的装饰艺术风格）",
+    "analysis": "adj of a style of decorationin furniture, architecture, music, etc with much elaboratedecoration, common in Europe in the 18th century 洛可可式的（ 18 世纪盛行於欧洲的家具、 建筑、 音乐等精致的装饰艺术风格）.",
+    "phonetic": "/ rəˈkəʊkəʊ; rəˈkoko/",
+    "origin": "待查",
+    "expansions": [
+      "洛可可式的（；世纪盛行於欧洲的家具、建筑、音乐等精致的装饰艺术风格）"
+    ],
+    "pronunciation": "/ rəˈkəʊkəʊ; rəˈkoko/",
+    "accepted_answers": [
+      "洛可可式的（",
+      "世纪盛行於欧洲的家具、建筑、音乐等精致的装饰艺术风格）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rod",
     "type": "word",
     "translation": "常用以构成复合词)；（木质或金属的）杆；竿；棍；棒；挂帘子的杆子",
@@ -24255,6 +27879,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rodent",
+    "type": "word",
+    "pos": "N",
+    "translation": "啮齿目动物（如鼠、松鼠或海狸）",
+    "analysis": "n type of small animal that gnaws things with its strong front teeth, eg a rat, squirrel or beaver 啮齿目动物（如鼠、 松鼠或海狸）.",
+    "phonetic": "/ ˈrəʊdnt; ˈrodnt/",
+    "origin": "待查",
+    "expansions": [
+      "啮齿目动物（如鼠、松鼠或海狸）"
+    ],
+    "pronunciation": "/ ˈrəʊdnt; ˈrodnt/",
+    "accepted_answers": [
+      "啮齿目动物（如鼠、松鼠或海狸）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "rodeo",
+    "type": "word",
+    "pos": "N",
+    "translation": "（在牧场中）驱集牛群（为打烙印等）；牛仔竞技表演或比赛（表演掷套索、骑牛、驯马等）",
+    "analysis": "n (pl ~s) 1 rounding up of cattle on a ranch, for branding, etc（在牧场中）驱集牛群（为打烙印等）.  2 exhibition or contest of cowboys' skill in lassoing and riding cattle, untamed horses, etc 牛仔竞技表演或比赛（表演掷套索、 骑牛、 驯马等）.",
+    "phonetic": "/ rəʊˈdeɪəʊ; ˈrəʊdɪəʊ; ˈrodɪˌo/",
+    "origin": "待查",
+    "expansions": [
+      "（在牧场中）驱集牛群（为打烙印等）；牛仔竞技表演或比赛（表演掷套索、骑牛、驯马等）"
+    ],
+    "pronunciation": "/ rəʊˈdeɪəʊ; ˈrəʊdɪəʊ; ˈrodɪˌo/",
+    "accepted_answers": [
+      "（在牧场中）驱集牛群（为打烙印等）",
+      "牛仔竞技表演或比赛（表演掷套索、骑牛、驯马等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "rodomontade",
@@ -24356,6 +28027,32 @@
     "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
+    "term": "roger",
+    "type": "word",
+    "pos": "word",
+    "translation": "（无线电通讯用语）信息收到；明白；口或谑)；好的",
+    "analysis": "interj  1 (in radio communications) your message has been received and understood （无线电通讯用语）信息收到, 明白.  2 (Brit infml or joc 口或谑) okay 好的; 可以; 行; 对.",
+    "phonetic": "/ ˈrɒdʒə(r); ˈrɑːdʒə/",
+    "origin": "待查",
+    "expansions": [
+      "（无线电通讯用语）信息收到；明白；口或谑)；好的"
+    ],
+    "pronunciation": "/ ˈrɒdʒə(r); ˈrɑːdʒə/",
+    "accepted_answers": [
+      "（无线电通讯用语）信息收到",
+      "明白",
+      "口或谑)",
+      "好的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rogue",
     "type": "word",
     "translation": "旧)；不诚实或不道德的男子；无耻之徒",
@@ -24379,6 +28076,29 @@
     }
   },
   {
+    "term": "roguery",
+    "type": "word",
+    "pos": "N",
+    "translation": "不诚实的、不道德的或调皮捣蛋的行为",
+    "analysis": "n [C, U] (instance of) dishonest, unprincipled or mischievous behaviour 不诚实的、 不道德的或调皮捣蛋的行为.",
+    "phonetic": "/ ˈrəʊgərɪ; ˈrogərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "不诚实的、不道德的或调皮捣蛋的行为"
+    ],
+    "pronunciation": "/ ˈrəʊgərɪ; ˈrogərɪ/",
+    "accepted_answers": [
+      "不诚实的、不道德的或调皮捣蛋的行为"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "roguish",
     "type": "word",
     "translation": "调皮的；淘气的；恶作剧的",
@@ -24400,6 +28120,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "roisterer",
+    "type": "word",
+    "pos": "N",
+    "translation": "roisterer",
+    "analysis": "n.",
+    "phonetic": "/ ˈrɔːɪstərə(r); ˈrɔːɪstərə/",
+    "origin": "待查",
+    "expansions": [
+      "roisterer"
+    ],
+    "pronunciation": "/ ˈrɔːɪstərə(r); ˈrɔːɪstərə/",
+    "accepted_answers": [
+      "roisterer"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "roistering",
@@ -24623,6 +28366,31 @@
     }
   },
   {
+    "term": "romance",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "罗曼语的（由拉丁语演变而成的语言；如法语、意大利语、西班牙语）；参看",
+    "analysis": "adj [attrib 作定语] of those languages (the Romance languages) which are descended from Latin, eg French, Italian, Spanish 罗曼语的（由拉丁语演变而成的语言, 如法语、 意大利语、 西班牙语）. Cf 参看 Latin 2.",
+    "phonetic": "/ rəʊˈmnæs; roˈmæns/",
+    "origin": "待查",
+    "expansions": [
+      "罗曼语的（由拉丁语演变而成的语言；如法语、意大利语、西班牙语）；参看"
+    ],
+    "pronunciation": "/ rəʊˈmnæs; roˈmæns/",
+    "accepted_answers": [
+      "罗曼语的（由拉丁语演变而成的语言",
+      "如法语、意大利语、西班牙语）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "romanesque",
     "type": "word",
     "translation": "罗马风格（的）；罗马式（的）（约；年至；年流行於欧洲的建筑风格；以使用圆拱、厚墙、巨大拱顶等为特徵）",
@@ -24727,6 +28495,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "romanticism",
+    "type": "word",
+    "pos": "N",
+    "translation": "浪漫的感情、态度或行为；（文艺及音乐中的）浪漫主义；参看",
+    "analysis": "n [U]  1 romantic feelings, attitudes or behaviour 浪漫的感情、 态度或行为.  2 (also Romanticism) Romantic tendency in literature, art and music （文艺及音乐中的）浪漫主义. Cf 参看 classicism, idealism 2, realism 2.",
+    "phonetic": "/ rəʊˈmæntɪsɪzəm; roˈmæntəˌsɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "浪漫的感情、态度或行为；（文艺及音乐中的）浪漫主义；参看"
+    ],
+    "pronunciation": "/ rəʊˈmæntɪsɪzəm; roˈmæntəˌsɪzəm/",
+    "accepted_answers": [
+      "浪漫的感情、态度或行为",
+      "（文艺及音乐中的）浪漫主义",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "romanticist",
+    "type": "word",
+    "pos": "N",
+    "translation": "romanticist",
+    "analysis": "n.",
+    "phonetic": "/ -tɪsɪst; -təsɪst/",
+    "origin": "待查",
+    "expansions": [
+      "romanticist"
+    ],
+    "pronunciation": "/ -tɪsɪst; -təsɪst/",
+    "accepted_answers": [
+      "romanticist"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "romanticize",
@@ -24903,6 +28719,29 @@
     }
   },
   {
+    "term": "rook",
+    "type": "word",
+    "pos": "N",
+    "translation": "秃鼻乌鸦",
+    "analysis": "n large black crow that nests in colonies 秃鼻乌鸦.",
+    "phonetic": "/ rUk; rJk/",
+    "origin": "待查",
+    "expansions": [
+      "秃鼻乌鸦"
+    ],
+    "pronunciation": "/ rUk; rJk/",
+    "accepted_answers": [
+      "秃鼻乌鸦"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rookery",
     "type": "word",
     "pos": "N",
@@ -25027,6 +28866,29 @@
     }
   },
   {
+    "term": "rooster",
+    "type": "word",
+    "pos": "N",
+    "translation": "rooster",
+    "analysis": "n (esp US) = cock1 1.",
+    "phonetic": "/ ˈruːstə(r); ˈrustə/",
+    "origin": "待查",
+    "expansions": [
+      "rooster"
+    ],
+    "pronunciation": "/ ˈruːstə(r); ˈrustə/",
+    "accepted_answers": [
+      "rooster"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "root",
     "type": "word",
     "translation": "（植物的）根（部）；根部很长的植物；把一植物连根拔起",
@@ -25103,6 +28965,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "roquefort",
+    "type": "word",
+    "pos": "N",
+    "translation": "罗克福尔乾酪（用羊奶制成；有蓝色霉菌花纹）",
+    "analysis": "n [U] type of blue cheese made from ewes' milk 罗克福尔乾酪（用羊奶制成, 有蓝色霉菌花纹）.",
+    "phonetic": "/ ˈrɒkfɔː(r); ˈrəʊkfərt; ˈrokfət/",
+    "origin": "待查",
+    "expansions": [
+      "罗克福尔乾酪（用羊奶制成；有蓝色霉菌花纹）"
+    ],
+    "pronunciation": "/ ˈrɒkfɔː(r); ˈrəʊkfərt; ˈrokfət/",
+    "accepted_answers": [
+      "罗克福尔乾酪（用羊奶制成",
+      "有蓝色霉菌花纹）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "roro",
@@ -25200,6 +29086,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rosemary",
+    "type": "word",
+    "pos": "N",
+    "translation": "迷迭香（一种常绿灌木的叶子；有香味；用作调味品）；迷迭香（指灌木）",
+    "analysis": "n [U](a) fragrant leaves of a type of evergreen shrub, used for flavouring food 迷迭香（一种常绿灌木的叶子, 有香味, 用作调味品）. (b) this shrub 迷迭香（指灌木）.",
+    "phonetic": "/ ˈrəʊzmərɪ; -merɪ; ˈrozˌmerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "迷迭香（一种常绿灌木的叶子；有香味；用作调味品）；迷迭香（指灌木）"
+    ],
+    "pronunciation": "/ ˈrəʊzmərɪ; -merɪ; ˈrozˌmerɪ/",
+    "accepted_answers": [
+      "迷迭香（一种常绿灌木的叶子",
+      "有香味",
+      "用作调味品）",
+      "迷迭香（指灌木）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "rosette",
@@ -25538,6 +29450,31 @@
     "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
+    "term": "rotor",
+    "type": "word",
+    "pos": "N",
+    "translation": "机器的旋转部分；（尤指直升飞机的）旋翼；插图",
+    "analysis": "n rotating part of a machine, esp on a helicopter 机器的旋转部分; （尤指直升飞机的）旋翼. =>illus at helicopter 见 helicopter 插图.",
+    "phonetic": "/ ˈrəʊtə(r); ˈrotə/",
+    "origin": "待查",
+    "expansions": [
+      "机器的旋转部分；（尤指直升飞机的）旋翼；插图"
+    ],
+    "pronunciation": "/ ˈrəʊtə(r); ˈrotə/",
+    "accepted_answers": [
+      "机器的旋转部分",
+      "（尤指直升飞机的）旋翼",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rotten",
     "type": "word",
     "translation": "腐烂的；变质的；已坏的蛋",
@@ -25604,6 +29541,78 @@
       "（指人）肥胖的",
       "胖墩墩的",
       "胖的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "rotunda",
+    "type": "word",
+    "pos": "N",
+    "translation": "圆形建筑物或大厅（尤指有半球形屋顶的）",
+    "analysis": "n type of round building or hall, esp one with a domed roof 圆形建筑物或大厅（尤指有半球形屋顶的）.",
+    "phonetic": "/ rəʊˈtʌndə; roˈtʌndə/",
+    "origin": "待查",
+    "expansions": [
+      "圆形建筑物或大厅（尤指有半球形屋顶的）"
+    ],
+    "pronunciation": "/ rəʊˈtʌndə; roˈtʌndə/",
+    "accepted_answers": [
+      "圆形建筑物或大厅（尤指有半球形屋顶的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "rotundity",
+    "type": "word",
+    "pos": "N",
+    "translation": "婉或谑)；肥胖",
+    "analysis": "n [U] (euph or joc 婉或谑) state of being rotund 肥胖; 胖.\nrotundly \nadv.",
+    "phonetic": "/ -ətɪ; -ətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "婉或谑)；肥胖"
+    ],
+    "pronunciation": "/ -ətɪ; -ətɪ/",
+    "accepted_answers": [
+      "婉或谑)",
+      "肥胖"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "rouble",
+    "type": "word",
+    "pos": "N",
+    "translation": "卢布（前苏联发行的货币的单位；合；戈比）",
+    "analysis": "n unit of money in the former USSR; 100 kopecks 卢布（前苏联发行的货币的单位, 合 100 戈比）.",
+    "phonetic": "/ ˈruːbl; ˈrubl/",
+    "origin": "待查",
+    "expansions": [
+      "卢布（前苏联发行的货币的单位；合；戈比）"
+    ],
+    "pronunciation": "/ ˈruːbl; ˈrubl/",
+    "accepted_answers": [
+      "卢布（前苏联发行的货币的单位",
+      "合",
+      "戈比）"
     ],
     "added_at": "",
     "review": {
@@ -25686,6 +29695,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "roughage",
+    "type": "word",
+    "pos": "N",
+    "translation": "粗糙食物（不易吸收的粗纤维；如糠、麸；可刺激肠蠕动；有助於消化他种食物）",
+    "analysis": "n [U] indigestible material in certain plants used as food (eg bran) that stimulates the action of the intestines, and helps the digestion of other foods 粗糙食物（不易吸收的粗纤维, 如糠、 麸, 可刺激肠蠕动, 有助於消化他种食物）.",
+    "phonetic": "/ ˈrʌfɪdʒ; ˈrʌfɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "粗糙食物（不易吸收的粗纤维；如糠、麸；可刺激肠蠕动；有助於消化他种食物）"
+    ],
+    "pronunciation": "/ ˈrʌfɪdʒ; ˈrʌfɪdʒ/",
+    "accepted_answers": [
+      "粗糙食物（不易吸收的粗纤维",
+      "如糠、麸",
+      "可刺激肠蠕动",
+      "有助於消化他种食物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "roughen",
@@ -25785,6 +29820,30 @@
     }
   },
   {
+    "term": "roundel",
+    "type": "word",
+    "pos": "N",
+    "translation": "圆形标志（表示国别的符号；用於某些国家的军用飞机上）",
+    "analysis": "n circular identifying mark showing nationality, used on military aircraft of some countries 圆形标志（表示国别的符号, 用於某些国家的军用飞机上）.",
+    "phonetic": "/ ˈraUndl; ˈraJndl/",
+    "origin": "待查",
+    "expansions": [
+      "圆形标志（表示国别的符号；用於某些国家的军用飞机上）"
+    ],
+    "pronunciation": "/ ˈraUndl; ˈraJndl/",
+    "accepted_answers": [
+      "圆形标志（表示国别的符号",
+      "用於某些国家的军用飞机上）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rounders",
     "type": "word",
     "pos": "N / V",
@@ -25855,6 +29914,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "roustabout",
+    "type": "word",
+    "pos": "N",
+    "translation": "石油钻台上的工人",
+    "analysis": "n labourer on an oil rig 石油钻台上的工人.",
+    "phonetic": "/ ˈraUstəbaUt; ˈraJstəˌbaJt/",
+    "origin": "待查",
+    "expansions": [
+      "石油钻台上的工人"
+    ],
+    "pronunciation": "/ ˈraUstəbaUt; ˈraJstəˌbaJt/",
+    "accepted_answers": [
+      "石油钻台上的工人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "rout",
@@ -25958,6 +30040,30 @@
     "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
+    "term": "roux",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)(；油脂面糊（用以制沙司）",
+    "analysis": "n (pl unchanged 复数不变) (in cooking) mixture of melted fat and flour blended together and used as the basis for sauces 油脂面糊（用以制沙司）.",
+    "phonetic": "/ ruː; ru/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)(；油脂面糊（用以制沙司）"
+    ],
+    "pronunciation": "/ ruː; ru/",
+    "accepted_answers": [
+      "复数不变)(",
+      "油脂面糊（用以制沙司）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rove",
     "type": "word",
     "translation": "尤作修辞)；漂泊；流浪",
@@ -26009,6 +30115,30 @@
     }
   },
   {
+    "term": "rowan",
+    "type": "word",
+    "pos": "N",
+    "translation": "花楸树（结鲜红色的浆果；成串下垂）",
+    "analysis": "n (also `rowan tree) type of tree that bears hanging clusters of scarlet berries; mountain ash 花楸树（结鲜红色的浆果, 成串下垂）.",
+    "phonetic": "/ ˈrəʊən,ˈraUən; ˈroən,ˈraJən/",
+    "origin": "待查",
+    "expansions": [
+      "花楸树（结鲜红色的浆果；成串下垂）"
+    ],
+    "pronunciation": "/ ˈrəʊən,ˈraUən; ˈroən,ˈraJən/",
+    "accepted_answers": [
+      "花楸树（结鲜红色的浆果",
+      "成串下垂）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "rowdy",
     "type": "word",
     "translation": ")(；贬)；吵闹的",
@@ -26031,6 +30161,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rowlock",
+    "type": "word",
+    "pos": "N",
+    "translation": "（划艇边缘的）桨架；)见；)插图",
+    "analysis": "(US also `oarlock) n device on the side of a rowing-boat for keeping an oar in place （划艇边缘的）桨架. =>illus at rowing-boat (row2) 见 rowing-boat(row>>2) 插图. Cf 参看 thole.",
+    "phonetic": "/ ˈrɒlək; ˈrəʊlɒk; ˈroˌlɑːk/",
+    "origin": "待查",
+    "expansions": [
+      "（划艇边缘的）桨架；)见；)插图"
+    ],
+    "pronunciation": "/ ˈrɒlək; ˈrəʊlɒk; ˈroˌlɑːk/",
+    "accepted_answers": [
+      "（划艇边缘的）桨架",
+      ")见",
+      ")插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "royal",
@@ -26057,6 +30212,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "royalist",
+    "type": "word",
+    "pos": "N",
+    "translation": "保皇主义者；保皇党成员",
+    "analysis": "n person who favours monarchy as a form of government 保皇主义者; 保皇党成员.",
+    "phonetic": "/ ˈrɔːɪəlɪst; ˈrɔːɪəlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "保皇主义者；保皇党成员"
+    ],
+    "pronunciation": "/ ˈrɔːɪəlɪst; ˈrɔːɪəlɪst/",
+    "accepted_answers": [
+      "保皇主义者",
+      "保皇党成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-j,k,l,m,n,o.txt"
   },
   {
     "term": "royally",
@@ -26155,6 +30334,30 @@
     }
   },
   {
+    "term": "rsa",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；南非共和国",
+    "analysis": "abbr 缩写 = Republic of South Africa 南非共和国.",
+    "phonetic": "/ ˌɑː:resˈeɪ; ˌɑːresˈe/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；南非共和国"
+    ],
+    "pronunciation": "/ ˌɑː:resˈeɪ; ˌɑːresˈe/",
+    "accepted_answers": [
+      "缩写",
+      "南非共和国"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "rsc",
     "type": "word",
     "translation": "缩写；皇家莎士比亚剧团；皇家莎士比亚剧团演出",
@@ -26176,6 +30379,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rsm",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；准尉；皇家音乐学校",
+    "analysis": "abbr 缩写 =  1 Regimental Sergeant-Major 准尉.  2 Royal School of Music 皇家音乐学校.",
+    "phonetic": "/ ˌɑː:resˈem; ˌɑːresˈem/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；准尉；皇家音乐学校"
+    ],
+    "pronunciation": "/ ˌɑː:resˈem; ˌɑːresˈem/",
+    "accepted_answers": [
+      "缩写",
+      "准尉",
+      "皇家音乐学校"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "rspb",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；皇家鸟类保护协会",
+    "analysis": "abbr 缩写 = (Brit) Royal Society for the Protection of Birds 皇家鸟类保护协会.",
+    "phonetic": "/ ˌɑː:respiːˈbiː; ˌɑːrespiˈbi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；皇家鸟类保护协会"
+    ],
+    "pronunciation": "/ ˌɑː:respiːˈbiː; ˌɑːrespiˈbi/",
+    "accepted_answers": [
+      "缩写",
+      "皇家鸟类保护协会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "rspca",
@@ -26303,6 +30555,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rubber-neck",
+    "type": "word",
+    "pos": "V",
+    "translation": "俚；贬)；（好奇地）注视；张望；（好奇地）东张西望的人（尤指旅游者或观光者）",
+    "analysis": "v [I] (US sl derog 俚, 贬) stare or gape inquisitively （好奇地）注视, 张望.\nrubber-neck \nn person who does this, esp a tourist or sightseer （好奇地）东张西望的人（尤指旅游者或观光者）.",
+    "phonetic": "/ ˈrʌbənek; ˈrʌbəˌnek/",
+    "origin": "待查",
+    "expansions": [
+      "俚；贬)；（好奇地）注视；张望；（好奇地）东张西望的人（尤指旅游者或观光者）"
+    ],
+    "pronunciation": "/ ˈrʌbənek; ˈrʌbəˌnek/",
+    "accepted_answers": [
+      "俚",
+      "贬)",
+      "（好奇地）注视",
+      "张望",
+      "（好奇地）东张西望的人（尤指旅游者或观光者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "rubberise",
@@ -26638,6 +30917,31 @@
     }
   },
   {
+    "term": "rucksack",
+    "type": "word",
+    "pos": "N",
+    "translation": "背包（远足者、登山者等用的）；插图；参看",
+    "analysis": "(also knapsack, US also `backpack) n bag strapped to the back from the shoulders, used by hikers, climbers, etc 背包（远足者、 登山者等用的）. =>illus at luggage 见luggage插图. Cf 参看 haversack.",
+    "phonetic": "/ ˈrʌksæk; ˈrʌkˌsæk/",
+    "origin": "待查",
+    "expansions": [
+      "背包（远足者、登山者等用的）；插图；参看"
+    ],
+    "pronunciation": "/ ˈrʌksæk; ˈrʌkˌsæk/",
+    "accepted_answers": [
+      "背包（远足者、登山者等用的）",
+      "插图",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "ruckus",
     "type": "word",
     "translation": "通常作单数)(；吵闹；争吵",
@@ -26682,6 +30986,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rudder",
+    "type": "word",
+    "pos": "N",
+    "translation": "（船的）舵；插图；（飞机的）方向舵",
+    "analysis": "n (a) broad flat piece of wood or metal hinged vertically at the stern of a boat or ship, used for steering （船的）舵. =>illus at yacht 见yacht插图. (b) similar piece of metal on the rear of an aircraft, for the same purpose （飞机的）方向舵. =>illus at aircraft 见 aircraft 插图.",
+    "phonetic": "/ ˈrʌdə(r); ˈrʌdə/",
+    "origin": "待查",
+    "expansions": [
+      "（船的）舵；插图；（飞机的）方向舵"
+    ],
+    "pronunciation": "/ ˈrʌdə(r); ˈrʌdə/",
+    "accepted_answers": [
+      "（船的）舵",
+      "插图",
+      "（飞机的）方向舵"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "ruddy",
@@ -26828,6 +31157,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ruefully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "ruefully",
+    "analysis": "adv.\nruefulness \nn [U].",
+    "phonetic": "/ ˈruːfəlɪ; ˈrufəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "ruefully"
+    ],
+    "pronunciation": "/ ˈruːfəlɪ; ˈrufəlɪ/",
+    "accepted_answers": [
+      "ruefully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "ruff",
@@ -26978,6 +31330,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rugger",
+    "type": "word",
+    "pos": "N",
+    "translation": "（英式）橄榄球（运动）（尤指联合会橄榄球）",
+    "analysis": "n [U] (infml 口 esp Brit) Rugby (esp Rugby Union) football （英式）橄榄球（运动）（尤指联合会橄榄球）.",
+    "phonetic": "/ ˈrʌgə(r); ˈrʌgə/",
+    "origin": "待查",
+    "expansions": [
+      "（英式）橄榄球（运动）（尤指联合会橄榄球）"
+    ],
+    "pronunciation": "/ ˈrʌgə(r); ˈrʌgə/",
+    "accepted_answers": [
+      "（英式）橄榄球（运动）（尤指联合会橄榄球）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "ruin",
@@ -27133,6 +31508,29 @@
     }
   },
   {
+    "term": "rum",
+    "type": "word",
+    "pos": "N",
+    "translation": "朗姆酒（用甘蔗汁蒸馏制成）",
+    "analysis": "n [U]  1 strong alcoholic drink distilled from sugar-cane juice 朗姆酒（用甘蔗汁蒸馏制成）.  2 (US) any type of alcoholic liquor 酒.",
+    "phonetic": "/ rʌm; rʌm/",
+    "origin": "待查",
+    "expansions": [
+      "朗姆酒（用甘蔗汁蒸馏制成）"
+    ],
+    "pronunciation": "/ rʌm; rʌm/",
+    "accepted_answers": [
+      "朗姆酒（用甘蔗汁蒸馏制成）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "rumba",
     "type": "word",
     "translation": "伦巴舞（一种交际舞；起源於古巴）；伦巴舞曲；跳伦巴舞",
@@ -27182,6 +31580,31 @@
     }
   },
   {
+    "term": "rumbustious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)；热闹的；闹得欢的",
+    "analysis": "(also esp US rambunctious) adj (infml 口) cheerful in a noisy energetic way; boisterous 热闹的; 闹得欢的.",
+    "phonetic": "/ rʌmˈbʌstɪəs; rʌmˈbʌstʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "口)；热闹的；闹得欢的"
+    ],
+    "pronunciation": "/ rʌmˈbʌstɪəs; rʌmˈbʌstʃəs/",
+    "accepted_answers": [
+      "口)",
+      "热闹的",
+      "闹得欢的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "ruminant",
     "type": "word",
     "pos": "N / Adj",
@@ -27227,6 +31650,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rumination",
+    "type": "word",
+    "pos": "N",
+    "translation": "rumination",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌruːmɪˈneɪʃn; ˌruməˈneʃən/",
+    "origin": "待查",
+    "expansions": [
+      "rumination"
+    ],
+    "pronunciation": "/ ˌruːmɪˈneɪʃn; ˌruməˈneʃən/",
+    "accepted_answers": [
+      "rumination"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "ruminative",
@@ -27276,6 +31722,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rummy",
+    "type": "word",
+    "pos": "N",
+    "translation": "拉米纸牌戏（玩法是组成套牌或顺牌）",
+    "analysis": "n [U] any of various types of simple card-game in which players try to form sets or sequences of cards 拉米纸牌戏（玩法是组成套牌或顺牌）.",
+    "phonetic": "/ ˈrʌmɪ; ˈrʌmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "拉米纸牌戏（玩法是组成套牌或顺牌）"
+    ],
+    "pronunciation": "/ ˈrʌmɪ; ˈrʌmɪ/",
+    "accepted_answers": [
+      "拉米纸牌戏（玩法是组成套牌或顺牌）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "rumour",
@@ -27524,6 +31993,30 @@
     }
   },
   {
+    "term": "runner-up",
+    "type": "word",
+    "pos": "N",
+    "translation": "（竞赛中的）第二名；亚军",
+    "analysis": "n (pl runners-up / 9rQnEz5Qp; 9rQnLz`Qp/) ~ (to sb) person or team finishing second in a race or competition （竞赛中的）第二名, 亚军.",
+    "phonetic": "/ ˌrʌnərˈʌp; ˌrʌnəˈʌp/",
+    "origin": "待查",
+    "expansions": [
+      "（竞赛中的）第二名；亚军"
+    ],
+    "pronunciation": "/ ˌrʌnərˈʌp; ˌrʌnəˈʌp/",
+    "accepted_answers": [
+      "（竞赛中的）第二名",
+      "亚军"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "running",
     "type": "word",
     "translation": "跑步；赛跑；开始跑步",
@@ -27572,6 +32065,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "runt",
+    "type": "word",
+    "pos": "N",
+    "translation": "发育不良的小动物（尤指一胎中最弱小的）；贬)；小人物",
+    "analysis": "n  1 undersized animal, esp the smallest and weakest of a litter 发育不良的小动物（尤指一胎中最弱小的）.  2 (derog 贬) insignificant or worthless person 小人物; 卑微小人.",
+    "phonetic": "/ rʌnt; rʌnt/",
+    "origin": "待查",
+    "expansions": [
+      "发育不良的小动物（尤指一胎中最弱小的）；贬)；小人物"
+    ],
+    "pronunciation": "/ rʌnt; rʌnt/",
+    "accepted_answers": [
+      "发育不良的小动物（尤指一胎中最弱小的）",
+      "贬)",
+      "小人物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "runway",
@@ -27667,6 +32185,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ruritanian",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")（指国家、政治）玩弄阴谋诡计的",
+    "analysis": "adj (of a State, its politics) full of plots and intrigues (as in two melodramatic novels about an imaginary country called Ruritania) （指国家、 政治）玩弄阴谋诡计的.",
+    "phonetic": "/ ˌrUərɪˈteɪnɪən; ˌrJrəˈtenɪən/",
+    "origin": "待查",
+    "expansions": [
+      ")（指国家、政治）玩弄阴谋诡计的"
+    ],
+    "pronunciation": "/ ˌrUərɪˈteɪnɪən; ˌrJrəˈtenɪən/",
+    "accepted_answers": [
+      ")（指国家、政治）玩弄阴谋诡计的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "ruse",
@@ -27844,6 +32385,77 @@
     }
   },
   {
+    "term": "rustically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "rustically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "rustically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "rustically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "rusticate",
+    "type": "word",
+    "pos": "V",
+    "translation": "罚（大学生）暂时停学离校；文)；在农村定居",
+    "analysis": "v  1 [Tn] (Brit) send (a student) away from university temporarily, as a punishment 罚（大学生）暂时停学离校.  2 [I] (fml 文) settle in the country and lead a rural life 在农村定居.",
+    "phonetic": "/ ˈrʌstɪkeɪt; ˈrʌstɪˌket/",
+    "origin": "待查",
+    "expansions": [
+      "罚（大学生）暂时停学离校；文)；在农村定居"
+    ],
+    "pronunciation": "/ ˈrʌstɪkeɪt; ˈrʌstɪˌket/",
+    "accepted_answers": [
+      "罚（大学生）暂时停学离校",
+      "文)",
+      "在农村定居"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "rustication",
+    "type": "word",
+    "pos": "N",
+    "translation": "rustication",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌrʌstɪˈkeɪʃn; ˌrʌstəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "rustication"
+    ],
+    "pronunciation": "/ ˌrʌstɪˈkeɪʃn; ˌrʌstəˈkeʃən/",
+    "accepted_answers": [
+      "rustication"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "rusticity",
     "type": "word",
     "pos": "N",
@@ -27894,6 +32506,30 @@
     }
   },
   {
+    "term": "rustler",
+    "type": "word",
+    "pos": "N",
+    "translation": "偷牛贼；盗马贼",
+    "analysis": "n (US) cattle or horse thief 偷牛贼; 盗马贼.",
+    "phonetic": "/ ˈrʌslə(r); ˈrʌslə/",
+    "origin": "待查",
+    "expansions": [
+      "偷牛贼；盗马贼"
+    ],
+    "pronunciation": "/ ˈrʌslə(r); ˈrʌslə/",
+    "accepted_answers": [
+      "偷牛贼",
+      "盗马贼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "rustling",
     "type": "word",
     "translation": "轻而爽的声音；夜里神秘的瑟瑟声；枯叶、糖果纸的沙沙声",
@@ -27942,6 +32578,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "rutabaga",
+    "type": "word",
+    "pos": "N",
+    "translation": "rutabaga",
+    "analysis": "n [C, U] (US) = swede.",
+    "phonetic": "/ ˌruːtəˈbeɪgə; ˌrutəˈbegə/",
+    "origin": "待查",
+    "expansions": [
+      "rutabaga"
+    ],
+    "pronunciation": "/ ˌruːtəˈbeɪgə; ˌrutəˈbegə/",
+    "accepted_answers": [
+      "rutabaga"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/R/R-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "ruthless",

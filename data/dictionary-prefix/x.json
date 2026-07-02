@@ -101,6 +101,29 @@
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
+    "term": "xenophobic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "xenophobic",
+    "analysis": "adj.",
+    "phonetic": "/ -ˈfəʊbɪk; -ˈfobɪk/",
+    "origin": "待查",
+    "expansions": [
+      "xenophobic"
+    ],
+    "pronunciation": "/ -ˈfəʊbɪk; -ˈfobɪk/",
+    "accepted_answers": [
+      "xenophobic"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
     "term": "xerox",
     "type": "word",
     "pos": "N",
@@ -118,6 +141,80 @@
       "（乾式的）影印",
       "复印",
       "（乾式）影印机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
+    "term": "xhosa",
+    "type": "word",
+    "pos": "N",
+    "translation": "科萨人（南非开普省班图人的成员）；科萨语",
+    "analysis": "n  1 [C] member of a Bantu people of Cape Province, S Africa 科萨人（南非开普省班图人的成员）.  2 [U] their language 科萨语.\nXhosa \nadj.\n-xion\n=> -ion.",
+    "phonetic": "/ ˈkɔːsə; ˈkɔːsɑː/",
+    "origin": "待查",
+    "expansions": [
+      "科萨人（南非开普省班图人的成员）；科萨语"
+    ],
+    "pronunciation": "/ ˈkɔːsə; ˈkɔːsɑː/",
+    "accepted_answers": [
+      "科萨人（南非开普省班图人的成员）",
+      "科萨语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
+    "term": "xl",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；（尤作衣物上的标记）特大号",
+    "analysis": "abbr 缩写 = (esp on clothing) extra large （尤作衣物上的标记）特大号.",
+    "phonetic": "/ ˌeksˈel; ˌeksˈel/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；（尤作衣物上的标记）特大号"
+    ],
+    "pronunciation": "/ ˌeksˈel; ˌeksˈel/",
+    "accepted_answers": [
+      "缩写",
+      "（尤作衣物上的标记）特大号"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/X/X.TXT"
+  },
+  {
+    "term": "xmas",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)(；用作缩略式；尤用於文字中)；谨向我们所有的读者敬祝圣诞快乐",
+    "analysis": "n [C, U] (infml 口) (used as a short form, esp in writing 用作缩略式, 尤用於文字中) = Christmas: A merry Xmas to all our readers! 谨向我们所有的读者敬祝圣诞快乐!\nXt\n= Xsymb 符号 7.",
+    "phonetic": "/ ˈkrɪsməs,ˈeksməs; ˈkrɪsməs,ˈeksməs/",
+    "origin": "待查",
+    "expansions": [
+      "A merry Xmas to all our readers! 谨向我们所有的读者敬祝圣诞快乐!"
+    ],
+    "pronunciation": "/ ˈkrɪsməs,ˈeksməs; ˈkrɪsməs,ˈeksməs/",
+    "accepted_answers": [
+      "口)(",
+      "用作缩略式",
+      "尤用於文字中)",
+      "谨向我们所有的读者敬祝圣诞快乐"
     ],
     "added_at": "",
     "review": {

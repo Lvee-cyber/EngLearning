@@ -146,6 +146,29 @@
     "dict_source": "data/DICT/V/V-j~z.txt"
   },
   {
+    "term": "vac",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (Brit infml 口)  1 = vacation.  2 = vacuum cleaner (vacuum)",
+    "phonetic": "/ væk; væk/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ væk; væk/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vacancy",
     "type": "word",
     "translation": "（未被占用的）空余住处；客满（如旅店告示牌的字样）；空处",
@@ -531,6 +554,29 @@
     }
   },
   {
+    "term": "vaginal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "vaginal",
+    "analysis": "adj.",
+    "phonetic": "/ vəˈdʒaɪnl; vəˈdʒaɪnl/",
+    "origin": "待查",
+    "expansions": [
+      "vaginal"
+    ],
+    "pronunciation": "/ vəˈdʒaɪnl; vəˈdʒaɪnl/",
+    "accepted_answers": [
+      "vaginal"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vagrancy",
     "type": "word",
     "translation": "游荡（罪）；因游荡罪遭逮捕的喝醉的人",
@@ -670,6 +716,31 @@
       "旧或文)",
       "极度的虚荣",
       "自负"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
+    "term": "valance",
+    "type": "word",
+    "pos": "N",
+    "translation": "（床架四周的）短帷幔；挂布；)(",
+    "analysis": "n (a) short curtain or frill hung around the frame of a bed （床架四周的）短帷幔, 挂布. (b) (esp US) = pelmet.",
+    "phonetic": "/ ˈvæləns; ˈvæləns/",
+    "origin": "待查",
+    "expansions": [
+      "（床架四周的）短帷幔；挂布；)("
+    ],
+    "pronunciation": "/ ˈvæləns; ˈvæləns/",
+    "accepted_answers": [
+      "（床架四周的）短帷幔",
+      "挂布",
+      ")("
     ],
     "added_at": "",
     "review": {
@@ -1036,6 +1107,29 @@
     "pos": "V"
   },
   {
+    "term": "validation",
+    "type": "word",
+    "pos": "N",
+    "translation": "validation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌvælɪˈdeɪʃn; ˌvæləˈdeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "validation"
+    ],
+    "pronunciation": "/ ˌvælɪˈdeɪʃn; ˌvæləˈdeʃən/",
+    "accepted_answers": [
+      "validation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "validity",
     "type": "word",
     "translation": "（法律上）有效；合法（性）；验证某决定是否合法",
@@ -1057,6 +1151,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "valise",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)；（装衣物等的）皮制小旅行包",
+    "analysis": "n (dated 旧) small leather bag for clothes, etc during a journey （装衣物等的）皮制小旅行包.",
+    "phonetic": "/ vəˈliːz; vəˈliːs; vəˈlis/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；（装衣物等的）皮制小旅行包"
+    ],
+    "pronunciation": "/ vəˈliːz; vəˈliːs; vəˈlis/",
+    "accepted_answers": [
+      "旧)",
+      "（装衣物等的）皮制小旅行包"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
+    "term": "valium",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)(；安定（镇静药）；复数或不变或作",
+    "analysis": "n (propr 专利名) (a) [U] drug used to reduce stress and nervous tension 安定（镇静药）. (b) [C] (pl unchanged or ~s 复数或不变或作 Valiums) tablet of this 安定药片.",
+    "phonetic": "/ ˈvælɪəm; ˈvælɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)(；安定（镇静药）；复数或不变或作"
+    ],
+    "pronunciation": "/ ˈvælɪəm; ˈvælɪəm/",
+    "accepted_answers": [
+      "专利名)(",
+      "安定（镇静药）",
+      "复数或不变或作"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
   },
   {
     "term": "valley",
@@ -1238,6 +1381,32 @@
     }
   },
   {
+    "term": "vamoose",
+    "type": "word",
+    "pos": "V",
+    "translation": "旧；口)(；常用於祈使语气)；快走开",
+    "analysis": "v [I] (dated US infml 旧, 口) (often imperative 常用於祈使语气) go away quickly 快走开.",
+    "phonetic": "/ vəˈmuːs; væˈmus/",
+    "origin": "待查",
+    "expansions": [
+      "旧；口)(；常用於祈使语气)；快走开"
+    ],
+    "pronunciation": "/ vəˈmuːs; væˈmus/",
+    "accepted_answers": [
+      "旧",
+      "口)(",
+      "常用於祈使语气)",
+      "快走开"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vamp",
     "type": "word",
     "pos": "N",
@@ -1251,6 +1420,31 @@
     "pronunciation": "/ væmp; væmp/",
     "accepted_answers": [
       "靴面或鞋面的前部"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
+    "term": "vampire",
+    "type": "word",
+    "pos": "N",
+    "translation": "吸血鬼（传说在夜间离开坟墓去吸人血的）；残酷剥削他人的人；吸血蝠（产於中南美洲）",
+    "analysis": "n  1 reanimated corpsebelieved by some to leave its grave at night and suck the blood of living people 吸血鬼（传说在夜间离开坟墓去吸人血的）.  2 ruthless person who preys on others 残酷剥削他人的人.  3 (also `vampire bat) any of various types of bloodsucking bat from Central and S America 吸血蝠（产於中南美洲）.",
+    "phonetic": "/ ˈvæmpaɪə(r); ˈvæmpaɪr/",
+    "origin": "待查",
+    "expansions": [
+      "吸血鬼（传说在夜间离开坟墓去吸人血的）；残酷剥削他人的人；吸血蝠（产於中南美洲）"
+    ],
+    "pronunciation": "/ ˈvæmpaɪə(r); ˈvæmpaɪr/",
+    "accepted_answers": [
+      "吸血鬼（传说在夜间离开坟墓去吸人血的）",
+      "残酷剥削他人的人",
+      "吸血蝠（产於中南美洲）"
     ],
     "added_at": "",
     "review": {
@@ -1361,6 +1555,29 @@
     }
   },
   {
+    "term": "vandalism",
+    "type": "word",
+    "pos": "N",
+    "translation": "恣意破坏公物等的行为",
+    "analysis": "n [U] behaviour characteristic of vandals 恣意破坏公物等的行为.",
+    "phonetic": "/ -dəlɪzəm; -dlˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "恣意破坏公物等的行为"
+    ],
+    "pronunciation": "/ -dəlɪzəm; -dlˌɪzəm/",
+    "accepted_answers": [
+      "恣意破坏公物等的行为"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vandalize",
     "type": "word",
     "translation": "尤用於被动语态；)恣意破坏（公物等）；故意毁坏列车车厢、公共厕所、电梯",
@@ -1385,6 +1602,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vane",
+    "type": "word",
+    "pos": "N",
+    "translation": "风向标；风信旗；（螺旋桨、风车、轮机等的）翼；叶片",
+    "analysis": "n  1 arrow or pointer on the top of a building, turned by the wind so as to show its direction 风向标; 风信旗.  2 blade of a propeller, sail of a windmill, or a similar device with a flat surface acted on or moved by wind or water （螺旋桨、 风车、 轮机等的）翼, 叶片.",
+    "phonetic": "/ veɪn; ven/",
+    "origin": "待查",
+    "expansions": [
+      "风向标；风信旗；（螺旋桨、风车、轮机等的）翼；叶片"
+    ],
+    "pronunciation": "/ veɪn; ven/",
+    "accepted_answers": [
+      "风向标",
+      "风信旗",
+      "（螺旋桨、风车、轮机等的）翼",
+      "叶片"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
   },
   {
     "term": "vanguard",
@@ -1584,6 +1827,80 @@
     "dict_source": "data/DICT/V/V-a.txt"
   },
   {
+    "term": "vaporisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "汽化器；喷雾器；蒸馏器",
+    "analysis": "n [U].\nvaporizer, vaporiser \nn pressurized container for sending out liquid in the form of a vapour 汽化器; 喷雾器; 蒸馏器.",
+    "phonetic": "/ ˌveɪpəraɪˈzeɪʃn; -rɪˈz-; ˌvepərəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "汽化器；喷雾器；蒸馏器"
+    ],
+    "pronunciation": "/ ˌveɪpəraɪˈzeɪʃn; -rɪˈz-; ˌvepərəˈzeʃən/",
+    "accepted_answers": [
+      "汽化器",
+      "喷雾器",
+      "蒸馏器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
+    "term": "vaporise",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某物）汽化；蒸发",
+    "analysis": "v [I, Tn] (cause sth to) become vapour （使某物）汽化, 蒸发.",
+    "phonetic": "/ ˈveɪpəraɪz; ˈvepəˌraɪz/",
+    "origin": "待查",
+    "expansions": [
+      "（使某物）汽化；蒸发"
+    ],
+    "pronunciation": "/ ˈveɪpəraɪz; ˈvepəˌraɪz/",
+    "accepted_answers": [
+      "（使某物）汽化",
+      "蒸发"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
+    "term": "vaporization",
+    "type": "word",
+    "pos": "N",
+    "translation": "汽化器；喷雾器；蒸馏器",
+    "analysis": "n [U].\nvaporizer, vaporiser \nn pressurized container for sending out liquid in the form of a vapour 汽化器; 喷雾器; 蒸馏器.",
+    "phonetic": "/ ˌveɪpəraɪˈzeɪʃn; -rɪˈz-; ˌvepərəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "汽化器；喷雾器；蒸馏器"
+    ],
+    "pronunciation": "/ ˌveɪpəraɪˈzeɪʃn; -rɪˈz-; ˌvepərəˈzeʃən/",
+    "accepted_answers": [
+      "汽化器",
+      "喷雾器",
+      "蒸馏器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vaporize",
     "type": "word",
     "pos": "V",
@@ -1654,6 +1971,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "variability",
+    "type": "word",
+    "pos": "N",
+    "translation": "可变性；易变性",
+    "analysis": "n [U] quality of being variable; tendency to vary 可变性; 易变性.",
+    "phonetic": "/ ˌveərɪəˈbɪlətɪ; ˌverɪəˈbɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "可变性；易变性"
+    ],
+    "pronunciation": "/ ˌveərɪəˈbɪlətɪ; ˌverɪəˈbɪlətɪ/",
+    "accepted_answers": [
+      "可变性",
+      "易变性"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
   },
   {
     "term": "variable",
@@ -2038,6 +2379,53 @@
     }
   },
   {
+    "term": "vase",
+    "type": "word",
+    "pos": "N",
+    "translation": "花瓶；装饰瓶",
+    "analysis": "n vessel without handles, usu made of glass, china, etc and used for holding cut flowers or as an ornament 花瓶; 装饰瓶.",
+    "phonetic": "/ vɑː:z; veɪs,alsoveɪz; ves,vez/",
+    "origin": "待查",
+    "expansions": [
+      "花瓶；装饰瓶"
+    ],
+    "pronunciation": "/ vɑː:z; veɪs,alsoveɪz; ves,vez/",
+    "accepted_answers": [
+      "花瓶",
+      "装饰瓶"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
+    "term": "vasectomy",
+    "type": "word",
+    "pos": "N",
+    "translation": "输精管切除术",
+    "analysis": "n surgical removalof part of each of the ducts through which semen passes from the testicles, esp as a method of birth control 输精管切除术.",
+    "phonetic": "/ vəˈsektəmɪ; vəsˈektəmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "输精管切除术"
+    ],
+    "pronunciation": "/ vəˈsektəmɪ; vəsˈektəmɪ/",
+    "accepted_answers": [
+      "输精管切除术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-a.txt"
+  },
+  {
     "term": "vaseline",
     "type": "word",
     "pos": "N",
@@ -2286,6 +2674,29 @@
     }
   },
   {
+    "term": "vcr",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写",
+    "analysis": "abbr 缩写 = video cassette recorder.",
+    "phonetic": "/ ˌviːsiːˈɑː:(r); ˌvisiˈɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "缩写"
+    ],
+    "pronunciation": "/ ˌviːsiːˈɑː:(r); ˌvisiˈɑːr/",
+    "accepted_answers": [
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "vd",
     "type": "word",
     "pos": "word",
@@ -2506,6 +2917,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vegetarianism",
+    "type": "word",
+    "pos": "N",
+    "translation": "素食；素食主义",
+    "analysis": "n [U] practice or philosophy of being a vegetarian 素食; 素食主义.",
+    "phonetic": "/ -ɪzəm; -ɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "素食；素食主义"
+    ],
+    "pronunciation": "/ -ɪzəm; -ɪzəm/",
+    "accepted_answers": [
+      "素食",
+      "素食主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
     "term": "vegetate",
@@ -2786,6 +3221,56 @@
     "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
+    "term": "veld",
+    "type": "word",
+    "pos": "N",
+    "translation": "（南非高原上的）草原；参看",
+    "analysis": "n [U] flat treeless open grassland of the S African plateau （南非高原上的）草原. Cf 参看 pampas, prairie, savannah, steppe.",
+    "phonetic": "/ velt; velt/",
+    "origin": "待查",
+    "expansions": [
+      "（南非高原上的）草原；参看"
+    ],
+    "pronunciation": "/ velt; velt/",
+    "accepted_answers": [
+      "（南非高原上的）草原",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "vellum",
+    "type": "word",
+    "pos": "N",
+    "translation": "（用小牛皮或小羊皮制的）精制皮纸；犊皮纸；羊皮纸；质优而光滑的书写用纸",
+    "analysis": "n [U]  1 fine parchment or bookbinding material made from calf, kid or lamb skin （用小牛皮或小羊皮制的）精制皮纸, 犊皮纸, 羊皮纸.  2 smooth fine-quality writing-paper 质优而光滑的书写用纸.",
+    "phonetic": "/ ˈveləm; ˈveləm/",
+    "origin": "待查",
+    "expansions": [
+      "（用小牛皮或小羊皮制的）精制皮纸；犊皮纸；羊皮纸；质优而光滑的书写用纸"
+    ],
+    "pronunciation": "/ ˈveləm; ˈveləm/",
+    "accepted_answers": [
+      "（用小牛皮或小羊皮制的）精制皮纸",
+      "犊皮纸",
+      "羊皮纸",
+      "质优而光滑的书写用纸"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "velocity",
     "type": "word",
     "translation": "尤用於物理学)(；通常用以指无生命之物)；速度（尤指沿已知方向的）",
@@ -2944,6 +3429,56 @@
     "pronunciation": "/ -nəlɪ; -nlɪ/",
     "accepted_answers": [
       "venally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "vend",
+    "type": "word",
+    "pos": "V",
+    "translation": "尤用於法律)；出售（尤指小物件）；用法见",
+    "analysis": "v [Tn] (esp law 尤用於法律) offer(esp small articles) for sale 出售（尤指小物件）. =>Usage at sell 用法见sell.",
+    "phonetic": "/ vend; vend/",
+    "origin": "待查",
+    "expansions": [
+      "尤用於法律)；出售（尤指小物件）；用法见"
+    ],
+    "pronunciation": "/ vend; vend/",
+    "accepted_answers": [
+      "尤用於法律)",
+      "出售（尤指小物件）",
+      "用法见"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "vendee",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；买主；买方",
+    "analysis": "n (law 律) person to whom sth is sold 买主; 买方.",
+    "phonetic": "/ venˈdiː; venˈdi/",
+    "origin": "待查",
+    "expansions": [
+      "律)；买主；买方"
+    ],
+    "pronunciation": "/ venˈdiː; venˈdi/",
+    "accepted_answers": [
+      "律)",
+      "买主",
+      "买方"
     ],
     "added_at": "",
     "review": {
@@ -3198,6 +3733,54 @@
     }
   },
   {
+    "term": "vengeful",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；报复心驱使的；图谋报复的",
+    "analysis": "adj (fml 文) showing a desire for revenge; vindictive 报复心驱使的; 图谋报复的; 复仇的.",
+    "phonetic": "/ ˈvendʒfl; ˈvendʒfəl/",
+    "origin": "待查",
+    "expansions": [
+      "文)；报复心驱使的；图谋报复的"
+    ],
+    "pronunciation": "/ ˈvendʒfl; ˈvendʒfəl/",
+    "accepted_answers": [
+      "文)",
+      "报复心驱使的",
+      "图谋报复的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "vengefully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "vengefully",
+    "analysis": "adv.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "vengefully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "vengefully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "venial",
     "type": "word",
     "pos": "Adj",
@@ -3393,6 +3976,30 @@
     }
   },
   {
+    "term": "ventilator",
+    "type": "word",
+    "pos": "N",
+    "translation": "通风设备；通风口",
+    "analysis": "n device or opening for ventilating a room, etc 通风设备; 通风口.",
+    "phonetic": "/ ˈventɪleɪtə(r); -təl-; ˈventlˌetə/",
+    "origin": "待查",
+    "expansions": [
+      "通风设备；通风口"
+    ],
+    "pronunciation": "/ ˈventɪleɪtə(r); -təl-; ˈventlˌetə/",
+    "accepted_answers": [
+      "通风设备",
+      "通风口"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "ventral",
     "type": "word",
     "translation": "生)；腹的；腹部的",
@@ -3454,6 +4061,29 @@
       "解)",
       "心室",
       "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "ventriloquism",
+    "type": "word",
+    "pos": "N",
+    "translation": "口技（使人听起来好像声音来自远方或另一人的发声技巧）",
+    "analysis": "n [U] art of producing voice-sounds so that they seem to come from a person or place at a distance from the speaker 口技（使人听起来好像声音来自远方或另一人的发声技巧）.",
+    "phonetic": "/ venˈtrɪləkwɪzəm; venˈtrɪləˌkwɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "口技（使人听起来好像声音来自远方或另一人的发声技巧）"
+    ],
+    "pronunciation": "/ venˈtrɪləkwɪzəm; venˈtrɪləˌkwɪzəm/",
+    "accepted_answers": [
+      "口技（使人听起来好像声音来自远方或另一人的发声技巧）"
     ],
     "added_at": "",
     "review": {
@@ -3657,6 +4287,29 @@
     }
   },
   {
+    "term": "verb",
+    "type": "word",
+    "pos": "N",
+    "translation": "动词",
+    "analysis": "n word or phrase indicating an action, an event or a state, eg bring, happen, exist 动词.",
+    "phonetic": "/ vɜːb; vɜːb/",
+    "origin": "待查",
+    "expansions": [
+      "动词"
+    ],
+    "pronunciation": "/ vɜːb; vɜːb/",
+    "accepted_answers": [
+      "动词"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "verbal",
     "type": "word",
     "translation": "词语的；言语的；文字的",
@@ -3725,6 +4378,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "verbally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "口头上（非书面形式）；动名词（如在；句中的",
+    "analysis": "adv in spoken words, not in writing 口头上（非书面形式）.\nverbal noun (also gerund) \nnoun derived from a verb, eg swimming in the sentence Swimming is a good form of exercise 动名词（如在 Swimming is a good form of exercise 句中的 swimming）.",
+    "phonetic": "/ ˈvɜːbəlɪ; ˈvɜːblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口头上（非书面形式）；动名词（如在；句中的"
+    ],
+    "pronunciation": "/ ˈvɜːbəlɪ; ˈvɜːblɪ/",
+    "accepted_answers": [
+      "口头上（非书面形式）",
+      "动名词（如在",
+      "句中的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
     "term": "verbatim",
@@ -3825,6 +4503,53 @@
     }
   },
   {
+    "term": "verbosity",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；冗长",
+    "analysis": "n [U] (fml 文) state or quality of being verbose 冗长.",
+    "phonetic": "/ vɜːˈbɒsətɪ; vɜːˈbɑːsətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；冗长"
+    ],
+    "pronunciation": "/ vɜːˈbɒsətɪ; vɜːˈbɑːsətɪ/",
+    "accepted_answers": [
+      "文)",
+      "冗长"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
+    "term": "verdancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "verdancy",
+    "analysis": "n [U].",
+    "phonetic": "/ -dnsɪ; -dnsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "verdancy"
+    ],
+    "pronunciation": "/ -dnsɪ; -dnsɪ/",
+    "accepted_answers": [
+      "verdancy"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "verdant",
     "type": "word",
     "translation": "文或修辞)(；（指草、田野等）嫩绿的；青翠的；绿油油的草地",
@@ -3877,6 +4602,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "verdigris",
+    "type": "word",
+    "pos": "N",
+    "translation": ")铜绿",
+    "analysis": "n [U] greenish-blue substance that forms on copper, brass and bronze surfaces (as rust forms on iron surfaces) 铜绿.",
+    "phonetic": "/ ˈvɜːdɪgrɪs,-griːs; ˈvɜːdɪˌgrɪs,-gris/",
+    "origin": "待查",
+    "expansions": [
+      ")铜绿"
+    ],
+    "pronunciation": "/ ˈvɜːdɪgrɪs,-griːs; ˈvɜːdɪˌgrɪs,-gris/",
+    "accepted_answers": [
+      ")铜绿"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
     "term": "verge",
@@ -4078,6 +4826,30 @@
     }
   },
   {
+    "term": "vermicelli",
+    "type": "word",
+    "pos": "N",
+    "translation": "细面条；线面",
+    "analysis": "n [U] pasta made into long slender threads, like spaghetti but much thinner, and often added to soups 细面条; 线面.",
+    "phonetic": "/ ˌvɜːmɪˈselɪ,-ˈtʃelɪ; ˌvɜːməˈselɪ,-ˈtʃelɪ/",
+    "origin": "待查",
+    "expansions": [
+      "细面条；线面"
+    ],
+    "pronunciation": "/ ˌvɜːmɪˈselɪ,-ˈtʃelɪ; ˌvɜːməˈselɪ,-ˈtʃelɪ/",
+    "accepted_answers": [
+      "细面条",
+      "线面"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "vermiform",
     "type": "word",
     "translation": "解)；蠕虫样的；阑尾",
@@ -4175,6 +4947,31 @@
     }
   },
   {
+    "term": "vermouth",
+    "type": "word",
+    "pos": "N",
+    "translation": ")味美思酒（用作开胃酒；常调入鸡尾酒中）；一杯或一份味美思酒",
+    "analysis": "n (a) [U] strong white wine flavoured with herbs, drunk as an aperitif (often in strong cocktails) 味美思酒（用作开胃酒, 常调入鸡尾酒中）. (b) [C] glass or drink of this 一杯或一份味美思酒.",
+    "phonetic": "/ ˈvɜːməθ; vərˈmuːθ; vəˈmuθ/",
+    "origin": "待查",
+    "expansions": [
+      ")味美思酒（用作开胃酒；常调入鸡尾酒中）；一杯或一份味美思酒"
+    ],
+    "pronunciation": "/ ˈvɜːməθ; vərˈmuːθ; vəˈmuθ/",
+    "accepted_answers": [
+      ")味美思酒（用作开胃酒",
+      "常调入鸡尾酒中）",
+      "一杯或一份味美思酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "vernacular",
     "type": "word",
     "translation": "本地话；土语；本国语",
@@ -4221,6 +5018,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "veronal",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；佛罗那（镇静药）",
+    "analysis": "n [U] (propr 专利名) type of sedative drug 佛罗那（镇静药）.",
+    "phonetic": "/ ˈverənl; ˈverənəl/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；佛罗那（镇静药）"
+    ],
+    "pronunciation": "/ ˈverənl; ˈverənəl/",
+    "accepted_answers": [
+      "专利名)",
+      "佛罗那（镇静药）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
     "term": "veronica",
@@ -4295,6 +5116,29 @@
     }
   },
   {
+    "term": "versatility",
+    "type": "word",
+    "pos": "N",
+    "translation": "versatility",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌvɜːsəˈtɪlətɪ; ˌvɜːsəˈtɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "versatility"
+    ],
+    "pronunciation": "/ ˌvɜːsəˈtɪlətɪ; ˌvɜːsəˈtɪlətɪ/",
+    "accepted_answers": [
+      "versatility"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
+  },
+  {
     "term": "verse",
     "type": "word",
     "translation": "韵文；诗句；诗体",
@@ -4342,6 +5186,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "versicle",
+    "type": "word",
+    "pos": "N",
+    "translation": "（做礼拜时；牧师领读或领唱；会众相随的）短句；（启应文中的）启文；参看",
+    "analysis": "n each of the short sentencesin the liturgy said or sung by the clergyman and answeredby the congregation （做礼拜时, 牧师领读或领唱, 会众相随的）短句; （启应文中的）启文. Cf 参看 response 3.",
+    "phonetic": "/ ˈvɜːsɪkl; ˈvɜːsɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "（做礼拜时；牧师领读或领唱；会众相随的）短句；（启应文中的）启文；参看"
+    ],
+    "pronunciation": "/ ˈvɜːsɪkl; ˈvɜːsɪkl/",
+    "accepted_answers": [
+      "（做礼拜时",
+      "牧师领读或领唱",
+      "会众相随的）短句",
+      "（启应文中的）启文",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-b,c,d,e.txt"
   },
   {
     "term": "versification",
@@ -4712,6 +5583,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "very light",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "维里信号弹（有彩色光；夜间发射；如用作船的遇难信号）",
+    "analysis": "coloured signal flare fired at night, eg as a sign of distress from a ship 维里信号弹（有彩色光, 夜间发射, 如用作船的遇难信号）.",
+    "phonetic": "/ ˈverɪlaɪt; ˈverɪˌlaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "维里信号弹（有彩色光；夜间发射；如用作船的遇难信号）"
+    ],
+    "pronunciation": "/ ˈverɪlaɪt; ˈverɪˌlaɪt/",
+    "accepted_answers": [
+      "维里信号弹（有彩色光",
+      "夜间发射",
+      "如用作船的遇难信号）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "vesicle",
@@ -5337,6 +6233,29 @@
     }
   },
   {
+    "term": "vibrancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "vibrancy",
+    "analysis": "n [U].",
+    "phonetic": "/ -brənsɪ; -brənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "vibrancy"
+    ],
+    "pronunciation": "/ -brənsɪ; -brənsɪ/",
+    "accepted_answers": [
+      "vibrancy"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "vibrant",
     "type": "word",
     "translation": "振动的；颤动的；响亮的",
@@ -5359,6 +6278,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vibraphone",
+    "type": "word",
+    "pos": "N",
+    "translation": "电颤琴（类似木琴；在金属棒下有电子共鸣器可产生颤音效果）",
+    "analysis": "n musical instrumentlike a xylophone but with electric resonators under the metal bars giving a vibrating effect 电颤琴（类似木琴, 在金属棒下有电子共鸣器可产生颤音效果）.",
+    "phonetic": "/ ˈvaɪbrəfəʊn; ˈvaɪbrəˌfon/",
+    "origin": "待查",
+    "expansions": [
+      "电颤琴（类似木琴；在金属棒下有电子共鸣器可产生颤音效果）"
+    ],
+    "pronunciation": "/ ˈvaɪbrəfəʊn; ˈvaɪbrəˌfon/",
+    "accepted_answers": [
+      "电颤琴（类似木琴",
+      "在金属棒下有电子共鸣器可产生颤音效果）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "vibrate",
@@ -5413,6 +6356,57 @@
     }
   },
   {
+    "term": "vibrato",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；音)；（演唱的或管弦乐器演奏产生的）颤音效果；颤音",
+    "analysis": "n [U, C] (pl ~s) (music 音) throbbing or tremulous effect in singing or on a stringed or wind instrument, consisting of rapid slight variations in pitch （演唱的或管弦乐器演奏产生的）颤音效果, 颤音. Cf 参看 tremolo.",
+    "phonetic": "/ vɪˈbrɑː:təʊ; vɪˈbrɑːto/",
+    "origin": "待查",
+    "expansions": [
+      ")(；音)；（演唱的或管弦乐器演奏产生的）颤音效果；颤音"
+    ],
+    "pronunciation": "/ vɪˈbrɑː:təʊ; vɪˈbrɑːto/",
+    "accepted_answers": [
+      ")(",
+      "音)",
+      "（演唱的或管弦乐器演奏产生的）颤音效果",
+      "颤音"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "vibrator",
+    "type": "word",
+    "pos": "N",
+    "translation": "振动装置；震动器；（尤指）颤动按摩器",
+    "analysis": "n device that vibrates or causes vibrations, esp one used in massage 振动装置; 震动器; （尤指）颤动按摩器.",
+    "phonetic": "/ -tə(r); -tə/",
+    "origin": "待查",
+    "expansions": [
+      "振动装置；震动器；（尤指）颤动按摩器"
+    ],
+    "pronunciation": "/ -tə(r); -tə/",
+    "accepted_answers": [
+      "振动装置",
+      "震动器",
+      "（尤指）颤动按摩器"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "vibratory",
     "type": "word",
     "translation": "文)；振动的；颤动的",
@@ -5434,6 +6428,54 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "viburnum",
+    "type": "word",
+    "pos": "N",
+    "translation": "荚迷属（灌木；通常开白花）",
+    "analysis": "n any of various types of shrub, usu with white flowers 荚迷属（灌木, 通常开白花）.",
+    "phonetic": "/ vaɪˈbɜːnəm; vaɪˈbɜːnəm/",
+    "origin": "待查",
+    "expansions": [
+      "荚迷属（灌木；通常开白花）"
+    ],
+    "pronunciation": "/ vaɪˈbɜːnəm; vaɪˈbɜːnəm/",
+    "accepted_answers": [
+      "荚迷属（灌木",
+      "通常开白花）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "vicar",
+    "type": "word",
+    "pos": "N",
+    "translation": "（英国国教的）牧区牧师；参看",
+    "analysis": "n (in the Church of England) clergyman in charge of a parish where tithes formerly belonged to another person or an institution （英国国教的）牧区牧师. Cf 参看 curate, minister1 3, priest, rector.",
+    "phonetic": "/ ˈvɪkə(r); ˈvɪkə/",
+    "origin": "待查",
+    "expansions": [
+      "（英国国教的）牧区牧师；参看"
+    ],
+    "pronunciation": "/ ˈvɪkə(r); ˈvɪkə/",
+    "accepted_answers": [
+      "（英国国教的）牧区牧师",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "vicarage",
@@ -5530,6 +6572,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "viceregal",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "总督的",
+    "analysis": "adj of a viceroy 总督的.",
+    "phonetic": "/ vaɪsˈriːgl; vaɪsˈrigl/",
+    "origin": "待查",
+    "expansions": [
+      "总督的"
+    ],
+    "pronunciation": "/ vaɪsˈriːgl; vaɪsˈrigl/",
+    "accepted_answers": [
+      "总督的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "vicereine",
@@ -6163,6 +7228,30 @@
     }
   },
   {
+    "term": "vigilante",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤作贬义)；（自发组织的）治安团体的成员",
+    "analysis": "n (esp derog 尤作贬义) member of a self-appointed group of people who try to prevent crime and disorder in a community （自发组织的）治安团体的成员.",
+    "phonetic": "/ ˌvɪdʒɪˈlæntɪ; ˌvɪdʒəˈlæntɪ/",
+    "origin": "待查",
+    "expansions": [
+      "尤作贬义)；（自发组织的）治安团体的成员"
+    ],
+    "pronunciation": "/ ˌvɪdʒɪˈlæntɪ; ˌvɪdʒəˈlæntɪ/",
+    "accepted_answers": [
+      "尤作贬义)",
+      "（自发组织的）治安团体的成员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "vignette",
     "type": "word",
     "translation": "（无框线的）小插图（尤指书籍扉页上的）；晕映照；晕映画像（尤指半身的）；比喻)",
@@ -6302,6 +7391,29 @@
     "pronunciation": "/ ˈvaɪllɪ; ˈvaɪllɪ/",
     "accepted_answers": [
       "vilely"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "vilification",
+    "type": "word",
+    "pos": "N",
+    "translation": "vilification",
+    "analysis": "n [U, C].",
+    "phonetic": "/ ˌvɪlɪfɪˈkeɪʃn; ˌvɪləfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "vilification"
+    ],
+    "pronunciation": "/ ˌvɪlɪfɪˈkeɪʃn; ˌvɪləfəˈkeʃən/",
+    "accepted_answers": [
+      "vilification"
     ],
     "added_at": "",
     "review": {
@@ -6456,6 +7568,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "villein",
+    "type": "word",
+    "pos": "N",
+    "translation": "（欧洲中世纪的）农奴（完全附属於封建领主的）",
+    "analysis": "n (in medieval Europe) feudal tenant of land who was entirely subject to his lord （欧洲中世纪的）农奴（完全附属於封建领主的）.",
+    "phonetic": "/ ˈvɪleɪn; ˈvɪlˌen/",
+    "origin": "待查",
+    "expansions": [
+      "（欧洲中世纪的）农奴（完全附属於封建领主的）"
+    ],
+    "pronunciation": "/ ˈvɪleɪn; ˈvɪlˌen/",
+    "accepted_answers": [
+      "（欧洲中世纪的）农奴（完全附属於封建领主的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "villeinage",
@@ -6652,6 +7787,31 @@
     "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
+    "term": "vinegary",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "醋的；酸的；有醋的气味或味道的",
+    "analysis": "adj  1 of or like vinegar in smell or taste 醋的; 酸的; 有醋的气味或味道的.  2 (fig 比喻) sour-tempered; peevish 尖酸的; 刻薄的; 乖戾的.",
+    "phonetic": "/ ˈvɪnɪgərɪ; ˈvɪnɪgərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "醋的；酸的；有醋的气味或味道的"
+    ],
+    "pronunciation": "/ ˈvɪnɪgərɪ; ˈvɪnɪgərɪ/",
+    "accepted_answers": [
+      "醋的",
+      "酸的",
+      "有醋的气味或味道的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "vineyard",
     "type": "word",
     "pos": "N",
@@ -6772,6 +7932,78 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vintner",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)；葡萄酒商",
+    "analysis": "n (dated 旧) wine-merchant葡萄酒商.",
+    "phonetic": "/ ˈvɪntnə(r); ˈvɪntnə/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；葡萄酒商"
+    ],
+    "pronunciation": "/ ˈvɪntnə(r); ˈvɪntnə/",
+    "accepted_answers": [
+      "旧)",
+      "葡萄酒商"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "vinyl",
+    "type": "word",
+    "pos": "N",
+    "translation": "乙烯基塑料（尤指聚氯乙烯）",
+    "analysis": "n [U, C] (any of various types of) tough flexible plastic, esp PVC, used for making raincoats, records, book covers, etc 乙烯基塑料（尤指聚氯乙烯）.",
+    "phonetic": "/ ˈvaɪnl; ˈvaɪnl/",
+    "origin": "待查",
+    "expansions": [
+      "乙烯基塑料（尤指聚氯乙烯）"
+    ],
+    "pronunciation": "/ ˈvaɪnl; ˈvaɪnl/",
+    "accepted_answers": [
+      "乙烯基塑料（尤指聚氯乙烯）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "viola",
+    "type": "word",
+    "pos": "N",
+    "translation": "中提琴；见附录；插图",
+    "analysis": "n stringed musical instrument played with a bow, of larger size than a violin 中提琴. =>illus at App 1 见附录1插图, page xi.",
+    "phonetic": "/ vɪˈəʊlə; vɪˈolə/",
+    "origin": "待查",
+    "expansions": [
+      "中提琴；见附录；插图"
+    ],
+    "pronunciation": "/ vɪˈəʊlə; vɪˈolə/",
+    "accepted_answers": [
+      "中提琴",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "violate",
@@ -7005,6 +8237,56 @@
     }
   },
   {
+    "term": "virago",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；文)；泼妇",
+    "analysis": "n (pl ~s) (fml 文) violent and bad-tempered woman who scolds and shouts 泼妇; 悍妇.\nviral\n=> virus.",
+    "phonetic": "/ vɪˈrɑː:gəʊ; vəˈrɑːgo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文)；泼妇"
+    ],
+    "pronunciation": "/ vɪˈrɑː:gəʊ; vəˈrɑːgo/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "泼妇"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "viral",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（似）病毒的；病毒引起的；缩写",
+    "analysis": "adj of, like or caused by a virus （似）病毒的; 病毒引起的.\nVis (also Visc) \nabbr 缩写 = Viscount(ess).",
+    "phonetic": "/ ˈvaɪərəl; ˈvaɪrəl/",
+    "origin": "待查",
+    "expansions": [
+      "（似）病毒的；病毒引起的；缩写"
+    ],
+    "pronunciation": "/ ˈvaɪərəl; ˈvaɪrəl/",
+    "accepted_answers": [
+      "（似）病毒的",
+      "病毒引起的",
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "virgin",
     "type": "word",
     "translation": "未发生过性行为的人；（尤指）处女；童贞女马利亚（耶稣之母）",
@@ -7052,6 +8334,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "virginals",
+    "type": "word",
+    "pos": "N",
+    "translation": "维金纳琴（方形；有键盘；无腿；见於；世纪）",
+    "analysis": "n [pl] square keyboardinstrument without legs used in the 16th and 17th centuries 维金纳琴（方形, 有键盘, 无腿, 见於16和17世纪）.",
+    "phonetic": "/ ˈvɜːdʒɪnəlz; ˈvɜːdʒənəlz/",
+    "origin": "待查",
+    "expansions": [
+      "维金纳琴（方形；有键盘；无腿；见於；世纪）"
+    ],
+    "pronunciation": "/ ˈvɜːdʒɪnəlz; ˈvɜːdʒənəlz/",
+    "accepted_answers": [
+      "维金纳琴（方形",
+      "有键盘",
+      "无腿",
+      "见於",
+      "世纪）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "virginia",
@@ -7216,6 +8525,52 @@
     "pronunciation": "/ ˌvaɪərəˈlɒdʒɪkl; ˌvaɪrəˈlɑːdʒɪkəl/",
     "accepted_answers": [
       "virological"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "virologist",
+    "type": "word",
+    "pos": "N",
+    "translation": "virologist",
+    "analysis": "n.",
+    "phonetic": "/ vaɪəˈrɒlədʒɪst; vaɪˈrɑːlədʒɪst/",
+    "origin": "待查",
+    "expansions": [
+      "virologist"
+    ],
+    "pronunciation": "/ vaɪəˈrɒlədʒɪst; vaɪˈrɑːlədʒɪst/",
+    "accepted_answers": [
+      "virologist"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "virology",
+    "type": "word",
+    "pos": "N",
+    "translation": "病毒学",
+    "analysis": "n [U] scientific study of viruses and virus diseases 病毒学.",
+    "phonetic": "/ vaɪəˈrɒlədʒɪ; vaɪˈrɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "病毒学"
+    ],
+    "pronunciation": "/ vaɪəˈrɒlədʒɪ; vaɪˈrɑːlədʒɪ/",
+    "accepted_answers": [
+      "病毒学"
     ],
     "added_at": "",
     "review": {
@@ -7641,6 +8996,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "viscountcy",
+    "type": "word",
+    "pos": "N",
+    "translation": "子爵的头衔或爵位",
+    "analysis": "n title or rank of a viscount 子爵的头衔或爵位.",
+    "phonetic": "/ -tsɪ; -tsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "子爵的头衔或爵位"
+    ],
+    "pronunciation": "/ -tsɪ; -tsɪ/",
+    "accepted_answers": [
+      "子爵的头衔或爵位"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
+    "term": "viscountess",
+    "type": "word",
+    "pos": "N",
+    "translation": "子爵夫人或遗孀；女子爵",
+    "analysis": "n  1 viscount's wife or widow 子爵夫人或遗孀.  2 female viscount 女子爵.",
+    "phonetic": "/ ˈvaɪkaUntɪs; ˈvaɪkaJntɪs/",
+    "origin": "待查",
+    "expansions": [
+      "子爵夫人或遗孀；女子爵"
+    ],
+    "pronunciation": "/ ˈvaɪkaUntɪs; ˈvaɪkaJntɪs/",
+    "accepted_answers": [
+      "子爵夫人或遗孀",
+      "女子爵"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "viscous",
@@ -8238,6 +9640,29 @@
     }
   },
   {
+    "term": "vitiation",
+    "type": "word",
+    "pos": "N",
+    "translation": "vitiation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌvɪʃɪˈeɪʃn; ˌvɪʃɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "vitiation"
+    ],
+    "pronunciation": "/ ˌvɪʃɪˈeɪʃn; ˌvɪʃɪˈeʃən/",
+    "accepted_answers": [
+      "vitiation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "viticulture",
     "type": "word",
     "pos": "N",
@@ -8450,6 +9875,29 @@
     }
   },
   {
+    "term": "viva",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)",
+    "analysis": "n (Brit infml 口) = viva voce.",
+    "phonetic": "/ ˈvaɪvə; ˈvaɪvə/",
+    "origin": "待查",
+    "expansions": [
+      "口)"
+    ],
+    "pronunciation": "/ ˈvaɪvə; ˈvaɪvə/",
+    "accepted_answers": [
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "viva voce",
     "type": "word",
     "translation": "英式口语作；口试（尤指大学的）；)参加口试",
@@ -8522,6 +9970,29 @@
     }
   },
   {
+    "term": "vivacity",
+    "type": "word",
+    "pos": "N",
+    "translation": "vivacity",
+    "analysis": "(also vivaciousness) n [U].",
+    "phonetic": "/ vɪˈvæsətɪ; vaɪˈvæsətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "vivacity"
+    ],
+    "pronunciation": "/ vɪˈvæsətɪ; vaɪˈvæsətɪ/",
+    "accepted_answers": [
+      "vivacity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
+  },
+  {
     "term": "vivid",
     "type": "word",
     "translation": "（指光线或颜色）鲜明的；鲜艳的；强烈的；耀眼的闪电；鲜绿色的裤子",
@@ -8547,6 +10018,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "viviparous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "生)(；（指大多哺乳类动物）胎生的",
+    "analysis": "adj (biology生) (of most mammals) having offspring that develop within the mother's body, ie that do not hatch from eggs （指大多哺乳类动物）胎生的.",
+    "phonetic": "/ vɪˈvɪpərəs; vaɪ-; vaɪˈvɪpərəs/",
+    "origin": "待查",
+    "expansions": [
+      "生)(；（指大多哺乳类动物）胎生的"
+    ],
+    "pronunciation": "/ vɪˈvɪpərəs; vaɪ-; vaɪˈvɪpərəs/",
+    "accepted_answers": [
+      "生)(",
+      "（指大多哺乳类动物）胎生的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-f,g,h,i.txt"
   },
   {
     "term": "vivisection",
@@ -8742,6 +10237,80 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vocalise",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；说（话）；唱（歌）",
+    "analysis": "v [Tn] (fml 文) say or sing (sounds or words); utter 说（话）; 唱（歌）; 发声.",
+    "phonetic": "/ ˈvəʊkəlaɪz; ˈvoklˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "文)；说（话）；唱（歌）"
+    ],
+    "pronunciation": "/ ˈvəʊkəlaɪz; ˈvoklˌaɪz/",
+    "accepted_answers": [
+      "文)",
+      "说（话）",
+      "唱（歌）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
+    "term": "vocalist",
+    "type": "word",
+    "pos": "N",
+    "translation": "歌手（尤指爵士乐队或流行音乐乐队的）；参看",
+    "analysis": "n singer, esp in a jazz or pop group 歌手（尤指爵士乐队或流行音乐乐队的）. Cf 参看 instrumentalist (instrumental).",
+    "phonetic": "/ ˈvəʊkəlɪst; ˈvoklɪst/",
+    "origin": "待查",
+    "expansions": [
+      "歌手（尤指爵士乐队或流行音乐乐队的）；参看"
+    ],
+    "pronunciation": "/ ˈvəʊkəlɪst; ˈvoklɪst/",
+    "accepted_answers": [
+      "歌手（尤指爵士乐队或流行音乐乐队的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
+    "term": "vocalize",
+    "type": "word",
+    "pos": "V",
+    "translation": "文)；说（话）；唱（歌）",
+    "analysis": "v [Tn] (fml 文) say or sing (sounds or words); utter 说（话）; 唱（歌）; 发声.",
+    "phonetic": "/ ˈvəʊkəlaɪz; ˈvoklˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "文)；说（话）；唱（歌）"
+    ],
+    "pronunciation": "/ ˈvəʊkəlaɪz; ˈvoklˌaɪz/",
+    "accepted_answers": [
+      "文)",
+      "说（话）",
+      "唱（歌）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
   },
   {
     "term": "vocally",
@@ -9062,6 +10631,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "volatility",
+    "type": "word",
+    "pos": "N",
+    "translation": "volatility",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌvɒləˈtɪlətɪ; ˌvɑːləˈtɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "volatility"
+    ],
+    "pronunciation": "/ ˌvɒləˈtɪlətɪ; ˌvɑːləˈtɪlətɪ/",
+    "accepted_answers": [
+      "volatility"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
   },
   {
     "term": "volcanic",
@@ -9487,6 +11079,31 @@
     }
   },
   {
+    "term": "voluptuary",
+    "type": "word",
+    "pos": "N",
+    "translation": "文；尤作贬义)；骄奢淫逸的人",
+    "analysis": "n (fml esp derog 文, 尤作贬义) person who seeks and enjoys luxury and sensual pleasure 骄奢淫逸的人.",
+    "phonetic": "/ vəˈlʌptʃUərɪ; -Uerɪ; vəˈlʌptʃJˌerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文；尤作贬义)；骄奢淫逸的人"
+    ],
+    "pronunciation": "/ vəˈlʌptʃUərɪ; -Uerɪ; vəˈlʌptʃJˌerɪ/",
+    "accepted_answers": [
+      "文",
+      "尤作贬义)",
+      "骄奢淫逸的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
     "term": "voluptuous",
     "type": "word",
     "translation": "给人奢华或感官享受的；刺激感官的想法、抚摸、微笑；热水浴的舒适享受",
@@ -9864,6 +11481,31 @@
     }
   },
   {
+    "term": "vox populi",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "拉)(；口语作；舆论（尤指经传媒片断表达的）",
+    "analysis": "(Latin 拉) (also infml 口语作 vox pop / 9vCks 5pCp; 9vBks `pBp/) public opinion or popular belief, esp as expressed in short media interviews with ordinary people on matters of interest 舆论（尤指经传媒片断表达的）.",
+    "phonetic": "/ ˌvɒksˈpɒpjUlaɪ; ˌvɑːksˈpɑːpjəlaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "拉)(；口语作；舆论（尤指经传媒片断表达的）"
+    ],
+    "pronunciation": "/ ˌvɒksˈpɒpjUlaɪ; ˌvɑːksˈpɑːpjəlaɪ/",
+    "accepted_answers": [
+      "拉)(",
+      "口语作",
+      "舆论（尤指经传媒片断表达的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/P/P-m,n,o.txt"
+  },
+  {
     "term": "voyage",
     "type": "word",
     "translation": "航行；（尤指）航海；航天；在出航",
@@ -9889,6 +11531,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "voyeur",
+    "type": "word",
+    "pos": "N",
+    "translation": "窥阴癖者（秘密窥视他人脱衣或性行为而获快感的人）",
+    "analysis": "n person who gets pleasure from watching in secret others undressing or engaging in sexual activities 窥阴癖者（秘密窥视他人脱衣或性行为而获快感的人）.",
+    "phonetic": "/ vɔːɪˈɜː(r); vɔːɪˈɜː/",
+    "origin": "待查",
+    "expansions": [
+      "窥阴癖者（秘密窥视他人脱衣或性行为而获快感的人）"
+    ],
+    "pronunciation": "/ vɔːɪˈɜː(r); vɔːɪˈɜː/",
+    "accepted_answers": [
+      "窥阴癖者（秘密窥视他人脱衣或性行为而获快感的人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
   },
   {
     "term": "voyeurism",
@@ -10007,6 +11672,29 @@
     "dict_source": "data/DICT/V/V-j~z.txt"
   },
   {
+    "term": "vulcanise",
+    "type": "word",
+    "pos": "V",
+    "translation": "硫化（橡胶等）",
+    "analysis": "v [Tn] treat(rubber, etc) with sulphur, etc at great heat to make itstronger and more elastic 硫化（橡胶等）.",
+    "phonetic": "/ ˈvʌlkənaɪz; ˈvʌlkənˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "硫化（橡胶等）"
+    ],
+    "pronunciation": "/ ˈvʌlkənaɪz; ˈvʌlkənˌaɪz/",
+    "accepted_answers": [
+      "硫化（橡胶等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
     "term": "vulcanite",
     "type": "word",
     "pos": "N",
@@ -10021,6 +11709,52 @@
     "accepted_answers": [
       "硬质橡胶",
       "硬橡皮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
+    "term": "vulcanization",
+    "type": "word",
+    "pos": "N",
+    "translation": "vulcanization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌvʌlkənaɪˈzeɪʃn; -nɪˈz-; ˌvʌlkənəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "vulcanization"
+    ],
+    "pronunciation": "/ ˌvʌlkənaɪˈzeɪʃn; -nɪˈz-; ˌvʌlkənəˈzeʃən/",
+    "accepted_answers": [
+      "vulcanization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
+  },
+  {
+    "term": "vulcanize",
+    "type": "word",
+    "pos": "V",
+    "translation": "硫化（橡胶等）",
+    "analysis": "v [Tn] treat(rubber, etc) with sulphur, etc at great heat to make itstronger and more elastic 硫化（橡胶等）.",
+    "phonetic": "/ ˈvʌlkənaɪz; ˈvʌlkənˌaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "硫化（橡胶等）"
+    ],
+    "pronunciation": "/ ˈvʌlkənaɪz; ˈvʌlkənˌaɪz/",
+    "accepted_answers": [
+      "硫化（橡胶等）"
     ],
     "added_at": "",
     "review": {
@@ -10078,6 +11812,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "vulgarise",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（某人、举止等）粗俗或俗气；使（某事物）俗气、庸俗化或通俗化；普及",
+    "analysis": "v [Tn]  1 cause (a person, his manners, etc) to become vulgar 使（某人、举止等）粗俗或俗气.  2 spoil (sth) by making it too ordinary or well known; popularize 使（某事物）俗气、 庸俗化或通俗化; 普及.",
+    "phonetic": "/ ˈvʌlgəraɪz; ˈvʌlgəˌraɪz/",
+    "origin": "待查",
+    "expansions": [
+      "使（某人、举止等）粗俗或俗气；使（某事物）俗气、庸俗化或通俗化；普及"
+    ],
+    "pronunciation": "/ ˈvʌlgəraɪz; ˈvʌlgəˌraɪz/",
+    "accepted_answers": [
+      "使（某人、举止等）粗俗或俗气",
+      "使（某事物）俗气、庸俗化或通俗化",
+      "普及"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/V/V-j~z.txt"
   },
   {
     "term": "vulgarism",

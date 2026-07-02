@@ -14,11 +14,11 @@ window.APP_CONFIG = {
   localContentCacheTtlMs: 86400000,
   defaultProfileId: "",
   contentStats: {
-    wordsCount: 173,
-    dictionaryCount: 26631,
-    wordsUpdatedAt: "2026-06-06T02:08:05.031Z",
-    dictionaryUpdatedAt: "2026-06-06T02:04:26.782Z",
-    wordsLatestTerm: "obsess",
-    dictionaryLatestTerm: "minuscule",
+    wordsCount: 179,
+    dictionaryCount: 29203,
+    wordsUpdatedAt: "2026-07-02T03:31:48.589Z",
+    dictionaryUpdatedAt: "2026-07-02T03:31:48.589Z",
+    wordsLatestTerm: "morphology",
+    dictionaryLatestTerm: "morphology",
   },
 };

@@ -1076,6 +1076,32 @@
     "dict_source": "data/DICT/S/S-a.txt"
   },
   {
+    "term": "sacrificial",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（似）供奉（品）的；献祭（品）的；祭祀（品）的；牺牲（品）的",
+    "analysis": "adj [usu attrib 通常作定语] of or like a sacrifice （似）供奉（品）的, 献祭（品）的, 祭祀（品）的, 牺牲（品）的.",
+    "phonetic": "/ ˌsækrɪˈfɪʃl; ˌsækrəˈfɪʃəl/",
+    "origin": "待查",
+    "expansions": [
+      "（似）供奉（品）的；献祭（品）的；祭祀（品）的；牺牲（品）的"
+    ],
+    "pronunciation": "/ ˌsækrɪˈfɪʃl; ˌsækrəˈfɪʃəl/",
+    "accepted_answers": [
+      "（似）供奉（品）的",
+      "献祭（品）的",
+      "祭祀（品）的",
+      "牺牲（品）的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "sacrificially",
     "type": "word",
     "pos": "Adv",
@@ -1317,6 +1343,55 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "saddler",
+    "type": "word",
+    "pos": "N",
+    "translation": "鞍匠；马具师",
+    "analysis": "n maker of saddles and leather goods for horses 鞍匠; 马具师.",
+    "phonetic": "/ ˈsædlə(r); ˈsædlə/",
+    "origin": "待查",
+    "expansions": [
+      "鞍匠；马具师"
+    ],
+    "pronunciation": "/ ˈsædlə(r); ˈsædlə/",
+    "accepted_answers": [
+      "鞍匠",
+      "马具师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
+    "term": "saddlery",
+    "type": "word",
+    "pos": "N",
+    "translation": "马具；马具制造术；马具业",
+    "analysis": "n  1 [U] (a) goods made or sold by a saddler 马具. (b) the art of making these 马具制造术.  2 [C] saddler's business 马具业.\nsaddle-bag \nn  1 either of a pair of bags laid over the back of a horse or donkey 马褡子; 驴褡子.  2 bag attached to the back of a bicycle saddle （自行车後座上的）挂包.\nsaddle-sore \nadj (of a rider) sore and stiff after riding （指骑马人）（骑马後）疼痛并发僵的.\nsaddle stitching \nlong running-stitch made with thick thread, used decoratively 鞍形针迹.",
+    "phonetic": "/ ˈsædlərɪ; ˈsædlərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "马具；马具制造术；马具业"
+    ],
+    "pronunciation": "/ ˈsædlərɪ; ˈsædlərɪ/",
+    "accepted_answers": [
+      "马具",
+      "马具制造术",
+      "马具业"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
   },
   {
     "term": "sadhu",
@@ -1807,6 +1882,29 @@
     "dict_source": "data/DICT/S/S-a.txt"
   },
   {
+    "term": "sagittarian",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "用法见",
+    "analysis": "n, adj. => Usage at zodiac 用法见 zodiac.",
+    "phonetic": "/ -ˈteərɪən; -ˈterɪən/",
+    "origin": "待查",
+    "expansions": [
+      "用法见"
+    ],
+    "pronunciation": "/ -ˈteərɪən; -ˈterɪən/",
+    "accepted_answers": [
+      "用法见"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "sagittarius",
     "type": "word",
     "pos": "N",
@@ -1893,6 +1991,29 @@
     "accepted_answers": [
       "（常用於印度",
       "旧时用作对欧洲男子直接或间接的称呼）老爷（通常用以指有社会地位或官职者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
+    "term": "said",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)",
+    "analysis": "1 pt, pp of say.  2 adj [attrib 作定语] (fml 文) = aforementioned.",
+    "phonetic": "/ sed; sed/",
+    "origin": "待查",
+    "expansions": [
+      "文)"
+    ],
+    "pronunciation": "/ sed; sed/",
+    "accepted_answers": [
+      "文)"
     ],
     "added_at": "",
     "review": {
@@ -2301,6 +2422,29 @@
     "dict_source": "data/DICT/S/S-a.txt"
   },
   {
+    "term": "salami",
+    "type": "word",
+    "pos": "N",
+    "translation": "萨拉米香肠（通常冷食）",
+    "analysis": "n [U] sausage salted and flavoured with spices, usu eaten cold 萨拉米香肠（通常冷食）.",
+    "phonetic": "/ səˈlɑː:mɪ; səˈlɑːmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "萨拉米香肠（通常冷食）"
+    ],
+    "pronunciation": "/ səˈlɑː:mɪ; səˈlɑːmɪ/",
+    "accepted_answers": [
+      "萨拉米香肠（通常冷食）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "salary",
     "type": "word",
     "translation": "（非体力劳动雇员的）薪金；薪水（通常按月计）；英镑的年薪；你发薪了吗",
@@ -2543,6 +2687,29 @@
       "狗见到骨头就大量分泌唾液"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
+    "term": "salivation",
+    "type": "word",
+    "pos": "N",
+    "translation": "salivation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsælɪˈveɪʃn; ˌsæləˈveʃən/",
+    "origin": "待查",
+    "expansions": [
+      "salivation"
+    ],
+    "pronunciation": "/ ˌsælɪˈveɪʃn; ˌsæləˈveʃən/",
+    "accepted_answers": [
+      "salivation"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -2811,6 +2978,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "salsify",
+    "type": "word",
+    "pos": "N",
+    "translation": "蒜叶婆罗门参；牡蛎草；蔬菜牡蛎（根长而肉厚；可作蔬菜）",
+    "analysis": "n [U] plant with a long fleshy root cooked as a vegetable 蒜叶婆罗门参, 牡蛎草, 蔬菜牡蛎（根长而肉厚, 可作蔬菜）.",
+    "phonetic": "/ ˈsælsɪfɪ; ˈsælsəfɪ/",
+    "origin": "待查",
+    "expansions": [
+      "蒜叶婆罗门参；牡蛎草；蔬菜牡蛎（根长而肉厚；可作蔬菜）"
+    ],
+    "pronunciation": "/ ˈsælsɪfɪ; ˈsælsəfɪ/",
+    "accepted_answers": [
+      "蒜叶婆罗门参",
+      "牡蛎草",
+      "蔬菜牡蛎（根长而肉厚",
+      "可作蔬菜）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
   },
   {
     "term": "salt",
@@ -3472,6 +3665,29 @@
     "dict_source": "data/DICT/S/S-a.txt"
   },
   {
+    "term": "sanctification",
+    "type": "word",
+    "pos": "N",
+    "translation": "sanctification",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsæŋktɪfɪˈkeɪʃn; ˌsæŋktəfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "sanctification"
+    ],
+    "pronunciation": "/ ˌsæŋktɪfɪˈkeɪʃn; ˌsæŋktəfəˈkeʃən/",
+    "accepted_answers": [
+      "sanctification"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "sanctify",
     "type": "word",
     "translation": "使（某人；某事物；）神圣化",
@@ -3894,6 +4110,30 @@
     }
   },
   {
+    "term": "sangria",
+    "type": "word",
+    "pos": "N",
+    "translation": "西)；桑格里酒（由红葡萄酒、水果汁、汽水等配制而成）",
+    "analysis": "n [U] (Spanish 西) drink made of red wine with fruit, lemonade, etc 桑格里酒（由红葡萄酒、 水果汁、 汽水等配制而成）.",
+    "phonetic": "/ ˈsæŋgrɪə; sæŋˈgriːə; sæŋˈgriə/",
+    "origin": "待查",
+    "expansions": [
+      "西)；桑格里酒（由红葡萄酒、水果汁、汽水等配制而成）"
+    ],
+    "pronunciation": "/ ˈsæŋgrɪə; sæŋˈgriːə; sæŋˈgriə/",
+    "accepted_answers": [
+      "西)",
+      "桑格里酒（由红葡萄酒、水果汁、汽水等配制而成）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "sanguicolous",
     "type": "word",
     "translation": "…的；充满…的",
@@ -4007,6 +4247,29 @@
       "保健的"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
+    "term": "sanitation",
+    "type": "word",
+    "pos": "N",
+    "translation": "卫生系统或设备（尤指下水道设备）",
+    "analysis": "n [U] systems thatprotect people's health, esp those that dispose efficiently of sewage 卫生系统或设备（尤指下水道设备）.",
+    "phonetic": "/ ˌsænɪˈteɪʃn; ˌsænəˈteʃən/",
+    "origin": "待查",
+    "expansions": [
+      "卫生系统或设备（尤指下水道设备）"
+    ],
+    "pronunciation": "/ ˌsænɪˈteɪʃn; ˌsænəˈteʃən/",
+    "accepted_answers": [
+      "卫生系统或设备（尤指下水道设备）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -4186,6 +4449,30 @@
     "dict_source": "data/DICT/S/S-a.txt"
   },
   {
+    "term": "sapient",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；有智慧的",
+    "analysis": "adj (fml 文) wise 有智慧的.",
+    "phonetic": "/ ˈseɪpɪənt; ˈsepɪənt/",
+    "origin": "待查",
+    "expansions": [
+      "文)；有智慧的"
+    ],
+    "pronunciation": "/ ˈseɪpɪənt; ˈsepɪənt/",
+    "accepted_answers": [
+      "文)",
+      "有智慧的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
     "term": "sapling",
     "type": "word",
     "pos": "N",
@@ -4199,6 +4486,31 @@
     "pronunciation": "/ ˈsæplɪŋ; ˈsæplɪŋ/",
     "accepted_answers": [
       "幼树"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
+    "term": "sapphic",
+    "type": "word",
+    "pos": "N",
+    "translation": "希腊女同性恋诗人萨福式的四行诗体；萨福四行诗体的；文)",
+    "analysis": "n form of four-line verse typical of the Greek lesbian poetess Sappho 希腊女同性恋诗人萨福式的四行诗体.\nSapphic \nadj   1 of such verse 萨福四行诗体的.  2 (fml 文) lesbian 女同性恋的.",
+    "phonetic": "/ ˈsæfɪk; ˈsæfɪk/",
+    "origin": "待查",
+    "expansions": [
+      "希腊女同性恋诗人萨福式的四行诗体；萨福四行诗体的；文)"
+    ],
+    "pronunciation": "/ ˈsæfɪk; ˈsæfɪk/",
+    "accepted_answers": [
+      "希腊女同性恋诗人萨福式的四行诗体",
+      "萨福四行诗体的",
+      "文)"
     ],
     "added_at": "",
     "review": {
@@ -5577,6 +5889,31 @@
       "饱和"
     ],
     "added_at": "2026-03-30T02:57:33.430Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-a.txt"
+  },
+  {
+    "term": "saturday",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；星期六；关於",
+    "analysis": "n [U, C] (abbr 缩写 Sat) the seventh and last day of the week, next after Friday 星期六. For the uses of Saturday see the examples at Monday. 关於 Saturday 的用法见 Monday 词条中的示例.",
+    "phonetic": "/ ˈsætədɪ; ˈsætədɪ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；星期六；关於"
+    ],
+    "pronunciation": "/ ˈsætədɪ; ˈsætədɪ/",
+    "accepted_answers": [
+      "缩写",
+      "星期六",
+      "关於"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -7346,6 +7683,29 @@
     }
   },
   {
+    "term": "scandinavian",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": ")斯堪的纳维亚的（人）（即丹麦、挪威、瑞典、冰岛的）",
+    "analysis": "n, adj (native) of Scandinavia (ie Denmark, Norway, Sweden, Iceland) 斯堪的纳维亚的（人）（即丹麦、 挪威、 瑞典、 冰岛的）.\nscansion\n=> scan.",
+    "phonetic": "/ ˌskændɪˈneɪvɪən; ˌskændəˈnevɪən/",
+    "origin": "待查",
+    "expansions": [
+      ")斯堪的纳维亚的（人）（即丹麦、挪威、瑞典、冰岛的）"
+    ],
+    "pronunciation": "/ ˌskændɪˈneɪvɪən; ˌskændəˈnevɪən/",
+    "accepted_answers": [
+      ")斯堪的纳维亚的（人）（即丹麦、挪威、瑞典、冰岛的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
     "term": "scansion",
     "type": "word",
     "pos": "N",
@@ -8398,6 +8758,29 @@
     }
   },
   {
+    "term": "sceptically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "sceptically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "sceptically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "sceptically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
     "term": "scepticism",
     "type": "word",
     "translation": "怀疑态度；怀疑主义；她对权威所持的善意的怀疑态度",
@@ -8798,6 +9181,31 @@
     "dict_source": "data/DICT/S/S-b,c.txt"
   },
   {
+    "term": "schizoid",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "类精神分裂症的；精神分裂样的；有分裂性人格的人",
+    "analysis": "adj resembling or suffering from schizophrenia 类精神分裂症的; 精神分裂样的.\nschizoid \nn schizoid person 有分裂性人格的人.",
+    "phonetic": "/ ˈskɪtsɔːɪd; ˈskɪtsɔːɪd/",
+    "origin": "待查",
+    "expansions": [
+      "类精神分裂症的；精神分裂样的；有分裂性人格的人"
+    ],
+    "pronunciation": "/ ˈskɪtsɔːɪd; ˈskɪtsɔːɪd/",
+    "accepted_answers": [
+      "类精神分裂症的",
+      "精神分裂样的",
+      "有分裂性人格的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
     "term": "schizophasia",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -8951,6 +9359,29 @@
     "pronunciation": "/ ʃnæps; ʃnæps/",
     "accepted_answers": [
       "（谷物酿制的）烈酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
+    "term": "schnitzel",
+    "type": "word",
+    "pos": "N",
+    "translation": "炸小牛肉片（裹面包屑於黄油中炸成）",
+    "analysis": "n [C, U] (US) veal cutlet covered with breadcrumbs and fried in butter 炸小牛肉片（裹面包屑於黄油中炸成）.",
+    "phonetic": "/ ˈʃnɪtsl; ˈʃnɪtsl/",
+    "origin": "待查",
+    "expansions": [
+      "炸小牛肉片（裹面包屑於黄油中炸成）"
+    ],
+    "pronunciation": "/ ˈʃnɪtsl; ˈʃnɪtsl/",
+    "accepted_answers": [
+      "炸小牛肉片（裹面包屑於黄油中炸成）"
     ],
     "added_at": "",
     "review": {
@@ -9573,6 +10004,29 @@
     }
   },
   {
+    "term": "scintillation",
+    "type": "word",
+    "pos": "N",
+    "translation": "scintillation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsɪntɪˈleɪʃn; -tlˈeɪʃn; ˌsɪntlˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "scintillation"
+    ],
+    "pronunciation": "/ ˌsɪntɪˈleɪʃn; -tlˈeɪʃn; ˌsɪntlˈeʃən/",
+    "accepted_answers": [
+      "scintillation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
     "term": "sciographic",
     "type": "word",
     "translation": "…的；与…有关的",
@@ -9595,6 +10049,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "scion",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；子孙；後裔（尤指贵族的）；幼枝",
+    "analysis": "n  1 (fml 文) young member of a family, esp a noble one 子孙, 後裔（尤指贵族的）.  2 shoot of a plant, esp one cut for grafting or planting 幼枝; 幼芽; （尤指）接穗.",
+    "phonetic": "/ ˈsaɪən; ˈsaɪən/",
+    "origin": "待查",
+    "expansions": [
+      "文)；子孙；後裔（尤指贵族的）；幼枝"
+    ],
+    "pronunciation": "/ ˈsaɪən; ˈsaɪən/",
+    "accepted_answers": [
+      "文)",
+      "子孙",
+      "後裔（尤指贵族的）",
+      "幼枝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
   },
   {
     "term": "scissors",
@@ -10061,6 +10541,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "scornfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "scornfully",
+    "analysis": "adv.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "scornfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "scornfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
   },
   {
     "term": "scorpio",
@@ -11756,6 +12259,29 @@
     }
   },
   {
+    "term": "scrutineer",
+    "type": "word",
+    "pos": "N",
+    "translation": "监票人",
+    "analysis": "n (Brit) person who checks that an election or other vote is carried out correctly 监票人.",
+    "phonetic": "/ ˌskruːtɪˈnɪə(r); -tnˈɪər; ˌskrutnˈɪə/",
+    "origin": "待查",
+    "expansions": [
+      "监票人"
+    ],
+    "pronunciation": "/ ˌskruːtɪˈnɪə(r); -tnˈɪər; ˌskrutnˈɪə/",
+    "accepted_answers": [
+      "监票人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
     "term": "scrutinise",
     "type": "word",
     "translation": "仔细或彻底检查（某事物）；仔细审阅与该案审判有关的所有文件",
@@ -11986,6 +12512,29 @@
     "pronunciation": "/ ˈskʌlərɪ; ˈskʌlərɪ/",
     "accepted_answers": [
       "（厨房旁的）洗涤室（通常设於大宅中）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
+    "term": "scullion",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时）做粗活儿的男子（如在厨房洗碗）",
+    "analysis": "n (formerly) boy or man who did simple tasks, eg washing-up, in a kitchen （旧时）做粗活儿的男子（如在厨房洗碗）.\nsculpt\n= sculpture v.",
+    "phonetic": "/ ˈskʌlɪən; ˈskʌljən/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时）做粗活儿的男子（如在厨房洗碗）"
+    ],
+    "pronunciation": "/ ˈskʌlɪən; ˈskʌljən/",
+    "accepted_answers": [
+      "（旧时）做粗活儿的男子（如在厨房洗碗）"
     ],
     "added_at": "",
     "review": {
@@ -12365,6 +12914,31 @@
     }
   },
   {
+    "term": "scylla",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；文)；进退维谷",
+    "analysis": "n (idm 习语) between Scylla and Charybdis (fml 文) faced by a problem or danger that one can only avoid by facing another, equally unpleasant problem or danger 进退维谷.",
+    "phonetic": "/ ˈsɪlə; ˈsɪlə/",
+    "origin": "待查",
+    "expansions": [
+      "习语)；文)；进退维谷"
+    ],
+    "pronunciation": "/ ˈsɪlə; ˈsɪlə/",
+    "accepted_answers": [
+      "习语)",
+      "文)",
+      "进退维谷"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-b,c.txt"
+  },
+  {
     "term": "scythe",
     "type": "word",
     "translation": "长柄大镰刀；参看；（用长柄大镰刀）割（草等）",
@@ -12487,6 +13061,29 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "seafarer",
+    "type": "word",
+    "pos": "N",
+    "translation": "水手",
+    "analysis": "n sailor 水手.",
+    "phonetic": "/ -feərə(r); -ˌferə/",
+    "origin": "待查",
+    "expansions": [
+      "水手"
+    ],
+    "pronunciation": "/ -feərə(r); -ˌferə/",
+    "accepted_answers": [
+      "水手"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "seafaring",
     "type": "word",
     "translation": "海上工作或航海（的）；海员；海上生活",
@@ -12560,6 +13157,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sealyham",
+    "type": "word",
+    "pos": "N",
+    "translation": "锡利哈姆狗",
+    "analysis": "n breed of terrier with short legs and wiry hair 锡利哈姆狗.",
+    "phonetic": "/ ˈsiːlɪəm; ˈsilɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "锡利哈姆狗"
+    ],
+    "pronunciation": "/ ˈsiːlɪəm; ˈsilɪəm/",
+    "accepted_answers": [
+      "锡利哈姆狗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
     "term": "seam",
@@ -12686,6 +13306,30 @@
     }
   },
   {
+    "term": "seamstress",
+    "type": "word",
+    "pos": "N",
+    "translation": "缝纫女工；女裁缝",
+    "analysis": "n woman who sews, esp as a paid job 缝纫女工; 女裁缝.",
+    "phonetic": "/ ˈsemstrɪs; ˈsimstrɪs/",
+    "origin": "待查",
+    "expansions": [
+      "缝纫女工；女裁缝"
+    ],
+    "pronunciation": "/ ˈsemstrɪs; ˈsimstrɪs/",
+    "accepted_answers": [
+      "缝纫女工",
+      "女裁缝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "seamy",
     "type": "word",
     "translation": "难看而污秽的；生活中丑陋的一面（如腐败、犯罪等）；肮脏的受贿丑闻",
@@ -12704,6 +13348,29 @@
       "肮脏的受贿丑闻"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "seance",
+    "type": "word",
+    "pos": "N",
+    "translation": "降神会（尤指招魂术士的）",
+    "analysis": "n meeting, esp of spiritualists, at which people try to talk with the spirits of the dead 降神会（尤指招魂术士的）.",
+    "phonetic": "/ ˈseɪɑː:ns; ˈseɑːns/",
+    "origin": "待查",
+    "expansions": [
+      "降神会（尤指招魂术士的）"
+    ],
+    "pronunciation": "/ ˈseɪɑː:ns; ˈseɑːns/",
+    "accepted_answers": [
+      "降神会（尤指招魂术士的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -12887,6 +13554,29 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "seasonally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "seasonally",
+    "analysis": "adv.",
+    "phonetic": "/ -nəlɪ; -nəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "seasonally"
+    ],
+    "pronunciation": "/ -nəlɪ; -nəlɪ/",
+    "accepted_answers": [
+      "seasonally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "seasoned",
     "type": "word",
     "translation": "经验丰富的；加调料的",
@@ -12979,6 +13669,29 @@
       "缩写",
       "（旧时）东南亚条约组织",
       "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "seaward",
+    "type": "word",
+    "pos": "Adj / Adv",
+    "translation": "向海（的）",
+    "analysis": "adj, adv towards the sea; in the direction of the sea 向海（的）.",
+    "phonetic": "/ -wəd; -wəd/",
+    "origin": "待查",
+    "expansions": [
+      "向海（的）"
+    ],
+    "pronunciation": "/ -wəd; -wəd/",
+    "accepted_answers": [
+      "向海（的）"
     ],
     "added_at": "",
     "review": {
@@ -13767,6 +14480,30 @@
     }
   },
   {
+    "term": "secularism",
+    "type": "word",
+    "pos": "N",
+    "translation": "现世主义；世俗主义",
+    "analysis": "n [U] belief that morality, education, etc should not be based on religion 现世主义; 世俗主义.",
+    "phonetic": "/ -lərɪzəm; -lərˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "现世主义；世俗主义"
+    ],
+    "pronunciation": "/ -lərɪzəm; -lərˌɪzəm/",
+    "accepted_answers": [
+      "现世主义",
+      "世俗主义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "secularist",
     "type": "word",
     "pos": "N",
@@ -13911,6 +14648,30 @@
       "保障"
     ],
     "added_at": "2026-03-30T01:03:44.062Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "sedan",
+    "type": "word",
+    "pos": "N",
+    "translation": "轿子（尤指；世纪的）",
+    "analysis": "n  1 = saloon4.  2 (also sedan-chair) box containing a seat for one person, carried on poles by two people, esp in the 17th and 18th centuries 轿子（尤指17及18世纪的）.",
+    "phonetic": "/ sɪˈdæn; sɪˈdæn/",
+    "origin": "待查",
+    "expansions": [
+      "轿子（尤指；世纪的）"
+    ],
+    "pronunciation": "/ sɪˈdæn; sɪˈdæn/",
+    "accepted_answers": [
+      "轿子（尤指",
+      "世纪的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -15254,6 +16015,29 @@
     }
   },
   {
+    "term": "self-abnegation",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)",
+    "analysis": "n [U] (fml 文) = abnegation.",
+    "phonetic": "/ ˌselfæbnɪˈgeɪʃn; ˌselfˌæbnɪˈgeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)"
+    ],
+    "pronunciation": "/ ˌselfæbnɪˈgeɪʃn; ˌselfˌæbnɪˈgeʃən/",
+    "accepted_answers": [
+      "文)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "self-absorbed",
     "type": "word",
     "translation": "只顾自己的；他只顾自己；不关心我们",
@@ -15314,6 +16098,29 @@
     "accepted_answers": [
       "婉)",
       "手淫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "self-addressed",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指回信信封）写有寄给自己的姓名地址的",
+    "analysis": "adj [usu attrib 通常作定语] (of an envelope that will be used for a reply) addressed to oneself （指回信信封）写有寄给自己的姓名地址的.",
+    "phonetic": "/ ˌselfəˈdrest; ˌselfəˈdrest/",
+    "origin": "待查",
+    "expansions": [
+      "（指回信信封）写有寄给自己的姓名地址的"
+    ],
+    "pronunciation": "/ ˌselfəˈdrest; ˌselfəˈdrest/",
+    "accepted_answers": [
+      "（指回信信封）写有寄给自己的姓名地址的"
     ],
     "added_at": "",
     "review": {
@@ -16066,6 +16873,31 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "self-important",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "贬)；自视过高的；妄自尊大的",
+    "analysis": "adj (derog 贬) thinking that one is much more important than one really is; pompous 自视过高的; 妄自尊大的.",
+    "phonetic": "/ ˌselfɪmˈpɔːtənt; ˌselfɪmˈpɔːrtnt/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；自视过高的；妄自尊大的"
+    ],
+    "pronunciation": "/ ˌselfɪmˈpɔːtənt; ˌselfɪmˈpɔːrtnt/",
+    "accepted_answers": [
+      "贬)",
+      "自视过高的",
+      "妄自尊大的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "self-imposed",
     "type": "word",
     "translation": "（指责任、任务等）自愿承担的；自愿的节食、自我流放",
@@ -16346,6 +17178,30 @@
     }
   },
   {
+    "term": "self-raising flour",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "自发面粉（已含酵母的）；参看",
+    "analysis": "(US self-rising flour / -5raIzIN; -9raIzIN/) flour containinga substance which makes dough rise during baking without needing baking-powder 自发面粉（已含酵母的）. Cf 参看 plain flour (plain1).",
+    "phonetic": "/ ˌselfreɪzɪŋˈflaUə(r); ˌselfˌrezɪŋˈflaJr/",
+    "origin": "待查",
+    "expansions": [
+      "自发面粉（已含酵母的）；参看"
+    ],
+    "pronunciation": "/ ˌselfreɪzɪŋˈflaUə(r); ˌselfˌrezɪŋˈflaJr/",
+    "accepted_answers": [
+      "自发面粉（已含酵母的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/F/F-j,k,l.txt"
+  },
+  {
     "term": "self-reliance",
     "type": "word",
     "pos": "N",
@@ -16525,6 +17381,30 @@
     "pronunciation": "/ ˌselfˈsiːlɪŋ; ˌselfˈsilɪŋ/",
     "accepted_answers": [
       "（通常指信封）压合封口的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "self-seeking",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": "贬)(；先为自己打算的",
+    "analysis": "adj, n (derog 贬) (having or showing) concern for one's own interests and advantage before those of others 先为自己打算的.",
+    "phonetic": "/ ˌselfˈsiːkɪŋ; ˌselfˈsikɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "贬)(；先为自己打算的"
+    ],
+    "pronunciation": "/ ˌselfˈsiːkɪŋ; ˌselfˈsikɪŋ/",
+    "accepted_answers": [
+      "贬)(",
+      "先为自己打算的"
     ],
     "added_at": "",
     "review": {
@@ -18406,6 +19286,31 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "senescent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文或医)；衰老的；变老的",
+    "analysis": "adj (fml or medical 文或医) becoming old 衰老的; 变老的.",
+    "phonetic": "/ sɪˈnesnt; səˈnesnt/",
+    "origin": "待查",
+    "expansions": [
+      "文或医)；衰老的；变老的"
+    ],
+    "pronunciation": "/ sɪˈnesnt; səˈnesnt/",
+    "accepted_answers": [
+      "文或医)",
+      "衰老的",
+      "变老的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "senile",
     "type": "word",
     "translation": "衰老的；他总忘事；我看他是老了",
@@ -18524,6 +19429,32 @@
     }
   },
   {
+    "term": "senna",
+    "type": "word",
+    "pos": "N",
+    "translation": "旃那叶；山扁豆叶；番泻叶（热带一种植物的乾叶；用作通便剂）",
+    "analysis": "n [U] dried leaves of a tropical plant, used as a laxative 旃那叶, 山扁豆叶, 番泻叶（热带一种植物的乾叶, 用作通便剂）.",
+    "phonetic": "/ ˈsenə; ˈsenə/",
+    "origin": "待查",
+    "expansions": [
+      "旃那叶；山扁豆叶；番泻叶（热带一种植物的乾叶；用作通便剂）"
+    ],
+    "pronunciation": "/ ˈsenə; ˈsenə/",
+    "accepted_answers": [
+      "旃那叶",
+      "山扁豆叶",
+      "番泻叶（热带一种植物的乾叶",
+      "用作通便剂）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "senor",
     "type": "word",
     "translation": ")(；用於人名前作；说西班牙语的男子",
@@ -18562,6 +19493,31 @@
       "用於人名前作",
       ")(",
       "说西班牙语的女子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "senorita",
+    "type": "word",
+    "pos": "N",
+    "translation": "用於人名前作；)(；说西班牙语的未婚女子",
+    "analysis": "n (before a name, 用於人名前作 Senorita) (title of an) unmarried Spanish-speaking woman or girl; Miss or madam 说西班牙语的未婚女子; （对说西班牙语未婚女子的称呼）小姐（相当於 Miss 或 madam）.",
+    "phonetic": "/ ˌsenjɔːˈriːtə; ˌsenjəˈritə/",
+    "origin": "待查",
+    "expansions": [
+      "用於人名前作；)(；说西班牙语的未婚女子"
+    ],
+    "pronunciation": "/ ˌsenjɔːˈriːtə; ˌsenjəˈritə/",
+    "accepted_answers": [
+      "用於人名前作",
+      ")(",
+      "说西班牙语的未婚女子"
     ],
     "added_at": "",
     "review": {
@@ -19289,6 +20245,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sentimentalist",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；)情感柔懦的人",
+    "analysis": "n (derog 贬) person who is sentimental(2b) 情感柔懦的人.",
+    "phonetic": "/ -təlɪst; -təlɪst/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；)情感柔懦的人"
+    ],
+    "pronunciation": "/ -təlɪst; -təlɪst/",
+    "accepted_answers": [
+      "贬)",
+      ")情感柔懦的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
     "term": "sentimentality",
@@ -20235,6 +21215,29 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "seraglio",
+    "type": "word",
+    "pos": "N",
+    "translation": "穆斯林住宅中女眷居住的内室或闺房",
+    "analysis": "n (pl ~ s) part of a Muslim household reserved for women; harem 穆斯林住宅中女眷居住的内室或闺房.",
+    "phonetic": "/ seˈrɑː:lɪəʊ; sɪˈrɑːljo/",
+    "origin": "待查",
+    "expansions": [
+      "穆斯林住宅中女眷居住的内室或闺房"
+    ],
+    "pronunciation": "/ seˈrɑː:lɪəʊ; sɪˈrɑːljo/",
+    "accepted_answers": [
+      "穆斯林住宅中女眷居住的内室或闺房"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "seraph",
     "type": "word",
     "pos": "N",
@@ -20517,6 +21520,29 @@
       "把档案按顺序编上号"
     ],
     "added_at": "2026-03-30T02:30:59.085Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
+    "term": "serialisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "serialisation",
+    "analysis": "n [C, U].",
+    "phonetic": "/ ˌsɪərɪəlaɪˈzeɪʃn; -lɪˈz-; ˌsɪrɪələˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "serialisation"
+    ],
+    "pronunciation": "/ ˌsɪərɪəlaɪˈzeɪʃn; -lɪˈz-; ˌsɪrɪələˈzeʃən/",
+    "accepted_answers": [
+      "serialisation"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -21418,6 +22444,30 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "servility",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作贬义)；过分屈从的行为或态度",
+    "analysis": "n [U] (usu derog 通常作贬义) servile behaviour or attitude 过分屈从的行为或态度.",
+    "phonetic": "/ sɜːˈvɪlətɪ; sɜːˈvɪlətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "通常作贬义)；过分屈从的行为或态度"
+    ],
+    "pronunciation": "/ sɜːˈvɪlətɪ; sɜːˈvɪlətɪ/",
+    "accepted_answers": [
+      "通常作贬义)",
+      "过分屈从的行为或态度"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "servitude",
     "type": "word",
     "translation": "文)；奴役（状况）；这种农活儿工资低得可怜；简直是苦役",
@@ -21662,6 +22712,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "set square",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "三角板；三角尺",
+    "analysis": "triangular piece of plastic, metal or wood with angles of 90 , 60 and 30 (or 90, 45 and 45), used for drawing straight lines, esp at these angles 三角板; 三角尺.",
+    "phonetic": "/ ˈsetskweə(r); ˈsetskwer/",
+    "origin": "待查",
+    "expansions": [
+      "三角板；三角尺"
+    ],
+    "pronunciation": "/ ˈsetskweə(r); ˈsetskwer/",
+    "accepted_answers": [
+      "三角板",
+      "三角尺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
     "term": "sett",
@@ -22388,6 +23462,29 @@
     "dict_source": "data/DICT/S/S-d,e.txt"
   },
   {
+    "term": "sexology",
+    "type": "word",
+    "pos": "N",
+    "translation": "性学",
+    "analysis": "n [U] scientific study of human sexual behaviour 性学.",
+    "phonetic": "/ sekˈsɒlədʒɪ; sekˈsɑːlədʒɪ/",
+    "origin": "待查",
+    "expansions": [
+      "性学"
+    ],
+    "pronunciation": "/ sekˈsɒlədʒɪ; sekˈsɑːlədʒɪ/",
+    "accepted_answers": [
+      "性学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-d,e.txt"
+  },
+  {
     "term": "sextant",
     "type": "word",
     "pos": "N",
@@ -22555,6 +23652,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sf",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；口)",
+    "analysis": "abbr 缩写 = (infml 口) science fiction.\nsgd\nabbr 缩写 = signed (on a form, etc).\nSgt\nabbr 缩写 = Sergt.",
+    "phonetic": "/ ˌesˈef; ˌesˈef/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；口)"
+    ],
+    "pronunciation": "/ ˌesˈef; ˌesˈef/",
+    "accepted_answers": [
+      "缩写",
+      "口)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
   },
   {
     "term": "sh",
@@ -22878,6 +23999,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "shag",
+    "type": "word",
+    "pos": "N",
+    "translation": "浓味粗烟丝",
+    "analysis": "n [U] strong coarse type of cut tobacco 浓味粗烟丝.",
+    "phonetic": "/ ʃæg; ʃæg/",
+    "origin": "待查",
+    "expansions": [
+      "浓味粗烟丝"
+    ],
+    "pronunciation": "/ ʃæg; ʃæg/",
+    "accepted_answers": [
+      "浓味粗烟丝"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
   },
   {
     "term": "shagged",
@@ -24229,6 +25373,29 @@
     "dict_source": "data/DICT/S/S-f,g,h.txt"
   },
   {
+    "term": "she's",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩约式",
+    "analysis": "contracted form 缩约式  1 she is =>be.  2 she has =>have.",
+    "phonetic": "/ ʃiːz; ʃiz/",
+    "origin": "待查",
+    "expansions": [
+      "缩约式"
+    ],
+    "pronunciation": "/ ʃiːz; ʃiz/",
+    "accepted_answers": [
+      "缩约式"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
+  },
+  {
     "term": "sheaf",
     "type": "word",
     "translation": "（谷物等收割後的）束；捆；（文件等的）束；扎",
@@ -25005,6 +26172,31 @@
     }
   },
   {
+    "term": "shenanigans",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；恶作剧；胡闹",
+    "analysis": "n [pl] (infml 口)  1 mischievous or high-spirited behaviour 恶作剧; 胡闹.  2 trickery; deception 诡计; 诈骗.",
+    "phonetic": "/ ʃɪˈnænɪgənz; ʃəˈnænəgəns/",
+    "origin": "待查",
+    "expansions": [
+      "口)；恶作剧；胡闹"
+    ],
+    "pronunciation": "/ ʃɪˈnænɪgənz; ʃəˈnænəgəns/",
+    "accepted_answers": [
+      "口)",
+      "恶作剧",
+      "胡闹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
+  },
+  {
     "term": "shepherd",
     "type": "word",
     "translation": "牧羊人；带领；引导（人群）；导游把游客领进旅游车里",
@@ -25079,6 +26271,31 @@
     }
   },
   {
+    "term": "sherbet",
+    "type": "word",
+    "pos": "word",
+    "translation": "带甜味的果汁饮料；甜味汽水；制甜味汽水的粉",
+    "analysis": "[C, U]  1 refreshing drink of weak sweet fruit-juice 带甜味的果汁饮料.  2 (esp Brit) sweet fizzy drink, or the powder from which it is made 甜味汽水; 制甜味汽水的粉.  3 (US) = sorbet.\nsherd\n= shard.",
+    "phonetic": "/ ˈʃɜːbət; ˈʃɜːbɪt/",
+    "origin": "待查",
+    "expansions": [
+      "带甜味的果汁饮料；甜味汽水；制甜味汽水的粉"
+    ],
+    "pronunciation": "/ ˈʃɜːbət; ˈʃɜːbɪt/",
+    "accepted_answers": [
+      "带甜味的果汁饮料",
+      "甜味汽水",
+      "制甜味汽水的粉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
+  },
+  {
     "term": "sheriff",
     "type": "word",
     "pos": "N",
@@ -25127,6 +26344,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "shetland",
+    "type": "word",
+    "pos": "N",
+    "translation": "设得兰群岛（苏格兰北部）；设得兰小型马；设得兰羊毛（质地柔软）",
+    "analysis": "n (also the Shetlands [pl]) group of islands off the north coast of Scotland 设得兰群岛（苏格兰北部）.\nShetland pony \npony of a small rough-coated breed 设得兰小型马.\nShetland wool \nsoft fine kind of wool from Shetland sheep 设得兰羊毛（质地柔软）.",
+    "phonetic": "/ ˈʃetlənd; ˈʃetlənd/",
+    "origin": "待查",
+    "expansions": [
+      "设得兰群岛（苏格兰北部）；设得兰小型马；设得兰羊毛（质地柔软）"
+    ],
+    "pronunciation": "/ ˈʃetlənd; ˈʃetlənd/",
+    "accepted_answers": [
+      "设得兰群岛（苏格兰北部）",
+      "设得兰小型马",
+      "设得兰羊毛（质地柔软）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
   },
   {
     "term": "shew",
@@ -25426,6 +26668,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "shindig",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；热闹的聚会",
+    "analysis": "n (infml 口)  1 lively and noisy party 热闹的聚会.  2 = shindy.",
+    "phonetic": "/ ˈʃɪndɪg; ˈʃɪndɪg/",
+    "origin": "待查",
+    "expansions": [
+      "口)；热闹的聚会"
+    ],
+    "pronunciation": "/ ˈʃɪndɪg; ˈʃɪndɪg/",
+    "accepted_answers": [
+      "口)",
+      "热闹的聚会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
   },
   {
     "term": "shindy",
@@ -27321,6 +28587,30 @@
     }
   },
   {
+    "term": "shrive",
+    "type": "word",
+    "pos": "V",
+    "translation": "古)(；（指教士）听（某人）忏悔并赦其罪",
+    "analysis": "v (pt shrived or shrove / FrEUv; Frov/, pp shrived or shriven / 5FrIvn; `FrIvEn/) [Tn] (arch 古) (of a priest) hear (sb) confess his sins and forgive him for them （指教士）听（某人）忏悔并赦其罪.",
+    "phonetic": "/ ʃraɪv; ʃraɪv/",
+    "origin": "待查",
+    "expansions": [
+      "古)(；（指教士）听（某人）忏悔并赦其罪"
+    ],
+    "pronunciation": "/ ʃraɪv; ʃraɪv/",
+    "accepted_answers": [
+      "古)(",
+      "（指教士）听（某人）忏悔并赦其罪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-f,g,h.txt"
+  },
+  {
     "term": "shrivel",
     "type": "word",
     "translation": ")(；（使某物）蔫；萎缩；枯萎（因热、冷或乾所致）；叶子在阳光下都蔫了",
@@ -28719,6 +30009,32 @@
     "dict_source": "data/DICT/S/S-i.txt"
   },
   {
+    "term": "signaller",
+    "type": "word",
+    "pos": "N",
+    "translation": "信号员；（尤指）信号兵；（铁路）信号所；信号房",
+    "analysis": "n person who signals, esp a soldier specially trained for this purpose 信号员; （尤指）信号兵.\nsignal-box \nn (Brit) building beside a railway, from which railway signals are operated （铁路）信号所, 信号房.",
+    "phonetic": "/ ˈsɪgnələ(r); ˈsɪgnələ/",
+    "origin": "待查",
+    "expansions": [
+      "信号员；（尤指）信号兵；（铁路）信号所；信号房"
+    ],
+    "pronunciation": "/ ˈsɪgnələ(r); ˈsɪgnələ/",
+    "accepted_answers": [
+      "信号员",
+      "（尤指）信号兵",
+      "（铁路）信号所",
+      "信号房"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
     "term": "signally",
     "type": "word",
     "translation": "显著地；出色地；希望你做的事你显然并没做",
@@ -28918,6 +30234,31 @@
     }
   },
   {
+    "term": "signification",
+    "type": "word",
+    "pos": "N",
+    "translation": "文或语言)；词等的含义；词义",
+    "analysis": "n (fml or linguistics 文或语言) meaning of a word, etc 词等的含义; 词义.",
+    "phonetic": "/ ˌsɪgnɪfɪˈkeɪʃn; ˌsɪgnɪfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文或语言)；词等的含义；词义"
+    ],
+    "pronunciation": "/ ˌsɪgnɪfɪˈkeɪʃn; ˌsɪgnɪfəˈkeʃən/",
+    "accepted_answers": [
+      "文或语言)",
+      "词等的含义",
+      "词义"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
     "term": "significatory",
     "type": "word",
     "translation": "…的；用于…的",
@@ -28960,6 +30301,54 @@
       "这些符号表示什麽意思"
     ],
     "added_at": "2026-03-30T02:57:33.430Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
+    "term": "sikh",
+    "type": "word",
+    "pos": "N",
+    "translation": "锡克教教徒（源於；世纪印度教的教徒；相信只有一个神）",
+    "analysis": "n member of a religion (Sikhism) that developed from Hinduism in the 16th century and is based on a belief in only one God 锡克教教徒（源於16世纪印度教的教徒, 相信只有一个神）.",
+    "phonetic": "/ siːk; sik/",
+    "origin": "待查",
+    "expansions": [
+      "锡克教教徒（源於；世纪印度教的教徒；相信只有一个神）"
+    ],
+    "pronunciation": "/ siːk; sik/",
+    "accepted_answers": [
+      "锡克教教徒（源於",
+      "世纪印度教的教徒",
+      "相信只有一个神）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
+    "term": "silage",
+    "type": "word",
+    "pos": "N",
+    "translation": "青贮饲料（尤指贮藏在青贮塔内以备冬季饲牛的）",
+    "analysis": "n [U] green fodder stored without drying, esp in a silo, to feed cattle in winter 青贮饲料（尤指贮藏在青贮塔内以备冬季饲牛的）.",
+    "phonetic": "/ ˈsaɪlɪdʒ; ˈsaɪlɪdʒ/",
+    "origin": "待查",
+    "expansions": [
+      "青贮饲料（尤指贮藏在青贮塔内以备冬季饲牛的）"
+    ],
+    "pronunciation": "/ ˈsaɪlɪdʒ; ˈsaɪlɪdʒ/",
+    "accepted_answers": [
+      "青贮饲料（尤指贮藏在青贮塔内以备冬季饲牛的）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -29687,6 +31076,29 @@
     }
   },
   {
+    "term": "simony",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时）买卖圣职、圣物等",
+    "analysis": "n [U] (formerly) the buying and selling of church appointments, holy relics, etc （旧时）买卖圣职、 圣物等.",
+    "phonetic": "/ ˈsaɪmənɪ; ˈsaɪmənɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时）买卖圣职、圣物等"
+    ],
+    "pronunciation": "/ ˈsaɪmənɪ; ˈsaɪmənɪ/",
+    "accepted_answers": [
+      "（旧时）买卖圣职、圣物等"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
     "term": "simoom",
     "type": "word",
     "translation": "西蒙风（撒哈拉及阿拉伯沙漠地区的乾热风沙）",
@@ -29982,6 +31394,31 @@
     "dict_source": "data/DICT/S/S-i.txt"
   },
   {
+    "term": "simulacrum",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；文)；模拟物",
+    "analysis": "n (pl -cra / -krE; -krE/) (fml 文) thing resembling or made to resemble sb/sth 模拟物; 假像; 幻影.",
+    "phonetic": "/ ˌsɪmjUˈleɪkrəm; ˌsɪmjəˈlekrəm/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文)；模拟物"
+    ],
+    "pronunciation": "/ ˌsɪmjUˈleɪkrəm; ˌsɪmjəˈlekrəm/",
+    "accepted_answers": [
+      ")(",
+      "文)",
+      "模拟物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
     "term": "simulate",
     "type": "word",
     "translation": ")假装有或感到（尤指情感）；假装愤怒、高兴、有兴趣等；她精心装出的失望",
@@ -30100,6 +31537,29 @@
       "同时做出的"
     ],
     "added_at": "2026-03-30T02:30:59.085Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
+    "term": "simultaneousness",
+    "type": "word",
+    "pos": "word",
+    "translation": "simultaneousness",
+    "analysis": "ns [U].",
+    "phonetic": "/ ˌsɪmltəˈniːətɪ; ˌsaɪm-; ˌsaɪmltəˈniətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "simultaneousness"
+    ],
+    "pronunciation": "/ ˌsɪmltəˈniːətɪ; ˌsaɪm-; ˌsaɪmltəˈniətɪ/",
+    "accepted_answers": [
+      "simultaneousness"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -30409,6 +31869,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sinfully",
+    "type": "word",
+    "pos": "N / Adj / Adv",
+    "translation": "文)；无罪过的；无辜的",
+    "analysis": "adv. sinfulness n [U]. sinless adj (fml 文) never sinning; innocent 无罪过的; 无辜的; 清白的.\nsinlessness \nn [U].",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；无罪过的；无辜的"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "文)",
+      "无罪过的",
+      "无辜的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
   },
   {
     "term": "sing",
@@ -31152,6 +32637,29 @@
     }
   },
   {
+    "term": "sirocco",
+    "type": "word",
+    "pos": "N",
+    "translation": "（由非洲吹到意大利的）潮湿热风",
+    "analysis": "n (pl ~s) hot moist wind reaching Italy from Africa （由非洲吹到意大利的）潮湿热风.\nsirup\n(US) =>syrup.",
+    "phonetic": "/ sɪˈrɒkəʊ; səˈrɑːko/",
+    "origin": "待查",
+    "expansions": [
+      "（由非洲吹到意大利的）潮湿热风"
+    ],
+    "pronunciation": "/ sɪˈrɒkəʊ; səˈrɑːko/",
+    "accepted_answers": [
+      "（由非洲吹到意大利的）潮湿热风"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
     "term": "sisal",
     "type": "word",
     "translation": "西沙尔麻；剑麻（由热带植物叶制成的纤维；可制绳）；西沙尔草、纤维、绳等；做西沙尔麻的植物",
@@ -31275,6 +32783,29 @@
       "你坐得舒服吗"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-i.txt"
+  },
+  {
+    "term": "sitar",
+    "type": "word",
+    "pos": "N",
+    "translation": "锡塔琴（似吉他的印度弦乐器）",
+    "analysis": "n Indian stringed instrument resembling a guitar, with a long neck 锡塔琴（似吉他的印度弦乐器）.",
+    "phonetic": "/ sɪˈtɑː:(r),ˈsɪtɑː:(r); sɪˈtɑːr,ˈsɪˌtɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "锡塔琴（似吉他的印度弦乐器）"
+    ],
+    "pronunciation": "/ sɪˈtɑː:(r),ˈsɪtɑː:(r); sɪˈtɑːr,ˈsɪˌtɑːr/",
+    "accepted_answers": [
+      "锡塔琴（似吉他的印度弦乐器）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -31977,6 +33508,30 @@
     "dict_source": "data/DICT/S/S-j,k.txt"
   },
   {
+    "term": "skein",
+    "type": "word",
+    "pos": "N",
+    "translation": "（纱、线等的）一束；（飞行中的）一群（大雁等）",
+    "analysis": "n  1 length of wool, thread, etc wound into a loose coil （纱、 线等的）一束.  2 group of wild geese, etc in flight （飞行中的）一群（大雁等）.",
+    "phonetic": "/ skeɪn; sken/",
+    "origin": "待查",
+    "expansions": [
+      "（纱、线等的）一束；（飞行中的）一群（大雁等）"
+    ],
+    "pronunciation": "/ skeɪn; sken/",
+    "accepted_answers": [
+      "（纱、线等的）一束",
+      "（飞行中的）一群（大雁等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-j,k.txt"
+  },
+  {
     "term": "skeleton",
     "type": "word",
     "translation": "（动物或人的）骨骼；骨架；这孩子骨瘦如柴；骨架或骨架模型（尤用於科研）",
@@ -32350,6 +33905,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "skilfully",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "skilfully",
+    "analysis": "adv.",
+    "phonetic": "/ -fəlɪ; -fəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "skilfully"
+    ],
+    "pronunciation": "/ -fəlɪ; -fəlɪ/",
+    "accepted_answers": [
+      "skilfully"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-j,k.txt"
   },
   {
     "term": "skill",
@@ -33691,6 +35269,33 @@
     }
   },
   {
+    "term": "slattern",
+    "type": "word",
+    "pos": "N",
+    "translation": "文；贬)；不整洁的女子；文；贬)(",
+    "analysis": "n (fml derog 文, 贬) dirty untidy woman 不整洁的女子.\nslatternly \nadj (fml derog 文, 贬) (of a woman) dirty and untidy （指女子）不整洁的. \nslatternliness \nn [U].",
+    "phonetic": "/ ˈslætən; ˈslætən/",
+    "origin": "待查",
+    "expansions": [
+      "文；贬)；不整洁的女子；文；贬)("
+    ],
+    "pronunciation": "/ ˈslætən; ˈslætən/",
+    "accepted_answers": [
+      "文",
+      "贬)",
+      "不整洁的女子",
+      "文",
+      "贬)("
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-l.txt"
+  },
+  {
     "term": "slaughter",
     "type": "word",
     "translation": "屠宰（尤指供食用）；屠杀；杀戮",
@@ -33899,6 +35504,29 @@
       "缩写",
       "政)",
       "社会自由民主党"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-l.txt"
+  },
+  {
+    "term": "sleazily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "sleazily",
+    "analysis": "adv.\nsleaziness \nn [U].",
+    "phonetic": "/ -ɪlɪ; -ɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "sleazily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -ɪlɪ/",
+    "accepted_answers": [
+      "sleazily"
     ],
     "added_at": "",
     "review": {
@@ -34970,6 +36598,31 @@
     "dict_source": "data/DICT/S/S-l.txt"
   },
   {
+    "term": "sloe",
+    "type": "word",
+    "pos": "N",
+    "translation": "黑刺李（果）；黑刺李（树）；黑刺李杜松子酒",
+    "analysis": "n  1 small, bluish-back, very bitter wild plum, fruit of the blackthorn bush 黑刺李（果）.  2 the blackthorn bush itself 黑刺李（树）.\nsloe-gin \nn [U] liqueur made from sloes steeped in gin 黑刺李杜松子酒.",
+    "phonetic": "/ sləʊ; slo/",
+    "origin": "待查",
+    "expansions": [
+      "黑刺李（果）；黑刺李（树）；黑刺李杜松子酒"
+    ],
+    "pronunciation": "/ sləʊ; slo/",
+    "accepted_answers": [
+      "黑刺李（果）",
+      "黑刺李（树）",
+      "黑刺李杜松子酒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-l.txt"
+  },
+  {
     "term": "slog",
     "type": "word",
     "translation": "猛击（某物；某人；猛击球",
@@ -35545,6 +37198,31 @@
       "子弹"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-l.txt"
+  },
+  {
+    "term": "sluggard",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧；贬)；懒散而行动迟缓的人",
+    "analysis": "n (dated derog 旧, 贬) lazy slow-moving person 懒散而行动迟缓的人.",
+    "phonetic": "/ ˈslʌgəd; ˈslʌgəd/",
+    "origin": "待查",
+    "expansions": [
+      "旧；贬)；懒散而行动迟缓的人"
+    ],
+    "pronunciation": "/ ˈslʌgəd; ˈslʌgəd/",
+    "accepted_answers": [
+      "旧",
+      "贬)",
+      "懒散而行动迟缓的人"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -37818,6 +39496,33 @@
     }
   },
   {
+    "term": "snipe",
+    "type": "word",
+    "pos": "N / V",
+    "translation": "复数不变)；沙锥（滨鸟；嘴细长；生活在沼泽区）；见附录",
+    "analysis": "n (pl unchanged 复数不变) water-bird with a long straight bill that lives in marshes 沙锥（滨鸟, 嘴细长, 生活在沼泽区）. =>illus at App 1 见附录1插图, page v.",
+    "phonetic": "/ snaɪp; snaɪp/",
+    "origin": "待查",
+    "expansions": [
+      "复数不变)；沙锥（滨鸟；嘴细长；生活在沼泽区）；见附录"
+    ],
+    "pronunciation": "/ snaɪp; snaɪp/",
+    "accepted_answers": [
+      "复数不变)",
+      "沙锥（滨鸟",
+      "嘴细长",
+      "生活在沼泽区）",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-m,n.txt"
+  },
+  {
     "term": "snippet",
     "type": "word",
     "translation": "切下的小块或碎片；（消息、新闻等的）片段；简短摘录",
@@ -38070,6 +39775,29 @@
     }
   },
   {
+    "term": "snootily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "snootily",
+    "analysis": "adv.\nsnootiness \nn [U].",
+    "phonetic": "/ -ɪlɪ; -lɪ/",
+    "origin": "待查",
+    "expansions": [
+      "snootily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -lɪ/",
+    "accepted_answers": [
+      "snootily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-m,n.txt"
+  },
+  {
     "term": "snooty",
     "type": "word",
     "translation": ")(；口；贬)；目中无人的",
@@ -38159,6 +39887,31 @@
     "pronunciation": "/ ˈsnɔːrə(r); ˈsnɔːrə/",
     "accepted_answers": [
       "经常打鼾的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-m,n.txt"
+  },
+  {
+    "term": "snorkel",
+    "type": "word",
+    "pos": "N",
+    "translation": "潜水通气管（潜水人用的）；（潜水艇的）通气管；戴潜水通气管潜泳",
+    "analysis": "n  1 tube that allows a swimmer to take in air while under water 潜水通气管（潜水人用的）.  2 device that allows a submarine to take in air while under water （潜水艇的）通气管.\nsnorkel \nv [I] (-ll-; US -l-) swim with a snorkel 戴潜水通气管潜泳.",
+    "phonetic": "/ ˈsnɔːkl; ˈsnɔːrkl/",
+    "origin": "待查",
+    "expansions": [
+      "潜水通气管（潜水人用的）；（潜水艇的）通气管；戴潜水通气管潜泳"
+    ],
+    "pronunciation": "/ ˈsnɔːkl; ˈsnɔːrkl/",
+    "accepted_answers": [
+      "潜水通气管（潜水人用的）",
+      "（潜水艇的）通气管",
+      "戴潜水通气管潜泳"
     ],
     "added_at": "",
     "review": {
@@ -39144,6 +40897,29 @@
     }
   },
   {
+    "term": "socialization",
+    "type": "word",
+    "pos": "N",
+    "translation": "socialization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsəʊʃəlaɪˈzeɪʃn; -lɪˈz-; ˌsoʃəlɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "socialization"
+    ],
+    "pronunciation": "/ ˌsəʊʃəlaɪˈzeɪʃn; -lɪˈz-; ˌsoʃəlɪˈzeʃən/",
+    "accepted_answers": [
+      "socialization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
+  },
+  {
     "term": "socialize",
     "type": "word",
     "translation": ")（同他人）来往；交往；交际；跟新同事交往的机会；使（某人）适应社会生活",
@@ -39246,6 +41022,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sociologically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "sociologically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "sociologically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "sociologically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
   },
   {
     "term": "sociologist",
@@ -39634,6 +41433,29 @@
       "贬)"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
+  },
+  {
+    "term": "soggily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "soggily",
+    "analysis": "adv.\nsogginess \nn [U].",
+    "phonetic": "/ -ɪlɪ; -ɪlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "soggily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -ɪlɪ/",
+    "accepted_answers": [
+      "soggily"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -40159,6 +41981,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "solemnisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；仪式的举行",
+    "analysis": "n [U] (fml 文) action of solemnizing 仪式的举行.",
+    "phonetic": "/ ˌsɒləmnaɪˈzeɪʃn; -nɪˈz-; ˌsɑːləmnəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)；仪式的举行"
+    ],
+    "pronunciation": "/ ˌsɒləmnaɪˈzeɪʃn; -nɪˈz-; ˌsɑːləmnəˈzeʃən/",
+    "accepted_answers": [
+      "文)",
+      "仪式的举行"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
   },
   {
     "term": "solemnise",
@@ -42158,6 +44004,29 @@
     "dict_source": "data/DICT/S/S-o.txt"
   },
   {
+    "term": "sophomore",
+    "type": "word",
+    "pos": "N",
+    "translation": "（中学、专科学校或大学的）二年级学生",
+    "analysis": "n (US) student in the second year of a course at a high school, college or university （中学、 专科学校或大学的）二年级学生.",
+    "phonetic": "/ ˈsɒfəmɔː(r); ˈsɑːfmˌɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "（中学、专科学校或大学的）二年级学生"
+    ],
+    "pronunciation": "/ ˈsɒfəmɔː(r); ˈsɑːfmˌɔːr/",
+    "accepted_answers": [
+      "（中学、专科学校或大学的）二年级学生"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
+  },
+  {
     "term": "soporific",
     "type": "word",
     "translation": "催眠的（物质、药剂、饮料等）；安眠药；比喻)",
@@ -42298,6 +44167,31 @@
       "施魔法者"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
+  },
+  {
+    "term": "sorcery",
+    "type": "word",
+    "pos": "N",
+    "translation": "魔法；妖术；魔法的施用",
+    "analysis": "n [U] art, use or practice of magic, esp with evil spirits; witchcraft 魔法; 妖术; 魔法的施用.",
+    "phonetic": "/ ˈsɔːsərɪ; ˈsɔːrsərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "魔法；妖术；魔法的施用"
+    ],
+    "pronunciation": "/ ˈsɔːsərɪ; ˈsɔːrsərɪ/",
+    "accepted_answers": [
+      "魔法",
+      "妖术",
+      "魔法的施用"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -42759,6 +44653,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sottish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧；贬)；常醉酒的；因贪杯而愚蠢糊涂的",
+    "analysis": "adj (dated derog 旧, 贬) in the habit of being drunk and, for this reason, stupid and confused 常醉酒的; 因贪杯而愚蠢糊涂的.",
+    "phonetic": "/ ˈsɒtɪʃ; ˈsɑːtɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "旧；贬)；常醉酒的；因贪杯而愚蠢糊涂的"
+    ],
+    "pronunciation": "/ ˈsɒtɪʃ; ˈsɑːtɪʃ/",
+    "accepted_answers": [
+      "旧",
+      "贬)",
+      "常醉酒的",
+      "因贪杯而愚蠢糊涂的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-o.txt"
   },
   {
     "term": "sotto voce",
@@ -44112,6 +46032,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sparkler",
+    "type": "word",
+    "pos": "N",
+    "translation": "（手持的）喷火星的小烟火；俚)；钻石",
+    "analysis": "n  1 [C] type of small hand-held firework that sends off showers of sparks （手持的）喷火星的小烟火.  2 sparklers [pl] (sl 俚) diamonds 钻石.",
+    "phonetic": "/ ˈspɑː:klə(r); ˈspɑːrklə/",
+    "origin": "待查",
+    "expansions": [
+      "（手持的）喷火星的小烟火；俚)；钻石"
+    ],
+    "pronunciation": "/ ˈspɑː:klə(r); ˈspɑːrklə/",
+    "accepted_answers": [
+      "（手持的）喷火星的小烟火",
+      "俚)",
+      "钻石"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
   },
   {
     "term": "sparkling",
@@ -46189,6 +48134,30 @@
     "dict_source": "data/DICT/S/S-p.txt"
   },
   {
+    "term": "spermaceti",
+    "type": "word",
+    "pos": "N",
+    "translation": "鲸蜡；鲸脑油",
+    "analysis": "n [U] white waxy fatty substance contained in solution in the heads of sperm whales, used (esp formerly) for ointments, candles, etc 鲸蜡; 鲸脑油.",
+    "phonetic": "/ ˌspɜːməˈsetɪ; ˌspɜːməˈsetɪ/",
+    "origin": "待查",
+    "expansions": [
+      "鲸蜡；鲸脑油"
+    ],
+    "pronunciation": "/ ˌspɜːməˈsetɪ; ˌspɜːməˈsetɪ/",
+    "accepted_answers": [
+      "鲸蜡",
+      "鲸脑油"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
     "term": "spermatorrhea",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -47264,6 +49233,30 @@
     "dict_source": "data/DICT/S/S-p.txt"
   },
   {
+    "term": "spinsterhood",
+    "type": "word",
+    "pos": "N",
+    "translation": "未婚女子身分；老处女身分",
+    "analysis": "n [U] state of being a spinster 未婚女子身分; 老处女身分.",
+    "phonetic": "/ -hUd; -ˌhJd/",
+    "origin": "待查",
+    "expansions": [
+      "未婚女子身分；老处女身分"
+    ],
+    "pronunciation": "/ -hUd; -ˌhJd/",
+    "accepted_answers": [
+      "未婚女子身分",
+      "老处女身分"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
     "term": "spinsterly",
     "type": "word",
     "translation": "…地；以…方式",
@@ -48223,6 +50216,33 @@
     "pos": "V"
   },
   {
+    "term": "splotch",
+    "type": "word",
+    "pos": "N",
+    "translation": ")（墨水、颜料等的）斑；斑点；污斑；（颜色、光等的）形状不规则的一片；使（某物）有污斑、色斑或光斑",
+    "analysis": "(Brit also splodge / splCdV; splBdV/) n dirty mark or spot (of ink, paint, etc); irregular patch (of colour, light, etc) （墨水、 颜料等的）斑, 斑点, 污斑; （颜色、 光等的）形状不规则的一片.\nsplotch (Brit also splodge) \nv [Tn] mark (sth) with splotches 使（某物）有污斑、 色斑或光斑.",
+    "phonetic": "/ splɒtʃ; splɑːtʃ/",
+    "origin": "待查",
+    "expansions": [
+      ")（墨水、颜料等的）斑；斑点；污斑；（颜色、光等的）形状不规则的一片；使（某物）有污斑、色斑或光斑"
+    ],
+    "pronunciation": "/ splɒtʃ; splɑːtʃ/",
+    "accepted_answers": [
+      ")（墨水、颜料等的）斑",
+      "斑点",
+      "污斑",
+      "（颜色、光等的）形状不规则的一片",
+      "使（某物）有污斑、色斑或光斑"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
     "term": "splurge",
     "type": "word",
     "translation": "口)；挥霍；我大手大脚花了一笔钱买了两套新衣服",
@@ -48424,6 +50444,33 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "spoliation",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；损坏；破坏；毁坏（尤指以武力进行者）；掠夺",
+    "analysis": "n [U] (fml 文) activity of spoiling (spoil 1) or damaging, esp with force; pillaging or plundering 损坏, 破坏, 毁坏（尤指以武力进行者）; 掠夺; 抢劫.",
+    "phonetic": "/ ˌspəʊlɪˈeɪʃn; ˌspolɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)；损坏；破坏；毁坏（尤指以武力进行者）；掠夺"
+    ],
+    "pronunciation": "/ ˌspəʊlɪˈeɪʃn; ˌspolɪˈeʃən/",
+    "accepted_answers": [
+      "文)",
+      "损坏",
+      "破坏",
+      "毁坏（尤指以武力进行者）",
+      "掠夺"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
   },
   {
     "term": "spondaic",
@@ -49072,6 +51119,30 @@
     "dict_source": "data/DICT/S/S-p.txt"
   },
   {
+    "term": "spouse",
+    "type": "word",
+    "pos": "N",
+    "translation": "古或律或谑)；配偶",
+    "analysis": "n (arch or law or joc 古或律或谑) husband or wife 配偶.",
+    "phonetic": "/ spaUz; spaUs; spaJs/",
+    "origin": "待查",
+    "expansions": [
+      "古或律或谑)；配偶"
+    ],
+    "pronunciation": "/ spaUz; spaUs; spaJs/",
+    "accepted_answers": [
+      "古或律或谑)",
+      "配偶"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
     "term": "spout",
     "type": "word",
     "translation": "供液体流出的凸起管状物（如落水管或茶壶嘴）；这壶嘴儿有个豁口；倒起来不方便；（喷出的）液体流；液体柱",
@@ -49556,6 +51627,31 @@
     "dict_source": "data/DICT/S/S-p.txt"
   },
   {
+    "term": "sprocket",
+    "type": "word",
+    "pos": "N",
+    "translation": "链轮齿；链轮；见附录",
+    "analysis": "n  1 each of several teeth on a wheel that connect with the links of a chain or the holes in a film or in paper or magnetic tape 链轮齿.  2 (also `sprocket-wheel) such a wheel, eg on a bicycle 链轮. =>illus at App 1 见附录1插图, page xiii.",
+    "phonetic": "/ ˈsprɒkɪt; ˈsprɑːkɪt/",
+    "origin": "待查",
+    "expansions": [
+      "链轮齿；链轮；见附录"
+    ],
+    "pronunciation": "/ ˈsprɒkɪt; ˈsprɑːkɪt/",
+    "accepted_answers": [
+      "链轮齿",
+      "链轮",
+      "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
     "term": "sprout",
     "type": "word",
     "translation": ")(；长出来；出现",
@@ -49599,6 +51695,29 @@
       "使（自己"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-p.txt"
+  },
+  {
+    "term": "sprung",
+    "type": "word",
+    "pos": "word",
+    "translation": "sprung",
+    "analysis": "pp of spring3.",
+    "phonetic": "/ sprʌŋ; sprʌŋ/",
+    "origin": "待查",
+    "expansions": [
+      "sprung"
+    ],
+    "pronunciation": "/ sprʌŋ; sprʌŋ/",
+    "accepted_answers": [
+      "sprung"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -50582,6 +52701,31 @@
     "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
+    "term": "squib",
+    "type": "word",
+    "pos": "N",
+    "translation": "蹦蹦炮（先在地上发嘶嘶声蹦跳；然後再爆炸的小爆竹）；习语)",
+    "analysis": "n  1 small firework that jumps around on the ground making a hissing sound before exploding 蹦蹦炮（先在地上发嘶嘶声蹦跳, 然後再爆炸的小爆竹）.  2 (idm 习语) a damp squib => damp1.",
+    "phonetic": "/ skwɪb; skwɪb/",
+    "origin": "待查",
+    "expansions": [
+      "蹦蹦炮（先在地上发嘶嘶声蹦跳；然後再爆炸的小爆竹）；习语)"
+    ],
+    "pronunciation": "/ skwɪb; skwɪb/",
+    "accepted_answers": [
+      "蹦蹦炮（先在地上发嘶嘶声蹦跳",
+      "然後再爆炸的小爆竹）",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "squibling",
     "type": "word",
     "translation": "…过程；…中的状态",
@@ -51402,6 +53546,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "stagily",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "stagily",
+    "analysis": "adv.\nstaginess \nn [U].",
+    "phonetic": "/ -ɪlɪ; -əlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "stagily"
+    ],
+    "pronunciation": "/ -ɪlɪ; -əlɪ/",
+    "accepted_answers": [
+      "stagily"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
     "term": "staging",
@@ -52351,6 +54518,29 @@
     }
   },
   {
+    "term": "stand-pipe",
+    "type": "word",
+    "pos": "N",
+    "translation": "竖管（向建筑物外供水用的）",
+    "analysis": "n vertical pipe connected to a main water supply and used to provide water outside or at a distance from buildings 竖管（向建筑物外供水用的）.",
+    "phonetic": "/ ˈstændpaɪp; ˈstændˌpaɪp/",
+    "origin": "待查",
+    "expansions": [
+      "竖管（向建筑物外供水用的）"
+    ],
+    "pronunciation": "/ ˈstændpaɪp; ˈstændˌpaɪp/",
+    "accepted_answers": [
+      "竖管（向建筑物外供水用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "standalone",
     "type": "word",
     "translation": "独立的；单独的；独立运行的",
@@ -53252,6 +55442,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "statesman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；阴性作；政治家（尤指贤明公正的）",
+    "analysis": "n (pl -men / -mEn;-mEn/) (fem 阴性作 stateswoman / -wUmEn; -9wJmEn/, pl -women / -wImIn; -9wImIn/) person who plays an important part in the management of State affairs, esp one who is skilled and fair; wise political leader 政治家（尤指贤明公正的）.\nstatesmanlike \nadj having or showing the qualities and abilities of a wise statesman 有政治家的品质和才能的.\nstatesmanship \nn [U] skill and wisdom in managing public affairs 政治才能; 治国之才.",
+    "phonetic": "/ ˈsteɪtsmən; ˈstetsmən/",
+    "origin": "待查",
+    "expansions": [
+      ")(；阴性作；政治家（尤指贤明公正的）"
+    ],
+    "pronunciation": "/ ˈsteɪtsmən; ˈstetsmən/",
+    "accepted_answers": [
+      ")(",
+      "阴性作",
+      "政治家（尤指贤明公正的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
     "term": "statesmanese",
@@ -55421,6 +57636,30 @@
     "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
+    "term": "stetson",
+    "type": "word",
+    "pos": "N",
+    "translation": "（男用）高顶阔边帽（尤指牧牛工戴的）；插图",
+    "analysis": "n man's hat with a high crown and wide brim, worn esp by cowboys （男用）高顶阔边帽（尤指牧牛工戴的）. =>illus at hat 见 hat 插图.",
+    "phonetic": "/ ˈstetsn; ˈstetsn/",
+    "origin": "待查",
+    "expansions": [
+      "（男用）高顶阔边帽（尤指牧牛工戴的）；插图"
+    ],
+    "pronunciation": "/ ˈstetsn; ˈstetsn/",
+    "accepted_answers": [
+      "（男用）高顶阔边帽（尤指牧牛工戴的）",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "stevedore",
     "type": "word",
     "pos": "N",
@@ -55636,6 +57875,29 @@
     "pronunciation": "/ -ɪlɪ; -əlɪ/",
     "accepted_answers": [
       "黏胶带"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
+    "term": "stickleback",
+    "type": "word",
+    "pos": "N",
+    "translation": "刺鱼（背上有尖刺的小鱼）",
+    "analysis": "n small fish with sharp spikes on its back 刺鱼（背上有尖刺的小鱼）.",
+    "phonetic": "/ ˈstɪklbæk; ˈstɪklˌbæk/",
+    "origin": "待查",
+    "expansions": [
+      "刺鱼（背上有尖刺的小鱼）"
+    ],
+    "pronunciation": "/ ˈstɪklbæk; ˈstɪklˌbæk/",
+    "accepted_answers": [
+      "刺鱼（背上有尖刺的小鱼）"
     ],
     "added_at": "",
     "review": {
@@ -56817,6 +59079,54 @@
       "一动不动地站著"
     ],
     "added_at": "2026-03-30T15:28:02+08:00",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
+    "term": "stockade",
+    "type": "word",
+    "pos": "N",
+    "translation": "（防御用的）栅栏（尤指木头的）；通常用於被动语态；用栅栏防御（某区域）",
+    "analysis": "n line or wall of strong upright (esp wooden) posts, built as a defence （防御用的）栅栏（尤指木头的）.\nstockade \nv [Tn usu passive 通常用於被动语态] defend (an area) with a stockade 用栅栏防御（某区域）.",
+    "phonetic": "/ stɒˈkeɪd; stɑːkˈed/",
+    "origin": "待查",
+    "expansions": [
+      "（防御用的）栅栏（尤指木头的）；通常用於被动语态；用栅栏防御（某区域）"
+    ],
+    "pronunciation": "/ stɒˈkeɪd; stɑːkˈed/",
+    "accepted_answers": [
+      "（防御用的）栅栏（尤指木头的）",
+      "通常用於被动语态",
+      "用栅栏防御（某区域）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
+    "term": "stockinet",
+    "type": "word",
+    "pos": "N",
+    "translation": "弹力织物（用作内衣料等）",
+    "analysis": "n [U] fine elastic machine-knitted material, used for underwear, etc 弹力织物（用作内衣料等）.",
+    "phonetic": "/ ˌstɒkɪˈnet; ˌstɑːkɪnˈet/",
+    "origin": "待查",
+    "expansions": [
+      "弹力织物（用作内衣料等）"
+    ],
+    "pronunciation": "/ ˌstɒkɪˈnet; ˌstɑːkɪnˈet/",
+    "accepted_answers": [
+      "弹力织物（用作内衣料等）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -59820,6 +62130,29 @@
     "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
+    "term": "stridency",
+    "type": "word",
+    "pos": "N",
+    "translation": "stridency",
+    "analysis": "n [U].\nstridently \nadv.",
+    "phonetic": "/ ˈstraɪdənsɪ; ˈstraɪdnsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "stridency"
+    ],
+    "pronunciation": "/ ˈstraɪdənsɪ; ˈstraɪdnsɪ/",
+    "accepted_answers": [
+      "stridency"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "strident",
     "type": "word",
     "translation": "（指声音；尤指嗓音）粗厉的；尖锐刺耳的；尖利的抗议声；他们提出要求时声嘶力竭的",
@@ -60096,6 +62429,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "stringer",
+    "type": "word",
+    "pos": "N",
+    "translation": "特约记者",
+    "analysis": "n newspaper correspondent who is not on the regular staff 特约记者.",
+    "phonetic": "/ ˈstrɪŋə(r); ˈstrɪŋə/",
+    "origin": "待查",
+    "expansions": [
+      "特约记者"
+    ],
+    "pronunciation": "/ ˈstrɪŋə(r); ˈstrɪŋə/",
+    "accepted_answers": [
+      "特约记者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
     "term": "strip",
@@ -61740,6 +64096,29 @@
     "dict_source": "data/DICT/S/S-q,s,t.txt"
   },
   {
+    "term": "stutter",
+    "type": "word",
+    "pos": "V",
+    "translation": "stutter",
+    "analysis": "v [I, Tn, Tn.p] = stammer.",
+    "phonetic": "/ ˈstʌtə(r); ˈstʌtə/",
+    "origin": "待查",
+    "expansions": [
+      "stutter"
+    ],
+    "pronunciation": "/ ˈstʌtə(r); ˈstʌtə/",
+    "accepted_answers": [
+      "stutter"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-q,s,t.txt"
+  },
+  {
     "term": "stutterer",
     "type": "word",
     "pos": "N",
@@ -62219,6 +64598,55 @@
     "dict_source": "data/DICT/S/S-u.txt"
   },
   {
+    "term": "sub-machine-gun",
+    "type": "word",
+    "pos": "N",
+    "translation": "冲锋枪；手提轻机枪；插图",
+    "analysis": "n lightweight machine-gun held in the hand for firing 冲锋枪; 手提轻机枪. =>illus at gun 见 gun 插图.",
+    "phonetic": "/ sʌbməˈʃiːngʌn; ˌsʌbməˈʃinˌgʌn/",
+    "origin": "待查",
+    "expansions": [
+      "冲锋枪；手提轻机枪；插图"
+    ],
+    "pronunciation": "/ sʌbməˈʃiːngʌn; ˌsʌbməˈʃinˌgʌn/",
+    "accepted_answers": [
+      "冲锋枪",
+      "手提轻机枪",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
+    "term": "sub-plot",
+    "type": "word",
+    "pos": "N",
+    "translation": "（戏剧、小说等的）次要情节；从属情节",
+    "analysis": "n plot of a play, novel, etc that is separate from but linked to the main plot （戏剧、 小说等的）次要情节, 从属情节.",
+    "phonetic": "/ ˈsʌbplɒt; ˈsʌbˌplɑːt/",
+    "origin": "待查",
+    "expansions": [
+      "（戏剧、小说等的）次要情节；从属情节"
+    ],
+    "pronunciation": "/ ˈsʌbplɒt; ˈsʌbˌplɑːt/",
+    "accepted_answers": [
+      "（戏剧、小说等的）次要情节",
+      "从属情节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "subability",
     "type": "word",
     "translation": "…性；…特征",
@@ -62585,6 +65013,30 @@
     "accepted_answers": [
       "分包合同",
       "转包契约"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
+    "term": "subcontractor",
+    "type": "word",
+    "pos": "N",
+    "translation": "分包人；分包公司",
+    "analysis": "n person, company, etc that accepts and carries out a subcontract 分包人; 分包公司.",
+    "phonetic": "/ ˌsʌbkənˈtrktə(r); US-ˈkɒntræk-; ˌsʌbˈkɑːnˌtræktə/",
+    "origin": "待查",
+    "expansions": [
+      "分包人；分包公司"
+    ],
+    "pronunciation": "/ ˌsʌbkənˈtrktə(r); US-ˈkɒntræk-; ˌsʌbˈkɑːnˌtræktə/",
+    "accepted_answers": [
+      "分包人",
+      "分包公司"
     ],
     "added_at": "",
     "review": {
@@ -63022,6 +65474,29 @@
       "征服（某国家等）",
       "制伏",
       "降伏"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
+    "term": "subjugation",
+    "type": "word",
+    "pos": "N",
+    "translation": "subjugation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsʌbdʒUˈgeɪʃn; ˌsʌbdʒəˈgeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "subjugation"
+    ],
+    "pronunciation": "/ ˌsʌbdʒUˈgeɪʃn; ˌsʌbdʒəˈgeʃən/",
+    "accepted_answers": [
+      "subjugation"
     ],
     "added_at": "",
     "review": {
@@ -63685,6 +66160,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "subornation",
+    "type": "word",
+    "pos": "N",
+    "translation": "subornation",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsʌbɔːˈneɪʃn; ˌsʌbɔːrˈneʃən/",
+    "origin": "待查",
+    "expansions": [
+      "subornation"
+    ],
+    "pronunciation": "/ ˌsʌbɔːˈneɪʃn; ˌsʌbɔːrˈneʃən/",
+    "accepted_answers": [
+      "subornation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
   },
   {
     "term": "subpavement",
@@ -64479,6 +66977,29 @@
     }
   },
   {
+    "term": "substantiation",
+    "type": "word",
+    "pos": "N",
+    "translation": "substantiation",
+    "analysis": "n.",
+    "phonetic": "/ səbˌstnʃɪˈeɪʃn; səbˌstænʃɪˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "substantiation"
+    ],
+    "pronunciation": "/ səbˌstnʃɪˈeɪʃn; səbˌstænʃɪˈeʃən/",
+    "accepted_answers": [
+      "substantiation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "substantive",
     "type": "word",
     "translation": "文)；真的；真实的",
@@ -64896,6 +67417,54 @@
     "dict_source": "data/DICT/S/S-u.txt"
   },
   {
+    "term": "subtlety",
+    "type": "word",
+    "pos": "N",
+    "translation": "细微；精细；巧妙",
+    "analysis": "n  1 [U] quality of being subtle 细微; 精细; 巧妙; 灵巧; 诡诈; 敏锐.  2 [C] subtle distinction, etc 细微的差别等.",
+    "phonetic": "/ ˈsʌtltɪ; ˈsʌtltɪ/",
+    "origin": "待查",
+    "expansions": [
+      "细微；精细；巧妙"
+    ],
+    "pronunciation": "/ ˈsʌtltɪ; ˈsʌtltɪ/",
+    "accepted_answers": [
+      "细微",
+      "精细",
+      "巧妙"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
+    "term": "subtly",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "subtly",
+    "analysis": "adv.",
+    "phonetic": "/ ˈsʌtlɪ; ˈsʌtlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "subtly"
+    ],
+    "pronunciation": "/ ˈsʌtlɪ; ˈsʌtlɪ/",
+    "accepted_answers": [
+      "subtly"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "subtopia",
     "type": "word",
     "pos": "N",
@@ -65126,6 +67695,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "suburbanite",
+    "type": "word",
+    "pos": "N",
+    "translation": "口；常作贬义)；郊区居民",
+    "analysis": "n (infml often derog 口, 常作贬义) person who lives in the suburbs 郊区居民.",
+    "phonetic": "/ səˈbɜːbənaɪt; səˈbɜːbəˌnaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "口；常作贬义)；郊区居民"
+    ],
+    "pronunciation": "/ səˈbɜːbənaɪt; səˈbɜːbəˌnaɪt/",
+    "accepted_answers": [
+      "口",
+      "常作贬义)",
+      "郊区居民"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
   },
   {
     "term": "suburbia",
@@ -66343,6 +68937,31 @@
     "dict_source": "data/DICT/S/S-u.txt"
   },
   {
+    "term": "suffragan",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指主教）被任命协助另一主教管理部分教区的；副主教的；副监督的",
+    "analysis": "adj [attrib 作定语] (ofa bishop) appointed to help another bishop by managingpart of his diocese （指主教）被任命协助另一主教管理部分教区的; 副主教的; 副监督的.\nsuffragan \nn suffragan bishop 副主教; 副监督.",
+    "phonetic": "/ ˈsʌfrəgən; ˈsʌfrəgən/",
+    "origin": "待查",
+    "expansions": [
+      "（指主教）被任命协助另一主教管理部分教区的；副主教的；副监督的"
+    ],
+    "pronunciation": "/ ˈsʌfrəgən; ˈsʌfrəgən/",
+    "accepted_answers": [
+      "（指主教）被任命协助另一主教管理部分教区的",
+      "副主教的",
+      "副监督的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "suffrage",
     "type": "word",
     "translation": "（政治性选举的）选举权；投票权；普选权（成年人均有的投票权）；妇女须为享有选举权而斗争",
@@ -67027,6 +69646,29 @@
       "review_history": []
     },
     "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
+    "term": "sulpha drug",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "sulpha drug",
+    "analysis": "= sulphonamide.",
+    "phonetic": "/ ˈsʌlfədrʌg; ˈsʌlfəˌdrʌg/",
+    "origin": "待查",
+    "expansions": [
+      "sulpha drug"
+    ],
+    "pronunciation": "/ ˈsʌlfədrʌg; ˈsʌlfəˌdrʌg/",
+    "accepted_answers": [
+      "sulpha drug"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/D/D-p,q,r.txt"
   },
   {
     "term": "sulphate",
@@ -67849,6 +70491,31 @@
     }
   },
   {
+    "term": "sunder",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；文或修辞)；将某事物",
+    "analysis": "v [Tn, Tn.pr] ~ sth/sb (from sth/sb) (fml or rhet 文或修辞) separate sth/sb, esp by force or for ever 将某事物[某人]分开（尤指强制性地或永久性地）.",
+    "phonetic": "/ ˈsʌndə(r); ˈsʌndə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；文或修辞)；将某事物"
+    ],
+    "pronunciation": "/ ˈsʌndə(r); ˈsʌndə/",
+    "accepted_answers": [
+      ")(",
+      "文或修辞)",
+      "将某事物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "sundial",
     "type": "word",
     "translation": "日规；日晷（仪）；日落（时分）",
@@ -68521,6 +71188,31 @@
     }
   },
   {
+    "term": "superego",
+    "type": "word",
+    "pos": "N",
+    "translation": "心)；超我；参看",
+    "analysis": "n (psychology 心) part of a person's mind which contains a set of rules for right and wrong behaviour, acting as a conscience 超我. Cf 参看 ego 1, id.",
+    "phonetic": "/ ˈsuːpəregəʊ; also,inɑːritishuse,英式英语读作ˈsjuː-; -iːgəʊ; ˌsupəˈigo/",
+    "origin": "待查",
+    "expansions": [
+      "心)；超我；参看"
+    ],
+    "pronunciation": "/ ˈsuːpəregəʊ; also,inɑːritishuse,英式英语读作ˈsjuː-; -iːgəʊ; ˌsupəˈigo/",
+    "accepted_answers": [
+      "心)",
+      "超我",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "supereminent",
     "type": "word",
     "translation": "与该词相关的常见义项",
@@ -69115,6 +71807,29 @@
     "dict_source": "data/DICT/S/S-u.txt"
   },
   {
+    "term": "supernaturally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "supernaturally",
+    "analysis": "adv.",
+    "phonetic": "/ -ˈntʃrəlɪ; -ˈnætʃrəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "supernaturally"
+    ],
+    "pronunciation": "/ -ˈntʃrəlɪ; -ˈnætʃrəlɪ/",
+    "accepted_answers": [
+      "supernaturally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "supernova",
     "type": "word",
     "translation": ")(；天)；超新星（因爆炸而突然亮度大增的）",
@@ -69185,6 +71900,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "superphosphate",
+    "type": "word",
+    "pos": "N",
+    "translation": "过磷酸盐（用作化肥）",
+    "analysis": "n fertilizer containing soluble phosphates 过磷酸盐（用作化肥）.",
+    "phonetic": "/ ˌsuːpəˈfɒsfeɪt; also,inɑːritishuse,英式英语读作ˌsjuː-; ˌsupəˈfɑːsfet/",
+    "origin": "待查",
+    "expansions": [
+      "过磷酸盐（用作化肥）"
+    ],
+    "pronunciation": "/ ˌsuːpəˈfɒsfeɪt; also,inɑːritishuse,英式英语读作ˌsjuː-; ˌsupəˈfɑːsfet/",
+    "accepted_answers": [
+      "过磷酸盐（用作化肥）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
   },
   {
     "term": "superposed",
@@ -69525,6 +72263,29 @@
     }
   },
   {
+    "term": "supertanker",
+    "type": "word",
+    "pos": "N",
+    "translation": "超级油轮",
+    "analysis": "n very large tanker ship 超级油轮.",
+    "phonetic": "/ ˈsuːpətæŋkə(r); also,inɑːritishuse,英式英语读作ˈsjuː-; ˈsupəˌtæŋkə/",
+    "origin": "待查",
+    "expansions": [
+      "超级油轮"
+    ],
+    "pronunciation": "/ ˈsuːpətæŋkə(r); also,inɑːritishuse,英式英语读作ˈsjuː-; ˈsupəˌtæŋkə/",
+    "accepted_answers": [
+      "超级油轮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "supertax",
     "type": "word",
     "pos": "N",
@@ -69594,6 +72355,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "supervention",
+    "type": "word",
+    "pos": "N",
+    "translation": "supervention",
+    "analysis": "n [U].",
+    "phonetic": "/ -ˈvenʃn; -ˈvenʃən/",
+    "origin": "待查",
+    "expansions": [
+      "supervention"
+    ],
+    "pronunciation": "/ -ˈvenʃn; -ˈvenʃən/",
+    "accepted_answers": [
+      "supervention"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
   },
   {
     "term": "supervise",
@@ -69794,6 +72578,29 @@
     "dict_source": "data/DICT/S/S-u.txt"
   },
   {
+    "term": "supplely",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "supplely",
+    "analysis": "adv.\nsuppleness \nn [U].",
+    "phonetic": "/ ˈsʌplɪ; ˈsʌplɪ/",
+    "origin": "待查",
+    "expansions": [
+      "supplely"
+    ],
+    "pronunciation": "/ ˈsʌplɪ; ˈsʌplɪ/",
+    "accepted_answers": [
+      "supplely"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "supplement",
     "type": "word",
     "translation": "增补的事物；补充；我教钢琴挣的钱是一笔很管用的外快",
@@ -69940,6 +72747,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "supplier",
+    "type": "word",
+    "pos": "N",
+    "translation": "供应者（人或公司）；代课教师",
+    "analysis": "n person or firm supplying goods, etc 供应者（人或公司）.\nsupply teacher \nteacher employed to do the work of any other teacher who is absent through illness, etc 代课教师.",
+    "phonetic": "/ səˈplaɪə(r); səˈplaɪə/",
+    "origin": "待查",
+    "expansions": [
+      "供应者（人或公司）；代课教师"
+    ],
+    "pronunciation": "/ səˈplaɪə(r); səˈplaɪə/",
+    "accepted_answers": [
+      "供应者（人或公司）",
+      "代课教师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
   },
   {
     "term": "supply",
@@ -71763,6 +74594,32 @@
     }
   },
   {
+    "term": "suture",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；（伤口的）缝线；缝术；)缝合（伤口）",
+    "analysis": "n (medical 医) stitch or stitches made in sewing up a wound, esp following an operation （伤口的）缝线, 缝术.\nsuture \nv [Tn] (medical 医) sew up (a wound) 缝合（伤口）.",
+    "phonetic": "/ ˈsuːtʃə(r); ˈsutʃə/",
+    "origin": "待查",
+    "expansions": [
+      "医)；（伤口的）缝线；缝术；)缝合（伤口）"
+    ],
+    "pronunciation": "/ ˈsuːtʃə(r); ˈsutʃə/",
+    "accepted_answers": [
+      "医)",
+      "（伤口的）缝线",
+      "缝术",
+      ")缝合（伤口）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-u.txt"
+  },
+  {
     "term": "suzerain",
     "type": "word",
     "pos": "N",
@@ -71931,6 +74788,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "swag",
+    "type": "word",
+    "pos": "N",
+    "translation": "雕刻的有成簇下垂的水果及鲜花的装饰物；旧；俚)；赃物",
+    "analysis": "n  1 [C] carved ornament representing a hanging bunch of fruit and flowers 雕刻的有成簇下垂的水果及鲜花的装饰物.  2 [U] (dated sl 旧, 俚) stolen goods 赃物.  3 [C] (Austral 澳) bundle of belongings carried by a tramp 流浪者的行囊.\nswagman \nn (pl -men) (Austral 澳) tramp 流浪的人.",
+    "phonetic": "/ swæg; swæg/",
+    "origin": "待查",
+    "expansions": [
+      "雕刻的有成簇下垂的水果及鲜花的装饰物；旧；俚)；赃物"
+    ],
+    "pronunciation": "/ swæg; swæg/",
+    "accepted_answers": [
+      "雕刻的有成簇下垂的水果及鲜花的装饰物",
+      "旧",
+      "俚)",
+      "赃物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
     "term": "swagger",
@@ -73382,6 +76265,29 @@
     "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
+    "term": "switchback",
+    "type": "word",
+    "pos": "N",
+    "translation": "（上下陡坡的）之字形铁路或公路",
+    "analysis": "n  1 (esp Brit) = roller-coaster (roller).  2 zigzag railway or road for ascending or descending steep slopes （上下陡坡的）之字形铁路或公路.",
+    "phonetic": "/ ˈswɪtʃbæk; ˈswɪtʃˌbæk/",
+    "origin": "待查",
+    "expansions": [
+      "（上下陡坡的）之字形铁路或公路"
+    ],
+    "pronunciation": "/ ˈswɪtʃbæk; ˈswɪtʃˌbæk/",
+    "accepted_answers": [
+      "（上下陡坡的）之字形铁路或公路"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
     "term": "switchboard",
     "type": "word",
     "translation": "电话交换台、总机或配电板（工作人员）；在电话交换台值班；观众抗议的电话使英国广播公司的总机应接不暇",
@@ -73800,6 +76706,29 @@
     "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
+    "term": "sycophancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "sycophancy",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈsɪkəfənsɪ; ˈsɪkəfənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "sycophancy"
+    ],
+    "pronunciation": "/ ˈsɪkəfənsɪ; ˈsɪkəfənsɪ/",
+    "accepted_answers": [
+      "sycophancy"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
     "term": "sycophant",
     "type": "word",
     "pos": "N",
@@ -73845,6 +76774,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "sycophantically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "sycophantically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "sycophantically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "sycophantically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
     "term": "sylid",
@@ -73963,6 +76915,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "syllabify",
+    "type": "word",
+    "pos": "V",
+    "translation": "将（词）划分音节",
+    "analysis": "v (pt, pp -fied) [Tn] divide (a word or words) into syllables 将（词）划分音节.",
+    "phonetic": "/ sɪˈlbɪfaɪ; sɪˈlæbəˌfaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "将（词）划分音节"
+    ],
+    "pronunciation": "/ sɪˈlbɪfaɪ; sɪˈlæbəˌfaɪ/",
+    "accepted_answers": [
+      "将（词）划分音节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
     "term": "syllable",
@@ -74494,6 +77469,29 @@
     "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
+    "term": "sympathetically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "sympathetically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "sympathetically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "sympathetically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
     "term": "sympathise",
     "type": "word",
     "translation": "同情；表示同情；赞同",
@@ -74852,6 +77850,29 @@
     "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
+    "term": "synchronisation",
+    "type": "word",
+    "pos": "N",
+    "translation": "口语作",
+    "analysis": "(also infml 口语作 sync) n [U].",
+    "phonetic": "/ ˌsɪŋkrənaɪˈzeɪʃn; -nɪˈz-; ˌsɪŋkrənɪˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "口语作"
+    ],
+    "pronunciation": "/ ˌsɪŋkrənaɪˈzeɪʃn; -nɪˈz-; ˌsɪŋkrənɪˈzeʃən/",
+    "accepted_answers": [
+      "口语作"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
     "term": "synchronise",
     "type": "word",
     "translation": ")(；（使某物）以相同的时间、速度等运转、移动、转动等；（使某物）同步",
@@ -75025,6 +78046,31 @@
     "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
   },
   {
+    "term": "syncope",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；)晕厥；语言)",
+    "analysis": "n  1 [U, C] (medical 医) brief loss of consciousness; faint(ing) 晕厥.  2 [U] (linguistics 语言) shortening of a word by omitting one or more letters or syllables in the middle, eg `bosun' for `boatswain' 词中省音, 央字失落, 央音失落（省略词中的字母或音节, 如将 boatswain 略为 bosun）.",
+    "phonetic": "/ ˈsɪŋkəpɪ; ˈsɪŋkəpɪ/",
+    "origin": "待查",
+    "expansions": [
+      "医)；)晕厥；语言)"
+    ],
+    "pronunciation": "/ ˈsɪŋkəpɪ; ˈsɪŋkəpɪ/",
+    "accepted_answers": [
+      "医)",
+      ")晕厥",
+      "语言)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
     "term": "syncretion",
     "type": "word",
     "translation": "…过程；…结果",
@@ -75108,6 +78154,29 @@
     "pronunciation": "/ ˈsɪndɪkət; ˈsɪndɪkɪt/",
     "accepted_answers": [
       "辛迪加（某些人或工商企业的联合组织）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
+    "term": "syndication",
+    "type": "word",
+    "pos": "N",
+    "translation": "syndication",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌsɪndɪˈkeɪʃn; ˌsɪndɪˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "syndication"
+    ],
+    "pronunciation": "/ ˌsɪndɪˈkeɪʃn; ˌsɪndɪˈkeʃən/",
+    "accepted_answers": [
+      "syndication"
     ],
     "added_at": "",
     "review": {
@@ -75323,13 +78392,20 @@
       "句法",
       "语句结构"
     ],
-    "added_at": "",
+    "added_at": "2026-06-17T01:26:30.963Z",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
     },
-    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "句法；语法结构；语法规则；代码语法",
+        "analysis": "指语言中词语组成句子的规则；也可指编程语言中代码必须遵守的结构规则。"
+      }
+    ]
   },
   {
     "term": "synthesis",
@@ -75544,6 +78620,33 @@
       "梅毒的",
       "患梅毒的",
       "梅毒患者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/S/S-v,w,x,y,z.txt"
+  },
+  {
+    "term": "syringa",
+    "type": "word",
+    "pos": "N",
+    "translation": "山梅花（灌木；开白花；味香）；植)；丁香花",
+    "analysis": "n [C, U]  1 shrub with strong-scented white flowers 山梅花（灌木, 开白花, 味香）.  2 (botany 植) lilac 丁香花.",
+    "phonetic": "/ sɪˈrɪŋgə; səˈrɪŋgə/",
+    "origin": "待查",
+    "expansions": [
+      "山梅花（灌木；开白花；味香）；植)；丁香花"
+    ],
+    "pronunciation": "/ sɪˈrɪŋgə; səˈrɪŋgə/",
+    "accepted_answers": [
+      "山梅花（灌木",
+      "开白花",
+      "味香）",
+      "植)",
+      "丁香花"
     ],
     "added_at": "",
     "review": {

@@ -146,6 +146,32 @@
     "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "l-plate",
+    "type": "word",
+    "pos": "N",
+    "translation": "（英国）；字牌（机动车所附红色；字牌；以示该车为见习驾驶员驾驶者）",
+    "analysis": "n (in Britain) sign with a large red letter L, fixed to a motor vehicle that is being driven by a learner-driver （英国）L字牌（机动车所附红色L字牌, 以示该车为见习驾驶员驾驶者）. Cf 参看 L abbr 缩写 2.",
+    "phonetic": "/ ˈelpleɪt; ˈelplet/",
+    "origin": "待查",
+    "expansions": [
+      "（英国）；字牌（机动车所附红色；字牌；以示该车为见习驾驶员驾驶者）"
+    ],
+    "pronunciation": "/ ˈelpleɪt; ˈelplet/",
+    "accepted_answers": [
+      "（英国）",
+      "字牌（机动车所附红色",
+      "字牌",
+      "以示该车为见习驾驶员驾驶者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "la",
     "type": "word",
     "pos": "word",
@@ -476,6 +502,32 @@
     }
   },
   {
+    "term": "laburnum",
+    "type": "word",
+    "pos": "N",
+    "translation": "金链花（观赏植物；株小；总状花序下垂；呈黄色）",
+    "analysis": "n [C, U] small ornamental tree with hanging clusters of yellow flowers 金链花（观赏植物, 株小, 总状花序下垂, 呈黄色）.",
+    "phonetic": "/ ləˈbɜːnəm; ləˈbɜːnəm/",
+    "origin": "待查",
+    "expansions": [
+      "金链花（观赏植物；株小；总状花序下垂；呈黄色）"
+    ],
+    "pronunciation": "/ ləˈbɜːnəm; ləˈbɜːnəm/",
+    "accepted_answers": [
+      "金链花（观赏植物",
+      "株小",
+      "总状花序下垂",
+      "呈黄色）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "labyrinth",
     "type": "word",
     "translation": "迷宫；那古老建筑是一座长廊纵横光线昏暗的迷宫；比喻)",
@@ -493,6 +545,29 @@
       "比喻)"
     ],
     "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "labyrinthine",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "labyrinthine",
+    "analysis": "adj.",
+    "phonetic": "/ ˌlbəˈrɪnθaɪn; US-θɪn; ˌlæbəˈrɪnθɪn/",
+    "origin": "待查",
+    "expansions": [
+      "labyrinthine"
+    ],
+    "pronunciation": "/ ˌlbəˈrɪnθaɪn; US-θɪn; ˌlæbəˈrɪnθɪn/",
+    "accepted_answers": [
+      "labyrinthine"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -990,6 +1065,32 @@
     "dict_source": "data/DICT/L/L-a.txt"
   },
   {
+    "term": "laddie",
+    "type": "word",
+    "pos": "N",
+    "translation": "口；尤用於苏格兰)；男孩儿；男青年",
+    "analysis": "n (infml esp Scot 口, 尤用於苏格兰) boy; young man 男孩儿; 男青年; 小伙子. Cf 参看 lass.",
+    "phonetic": "/ ˈlædɪ; ˈlædɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口；尤用於苏格兰)；男孩儿；男青年"
+    ],
+    "pronunciation": "/ ˈlædɪ; ˈlædɪ/",
+    "accepted_answers": [
+      "口",
+      "尤用於苏格兰)",
+      "男孩儿",
+      "男青年"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "laden",
     "type": "word",
     "translation": "通常作表语；装满的；满载的",
@@ -1066,6 +1167,29 @@
     }
   },
   {
+    "term": "ladybird",
+    "type": "word",
+    "pos": "N",
+    "translation": "瓢虫",
+    "analysis": "(US ladybug / 5leIdI5bQg;`ledI9bQ^/) n small flying beetle, reddish-brown or yellow with black spots 瓢虫.",
+    "phonetic": "/ ˈleɪdɪbɜːd; ˈledɪˌbɜːd/",
+    "origin": "待查",
+    "expansions": [
+      "瓢虫"
+    ],
+    "pronunciation": "/ ˈleɪdɪbɜːd; ˈledɪˌbɜːd/",
+    "accepted_answers": [
+      "瓢虫"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "lag",
     "type": "word",
     "translation": "走得极慢；落後；那小男孩儿不久就走不动了；远远落在（其他人的）後面",
@@ -1140,6 +1264,55 @@
     }
   },
   {
+    "term": "lagoon",
+    "type": "word",
+    "pos": "N",
+    "translation": "泻湖；美或澳或新西兰)；（大湖或江河附近的）小而浅的淡水湖",
+    "analysis": "n  1 salt-water lake separated from the open sea by sandbanks or coral reefs 泻湖.  2 (US or Austral or NZ 美或澳或新西兰) small shallow freshwater lake near a larger lake or river （大湖或江河附近的）小而浅的淡水湖.",
+    "phonetic": "/ ləˈguːn; ləˈgun/",
+    "origin": "待查",
+    "expansions": [
+      "泻湖；美或澳或新西兰)；（大湖或江河附近的）小而浅的淡水湖"
+    ],
+    "pronunciation": "/ ləˈguːn; ləˈgun/",
+    "accepted_answers": [
+      "泻湖",
+      "美或澳或新西兰)",
+      "（大湖或江河附近的）小而浅的淡水湖"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lah",
+    "type": "word",
+    "pos": "N",
+    "translation": "音)；全音阶唱名的第六音",
+    "analysis": "n (music 音) sixth note in the sol-fa scale 全音阶唱名的第六音.\nlaid\npt, pp of lay.",
+    "phonetic": "/ lɑː:; lɑː/",
+    "origin": "待查",
+    "expansions": [
+      "音)；全音阶唱名的第六音"
+    ],
+    "pronunciation": "/ lɑː:; lɑː/",
+    "accepted_answers": [
+      "音)",
+      "全音阶唱名的第六音"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "laid-back",
     "type": "word",
     "translation": "口)(；（指人或人的行为）安详的；轻松的；她总是显得那麽优哉游哉",
@@ -1188,6 +1361,30 @@
     }
   },
   {
+    "term": "laird",
+    "type": "word",
+    "pos": "N",
+    "translation": "苏格兰)；地主",
+    "analysis": "n (Scot 苏格兰) landowner 地主.",
+    "phonetic": "/ leəd; lerd/",
+    "origin": "待查",
+    "expansions": [
+      "苏格兰)；地主"
+    ],
+    "pronunciation": "/ leəd; lerd/",
+    "accepted_answers": [
+      "苏格兰)",
+      "地主"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "laisser-faire",
     "type": "word",
     "translation": "法)；自由放任政策（尤指政府不干涉私人商业利益者）；自由放任的经济",
@@ -1209,6 +1406,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "laity",
+    "type": "word",
+    "pos": "N",
+    "translation": "（别於神职人员的）俗人；普通信徒；参看",
+    "analysis": "n the laity [Gp]  1 all the members of a Church who are not ordained clergymen; laymen （别於神职人员的）俗人; 普通信徒. Cf 参看 clergy.  2 people outside a particular profession (contrasted with those inside it) 门外汉; 外行.",
+    "phonetic": "/ ˈleɪətɪ; ˈleətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（别於神职人员的）俗人；普通信徒；参看"
+    ],
+    "pronunciation": "/ ˈleɪətɪ; ˈleətɪ/",
+    "accepted_answers": [
+      "（别於神职人员的）俗人",
+      "普通信徒",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
   },
   {
     "term": "lake",
@@ -1502,6 +1724,29 @@
     }
   },
   {
+    "term": "lamentably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "lamentably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "lamentably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "lamentably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "lamentation",
     "type": "word",
     "translation": "悲痛；哀悼；痛惜",
@@ -1612,6 +1857,31 @@
     "pronunciation": "/ ˈlæmprɪ; ˈlæmprɪ/",
     "accepted_answers": [
       "七鳃鳗（亦称八目鳗）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lance",
+    "type": "word",
+    "pos": "N",
+    "translation": "鱼叉；（旧时）骑士、骑兵等的长矛；枪骑兵（旧时执矛）",
+    "analysis": "n  1 weapon used for catching fish, etc with a long wooden shaft and a pointed steel head 鱼叉.  2 (formerly) similar weapon used by mounted knights, cavalry, etc （旧时）骑士、 骑兵等的长矛.\nlancer \nn soldier of a cavalry regiment formerly armed with lances 枪骑兵（旧时执矛）.\nlance-corporal \nn (in the British army or US Marines) non-commissioned officer of the lowest rank （英国陆军或美国海军陆战队中的）一等兵. =>App 9 见附录9.",
+    "phonetic": "/ lɑː:ns; læns; læns/",
+    "origin": "待查",
+    "expansions": [
+      "鱼叉；（旧时）骑士、骑兵等的长矛；枪骑兵（旧时执矛）"
+    ],
+    "pronunciation": "/ lɑː:ns; læns; læns/",
+    "accepted_answers": [
+      "鱼叉",
+      "（旧时）骑士、骑兵等的长矛",
+      "枪骑兵（旧时执矛）"
     ],
     "added_at": "",
     "review": {
@@ -1979,6 +2249,54 @@
     }
   },
   {
+    "term": "languorous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "languorous",
+    "analysis": "adj.\nlanguorously \nadv.",
+    "phonetic": "/ ˈlŋgərəs; ˈlæŋgərəs/",
+    "origin": "待查",
+    "expansions": [
+      "languorous"
+    ],
+    "pronunciation": "/ ˈlŋgərəs; ˈlæŋgərəs/",
+    "accepted_answers": [
+      "languorous"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lank",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指毛发）平直的；柔软的；（指人）瘦长的",
+    "analysis": "adj  1 (of hair) straight and limp （指毛发）平直的, 柔软的.  2 (of a person) tall and thin （指人）瘦长的.",
+    "phonetic": "/ læŋk; læŋk/",
+    "origin": "待查",
+    "expansions": [
+      "（指毛发）平直的；柔软的；（指人）瘦长的"
+    ],
+    "pronunciation": "/ læŋk; læŋk/",
+    "accepted_answers": [
+      "（指毛发）平直的",
+      "柔软的",
+      "（指人）瘦长的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "lanky",
     "type": "word",
     "translation": ")(；（指人）细长难看的；又高又瘦的；瘦长的少年",
@@ -2001,6 +2319,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lanolin",
+    "type": "word",
+    "pos": "N",
+    "translation": "羊毛脂（用以制护肤霜）",
+    "analysis": "n [U] fat extracted from sheep's wool and used in making skin creams 羊毛脂（用以制护肤霜）.",
+    "phonetic": "/ ˈlænəlɪn; ˈlænəlɪn/",
+    "origin": "待查",
+    "expansions": [
+      "羊毛脂（用以制护肤霜）"
+    ],
+    "pronunciation": "/ ˈlænəlɪn; ˈlænəlɪn/",
+    "accepted_answers": [
+      "羊毛脂（用以制护肤霜）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
   },
   {
     "term": "lantern",
@@ -2029,6 +2370,31 @@
     "dict_source": "data/DICT/L/L-a.txt"
   },
   {
+    "term": "lanthanide",
+    "type": "word",
+    "pos": "N",
+    "translation": "化)；)镧系元素中之任何一种（从原子序数为；的镧到",
+    "analysis": "n (chemistry 化) any of the 15 elements in the lanthanide series, with atomic numbers from 57 (lanthanum) to 71 (lutetium) 镧系元素中之任何一种（从原子序数为57的镧到71的镥）.",
+    "phonetic": "/ ˈlænθənaɪd; ˈlænθəˌnaɪd/",
+    "origin": "待查",
+    "expansions": [
+      "化)；)镧系元素中之任何一种（从原子序数为；的镧到"
+    ],
+    "pronunciation": "/ ˈlænθənaɪd; ˈlænθəˌnaɪd/",
+    "accepted_answers": [
+      "化)",
+      ")镧系元素中之任何一种（从原子序数为",
+      "的镧到"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "lanthanum",
     "type": "word",
     "pos": "N",
@@ -2043,6 +2409,34 @@
     "accepted_answers": [
       "化)",
       "见附录"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lanyard",
+    "type": "word",
+    "pos": "N",
+    "translation": "（套在脖子上以悬小刀或哨子等的）项带；颈带；海)；系带；短绳；短索",
+    "analysis": "n  1 cord worn round the neck to hold a knife, whistle, etc （套在脖子上以悬小刀或哨子等的）项带, 颈带.  2 (nautical 海) short rope or line attached to sth to secure it 系带, 短绳, 短索.",
+    "phonetic": "/ ˈlænjəd; ˈlænjəd/",
+    "origin": "待查",
+    "expansions": [
+      "（套在脖子上以悬小刀或哨子等的）项带；颈带；海)；系带；短绳；短索"
+    ],
+    "pronunciation": "/ ˈlænjəd; ˈlænjəd/",
+    "accepted_answers": [
+      "（套在脖子上以悬小刀或哨子等的）项带",
+      "颈带",
+      "海)",
+      "系带",
+      "短绳",
+      "短索"
     ],
     "added_at": "",
     "review": {
@@ -2199,6 +2593,52 @@
     }
   },
   {
+    "term": "lapwing",
+    "type": "word",
+    "pos": "N",
+    "translation": "麦鸡",
+    "analysis": "(also peewit, pewit) n type of small black and white wading bird 麦鸡.",
+    "phonetic": "/ ˈlæpwɪŋ; ˈlæpˌwɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "麦鸡"
+    ],
+    "pronunciation": "/ ˈlæpwɪŋ; ˈlæpˌwɪŋ/",
+    "accepted_answers": [
+      "麦鸡"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "larcenous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "larcenous",
+    "analysis": "adj.",
+    "phonetic": "/ ˈlɑː:sənəs; ˈlɑːrsənəs/",
+    "origin": "待查",
+    "expansions": [
+      "larcenous"
+    ],
+    "pronunciation": "/ ˈlɑː:sənəs; ˈlɑːrsənəs/",
+    "accepted_answers": [
+      "larcenous"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "larceny",
     "type": "word",
     "pos": "N",
@@ -2214,6 +2654,31 @@
       "律)(",
       "盗窃",
       "盗窃罪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "larch",
+    "type": "word",
+    "pos": "N",
+    "translation": "落叶松；见附录；插图",
+    "analysis": "n (a) [C] tall deciduous tree of the pine family, with small cones and needle-like leaves 落叶松. =>illus at App 1 见附录1插图, page i. (b) [U] its wood 落叶松木.",
+    "phonetic": "/ lɑː:tʃ; lɑːrtʃ/",
+    "origin": "待查",
+    "expansions": [
+      "落叶松；见附录；插图"
+    ],
+    "pronunciation": "/ lɑː:tʃ; lɑːrtʃ/",
+    "accepted_answers": [
+      "落叶松",
+      "见附录",
+      "插图"
     ],
     "added_at": "",
     "review": {
@@ -2247,6 +2712,31 @@
     },
     "pos": "N",
     "origin": "待查"
+  },
+  {
+    "term": "larder",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指旧时）食橱；食物贮藏室；参看",
+    "analysis": "n (esp formerly) cupboard or small room used for storing food （尤指旧时）食橱, 食物贮藏室. Cf 参看 pantry.",
+    "phonetic": "/ ˈlɑː:də(r); ˈlɑːrdə/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指旧时）食橱；食物贮藏室；参看"
+    ],
+    "pronunciation": "/ ˈlɑː:də(r); ˈlɑːrdə/",
+    "accepted_answers": [
+      "（尤指旧时）食橱",
+      "食物贮藏室",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
   },
   {
     "term": "large",
@@ -2299,6 +2789,31 @@
     }
   },
   {
+    "term": "largess",
+    "type": "word",
+    "pos": "N",
+    "translation": "慷慨的赠与；（尤指）赏赐；赏金",
+    "analysis": "n [U]  1 generous giving of money or gifts, esp to sb of lower rank or status 慷慨的赠与; （尤指）赏赐.  2 money or gifts given in this way 赏金; 赠物.",
+    "phonetic": "/ lɑː:ˈdʒes; ˈlɑːrdʒes/",
+    "origin": "待查",
+    "expansions": [
+      "慷慨的赠与；（尤指）赏赐；赏金"
+    ],
+    "pronunciation": "/ lɑː:ˈdʒes; ˈlɑːrdʒes/",
+    "accepted_answers": [
+      "慷慨的赠与",
+      "（尤指）赏赐",
+      "赏金"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "largo",
     "type": "word",
     "translation": "音)(；缓慢的乐曲或乐章；广板",
@@ -2336,6 +2851,31 @@
     "accepted_answers": [
       "（套马或拴马用的）系绳",
       "套索"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lark",
+    "type": "word",
+    "pos": "N",
+    "translation": "百灵科鸣禽；（尤指）云雀；习语)",
+    "analysis": "n  1 any of several small songbirds, esp the skylark 百灵科鸣禽; （尤指）云雀.  2 (idm 习语) be/get ,up with the `lark get up early in the morning 早起.",
+    "phonetic": "/ lɑː:k; lɑːrk/",
+    "origin": "待查",
+    "expansions": [
+      "百灵科鸣禽；（尤指）云雀；习语)"
+    ],
+    "pronunciation": "/ lɑː:k; lɑːrk/",
+    "accepted_answers": [
+      "百灵科鸣禽",
+      "（尤指）云雀",
+      "习语)"
     ],
     "added_at": "",
     "review": {
@@ -2414,6 +2954,30 @@
     }
   },
   {
+    "term": "laryngitis",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；喉炎",
+    "analysis": "n [U] (medical 医) inflammation of the larynx 喉炎.",
+    "phonetic": "/ ˌlærɪnˈdʒaɪtɪs; ˌlærɪnˈdʒaɪtɪs/",
+    "origin": "待查",
+    "expansions": [
+      "医)；喉炎"
+    ],
+    "pronunciation": "/ ˌlærɪnˈdʒaɪtɪs; ˌlærɪnˈdʒaɪtɪs/",
+    "accepted_answers": [
+      "医)",
+      "喉炎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "larynx",
     "type": "word",
     "translation": ")(；解)(；插图",
@@ -2435,6 +2999,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lasagne",
+    "type": "word",
+    "pos": "N",
+    "translation": "宽面（宽而扁的乾面条）；卤汁宽面（加肉汁、蕃茄和乾酪烹制的）",
+    "analysis": "n [U] (a) pasta made in broad flat strips 宽面（宽而扁的乾面条）. (b) dish made from layers of this with meat sauce, tomatoes and cheese, baked in the oven 卤汁宽面（加肉汁、 蕃茄和乾酪烹制的）.",
+    "phonetic": "/ ləˈzænjə; ləˈzɑːnjə/",
+    "origin": "待查",
+    "expansions": [
+      "宽面（宽而扁的乾面条）；卤汁宽面（加肉汁、蕃茄和乾酪烹制的）"
+    ],
+    "pronunciation": "/ ləˈzænjə; ləˈzɑːnjə/",
+    "accepted_answers": [
+      "宽面（宽而扁的乾面条）",
+      "卤汁宽面（加肉汁、蕃茄和乾酪烹制的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lascar",
+    "type": "word",
+    "pos": "N",
+    "translation": "东印度水手",
+    "analysis": "n seaman from the E Indies 东印度水手.",
+    "phonetic": "/ ˈlæskə(r); ˈlæskə/",
+    "origin": "待查",
+    "expansions": [
+      "东印度水手"
+    ],
+    "pronunciation": "/ ˈlæskə(r); ˈlæskə/",
+    "accepted_answers": [
+      "东印度水手"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
   },
   {
     "term": "lascivious",
@@ -3084,6 +3695,29 @@
     "dict_source": "data/DICT/L/L-a.txt"
   },
   {
+    "term": "latrine",
+    "type": "word",
+    "pos": "N",
+    "translation": "（营地、兵营、工地等的）厕所（尤指在地面上挖坑、渠而成的）",
+    "analysis": "n lavatory in a camp, barracks, etc, esp one made by digging a trench or hole in the earth （营地、 兵营、 工地等的）厕所（尤指在地面上挖坑、 渠而成的）.",
+    "phonetic": "/ ləˈtriːn; ləˈtrin/",
+    "origin": "待查",
+    "expansions": [
+      "（营地、兵营、工地等的）厕所（尤指在地面上挖坑、渠而成的）"
+    ],
+    "pronunciation": "/ ləˈtriːn; ləˈtrin/",
+    "accepted_answers": [
+      "（营地、兵营、工地等的）厕所（尤指在地面上挖坑、渠而成的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "latter",
     "type": "word",
     "translation": "文)；後期的；末期的",
@@ -3183,6 +3817,52 @@
     }
   },
   {
+    "term": "laudably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "laudably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "laudably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "laudably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "laudanum",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指旧时）鸦片酊（用作镇静剂）",
+    "analysis": "n [U] (esp formerly) opium prepared for use as a sedative （尤指旧时）鸦片酊（用作镇静剂）.",
+    "phonetic": "/ ˈlɔːdənəm; ˈlɔːdənəm/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指旧时）鸦片酊（用作镇静剂）"
+    ],
+    "pronunciation": "/ ˈlɔːdənəm; ˈlɔːdənəm/",
+    "accepted_answers": [
+      "（尤指旧时）鸦片酊（用作镇静剂）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "laudatory",
     "type": "word",
     "pos": "Adj",
@@ -3256,6 +3936,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "laughably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "laughably",
+    "analysis": "adv.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "laughably"
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "laughably"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
   },
   {
     "term": "laughing",
@@ -3408,6 +4111,30 @@
     "dict_source": "data/DICT/L/L-a.txt"
   },
   {
+    "term": "laundromat",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名；自助洗衣店",
+    "analysis": "n (propr 专利名 esp US) launderette 自助洗衣店.",
+    "phonetic": "/ ˈlɔːndrəmæt; ˈlɔːndrəˌmæt/",
+    "origin": "待查",
+    "expansions": [
+      "专利名；自助洗衣店"
+    ],
+    "pronunciation": "/ ˈlɔːndrəmæt; ˈlɔːndrəˌmæt/",
+    "accepted_answers": [
+      "专利名",
+      "自助洗衣店"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "laundry",
     "type": "word",
     "translation": "洗衣店；送往洗衣店；洗衣店货车",
@@ -3427,6 +4154,29 @@
       "洗衣店货车"
     ],
     "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "laureate",
+    "type": "word",
+    "pos": "N",
+    "translation": "laureate",
+    "analysis": "n = Poet Laureate (poet).",
+    "phonetic": "/ ˈlɒrɪət; ˈlɔːr-; ˈlɔːrɪɪt/",
+    "origin": "待查",
+    "expansions": [
+      "laureate"
+    ],
+    "pronunciation": "/ ˈlɒrɪət; ˈlɔːr-; ˈlɔːrɪɪt/",
+    "accepted_answers": [
+      "laureate"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -3504,6 +4254,57 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lavatory",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧亦作；抽水马桶；（有抽水马桶的）厕所",
+    "analysis": "n  1 (also dated 旧亦作 `water-closet) device, usu consisting of a bowl connected to a drain, used for disposing of waste matter from the body 抽水马桶.  2 room, building, etc equipped with this device （有抽水马桶的）厕所. =>Usage at toilet 用法见toilet.",
+    "phonetic": "/ ˈlævətrɪ; -tɔːrɪ; ˈlævəˌtɔːrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "旧亦作；抽水马桶；（有抽水马桶的）厕所"
+    ],
+    "pronunciation": "/ ˈlævətrɪ; -tɔːrɪ; ˈlævəˌtɔːrɪ/",
+    "accepted_answers": [
+      "旧亦作",
+      "抽水马桶",
+      "（有抽水马桶的）厕所"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
+    "term": "lavender",
+    "type": "word",
+    "pos": "N",
+    "translation": "薰衣草（开淡紫色花；味香）；乾薰衣草的花及茎（用以薰香衣物等）；淡紫色",
+    "analysis": "n [U]  1 (a) plant with sweet-smelling pale purple flowers 薰衣草（开淡紫色花, 味香）. (b) its dried flowers and stalks used to give linen, etc a pleasant smell 乾薰衣草的花及茎（用以薰香衣物等）.  2 pale purple colour 淡紫色.\nlavender-water \nn [U] delicate perfume made from lavender 薰衣草香水.",
+    "phonetic": "/ ˈlævəndə(r); ˈlævəndə/",
+    "origin": "待查",
+    "expansions": [
+      "薰衣草（开淡紫色花；味香）；乾薰衣草的花及茎（用以薰香衣物等）；淡紫色"
+    ],
+    "pronunciation": "/ ˈlævəndə(r); ˈlævəndə/",
+    "accepted_answers": [
+      "薰衣草（开淡紫色花",
+      "味香）",
+      "乾薰衣草的花及茎（用以薰香衣物等）",
+      "淡紫色"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
   },
   {
     "term": "lavish",
@@ -3824,6 +4625,31 @@
     "dict_source": "data/DICT/L/L-a.txt"
   },
   {
+    "term": "layabout",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；懒人；不务正业的人",
+    "analysis": "n (Brit infml 口) lazy person who avoids work 懒人; 不务正业的人.",
+    "phonetic": "/ ˈleɪəbaUt; ˈleəˌbaJt/",
+    "origin": "待查",
+    "expansions": [
+      "口)；懒人；不务正业的人"
+    ],
+    "pronunciation": "/ ˈleɪəbaUt; ˈleəˌbaJt/",
+    "accepted_answers": [
+      "口)",
+      "懒人",
+      "不务正业的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-a.txt"
+  },
+  {
     "term": "layer",
     "type": "word",
     "translation": "层（尤指数层中之一）；穿几层薄的衣服总比穿一层厚的衣服暖；家具上的一层尘土",
@@ -3993,6 +4819,29 @@
     }
   },
   {
+    "term": "lbw",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写",
+    "analysis": "abbr 缩写 = (in cricket) leg before wicket.",
+    "phonetic": "/ ˌelbiːˈdʌbljuː; ˌelbiˈdʌblju/",
+    "origin": "待查",
+    "expansions": [
+      "缩写"
+    ],
+    "pronunciation": "/ ˌelbiːˈdʌbljuː; ˌelbiˈdʌblju/",
+    "accepted_answers": [
+      "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "lcd",
     "type": "word",
     "translation": "缩写；电子)；液晶显示",
@@ -4014,6 +4863,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lea",
+    "type": "word",
+    "pos": "N",
+    "translation": "古)；草原；草地",
+    "analysis": "n (arch 古) area of open grassland; meadow 草原; 草地.",
+    "phonetic": "/ liː; li/",
+    "origin": "待查",
+    "expansions": [
+      "古)；草原；草地"
+    ],
+    "pronunciation": "/ liː; li/",
+    "accepted_answers": [
+      "古)",
+      "草原",
+      "草地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
     "term": "leach",
@@ -4404,6 +5278,29 @@
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
+    "term": "leanness",
+    "type": "word",
+    "pos": "N",
+    "translation": "leanness",
+    "analysis": "n [U].",
+    "phonetic": "/ ˈliːnnɪs; ˈlinnɪs/",
+    "origin": "待查",
+    "expansions": [
+      "leanness"
+    ],
+    "pronunciation": "/ ˈliːnnɪs; ˈlinnɪs/",
+    "accepted_answers": [
+      "leanness"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "leap",
     "type": "word",
     "translation": "用法见；跳跃；猫从椅子上跳开了",
@@ -4665,6 +5562,30 @@
     }
   },
   {
+    "term": "leatherette",
+    "type": "word",
+    "pos": "N",
+    "translation": "人造革；人造皮",
+    "analysis": "n [U] imitation leather 人造革; 人造皮.",
+    "phonetic": "/ ˌleTəˈret; ˌleTəˈret/",
+    "origin": "待查",
+    "expansions": [
+      "人造革；人造皮"
+    ],
+    "pronunciation": "/ ˌleTəˈret; ˌleTəˈret/",
+    "accepted_answers": [
+      "人造革",
+      "人造皮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "leathery",
     "type": "word",
     "translation": "坚韧如皮革的；粗而硬的皮肤、嚼不动的肉；大蚊的幼虫",
@@ -4787,6 +5708,30 @@
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
+    "term": "lecherous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "纵欲的；好色的",
+    "analysis": "adj having or showing an excessive interest in and desire for sexual pleasure 纵欲的; 好色的.\nlecherously \nadv.",
+    "phonetic": "/ ˈletʃərəs; ˈletʃərəs/",
+    "origin": "待查",
+    "expansions": [
+      "纵欲的；好色的"
+    ],
+    "pronunciation": "/ ˈletʃərəs; ˈletʃərəs/",
+    "accepted_answers": [
+      "纵欲的",
+      "好色的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "lechery",
     "type": "word",
     "pos": "N",
@@ -4887,6 +5832,31 @@
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
+    "term": "led",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；电子)；发光二极管",
+    "analysis": "abbr 缩写 = (electronics 电子) light-emitting diode 发光二极管.",
+    "phonetic": "/ ˌeliːˈdiː; ˌeliˈdi/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；电子)；发光二极管"
+    ],
+    "pronunciation": "/ ˌeliːˈdiː; ˌeliˈdi/",
+    "accepted_answers": [
+      "缩写",
+      "电子)",
+      "发光二极管"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "ledge",
     "type": "word",
     "translation": "水平的窄长架状突出物；壁架；岩石架",
@@ -4958,6 +5928,56 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "leech",
+    "type": "word",
+    "pos": "N",
+    "translation": "水蛭；蚂蟥；比喻；贬)",
+    "analysis": "n  1 small blood-sucking worm usu living in water and formerly used by doctors to remove blood from sick people 水蛭; 蚂蟥.  2 (fig derog 比喻, 贬) person who hangs about other people hoping to obtain money, food, alcohol, etc 依附於他人希望获得钱、 食物、 酒等的人.  3 (arch or joc 古或谑) doctor 医生.  4 (idm 习语) cling/stick to sb like a `leech stay very close to sb; be difficult for sb to get rid of 依附於某人; 纠缠某人不放.",
+    "phonetic": "/ liːtʃ; litʃ/",
+    "origin": "待查",
+    "expansions": [
+      "水蛭；蚂蟥；比喻；贬)"
+    ],
+    "pronunciation": "/ liːtʃ; litʃ/",
+    "accepted_answers": [
+      "水蛭",
+      "蚂蟥",
+      "比喻",
+      "贬)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leek",
+    "type": "word",
+    "pos": "N",
+    "translation": "韭葱；插图",
+    "analysis": "n vegetable related to the onion but with wider green leaves above a long white bulb 韭葱. =>illus at onion 见onion插图.",
+    "phonetic": "/ liːk; lik/",
+    "origin": "待查",
+    "expansions": [
+      "韭葱；插图"
+    ],
+    "pronunciation": "/ liːk; lik/",
+    "accepted_answers": [
+      "韭葱",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
     "term": "leer",
@@ -5341,6 +6361,29 @@
     }
   },
   {
+    "term": "legate",
+    "type": "word",
+    "pos": "N",
+    "translation": "罗马教皇的使节",
+    "analysis": "n ambassador of the Pope to a foreign country 罗马教皇的使节.",
+    "phonetic": "/ ˈlegɪt; ˈlegɪt/",
+    "origin": "待查",
+    "expansions": [
+      "罗马教皇的使节"
+    ],
+    "pronunciation": "/ ˈlegɪt; ˈlegɪt/",
+    "accepted_answers": [
+      "罗马教皇的使节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "legatee",
     "type": "word",
     "pos": "N",
@@ -5455,6 +6498,31 @@
       "传奇式的"
     ],
     "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leger",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；音)；加线",
+    "analysis": "n (also `leger line, ledger, ledger line) (music 音) short line added above or below the staff to take notes which are outside its range 加线. =>illus at music 见music插图.",
+    "phonetic": "/ ˈledʒə(r); ˈledʒə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；音)；加线"
+    ],
+    "pronunciation": "/ ˈledʒə(r); ˈledʒə/",
+    "accepted_answers": [
+      ")(",
+      "音)",
+      "加线"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -5652,6 +6720,31 @@
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
+    "term": "legionnaire",
+    "type": "word",
+    "pos": "N",
+    "translation": "外籍军团成员（尤指法国的外籍军团中的）；医)；退伍军人协会会员病（一种细菌性肺炎）",
+    "analysis": "n member of a legion, esp of the French Foreign Legion 外籍军团成员（尤指法国的外籍军团中的）.\nlegionnaires disease \n(medical 医) form of bacterial pneumonia 退伍军人协会会员病（一种细菌性肺炎）.",
+    "phonetic": "/ ˌliːdʒəˈneə(r); ˌlidʒəˈner/",
+    "origin": "待查",
+    "expansions": [
+      "外籍军团成员（尤指法国的外籍军团中的）；医)；退伍军人协会会员病（一种细菌性肺炎）"
+    ],
+    "pronunciation": "/ ˌliːdʒəˈneə(r); ˌlidʒəˈner/",
+    "accepted_answers": [
+      "外籍军团成员（尤指法国的外籍军团中的）",
+      "医)",
+      "退伍军人协会会员病（一种细菌性肺炎）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "legislate",
     "type": "word",
     "translation": "立法；制定法律；立法是议会的工作",
@@ -5740,6 +6833,31 @@
       "文)",
       "立法机关成员",
       "立法者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "legislature",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；立法机关；立法团体",
+    "analysis": "n [CGp] (fml 文) body of people with the power to make and change laws 立法机关; 立法团体.",
+    "phonetic": "/ ˈledʒɪsleɪtʃə(r); ˈledʒɪsˌletʃə/",
+    "origin": "待查",
+    "expansions": [
+      "文)；立法机关；立法团体"
+    ],
+    "pronunciation": "/ ˈledʒɪsleɪtʃə(r); ˈledʒɪsˌletʃə/",
+    "accepted_answers": [
+      "文)",
+      "立法机关",
+      "立法团体"
     ],
     "added_at": "",
     "review": {
@@ -5870,6 +6988,31 @@
     }
   },
   {
+    "term": "legless",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "没有腿的；作表语；俚)",
+    "analysis": "adj  1 without legs 没有腿的.  2 [pred 作表语] (sl 俚) very drunk 大醉.",
+    "phonetic": "/ ˈleglɪs; ˈleglɪs/",
+    "origin": "待查",
+    "expansions": [
+      "没有腿的；作表语；俚)"
+    ],
+    "pronunciation": "/ ˈleglɪs; ˈleglɪs/",
+    "accepted_answers": [
+      "没有腿的",
+      "作表语",
+      "俚)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "legume",
     "type": "word",
     "pos": "N",
@@ -5884,6 +7027,52 @@
     "accepted_answers": [
       "豆科植物",
       "（可食的）豆荚或豆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leguminous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "豆科植物的",
+    "analysis": "adj of this family of plants 豆科植物的.",
+    "phonetic": "/ lɪˈgjuːmɪnəs; lɪˈgjumɪnəs/",
+    "origin": "待查",
+    "expansions": [
+      "豆科植物的"
+    ],
+    "pronunciation": "/ lɪˈgjuːmɪnəs; lɪˈgjumɪnəs/",
+    "accepted_answers": [
+      "豆科植物的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "lei",
+    "type": "word",
+    "pos": "N",
+    "translation": "（尤指波利尼西亚地区诸国人戴於颈上的）花环",
+    "analysis": "n (esp in Polynesian countries) garland of flowers worn around the neck （尤指波利尼西亚地区诸国人戴於颈上的）花环.",
+    "phonetic": "/ ˈleɪiː; ˈleɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（尤指波利尼西亚地区诸国人戴於颈上的）花环"
+    ],
+    "pronunciation": "/ ˈleɪiː; ˈleɪ/",
+    "accepted_answers": [
+      "（尤指波利尼西亚地区诸国人戴於颈上的）花环"
     ],
     "added_at": "",
     "review": {
@@ -5993,6 +7182,31 @@
     }
   },
   {
+    "term": "lemon",
+    "type": "word",
+    "pos": "N",
+    "translation": "柠檬；插图；柠檬树",
+    "analysis": "n  1 (a) [C, U] oval yellow fruit with acidic juice used for drinks and flavouring 柠檬. =>illus at fruit 见fruit插图. (b) [C] (also `lemon tree) tree with glossy green leaves on which this fruit grows 柠檬树.  2 (also ,lemon `yellow) [U] pale yellow colour 柠檬黄; 淡黄色.  3 [C] (sl 俚) unsatisfactory or defective thing, esp a car 差的或有毛病的东西（尤指汽车）.\nlemon curd (also lemon cheese) \nthick smooth jam made from lemons, sugar, eggs and butter 柠檬酪（由柠檬、 糖、 鸡蛋、 黄油制的果酱）.\nlemon sole \ntype of edible flatfish 柠檬鳎（可食用）.\nlemon squash \n(Brit) sweet lemon-flavoured drink that is diluted with water 柠檬汁.\nlemon-squeezer \nn device for pressing the juice out of a lemon 柠檬榨汁器.",
+    "phonetic": "/ ˈlemən; ˈlemən/",
+    "origin": "待查",
+    "expansions": [
+      "柠檬；插图；柠檬树"
+    ],
+    "pronunciation": "/ ˈlemən; ˈlemən/",
+    "accepted_answers": [
+      "柠檬",
+      "插图",
+      "柠檬树"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "lemonade",
     "type": "word",
     "pos": "N",
@@ -6007,6 +7221,29 @@
     "accepted_answers": [
       "汽水",
       "柠檬水（柠檬汁加糖和水的饮料）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "lemur",
+    "type": "word",
+    "pos": "N",
+    "translation": "狐猴（马达加斯加岛的树栖夜行动物）",
+    "analysis": "n monkey-like animal of Madagascar that lives in trees and is active at night 狐猴（马达加斯加岛的树栖夜行动物）.",
+    "phonetic": "/ ˈliːmə(r); ˈlimə/",
+    "origin": "待查",
+    "expansions": [
+      "狐猴（马达加斯加岛的树栖夜行动物）"
+    ],
+    "pronunciation": "/ ˈliːmə(r); ˈlimə/",
+    "accepted_answers": [
+      "狐猴（马达加斯加岛的树栖夜行动物）"
     ],
     "added_at": "",
     "review": {
@@ -6263,6 +7500,55 @@
     }
   },
   {
+    "term": "lento",
+    "type": "word",
+    "pos": "Adj / Adv",
+    "translation": "音)(；)（指演奏）缓慢（的）",
+    "analysis": "adj, adv (music 音) (played or to be played slowly) （指演奏）缓慢（的）.",
+    "phonetic": "/ ˈlentəʊ; ˈlento/",
+    "origin": "待查",
+    "expansions": [
+      "音)(；)（指演奏）缓慢（的）"
+    ],
+    "pronunciation": "/ ˈlentəʊ; ˈlento/",
+    "accepted_answers": [
+      "音)(",
+      ")（指演奏）缓慢（的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leo",
+    "type": "word",
+    "pos": "N",
+    "translation": "狮子宫（黄道第五宫）；属狮子宫星座的人；用法见",
+    "analysis": "n  1 [U] the fifth sign of the zodiac, the Lion 狮子宫（黄道第五宫）.  2 [C] (pl ~s) person born under the influence of this sign 属狮子宫星座的人. =>Usage at zodiac 用法见zodiac. =>illus at zodiac 见zodiac插图.",
+    "phonetic": "/ ˈliːəʊ; ˈlio/",
+    "origin": "待查",
+    "expansions": [
+      "狮子宫（黄道第五宫）；属狮子宫星座的人；用法见"
+    ],
+    "pronunciation": "/ ˈliːəʊ; ˈlio/",
+    "accepted_answers": [
+      "狮子宫（黄道第五宫）",
+      "属狮子宫星座的人",
+      "用法见"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "leonine",
     "type": "word",
     "translation": "文)；狮子的；狮子般的",
@@ -6309,6 +7595,52 @@
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
+    "term": "leopardess",
+    "type": "word",
+    "pos": "N",
+    "translation": "母豹",
+    "analysis": "n female leopard 母豹.",
+    "phonetic": "/ ˈlepədes; ˈlepədɪs/",
+    "origin": "待查",
+    "expansions": [
+      "母豹"
+    ],
+    "pronunciation": "/ ˈlepədes; ˈlepədɪs/",
+    "accepted_answers": [
+      "母豹"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leotard",
+    "type": "word",
+    "pos": "N",
+    "translation": "（杂技、舞蹈等演员穿的）紧身连衣裤",
+    "analysis": "n close-fitting one-piece garment worn by acrobats, dancers, etc （杂技、 舞蹈等演员穿的）紧身连衣裤.",
+    "phonetic": "/ ˈliːətɑː:d; ˈliəˌtɑːrd/",
+    "origin": "待查",
+    "expansions": [
+      "（杂技、舞蹈等演员穿的）紧身连衣裤"
+    ],
+    "pronunciation": "/ ˈliːətɑː:d; ˈliəˌtɑːrd/",
+    "accepted_answers": [
+      "（杂技、舞蹈等演员穿的）紧身连衣裤"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "leper",
     "type": "word",
     "translation": "麻疯病患者；比喻)；被排斥或摈弃的人",
@@ -6330,6 +7662,52 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "leprechaun",
+    "type": "word",
+    "pos": "N",
+    "translation": "（爱尔兰民间传说中的）精灵（貌似矮小老人）",
+    "analysis": "n (in Irish folklore) fairy in the shape of a little old man （爱尔兰民间传说中的）精灵（貌似矮小老人）.",
+    "phonetic": "/ ˈleprəkɔːn; ˈleprəˌkɔːn/",
+    "origin": "待查",
+    "expansions": [
+      "（爱尔兰民间传说中的）精灵（貌似矮小老人）"
+    ],
+    "pronunciation": "/ ˈleprəkɔːn; ˈleprəˌkɔːn/",
+    "accepted_answers": [
+      "（爱尔兰民间传说中的）精灵（貌似矮小老人）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leprosy",
+    "type": "word",
+    "pos": "N",
+    "translation": "麻疯病",
+    "analysis": "n [U] infectious disease affecting the skin and nerves, causing disfigurement and deformity 麻疯病.",
+    "phonetic": "/ ˈleprəsɪ; ˈleprəsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "麻疯病"
+    ],
+    "pronunciation": "/ ˈleprəsɪ; ˈleprəsɪ/",
+    "accepted_answers": [
+      "麻疯病"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
     "term": "lesbian",
@@ -6527,6 +7905,31 @@
     }
   },
   {
+    "term": "lessor",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；出租人；参看",
+    "analysis": "n (law 律) person who lets a property on lease 出租人. Cf 参看 lessee. =>Usage at tenant 用法见tenant.",
+    "phonetic": "/ ˈlesɔː(r); ˈlesɔːr/",
+    "origin": "待查",
+    "expansions": [
+      "律)；出租人；参看"
+    ],
+    "pronunciation": "/ ˈlesɔː(r); ˈlesɔːr/",
+    "accepted_answers": [
+      "律)",
+      "出租人",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "lest",
     "type": "word",
     "translation": "文)；唯恐；以免",
@@ -6603,6 +8006,29 @@
     }
   },
   {
+    "term": "lethally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "lethally",
+    "analysis": "adv.",
+    "phonetic": "/ ˈliːθəlɪ; ˈliθəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "lethally"
+    ],
+    "pronunciation": "/ ˈliːθəlɪ; ˈliθəlɪ/",
+    "accepted_answers": [
+      "lethally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "lethargic",
     "type": "word",
     "translation": "天气炎热我觉得委靡不振",
@@ -6622,6 +8048,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lethargically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "lethargically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "lethargically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "lethargically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
     "term": "lethargy",
@@ -6761,6 +8210,29 @@
       "医)",
       "白细胞",
       "白血球"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "leucotomy",
+    "type": "word",
+    "pos": "N",
+    "translation": "leucotomy",
+    "analysis": "n (Brit) = lobotomy.",
+    "phonetic": "/ luːˈkɒtəmɪ; luˈkɑːtəmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "leucotomy"
+    ],
+    "pronunciation": "/ luːˈkɒtəmɪ; luˈkɑːtəmɪ/",
+    "accepted_answers": [
+      "leucotomy"
     ],
     "added_at": "",
     "review": {
@@ -6918,6 +8390,29 @@
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
+    "term": "leveret",
+    "type": "word",
+    "pos": "N",
+    "translation": "幼小的野兔",
+    "analysis": "n young hare 幼小的野兔.",
+    "phonetic": "/ ˈlevərɪt; ˈlevərɪt/",
+    "origin": "待查",
+    "expansions": [
+      "幼小的野兔"
+    ],
+    "pronunciation": "/ ˈlevərɪt; ˈlevərɪt/",
+    "accepted_answers": [
+      "幼小的野兔"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
     "term": "leviathan",
     "type": "word",
     "pos": "N",
@@ -6933,6 +8428,30 @@
       "圣经)",
       "海怪",
       "庞然大物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "levis",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；牛仔裤",
+    "analysis": "n [pl] (propr 专利名) jeans 牛仔裤.",
+    "phonetic": "/ ˈliːvaɪz; ˈlivaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；牛仔裤"
+    ],
+    "pronunciation": "/ ˈliːvaɪz; ˈlivaɪz/",
+    "accepted_answers": [
+      "专利名)",
+      "牛仔裤"
     ],
     "added_at": "",
     "review": {
@@ -6987,6 +8506,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "levity",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；轻率；轻浮",
+    "analysis": "n [U] (fml 文) lack of proper seriousness or respect 轻率; 轻浮.",
+    "phonetic": "/ ˈlevətɪ; ˈlevətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "文)；轻率；轻浮"
+    ],
+    "pronunciation": "/ ˈlevətɪ; ˈlevətɪ/",
+    "accepted_answers": [
+      "文)",
+      "轻率",
+      "轻浮"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
     "term": "levy",
@@ -7057,6 +8601,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lexically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "lexically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "lexically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "lexically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-b,c,d,e.txt"
   },
   {
     "term": "lexicographer",
@@ -7200,6 +8767,31 @@
       "review_history": []
     },
     "dict_source": "data/DICT/L/L-b,c,d,e.txt"
+  },
+  {
+    "term": "lf",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；无)；参看",
+    "analysis": "abbr 缩写 = (radio 无) low frequency. Cf 参看 HF.\nlh\nabbr 缩写 = left hand. Cf 参看 rh.",
+    "phonetic": "/ ˌelˈef; ˌelˈef/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；无)；参看"
+    ],
+    "pronunciation": "/ ˌelˈef; ˌelˈef/",
+    "accepted_answers": [
+      "缩写",
+      "无)",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "liability",
@@ -7371,6 +8963,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "libation",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时向神的）祭酒；奠酒；谑)",
+    "analysis": "n  1 (pouring out of an) offering of wine, etc to a god in former times （旧时向神的）祭酒, 奠酒.  2 (joc 谑) alcoholic drink 酒.",
+    "phonetic": "/ laɪˈbeɪʃn; laɪˈbeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时向神的）祭酒；奠酒；谑)"
+    ],
+    "pronunciation": "/ laɪˈbeɪʃn; laɪˈbeʃən/",
+    "accepted_answers": [
+      "（旧时向神的）祭酒",
+      "奠酒",
+      "谑)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "libel",
@@ -7561,6 +9178,29 @@
     "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
+    "term": "liberallization",
+    "type": "word",
+    "pos": "N",
+    "translation": "liberallization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌlɪbrəlaɪˈzeɪʃn; -lɪˈz-; ˌlɪbərələˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "liberallization"
+    ],
+    "pronunciation": "/ ˌlɪbrəlaɪˈzeɪʃn; -lɪˈz-; ˌlɪbərələˈzeʃən/",
+    "accepted_answers": [
+      "liberallization"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "liberally",
     "type": "word",
     "translation": "涂有很多黄油的面包；任意解释裁决；政)",
@@ -7686,6 +9326,106 @@
     }
   },
   {
+    "term": "libidinous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；性欲强的；好色的",
+    "analysis": "adj (fml 文) having or showing strong sexual feelings; lustful 性欲强的; 好色的.",
+    "phonetic": "/ lɪˈbɪdɪnəs; lɪˈbɪdnəs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；性欲强的；好色的"
+    ],
+    "pronunciation": "/ lɪˈbɪdɪnəs; lɪˈbɪdnəs/",
+    "accepted_answers": [
+      "文)",
+      "性欲强的",
+      "好色的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "libido",
+    "type": "word",
+    "pos": "N",
+    "translation": "心)；感情冲动；情欲",
+    "analysis": "n (pl ~s) [U, C] (psychology 心) emotional energy or urge, esp sexual 感情冲动; 情欲; （尤指）性欲.",
+    "phonetic": "/ lɪˈbiːdəʊ,alsoˈlɪbɪdəʊ; lɪˈbido/",
+    "origin": "待查",
+    "expansions": [
+      "心)；感情冲动；情欲"
+    ],
+    "pronunciation": "/ lɪˈbiːdəʊ,alsoˈlɪbɪdəʊ; lɪˈbido/",
+    "accepted_answers": [
+      "心)",
+      "感情冲动",
+      "情欲"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "libra",
+    "type": "word",
+    "pos": "N",
+    "translation": "天平宫（黄道第七宫）；属天平宫星座的人；用法见",
+    "analysis": "n  1 [U] the seventh sign of the zodiac, the Scales 天平宫（黄道第七宫）.  2 [C] person born under the influence of this sign 属天平宫星座的人.\nLibran \nn, adj. =>Usage at zodiac 用法见 zodiac. =>illus at zodiac 见 zodiac 插图.",
+    "phonetic": "/ ˈliːbrə; ˈlibrə/",
+    "origin": "待查",
+    "expansions": [
+      "天平宫（黄道第七宫）；属天平宫星座的人；用法见"
+    ],
+    "pronunciation": "/ ˈliːbrə; ˈlibrə/",
+    "accepted_answers": [
+      "天平宫（黄道第七宫）",
+      "属天平宫星座的人",
+      "用法见"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "librarian",
+    "type": "word",
+    "pos": "N",
+    "translation": "图书馆管理员；资料收藏管理员；图书馆管理（员）或资料收藏管理（员）的工作",
+    "analysis": "n person in charge of or assisting in a library 图书馆管理员; 资料收藏管理员. librarianship n [U] work of being a librarian 图书馆管理（员）或资料收藏管理（员）的工作.",
+    "phonetic": "/ laɪˈbreərɪən; laɪˈbrerɪən/",
+    "origin": "待查",
+    "expansions": [
+      "图书馆管理员；资料收藏管理员；图书馆管理（员）或资料收藏管理（员）的工作"
+    ],
+    "pronunciation": "/ laɪˈbreərɪən; laɪˈbrerɪən/",
+    "accepted_answers": [
+      "图书馆管理员",
+      "资料收藏管理员",
+      "图书馆管理（员）或资料收藏管理（员）的工作"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "library",
     "type": "word",
     "translation": "藏书；公共图书馆、图书参考室、大学图书馆的藏书；他的藏书中有许多外国书",
@@ -7712,6 +9452,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "librettist",
+    "type": "word",
+    "pos": "N",
+    "translation": "（歌剧或音乐剧的）歌词作者",
+    "analysis": "n author of a libretto （歌剧或音乐剧的）歌词作者.\nlice\npl of louse.",
+    "phonetic": "/ lɪˈbretɪst; lɪˈbretɪst/",
+    "origin": "待查",
+    "expansions": [
+      "（歌剧或音乐剧的）歌词作者"
+    ],
+    "pronunciation": "/ lɪˈbretɪst; lɪˈbretɪst/",
+    "accepted_answers": [
+      "（歌剧或音乐剧的）歌词作者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "libretto",
@@ -7829,6 +9592,79 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "licentious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；漠视行为规范的；（尤指）放荡的；淫乱的",
+    "analysis": "adj (fml 文) disregardingthe rules of behaviour, esp in sexual matters 漠视行为规范的; （尤指）放荡的, 淫乱的.\nlicentiously \nadv. \nlicentiousness \nn [U].",
+    "phonetic": "/ laɪˈsenʃəs; laɪˈsenʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "文)；漠视行为规范的；（尤指）放荡的；淫乱的"
+    ],
+    "pronunciation": "/ laɪˈsenʃəs; laɪˈsenʃəs/",
+    "accepted_answers": [
+      "文)",
+      "漠视行为规范的",
+      "（尤指）放荡的",
+      "淫乱的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "lich-gate",
+    "type": "word",
+    "pos": "N",
+    "translation": "教堂墓地前有顶盖的门",
+    "analysis": "n roofed gateway to a churchyard 教堂墓地前有顶盖的门.",
+    "phonetic": "/ ˈlɪtʃgeɪt; ˈlɪtʃˌget/",
+    "origin": "待查",
+    "expansions": [
+      "教堂墓地前有顶盖的门"
+    ],
+    "pronunciation": "/ ˈlɪtʃgeɪt; ˈlɪtʃˌget/",
+    "accepted_answers": [
+      "教堂墓地前有顶盖的门"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "lichen",
+    "type": "word",
+    "pos": "N",
+    "translation": "地衣；参看",
+    "analysis": "n [U] dry-looking plant, usu yellow, grey or green, that grows on rocks, walls, tree-trunks, etc 地衣. Cf 参看 moss.",
+    "phonetic": "/ ˈlaɪkən; ˈlaɪkən/",
+    "origin": "待查",
+    "expansions": [
+      "地衣；参看"
+    ],
+    "pronunciation": "/ ˈlaɪkən; ˈlaɪkən/",
+    "accepted_answers": [
+      "地衣",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "lick",
@@ -7981,6 +9817,32 @@
     "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
+    "term": "lien",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；留置权；扣押权（扣押某人财产直至债务；如修理费、运输费等清偿方予放还者）",
+    "analysis": "n [C] (law 律) ~ (on/upon sth) right to keep sb's property until a debt owed in connection with it (for repair, transport, etc) is paid 留置权, 扣押权（扣押某人财产直至债务, 如修理费、 运输费等清偿方予放还者）.",
+    "phonetic": "/ lɪən; liən/",
+    "origin": "待查",
+    "expansions": [
+      "律)；留置权；扣押权（扣押某人财产直至债务；如修理费、运输费等清偿方予放还者）"
+    ],
+    "pronunciation": "/ lɪən; liən/",
+    "accepted_answers": [
+      "律)",
+      "留置权",
+      "扣押权（扣押某人财产直至债务",
+      "如修理费、运输费等清偿方予放还者）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "lieu",
     "type": "word",
     "translation": "习语)；代替；接受支票替代现金",
@@ -8003,6 +9865,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lieutenancy",
+    "type": "word",
+    "pos": "N",
+    "translation": "陆军中尉、海军上尉、副职官员的军衔或职位",
+    "analysis": "n rank of a lieutenant 陆军中尉、 海军上尉、 副职官员的军衔或职位.",
+    "phonetic": "/ -ənsɪ; -ənsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "陆军中尉、海军上尉、副职官员的军衔或职位"
+    ],
+    "pronunciation": "/ -ənsɪ; -ənsɪ/",
+    "accepted_answers": [
+      "陆军中尉、海军上尉、副职官员的军衔或职位"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "lieutenant",
@@ -8351,6 +10236,29 @@
     "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
+    "term": "lighterman",
+    "type": "word",
+    "pos": "N",
+    "translation": "驳船船员",
+    "analysis": "n (pl `lightermen / -mEn; -mEn/) person who works on a lighter 驳船船员.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "驳船船员"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "驳船船员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "lightning",
     "type": "word",
     "translation": "闪电；遭雷电击中；一道闪电",
@@ -8397,6 +10305,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "ligneous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指植物）木的；木质的",
+    "analysis": "adj (of plants) woody （指植物）木的, 木质的.",
+    "phonetic": "/ ˈlɪgnɪəs; ˈlɪgnɪəs/",
+    "origin": "待查",
+    "expansions": [
+      "（指植物）木的；木质的"
+    ],
+    "pronunciation": "/ ˈlɪgnɪəs; ˈlɪgnɪəs/",
+    "accepted_answers": [
+      "（指植物）木的",
+      "木质的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "lignite",
@@ -8667,6 +10599,31 @@
     }
   },
   {
+    "term": "lilo",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；专利名)；充气垫（如於海滨供躺卧用的）",
+    "analysis": "n (pl ~s) (Brit propr 专利名) type of lightweight inflatable mattress for lying on, eg at the beach 充气垫（如於海滨供躺卧用的）.",
+    "phonetic": "/ ˈlaɪləʊ; ˈlaɪˌlo/",
+    "origin": "待查",
+    "expansions": [
+      ")(；专利名)；充气垫（如於海滨供躺卧用的）"
+    ],
+    "pronunciation": "/ ˈlaɪləʊ; ˈlaɪˌlo/",
+    "accepted_answers": [
+      ")(",
+      "专利名)",
+      "充气垫（如於海滨供躺卧用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "lilt",
     "type": "word",
     "translation": "（说话时声音的）抑扬顿挫；她有点爱尔兰口音；（音乐的）轻快旋律",
@@ -8811,6 +10768,31 @@
     }
   },
   {
+    "term": "lime",
+    "type": "word",
+    "pos": "N",
+    "translation": "石灰；给（田地等）施石灰（以改进土壤）；石灰窑",
+    "analysis": "n [U]  1 (also `quicklime) whitesubstance (calcium oxide) obtained by heating limestone,used in making cement and mortar and as a fertilizer 石灰.  2 = birdlime (bird).\nlime \nv [Tn] treat (fields, etc) with lime to improve the soil 给（田地等）施石灰（以改进土壤）.\nlime-kiln \nn kiln in which lime is produced 石灰窑.\nlimestone \nn [U] type of rock, eg chalk, composed esp of the remains of prehistoric plants and animals 石灰岩.",
+    "phonetic": "/ laɪm; laɪm/",
+    "origin": "待查",
+    "expansions": [
+      "石灰；给（田地等）施石灰（以改进土壤）；石灰窑"
+    ],
+    "pronunciation": "/ laɪm; laɪm/",
+    "accepted_answers": [
+      "石灰",
+      "给（田地等）施石灰（以改进土壤）",
+      "石灰窑"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "limelight",
     "type": "word",
     "translation": "众人注意的中心；她说她从不爱出风头；我当总统时一直为公众瞩目",
@@ -8833,6 +10815,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "limerick",
+    "type": "word",
+    "pos": "N",
+    "translation": "五行幽默诗",
+    "analysis": "n type of humorous poem with five lines, the first two rhyming with the last 五行幽默诗.",
+    "phonetic": "/ ˈlɪmərɪk; ˈlɪmərɪk/",
+    "origin": "待查",
+    "expansions": [
+      "五行幽默诗"
+    ],
+    "pronunciation": "/ ˈlɪmərɪk; ˈlɪmərɪk/",
+    "accepted_answers": [
+      "五行幽默诗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "limestone",
@@ -8957,6 +10962,29 @@
     }
   },
   {
+    "term": "limousine",
+    "type": "word",
+    "pos": "N",
+    "translation": "豪华轿车（尤指有玻璃将司机座位隔开的）",
+    "analysis": "n large luxurious car, esp with a glass partition separating driver and passengers 豪华轿车（尤指有玻璃将司机座位隔开的）.",
+    "phonetic": "/ ˈlɪməziːn,ˌlɪməˈziːn; ˈlɪməˌzin,ˌlɪməˈzin/",
+    "origin": "待查",
+    "expansions": [
+      "豪华轿车（尤指有玻璃将司机座位隔开的）"
+    ],
+    "pronunciation": "/ ˈlɪməziːn,ˌlɪməˈziːn; ˈlɪməˌzin,ˌlɪməˈzin/",
+    "accepted_answers": [
+      "豪华轿车（尤指有玻璃将司机座位隔开的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "limp",
     "type": "word",
     "translation": "柔软的；软皮书；无力的",
@@ -9028,6 +11056,29 @@
     }
   },
   {
+    "term": "limpidity",
+    "type": "word",
+    "pos": "N",
+    "translation": "limpidity",
+    "analysis": "n [U].\nlimpidly \nadv.",
+    "phonetic": "/ lɪmˈpɪdətɪ; lɪmˈpɪdətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "limpidity"
+    ],
+    "pronunciation": "/ lɪmˈpɪdətɪ; lɪmˈpɪdətɪ/",
+    "accepted_answers": [
+      "limpidity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "linchpin",
     "type": "word",
     "translation": "轮辖；制轮楔；比喻)",
@@ -9064,6 +11115,29 @@
     "pronunciation": "/ ˈlɪŋktəs; ˈlɪŋktəs/",
     "accepted_answers": [
       "止咳糖浆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "linden",
+    "type": "word",
+    "pos": "N",
+    "translation": "linden",
+    "analysis": "n = lime.",
+    "phonetic": "/ ˈlɪndən; ˈlɪndən/",
+    "origin": "待查",
+    "expansions": [
+      "linden"
+    ],
+    "pronunciation": "/ ˈlɪndən; ˈlɪndən/",
+    "accepted_answers": [
+      "linden"
     ],
     "added_at": "",
     "review": {
@@ -9388,6 +11462,29 @@
     "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
+    "term": "lingerie",
+    "type": "word",
+    "pos": "N",
+    "translation": "（商店等用语）女内衣",
+    "analysis": "n [U] (in shops, etc) women's underwear （商店等用语）女内衣.",
+    "phonetic": "/ ˈlænʒəriː; ˌlɑː:ndʒəˈreɪ; ˌlɑːndʒəˈre/",
+    "origin": "待查",
+    "expansions": [
+      "（商店等用语）女内衣"
+    ],
+    "pronunciation": "/ ˈlænʒəriː; ˌlɑː:ndʒəˈreɪ; ˌlɑːndʒəˈre/",
+    "accepted_answers": [
+      "（商店等用语）女内衣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "lingo",
     "type": "word",
     "translation": ")(；口；谑或贬)；外国语言",
@@ -9477,6 +11574,29 @@
       "语言学"
     ],
     "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "liniment",
+    "type": "word",
+    "pos": "N",
+    "translation": "搽剂（尤指油质去痛剂）",
+    "analysis": "n [C, U] liquid, esp one made with oil, for rubbing on the body to relieve aches or bruises 搽剂（尤指油质去痛剂）.",
+    "phonetic": "/ ˈlɪnɪmənt; ˈlɪnəmənt/",
+    "origin": "待查",
+    "expansions": [
+      "搽剂（尤指油质去痛剂）"
+    ],
+    "pronunciation": "/ ˈlɪnɪmənt; ˈlɪnəmənt/",
+    "accepted_answers": [
+      "搽剂（尤指油质去痛剂）"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -9584,6 +11704,103 @@
     }
   },
   {
+    "term": "links",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤用於苏格兰)；海边长草的沙丘",
+    "analysis": "n  1 = golf-links (golf).  2 [pl] (esp Scot 尤用於苏格兰) grassy sand-hills near the sea 海边长草的沙丘.",
+    "phonetic": "/ lɪŋks; lɪŋks/",
+    "origin": "待查",
+    "expansions": [
+      "尤用於苏格兰)；海边长草的沙丘"
+    ],
+    "pronunciation": "/ lɪŋks; lɪŋks/",
+    "accepted_answers": [
+      "尤用於苏格兰)",
+      "海边长草的沙丘"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "linnet",
+    "type": "word",
+    "pos": "N",
+    "translation": "赤胸朱顶雀（棕色小鸣禽；常见於欧洲）",
+    "analysis": "n small brown songbird, common in Europe 赤胸朱顶雀（棕色小鸣禽, 常见於欧洲）.",
+    "phonetic": "/ ˈlɪnɪt; ˈlɪnɪt/",
+    "origin": "待查",
+    "expansions": [
+      "赤胸朱顶雀（棕色小鸣禽；常见於欧洲）"
+    ],
+    "pronunciation": "/ ˈlɪnɪt; ˈlɪnɪt/",
+    "accepted_answers": [
+      "赤胸朱顶雀（棕色小鸣禽",
+      "常见於欧洲）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "lino",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；麻胶版画；麻胶版画印刷品",
+    "analysis": "n [U] (infml 口) = linoleum.\nlinocut \nn (a) design cut into the surface of a piece of thick linoleum as a form of art 麻胶版画. (b) print made from this 麻胶版画印刷品.",
+    "phonetic": "/ ˈlaɪnəʊ; ˈlaɪno/",
+    "origin": "待查",
+    "expansions": [
+      "口)；麻胶版画；麻胶版画印刷品"
+    ],
+    "pronunciation": "/ ˈlaɪnəʊ; ˈlaɪno/",
+    "accepted_answers": [
+      "口)",
+      "麻胶版画",
+      "麻胶版画印刷品"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "linoleum",
+    "type": "word",
+    "pos": "N",
+    "translation": "口语亦作；油地毡",
+    "analysis": "(also infml 口语亦作 lino) n [U] type of tough floor-covering made of canvas coated with powdered cork and linseed oil, etc 油地毡.",
+    "phonetic": "/ lɪˈnəʊlɪəm; lɪˈnolɪəm/",
+    "origin": "待查",
+    "expansions": [
+      "口语亦作；油地毡"
+    ],
+    "pronunciation": "/ lɪˈnəʊlɪəm; lɪˈnolɪəm/",
+    "accepted_answers": [
+      "口语亦作",
+      "油地毡"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "linseed",
     "type": "word",
     "pos": "N",
@@ -9629,6 +11846,32 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lintel",
+    "type": "word",
+    "pos": "N",
+    "translation": "（门或窗的）过梁；楣；见附录；插图",
+    "analysis": "n horizontal piece of wood or stone over a door or window, forming part of the frame （门或窗的）过梁, 楣. =>illus at App 1 见附录1插图, page vi.",
+    "phonetic": "/ ˈlɪntl; ˈlɪntl/",
+    "origin": "待查",
+    "expansions": [
+      "（门或窗的）过梁；楣；见附录；插图"
+    ],
+    "pronunciation": "/ ˈlɪntl; ˈlɪntl/",
+    "accepted_answers": [
+      "（门或窗的）过梁",
+      "楣",
+      "见附录",
+      "插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "lion",
@@ -9792,6 +12035,31 @@
     }
   },
   {
+    "term": "liquescent",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（指气体或固体）液化的；易液化的；熔化的",
+    "analysis": "adj (of a gas or solid) becoming or apt to become liquid; melting （指气体或固体）液化的, 易液化的, 熔化的.",
+    "phonetic": "/ lɪˈkwesnt; lɪˈkwesnt/",
+    "origin": "待查",
+    "expansions": [
+      "（指气体或固体）液化的；易液化的；熔化的"
+    ],
+    "pronunciation": "/ lɪˈkwesnt; lɪˈkwesnt/",
+    "accepted_answers": [
+      "（指气体或固体）液化的",
+      "易液化的",
+      "熔化的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "liqueur",
     "type": "word",
     "translation": "（通常指甜的）烈性酒（尤作餐後少量饮用的）；白兰地甜酒；小酒杯",
@@ -9940,6 +12208,31 @@
     }
   },
   {
+    "term": "liquidize",
+    "type": "word",
+    "pos": "V",
+    "translation": "使（某物）变为液体；将（蔬菜、水果等）榨成汁；（通常指电动的）果汁机",
+    "analysis": "v [Tn] (a) cause (sth) to become liquid 使（某物）变为液体. (b) crush (vegetables, fruit, etc) into a thick liquid 将（蔬菜、 水果等）榨成汁.\nliquidizer, liquidiser (also esp US blender) \nn (usu electric) device for liquidizing food （通常指电动的）果汁机.",
+    "phonetic": "/ ˈlɪkwɪdaɪz; ˈlɪkwəˌdaɪz/",
+    "origin": "待查",
+    "expansions": [
+      "使（某物）变为液体；将（蔬菜、水果等）榨成汁；（通常指电动的）果汁机"
+    ],
+    "pronunciation": "/ ˈlɪkwɪdaɪz; ˈlɪkwəˌdaɪz/",
+    "accepted_answers": [
+      "使（某物）变为液体",
+      "将（蔬菜、水果等）榨成汁",
+      "（通常指电动的）果汁机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "liquor",
     "type": "word",
     "translation": ")(；已醉；（蒸馏法制的）酒",
@@ -10014,6 +12307,29 @@
     "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
+    "term": "lisle",
+    "type": "word",
+    "pos": "N",
+    "translation": "莱尔棉线（尤用以织长袜和手套）",
+    "analysis": "n [U] fine smooth cotton thread, used esp for stockings and gloves 莱尔棉线（尤用以织长袜和手套）.",
+    "phonetic": "/ laɪl; laɪl/",
+    "origin": "待查",
+    "expansions": [
+      "莱尔棉线（尤用以织长袜和手套）"
+    ],
+    "pronunciation": "/ laɪl; laɪl/",
+    "accepted_answers": [
+      "莱尔棉线（尤用以织长袜和手套）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "lisp",
     "type": "word",
     "translation": "咬舌（言语缺陷；发；音时发成；用咬舌音说话",
@@ -10037,6 +12353,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lissom",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "（动作）轻快而优雅的；柔软的",
+    "analysis": "adj quick and graceful in movement; lithe （动作）轻快而优雅的; 柔软的.\nlissomness \nn [U].",
+    "phonetic": "/ ˈlɪsəm; ˈlɪsəm/",
+    "origin": "待查",
+    "expansions": [
+      "（动作）轻快而优雅的；柔软的"
+    ],
+    "pronunciation": "/ ˈlɪsəm; ˈlɪsəm/",
+    "accepted_answers": [
+      "（动作）轻快而优雅的",
+      "柔软的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "list",
@@ -10136,6 +12476,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lists",
+    "type": "word",
+    "pos": "N",
+    "translation": "（旧时）（骑马执矛比武的）竞技场地；习语)",
+    "analysis": "n [pl]  1 (formerly) area used for contests between men on horseback armed with lances （旧时）（骑马执矛比武的）竞技场地.  2 (idm 习语) enter the lists => enter.\nlit\npt, pp of light2, 4.",
+    "phonetic": "/ lɪsts; lɪsts/",
+    "origin": "待查",
+    "expansions": [
+      "（旧时）（骑马执矛比武的）竞技场地；习语)"
+    ],
+    "pronunciation": "/ lɪsts; lɪsts/",
+    "accepted_answers": [
+      "（旧时）（骑马执矛比武的）竞技场地",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
     "term": "lit up",
@@ -10404,6 +12768,54 @@
     "dict_source": "data/DICT/L/L-f,g,h,i.txt"
   },
   {
+    "term": "litho",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；平版印刷术",
+    "analysis": "n [U] (infml 口) lithography 平版印刷术.",
+    "phonetic": "/ ˈlaɪθəʊ; ˈlaɪθo/",
+    "origin": "待查",
+    "expansions": [
+      "口)；平版印刷术"
+    ],
+    "pronunciation": "/ ˈlaɪθəʊ; ˈlaɪθo/",
+    "accepted_answers": [
+      "口)",
+      "平版印刷术"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "lithograph",
+    "type": "word",
+    "pos": "N",
+    "translation": "平版印刷画等；用平版印刷术印刷（某物）",
+    "analysis": "n picture, etc printed by lithography 平版印刷画等.\nlithograph \nv [Tn] print (sth) by lithography 用平版印刷术印刷（某物）.",
+    "phonetic": "/ ˈlɪθəgrɑː:f; -græf; lɪˈθəgræf/",
+    "origin": "待查",
+    "expansions": [
+      "平版印刷画等；用平版印刷术印刷（某物）"
+    ],
+    "pronunciation": "/ ˈlɪθəgrɑː:f; -græf; lɪˈθəgræf/",
+    "accepted_answers": [
+      "平版印刷画等",
+      "用平版印刷术印刷（某物）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "lithographic",
     "type": "word",
     "pos": "Adj",
@@ -10450,6 +12862,105 @@
     }
   },
   {
+    "term": "litigant",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；诉讼当事人",
+    "analysis": "n (law 律) person involved in a lawsuit 诉讼当事人.",
+    "phonetic": "/ ˈlɪtɪgənt; ˈlɪtəgənt/",
+    "origin": "待查",
+    "expansions": [
+      "律)；诉讼当事人"
+    ],
+    "pronunciation": "/ ˈlɪtɪgənt; ˈlɪtəgənt/",
+    "accepted_answers": [
+      "律)",
+      "诉讼当事人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "litigate",
+    "type": "word",
+    "pos": "V",
+    "translation": "律)(；诉讼；诉诸法律",
+    "analysis": "v (law 律) (a) [I] engage in a lawsuit; go to law 诉讼; 诉诸法律. (b) [Tn] contest (a claim, etc) in a lawsuit 在法庭上争辩（某事）.",
+    "phonetic": "/ ˈlɪtɪgeɪt; ˈlɪtəˌget/",
+    "origin": "待查",
+    "expansions": [
+      "律)(；诉讼；诉诸法律"
+    ],
+    "pronunciation": "/ ˈlɪtɪgeɪt; ˈlɪtəˌget/",
+    "accepted_answers": [
+      "律)(",
+      "诉讼",
+      "诉诸法律"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "litigation",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)(；打官司；诉讼",
+    "analysis": "n (law 律) (a) [U] process of going to law 打官司. (b) [C] lawsuit 诉讼.",
+    "phonetic": "/ ˌlɪtɪˈgeɪʃn; ˌlɪtəˈgeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "律)(；打官司；诉讼"
+    ],
+    "pronunciation": "/ ˌlɪtɪˈgeɪʃn; ˌlɪtəˈgeʃən/",
+    "accepted_answers": [
+      "律)(",
+      "打官司",
+      "诉讼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "litigious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "尤用於法律)；诉讼的；关於诉讼的",
+    "analysis": "adj (esp law 尤用於法律)  1 of lawsuits 诉讼的; 关於诉讼的.  2 that can result in a lawsuit 可诉讼的.  3 (often derog 常作贬义) fond of going to law; disputatious 好诉讼的; 好打官司的.",
+    "phonetic": "/ lɪˈtɪdʒəs; lɪˈtɪdʒəs/",
+    "origin": "待查",
+    "expansions": [
+      "尤用於法律)；诉讼的；关於诉讼的"
+    ],
+    "pronunciation": "/ lɪˈtɪdʒəs; lɪˈtɪdʒəs/",
+    "accepted_answers": [
+      "尤用於法律)",
+      "诉讼的",
+      "关於诉讼的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "litmus",
     "type": "word",
     "pos": "N",
@@ -10466,6 +12977,59 @@
       "遇酸变红",
       "再遇硷则还原变蓝）",
       "石蕊试纸"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "litotes",
+    "type": "word",
+    "pos": "N",
+    "translation": "曲言（尤指用否定的词语；强调其反义的修辞法；如；此事不易；意为",
+    "analysis": "n [U] ironical understatement,esp using a negative to emphasize the contrary 曲言（尤指用否定的词语, 强调其反义的修辞法, 如 It wasn't easy ｀此事不易＇意为It was very difficult｀此事很难＇）.",
+    "phonetic": "/ ˈlaɪtəʊtiːz; ˈlaɪtoˌtiz/",
+    "origin": "待查",
+    "expansions": [
+      "曲言（尤指用否定的词语；强调其反义的修辞法；如；此事不易；意为"
+    ],
+    "pronunciation": "/ ˈlaɪtəʊtiːz; ˈlaɪtoˌtiz/",
+    "accepted_answers": [
+      "曲言（尤指用否定的词语",
+      "强调其反义的修辞法",
+      "如",
+      "此事不易",
+      "意为"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "litre",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；升（液量单位；约为；品脱）",
+    "analysis": "n (abbr 缩写 l) unit of capacity in the metric system, equal to about 1 pints, used for measuring liquids 升（液量单位, 约为1品脱）. =>App 5 见附录5.",
+    "phonetic": "/ ˈliːtə(r); ˈlitə/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；升（液量单位；约为；品脱）"
+    ],
+    "pronunciation": "/ ˈliːtə(r); ˈlitə/",
+    "accepted_answers": [
+      "缩写",
+      "升（液量单位",
+      "约为",
+      "品脱）"
     ],
     "added_at": "",
     "review": {
@@ -10594,6 +13158,29 @@
     "pronunciation": "/ lɪˈtɜːdʒɪkl; lɪˈtɜːdʒɪkl/",
     "accepted_answers": [
       "liturgical"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "liturgically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "liturgically",
+    "analysis": "adv.",
+    "phonetic": "/ -ˈklɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "liturgically"
+    ],
+    "pronunciation": "/ -ˈklɪ; -klɪ/",
+    "accepted_answers": [
+      "liturgically"
     ],
     "added_at": "",
     "review": {
@@ -10852,6 +13439,31 @@
     }
   },
   {
+    "term": "liveryman",
+    "type": "word",
+    "pos": "N",
+    "translation": "（穿制服的）同业公会会员；（马房的）马夫；（代客喂马或租马的）马房",
+    "analysis": "n (pl -men / -mEn; mEn/)  1 member of a livery company （穿制服的）同业公会会员.  2 person who works in a livery stable （马房的）马夫.\nlivery stable \nstable where horses are kept for their owners in return for payment, or where horses may be hired （代客喂马或租马的）马房.\nlives\npl of life.",
+    "phonetic": "/ -mən; -mən/",
+    "origin": "待查",
+    "expansions": [
+      "（穿制服的）同业公会会员；（马房的）马夫；（代客喂马或租马的）马房"
+    ],
+    "pronunciation": "/ -mən; -mən/",
+    "accepted_answers": [
+      "（穿制服的）同业公会会员",
+      "（马房的）马夫",
+      "（代客喂马或租马的）马房"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
     "term": "livestock",
     "type": "word",
     "translation": "家畜；牲畜（如牛羊）",
@@ -10925,6 +13537,53 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lizard",
+    "type": "word",
+    "pos": "N",
+    "translation": "蜥蜴",
+    "analysis": "n (usu small) reptile with a rough skin, four legs and a long tail 蜥蜴.",
+    "phonetic": "/ ˈlɪzəd; ˈlɪzəd/",
+    "origin": "待查",
+    "expansions": [
+      "蜥蜴"
+    ],
+    "pronunciation": "/ ˈlɪzəd; ˈlɪzəd/",
+    "accepted_answers": [
+      "蜥蜴"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-f,g,h,i.txt"
+  },
+  {
+    "term": "llama",
+    "type": "word",
+    "pos": "N",
+    "translation": "美洲驼（产於南美；用作驮兽）",
+    "analysis": "n S American animal with soft woolly hair, used for carrying loads 美洲驼（产於南美, 用作驮兽）.",
+    "phonetic": "/ ˈlɑː:mə; ˈlɑːmə/",
+    "origin": "待查",
+    "expansions": [
+      "美洲驼（产於南美；用作驮兽）"
+    ],
+    "pronunciation": "/ ˈlɑː:mə; ˈlɑːmə/",
+    "accepted_answers": [
+      "美洲驼（产於南美",
+      "用作驮兽）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "lo",
@@ -11240,6 +13899,56 @@
     "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
+    "term": "lobotomy",
+    "type": "word",
+    "pos": "N",
+    "translation": "医)；脑白质切断（术）；脑叶纤维切断（术）",
+    "analysis": "(also Brit leucotomy) n (medical 医) [C, U] (operation involving) cutting into the brain tissue to treat severe mental disorders 脑白质切断（术）; 脑叶纤维切断（术）.",
+    "phonetic": "/ ləʊˈbɒtəmɪ; loˈbɑːtəmɪ/",
+    "origin": "待查",
+    "expansions": [
+      "医)；脑白质切断（术）；脑叶纤维切断（术）"
+    ],
+    "pronunciation": "/ ləʊˈbɒtəmɪ; loˈbɑːtəmɪ/",
+    "accepted_answers": [
+      "医)",
+      "脑白质切断（术）",
+      "脑叶纤维切断（术）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "lobster",
+    "type": "word",
+    "pos": "N",
+    "translation": "龙虾；插图；（作食物的）龙虾肉",
+    "analysis": "n (a) [C] large bluish-black shellfish with eight legs and two long claws that turns scarlet when it is boiled 龙虾. =>illus at shellfish 见shellfish插图. (b) [U] its flesh as food （作食物的）龙虾肉.\nlobster-pot \nn device for trapping lobsters, esp one like a basket 诱捕龙虾的装置; （尤指）捕龙虾的笼.",
+    "phonetic": "/ ˈlɒbstə(r); ˈlɑːbstə/",
+    "origin": "待查",
+    "expansions": [
+      "龙虾；插图；（作食物的）龙虾肉"
+    ],
+    "pronunciation": "/ ˈlɒbstə(r); ˈlɑːbstə/",
+    "accepted_answers": [
+      "龙虾",
+      "插图",
+      "（作食物的）龙虾肉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "loc cit",
     "type": "phrase",
     "pos": "word",
@@ -11380,6 +14089,29 @@
       "现场"
     ],
     "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "localization",
+    "type": "word",
+    "pos": "N",
+    "translation": "localization",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌləʊkəlaɪˈzeɪʃn; -lɪˈz-; ˌlokləˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "localization"
+    ],
+    "pronunciation": "/ ˌləʊkəlaɪˈzeɪʃn; -lɪˈz-; ˌlokləˈzeʃən/",
+    "accepted_answers": [
+      "localization"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -11628,6 +14360,31 @@
     }
   },
   {
+    "term": "locomotion",
+    "type": "word",
+    "pos": "N",
+    "translation": "文或谑)；运动；移动",
+    "analysis": "n [U] (fml or joc 文或谑) moving, or the ability to move, from place to place 运动; 移动; 运动力; 移动力.",
+    "phonetic": "/ ˌləʊkəˈməʊʃn; ˌlokəˈmoʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文或谑)；运动；移动"
+    ],
+    "pronunciation": "/ ˌləʊkəˈməʊʃn; ˌlokəˈmoʃən/",
+    "accepted_answers": [
+      "文或谑)",
+      "运动",
+      "移动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "locomotive",
     "type": "word",
     "translation": "移动的；有移动力的；产生运动的",
@@ -11713,6 +14470,54 @@
     "accepted_answers": [
       "拉)",
       "某问题的最著名或最具权威性的章节"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "locust",
+    "type": "word",
+    "pos": "N",
+    "translation": "飞蝗",
+    "analysis": "n type of African and Asian winged insect that migrates in huge swarms which destroy all the vegetation of a district 飞蝗.",
+    "phonetic": "/ ˈləʊkəst; ˈlokəst/",
+    "origin": "待查",
+    "expansions": [
+      "飞蝗"
+    ],
+    "pronunciation": "/ ˈləʊkəst; ˈlokəst/",
+    "accepted_answers": [
+      "飞蝗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "locution",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；语言风格；用词的方法",
+    "analysis": "n  1 [U] (fml 文) style of speech; way of using words 语言风格; 用词的方法.  2 [C] (esp linguistics 尤用於语言学) phrase or idiom 短语; 惯用语; 成语.",
+    "phonetic": "/ ləˈkjuːʃn; loˈkjuʃən/",
+    "origin": "待查",
+    "expansions": [
+      "文)；语言风格；用词的方法"
+    ],
+    "pronunciation": "/ ləˈkjuːʃn; loˈkjuʃən/",
+    "accepted_answers": [
+      "文)",
+      "语言风格",
+      "用词的方法"
     ],
     "added_at": "",
     "review": {
@@ -11811,6 +14616,29 @@
       "一应膳宿"
     ],
     "added_at": "2026-03-30T02:38:35.239Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "loess",
+    "type": "word",
+    "pos": "N",
+    "translation": "黄土",
+    "analysis": "n [U] layer of fine fertile light-coloured soil, found in large areas of Asia, Europe and America 黄土.",
+    "phonetic": "/ ˈləʊes; ˈloɪs/",
+    "origin": "待查",
+    "expansions": [
+      "黄土"
+    ],
+    "pronunciation": "/ ˈləʊes; ˈloɪs/",
+    "accepted_answers": [
+      "黄土"
+    ],
+    "added_at": "",
     "review": {
       "correct_count": 0,
       "incorrect_count": 0,
@@ -12034,6 +14862,29 @@
     }
   },
   {
+    "term": "loggia",
+    "type": "word",
+    "pos": "N",
+    "translation": "凉廊（尤指房屋敞向花园的）",
+    "analysis": "n open-sided gallery or arcade, esp one that forms part of a house and has one side open to the garden 凉廊（尤指房屋敞向花园的）.",
+    "phonetic": "/ ˈləʊdʒə,ˈlɒdʒɪə; ˈlodʒə,ˈlɑːdʒɪə/",
+    "origin": "待查",
+    "expansions": [
+      "凉廊（尤指房屋敞向花园的）"
+    ],
+    "pronunciation": "/ ˈləʊdʒə,ˈlɒdʒɪə; ˈlodʒə,ˈlɑːdʒɪə/",
+    "accepted_answers": [
+      "凉廊（尤指房屋敞向花园的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "logic",
     "type": "word",
     "translation": "逻辑学；论理学；推理的方法或体系",
@@ -12083,6 +14934,30 @@
     }
   },
   {
+    "term": "logicality",
+    "type": "word",
+    "pos": "N",
+    "translation": "合逻辑；合理",
+    "analysis": "n [U] being logical 合逻辑; 合理.",
+    "phonetic": "/ ˌlɒdʒɪˈkælətɪ; ˌlɑːdʒɪˈkælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "合逻辑；合理"
+    ],
+    "pronunciation": "/ ˌlɒdʒɪˈkælətɪ; ˌlɑːdʒɪˈkælətɪ/",
+    "accepted_answers": [
+      "合逻辑",
+      "合理"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "logically",
     "type": "word",
     "translation": "有条理地辩论",
@@ -12102,6 +14977,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "logician",
+    "type": "word",
+    "pos": "N",
+    "translation": "逻辑学家",
+    "analysis": "n person who is skilled in logic 逻辑学家.",
+    "phonetic": "/ ləˈdʒɪʃn; loˈdʒɪʃən/",
+    "origin": "待查",
+    "expansions": [
+      "逻辑学家"
+    ],
+    "pronunciation": "/ ləˈdʒɪʃn; loˈdʒɪʃən/",
+    "accepted_answers": [
+      "逻辑学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "logistic",
@@ -12144,6 +15042,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "logistically",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "logistically",
+    "analysis": "adv.",
+    "phonetic": "/ -klɪ; -klɪ/",
+    "origin": "待查",
+    "expansions": [
+      "logistically"
+    ],
+    "pronunciation": "/ -klɪ; -klɪ/",
+    "accepted_answers": [
+      "logistically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "logistics",
@@ -12445,6 +15366,30 @@
     }
   },
   {
+    "term": "long-shoreman",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；码头工人",
+    "analysis": "n (pl -men / -mEn; -mEn/) (esp US) person employed to work on shore loading and unloading ships 码头工人.",
+    "phonetic": "/ ˈlɒŋʃɔːmən; ˈlɔːŋ-; ˈlɔːŋˌʃɔːrmən/",
+    "origin": "待查",
+    "expansions": [
+      ")(；码头工人"
+    ],
+    "pronunciation": "/ ˈlɒŋʃɔːmən; ˈlɔːŋ-; ˈlɔːŋˌʃɔːrmən/",
+    "accepted_answers": [
+      ")(",
+      "码头工人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "longevity",
     "type": "word",
     "translation": "文)；长寿；长命",
@@ -12539,6 +15484,52 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "longitudinally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "longitudinally",
+    "analysis": "adv.",
+    "phonetic": "/ -nəlɪ; -nlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "longitudinally"
+    ],
+    "pronunciation": "/ -nəlɪ; -nlɪ/",
+    "accepted_answers": [
+      "longitudinally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "longways",
+    "type": "word",
+    "pos": "N / Adv",
+    "translation": "longways",
+    "analysis": "(also longwise / 5lCNwaIz; US  5lR:N-; `lRN9waIz/) adv = lengthwise (length).",
+    "phonetic": "/ ˈlɒŋweɪz; ˈlɔːŋ-; ˈlɔːŋˌwez/",
+    "origin": "待查",
+    "expansions": [
+      "N-; `lRN9waIz/) adv = lengthwise (length)."
+    ],
+    "pronunciation": "/ ˈlɒŋweɪz; ˈlɔːŋ-; ˈlɔːŋˌwez/",
+    "accepted_answers": [
+      "longways"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "loo",
@@ -12665,6 +15656,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "loom",
+    "type": "word",
+    "pos": "N",
+    "translation": "织布机",
+    "analysis": "n machine for weaving cloth 织布机.",
+    "phonetic": "/ luːm; lum/",
+    "origin": "待查",
+    "expansions": [
+      "织布机"
+    ],
+    "pronunciation": "/ luːm; lum/",
+    "accepted_answers": [
+      "织布机"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "loony",
@@ -13013,6 +16027,30 @@
     "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
+    "term": "loquat",
+    "type": "word",
+    "pos": "N",
+    "translation": "枇杷；枇杷果",
+    "analysis": "n [C] (a) ornamental tree, common in China and Japan, having small yellow edible fruit 枇杷. (b) fruit of this tree 枇杷果.",
+    "phonetic": "/ ˈləʊkwɒt,ˈlɒkwt; ˈlokwɑːt/",
+    "origin": "待查",
+    "expansions": [
+      "枇杷；枇杷果"
+    ],
+    "pronunciation": "/ ˈləʊkwɒt,ˈlɒkwt; ˈlokwɑːt/",
+    "accepted_answers": [
+      "枇杷",
+      "枇杷果"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "lord",
     "type": "word",
     "translation": "君主；国王陛下；上帝",
@@ -13130,6 +16168,30 @@
     "pronunciation": "/ lɔːˈnjet; lɔːrnˈjet/",
     "accepted_answers": [
       "长柄眼镜"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
+    "term": "lorn",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "古或谑)；孤寂而凄凉的",
+    "analysis": "adj (arch or joc 古或谑) lonely and sad 孤寂而凄凉的.",
+    "phonetic": "/ lɔːn; lɔːrn/",
+    "origin": "待查",
+    "expansions": [
+      "古或谑)；孤寂而凄凉的"
+    ],
+    "pronunciation": "/ lɔːn; lɔːrn/",
+    "accepted_answers": [
+      "古或谑)",
+      "孤寂而凄凉的"
     ],
     "added_at": "",
     "review": {
@@ -13318,6 +16380,29 @@
     "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
+    "term": "lotto",
+    "type": "word",
+    "pos": "N",
+    "translation": "洛托（一种赌博游戏）",
+    "analysis": "n [U] game of chance similar to bingo but with the numbers drawn by the players instead of being called 洛托（一种赌博游戏）.",
+    "phonetic": "/ ˈlɒtəʊ; ˈlɑːto/",
+    "origin": "待查",
+    "expansions": [
+      "洛托（一种赌博游戏）"
+    ],
+    "pronunciation": "/ ˈlɒtəʊ; ˈlɑːto/",
+    "accepted_answers": [
+      "洛托（一种赌博游戏）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "lotus",
     "type": "word",
     "translation": "莲花；莲花开花期；（希腊神话中的）落柘枣（食後产生懒怠与梦幻的满足感）",
@@ -13391,6 +16476,31 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "lough",
+    "type": "word",
+    "pos": "N",
+    "translation": "爱尔兰)；海湾；参看",
+    "analysis": "n (Irish 爱尔兰) lake or long inlet of the sea 湖; 海湾. Cf 参看 loch.",
+    "phonetic": "/ lɒk,lɒx; lɑːk,lɑːx/",
+    "origin": "待查",
+    "expansions": [
+      "爱尔兰)；海湾；参看"
+    ],
+    "pronunciation": "/ lɒk,lɒx; lɑːk,lɑːx/",
+    "accepted_answers": [
+      "爱尔兰)",
+      "海湾",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "lounge",
@@ -13789,6 +16899,30 @@
     }
   },
   {
+    "term": "lowland",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作复数)；低地",
+    "analysis": "n (usu pl 通常作复数) low-lying land 低地.",
+    "phonetic": "/ ˈləʊlənd; ˈlolənd/",
+    "origin": "待查",
+    "expansions": [
+      "通常作复数)；低地"
+    ],
+    "pronunciation": "/ ˈləʊlənd; ˈlolənd/",
+    "accepted_answers": [
+      "通常作复数)",
+      "低地"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
+  },
+  {
     "term": "lowlander",
     "type": "word",
     "translation": "低地人；)(；苏格兰低地人",
@@ -13861,6 +16995,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "loyally",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "loyally",
+    "analysis": "adv.",
+    "phonetic": "/ ˈlɔːɪəlɪ; ˈlɔːɪəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "loyally"
+    ],
+    "pronunciation": "/ ˈlɔːɪəlɪ; ˈlɔːɪəlɪ/",
+    "accepted_answers": [
+      "loyally"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-j,k,l,m,n,o.txt"
   },
   {
     "term": "loyalty",
@@ -14020,6 +17177,29 @@
     "accepted_answers": [
       "旧)",
       "高大而蠢笨的男子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "lubricant",
+    "type": "word",
+    "pos": "N",
+    "translation": "润滑剂",
+    "analysis": "n [U, C] substancethat lubricates 润滑剂.",
+    "phonetic": "/ ˈluːbrɪkənt; ˈlubrɪkənt/",
+    "origin": "待查",
+    "expansions": [
+      "润滑剂"
+    ],
+    "pronunciation": "/ ˈluːbrɪkənt; ˈlubrɪkənt/",
+    "accepted_answers": [
+      "润滑剂"
     ],
     "added_at": "",
     "review": {
@@ -14350,6 +17530,53 @@
     }
   },
   {
+    "term": "ludo",
+    "type": "word",
+    "pos": "N",
+    "translation": "卢多（在特制板上用色子及筹码玩的简单游戏）",
+    "analysis": "n [U] simple game played with dice and counters on a special board 卢多（在特制板上用色子及筹码玩的简单游戏）.",
+    "phonetic": "/ ˈluːdəʊ; ˈludo/",
+    "origin": "待查",
+    "expansions": [
+      "卢多（在特制板上用色子及筹码玩的简单游戏）"
+    ],
+    "pronunciation": "/ ˈluːdəʊ; ˈludo/",
+    "accepted_answers": [
+      "卢多（在特制板上用色子及筹码玩的简单游戏）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "luff",
+    "type": "word",
+    "pos": "V",
+    "translation": "海)；转动（船）使船首抢风航行",
+    "analysis": "v [I, Tn] (nautical 海) steer (a sailing boat or ship) so that its front moves nearer to the direction from which the wind is blowing 转动（船）使船首抢风航行.\nluffa\n= loofah.",
+    "phonetic": "/ lʌf; lʌf/",
+    "origin": "待查",
+    "expansions": [
+      "海)；转动（船）使船首抢风航行"
+    ],
+    "pronunciation": "/ lʌf; lʌf/",
+    "accepted_answers": [
+      "海)",
+      "转动（船）使船首抢风航行"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "lug",
     "type": "word",
     "translation": "用力拉或拖（某物）；拖著沉重的衣箱上楼；比喻；口)",
@@ -14373,6 +17600,29 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "luge",
+    "type": "word",
+    "pos": "N",
+    "translation": "单人雪橇",
+    "analysis": "n small toboggan for one person 单人雪橇.",
+    "phonetic": "/ luːʒ; luʒ/",
+    "origin": "待查",
+    "expansions": [
+      "单人雪橇"
+    ],
+    "pronunciation": "/ luːʒ; luʒ/",
+    "accepted_answers": [
+      "单人雪橇"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "luggage",
@@ -14447,6 +17697,29 @@
     }
   },
   {
+    "term": "lugworm",
+    "type": "word",
+    "pos": "N",
+    "translation": "沙虫（用作钓饵）",
+    "analysis": "n large worm living in the sand on the sea-shore, used as bait by fishermen 沙虫（用作钓饵）.",
+    "phonetic": "/ ˈlʌgwɜːm; ˈlʌgˌwɜːm/",
+    "origin": "待查",
+    "expansions": [
+      "沙虫（用作钓饵）"
+    ],
+    "pronunciation": "/ ˈlʌgwɜːm; ˈlʌgˌwɜːm/",
+    "accepted_answers": [
+      "沙虫（用作钓饵）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "lukewarm",
     "type": "word",
     "translation": "（指液体）不冷不热的；微温的；把奶热一下；温温就行；)(",
@@ -14512,6 +17785,29 @@
     "pronunciation": "/ ˈlʌləbaɪ; ˈlʌləˌbaɪ/",
     "accepted_answers": [
       "催眠曲"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "lumbago",
+    "type": "word",
+    "pos": "N",
+    "translation": "腰痛（风湿所致的）",
+    "analysis": "n [U] pain in the muscles of the lower part of the back, caused by rheumatism 腰痛（风湿所致的）.",
+    "phonetic": "/ lʌmˈbeɪgəʊ; lʌmˈbego/",
+    "origin": "待查",
+    "expansions": [
+      "腰痛（风湿所致的）"
+    ],
+    "pronunciation": "/ lʌmˈbeɪgəʊ; lʌmˈbego/",
+    "accepted_answers": [
+      "腰痛（风湿所致的）"
     ],
     "added_at": "",
     "review": {
@@ -14592,6 +17888,30 @@
       "incorrect_count": 0,
       "review_history": []
     }
+  },
+  {
+    "term": "luminosity",
+    "type": "word",
+    "pos": "N",
+    "translation": "发光；光辉",
+    "analysis": "n [U] quality of being luminous 发光; 光辉.\nluminously \nadv.",
+    "phonetic": "/ ˌluːmɪˈnɒsətɪ; ˌluməˈnɑːsətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "发光；光辉"
+    ],
+    "pronunciation": "/ ˌluːmɪˈnɒsətɪ; ˌluməˈnɑːsətɪ/",
+    "accepted_answers": [
+      "发光",
+      "光辉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
     "term": "luminous",
@@ -14892,6 +18212,29 @@
     "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
   },
   {
+    "term": "lurch",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)",
+    "analysis": "n (idm 习语) leave sb in the lurch => leave1.",
+    "phonetic": "/ lɜːtʃ; lɜːtʃ/",
+    "origin": "待查",
+    "expansions": [
+      "习语)"
+    ],
+    "pronunciation": "/ lɜːtʃ; lɜːtʃ/",
+    "accepted_answers": [
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "lure",
     "type": "word",
     "translation": "诱惑物；她使尽浑身解数以吸引他的注意；)(",
@@ -15182,6 +18525,30 @@
     }
   },
   {
+    "term": "lute",
+    "type": "word",
+    "pos": "N",
+    "translation": "诗琴（主要在；世纪使用的梨形拨弦乐器）",
+    "analysis": "n stringed musical instrument with a pear-shaped body, used mainly from the 14th to the 18th centuries and played by plucking with the fingers 诗琴（主要在14-18世纪使用的梨形拨弦乐器）.",
+    "phonetic": "/ luːt; lut/",
+    "origin": "待查",
+    "expansions": [
+      "诗琴（主要在；世纪使用的梨形拨弦乐器）"
+    ],
+    "pronunciation": "/ luːt; lut/",
+    "accepted_answers": [
+      "诗琴（主要在",
+      "世纪使用的梨形拨弦乐器）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "lutenist",
     "type": "word",
     "pos": "N",
@@ -15195,6 +18562,55 @@
     "pronunciation": "/ ˈluːtənɪst; ˈlutnɪst/",
     "accepted_answers": [
       "诗琴弹奏者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "lutheran",
+    "type": "word",
+    "pos": "N / Adj",
+    "translation": ")路德（；）会教友；路德教的",
+    "analysis": "n, adj (member) of theProtestant Church named after Martin Luther (1483-1546) 路德（1483-1546）会教友; 路德教的.",
+    "phonetic": "/ ˈluːθərən; ˈluθərən/",
+    "origin": "待查",
+    "expansions": [
+      ")路德（；）会教友；路德教的"
+    ],
+    "pronunciation": "/ ˈluːθərən; ˈluθərən/",
+    "accepted_answers": [
+      ")路德（",
+      "）会教友",
+      "路德教的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "luxuriance",
+    "type": "word",
+    "pos": "N",
+    "translation": "丰富；茂盛",
+    "analysis": "n [U] luxuriant growth 丰富; 茂盛.\nluxuriantly \nadv.",
+    "phonetic": "/ -əns; -əns/",
+    "origin": "待查",
+    "expansions": [
+      "丰富；茂盛"
+    ],
+    "pronunciation": "/ -əns; -əns/",
+    "accepted_answers": [
+      "丰富",
+      "茂盛"
     ],
     "added_at": "",
     "review": {
@@ -15330,6 +18746,54 @@
     }
   },
   {
+    "term": "lycee",
+    "type": "word",
+    "pos": "N",
+    "translation": "法)；法国公立中学",
+    "analysis": "n (French 法) state secondary school in France 法国公立中学.\nlych-gate\n= lich-gate.",
+    "phonetic": "/ ˈliːseɪ; liːˈseɪ; ˌliˈse/",
+    "origin": "待查",
+    "expansions": [
+      "法)；法国公立中学"
+    ],
+    "pronunciation": "/ ˈliːseɪ; liːˈseɪ; ˌliˈse/",
+    "accepted_answers": [
+      "法)",
+      "法国公立中学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "lychee",
+    "type": "word",
+    "pos": "N",
+    "translation": "荔枝；荔枝树",
+    "analysis": "n (a) fruit with a sweetish white pulp and a single seed in a thin brown shell 荔枝. (b) tree (originally from China) that bears this 荔枝树.",
+    "phonetic": "/ ˌlaɪˈtʃiː,ˈlaɪtʃiː; ˈlaɪtʃi/",
+    "origin": "待查",
+    "expansions": [
+      "荔枝；荔枝树"
+    ],
+    "pronunciation": "/ ˌlaɪˈtʃiː,ˈlaɪtʃiː; ˈlaɪtʃi/",
+    "accepted_answers": [
+      "荔枝",
+      "荔枝树"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
     "term": "lye",
     "type": "word",
     "pos": "N",
@@ -15344,6 +18808,31 @@
     "accepted_answers": [
       "咸液（尤指从木灰中滤出",
       "供洗涤用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "lymph",
+    "type": "word",
+    "pos": "N",
+    "translation": "解)；淋巴；医)",
+    "analysis": "n [U]  1 (anatomy 解) colourless fluid from the tissues or organs of the body, containing white blood-cells 淋巴.  2 (medical 医) this fluid taken from cows and used in vaccination against smallpox 痘苗.",
+    "phonetic": "/ lɪmf; lɪmf/",
+    "origin": "待查",
+    "expansions": [
+      "解)；淋巴；医)"
+    ],
+    "pronunciation": "/ lɪmf; lɪmf/",
+    "accepted_answers": [
+      "解)",
+      "淋巴",
+      "医)"
     ],
     "added_at": "",
     "review": {
@@ -15511,6 +19000,31 @@
     "pronunciation": "/ -klɪ; -klɪ/",
     "accepted_answers": [
       "lyrically"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/L/L-p,q,r,s,t,u,v,w,x,y,z.txt"
+  },
+  {
+    "term": "lyricism",
+    "type": "word",
+    "pos": "N",
+    "translation": "抒情性；（尤指诗歌的）抒情风格；感情冲动",
+    "analysis": "n  1 [U] quality of being lyric, esp in poetry 抒情性; （尤指诗歌的）抒情风格.  2 [C] expression of strong emotion or enthusiasm 感情冲动; 热情奔放.",
+    "phonetic": "/ ˈlɪrɪsɪzəm; ˈlɪrəˌsɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "抒情性；（尤指诗歌的）抒情风格；感情冲动"
+    ],
+    "pronunciation": "/ ˈlɪrɪsɪzəm; ˈlɪrəˌsɪzəm/",
+    "accepted_answers": [
+      "抒情性",
+      "（尤指诗歌的）抒情风格",
+      "感情冲动"
     ],
     "added_at": "",
     "review": {

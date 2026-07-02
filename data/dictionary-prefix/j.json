@@ -24,6 +24,64 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jab",
+    "type": "word",
+    "pos": "V",
+    "translation": ")(；捅；刺；戳；猛击（某人；某物",
+    "analysis": "v (-bb-)  1 [I, Ipr, Ip, Tn, Tn.pr] ~ (at sb/sth) (with sth); ~ sb/sth (with sth) poke or push at sb/sth roughly, usu with sth sharp or pointed 捅, 刺, 戳, 猛击（某人[某物]）（通常指用利器或尖物）: He kept jabbing (away) at the paper cup with his pencil. 他用铅笔（不停地）戳著纸杯. * a blackbird jabbing at a worm, ie using its beak 啄食蠕虫的黑鹂 * He jabbed at his opponent, eg of a boxer aiming a quick blow. 他猛击对手（如拳击手以快拳出击）. * She jabbed me in the ribs with her elbow. 她用肘顶我的肋部.  2 (phr v) jab sth into sb/sth force sth into sb/sth 使某物捅或刺某人[某物]: He jabbed his elbow into my side. 他用肘猛顶我的腰. jab sth out force or push sth out by jabbing 戳出某物: Be careful with that umbrella  you nearly jabbed my eye out! 小心那把伞--你差一点把我的眼睛戳出来! =>Usage at nudge 用法见nudge.\njab \nn (a) sudden rough blow or thrust, usu with sth pointed 捅; 刺; 戳; 猛击: a jab in the arm 刺在手臂上的一下. (b) (infml 口) injection or inoculation 注射; 打针; 接种: Have you had your cholera jabs yet? 你打霍乱预防针了吗?",
+    "phonetic": "/ dʒæb; dʒæb/",
+    "origin": "待查",
+    "expansions": [
+      "He kept jabbing (away) at the paper cup with his pencil. 他用铅笔（不停地）戳著纸杯.",
+      "a blackbird jabbing at a worm, ie using its beak 啄食蠕虫的黑鹂",
+      "He jabbed at his opponent, eg of a boxer aiming a quick blow. 他猛击对手（如拳击手以快拳出击）.",
+      "She jabbed me in the ribs with her elbow. 她用肘顶我的肋部. 2 (phr v) jab sth into sb/sth force sth into sb/sth 使某物捅或刺某人[某物]: He jabbed his elbow into my side. 他用肘猛顶我的腰. jab sth out force or push sth out by jabbing 戳出某物: Be careful with that umbrella you nearly jabbed my eye out! 小心那把伞--你差一点把我的眼睛戳出来! =>Usage at nudge 用法见nudge.",
+      "a jab in the arm 刺在手臂上的一下. (b) (infml 口) injection or inoculation 注射; 打针; 接种: Have you had your cholera jabs yet? 你打霍乱预防针了吗?"
+    ],
+    "pronunciation": "/ dʒæb; dʒæb/",
+    "accepted_answers": [
+      ")(",
+      "捅",
+      "刺",
+      "戳",
+      "猛击（某人",
+      "某物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jabber",
+    "type": "word",
+    "pos": "V",
+    "translation": "急促而含混不清地说话；你听那些孩子叽叽喳喳地说个没完；急促而含混不清地说（话等）",
+    "analysis": "v  1 [I, Ip] ~ (away/on) talk rapidly in what seems to be a confused manner 急促而含混不清地说话: Listen to those children jabbering away! 你听那些孩子叽叽喳喳地说个没完!  2 [Tn, Tn.p] utter (words, etc) rapidly and indistinctly 急促而含混不清地说（话等）: He jabbered out what I assumed was an apology. 他叽叽咕咕地说了些我认为像是道歉的话.\njabber \nn [U] jabbering; chatter 急促而含混不清的话; 唠叨: the jabber of monkeys 猴子吱吱的叫声.",
+    "phonetic": "/ ˈdʒæbə(r); ˈdʒæbə/",
+    "origin": "待查",
+    "expansions": [
+      "Listen to those children jabbering away! 你听那些孩子叽叽喳喳地说个没完! 2 [Tn, Tn.p] utter (words, etc) rapidly and indistinctly 急促而含混不清地说（话等）: He jabbered out what I assumed was an apology. 他叽叽咕咕地说了些我认为像是道歉的话.",
+      "the jabber of monkeys 猴子吱吱的叫声."
+    ],
+    "pronunciation": "/ ˈdʒæbə(r); ˈdʒæbə/",
+    "accepted_answers": [
+      "急促而含混不清地说话",
+      "你听那些孩子叽叽喳喳地说个没完",
+      "急促而含混不清地说（话等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jabot",
     "type": "word",
     "pos": "N",
@@ -37,6 +95,58 @@
     "pronunciation": "/ ˈʒæbəʊ; ʒæˈbo/",
     "accepted_answers": [
       "（衬衫胸部的）装饰褶边"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jack",
+    "type": "word",
+    "pos": "N",
+    "translation": "（通常指便携式）起重器；千斤顶（尤指更换机动车车轮时用的）；船上表示国籍的旗子；英国国旗",
+    "analysis": "n  1 (usu portable) device for raising heavy weights off the ground, esp one for raising the axle of a motor vehicle so that a wheel may be changed （通常指便携式）起重器, 千斤顶（尤指更换机动车车轮时用的）.  2 ship's flag flown to show nationality 船上表示国籍的旗子: the Union Jack, ie the flag of the United Kingdom 英国国旗.  3 Jack familiar form of the name John 杰克（约翰的昵称）.  4 (also knave) (in a pack of playing-cards) card between the ten and the queen （纸牌中的）杰克, J（介於王后与十点之间）: the jack of clubs 梅花J.  5 (in the game of bowls) small white ball towards which bowls are rolled （滚球戏中）作靶子的小白球.  6 (idm 习语) before you can/could say Jack Robinson => say. every man jack => man. a jack of `all trades person who can do many different kinds of work but not necessarily well 博而不精的人.\nJack Frost \n(joc 谑) frost considered as a person （拟人化的）霜: Look what pretty patterns Jack Frost has painted on the windows. 瞧霜大哥在窗户上绘制了多麽美丽的图案.\njack-in-office \nn (derog 贬) self-important official 自命不凡的官吏.\njack-in-the-box \nn (pl -boxes) toy in the form of a box with a figure inside that springs up when the lid is opened 玩偶盒（开盒盖时其中的玩偶能跳起）.\njack-o-lantern \nn pumpkin with holes cut in it so that it looks like a face, used as a lantern (by placing a candle inside) for fun 南瓜灯笼（在南瓜上挖成人面形窟窿, 内点蜡烛）.\njack-rabbit \nn large hare of Western N America 杰克兔（北美西部产的大野兔）.\nJack tar (also tar) \n(dated nautical 旧, 海) sailor 水手; 水兵.",
+    "phonetic": "/ dʒæk; dʒæk/",
+    "origin": "待查",
+    "expansions": [
+      "the Union Jack, ie the flag of the United Kingdom 英国国旗. 3 Jack familiar form of the name John 杰克（约翰的昵称）. 4 (also knave) (in a pack of playing-cards) card between the ten and the queen （纸牌中的）杰克, J（介於王后与十点之间）: the jack of clubs 梅花J. 5 (in the game of bowls) small white ball towards which bowls are rolled （滚球戏中）作靶子的小白球. 6 (idm 习语) before you can/could say Jack Robinson => say. every man jack => man. a jack of `all trades person who can do many different kinds of work but not necessarily well 博而不精的人.",
+      "Look what pretty patterns Jack Frost has painted on the windows. 瞧霜大哥在窗户上绘制了多麽美丽的图案."
+    ],
+    "pronunciation": "/ dʒæk; dʒæk/",
+    "accepted_answers": [
+      "（通常指便携式）起重器",
+      "千斤顶（尤指更换机动车车轮时用的）",
+      "船上表示国籍的旗子",
+      "英国国旗"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jack-knife",
+    "type": "word",
+    "pos": "N",
+    "translation": "（可放衣袋内的）大摺刀；体)；屈体跳水",
+    "analysis": "n pl -knives / -naIvz;-9naIvz/  1 large pocket-knife with a folding blade （可放衣袋内的）大摺刀.  2 (sport 体) dive in which the body is first bent double and then straightened 屈体跳水.\njack-knife \nv [I] (esp of an articulated lorry) bend sharply in the middle into a V-shape, usu as the result of an accident （尤指铰接的货车）弯成V字形（通常因交通事故所致）: A heavy lorry has jack-knifed on the motorway, causing long delays. 一辆重型铰接货车在高速公路上撞成V字形, 耽搁了很长时间.",
+    "phonetic": "/ ˈdʒæknaɪf; ˈdʒækˌnaɪf/",
+    "origin": "待查",
+    "expansions": [
+      "A heavy lorry has jack-knifed on the motorway, causing long delays. 一辆重型铰接货车在高速公路上撞成V字形, 耽搁了很长时间."
+    ],
+    "pronunciation": "/ ˈdʒæknaɪf; ˈdʒækˌnaɪf/",
+    "accepted_answers": [
+      "（可放衣袋内的）大摺刀",
+      "体)",
+      "屈体跳水"
     ],
     "added_at": "",
     "review": {
@@ -61,6 +171,31 @@
     "accepted_answers": [
       "胡狼",
       "豺（产於亚非）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jackanapes",
+    "type": "word",
+    "pos": "N",
+    "translation": "复数不变)(；旧)；无礼的家伙",
+    "analysis": "n (pl unchanged复数不变) (dated 旧) impertinent fellow; mischievouschild 无礼的家伙; 顽童: Come here, you young jackanapes!过来, 你这个小淘气鬼!",
+    "phonetic": "/ ˈdʒækəneɪps; ˈdʒækəˌneps/",
+    "origin": "待查",
+    "expansions": [
+      "Come here, you young jackanapes!过来, 你这个小淘气鬼!"
+    ],
+    "pronunciation": "/ ˈdʒækəneɪps; ˈdʒækəˌneps/",
+    "accepted_answers": [
+      "复数不变)(",
+      "旧)",
+      "无礼的家伙"
     ],
     "added_at": "",
     "review": {
@@ -122,6 +257,30 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jackdaw",
+    "type": "word",
+    "pos": "N",
+    "translation": ")寒鸦；穴鸟（以偷取明亮的小东西而闻名）",
+    "analysis": "n bird of the crow family (noted for stealing small bright objects) 寒鸦, 穴鸟（以偷取明亮的小东西而闻名）.",
+    "phonetic": "/ ˈdʒækdɔː; ˈdʒækˌdɔː/",
+    "origin": "待查",
+    "expansions": [
+      ")寒鸦；穴鸟（以偷取明亮的小东西而闻名）"
+    ],
+    "pronunciation": "/ ˈdʒækdɔː; ˈdʒækˌdɔː/",
+    "accepted_answers": [
+      ")寒鸦",
+      "穴鸟（以偷取明亮的小东西而闻名）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jacket",
     "type": "word",
     "pos": "N",
@@ -137,6 +296,183 @@
       "短上衣",
       "夹克",
       "花呢上衣"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jackpot",
+    "type": "word",
+    "pos": "N",
+    "translation": "（多种游戏中；尤指扑克）累积的赌注（逐渐增加直到赌赢为止）；习语)",
+    "analysis": "n  1 (in various games, esp poker) stake or prize that continues to be added to until won （多种游戏中, 尤指扑克）累积的赌注（逐渐增加直到赌赢为止）.  2 (idm 习语) hit the jackpot => hit1.",
+    "phonetic": "/ ˈdʒækpɒt; ˈdʒækˌpɑːt/",
+    "origin": "待查",
+    "expansions": [
+      "（多种游戏中；尤指扑克）累积的赌注（逐渐增加直到赌赢为止）；习语)"
+    ],
+    "pronunciation": "/ ˈdʒækpɒt; ˈdʒækˌpɑːt/",
+    "accepted_answers": [
+      "（多种游戏中",
+      "尤指扑克）累积的赌注（逐渐增加直到赌赢为止）",
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jacobean",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")英王詹姆斯一世时期的（；年）；英王詹姆斯一世时期的文学、建筑、家具等",
+    "analysis": "adj of the reign of the English king, James I (1603-25) 英王詹姆斯一世时期的（1603-1625年）: ,Jacobean `literature, `architecture, `furniture, etc 英王詹姆斯一世时期的文学、 建筑、 家具等.",
+    "phonetic": "/ ˌdʒækəˈbɪən; ˌdʒækəˈbiən/",
+    "origin": "待查",
+    "expansions": [
+      ",Jacobean `literature, `architecture, `furniture, etc 英王詹姆斯一世时期的文学、 建筑、 家具等."
+    ],
+    "pronunciation": "/ ˌdʒækəˈbɪən; ˌdʒækəˈbiən/",
+    "accepted_answers": [
+      ")英王詹姆斯一世时期的（",
+      "年）",
+      "英王詹姆斯一世时期的文学、建筑、家具等"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jacobite",
+    "type": "word",
+    "pos": "N",
+    "translation": "英王詹姆斯二世（；年在位）被推翻後的遗民或拥戴其後裔复辟的人；英王詹姆斯二世追随者的第一次叛乱",
+    "analysis": "n supporter of the English king James II (reigned 1685-88) after his overthrow, or of his descendants who claimed the throne 英王詹姆斯二世（1685-1688年在位）被推翻後的遗民或拥戴其後裔复辟的人: [attrib 作定语] the first Jacobite rebellion 英王詹姆斯二世追随者的第一次叛乱.",
+    "phonetic": "/ ˈdʒækəbaɪt; ˈdʒækəˌbaɪt/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] the first Jacobite rebellion 英王詹姆斯二世追随者的第一次叛乱."
+    ],
+    "pronunciation": "/ ˈdʒækəbaɪt; ˈdʒækəˌbaɪt/",
+    "accepted_answers": [
+      "英王詹姆斯二世（",
+      "年在位）被推翻後的遗民或拥戴其後裔复辟的人",
+      "英王詹姆斯二世追随者的第一次叛乱"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jacuzzi",
+    "type": "word",
+    "pos": "N",
+    "translation": "专利名)；按摩浴缸（水下喷水可起按摩作用）",
+    "analysis": "n (propr 专利名) bath with underwater jets of water that massage the body 按摩浴缸（水下喷水可起按摩作用）.",
+    "phonetic": "/ dʒəˈkuːzɪ; dʒəˈkuzɪ/",
+    "origin": "待查",
+    "expansions": [
+      "专利名)；按摩浴缸（水下喷水可起按摩作用）"
+    ],
+    "pronunciation": "/ dʒəˈkuːzɪ; dʒəˈkuzɪ/",
+    "accepted_answers": [
+      "专利名)",
+      "按摩浴缸（水下喷水可起按摩作用）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jade",
+    "type": "word",
+    "pos": "N",
+    "translation": "翡翠；翡翠花瓶、项链等；碧绿的眼睛",
+    "analysis": "n [U]  1 hard, usu green, stone from which ornaments, etc are carved 玉; 翡翠: [attrib 作定语] a jade vase, necklace, etc 翡翠花瓶、 项链等 * jade-green eyes 碧绿的眼睛.  2 ornaments, etc made of jade 玉制的饰物等: a collection of Chinese jade 收藏的一批中国玉器.",
+    "phonetic": "/ dʒeɪd; dʒed/",
+    "origin": "待查",
+    "expansions": [
+      "[attrib 作定语] a jade vase, necklace, etc 翡翠花瓶、 项链等",
+      "jade-green eyes 碧绿的眼睛. 2 ornaments, etc made of jade 玉制的饰物等: a collection of Chinese jade 收藏的一批中国玉器."
+    ],
+    "pronunciation": "/ dʒeɪd; dʒed/",
+    "accepted_answers": [
+      "翡翠",
+      "翡翠花瓶、项链等",
+      "碧绿的眼睛"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jaded",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "贬或谑)；疲倦的；缺乏热情的（尤指因厌倦）；在通宵欢聚之後显得疲惫不堪",
+    "analysis": "adj (derog or joc 贬或谑) tired and lacking zest, usu after too much of sth 疲倦的, 缺乏热情的（尤指因厌倦）: looking jaded after an all-night party 在通宵欢聚之後显得疲惫不堪 * (fig 比喻) a jaded appetite 吃腻了的胃口.",
+    "phonetic": "/ ˈdʒeɪdɪd; ˈdʒedɪd/",
+    "origin": "待查",
+    "expansions": [
+      "looking jaded after an all-night party 在通宵欢聚之後显得疲惫不堪",
+      "(fig 比喻) a jaded appetite 吃腻了的胃口."
+    ],
+    "pronunciation": "/ ˈdʒeɪdɪd; ˈdʒedɪd/",
+    "accepted_answers": [
+      "贬或谑)",
+      "疲倦的",
+      "缺乏热情的（尤指因厌倦）",
+      "在通宵欢聚之後显得疲惫不堪"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jag",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；一阵痛饮；欢闹",
+    "analysis": "n (infml 口)  1 bout of heavy drinking; spree 一阵痛饮; 欢闹.  2 period of concentrated activity, strong emotion, etc 一阵精神集中的活动、 感情激动等.",
+    "phonetic": "/ dʒæg; dʒæg/",
+    "origin": "待查",
+    "expansions": [
+      "口)；一阵痛饮；欢闹"
+    ],
+    "pronunciation": "/ dʒæg; dʒæg/",
+    "accepted_answers": [
+      "口)",
+      "一阵痛饮",
+      "欢闹"
     ],
     "added_at": "",
     "review": {
@@ -187,6 +523,30 @@
     "accepted_answers": [
       "美洲豹",
       "美洲虎"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jalopy",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；破旧的汽车",
+    "analysis": "n (infml 口) battered old car 破旧的汽车.",
+    "phonetic": "/ dʒəˈlɒpɪ; dʒəˈlɑːpɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；破旧的汽车"
+    ],
+    "pronunciation": "/ dʒəˈlɒpɪ; dʒəˈlɑːpɪ/",
+    "accepted_answers": [
+      "口)",
+      "破旧的汽车"
     ],
     "added_at": "",
     "review": {
@@ -270,6 +630,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jamboree",
+    "type": "word",
+    "pos": "N",
+    "translation": "大聚会；庆祝会；童子军的大会",
+    "analysis": "n  1 large party; celebration 大聚会; 庆祝会.  2 large rally of Scouts or Guides 童子军的大会.",
+    "phonetic": "/ ˌdʒæmbəˈriː; ˌdʒæmbəˈri/",
+    "origin": "待查",
+    "expansions": [
+      "大聚会；庆祝会；童子军的大会"
+    ],
+    "pronunciation": "/ ˌdʒæmbəˈriː; ˌdʒæmbəˈri/",
+    "accepted_answers": [
+      "大聚会",
+      "庆祝会",
+      "童子军的大会"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jammy",
     "type": "word",
     "pos": "Adj",
@@ -285,6 +670,29 @@
       ")(",
       "口)",
       "涂有果酱的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jan",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写",
+    "analysis": "abbr 缩写 = January: 1 Jan 1932  1932年1月1日.",
+    "phonetic": "/ ininformaluse俗读作dʒæn; dʒæn/",
+    "origin": "待查",
+    "expansions": [
+      "1 Jan 1932 1932年1月1日."
+    ],
+    "pronunciation": "/ ininformaluse俗读作dʒæn; dʒæn/",
+    "accepted_answers": [
+      "缩写"
     ],
     "added_at": "",
     "review": {
@@ -368,6 +776,57 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "japan",
+    "type": "word",
+    "pos": "N",
+    "translation": "黑色亮漆；通常用於被动语态；在（尤指木制品或金属制品）上涂黑色亮漆",
+    "analysis": "n hard shiny black varnish 黑色亮漆.\njapan \nv [Tn usu passive 通常用於被动语态] (-nn-) cover (esp sth made of wood or metal) with japan 在（尤指木制品或金属制品）上涂黑色亮漆.",
+    "phonetic": "/ dʒəˈpæn; dʒəˈpæn/",
+    "origin": "待查",
+    "expansions": [
+      "黑色亮漆；通常用於被动语态；在（尤指木制品或金属制品）上涂黑色亮漆"
+    ],
+    "pronunciation": "/ dʒəˈpæn; dʒəˈpæn/",
+    "accepted_answers": [
+      "黑色亮漆",
+      "通常用於被动语态",
+      "在（尤指木制品或金属制品）上涂黑色亮漆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jape",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧；口)；玩笑；嘲弄",
+    "analysis": "n (dated infml 旧, 口) joke played on sb 玩笑; 嘲弄.",
+    "phonetic": "/ dʒeɪp; dʒep/",
+    "origin": "待查",
+    "expansions": [
+      "旧；口)；玩笑；嘲弄"
+    ],
+    "pronunciation": "/ dʒeɪp; dʒep/",
+    "accepted_answers": [
+      "旧",
+      "口)",
+      "玩笑",
+      "嘲弄"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "japonica",
     "type": "word",
     "pos": "N",
@@ -382,6 +841,32 @@
     "accepted_answers": [
       "贴梗海棠（装饰用的植物",
       "开红花）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jar",
+    "type": "word",
+    "pos": "N",
+    "translation": "广口瓶；我把画笔存放在旧果酱瓶里；插图",
+    "analysis": "n  1 (a) cylindrical container, usu made of glass 广口瓶: I keep my paint-brushes in old `jam jars. 我把画笔存放在旧果酱瓶里. =>illus at pot 见pot插图. (b) this and its contents 广口瓶及其所盛之物或量: a jar of plum jam 一瓶梅子酱.  2 tall vessel with a wide mouth, usu cylindrical, with or without handles 罐子; 杯子; 缸: large jars of olive oil 大罐子的橄榄油 * a `wine-jar 酒缸.  3 (Brit infml 口) glass (of beer) （啤酒）杯: We're going down to the pub for a few jars. 我们打算去酒馆喝几杯啤酒.",
+    "phonetic": "/ dʒɑː:(r); dʒɑːr/",
+    "origin": "待查",
+    "expansions": [
+      "I keep my paint-brushes in old `jam jars. 我把画笔存放在旧果酱瓶里. =>illus at pot 见pot插图. (b) this and its contents 广口瓶及其所盛之物或量: a jar of plum jam 一瓶梅子酱. 2 tall vessel with a wide mouth, usu cylindrical, with or without handles 罐子; 杯子; 缸: large jars of olive oil 大罐子的橄榄油",
+      "a `wine-jar 酒缸. 3 (Brit infml 口) glass (of beer) （啤酒）杯: We're going down to the pub for a few jars. 我们打算去酒馆喝几杯啤酒."
+    ],
+    "pronunciation": "/ dʒɑː:(r); dʒɑːr/",
+    "accepted_answers": [
+      "广口瓶",
+      "我把画笔存放在旧果酱瓶里",
+      "插图"
     ],
     "added_at": "",
     "review": {
@@ -455,6 +940,137 @@
     "accepted_answers": [
       "碧玉（一种次宝石",
       "呈红色、黄色或褐色）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jaundice",
+    "type": "word",
+    "pos": "N",
+    "translation": "黄疸；比喻)；忌妒",
+    "analysis": "n [U]  1 disease caused by an excess of bile in the blood which makes the skin and the whites of the eyes become abnormally yellow 黄疸.  2 (fig 比喻) state of mind in which one is jealous, spiteful or suspicious 忌妒; 怨恨; 猜疑: Do I detect a touch of jaundice (ie a slight hint of jealousy, etc) in that remark? 我听出那话里有点儿忌妒之意吧?\njaundiced \nadj affected by jealousy, spite, etc; bitter 受忌妒、 怨恨、 猜疑等影响的: a jaundiced mind, opinion, outlook, etc 有偏见的思想、 看法、 观点等 * He has rather a jaundiced view of life. 他对生活有点儿怨天尤人的看法.",
+    "phonetic": "/ ˈdʒɔːndɪs; ˈdʒɔːndɪs/",
+    "origin": "待查",
+    "expansions": [
+      "Do I detect a touch of jaundice (ie a slight hint of jealousy, etc) in that remark? 我听出那话里有点儿忌妒之意吧?",
+      "a jaundiced mind, opinion, outlook, etc 有偏见的思想、 看法、 观点等",
+      "He has rather a jaundiced view of life. 他对生活有点儿怨天尤人的看法."
+    ],
+    "pronunciation": "/ ˈdʒɔːndɪs; ˈdʒɔːndɪs/",
+    "accepted_answers": [
+      "黄疸",
+      "比喻)",
+      "忌妒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jaunt",
+    "type": "word",
+    "pos": "N",
+    "translation": "短途游览；她到城里游逛去了",
+    "analysis": "n short journey, made for pleasure 短途游览: She's gone on a jaunt into town. 她到城里游逛去了.",
+    "phonetic": "/ dʒɔːnt; dʒɔːnt/",
+    "origin": "待查",
+    "expansions": [
+      "She's gone on a jaunt into town. 她到城里游逛去了."
+    ],
+    "pronunciation": "/ dʒɔːnt; dʒɔːnt/",
+    "accepted_answers": [
+      "短途游览",
+      "她到城里游逛去了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jaunty",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "扬扬得意的；轻松愉快的；歪戴著帽子；得意扬扬",
+    "analysis": "adj (-ier, -iest) feeling or showing cheerfulness and self-confidence; sprightly 扬扬得意的; 轻松愉快的: wear one's hat at a jaunty angle, ie tipped to one side, as a sign of high spirits, etc 歪戴著帽子, 得意扬扬.\njauntily \nadv: swagger jauntily 神气活现大摇大摆地走. \njauntiness \nn [U].",
+    "phonetic": "/ ˈdʒɔːntɪ; ˈdʒɔːntɪ/",
+    "origin": "待查",
+    "expansions": [
+      "wear one's hat at a jaunty angle, ie tipped to one side, as a sign of high spirits, etc 歪戴著帽子, 得意扬扬.",
+      "swagger jauntily 神气活现大摇大摆地走."
+    ],
+    "pronunciation": "/ ˈdʒɔːntɪ; ˈdʒɔːntɪ/",
+    "accepted_answers": [
+      "扬扬得意的",
+      "轻松愉快的",
+      "歪戴著帽子",
+      "得意扬扬"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "javelin",
+    "type": "word",
+    "pos": "N",
+    "translation": ")标枪（通常指运动中用的）；标枪（田径运动项目）；她获得标枪比赛第二名",
+    "analysis": "n  1 [C] light spear for throwing (usu in sport) 标枪（通常指运动中用的）.  2 the javelin [sing] sporting contest in which competitors try to throw this the furthest 标枪（田径运动项目）: She came second in the javelin. 她获得标枪比赛第二名. =>illus 见插图.",
+    "phonetic": "/ ˈdʒævlɪn; ˈdʒævlɪn/",
+    "origin": "待查",
+    "expansions": [
+      "She came second in the javelin. 她获得标枪比赛第二名. =>illus 见插图."
+    ],
+    "pronunciation": "/ ˈdʒævlɪn; ˈdʒævlɪn/",
+    "accepted_answers": [
+      ")标枪（通常指运动中用的）",
+      "标枪（田径运动项目）",
+      "她获得标枪比赛第二名"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jaw",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作复数；口部；嘴（包括颌骨及牙齿）；鱼的嘴啪的一声合上了",
+    "analysis": "n  1 (a) [C usu pl 通常作复数] either of the bone structures containing the teeth 颌: the upper/lower jaw 上[下]颌. (b) jaws [pl] the mouth with its bones and teeth 口部, 嘴（包括颌骨及牙齿）: The crocodile's jaws snapped shut. 　鱼的嘴啪的一声合上了. * (fig 比喻) into/out of the jaws of death, ie into/out of great danger 陷入[摆脱]险境. (c) [sing] lower partof the face; lower jaw 脸的下部; 下颌; 下巴: a handsome man with a strong square jaw 长著一副结实的方下巴的漂亮男子 * The punch broke the boxer's jaw. 这一拳捣坏了那个拳击手的下巴. =>illus at head 见head插图.  2 jaws [pl] narrow mouth of a valley, channel, etc （山谷、 水道等的）狭窄入口: the jaws of a gorge, canyon, etc 峡谷等的口.  3 jaws [pl] part of a tool, machine, etc that grips or crushes things （工具、 机器等的）钳夹部分, 夹紧装置: the jaws of a vice 虎钳口. =>illus at vice 见vice插图.  4 [U, C] (infml 口) (a) long dull talk, usu giving moral advice 冗长的话（通常指说教）. (b) gossip; talkativeness 流言蜚语; 饶舌.  5 (idm 习语) one's `jaw drops (infml 口) one shows sudden surprise or disappointment 吃惊; 失望: My jaw dropped when I saw how much the meal had cost. 我看到那顿饭要花这麽多钱真大吃一惊.\njaw \nv (infml 口)  1 [I, Ipr, Ip] ~ (on) (at sb) talk at length about sb's faults, behaviour, etc （对某人的错误、 行为等）喋喋不休地说.  2 [I, Ip] ~ (on) gossip 说闲话.\njaw-bone \nn either of the two bones forming the lower jaw in most mammals 下颌骨.",
+    "phonetic": "/ dʒɔː; dʒɔː/",
+    "origin": "待查",
+    "expansions": [
+      "the upper/lower jaw 上[下]颌. (b) jaws [pl] the mouth with its bones and teeth 口部, 嘴（包括颌骨及牙齿）: The crocodile's jaws snapped shut. 鱼的嘴啪的一声合上了.",
+      "(fig 比喻) into/out of the jaws of death, ie into/out of great danger 陷入[摆脱]险境. (c) [sing] lower partof the face; lower jaw 脸的下部; 下颌; 下巴: a handsome man with a strong square jaw 长著一副结实的方下巴的漂亮男子",
+      "The punch broke the boxer's jaw. 这一拳捣坏了那个拳击手的下巴. =>illus at head 见head插图. 2 jaws [pl] narrow mouth of a valley, channel, etc （山谷、 水道等的）狭窄入口: the jaws of a gorge, canyon, etc 峡谷等的口. 3 jaws [pl] part of a tool, machine, etc that grips or crushes things （工具、 机器等的）钳夹部分, 夹紧装置: the jaws of a vice 虎钳口. =>illus at vice 见vice插图. 4 [U, C] (infml 口) (a) long dull talk, usu giving moral advice 冗长的话（通常指说教）. (b) gossip; talkativeness 流言蜚语; 饶舌. 5 (idm 习语) one's `jaw drops (infml 口) one shows sudden surprise or disappointment 吃惊; 失望: My jaw dropped when I saw how much the meal had cost. 我看到那顿饭要花这麽多钱真大吃一惊."
+    ],
+    "pronunciation": "/ dʒɔː; dʒɔː/",
+    "accepted_answers": [
+      "通常作复数",
+      "口部",
+      "嘴（包括颌骨及牙齿）",
+      "鱼的嘴啪的一声合上了"
     ],
     "added_at": "",
     "review": {
@@ -594,6 +1210,55 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jealousy",
+    "type": "word",
+    "pos": "N",
+    "translation": "忌妒；妒羡；情人的忌妒",
+    "analysis": "n (a) [U] being jealous 忌妒; 妒羡: a lover's jealousy 情人的忌妒. (b) [C] instance of this; act or remark that shows a person to be jealous 忌妒, 妒羡, 羡慕（的言行）: She grew tired of his petty jealousies. 她越来越讨厌他那种心胸狭窄的忌妒行为. Cf 参看 envy1.",
+    "phonetic": "/ ˈdʒeləsɪ; ˈdʒeləsɪ/",
+    "origin": "待查",
+    "expansions": [
+      "a lover's jealousy 情人的忌妒. (b) [C] instance of this; act or remark that shows a person to be jealous 忌妒, 妒羡, 羡慕（的言行）: She grew tired of his petty jealousies. 她越来越讨厌他那种心胸狭窄的忌妒行为. Cf 参看 envy1."
+    ],
+    "pronunciation": "/ ˈdʒeləsɪ; ˈdʒeləsɪ/",
+    "accepted_answers": [
+      "忌妒",
+      "妒羡",
+      "情人的忌妒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jeans",
+    "type": "word",
+    "pos": "N",
+    "translation": "牛仔裤；她穿著蓝色紧身牛仔裤",
+    "analysis": "n [pl] trousers of strong cotton for informal wear 牛仔裤: She was wearing a pair of tight blue jeans. 她穿著蓝色紧身牛仔裤.",
+    "phonetic": "/ dʒiːnz; dʒinz/",
+    "origin": "待查",
+    "expansions": [
+      "She was wearing a pair of tight blue jeans. 她穿著蓝色紧身牛仔裤."
+    ],
+    "pronunciation": "/ dʒiːnz; dʒinz/",
+    "accepted_answers": [
+      "牛仔裤",
+      "她穿著蓝色紧身牛仔裤"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jeep",
     "type": "word",
     "pos": "N",
@@ -722,6 +1387,32 @@
     }
   },
   {
+    "term": "jell",
+    "type": "word",
+    "pos": "V",
+    "translation": "成胶状；凝结；这草莓酱还是太稀；凝结不起来",
+    "analysis": "v [I]  1 become like jelly; set 成胶状; 凝结: This strawberry jam is still runny: I can't get it to jell. 这草莓酱还是太稀, 凝结不起来.  2 (fig 比喻) take shape; become definite 定形; 明确化: My ideas are beginning to jell. 我的想法逐渐明确了.",
+    "phonetic": "/ dʒel; dʒel/",
+    "origin": "待查",
+    "expansions": [
+      "This strawberry jam is still runny: I can't get it to jell. 这草莓酱还是太稀, 凝结不起来. 2 (fig 比喻) take shape; become definite 定形; 明确化: My ideas are beginning to jell. 我的想法逐渐明确了."
+    ],
+    "pronunciation": "/ dʒel; dʒel/",
+    "accepted_answers": [
+      "成胶状",
+      "凝结",
+      "这草莓酱还是太稀",
+      "凝结不起来"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jelly",
     "type": "word",
     "pos": "N",
@@ -741,6 +1432,30 @@
       "果冻",
       "请再给我点果冻行吗",
       "草莓冻都吃光了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jemmy",
+    "type": "word",
+    "pos": "N",
+    "translation": "（窃贼撬门窗用的）短铁撬；铁撬棍",
+    "analysis": "(US jimmy / 5dVImI; `dVImI/) n short heavy steel bar used by burglars to force open doors and windows （窃贼撬门窗用的）短铁撬, 铁撬棍.",
+    "phonetic": "/ ˈdʒemɪ; ˈdʒemɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（窃贼撬门窗用的）短铁撬；铁撬棍"
+    ],
+    "pronunciation": "/ ˈdʒemɪ; ˈdʒemɪ/",
+    "accepted_answers": [
+      "（窃贼撬门窗用的）短铁撬",
+      "铁撬棍"
     ],
     "added_at": "",
     "review": {
@@ -791,6 +1506,110 @@
       "使（某事物）受到伤害、损失或破坏",
       "使陷於险境",
       "整个作业的安全让一个粗心大意的人给破坏了"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jeopardy",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；处於受伤害、受损失或受破坏的危险境地；油轮需求量下降使造船业成千上万的工作职位受到威胁",
+    "analysis": "n (idm 习语) in jeopardy in danger of harm, loss or destruction 处於受伤害、 受损失或受破坏的危险境地: A fall in demand for oil tankers has put/placed thousands of jobs in the shipbuilding industry in jeopardy. 油轮需求量下降使造船业成千上万的工作职位受到威胁.",
+    "phonetic": "/ ˈdʒepədɪ; ˈdʒepədɪ/",
+    "origin": "待查",
+    "expansions": [
+      "A fall in demand for oil tankers has put/placed thousands of jobs in the shipbuilding industry in jeopardy. 油轮需求量下降使造船业成千上万的工作职位受到威胁."
+    ],
+    "pronunciation": "/ ˈdʒepədɪ; ˈdʒepədɪ/",
+    "accepted_answers": [
+      "习语)",
+      "处於受伤害、受损失或受破坏的危险境地",
+      "油轮需求量下降使造船业成千上万的工作职位受到威胁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jerboa",
+    "type": "word",
+    "pos": "N",
+    "translation": "跳鼠（产於亚洲和非洲北部的沙漠；後腿长；善跳）",
+    "analysis": "n small rat-like animal of Asia and the N African deserts with long hind legs and the ability to jump well 跳鼠（产於亚洲和非洲北部的沙漠, 後腿长, 善跳）.",
+    "phonetic": "/ dʒɜːˈbəʊə; dʒəˈboə/",
+    "origin": "待查",
+    "expansions": [
+      "跳鼠（产於亚洲和非洲北部的沙漠；後腿长；善跳）"
+    ],
+    "pronunciation": "/ dʒɜːˈbəʊə; dʒəˈboə/",
+    "accepted_answers": [
+      "跳鼠（产於亚洲和非洲北部的沙漠",
+      "後腿长",
+      "善跳）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jeremiad",
+    "type": "word",
+    "pos": "N",
+    "translation": "文)；悲伤的长篇故事；血泪史",
+    "analysis": "n (fml 文) long, sad and complaining story of troubles, misfortunes, etc 悲伤的长篇故事; 血泪史.",
+    "phonetic": "/ ˌdʒerɪˈmaɪæd; ˌdʒerəˈmaɪæd/",
+    "origin": "待查",
+    "expansions": [
+      "文)；悲伤的长篇故事；血泪史"
+    ],
+    "pronunciation": "/ ˌdʒerɪˈmaɪæd; ˌdʒerəˈmaɪæd/",
+    "accepted_answers": [
+      "文)",
+      "悲伤的长篇故事",
+      "血泪史"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jerk",
+    "type": "word",
+    "pos": "N",
+    "translation": "突然的拉、推、开始、停止、拧、抬或扔；他猛一使劲把牙拔了下来；公共汽车骤然停住了",
+    "analysis": "n  1 sudden pull, push, start, stop, twist, lift or throw 突然的拉、 推、 开始、 停止、 拧、 抬或扔: He gave his tooth a sharp jerk and it came out. 他猛一使劲把牙拔了下来. * The bus stopped with a jerk. 公共汽车骤然停住了.  2 sudden involuntary twitch of a muscle or muscles （肌肉的） 反射: a jerk of an eyelid 眼皮的一跳.  3 (infml derog 口, 贬) foolish person 蠢人.\njerk \nv  1 [Tn.pr, Tn.p] pull (sth/sb) suddenly and quickly in the specified direction 猛拉（某物[某人]）: He jerked the fishing-rod out of the water. 他猛然从水中挑起鱼竿. * She jerked her hand away when he tried to touch it. 他刚要摸她的手, 她一下子就把手缩了回去.  2 [I, Ipr, Ip, Tn, Tn.pr, Tn.p] (cause sth/sb to) move with a short sudden action or a series of short uneven actions（使某物[某人]）猛然一动或颤动: His head keeps jerking.他直晃脑袋. * The train jerked to a halt. 火车猛然停住了. * She jerked upright in surprise. 她惊讶得跳了起来. * Try not to jerk the camera when taking a photograph. 拍照时照相机不要晃. * He jerked his head towards the door. 他猛然把头扭向大门.  3 (phr v) jerk (oneself) off (<!> sl 讳, 俚) (of a man) masturbate （指男子）手淫. jerk sth out utter sth in an abrupt nervous manner 紧张而断断续续地说出某事: jerk out a request, an apology, etc 结结巴巴地提出请求、 道歉等.\njerky \nadj (-ier, -iest) making abrupt starts and stops; not moving or talking smoothly 忽动忽停的; 颠簸不稳的; 结结巴巴的: The toy robot moved forward with quick jerky steps. 玩具机器人一颠一颠地走得很快. * his jerky way of speaking 他讲话时结结巴巴的样子.",
+    "phonetic": "/ dʒɜːk; dʒɜːk/",
+    "origin": "待查",
+    "expansions": [
+      "He gave his tooth a sharp jerk and it came out. 他猛一使劲把牙拔了下来.",
+      "The bus stopped with a jerk. 公共汽车骤然停住了. 2 sudden involuntary twitch of a muscle or muscles （肌肉的） 反射: a jerk of an eyelid 眼皮的一跳. 3 (infml derog 口, 贬) foolish person 蠢人.",
+      "He jerked the fishing-rod out of the water. 他猛然从水中挑起鱼竿.",
+      "She jerked her hand away when he tried to touch it. 他刚要摸她的手, 她一下子就把手缩了回去. 2 [I, Ipr, Ip, Tn, Tn.pr, Tn.p] (cause sth/sb to) move with a short sudden action or a series of short uneven actions（使某物[某人]）猛然一动或颤动: His head keeps jerking.他直晃脑袋.",
+      "The train jerked to a halt. 火车猛然停住了."
+    ],
+    "pronunciation": "/ dʒɜːk; dʒɜːk/",
+    "accepted_answers": [
+      "突然的拉、推、开始、停止、拧、抬或扔",
+      "他猛一使劲把牙拔了下来",
+      "公共汽车骤然停住了"
     ],
     "added_at": "",
     "review": {
@@ -885,6 +1704,58 @@
     "pronunciation": "/ ˈdʒerɪkæn; ˈdʒerɪˌkæn/",
     "accepted_answers": [
       "扁平金属罐（贮存或运送汽油、水等液体用的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jersey",
+    "type": "word",
+    "pos": "N",
+    "translation": "泽西乳牛（浅棕色；乳中含脂率高）",
+    "analysis": "n type of light-brown cow that produces creamy milk 泽西乳牛（浅棕色, 乳中含脂率高）.",
+    "phonetic": "/ ˈdʒɜːzɪ; ˈdʒɜːzɪ/",
+    "origin": "待查",
+    "expansions": [
+      "泽西乳牛（浅棕色；乳中含脂率高）"
+    ],
+    "pronunciation": "/ ˈdʒɜːzɪ; ˈdʒɜːzɪ/",
+    "accepted_answers": [
+      "泽西乳牛（浅棕色",
+      "乳中含脂率高）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jest",
+    "type": "word",
+    "pos": "N",
+    "translation": "玩笑；笑话；习语)",
+    "analysis": "n  1 thing said or done to cause amusement; joke 玩笑; 笑话.  2 (idm 习语) in jest in fun; not seriously 开玩笑地; 不严肃地: His reply was taken half seriously, half in jest. 他的答覆看来是半开玩笑半认真的. * (saying 谚) Many a true word is spoken in jest. 玩笑话里有许多是真话.\njest \nv [I, Ipr] ~ (with sb) (about sth) make jokes (to sb) (about sth); speak or act without seriousness （跟某人）（以某事）开玩笑; 以不严肃的态度说话或做事: Stop jesting and be serious for a moment! 别开玩笑了, 严肃一会儿吧! * Don't jest about such important matters! 这麽重要的事情可不要当儿戏! jester n (formerly) man whose job was to make jokes to amuse a court or noble household （旧时）（宫廷或贵族豢养的）弄臣, 小丑: the court/king's/queen's jester 宫廷的[国王的/王后的]弄臣.",
+    "phonetic": "/ dʒest; dʒest/",
+    "origin": "待查",
+    "expansions": [
+      "His reply was taken half seriously, half in jest. 他的答覆看来是半开玩笑半认真的.",
+      "(saying 谚) Many a true word is spoken in jest. 玩笑话里有许多是真话.",
+      "Stop jesting and be serious for a moment! 别开玩笑了, 严肃一会儿吧!",
+      "Don't jest about such important matters! 这麽重要的事情可不要当儿戏! jester n (formerly) man whose job was to make jokes to amuse a court or noble household （旧时）（宫廷或贵族豢养的）弄臣, 小丑: the court/king's/queen's jester 宫廷的[国王的/王后的]弄臣."
+    ],
+    "pronunciation": "/ dʒest; dʒest/",
+    "accepted_answers": [
+      "玩笑",
+      "笑话",
+      "习语)"
     ],
     "added_at": "",
     "review": {
@@ -1124,6 +1995,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jewellery",
+    "type": "word",
+    "pos": "N",
+    "translation": "珠宝；首饰；珠宝盒",
+    "analysis": "n [U] ornaments, eg rings and necklaces, esp made of a valuable metal and sometimes set with jewels 珠宝; 首饰.\njewel box, jewel case \nbox for keeping jewels in 珠宝盒; 首饰盒.",
+    "phonetic": "/ ˈdʒuːəlrɪ; ˈdʒuəlrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "珠宝；首饰；珠宝盒"
+    ],
+    "pronunciation": "/ ˈdʒuːəlrɪ; ˈdʒuəlrɪ/",
+    "accepted_answers": [
+      "珠宝",
+      "首饰",
+      "珠宝盒"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jewess",
     "type": "word",
     "pos": "N",
@@ -1138,6 +2034,30 @@
     "accepted_answers": [
       "有时作轻蔑语)",
       "犹太女子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jewish",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "犹太人的；当地的犹太人社区",
+    "analysis": "adj of the Jews 犹太人的: the local Jewish community 当地的犹太人社区.",
+    "phonetic": "/ ˈdʒuːɪʃ; ˈdʒuɪʃ/",
+    "origin": "待查",
+    "expansions": [
+      "the local Jewish community 当地的犹太人社区."
+    ],
+    "pronunciation": "/ ˈdʒuːɪʃ; ˈdʒuɪʃ/",
+    "accepted_answers": [
+      "犹太人的",
+      "当地的犹太人社区"
     ],
     "added_at": "",
     "review": {
@@ -1163,6 +2083,55 @@
       "犹太人（总称）",
       "世界上的犹太人",
       "犹太人的宗教或文化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jezebel",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；无耻而诡计多端的女子",
+    "analysis": "n (derog 贬) shameless scheming woman 无耻而诡计多端的女子.",
+    "phonetic": "/ ˈdʒezəbl,-bel; ˈdʒezəbl,-bel/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；无耻而诡计多端的女子"
+    ],
+    "pronunciation": "/ ˈdʒezəbl,-bel; ˈdʒezəbl,-bel/",
+    "accepted_answers": [
+      "贬)",
+      "无耻而诡计多端的女子"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jib",
+    "type": "word",
+    "pos": "N",
+    "translation": "主帆前的小三角帆；艏帆；插图",
+    "analysis": "n  1 small triangular sail in front of the mainsail 主帆前的小三角帆; 艏帆. =>illus at yacht 见yacht插图.  2 projecting arm of a crane 起重机的臂.  3 (idm 习语) the cut of his jib => cut2.\njib-boom \nn pole to which the lower part of a jib(1) is fastened 艏斜帆桁.",
+    "phonetic": "/ dʒɪb; dʒɪb/",
+    "origin": "待查",
+    "expansions": [
+      "主帆前的小三角帆；艏帆；插图"
+    ],
+    "pronunciation": "/ dʒɪb; dʒɪb/",
+    "accepted_answers": [
+      "主帆前的小三角帆",
+      "艏帆",
+      "插图"
     ],
     "added_at": "",
     "review": {
@@ -1273,6 +2242,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jiggery-pokery",
+    "type": "word",
+    "pos": "N",
+    "translation": "捣鬼；欺骗；他怀疑有人在暗中捣鬼",
+    "analysis": "n [U] (infml 口 esp Brit) secret and mischievous or dishonest behaviour; mischief or trickery 捣鬼; 欺骗: He began to suspect that some jiggery-pokery was going on. 他怀疑有人在暗中捣鬼.",
+    "phonetic": "/ ˌdʒɪgərɪˈpəʊkərɪ; ˈdʒɪgərɪˈpokərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "He began to suspect that some jiggery-pokery was going on. 他怀疑有人在暗中捣鬼."
+    ],
+    "pronunciation": "/ ˌdʒɪgərɪˈpəʊkərɪ; ˈdʒɪgərɪˈpokərɪ/",
+    "accepted_answers": [
+      "捣鬼",
+      "欺骗",
+      "他怀疑有人在暗中捣鬼"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jiggle",
     "type": "word",
     "pos": "V",
@@ -1326,6 +2320,53 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jihad",
+    "type": "word",
+    "pos": "N",
+    "translation": "圣战（穆斯林对异教徒之战）",
+    "analysis": "n holy war fought by Muslims against those who reject Islam 圣战（穆斯林对异教徒之战）.",
+    "phonetic": "/ dʒɪˈhɑː:d; dʒɪˈhɑːd/",
+    "origin": "待查",
+    "expansions": [
+      "圣战（穆斯林对异教徒之战）"
+    ],
+    "pronunciation": "/ dʒɪˈhɑː:d; dʒɪˈhɑːd/",
+    "accepted_answers": [
+      "圣战（穆斯林对异教徒之战）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jilt",
+    "type": "word",
+    "pos": "V",
+    "translation": "抛弃或遗弃（情人）；被抛弃的恋人",
+    "analysis": "v [Tn] leave (a man or woman) with whom one has had a close emotional relationship, esp suddenly and unkindly 抛弃或遗弃（情人）: a jilted lover 被抛弃的恋人.",
+    "phonetic": "/ dʒɪlt; dʒɪlt/",
+    "origin": "待查",
+    "expansions": [
+      "a jilted lover 被抛弃的恋人."
+    ],
+    "pronunciation": "/ dʒɪlt; dʒɪlt/",
+    "accepted_answers": [
+      "抛弃或遗弃（情人）",
+      "被抛弃的恋人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jim crow",
     "type": "word",
     "translation": "贬；蔑)；黑人；黑人法（对美国黑人不公正的法律）",
@@ -1351,6 +2392,32 @@
     }
   },
   {
+    "term": "jim-jams",
+    "type": "word",
+    "pos": "N",
+    "translation": "俚)；神经极度紧张；沉住气；你弄得我神经紧张",
+    "analysis": "n the jim-jams [pl] (sl 俚) feelings of extreme nervousness; the jitters 神经极度紧张: Steady on: you're giving me the jim-jams! 沉住气, 你弄得我神经紧张!\njimmy\n(US) = jemmy.",
+    "phonetic": "/ ˈdʒɪmdʒæmz; ˈdʒɪmˌdʒæmz/",
+    "origin": "待查",
+    "expansions": [
+      "Steady on: you're giving me the jim-jams! 沉住气, 你弄得我神经紧张!"
+    ],
+    "pronunciation": "/ ˈdʒɪmdʒæmz; ˈdʒɪmˌdʒæmz/",
+    "accepted_answers": [
+      "俚)",
+      "神经极度紧张",
+      "沉住气",
+      "你弄得我神经紧张"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jingle",
     "type": "word",
     "pos": "N",
@@ -1369,6 +2436,76 @@
       "（金属发出的）叮当声（如硬币、钥匙或小铃的声音）",
       "他衣袋里硬币的叮当声",
       "（吸引人又易记的）简短的韵文或歌曲（尤指广播或电视广告中的）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jingoism",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；极端爱国主义（主张对外实行战争政策）",
+    "analysis": "n [U] (derog 贬) extreme and unreasonable belief that one's own country is best, together with a warlike attitude towards other countries 极端爱国主义（主张对外实行战争政策）.",
+    "phonetic": "/ ˈdʒɪŋgəʊɪzəm; ˈdʒɪŋgoˌɪzəm/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；极端爱国主义（主张对外实行战争政策）"
+    ],
+    "pronunciation": "/ ˈdʒɪŋgəʊɪzəm; ˈdʒɪŋgoˌɪzəm/",
+    "accepted_answers": [
+      "贬)",
+      "极端爱国主义（主张对外实行战争政策）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jingoist",
+    "type": "word",
+    "pos": "N",
+    "translation": "极端爱国主义者",
+    "analysis": "n person who has such a belief 极端爱国主义者.",
+    "phonetic": "/ ˈdʒɪŋgəʊɪst; ˈdʒɪŋgoɪst/",
+    "origin": "待查",
+    "expansions": [
+      "极端爱国主义者"
+    ],
+    "pronunciation": "/ ˈdʒɪŋgəʊɪst; ˈdʒɪŋgoɪst/",
+    "accepted_answers": [
+      "极端爱国主义者"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jingoistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "极端爱国主义的言论",
+    "analysis": "adj: ,jingoistic remarks 极端爱国主义的言论.",
+    "phonetic": "/ ˌdʒɪŋgəʊˈɪstɪk; ˌdʒɪŋgoˈɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      ",jingoistic remarks 极端爱国主义的言论."
+    ],
+    "pronunciation": "/ ˌdʒɪŋgəʊˈɪstɪk; ˌdʒɪŋgoˈɪstɪk/",
+    "accepted_answers": [
+      "极端爱国主义的言论"
     ],
     "added_at": "",
     "review": {
@@ -1456,6 +2593,229 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jitter",
+    "type": "word",
+    "pos": "V",
+    "translation": "口)；感到神经紧张；举止不自然",
+    "analysis": "v [I] (infml 口) feel nervous; behave nervously 感到神经紧张; 举止不自然: jittering with fright 吓得神经紧张.\nthe jitters \nn [pl] (infml 口) feelings of extreme nervousness; the jim-jams 神经极度紧张: give sb/have/get the jitters 使某人极为紧张 * I always get the jitters before I go on stage. 我登台之前总是感到紧张.",
+    "phonetic": "/ ˈdʒɪtə(r); ˈdʒɪtə/",
+    "origin": "待查",
+    "expansions": [
+      "jittering with fright 吓得神经紧张.",
+      "give sb/have/get the jitters 使某人极为紧张",
+      "I always get the jitters before I go on stage. 我登台之前总是感到紧张."
+    ],
+    "pronunciation": "/ ˈdʒɪtə(r); ˈdʒɪtə/",
+    "accepted_answers": [
+      "口)",
+      "感到神经紧张",
+      "举止不自然"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jittery",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)；神经紧张的；害怕的",
+    "analysis": "adj (infml 口) nervous; frightened 神经紧张的; 害怕的.\njitterbug \nn performer of a lively popular dance of the 1940s to swing music 跳吉特巴舞的人.  v [I] perform such a dance 跳吉特巴舞.",
+    "phonetic": "/ ˈdʒɪtərɪ; ˈdʒɪtərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "口)；神经紧张的；害怕的"
+    ],
+    "pronunciation": "/ ˈdʒɪtərɪ; ˈdʒɪtərɪ/",
+    "accepted_answers": [
+      "口)",
+      "神经紧张的",
+      "害怕的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jive",
+    "type": "word",
+    "pos": "N",
+    "translation": "通常作；摇摆乐（节拍强烈、快而活泼的音乐）；摇摆舞",
+    "analysis": "n (usu 通常作 the jive) [sing] fast lively form of music with a strong beat; dance done to this 摇摆乐（节拍强烈、 快而活泼的音乐）; 摇摆舞.\njive \nv [I] dance to jive music 跳摇摆舞.\nJnr (also Jr, Jun) \nabbr 缩写 = (esp US) Junior: John F Davis Jnr, ie to distinguish him from his father with the same name 小约翰·F·戴维斯（因父子同名, 用以区别其父）. Cf 参看 Sen 3.",
+    "phonetic": "/ dʒaɪv; dʒaɪv/",
+    "origin": "待查",
+    "expansions": [
+      "John F Davis Jnr, ie to distinguish him from his father with the same name 小约翰·F·戴维斯（因父子同名, 用以区别其父）. Cf 参看 Sen 3."
+    ],
+    "pronunciation": "/ dʒaɪv; dʒaɪv/",
+    "accepted_answers": [
+      "通常作",
+      "摇摆乐（节拍强烈、快而活泼的音乐）",
+      "摇摆舞"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "job",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；给被安慰的人增加痛苦或烦恼的人",
+    "analysis": "n (idm 习语) the patience of job => patience.\nJob's comforter \nperson who increases the unhappiness or distress of the person he is attempting to comfort 给被安慰的人增加痛苦或烦恼的人.",
+    "phonetic": "/ dʒəʊb; dʒob/",
+    "origin": "待查",
+    "expansions": [
+      "习语)；给被安慰的人增加痛苦或烦恼的人"
+    ],
+    "pronunciation": "/ dʒəʊb; dʒob/",
+    "accepted_answers": [
+      "习语)",
+      "给被安慰的人增加痛苦或烦恼的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jobber",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（旧时）股票经纪人",
+    "analysis": "n (Brit) (formerly) trader on the Stock Exchange who buys and sells shares without dealing directly with the public （旧时）股票经纪人.",
+    "phonetic": "/ ˈdʒɒbə(r); ˈdʒɑːbə/",
+    "origin": "待查",
+    "expansions": [
+      ")(；（旧时）股票经纪人"
+    ],
+    "pronunciation": "/ ˈdʒɒbə(r); ˈdʒɑːbə/",
+    "accepted_answers": [
+      ")(",
+      "（旧时）股票经纪人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jobbery",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；营私舞弊；假公济私",
+    "analysis": "n [U] (derog 贬) use of unfair or corrupt methods in order to gain a financial or political advantage 营私舞弊; 假公济私; 贪污渎职.",
+    "phonetic": "/ ˈdʒɒbərɪ; ˈdʒɑːbərɪ/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；营私舞弊；假公济私"
+    ],
+    "pronunciation": "/ ˈdʒɒbərɪ; ˈdʒɑːbərɪ/",
+    "accepted_answers": [
+      "贬)",
+      "营私舞弊",
+      "假公济私"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jobbing",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "做零工的；做散工的；承印零星印刷品的商人、打零工的花匠",
+    "analysis": "adj [attrib 作定语] doingsingle, specific (and esp small) pieces of work for payment做零工的; 做散工的: a jobbing printer, gardener, etc 承印零星印刷品的商人、 打零工的花匠.",
+    "phonetic": "/ ˈdʒɒbɪŋ; ˈdʒɑːbɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "a jobbing printer, gardener, etc 承印零星印刷品的商人、 打零工的花匠."
+    ],
+    "pronunciation": "/ ˈdʒɒbɪŋ; ˈdʒɑːbɪŋ/",
+    "accepted_answers": [
+      "做零工的",
+      "做散工的",
+      "承印零星印刷品的商人、打零工的花匠"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jock-strap",
+    "type": "word",
+    "pos": "N",
+    "translation": "（男运动员用的）下体护身；护裆",
+    "analysis": "n close-fitting undergarment worn by sportsmen to support or protect the genitals （男运动员用的）下体护身, 护裆.",
+    "phonetic": "/ ˈdʒɒkstræp; ˈdʒɑːkˌstræp/",
+    "origin": "待查",
+    "expansions": [
+      "（男运动员用的）下体护身；护裆"
+    ],
+    "pronunciation": "/ ˈdʒɒkstræp; ˈdʒɑːkˌstræp/",
+    "accepted_answers": [
+      "（男运动员用的）下体护身",
+      "护裆"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jockey",
+    "type": "word",
+    "pos": "N",
+    "translation": "骑师；（通常指）职业赛马骑师",
+    "analysis": "n (pl ~s) person who rides a horse, usu a professional competing in races 骑师; （通常指）职业赛马骑师.",
+    "phonetic": "/ ˈdʒɒkɪ; ˈdʒɑːkɪ/",
+    "origin": "待查",
+    "expansions": [
+      "骑师；（通常指）职业赛马骑师"
+    ],
+    "pronunciation": "/ ˈdʒɒkɪ; ˈdʒɑːkɪ/",
+    "accepted_answers": [
+      "骑师",
+      "（通常指）职业赛马骑师"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jocose",
     "type": "word",
     "pos": "Adj",
@@ -1495,6 +2855,104 @@
     "pronunciation": "/ dʒəʊˈkɒsətɪ; dʒoˈkɑːsətɪ/",
     "accepted_answers": [
       "jocosity"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jocular",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "滑稽的；诙谐的；诙谐的言语",
+    "analysis": "adj  1 meant as a joke; humorous 滑稽的; 诙谐的: jocular remarks 诙谐的言语.  2 fond of joking; playful 爱开玩笑的; 嬉戏的: a jocular fellow 爱开玩笑的家伙.",
+    "phonetic": "/ ˈdʒɒkjUlə(r); ˈdʒɑːkjələ/",
+    "origin": "待查",
+    "expansions": [
+      "jocular remarks 诙谐的言语. 2 fond of joking; playful 爱开玩笑的; 嬉戏的: a jocular fellow 爱开玩笑的家伙."
+    ],
+    "pronunciation": "/ ˈdʒɒkjUlə(r); ˈdʒɑːkjələ/",
+    "accepted_answers": [
+      "滑稽的",
+      "诙谐的",
+      "诙谐的言语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jocularity",
+    "type": "word",
+    "pos": "N",
+    "translation": "菲利普；被戏称为；费力跑",
+    "analysis": "n [U].\njocularly \nadv: Philip, jocularly known as Flip 菲利普, 被戏称为｀费力跑＇.",
+    "phonetic": "/ ˌdʒɒkjUˈlrətɪ; ˌdʒɑːkjəˈlærətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "Philip, jocularly known as Flip 菲利普, 被戏称为｀费力跑＇."
+    ],
+    "pronunciation": "/ ˌdʒɒkjUˈlrətɪ; ˌdʒɑːkjəˈlærətɪ/",
+    "accepted_answers": [
+      "菲利普",
+      "被戏称为",
+      "费力跑"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jocund",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "旧)；欢乐的；愉快的",
+    "analysis": "adj (dated 旧) merry; cheerful 欢乐的; 愉快的.",
+    "phonetic": "/ ˈdʒɒkənd; ˈdʒɑːkənd/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；欢乐的；愉快的"
+    ],
+    "pronunciation": "/ ˈdʒɒkənd; ˈdʒɑːkənd/",
+    "accepted_answers": [
+      "旧)",
+      "欢乐的",
+      "愉快的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jocundity",
+    "type": "word",
+    "pos": "N",
+    "translation": "jocundity",
+    "analysis": "n [U].",
+    "phonetic": "/ dʒəʊˈkʌndətɪ; dʒoˈkʌndətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "jocundity"
+    ],
+    "pronunciation": "/ dʒəʊˈkʌndətɪ; dʒoˈkʌndətɪ/",
+    "accepted_answers": [
+      "jocundity"
     ],
     "added_at": "",
     "review": {
@@ -1580,6 +3038,56 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jogging",
+    "type": "word",
+    "pos": "N",
+    "translation": "慢而有规律的行走；缓行",
+    "analysis": "n [U].\njogtrot \nn slow regular trot 慢而有规律的行走; 缓行.",
+    "phonetic": "/ ˈdʒɒgɪŋ; ˈdʒɑːgɪŋ/",
+    "origin": "待查",
+    "expansions": [
+      "慢而有规律的行走；缓行"
+    ],
+    "pronunciation": "/ ˈdʒɒgɪŋ; ˈdʒɑːgɪŋ/",
+    "accepted_answers": [
+      "慢而有规律的行走",
+      "缓行"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joggle",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某人；某物；）轻轻颠动；摇动",
+    "analysis": "v [I, Ip, Tn, Tn.p] (cause sb/sth to) move or shake slightly, usu up and down （使某人[某物]）轻轻颠动, 摇动.",
+    "phonetic": "/ ˈdʒɒgl; ˈdʒɑːgl/",
+    "origin": "待查",
+    "expansions": [
+      "（使某人；某物；）轻轻颠动；摇动"
+    ],
+    "pronunciation": "/ ˈdʒɒgl; ˈdʒɑːgl/",
+    "accepted_answers": [
+      "（使某人",
+      "某物",
+      "）轻轻颠动",
+      "摇动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "john",
     "type": "word",
     "pos": "N",
@@ -1628,6 +3136,32 @@
       "review_history": []
     },
     "dict_source": "data/DICT/B/B-s,t,u.txt"
+  },
+  {
+    "term": "johnny",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧；口)；男子；家伙",
+    "analysis": "n (Brit)  1 (dated infml 旧, 口) man; fellow 男子; 家伙.  2 (sl 俚) condom 男用避孕套; 阴茎套: a rubber johnny 橡胶避孕套.",
+    "phonetic": "/ ˈdʒɒnɪ; ˈdʒɑːnɪ/",
+    "origin": "待查",
+    "expansions": [
+      "a rubber johnny 橡胶避孕套."
+    ],
+    "pronunciation": "/ ˈdʒɒnɪ; ˈdʒɑːnɪ/",
+    "accepted_answers": [
+      "旧",
+      "口)",
+      "男子",
+      "家伙"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "joie de vivre",
@@ -1729,6 +3263,34 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "joint",
+    "type": "word",
+    "pos": "N",
+    "translation": "关节；踝、膝、肘等关节；患关节强直症",
+    "analysis": "n  1 structure in the body of an animal by which bones are fitted together 关节: ankle, knee, elbow, etc joints 踝、 膝、 肘等关节 * suffer from stiff joints 患关节强直症.  2 place, line or surface at which two or more things are joined 连接处; 接缝; 接合面: Check that the joints of the pipes are sealed properly. 检查一下管道的接口是否封严了.  3 any of the parts into which a butcher cuts an animal's carcass; this cooked and served as meat （生的或熟的）大块肉: a joint of beef 一大块牛肉 * carve the Sunday joint 切开星期日吃的大块肉.  4 (sl derog 俚, 贬) low or shabby bar, club, etc; house or shop 下等的或破旧的酒吧、 俱乐部等; 房子; 店　.  5 (sl 俚) cigarette containing marijuana 含大麻的香烟.  6 (idm 习语) case the joint => case2. out of joint (a) (of bones) pushed out of position; dislocated （指骨）脱臼: She fell and put her knee out of joint. 她摔得膝关节脱臼了. (b) (fig 比喻) in disorder; disorganized 混乱; 紊乱: The delays put the whole schedule out of joint. 一再的拖延打乱了全部安排. put sb's nose out of joint => nose1.\njoint \nv [Tn esp passive 尤用於被动语态]  1 provide (sth) with a joint or joints 给（某物）装以活节或关节: a jointed doll, fishing-rod 有活动关节的玩具娃娃、 活动钓竿.  2 divide (a carcass) into joints or at the joints 将（屠宰後的动物）分割成大块或在关节处切开: a jointed chicken 切成大块的鸡.",
+    "phonetic": "/ dʒɔːɪnt; dʒɔːɪnt/",
+    "origin": "待查",
+    "expansions": [
+      "ankle, knee, elbow, etc joints 踝、 膝、 肘等关节",
+      "suffer from stiff joints 患关节强直症. 2 place, line or surface at which two or more things are joined 连接处; 接缝; 接合面: Check that the joints of the pipes are sealed properly. 检查一下管道的接口是否封严了. 3 any of the parts into which a butcher cuts an animal's carcass; this cooked and served as meat （生的或熟的）大块肉: a joint of beef 一大块牛肉",
+      "carve the Sunday joint 切开星期日吃的大块肉. 4 (sl derog 俚, 贬) low or shabby bar, club, etc; house or shop 下等的或破旧的酒吧、 俱乐部等; 房子; 店 . 5 (sl 俚) cigarette containing marijuana 含大麻的香烟. 6 (idm 习语) case the joint => case2. out of joint (a) (of bones) pushed out of position; dislocated （指骨）脱臼: She fell and put her knee out of joint. 她摔得膝关节脱臼了. (b) (fig 比喻) in disorder; disorganized 混乱; 紊乱: The delays put the whole schedule out of joint. 一再的拖延打乱了全部安排. put sb's nose out of joint => nose1.",
+      "a jointed doll, fishing-rod 有活动关节的玩具娃娃、 活动钓竿. 2 divide (a carcass) into joints or at the joints 将（屠宰後的动物）分割成大块或在关节处切开: a jointed chicken 切成大块的鸡."
+    ],
+    "pronunciation": "/ dʒɔːɪnt; dʒɔːɪnt/",
+    "accepted_answers": [
+      "关节",
+      "踝、膝、肘等关节",
+      "患关节强直症"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "joist",
     "type": "word",
     "pos": "N",
@@ -1743,6 +3305,85 @@
     "accepted_answers": [
       "搁栅",
       "托梁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joke",
+    "type": "word",
+    "pos": "N",
+    "translation": "笑话；玩笑；给（某人）讲笑话",
+    "analysis": "n  1 thing said (eg a story with a funny ending) or done to cause amusement, laughter, etc 笑话; 玩笑: tell (sb) a joke 给（某人）讲笑话 * cracking jokes with one's friends 跟朋友说笑话.  2 [sing] ridiculous person, thing or situation 可笑的人、 事物、 情形: His attempts at cooking are a complete joke. 他总也做不好饭, 这事成了个笑话.  3 (idm 习语) be no `joke; be/get beyond a `joke be/become a serious matter 不是闹著玩儿的事; 是[变成]正经的事: Trying to find a job these days is no joke, I can tell you. 我实话告诉你, 现在想找工作可不易. * All your teasing of poor Michael is getting beyond a joke. 你拿可怜的迈克尔打趣可要出圈儿了. have a joke with sb share the pleasure of laughing at sth with sb 与某人一起以某事取笑: He's someone I have an occasional chat and joke with. 我偶然跟他闲聊, 一起说笑话. the joke's on sb (infml 口) sb who tried to make another person look foolish now looks ridiculous instead 原想耍弄别人, 自己反倒成为笑料. make a joke about/of sb/sth speak lightly or amusingly about sb/sth 拿某人[某事]开玩笑. play a joke/prank/trick on sb trick sb, in order to make him appear ridiculous 戏弄某人. see the `joke understand why sth said or done is amusing 理解其中的可笑之处: I'm sorry but I can't see the joke. 很抱歉, 我看不出来有什麽可笑的. take a `joke accept playful remarks or tricks with good humour 经得起玩笑话: Can't you take a joke? 跟你开个玩笑你都受不了吗?\njoke \nv  1 [I, Ipr] ~ (with sb) (about sth) tell jokes (to sb) (about sth); talk in a light-hearted, frivolous way （以某事）（与某人）开玩笑; 说笑话儿: I was only joking. 我不过是说著玩儿的. * For Pat to lose his job is nothing to joke about, ie is a serious matter. 对帕特来说失业可不是闹著玩儿的.  2 (idm 习语) joking a`part speaking seriously 严肃地说; 认真地说: Joking apart, you ought to smoke fewer cigarettes, you know. 说正经的, 你应该少吸点儿烟了, 知道吗?  you must be/have got to be `joking (used to express mocking disbelief 用以嘲笑不可信的事): `Jackie's passed her driving test.' `You must be joking  she can't even steer straight!' ｀杰基的驾驶测验及格了.＇｀你一定是开玩笑--她连方向盘还握不正呢!＇\njokey \nadj joking; amusing or ridiculous 开玩笑的; 逗笑的; 可笑的.\njokingly \nadv in a joking manner 开玩笑地; 戏谑地.",
+    "phonetic": "/ dʒəʊk; dʒok/",
+    "origin": "待查",
+    "expansions": [
+      "tell (sb) a joke 给（某人）讲笑话",
+      "cracking jokes with one's friends 跟朋友说笑话. 2 [sing] ridiculous person, thing or situation 可笑的人、 事物、 情形: His attempts at cooking are a complete joke. 他总也做不好饭, 这事成了个笑话. 3 (idm 习语) be no `joke; be/get beyond a `joke be/become a serious matter 不是闹著玩儿的事; 是[变成]正经的事: Trying to find a job these days is no joke, I can tell you. 我实话告诉你, 现在想找工作可不易.",
+      "All your teasing of poor Michael is getting beyond a joke. 你拿可怜的迈克尔打趣可要出圈儿了. have a joke with sb share the pleasure of laughing at sth with sb 与某人一起以某事取笑: He's someone I have an occasional chat and joke with. 我偶然跟他闲聊, 一起说笑话. the joke's on sb (infml 口) sb who tried to make another person look foolish now looks ridiculous instead 原想耍弄别人, 自己反倒成为笑料. make a joke about/of sb/sth speak lightly or amusingly about sb/sth 拿某人[某事]开玩笑. play a joke/prank/trick on sb trick sb, in order to make him appear ridiculous 戏弄某人. see the `joke understand why sth said or done is amusing 理解其中的可笑之处: I'm sorry but I can't see the joke. 很抱歉, 我看不出来有什麽可笑的. take a `joke accept playful remarks or tricks with good humour 经得起玩笑话: Can't you take a joke? 跟你开个玩笑你都受不了吗?",
+      "I was only joking. 我不过是说著玩儿的.",
+      "For Pat to lose his job is nothing to joke about, ie is a serious matter. 对帕特来说失业可不是闹著玩儿的. 2 (idm 习语) joking a`part speaking seriously 严肃地说; 认真地说: Joking apart, you ought to smoke fewer cigarettes, you know. 说正经的, 你应该少吸点儿烟了, 知道吗? you must be/have got to be `joking (used to express mocking disbelief 用以嘲笑不可信的事): `Jackie's passed her driving test.' `You must be joking she can't even steer straight!' ｀杰基的驾驶测验及格了.＇｀你一定是开玩笑--她连方向盘还握不正呢!＇"
+    ],
+    "pronunciation": "/ dʒəʊk; dʒok/",
+    "accepted_answers": [
+      "笑话",
+      "玩笑",
+      "给（某人）讲笑话"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joker",
+    "type": "word",
+    "pos": "N",
+    "translation": "口)；爱开玩笑的人；愚蠢而不负责任的人",
+    "analysis": "n  1 (infml 口) person who is fond of making jokes; foolish irresponsible person 爱开玩笑的人; 愚蠢而不负责任的人: Some joker's been playing around with my car aerial! 哪个爱胡闹的人摆弄我汽车上的天线了!  2 (infml 口) person who is not treated seriously 不受重视的人: I don't want that jokerin my sales team. 我们销售部门不想要那个家伙.  3 extra playing-card used in certain card-games （某些纸牌戏中的）百搭.",
+    "phonetic": "/ ˈdʒəʊkə(r); ˈdʒokə/",
+    "origin": "待查",
+    "expansions": [
+      "Some joker's been playing around with my car aerial! 哪个爱胡闹的人摆弄我汽车上的天线了! 2 (infml 口) person who is not treated seriously 不受重视的人: I don't want that jokerin my sales team. 我们销售部门不想要那个家伙. 3 extra playing-card used in certain card-games （某些纸牌戏中的）百搭."
+    ],
+    "pronunciation": "/ ˈdʒəʊkə(r); ˈdʒokə/",
+    "accepted_answers": [
+      "口)",
+      "爱开玩笑的人",
+      "愚蠢而不负责任的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jollification",
+    "type": "word",
+    "pos": "N",
+    "translation": "旧)；作乐；欢乐",
+    "analysis": "n [U, C] (dated 旧) merry-making; festivity 作乐; 欢乐; 欢宴.",
+    "phonetic": "/ ˌdʒɒlɪfɪˈkeɪʃn; ˌdʒɑːləfəˈkeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "旧)；作乐；欢乐"
+    ],
+    "pronunciation": "/ ˌdʒɒlɪfɪˈkeɪʃn; ˌdʒɑːləfəˈkeʃən/",
+    "accepted_answers": [
+      "旧)",
+      "作乐",
+      "欢乐"
     ],
     "added_at": "",
     "review": {
@@ -1805,6 +3446,78 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jolly-boat",
+    "type": "word",
+    "pos": "N",
+    "translation": "大船携带的小艇",
+    "analysis": "n type of ship's boat 大船携带的小艇.",
+    "phonetic": "/ ˈdʒɒlɪbəʊt; ˈdʒɑːlɪbot/",
+    "origin": "待查",
+    "expansions": [
+      "大船携带的小艇"
+    ],
+    "pronunciation": "/ ˈdʒɒlɪbəʊt; ˈdʒɑːlɪbot/",
+    "accepted_answers": [
+      "大船携带的小艇"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jolt",
+    "type": "word",
+    "pos": "V",
+    "translation": "（使某人；某物；）颠簸著移动",
+    "analysis": "v  1 [I, Ipr, Ip, Tn, Tn.pr, Tn.p] (cause sb/sth to) move with sudden jerky movements （使某人[某物]）颠簸著移动: The old bus jolted along (a rough track). 旧公共汽车（沿凹凸不平的小路）颠簸而行.  2(phr v) jolt sb into/out of sth make sb act by giving him a sudden shock 使某人受到震惊而采取行动: He was jolted out of his lethargy and into action when he realized he had only a short time to finish the article. 他意识到须在很短时间就得把文章写完, 立即动手写起来.\njolt \nn (esp sing 尤作单数)  1 sudden bump or shake; jerk 震动; 摇晃; 颠簸: stop with a jolt 停止时震动了一下.  2 (fig 比喻) surprise; shock 惊奇; 震惊: The news of the accident gave her an unpleasant jolt/quite a jolt. 她听到出事的消息吃了一惊[大吃一惊].\njolty \nadj jolting 震动的; 摇晃的; 颠簸的.",
+    "phonetic": "/ dʒəʊlt; dʒolt/",
+    "origin": "待查",
+    "expansions": [
+      "The old bus jolted along (a rough track). 旧公共汽车（沿凹凸不平的小路）颠簸而行. 2(phr v) jolt sb into/out of sth make sb act by giving him a sudden shock 使某人受到震惊而采取行动: He was jolted out of his lethargy and into action when he realized he had only a short time to finish the article. 他意识到须在很短时间就得把文章写完, 立即动手写起来.",
+      "stop with a jolt 停止时震动了一下. 2 (fig 比喻) surprise; shock 惊奇; 震惊: The news of the accident gave her an unpleasant jolt/quite a jolt. 她听到出事的消息吃了一惊[大吃一惊]."
+    ],
+    "pronunciation": "/ dʒəʊlt; dʒolt/",
+    "accepted_answers": [
+      "（使某人",
+      "某物",
+      "）颠簸著移动"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joneses",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)",
+    "analysis": "n [pl] (idm 习语) keep up with the Joneses =>keep1 15.",
+    "phonetic": "/ ˈdʒəʊnzɪz; ˈdʒonzɪz/",
+    "origin": "待查",
+    "expansions": [
+      "习语)"
+    ],
+    "pronunciation": "/ ˈdʒəʊnzɪz; ˈdʒonzɪz/",
+    "accepted_answers": [
+      "习语)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jonquil",
     "type": "word",
     "pos": "N",
@@ -1844,6 +3557,29 @@
       "口)",
       "开玩笑",
       "说笑话儿"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joss-stick",
+    "type": "word",
+    "pos": "N",
+    "translation": "（点燃用的）香",
+    "analysis": "n thin stick that burns slowly and produces a smell of incense （点燃用的）香.",
+    "phonetic": "/ ˈdʒɒstɪk; ˈdʒɑːsˌstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "（点燃用的）香"
+    ],
+    "pronunciation": "/ ˈdʒɒstɪk; ˈdʒɑːsˌstɪk/",
+    "accepted_answers": [
+      "（点燃用的）香"
     ],
     "added_at": "",
     "review": {
@@ -1905,6 +3641,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "joule",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；)(；物)",
+    "analysis": "n (abbr 缩写 J) (physics 物) unit of energy or work 焦耳（能量或功的单位）.",
+    "phonetic": "/ dʒuːl; dʒul/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；)(；物)"
+    ],
+    "pronunciation": "/ dʒuːl; dʒul/",
+    "accepted_answers": [
+      "缩写",
+      ")(",
+      "物)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "journal",
     "type": "word",
     "pos": "N",
@@ -1934,6 +3695,31 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "journalese",
+    "type": "word",
+    "pos": "N",
+    "translation": "贬)；新闻文体（多陈辞套语的）；参看",
+    "analysis": "n [U] (derog贬) style of language thought to be typical of newspapers, containing many cliches 新闻文体（多陈辞套语的）. Cf 参看 officialese (official).",
+    "phonetic": "/ ˌdʒɜːnəˈliːz; ˌdʒɜːnlˈiz/",
+    "origin": "待查",
+    "expansions": [
+      "贬)；新闻文体（多陈辞套语的）；参看"
+    ],
+    "pronunciation": "/ ˌdʒɜːnəˈliːz; ˌdʒɜːnlˈiz/",
+    "accepted_answers": [
+      "贬)",
+      "新闻文体（多陈辞套语的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "journalism",
     "type": "word",
     "pos": "N",
@@ -1949,6 +3735,30 @@
       "新闻业",
       "新闻工作",
       "新闻工作的职业"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "journalistic",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "新闻事业的；新闻工作特有的",
+    "analysis": "adj [attrib 作定语] of journalism; characteristic of journalism 新闻事业的; 新闻工作特有的.",
+    "phonetic": "/ ˌdʒɜːnəˈlɪstɪk; ˌdʒɜːnlˈɪstɪk/",
+    "origin": "待查",
+    "expansions": [
+      "新闻事业的；新闻工作特有的"
+    ],
+    "pronunciation": "/ ˌdʒɜːnəˈlɪstɪk; ˌdʒɜːnlˈɪstɪk/",
+    "accepted_answers": [
+      "新闻事业的",
+      "新闻工作特有的"
     ],
     "added_at": "",
     "review": {
@@ -2038,6 +3848,81 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jove",
+    "type": "word",
+    "pos": "N",
+    "translation": "习语)；旧；口)(；用以表示惊奇或加强语气)",
+    "analysis": "n (idm 习语) by Jove (dated infml 旧, 口) (used to express surprise or to emphasize a statement 用以表示惊奇或加强语气): By Jove, I think you're right! 啊, 我想是你对了!",
+    "phonetic": "/ dʒəʊv; dʒov/",
+    "origin": "待查",
+    "expansions": [
+      "By Jove, I think you're right! 啊, 我想是你对了!"
+    ],
+    "pronunciation": "/ dʒəʊv; dʒov/",
+    "accepted_answers": [
+      "习语)",
+      "旧",
+      "口)(",
+      "用以表示惊奇或加强语气)"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jovial",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "愉快的；快乐的；和蔼而快乐的人",
+    "analysis": "adj very cheerful and good-humoured; merry 愉快的; 快乐的: a friendly jovial fellow 和蔼而快乐的人 * in a jovial mood 以愉快的心情.",
+    "phonetic": "/ ˈdʒəʊvɪəl; ˈdʒovɪəl/",
+    "origin": "待查",
+    "expansions": [
+      "a friendly jovial fellow 和蔼而快乐的人",
+      "in a jovial mood 以愉快的心情."
+    ],
+    "pronunciation": "/ ˈdʒəʊvɪəl; ˈdʒovɪəl/",
+    "accepted_answers": [
+      "愉快的",
+      "快乐的",
+      "和蔼而快乐的人"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joviality",
+    "type": "word",
+    "pos": "N",
+    "translation": "joviality",
+    "analysis": "n [U].",
+    "phonetic": "/ ˌdʒəʊvɪˈælətɪ; ˌdʒovɪˈælətɪ/",
+    "origin": "待查",
+    "expansions": [
+      "joviality"
+    ],
+    "pronunciation": "/ ˌdʒəʊvɪˈælətɪ; ˌdʒovɪˈælətɪ/",
+    "accepted_answers": [
+      "joviality"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jovially",
     "type": "word",
     "pos": "Adv",
@@ -2114,6 +3999,32 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "joyful",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "充满欢乐的；显示快乐的；令人高兴的",
+    "analysis": "adj filled with, showing or causing joy 充满欢乐的; 显示快乐的; 令人高兴的: joyful celebrations 欢乐的庆祝活动 * on this joyful occasion 在这愉快的时刻.",
+    "phonetic": "/ -fl; -fəl/",
+    "origin": "待查",
+    "expansions": [
+      "joyful celebrations 欢乐的庆祝活动",
+      "on this joyful occasion 在这愉快的时刻."
+    ],
+    "pronunciation": "/ -fl; -fəl/",
+    "accepted_answers": [
+      "充满欢乐的",
+      "显示快乐的",
+      "令人高兴的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "joyfully",
     "type": "word",
     "pos": "Adv",
@@ -2129,6 +4040,32 @@
       "不快乐的",
       "忧郁的",
       "悲伤的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "joyous",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "文)；充满欢乐的；显示快乐的",
+    "analysis": "adj (fml 文) filled with, showing or causing joy 充满欢乐的; 显示快乐的; 令人高兴的: a joyous sense of freedom 令人快乐的无拘无束的感觉.\njoyously \nadv. \njoyousness \nn [U].\njoy-ride \nn (infml 口) car ride taken for fun and excitement, usu without the owner's permission 开车兜风（通常指未得车主允许）: teenagers going for joy-rides round town 开著弄来的汽车在城里兜风的年轻人. \njoy-rider \nn. \njoy-riding \nn [U].",
+    "phonetic": "/ ˈdʒɔːɪəs; ˈdʒɔːɪəs/",
+    "origin": "待查",
+    "expansions": [
+      "a joyous sense of freedom 令人快乐的无拘无束的感觉.",
+      "teenagers going for joy-rides round town 开著弄来的汽车在城里兜风的年轻人."
+    ],
+    "pronunciation": "/ ˈdʒɔːɪəs; ˈdʒɔːɪəs/",
+    "accepted_answers": [
+      "文)",
+      "充满欢乐的",
+      "显示快乐的"
     ],
     "added_at": "",
     "review": {
@@ -2162,6 +4099,79 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jp",
+    "type": "word",
+    "pos": "word",
+    "translation": "缩写；律)；克莱夫·斯莫尔治安官",
+    "analysis": "abbr 缩写 = (law 律) Justice of the Peace: Clive Small JP 克莱夫·斯莫尔治安官.\nJr\nabbr 缩写 = Jnr.",
+    "phonetic": "/ ˌdʒeɪˈpiː; ˌdʒeˈpi/",
+    "origin": "待查",
+    "expansions": [
+      "Clive Small JP 克莱夫·斯莫尔治安官."
+    ],
+    "pronunciation": "/ ˌdʒeɪˈpiː; ˌdʒeˈpi/",
+    "accepted_answers": [
+      "缩写",
+      "律)",
+      "克莱夫·斯莫尔治安官"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "ju-jitsu",
+    "type": "word",
+    "pos": "N",
+    "translation": "柔术（柔道由此发展而来）",
+    "analysis": "n [U] Japanese art of self-defence from which judo was developed 柔术（柔道由此发展而来）.",
+    "phonetic": "/ dʒuːˈdʒɪtsuː; dʒuˈdʒɪtsu/",
+    "origin": "待查",
+    "expansions": [
+      "柔术（柔道由此发展而来）"
+    ],
+    "pronunciation": "/ dʒuːˈdʒɪtsuː; dʒuˈdʒɪtsu/",
+    "accepted_answers": [
+      "柔术（柔道由此发展而来）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "ju-ju",
+    "type": "word",
+    "pos": "N",
+    "translation": "（非洲西部的）符咒；神物；符咒或神物的魔力",
+    "analysis": "n (a) [C] W African charm believed to have magic power; fetish （非洲西部的）符咒, 神物. (b) [U] its magic power 符咒或神物的魔力.",
+    "phonetic": "/ ˈdʒuːdʒuː; ˈdʒudʒu/",
+    "origin": "待查",
+    "expansions": [
+      "（非洲西部的）符咒；神物；符咒或神物的魔力"
+    ],
+    "pronunciation": "/ ˈdʒuːdʒuː; ˈdʒudʒu/",
+    "accepted_answers": [
+      "（非洲西部的）符咒",
+      "神物",
+      "符咒或神物的魔力"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jubilant",
     "type": "word",
     "pos": "Adj",
@@ -2178,6 +4188,31 @@
       "欢欣的",
       "欣喜的（尤指由於成功）",
       "利物浦队夺得优胜杯後喜气洋洋"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jubilation",
+    "type": "word",
+    "pos": "N",
+    "translation": "欢欣；欣喜（尤指因成功引起的）；表示极大的喜悦",
+    "analysis": "n [U] great happiness, esp because of a success 欢欣, 欣喜（尤指因成功引起的）: express great jubilation 表示极大的喜悦.",
+    "phonetic": "/ ˌdʒuːbɪˈleɪʃn; ˌdʒublˈeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "express great jubilation 表示极大的喜悦."
+    ],
+    "pronunciation": "/ ˌdʒuːbɪˈleɪʃn; ˌdʒublˈeʃən/",
+    "accepted_answers": [
+      "欢欣",
+      "欣喜（尤指因成功引起的）",
+      "表示极大的喜悦"
     ],
     "added_at": "",
     "review": {
@@ -2251,6 +4286,31 @@
     "accepted_answers": [
       "犹太教",
       "犹太人的文化"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judas",
+    "type": "word",
+    "pos": "N",
+    "translation": "出卖朋友的人；叛徒；你这个叛徒",
+    "analysis": "n person who betrays a friend; traitor 出卖朋友的人; 叛徒: You Judas! 你这个叛徒!",
+    "phonetic": "/ ˈdʒuːdəs; ˈdʒudəs/",
+    "origin": "待查",
+    "expansions": [
+      "You Judas! 你这个叛徒!"
+    ],
+    "pronunciation": "/ ˈdʒuːdəs; ˈdʒudəs/",
+    "accepted_answers": [
+      "出卖朋友的人",
+      "叛徒",
+      "你这个叛徒"
     ],
     "added_at": "",
     "review": {
@@ -2343,6 +4403,31 @@
     ]
   },
   {
+    "term": "judicature",
+    "type": "word",
+    "pos": "N",
+    "translation": "律)；司法；法官（总称）",
+    "analysis": "n (law 律)1 [U] administration of justice 司法.  2 [CGp] group of judges; judiciary 法官（总称）.",
+    "phonetic": "/ ˈdʒuːdɪkətʃə(r); ˈdʒudɪkətʃə/",
+    "origin": "待查",
+    "expansions": [
+      "律)；司法；法官（总称）"
+    ],
+    "pronunciation": "/ ˈdʒuːdɪkətʃə(r); ˈdʒudɪkətʃə/",
+    "accepted_answers": [
+      "律)",
+      "司法",
+      "法官（总称）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "judicial",
     "type": "word",
     "pos": "Adj",
@@ -2360,6 +4445,129 @@
       "法庭的",
       "司法的",
       "法官的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judicially",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "律)；虽合法但被认为不公正的死刑判决；经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）",
+    "analysis": "adv.\njudicial murder \n(law 律) sentence of death that is legal but considered unjust 虽合法但被认为不公正的死刑判决.\njudicial separation \n(law 律) order that forbids a man and wife to live together but does not end the marriage 经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）.",
+    "phonetic": "/ -ʃəlɪ; -ʃəlɪ/",
+    "origin": "待查",
+    "expansions": [
+      "律)；虽合法但被认为不公正的死刑判决；经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）"
+    ],
+    "pronunciation": "/ -ʃəlɪ; -ʃəlɪ/",
+    "accepted_answers": [
+      "律)",
+      "虽合法但被认为不公正的死刑判决",
+      "经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judiciary",
+    "type": "word",
+    "pos": "N",
+    "translation": "（一国的）法官（总称）",
+    "analysis": "n [CGp] judges of a country collectively （一国的）法官（总称）.",
+    "phonetic": "/ dʒuːˈdɪʃərɪ; -ʃɪerɪ; dʒuˈdɪʃɪˌerɪ/",
+    "origin": "待查",
+    "expansions": [
+      "（一国的）法官（总称）"
+    ],
+    "pronunciation": "/ dʒuːˈdɪʃərɪ; -ʃɪerɪ; dʒuˈdɪʃɪˌerɪ/",
+    "accepted_answers": [
+      "（一国的）法官（总称）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judicious",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "有见识的；明智的；明智的选择、决定、言语",
+    "analysis": "adj showing or havinggood sense 有见识的; 明智的: a judicious choice, decision,remark 明智的选择、 决定、 言语.\njudiciously \nadv. \njudiciousness \nn [U].",
+    "phonetic": "/ dʒuːˈdɪʃəs; dʒuˈdɪʃəs/",
+    "origin": "待查",
+    "expansions": [
+      "a judicious choice, decision,remark 明智的选择、 决定、 言语."
+    ],
+    "pronunciation": "/ dʒuːˈdɪʃəs; dʒuˈdɪʃəs/",
+    "accepted_answers": [
+      "有见识的",
+      "明智的",
+      "明智的选择、决定、言语"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "judo",
+    "type": "word",
+    "pos": "N",
+    "translation": "柔道",
+    "analysis": "n [U] sport of wrestling and self-defence between two people who try to throw each other to the ground 柔道.",
+    "phonetic": "/ ˈdʒuːdəʊ; ˈdʒudo/",
+    "origin": "待查",
+    "expansions": [
+      "柔道"
+    ],
+    "pronunciation": "/ ˈdʒuːdəʊ; ˈdʒudo/",
+    "accepted_answers": [
+      "柔道"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jug",
+    "type": "word",
+    "pos": "N",
+    "translation": ")(；（有柄有嘴盛液体用的）大罐；壶；将牛奶倒入罐中",
+    "analysis": "n  1 [C] (Brit) (US pitcher) (a) deep vessel, with a handle and a lip, for holding and pouring liquids （有柄有嘴盛液体用的）大罐, 壶: pour milk into/from a jug 将牛奶倒入罐中[从罐中倒出] * a milk/coffee/water jug 牛奶罐[咖啡壶/水罐]. (b) amount of liquid contained in this 一罐或一壶液体（之量）: spill a whole jug of juice 洒了整整一罐汁液.  2 [U] (sl 俚) prison 监狱: three months in jug 坐三个月牢.",
+    "phonetic": "/ dʒʌg; dʒʌg/",
+    "origin": "待查",
+    "expansions": [
+      "pour milk into/from a jug 将牛奶倒入罐中[从罐中倒出]",
+      "a milk/coffee/water jug 牛奶罐[咖啡壶/水罐]. (b) amount of liquid contained in this 一罐或一壶液体（之量）: spill a whole jug of juice 洒了整整一罐汁液. 2 [U] (sl 俚) prison 监狱: three months in jug 坐三个月牢."
+    ],
+    "pronunciation": "/ dʒʌg; dʒʌg/",
+    "accepted_answers": [
+      ")(",
+      "（有柄有嘴盛液体用的）大罐",
+      "壶",
+      "将牛奶倒入罐中"
     ],
     "added_at": "",
     "review": {
@@ -2418,6 +4626,57 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "juggle",
+    "type": "word",
+    "pos": "V",
+    "translation": "耍把戏；玩杂耍；连续抛接（若干球等）",
+    "analysis": "v  1 [I, Ipr, Tn] ~ (with sth) throw (a number of objects, usu balls) up into the air, catch them and throw them into the air again and again, keeping one or more in the air at the same time 耍把戏; 玩杂耍; 连续抛接（若干球等）: When did you learn to juggle? 你什麽时候学的杂耍? * to juggle (with) plates, balls, hoops, etc 用碟子、 球、 环等耍把戏.  2 [Ipr, Tn] ~ with sth change the arrangement of sth constantly in order to achieve a satisfactory result or to deceive people 不断改变某事的安排（以得到满意的结果或以骗人）: juggling with one's timetable to fit in the extra classes 反覆修改自己的时间表以便插入额外课程 * The government has been juggling (with) the figures to hide the latest rise in unemployment. 政府为隐瞒最近失业率上升而一再更改数字.",
+    "phonetic": "/ ˈdʒʌgl; ˈdʒʌgl/",
+    "origin": "待查",
+    "expansions": [
+      "When did you learn to juggle? 你什麽时候学的杂耍?",
+      "to juggle (with) plates, balls, hoops, etc 用碟子、 球、 环等耍把戏. 2 [Ipr, Tn] ~ with sth change the arrangement of sth constantly in order to achieve a satisfactory result or to deceive people 不断改变某事的安排（以得到满意的结果或以骗人）: juggling with one's timetable to fit in the extra classes 反覆修改自己的时间表以便插入额外课程",
+      "The government has been juggling (with) the figures to hide the latest rise in unemployment. 政府为隐瞒最近失业率上升而一再更改数字."
+    ],
+    "pronunciation": "/ ˈdʒʌgl; ˈdʒʌgl/",
+    "accepted_answers": [
+      "耍把戏",
+      "玩杂耍",
+      "连续抛接（若干球等）"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juggler",
+    "type": "word",
+    "pos": "N",
+    "translation": ")耍把戏的人；见插图",
+    "analysis": "n person who juggles(1) 耍把戏的人. =>illus 见插图.",
+    "phonetic": "/ ˈdʒʌglə(r); ˈdʒʌglə/",
+    "origin": "待查",
+    "expansions": [
+      ")耍把戏的人；见插图"
+    ],
+    "pronunciation": "/ ˈdʒʌglə(r); ˈdʒʌglə/",
+    "accepted_answers": [
+      ")耍把戏的人",
+      "见插图"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jugular",
     "type": "word",
     "pos": "Adj",
@@ -2433,6 +4692,59 @@
       "颈部的",
       "喉部的",
       "颈静脉"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juice",
+    "type": "word",
+    "pos": "N",
+    "translation": "果汁；果汁饮料；从柠檬中多榨些汁",
+    "analysis": "n  1 [U, C] (a) liquid obtained from a fruit; drink made from this 果汁; 果汁饮料: squeeze some more juice from a lemon 从柠檬中多榨些汁 * a carton of fresh orange, pineapple, grapefruit, etc juice 一纸盒新鲜的橙汁、 菠萝汁、 葡萄柚汁 * One tomato juice and one soup, please. 请来一份蕃茄汁和一份汤. (b) liquid that comes from a piece of meat when it is cooked （烹肉时出的）肉汁: Wrapping aluminium foil round a joint allows the meat to cook in its own juice/juices. 用铝箔把肉包住使之在原汁中烹制.  2 [C usu pl 通常作复数] liquid in the stomach or another part of the body that helps sb to digest food 胃液; 消化液: gastric/digestive juices 胃[消化]液.  3 [U] (infml 口) electric current 电流: turn on the juice 接通电流.  4 [U] (infml 口) petrol 汽油: We ran out of juice on the motorway. 我们在高速公路上行驶时汽油用完了.  5 (idm 习语) stew in one's own juice => stew.",
+    "phonetic": "/ dʒuːs; dʒus/",
+    "origin": "待查",
+    "expansions": [
+      "squeeze some more juice from a lemon 从柠檬中多榨些汁",
+      "a carton of fresh orange, pineapple, grapefruit, etc juice 一纸盒新鲜的橙汁、 菠萝汁、 葡萄柚汁",
+      "One tomato juice and one soup, please. 请来一份蕃茄汁和一份汤. (b) liquid that comes from a piece of meat when it is cooked （烹肉时出的）肉汁: Wrapping aluminium foil round a joint allows the meat to cook in its own juice/juices. 用铝箔把肉包住使之在原汁中烹制. 2 [C usu pl 通常作复数] liquid in the stomach or another part of the body that helps sb to digest food 胃液; 消化液: gastric/digestive juices 胃[消化]液. 3 [U] (infml 口) electric current 电流: turn on the juice 接通电流. 4 [U] (infml 口) petrol 汽油: We ran out of juice on the motorway. 我们在高速公路上行驶时汽油用完了. 5 (idm 习语) stew in one's own juice => stew."
+    ],
+    "pronunciation": "/ dʒuːs; dʒus/",
+    "accepted_answers": [
+      "果汁",
+      "果汁饮料",
+      "从柠檬中多榨些汁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juicy",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "多汁又好吃的；味道好的；新鲜多汁的橙子",
+    "analysis": "adj (-ier, -iest)  1 containing a lot of juice and being enjoyable to eat; succulent 多汁又好吃的; 味道好的: fresh juicy oranges 新鲜多汁的橙子.  2 (infml 口) interesting (esp because scandalous) 有趣味的（尤指丑事）: juicy gossip, stories, scenes, etc 有趣的流言、 故事、 情景等 * Tell me all the juicy details! 把有趣的细节都讲给我听!  3 (infml 口) producing a lot of money; profitable 赚钱的; 获利的: a nice juicy contract 有钱可赚的合同.\njuiciness \nn [U].",
+    "phonetic": "/ ˈdʒuːsɪ; ˈdʒusɪ/",
+    "origin": "待查",
+    "expansions": [
+      "fresh juicy oranges 新鲜多汁的橙子. 2 (infml 口) interesting (esp because scandalous) 有趣味的（尤指丑事）: juicy gossip, stories, scenes, etc 有趣的流言、 故事、 情景等",
+      "Tell me all the juicy details! 把有趣的细节都讲给我听! 3 (infml 口) producing a lot of money; profitable 赚钱的; 获利的: a nice juicy contract 有钱可赚的合同."
+    ],
+    "pronunciation": "/ ˈdʒuːsɪ; ˈdʒusɪ/",
+    "accepted_answers": [
+      "多汁又好吃的",
+      "味道好的",
+      "新鲜多汁的橙子"
     ],
     "added_at": "",
     "review": {
@@ -2514,6 +4826,56 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "julian calendar",
+    "type": "phrase",
+    "pos": "word",
+    "translation": "儒略历（公元前；年凯撒倡用的）；参看",
+    "analysis": "calendar introduced by Julius Caesar in Rome in 46 BC 儒略历（公元前46年凯撒倡用的）. Cf 参看 Gregorian calendar (Gregorian). =>App 5 见附录5.",
+    "phonetic": "/ ˌdʒuːlɪənˈkælɪndə(r); ˌdʒuljənˈkæləndə/",
+    "origin": "待查",
+    "expansions": [
+      "儒略历（公元前；年凯撒倡用的）；参看"
+    ],
+    "pronunciation": "/ ˌdʒuːlɪənˈkælɪndə(r); ˌdʒuljənˈkæləndə/",
+    "accepted_answers": [
+      "儒略历（公元前",
+      "年凯撒倡用的）",
+      "参看"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/C/C-a.txt"
+  },
+  {
+    "term": "july",
+    "type": "word",
+    "pos": "N",
+    "translation": "缩写；七月；关於",
+    "analysis": "n [U, C] (abbr 缩写 Jul) the seventh month of the year, next after June 七月. For the uses of July see the examples at April. 关於July的用法见April词条中的示例.",
+    "phonetic": "/ dʒuːˈlaɪ; dʒuˈlaɪ/",
+    "origin": "待查",
+    "expansions": [
+      "缩写；七月；关於"
+    ],
+    "pronunciation": "/ dʒuːˈlaɪ; dʒuˈlaɪ/",
+    "accepted_answers": [
+      "缩写",
+      "七月",
+      "关於"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jumble",
     "type": "word",
     "pos": "V",
@@ -2542,6 +4904,58 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "jumbo",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "口)；特大的；极大的",
+    "analysis": "adj [attrib 作定语] (infml 口) unusually large; enormous 特大的; 极大的: a jumbo(-sized) packet of washing-powder 特大（型）包装的洗衣粉.\njumbo \nn (pl ~s) (also jumbo jet) very large jet aircraft that can carry several hundred passengers 珍宝喷气客机.",
+    "phonetic": "/ ˈdʒʌmbəʊ; ˈdʒʌmbo/",
+    "origin": "待查",
+    "expansions": [
+      "a jumbo(-sized) packet of washing-powder 特大（型）包装的洗衣粉."
+    ],
+    "pronunciation": "/ ˈdʒʌmbəʊ; ˈdʒʌmbo/",
+    "accepted_answers": [
+      "口)",
+      "特大的",
+      "极大的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jump",
+    "type": "word",
+    "pos": "N",
+    "translation": "跳跃；跳伞；出色的跳跃",
+    "analysis": "n  1 [C] act of jumping 跳; 跃; 跳跃: a parachute jump 跳伞 * a superb jump 出色的跳跃.  2 [C] obstacle to be jumped over （需跳过的）障碍: The horse fell at the last jump. 那马在跳最後一个障碍时跌倒了. * The water-jump is the most difficult part of the race. 跨跃水沟是赛马中最困难的一项.  3 [C] ~ (in sth) sudden rise in amount, price or value （数额、 价格或价值的）突增, 突升, 暴涨: The company's results show a huge jump in profits. 公司的结算显示利润大增.  4 [C]sudden change to a different condition or set of circumstances; leap （情况或环境的）突然改变, 飞跃: the country's great jump forward to a new technological era 该国向新技术时代的大飞跃.  5 the jumps [pl](infml 口) state of extreme nervousness with uncontrollablemovements of the body （神经性）全身颤抖: get/have the jumps 混身颤抖.  6 (idm 习语) be for the high jump => high jump (high1). get the jump on sb (infml 口) gain an advantage over sb 得到超越某人的优势. give sb a `jump (infml 口) shock or surprise sb so that he makes a sudden movement 吓某人一跳: Oh, you did give me a jump! 啊, 你可真吓了我一跳! keep, etc one jump ahead (of sb) remain one stage ahead (of a rival) 保持领先於（对手的）地位. take a running jump => running.\njumpy \nadj (-ier, -iest) (infml 口) nervous; anxious 紧张的; 焦虑的. \njumpily \nadv. \njumpiness \nn [U].",
+    "phonetic": "/ dʒʌmp; dʒʌmp/",
+    "origin": "待查",
+    "expansions": [
+      "a parachute jump 跳伞",
+      "a superb jump 出色的跳跃. 2 [C] obstacle to be jumped over （需跳过的）障碍: The horse fell at the last jump. 那马在跳最後一个障碍时跌倒了.",
+      "The water-jump is the most difficult part of the race. 跨跃水沟是赛马中最困难的一项. 3 [C] ~ (in sth) sudden rise in amount, price or value （数额、 价格或价值的）突增, 突升, 暴涨: The company's results show a huge jump in profits. 公司的结算显示利润大增. 4 [C]sudden change to a different condition or set of circumstances; leap （情况或环境的）突然改变, 飞跃: the country's great jump forward to a new technological era 该国向新技术时代的大飞跃. 5 the jumps [pl](infml 口) state of extreme nervousness with uncontrollablemovements of the body （神经性）全身颤抖: get/have the jumps 混身颤抖. 6 (idm 习语) be for the high jump => high jump (high1). get the jump on sb (infml 口) gain an advantage over sb 得到超越某人的优势. give sb a `jump (infml 口) shock or surprise sb so that he makes a sudden movement 吓某人一跳: Oh, you did give me a jump! 啊, 你可真吓了我一跳! keep, etc one jump ahead (of sb) remain one stage ahead (of a rival) 保持领先於（对手的）地位. take a running jump => running."
+    ],
+    "pronunciation": "/ dʒʌmp; dʒʌmp/",
+    "accepted_answers": [
+      "跳跃",
+      "跳伞",
+      "出色的跳跃"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jumper",
     "type": "word",
     "pos": "N",
@@ -2557,6 +4971,33 @@
       "无袖连衣裙",
       "跳跃的人、鸟兽或昆虫",
       "缩写"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "junction",
+    "type": "word",
+    "pos": "N",
+    "translation": "公路或铁路的交叉点；交叉路口；靠近伦敦路与乔叟大街交叉口的酒馆",
+    "analysis": "n  1 [C] place where roads or railway lines meet 公路或铁路的交叉点; 交叉路口: a pub near the junction of London Road and Chaucer Avenue 靠近伦敦路与乔叟大街交叉口的酒馆 * Join the M1 at Junction 11. 在11号交叉路口与1号高速公路会合. * The accident happened at one of the country's busiest railway junctions. 事故发生在该国一个极繁忙的铁路交叉点处.  2 [C, U] (fml 文) (instance of) joining or being joined 连接; 会合: effect a junction of two armies 两军会师.\njunction box \nbox containing a connection between electric circuits 接线盒.",
+    "phonetic": "/ ˈdʒʌŋkʃn; ˈdʒʌŋkʃən/",
+    "origin": "待查",
+    "expansions": [
+      "a pub near the junction of London Road and Chaucer Avenue 靠近伦敦路与乔叟大街交叉口的酒馆",
+      "Join the M1 at Junction 11. 在11号交叉路口与1号高速公路会合.",
+      "The accident happened at one of the country's busiest railway junctions. 事故发生在该国一个极繁忙的铁路交叉点处. 2 [C, U] (fml 文) (instance of) joining or being joined 连接; 会合: effect a junction of two armies 两军会师."
+    ],
+    "pronunciation": "/ ˈdʒʌŋkʃn; ˈdʒʌŋkʃən/",
+    "accepted_answers": [
+      "公路或铁路的交叉点",
+      "交叉路口",
+      "靠近伦敦路与乔叟大街交叉口的酒馆"
     ],
     "added_at": "",
     "review": {
@@ -2671,6 +5112,33 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "junior",
+    "type": "word",
+    "pos": "Adj",
+    "translation": ")（较某人）地位或身分低的；办公室的下级职员；他比库珀太太小几岁",
+    "analysis": "adj  1 ~ (to sb) lower in rank or standing (than sb) （较某人）地位或身分低的: a junior clerk in an office 办公室的下级职员 * He is several years junior to Mrs Cooper. 他比库珀太太小几岁.  2 Junior (abbrs 缩写 Jnr, Jr, Jun) (esp US) (used after a name to refer to a son who has the same name as his father or to the younger of two boys having the same name in a school, university, etc 父子同名时, 用於儿子姓名之後, 两学生同姓时, 用於年幼者之名後, 以示区别): Sammy Davies, Jnr 小萨米·戴维斯. Cf 参看 minor 2.  3 (Brit) of or intended for children from the ages of 7 to 11 （7至11岁）儿童的: junior school 小学. Cf 参看 senior.\njunior \nn  1 person who holds a low rank in a profession; person with an unimportant job （一职业中）地位较低者; 从事次要工作的人: the office junior 办公室的一般职员.  2 [sing] (used with his, her, your, etc 与his、 her、 your等连用) person who is a specified number of years younger than sb else 比某人小若干岁: He is three years her junior/her junior by three years. 他比她小三岁.  3 (Brit) child who goes to junior school 小学生: The juniors' Christmas party is on Tuesday. 小学生的圣诞节联欢会於星期二举行.  4 (US) student in his third year of a four-year course at college or high school （四年制的大学或中学的）三年级学生.  5 (US infml 口) way of addressing a son in a family 家庭中称呼儿子的用语: Come here, Junior! 到这儿来, 小儿子!",
+    "phonetic": "/ ˈdʒuːnɪə(r); ˈdʒunjə/",
+    "origin": "待查",
+    "expansions": [
+      "a junior clerk in an office 办公室的下级职员",
+      "He is several years junior to Mrs Cooper. 他比库珀太太小几岁. 2 Junior (abbrs 缩写 Jnr, Jr, Jun) (esp US) (used after a name to refer to a son who has the same name as his father or to the younger of two boys having the same name in a school, university, etc 父子同名时, 用於儿子姓名之後, 两学生同姓时, 用於年幼者之名後, 以示区别): Sammy Davies, Jnr 小萨米·戴维斯. Cf 参看 minor 2. 3 (Brit) of or intended for children from the ages of 7 to 11 （7至11岁）儿童的: junior school 小学. Cf 参看 senior.",
+      "the office junior 办公室的一般职员. 2 [sing] (used with his, her, your, etc 与his、 her、 your等连用) person who is a specified number of years younger than sb else 比某人小若干岁: He is three years her junior/her junior by three years. 他比她小三岁. 3 (Brit) child who goes to junior school 小学生: The juniors' Christmas party is on Tuesday. 小学生的圣诞节联欢会於星期二举行. 4 (US) student in his third year of a four-year course at college or high school （四年制的大学或中学的）三年级学生. 5 (US infml 口) way of addressing a son in a family 家庭中称呼儿子的用语: Come here, Junior! 到这儿来, 小儿子!"
+    ],
+    "pronunciation": "/ ˈdʒuːnɪə(r); ˈdʒunjə/",
+    "accepted_answers": [
+      ")（较某人）地位或身分低的",
+      "办公室的下级职员",
+      "他比库珀太太小几岁"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "juniper",
     "type": "word",
     "pos": "N",
@@ -2714,6 +5182,33 @@
       "口)",
       "无用的或无价值的东西",
       "汽车行李箱中的所有废旧杂物"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "junket",
+    "type": "word",
+    "pos": "N",
+    "translation": "（一份）凝乳食品（用凝乳制成；常加糖和香料）；口；贬；政府官员用公费的旅游",
+    "analysis": "n  1 [C, U] (dish of) sweet custard-like pudding made of milk curdled with rennet, and often sweetened and flavoured （一份）凝乳食品（用凝乳制成, 常加糖和香料）.  2 [C] (infml derog 口, 贬 esp US) trip made esp for pleasure by a government official and paid for with government money 政府官员用公费的旅游.  3 social gathering for a feast; picnic 宴会; 野餐.\njunket \nv [I] make merry; feast 作乐; 尽情吃喝. junketing n  1 [U] (infml derog 口, 贬 esp US) party or celebration for visiting government officials, paid for with government money （用公款为来访的政府官员举行的）招待会.  2 [C, U] (period of) feasting or merry-making 举行宴会; 作乐.",
+    "phonetic": "/ ˈdʒʌŋkɪt; ˈdʒʌŋkɪt/",
+    "origin": "待查",
+    "expansions": [
+      "（一份）凝乳食品（用凝乳制成；常加糖和香料）；口；贬；政府官员用公费的旅游"
+    ],
+    "pronunciation": "/ ˈdʒʌŋkɪt; ˈdʒʌŋkɪt/",
+    "accepted_answers": [
+      "（一份）凝乳食品（用凝乳制成",
+      "常加糖和香料）",
+      "口",
+      "贬",
+      "政府官员用公费的旅游"
     ],
     "added_at": "",
     "review": {
@@ -2772,6 +5267,30 @@
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
+    "term": "junta",
+    "type": "word",
+    "pos": "N",
+    "translation": "尤作贬义)；在革命中以武力夺取政权并统治国家的（尤指军官的）集团",
+    "analysis": "n [CGp] (esp derog 尤作贬义) group, esp of military officers, who rule a country after taking power by force in a revolution 在革命中以武力夺取政权并统治国家的（尤指军官的）集团.",
+    "phonetic": "/ ˈdʒʌntə; ˈhUntə; ˈhJntə/",
+    "origin": "待查",
+    "expansions": [
+      "尤作贬义)；在革命中以武力夺取政权并统治国家的（尤指军官的）集团"
+    ],
+    "pronunciation": "/ ˈdʒʌntə; ˈhUntə; ˈhJntə/",
+    "accepted_answers": [
+      "尤作贬义)",
+      "在革命中以武力夺取政权并统治国家的（尤指军官的）集团"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
     "term": "jupiter",
     "type": "word",
     "pos": "N",
@@ -2786,6 +5305,237 @@
     "accepted_answers": [
       "天)",
       "木星"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juridical",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "法律的；诉讼程序的",
+    "analysis": "adj of law or legal proceedings 法律的; 诉讼程序的.",
+    "phonetic": "/ dʒUəˈrɪdɪkl; dʒJˈrɪdɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "法律的；诉讼程序的"
+    ],
+    "pronunciation": "/ dʒUəˈrɪdɪkl; dʒJˈrɪdɪkl/",
+    "accepted_answers": [
+      "法律的",
+      "诉讼程序的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jurisdiction",
+    "type": "word",
+    "pos": "N",
+    "translation": "司法；司法权；审判权",
+    "analysis": "n [U] (a) authority to carry out justice and to interpret and apply laws; right to exercise legal authority 司法; 司法权; 审判权; 裁判权: The court has no jurisdiction over foreign diplomats living in this country. 法院对驻本国的外交官无裁判权. (b) limits within which legal authority may be exercised 管辖权限: to come within/fall outside sb's jurisdiction 在某人管辖权限之内[外].",
+    "phonetic": "/ ˌdʒUərɪsˈdɪkʃn; ˌdʒJrɪsˈdɪkʃən/",
+    "origin": "待查",
+    "expansions": [
+      "The court has no jurisdiction over foreign diplomats living in this country. 法院对驻本国的外交官无裁判权. (b) limits within which legal authority may be exercised 管辖权限: to come within/fall outside sb's jurisdiction 在某人管辖权限之内[外]."
+    ],
+    "pronunciation": "/ ˌdʒUərɪsˈdɪkʃn; ˌdʒJrɪsˈdɪkʃən/",
+    "accepted_answers": [
+      "司法",
+      "司法权",
+      "审判权"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jurisprudence",
+    "type": "word",
+    "pos": "N",
+    "translation": "法学；法理学",
+    "analysis": "n [U] science or philosophy of law 法学; 法理学.",
+    "phonetic": "/ ˌdʒUərɪsˈpruːdns; ˌdʒJrɪsˈprudns/",
+    "origin": "待查",
+    "expansions": [
+      "法学；法理学"
+    ],
+    "pronunciation": "/ ˌdʒUərɪsˈpruːdns; ˌdʒJrɪsˈprudns/",
+    "accepted_answers": [
+      "法学",
+      "法理学"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jurist",
+    "type": "word",
+    "pos": "N",
+    "translation": "法学家；法理学家",
+    "analysis": "n expert in law 法学家; 法理学家.",
+    "phonetic": "/ ˈdʒUərɪst; ˈdʒJrɪst/",
+    "origin": "待查",
+    "expansions": [
+      "法学家；法理学家"
+    ],
+    "pronunciation": "/ ˈdʒUərɪst; ˈdʒJrɪst/",
+    "accepted_answers": [
+      "法学家",
+      "法理学家"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juror",
+    "type": "word",
+    "pos": "N",
+    "translation": "陪审团之一员；陪审员；评判员",
+    "analysis": "n member of a jury 陪审团之一员; 陪审员; 评判员.",
+    "phonetic": "/ ˈdʒUərə(r); ˈdʒJrə/",
+    "origin": "待查",
+    "expansions": [
+      "陪审团之一员；陪审员；评判员"
+    ],
+    "pronunciation": "/ ˈdʒUərə(r); ˈdʒJrə/",
+    "accepted_answers": [
+      "陪审团之一员",
+      "陪审员",
+      "评判员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "jury",
+    "type": "word",
+    "pos": "N",
+    "translation": "陪审团；陪审团由七男五女组成；陪审团做出被告无罪的裁决",
+    "analysis": "n [CGp]  1 group of people in a lawcourt who have been chosen to listen to the facts in a case and to decide whether the accused person is guilty or not guilty 陪审团: Seven men and five women sat on (ie were members of) the jury. 陪审团由七男五女组成. * The jury returned a verdict of (ie reached a decision that the accused was) not guilty. 陪审团做出被告无罪的裁决. * The jury is/are still out, ie Members of the jury are still thinking about their decision. 陪审团仍在进行审议. * trial by jury 由陪审团审理.  2 group of people chosen to decide the winner or winners in a competition （比赛的）评判委员会: The jury is/are about to announce the winners. 评委会即将宣布优胜者.\njury-box \nn enclosure where a jury sits in a court 陪审团席.",
+    "phonetic": "/ ˈdʒUərɪ; ˈdʒJrɪ/",
+    "origin": "待查",
+    "expansions": [
+      "Seven men and five women sat on (ie were members of) the jury. 陪审团由七男五女组成.",
+      "The jury returned a verdict of (ie reached a decision that the accused was) not guilty. 陪审团做出被告无罪的裁决.",
+      "The jury is/are still out, ie Members of the jury are still thinking about their decision. 陪审团仍在进行审议.",
+      "trial by jury 由陪审团审理. 2 group of people chosen to decide the winner or winners in a competition （比赛的）评判委员会: The jury is/are about to announce the winners. 评委会即将宣布优胜者."
+    ],
+    "pronunciation": "/ ˈdʒUərɪ; ˈdʒJrɪ/",
+    "accepted_answers": [
+      "陪审团",
+      "陪审团由七男五女组成",
+      "陪审团做出被告无罪的裁决"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "juryman",
+    "type": "word",
+    "pos": "N",
+    "translation": "阴性作；陪审员",
+    "analysis": "n (fem 阴性作 jurywoman / 5dVUErIwUmEn; `dVJrI9wJmEn/) member of a jury 陪审员.",
+    "phonetic": "/ ˈdʒUərɪmən; ˈdʒJrɪmən/",
+    "origin": "待查",
+    "expansions": [
+      "阴性作；陪审员"
+    ],
+    "pronunciation": "/ ˈdʒUərɪmən; ˈdʒJrɪmən/",
+    "accepted_answers": [
+      "阴性作",
+      "陪审员"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "just",
+    "type": "word",
+    "pos": "Adj",
+    "translation": "公道的；公正的；公平的",
+    "analysis": "adj  1 acting or being in accordance with what is morally right and proper; fair 公道的; 公正的; 公平的: a just and honourable ruler 公正而正直的统治者 * a just decision, law, solution, society 公正的判决、 法律、 结论、 社会 * a just (ie legally right) sentence/verdict 合法的判决[裁决] * be just in one's dealings with sb 公平地对待某人.  2 reasonable; well-founded 合理的; 有充分根据的: a just complaint 有根据的申诉 * just demands 合理的要求 * criticized without just cause 受到无端批评.  3 deserved; right 理所当然的; 正确的: a just reward/punishment 应有的报偿[惩罚] * get one's just deserts 得到应得的赏罚.\nthe just \nn [pl v]  1 just people 正直的人们.  2 (idm 习语) sleep the sleep of the just => sleep2.\njustly \nadv: to act justly 行事公道 * You can be justly proud of your achievement. 你有理由为自己的成就而自豪.\njustness \nn [U].",
+    "phonetic": "/ dʒʌst; dʒʌst/",
+    "origin": "待查",
+    "expansions": [
+      "a just and honourable ruler 公正而正直的统治者",
+      "a just decision, law, solution, society 公正的判决、 法律、 结论、 社会",
+      "a just (ie legally right) sentence/verdict 合法的判决[裁决]",
+      "be just in one's dealings with sb 公平地对待某人. 2 reasonable; well-founded 合理的; 有充分根据的: a just complaint 有根据的申诉",
+      "just demands 合理的要求"
+    ],
+    "pronunciation": "/ dʒʌst; dʒʌst/",
+    "accepted_answers": [
+      "公道的",
+      "公正的",
+      "公平的"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "justice",
+    "type": "word",
+    "pos": "N",
+    "translation": "公平；公正；正义",
+    "analysis": "n  1 [U] (a) right and fair behaviour or treatment 公平; 公正; 正义: laws based on the principles of justice 以公正为原则的法律 * efforts to achieve complete social justice 为达到社会的完全公道而做的努力. (b) quality of being reasonable or fair 合理; 公道: He demanded, with some justice, that he should be given an opportunity to express his views. 他要求给他一次机会表达自己的观点, 这也不无道理.  2 [U] the law and its administration 法律制裁; 司法; 审判: a court of justice 法庭 * a miscarriage of justice, ie a wrong legal decision 误判.  3 Justice [C] (used as a title of a High Court Judge 用作高等法院法官的头衔): Mr Justice Smith 法官史密斯先生.  4 [C] (US) judge of a lawcourt 法官.  5 (idm 习语) bring sb to `justice arrest, try and sentence (a criminal) 使（犯人）归案受审. ,do oneself `justice behave in a way that is worthy of one's abilities 发挥自己的能力: He didn't do himself justice in the exams, ie did not perform as well as he was capable of doing. 他在考试中没有发挥出自己的能力. do justice to sb/sth (a) recognize the true value of sb/sth; treat sb/sth fairly 承认某人[某事物]的价值; 公平对待某人[某事物]: To do her justice, we must admit that she did deserve to win. 说句公道话, 我们得承认她应该获胜. * The photograph does not do full justice to (ie does not truly reproduce) the rich colours of the gardens. 这张照片没有真实地反映出花园的丰富色彩. (b) deal with sb/sth adequately 尽心处理或对待某人[某事物]: Since we'd already eaten, we couldn't do justice to her cooking, ie could not eat all the food she had cooked. 我们已经吃过饭了, 所以吃不下她做的食物了.\nJustice of the Peace (abbr 缩写 JP) \nperson who judges less serious cases in a local lawcourt; magistrate （地方法院审理一般案件的）治安官, 治安法官.",
+    "phonetic": "/ ˈdʒʌstɪs; ˈdʒʌstɪs/",
+    "origin": "待查",
+    "expansions": [
+      "laws based on the principles of justice 以公正为原则的法律",
+      "efforts to achieve complete social justice 为达到社会的完全公道而做的努力. (b) quality of being reasonable or fair 合理; 公道: He demanded, with some justice, that he should be given an opportunity to express his views. 他要求给他一次机会表达自己的观点, 这也不无道理. 2 [U] the law and its administration 法律制裁; 司法; 审判: a court of justice 法庭",
+      "a miscarriage of justice, ie a wrong legal decision 误判. 3 Justice [C] (used as a title of a High Court Judge 用作高等法院法官的头衔): Mr Justice Smith 法官史密斯先生. 4 [C] (US) judge of a lawcourt 法官. 5 (idm 习语) bring sb to `justice arrest, try and sentence (a criminal) 使（犯人）归案受审. ,do oneself `justice behave in a way that is worthy of one's abilities 发挥自己的能力: He didn't do himself justice in the exams, ie did not perform as well as he was capable of doing. 他在考试中没有发挥出自己的能力. do justice to sb/sth (a) recognize the true value of sb/sth; treat sb/sth fairly 承认某人[某事物]的价值; 公平对待某人[某事物]: To do her justice, we must admit that she did deserve to win. 说句公道话, 我们得承认她应该获胜.",
+      "The photograph does not do full justice to (ie does not truly reproduce) the rich colours of the gardens. 这张照片没有真实地反映出花园的丰富色彩. (b) deal with sb/sth adequately 尽心处理或对待某人[某事物]: Since we'd already eaten, we couldn't do justice to her cooking, ie could not eat all the food she had cooked. 我们已经吃过饭了, 所以吃不下她做的食物了."
+    ],
+    "pronunciation": "/ ˈdʒʌstɪs; ˈdʒʌstɪs/",
+    "accepted_answers": [
+      "公平",
+      "公正",
+      "正义"
     ],
     "added_at": "",
     "review": {
@@ -2812,6 +5562,29 @@
       "可证明为正当的",
       "有理由的",
       "合理的解释、行为、用法"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/J/J.TXT"
+  },
+  {
+    "term": "justifiably",
+    "type": "word",
+    "pos": "Adv",
+    "translation": "有理由谨慎的、愤怒的、骄傲的等",
+    "analysis": "adv: justifiably cautious, indignant, proud, etc 有理由谨慎的、 愤怒的、 骄傲的等.",
+    "phonetic": "/ -əblɪ; -əblɪ/",
+    "origin": "待查",
+    "expansions": [
+      "justifiably cautious, indignant, proud, etc 有理由谨慎的、 愤怒的、 骄傲的等."
+    ],
+    "pronunciation": "/ -əblɪ; -əblɪ/",
+    "accepted_answers": [
+      "有理由谨慎的、愤怒的、骄傲的等"
     ],
     "added_at": "",
     "review": {

@@ -1,5 +1,51 @@
 [
   {
+    "term": "-ical",
+    "type": "word",
+    "pos": "word",
+    "translation": "-ical",
+    "analysis": "adjs.",
+    "phonetic": "/ ˌbaɪəˈgrfɪk,-ɪkl; ˌbaɪəˈgræfɪk,-ɪkl/",
+    "origin": "待查",
+    "expansions": [
+      "-ical"
+    ],
+    "pronunciation": "/ ˌbaɪəˈgrfɪk,-ɪkl; ˌbaɪəˈgræfɪk,-ɪkl/",
+    "accepted_answers": [
+      "-ical"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/B/B-f,g,h,i.txt"
+  },
+  {
+    "term": "-isation",
+    "type": "word",
+    "pos": "N",
+    "translation": "-isation",
+    "analysis": "n [U].",
+    "phonetic": "/ əˌklaɪmətaɪˈzeɪʃn; -tɪˈz-; əˌklaɪmətəˈzeʃən/",
+    "origin": "待查",
+    "expansions": [
+      "-isation"
+    ],
+    "pronunciation": "/ əˌklaɪmətaɪˈzeɪʃn; -tɪˈz-; əˌklaɪmətəˈzeʃən/",
+    "accepted_answers": [
+      "-isation"
+    ],
+    "added_at": "",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    },
+    "dict_source": "data/DICT/A/A-c.txt"
+  },
+  {
     "term": "-ise",
     "type": "word",
     "pos": "V",
@@ -2881,7 +2927,16 @@
       "correct_count": 0,
       "incorrect_count": 0,
       "review_history": []
-    }
+    },
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "V",
+        "translation": "照亮；阐明；解释清楚；启发",
+        "analysis": "用光照亮某处；也可表示把问题、观点或事实解释清楚，使人理解。"
+      }
+    ],
+    "origin": "待查"
   },
   {
     "term": "illumination",
