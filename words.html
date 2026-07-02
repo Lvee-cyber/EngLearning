@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>词库查看</title>
-    <link rel="stylesheet" href="./review.css?v=20260702-ux" />
+    <link rel="stylesheet" href="./review.css?v=20260702-suggest" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js?v=20260702-ux"></script>
-    <script src="./content-store.js?v=20260702-ux"></script>
+    <script src="./site-config.js?v=20260702-suggest"></script>
+    <script src="./content-store.js?v=20260702-suggest"></script>
   </head>
   <body>
     <main class="page">
@@ -43,7 +43,10 @@
           </div>
           <div class="setup-field words-search">
             <label class="label" for="words-search">搜索</label>
-            <input id="words-search" class="control text-control" type="search" placeholder="搜索单词、释义或解析" autocomplete="off" />
+            <div class="words-search-wrap">
+              <input id="words-search" class="control text-control" type="search" placeholder="搜索单词、释义或解析" autocomplete="off" />
+              <div id="words-search-suggestions" class="dictionary-suggestions words-suggestions hidden" role="listbox" aria-label="词库搜索联想"></div>
+            </div>
           </div>
         </div>
 
@@ -83,6 +86,6 @@
       </section>
     </main>
 
-    <script src="./words.js?v=20260702-ux" defer></script>
+    <script src="./words.js?v=20260702-suggest" defer></script>
   </body>
 </html>

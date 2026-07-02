@@ -8,6 +8,10 @@ const state = {
   supabase: null,
   lookupTimer: null,
   lookupRequestId: 0,
+  suggestions: [],
+  suggestionTimer: null,
+  suggestionRequestId: 0,
+  activeSuggestionIndex: -1,
 };
 
 const elements = {
@@ -15,6 +19,7 @@ const elements = {
   progressStatus: document.querySelector("#landing-progress-status"),
   dictionaryInput: document.querySelector("#landing-dictionary-search"),
   dictionarySubmit: document.querySelector("#landing-dictionary-submit"),
+  dictionarySuggestions: document.querySelector("#landing-dictionary-suggestions"),
   dictionaryResult: document.querySelector("#landing-query-result"),
   calendarWeekday: document.querySelector("#calendar-weekday"),
   calendarDay: document.querySelector("#calendar-day"),
@@ -181,6 +186,24 @@ function renderLookupState(message) {
     : `<p class="status-text">${escapeHtml(message)}</p>`;
 }
 
+function renderSuggestionLoading(query) {
+  if (!elements.dictionarySuggestions || !query) return;
+  elements.dictionarySuggestions.innerHTML = `<div class="dictionary-suggestion-loading">正在联想 ${escapeHtml(query)}...</div>`;
+  elements.dictionarySuggestions.classList.remove("hidden");
+}
+
+function hideSuggestions() {
+  if (state.suggestionTimer) {
+    window.clearTimeout(state.suggestionTimer);
+    state.suggestionTimer = null;
+  }
+  state.suggestions = [];
+  state.activeSuggestionIndex = -1;
+  if (!elements.dictionarySuggestions) return;
+  elements.dictionarySuggestions.innerHTML = "";
+  elements.dictionarySuggestions.classList.add("hidden");
+}
+
 function cacheDictionaryDetail(entry) {
   try {
     window.sessionStorage?.setItem(
@@ -241,6 +264,103 @@ function findDictionaryEntry(query) {
       return aliases.some((alias) => alias.startsWith(normalized));
     }) || null
   );
+}
+
+async function fetchDictionarySuggestions(query) {
+  const { items } = await window.ContentStore.fetchPrefix({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.dictionaryTable || "dictionary_entries",
+    fallbackUrl: APP_CONFIG.dictionaryUrl || "./data/dictionary.json",
+    label: "辞典",
+    query,
+    limit: 8,
+  });
+  return normalizeDictionary(items);
+}
+
+function renderSuggestions() {
+  if (!elements.dictionarySuggestions) return;
+  if (!state.suggestions.length) {
+    elements.dictionarySuggestions.innerHTML = "";
+    elements.dictionarySuggestions.classList.add("hidden");
+    return;
+  }
+
+  const query = String(elements.dictionaryInput.value || "").trim();
+  elements.dictionarySuggestions.innerHTML = state.suggestions
+    .map((entry, index) => {
+      const isActive = index === state.activeSuggestionIndex;
+      const term = String(entry.term || "");
+      const highlightedTerm =
+        query && term.toLowerCase().startsWith(query.toLowerCase())
+          ? `<mark>${escapeHtml(term.slice(0, query.length))}</mark>${escapeHtml(term.slice(query.length))}`
+          : escapeHtml(term);
+      return `
+        <button
+          class="dictionary-suggestion${isActive ? " is-active" : ""}"
+          type="button"
+          role="option"
+          aria-selected="${isActive ? "true" : "false"}"
+          data-index="${index}"
+        >
+          <span class="dictionary-suggestion-main">
+            <span class="dictionary-suggestion-term">${highlightedTerm}</span>
+            <span class="dictionary-suggestion-translation">${escapeHtml(getTranslationText(entry))}</span>
+          </span>
+          <span class="dictionary-suggestion-action" aria-hidden="true">查询</span>
+        </button>
+      `;
+    })
+    .join("");
+  elements.dictionarySuggestions.classList.remove("hidden");
+}
+
+async function updateSuggestions() {
+  const query = String(elements.dictionaryInput.value || "").trim();
+  const requestId = ++state.suggestionRequestId;
+  if (!query) {
+    hideSuggestions();
+    return;
+  }
+
+  const suggestions = await fetchDictionarySuggestions(query).catch(() => []);
+  if (requestId !== state.suggestionRequestId) return;
+  state.suggestions = suggestions.slice(0, 8);
+  state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
+  renderSuggestions();
+}
+
+function scheduleSuggestions() {
+  const query = String(elements.dictionaryInput.value || "").trim();
+  if (state.suggestionTimer) window.clearTimeout(state.suggestionTimer);
+  if (!query) {
+    hideSuggestions();
+    return;
+  }
+  renderSuggestionLoading(query);
+  state.suggestionTimer = window.setTimeout(() => {
+    state.suggestionTimer = null;
+    updateSuggestions().catch(() => {
+      hideSuggestions();
+    });
+  }, 80);
+}
+
+function moveActiveSuggestion(offset) {
+  if (!state.suggestions.length) return;
+  const total = state.suggestions.length;
+  state.activeSuggestionIndex = (state.activeSuggestionIndex + offset + total) % total;
+  renderSuggestions();
+}
+
+function selectSuggestion(index) {
+  const entry = state.suggestions[index];
+  if (!entry) return;
+  elements.dictionaryInput.value = entry.term;
+  hideSuggestions();
+  runLookup().catch((error) => {
+    renderLookupState(`查询失败：${error.message}`);
+  });
 }
 
 function renderLookupResult(entry, query) {
@@ -313,17 +433,14 @@ async function runLookup() {
 function scheduleLookup() {
   const query = String(elements.dictionaryInput.value || "").trim();
   if (state.lookupTimer) window.clearTimeout(state.lookupTimer);
+  scheduleSuggestions();
   if (!query) {
     state.lookupRequestId += 1;
     renderLookupState("输入单词后即可在主页快速查看简要释义。");
     return;
   }
-  renderLookupState("正在准备查询。");
-  state.lookupTimer = window.setTimeout(() => {
-    runLookup().catch((error) => {
-      renderLookupState(`查询失败：${error.message}`);
-    });
-  }, 220);
+  state.lookupRequestId += 1;
+  renderLookupState("点击候选词、回车或查询按钮查看释义。");
 }
 
 function hydrateLandingCache() {
@@ -361,12 +478,38 @@ elements.dictionarySubmit?.addEventListener("click", () => {
 });
 elements.dictionaryInput?.addEventListener("input", scheduleLookup);
 elements.dictionaryInput?.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowDown") {
+    event.preventDefault();
+    moveActiveSuggestion(1);
+    return;
+  }
+  if (event.key === "ArrowUp") {
+    event.preventDefault();
+    moveActiveSuggestion(-1);
+    return;
+  }
   if (event.key === "Enter") {
     event.preventDefault();
+    if (state.activeSuggestionIndex >= 0 && state.suggestions[state.activeSuggestionIndex]) {
+      selectSuggestion(state.activeSuggestionIndex);
+      return;
+    }
     runLookup().catch((error) => {
       renderLookupState(`查询失败：${error.message}`);
     });
   }
+});
+elements.dictionaryInput?.addEventListener("blur", () => {
+  window.setTimeout(hideSuggestions, 120);
+});
+elements.dictionaryInput?.addEventListener("focus", () => {
+  scheduleSuggestions();
+});
+elements.dictionarySuggestions?.addEventListener("mousedown", (event) => {
+  const button = event.target.closest("[data-index]");
+  if (!button) return;
+  event.preventDefault();
+  selectSuggestion(Number(button.dataset.index));
 });
 function prepareDictionaryDetailHandoff(event) {
   const link = event.target.closest(".dictionary-detail-link");

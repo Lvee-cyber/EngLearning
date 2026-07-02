@@ -222,11 +222,8 @@ function getSuggestionMatches(query) {
 
 async function fetchDictionaryTerm(query, options = {}) {
   const normalizedQuery = normalizeText(query);
-  if (!options.prefetch && state.detailPrefetches.has(normalizedQuery)) {
-    await state.detailPrefetches.get(normalizedQuery);
-    const prefetchedMatches = findMatches(query);
-    if (prefetchedMatches.length) return prefetchedMatches;
-  }
+  const prefetchedMatches = findMatches(query);
+  if (prefetchedMatches.length) return prefetchedMatches;
 
   const { item, source } = await window.ContentStore.fetchTerm({
     supabase: state.supabase,
@@ -250,21 +247,24 @@ async function fetchDictionaryTerm(query, options = {}) {
 }
 
 function prefetchDictionaryDetails(entries) {
-  entries
-    .map((entry) => String(entry?.term || "").trim())
-    .filter(Boolean)
-    .slice(0, 8)
-    .forEach((term) => {
-      const normalizedTerm = normalizeText(term);
-      if (!normalizedTerm || state.detailPrefetches.has(normalizedTerm)) return;
+  const fetchLater = window.requestIdleCallback || ((callback) => window.setTimeout(callback, 300));
+  fetchLater(() => {
+    entries
+      .map((entry) => String(entry?.term || "").trim())
+      .filter(Boolean)
+      .slice(0, 2)
+      .forEach((term) => {
+        const normalizedTerm = normalizeText(term);
+        if (!normalizedTerm || state.detailPrefetches.has(normalizedTerm)) return;
 
-      const promise = fetchDictionaryTerm(term, { prefetch: true })
-        .catch(() => [])
-        .finally(() => {
-          state.detailPrefetches.delete(normalizedTerm);
-        });
-      state.detailPrefetches.set(normalizedTerm, promise);
-    });
+        const promise = fetchDictionaryTerm(term, { prefetch: true })
+          .catch(() => [])
+          .finally(() => {
+            state.detailPrefetches.delete(normalizedTerm);
+          });
+        state.detailPrefetches.set(normalizedTerm, promise);
+      });
+  });
 }
 
 async function fetchWordTerm(query) {
@@ -486,7 +486,7 @@ async function updateSuggestions() {
   state.suggestions = localMatches;
   state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
   renderSuggestions();
-  prefetchDictionaryDetails(state.suggestions);
+  if (query.length >= 2) prefetchDictionaryDetails(state.suggestions);
 
   if (!query || localMatches.length >= 8) return;
   const remoteMatches = await fetchDictionaryPrefix(query).catch(() => []);
@@ -501,7 +501,7 @@ async function updateSuggestions() {
   state.suggestions = merged.slice(0, 8);
   state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
   renderSuggestions();
-  prefetchDictionaryDetails(state.suggestions);
+  if (query.length >= 2) prefetchDictionaryDetails(state.suggestions);
 }
 
 function scheduleSuggestions() {

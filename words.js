@@ -14,6 +14,8 @@ const state = {
   supabase: null,
   sortKey: "added_at",
   sortDirection: "desc",
+  searchSuggestions: [],
+  activeSearchSuggestionIndex: -1,
 };
 
 const elements = {
@@ -22,6 +24,7 @@ const elements = {
   filterPills: [...document.querySelectorAll(".words-filter-pill")],
   sortButtons: [...document.querySelectorAll(".words-sort-button")],
   search: document.querySelector("#words-search"),
+  searchSuggestions: document.querySelector("#words-search-suggestions"),
   syncStatus: document.querySelector("#words-sync-status"),
   list: document.querySelector("#words-list"),
   empty: document.querySelector("#words-empty"),
@@ -164,6 +167,93 @@ function renderList(items) {
   const normalized = toArray(items).map((item) => escapeHtml(item));
   if (!normalized.length) return "";
   return `<ul>${normalized.map((item) => `<li>${item}</li>`).join("")}</ul>`;
+}
+
+function renderSearchSuggestions() {
+  if (!elements.searchSuggestions) return;
+  if (!state.searchSuggestions.length) {
+    elements.searchSuggestions.innerHTML = "";
+    elements.searchSuggestions.classList.add("hidden");
+    return;
+  }
+
+  const query = String(elements.search.value || "").trim();
+  elements.searchSuggestions.innerHTML = state.searchSuggestions
+    .map((entry, index) => {
+      const term = String(entry.term || "");
+      const isActive = index === state.activeSearchSuggestionIndex;
+      const highlightedTerm =
+        query && term.toLowerCase().startsWith(query.toLowerCase())
+          ? `<mark>${escapeHtml(term.slice(0, query.length))}</mark>${escapeHtml(term.slice(query.length))}`
+          : escapeHtml(term);
+      return `
+        <button
+          class="dictionary-suggestion${isActive ? " is-active" : ""}"
+          type="button"
+          role="option"
+          aria-selected="${isActive ? "true" : "false"}"
+          data-index="${index}"
+        >
+          <span class="dictionary-suggestion-main">
+            <span class="dictionary-suggestion-term">${highlightedTerm}</span>
+            <span class="dictionary-suggestion-translation">${escapeHtml(getTranslationText(entry) || "暂无释义")}</span>
+          </span>
+          <span class="dictionary-suggestion-action" aria-hidden="true">筛选</span>
+        </button>
+      `;
+    })
+    .join("");
+  elements.searchSuggestions.classList.remove("hidden");
+}
+
+function updateSearchSuggestions() {
+  const query = String(elements.search.value || "").trim().toLowerCase();
+  if (!query) {
+    hideSearchSuggestions();
+    return;
+  }
+
+  state.searchSuggestions = state.words
+    .map((entry) => {
+      const term = String(entry.term || "").trim().toLowerCase();
+      const translation = getTranslationText(entry).toLowerCase();
+      if (term.startsWith(query)) return { entry, score: 0 };
+      if (term.includes(query)) return { entry, score: 1 };
+      if (translation.includes(query)) return { entry, score: 2 };
+      return null;
+    })
+    .filter(Boolean)
+    .sort((a, b) => {
+      if (a.score !== b.score) return a.score - b.score;
+      return String(a.entry.term || "").localeCompare(String(b.entry.term || ""));
+    })
+    .slice(0, 8)
+    .map((item) => item.entry);
+  state.activeSearchSuggestionIndex = state.searchSuggestions.length ? 0 : -1;
+  renderSearchSuggestions();
+}
+
+function hideSearchSuggestions() {
+  state.searchSuggestions = [];
+  state.activeSearchSuggestionIndex = -1;
+  if (!elements.searchSuggestions) return;
+  elements.searchSuggestions.innerHTML = "";
+  elements.searchSuggestions.classList.add("hidden");
+}
+
+function moveSearchSuggestion(offset) {
+  if (!state.searchSuggestions.length) return;
+  const total = state.searchSuggestions.length;
+  state.activeSearchSuggestionIndex = (state.activeSearchSuggestionIndex + offset + total) % total;
+  renderSearchSuggestions();
+}
+
+function selectSearchSuggestion(index) {
+  const entry = state.searchSuggestions[index];
+  if (!entry) return;
+  elements.search.value = entry.term;
+  hideSearchSuggestions();
+  renderWords();
 }
 
 function renderMetaItems(entry) {
@@ -479,7 +569,36 @@ elements.sortButtons.forEach((button) => {
     setSort(button.dataset.sortKey || "added_at");
   });
 });
-elements.search.addEventListener("input", renderWords);
+elements.search.addEventListener("input", () => {
+  renderWords();
+  updateSearchSuggestions();
+});
+elements.search.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowDown") {
+    event.preventDefault();
+    moveSearchSuggestion(1);
+    return;
+  }
+  if (event.key === "ArrowUp") {
+    event.preventDefault();
+    moveSearchSuggestion(-1);
+    return;
+  }
+  if (event.key === "Enter" && state.activeSearchSuggestionIndex >= 0) {
+    event.preventDefault();
+    selectSearchSuggestion(state.activeSearchSuggestionIndex);
+  }
+});
+elements.search.addEventListener("focus", updateSearchSuggestions);
+elements.search.addEventListener("blur", () => {
+  window.setTimeout(hideSearchSuggestions, 120);
+});
+elements.searchSuggestions?.addEventListener("mousedown", (event) => {
+  const button = event.target.closest("[data-index]");
+  if (!button) return;
+  event.preventDefault();
+  selectSearchSuggestion(Number(button.dataset.index));
+});
 elements.profileIdInput.addEventListener("change", () => {
   reload().catch((error) => {
     elements.syncStatus.textContent = `同步读取失败：${error.message}`;
