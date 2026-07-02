@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>EngLearning</title>
-    <link rel="stylesheet" href="./review.css" />
+    <link rel="stylesheet" href="./review.css?v=20260702-ux" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js"></script>
-    <script src="./content-store.js?v=20260606-prefetch"></script>
+    <script src="./site-config.js?v=20260702-ux"></script>
+    <script src="./content-store.js?v=20260702-ux"></script>
   </head>
   <body>
     <main class="page">
@@ -63,7 +63,7 @@
           <button id="landing-dictionary-submit" class="primary-button" type="button">查询</button>
         </div>
 
-        <div id="landing-query-result" class="landing-query-result">
+        <div id="landing-query-result" class="landing-query-result" aria-live="polite">
           <p class="status-text">输入单词后即可在主页快速查看简要释义。</p>
         </div>
       </section>
@@ -72,16 +72,16 @@
         <div class="landing-status-grid">
           <div class="landing-status-card">
             <span class="landing-status-label">内容来源</span>
-            <p id="landing-content-status" class="landing-status-text">正在读取词库与辞典。</p>
+            <p id="landing-content-status" class="landing-status-text" aria-live="polite">正在读取词库与辞典。</p>
           </div>
           <div class="landing-status-card">
             <span class="landing-status-label">同步状态</span>
-            <p id="landing-progress-status" class="landing-status-text">正在检测在线进度服务。</p>
+            <p id="landing-progress-status" class="landing-status-text" aria-live="polite">正在检测在线进度服务。</p>
           </div>
         </div>
       </section>
     </main>
 
-    <script src="./index.js?v=20260606-prefetch" defer></script>
+    <script src="./index.js?v=20260702-ux" defer></script>
   </body>
 </html>

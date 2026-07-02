@@ -5,6 +5,7 @@ const STORAGE_KEYS = {
 const MASTERED_THRESHOLD = Number(APP_CONFIG.masteredThreshold || 10);
 const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supabaseTable || "review_progress";
 const CONTENT_STATS = APP_CONFIG.contentStats || {};
+const PROGRESS_TIMEOUT_MS = Number(APP_CONFIG.progressTimeoutMs || 2500);
 
 const state = {
   words: [],
@@ -129,6 +130,15 @@ function formatDate(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return String(value);
   return date.toLocaleString("zh-CN", { hour12: false });
+}
+
+function withTimeout(promise, timeoutMs, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => {
+      window.setTimeout(() => reject(new Error(`${label}超时`)), timeoutMs);
+    }),
+  ]);
 }
 
 function getStaticWordsStatus() {
@@ -259,14 +269,26 @@ async function loadProgress() {
     return;
   }
 
-  const { data, error } = await state.supabase
-    .from(REVIEW_PROGRESS_TABLE)
-    .select("term, correct_count, incorrect_count, review_history")
-    .eq("profile_id", profileId);
+  let data = [];
+  try {
+    const response = await withTimeout(
+      state.supabase
+        .from(REVIEW_PROGRESS_TABLE)
+        .select("term, correct_count, incorrect_count, review_history")
+        .eq("profile_id", profileId),
+      PROGRESS_TIMEOUT_MS,
+      "在线进度读取",
+    );
+    if (response.error) throw response.error;
+    data = response.data || [];
+  } catch (error) {
+    const status = getStaticWordsStatus();
+    elements.syncStatus.textContent = `${status ? `${status}` : ""}在线进度暂未返回，已先展示本地词库；稍后可重试同步。`;
+    return;
+  }
 
-  if (error) throw error;
   state.progressByTerm = Object.fromEntries(
-    (data || []).map((item) => [
+    data.map((item) => [
       item.term,
       {
         correct_count: Number(item.correct_count || 0),
@@ -438,6 +460,8 @@ async function init() {
   state.supabase = window.ContentStore.createSupabaseClient();
   renderStaticStats();
   await fetchWords();
+  updateStats();
+  renderWords();
   await reload();
 }
 

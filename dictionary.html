@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>本地辞典查询</title>
-    <link rel="stylesheet" href="./review.css" />
+    <link rel="stylesheet" href="./review.css?v=20260702-ux" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js"></script>
-    <script src="./content-store.js?v=20260606-prefetch"></script>
+    <script src="./site-config.js?v=20260702-ux"></script>
+    <script src="./content-store.js?v=20260702-ux"></script>
   </head>
   <body>
     <main class="page">
@@ -16,7 +16,7 @@
           <div>
             <p class="eyebrow">Local Dictionary</p>
             <h1 class="words-title">查本地辞典</h1>
-            <p class="intro">查询源优先读取 Supabase 的 <code>dictionary_entries</code>，未命中时再回退到仓库里的 <code>data/dictionary.json</code>。输入英文单词后，页面会精确匹配并呈现词条内容。</p>
+            <p class="intro">查询源优先读取 Supabase 的 <code>dictionary_entries</code>，未命中时按首字母读取本地辞典分片。输入英文单词后，页面会精确匹配并呈现完整词条内容。</p>
           </div>
           <div class="words-nav">
             <a class="secondary-button link-button" href="./index.html">返回主页</a>
@@ -26,7 +26,7 @@
         </div>
       </section>
 
-      <section class="panel">
+      <section class="panel dictionary-search-panel">
         <div class="dictionary-form">
           <div class="dictionary-actions">
             <button id="dictionary-submit" class="primary-button" type="button">查询</button>
@@ -40,15 +40,15 @@
             </div>
           </div>
         </div>
-        <p id="dictionary-status" class="status-text">输入单词后可查看详细词条。</p>
+        <p id="dictionary-status" class="status-text" aria-live="polite">输入单词后可查看详细词条。</p>
       </section>
 
       <section class="panel dictionary-panel">
-        <p id="dictionary-summary" class="dictionary-summary status-text"></p>
-        <div id="dictionary-result"></div>
+        <p id="dictionary-summary" class="dictionary-summary status-text" aria-live="polite"></p>
+        <div id="dictionary-result" aria-live="polite"></div>
       </section>
     </main>
 
-    <script src="./dictionary.js?v=20260606-prefetch" defer></script>
+    <script src="./dictionary.js?v=20260702-ux" defer></script>
   </body>
 </html>

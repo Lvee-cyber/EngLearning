@@ -1,0 +1,17 @@
+#!/bin/sh
+set -eu
+
+changed_content_files=$(git diff --cached --name-only -- \
+  data/words.json \
+  data/dictionary.json \
+  site-config.js \
+  data/dictionary-prefix \
+  data/dictionary-suggest \
+  data/dictionary-detail)
+
+if [ -z "$changed_content_files" ]; then
+  exit 0
+fi
+
+echo "Checking content stats and dictionary shards..."
+node scripts/build_dictionary_prefixes.js --check

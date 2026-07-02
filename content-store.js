@@ -266,6 +266,10 @@
       }
     }
 
+    if (isDictionaryCollection({ tableName, fallbackUrl })) {
+      return saveCache(termCacheKey, { item: null, source: "dictionary-shards" });
+    }
+
     const { items, source } = await fetchCollection({ supabase: null, tableName: "", fallbackUrl, label });
     const item = items.find((entry) => String(entry?.term || entry?.word || entry?.headword || "").trim().toLowerCase() === normalizedTerm.toLowerCase()) || null;
     return saveCache(termCacheKey, { item, source });

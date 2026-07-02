@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>词库查看</title>
-    <link rel="stylesheet" href="./review.css" />
+    <link rel="stylesheet" href="./review.css?v=20260702-ux" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js"></script>
-    <script src="./content-store.js?v=20260606-prefetch"></script>
+    <script src="./site-config.js?v=20260702-ux"></script>
+    <script src="./content-store.js?v=20260702-ux"></script>
   </head>
   <body>
     <main class="page">
@@ -74,15 +74,15 @@
           </button>
         </div>
 
-        <p id="words-sync-status" class="status-text">正在读取词库与在线进度。</p>
+        <p id="words-sync-status" class="status-text" aria-live="polite">正在读取词库与在线进度。</p>
       </section>
 
       <section class="panel words-list-panel">
         <div id="words-list" class="words-list"></div>
-        <p id="words-empty" class="status-text hidden">当前没有符合条件的词条。</p>
+        <p id="words-empty" class="status-text hidden" aria-live="polite">当前没有符合条件的词条。</p>
       </section>
     </main>
 
-    <script src="./words.js?v=20260606-prefetch" defer></script>
+    <script src="./words.js?v=20260702-ux" defer></script>
   </body>
 </html>

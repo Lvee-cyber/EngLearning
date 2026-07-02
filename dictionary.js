@@ -11,6 +11,7 @@ const state = {
   wordsSource: "json",
   suggestions: [],
   suggestionRequestId: 0,
+  suggestionTimer: null,
   activeSuggestionIndex: -1,
   supabase: null,
   addingTerms: new Set(),
@@ -347,6 +348,20 @@ function renderMetaItems(entry) {
     .join("");
 }
 
+function renderDictionarySection(title, content, options = {}) {
+  if (!content) return "";
+  const open = options.open !== false;
+  return `
+    <details class="dictionary-section dictionary-section-collapsible" ${open ? "open" : ""}>
+      <summary>
+        <span>${escapeHtml(title)}</span>
+        <span class="dictionary-section-icon" aria-hidden="true"></span>
+      </summary>
+      <div class="dictionary-section-body">${content}</div>
+    </details>
+  `;
+}
+
 function renderEntry(entry) {
   const analysis = entry.analysis || entry.explanation || joinReadable(entry.definition || entry.definitions);
   const examples = toArray(entry.expansions || entry.examples);
@@ -380,9 +395,9 @@ function renderEntry(entry) {
         </button>
       </div>
 
-      ${analysis ? `<section class="dictionary-section"><h3>词条解析</h3><p>${escapeHtml(analysis)}</p></section>` : ""}
-      ${examples.length ? `<section class="dictionary-section"><h3>扩展表达</h3>${renderList(examples)}</section>` : ""}
-      ${acceptedAnswers.length ? `<section class="dictionary-section"><h3>常见义项</h3>${renderList(acceptedAnswers)}</section>` : ""}
+      ${renderDictionarySection("词条解析", analysis ? `<p>${escapeHtml(analysis)}</p>` : "", { open: true })}
+      ${renderDictionarySection("扩展表达", examples.length ? renderList(examples) : "", { open: false })}
+      ${renderDictionarySection("常见义项", acceptedAnswers.length ? renderList(acceptedAnswers) : "", { open: false })}
       ${meta ? `<dl class="dictionary-meta">${meta}</dl>` : ""}
     </article>
   `;
@@ -401,6 +416,10 @@ function updateStatus(message) {
 }
 
 function hideSuggestions() {
+  if (state.suggestionTimer) {
+    window.clearTimeout(state.suggestionTimer);
+    state.suggestionTimer = null;
+  }
   state.suggestions = [];
   state.activeSuggestionIndex = -1;
   elements.suggestions.innerHTML = "";
@@ -424,9 +443,16 @@ function renderSuggestions() {
     return;
   }
 
+  const query = String(elements.searchInput.value || "").trim();
   elements.suggestions.innerHTML = state.suggestions
     .map((entry, index) => {
       const isActive = index === state.activeSuggestionIndex;
+      const term = String(entry.term || "");
+      const queryLength = query.length;
+      const highlightedTerm =
+        queryLength && term.toLowerCase().startsWith(query.toLowerCase())
+          ? `<mark>${escapeHtml(term.slice(0, queryLength))}</mark>${escapeHtml(term.slice(queryLength))}`
+          : escapeHtml(term);
       return `
         <button
           class="dictionary-suggestion${isActive ? " is-active" : ""}"
@@ -435,12 +461,21 @@ function renderSuggestions() {
           aria-selected="${isActive ? "true" : "false"}"
           data-index="${index}"
         >
-          <span class="dictionary-suggestion-term">${escapeHtml(entry.term)}</span>
-          <span class="dictionary-suggestion-translation">${escapeHtml(getTranslationText(entry))}</span>
+          <span class="dictionary-suggestion-main">
+            <span class="dictionary-suggestion-term">${highlightedTerm}</span>
+            <span class="dictionary-suggestion-translation">${escapeHtml(getTranslationText(entry))}</span>
+          </span>
+          <span class="dictionary-suggestion-action" aria-hidden="true">查看</span>
         </button>
       `;
     })
     .join("");
+  elements.suggestions.classList.remove("hidden");
+}
+
+function renderSuggestionLoading(query) {
+  if (!query) return;
+  elements.suggestions.innerHTML = `<div class="dictionary-suggestion-loading">正在匹配 ${escapeHtml(query)}...</div>`;
   elements.suggestions.classList.remove("hidden");
 }
 
@@ -467,6 +502,22 @@ async function updateSuggestions() {
   state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
   renderSuggestions();
   prefetchDictionaryDetails(state.suggestions);
+}
+
+function scheduleSuggestions() {
+  const query = String(elements.searchInput.value || "").trim();
+  if (state.suggestionTimer) window.clearTimeout(state.suggestionTimer);
+  if (!query) {
+    hideSuggestions();
+    return;
+  }
+  renderSuggestionLoading(query);
+  state.suggestionTimer = window.setTimeout(() => {
+    state.suggestionTimer = null;
+    updateSuggestions().catch((error) => {
+      updateStatus(`联想匹配失败：${error.message}`);
+    });
+  }, 120);
 }
 
 function moveActiveSuggestion(offset) {
@@ -729,7 +780,7 @@ elements.submitButton.addEventListener("click", () => {
 });
 elements.clearButton.addEventListener("click", clearSearch);
 elements.searchInput.addEventListener("input", () => {
-  updateSuggestions();
+  scheduleSuggestions();
 });
 elements.searchInput.addEventListener("keydown", (event) => {
   if (event.key === "ArrowDown") {
@@ -770,7 +821,7 @@ elements.searchInput.addEventListener("blur", () => {
   }, 120);
 });
 elements.searchInput.addEventListener("focus", () => {
-  updateSuggestions();
+  scheduleSuggestions();
 });
 elements.suggestions.addEventListener("mousedown", (event) => {
   const button = event.target.closest("[data-index]");

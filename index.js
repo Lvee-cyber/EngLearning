@@ -6,6 +6,8 @@ const state = {
   wordsSource: "json",
   dictionarySource: "json",
   supabase: null,
+  lookupTimer: null,
+  lookupRequestId: 0,
 };
 
 const elements = {
@@ -167,7 +169,16 @@ function updateCalendarCard() {
 }
 
 function renderLookupState(message) {
-  elements.dictionaryResult.innerHTML = `<p class="status-text">${escapeHtml(message)}</p>`;
+  const isLoading = /正在/.test(message);
+  elements.dictionaryResult.innerHTML = isLoading
+    ? `
+      <div class="lookup-skeleton" aria-label="${escapeHtml(message)}">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    `
+    : `<p class="status-text">${escapeHtml(message)}</p>`;
 }
 
 function cacheDictionaryDetail(entry) {
@@ -278,7 +289,12 @@ async function findDictionaryEntryRemote(query) {
 }
 
 async function runLookup() {
+  if (state.lookupTimer) {
+    window.clearTimeout(state.lookupTimer);
+    state.lookupTimer = null;
+  }
   const query = String(elements.dictionaryInput.value || "").trim();
+  const requestId = ++state.lookupRequestId;
   if (!query) {
     renderLookupState("输入单词后即可在主页快速查看简要释义。");
     return;
@@ -290,7 +306,24 @@ async function runLookup() {
   }
   renderLookupState("正在按需查询辞典。");
   const remoteEntry = await findDictionaryEntryRemote(query);
+  if (requestId !== state.lookupRequestId) return;
   renderLookupResult(remoteEntry, query);
+}
+
+function scheduleLookup() {
+  const query = String(elements.dictionaryInput.value || "").trim();
+  if (state.lookupTimer) window.clearTimeout(state.lookupTimer);
+  if (!query) {
+    state.lookupRequestId += 1;
+    renderLookupState("输入单词后即可在主页快速查看简要释义。");
+    return;
+  }
+  renderLookupState("正在准备查询。");
+  state.lookupTimer = window.setTimeout(() => {
+    runLookup().catch((error) => {
+      renderLookupState(`查询失败：${error.message}`);
+    });
+  }, 220);
 }
 
 function hydrateLandingCache() {
@@ -326,6 +359,7 @@ elements.dictionarySubmit?.addEventListener("click", () => {
     renderLookupState(`查询失败：${error.message}`);
   });
 });
+elements.dictionaryInput?.addEventListener("input", scheduleLookup);
 elements.dictionaryInput?.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
     event.preventDefault();

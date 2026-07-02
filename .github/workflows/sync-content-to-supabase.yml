@@ -7,6 +7,10 @@ on:
     paths:
       - "data/words.json"
       - "data/dictionary.json"
+      - "site-config.js"
+      - "data/dictionary-prefix/**"
+      - "data/dictionary-suggest/**"
+      - "data/dictionary-detail/**"
   workflow_dispatch:
 
 jobs:
@@ -20,6 +24,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Validate generated content stats and shards
+        run: node scripts/build_dictionary_prefixes.js --check
 
       - name: Sync JSON content into Supabase
         env:

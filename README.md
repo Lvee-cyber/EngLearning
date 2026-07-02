@@ -75,10 +75,39 @@ node scripts/pull-supabase-review-progress.mjs --profile <你的profile_id>
 - `site-config.js` 里的 `supabaseUrl`、`supabaseAnonKey`、`reviewProgressTable`
 - 或环境变量 `SUPABASE_URL`、`SUPABASE_ANON_KEY`、`REVIEW_PROGRESS_TABLE`
 
+## 更新词库或辞典
+
+每次修改 `data/words.json` 或 `data/dictionary.json` 后，必须重建页面使用的静态统计和辞典分片：
+
+```bash
+node scripts/build_dictionary_prefixes.js
+```
+
+这个脚本会同步更新：
+
+- `site-config.js` 里的 `contentStats`
+- `data/dictionary-prefix/`
+- `data/dictionary-suggest/`
+- `data/dictionary-detail/`
+
+提交前可以运行校验：
+
+```bash
+node scripts/build_dictionary_prefixes.js --check
+```
+
+本仓库包含 `.githooks/pre-commit`，启用后会在提交涉及内容数据时自动运行上述校验：
+
+```bash
+git config core.hooksPath .githooks
+```
+
+GitHub Action 在同步 Supabase 前也会运行同样校验，防止统计或分片落后于主数据文件。
+
 ## 当前数据流
 
 - 词库查看页和复习页优先从 Supabase 表 `vocabulary_words` 读取词条内容，空表或异常时回退到 `data/words.json`。
-- 辞典查询页优先从 Supabase 表 `dictionary_entries` 读取辞典内容，空表或异常时回退到 `data/dictionary.json`。
+- 辞典查询页优先从 Supabase 表 `dictionary_entries` 读取辞典内容，未命中或异常时按首字母读取本地分片，避免移动端加载完整 `data/dictionary.json`。
 - 复习进度通过 Supabase 表 `review_progress` 读取和写入。
 - 当 `data/words.json` 或 `data/dictionary.json` 推到 `main` 后，GitHub Action 会把对应内容同步到 Supabase。
 - GitHub Action 按 `term` 做同步查重；如果 Supabase 中已存在同名词条，则直接用本地 JSON 的最新 `payload` 覆盖更新。

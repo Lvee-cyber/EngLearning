@@ -10,6 +10,7 @@ const outputDir = path.join(root, "data", "dictionary-prefix");
 const suggestDir = path.join(root, "data", "dictionary-suggest");
 const detailDir = path.join(root, "data", "dictionary-detail");
 const configPath = path.join(root, "site-config.js");
+const checkOnly = process.argv.includes("--check");
 
 function pickTerm(entry) {
   return String(entry?.term || entry?.word || entry?.headword || entry?.title || entry?.name || "").trim();
@@ -87,21 +88,27 @@ fs.mkdirSync(outputDir, { recursive: true });
 fs.mkdirSync(suggestDir, { recursive: true });
 fs.mkdirSync(detailDir, { recursive: true });
 
+const outputs = new Map();
+
+function queueOutput(filePath, content) {
+  outputs.set(filePath, content);
+}
+
 for (const [prefix, items] of groups) {
   items.sort((a, b) => pickTerm(a).localeCompare(pickTerm(b)));
-  fs.writeFileSync(path.join(outputDir, `${prefix}.json`), `${JSON.stringify(items, null, 2)}\n`);
-  fs.writeFileSync(path.join(suggestDir, `${prefix}.json`), JSON.stringify(items.filter((item) => isSuggestionTerm(pickTerm(item))).slice(0, 80).map(toSuggestionItem)));
+  queueOutput(path.join(outputDir, `${prefix}.json`), `${JSON.stringify(items, null, 2)}\n`);
+  queueOutput(path.join(suggestDir, `${prefix}.json`), JSON.stringify(items.filter((item) => isSuggestionTerm(pickTerm(item))).slice(0, 80).map(toSuggestionItem)));
 }
 
 for (const [prefix, items] of detailGroups) {
   items.sort((a, b) => pickTerm(a).localeCompare(pickTerm(b)));
-  fs.writeFileSync(path.join(detailDir, `${prefix}.json`), JSON.stringify(items));
+  queueOutput(path.join(detailDir, `${prefix}.json`), JSON.stringify(items));
 }
 
 for (const [prefix, items] of suggestGroups) {
   if (prefix.length < 2) continue;
   items.sort((a, b) => pickTerm(a).localeCompare(pickTerm(b)));
-  fs.writeFileSync(path.join(suggestDir, `${prefix}.json`), JSON.stringify(items.filter((item) => isSuggestionTerm(pickTerm(item))).map(toSuggestionItem)));
+  queueOutput(path.join(suggestDir, `${prefix}.json`), JSON.stringify(items.filter((item) => isSuggestionTerm(pickTerm(item))).map(toSuggestionItem)));
 }
 
 function latestAdded(items) {
@@ -112,7 +119,7 @@ function latestAdded(items) {
     .at(-1) || { term: "", addedAt: "" };
 }
 
-function updateConfigStats() {
+function buildConfigWithStats() {
   const wordsLatest = latestAdded(words);
   const dictionaryLatest = latestAdded(entries);
   const stats = {
@@ -130,9 +137,83 @@ function updateConfigStats() {
   if (!statsPattern.test(config)) {
     throw new Error("Could not update contentStats in site-config.js");
   }
-  const nextConfig = config.replace(statsPattern, statsSource);
-  fs.writeFileSync(configPath, nextConfig);
+  return config.replace(statsPattern, statsSource);
 }
 
-updateConfigStats();
-console.log(`Wrote ${groups.size} dictionary prefix files to ${path.relative(root, outputDir)}.`);
+function listJsonFiles(dir) {
+  if (!fs.existsSync(dir)) return [];
+  const files = [];
+  const stack = [dir];
+  while (stack.length) {
+    const currentDir = stack.pop();
+    for (const entry of fs.readdirSync(currentDir, { withFileTypes: true })) {
+      const entryPath = path.join(currentDir, entry.name);
+      if (entry.isDirectory()) {
+        stack.push(entryPath);
+      } else if (entry.isFile() && entry.name.endsWith(".json")) {
+        files.push(entryPath);
+      }
+    }
+  }
+  return files;
+}
+
+function removeExistingJsonFiles(dir) {
+  for (const filePath of listJsonFiles(dir)) {
+    fs.rmSync(filePath);
+  }
+}
+
+function writeOutputs() {
+  removeExistingJsonFiles(outputDir);
+  removeExistingJsonFiles(suggestDir);
+  removeExistingJsonFiles(detailDir);
+  for (const [filePath, content] of outputs) {
+    fs.mkdirSync(path.dirname(filePath), { recursive: true });
+    fs.writeFileSync(filePath, content);
+  }
+  fs.writeFileSync(configPath, buildConfigWithStats());
+}
+
+function checkOutputs() {
+  const expectedFiles = new Set([...outputs.keys()]);
+  const existingFiles = new Set([...listJsonFiles(outputDir), ...listJsonFiles(suggestDir), ...listJsonFiles(detailDir)]);
+  const mismatches = [];
+
+  for (const [filePath, expectedContent] of outputs) {
+    if (!fs.existsSync(filePath)) {
+      mismatches.push(`missing ${path.relative(root, filePath)}`);
+      continue;
+    }
+    const currentContent = fs.readFileSync(filePath, "utf8");
+    if (currentContent !== expectedContent) {
+      mismatches.push(`stale ${path.relative(root, filePath)}`);
+    }
+  }
+
+  for (const filePath of existingFiles) {
+    if (!expectedFiles.has(filePath)) {
+      mismatches.push(`extra ${path.relative(root, filePath)}`);
+    }
+  }
+
+  const expectedConfig = buildConfigWithStats();
+  const currentConfig = fs.readFileSync(configPath, "utf8");
+  if (currentConfig !== expectedConfig) {
+    mismatches.push(`stale ${path.relative(root, configPath)}`);
+  }
+
+  if (mismatches.length) {
+    const preview = mismatches.slice(0, 20).join("\n");
+    const suffix = mismatches.length > 20 ? `\n...and ${mismatches.length - 20} more` : "";
+    throw new Error(`Content build outputs are not current:\n${preview}${suffix}\nRun: node scripts/build_dictionary_prefixes.js`);
+  }
+}
+
+if (checkOnly) {
+  checkOutputs();
+  console.log("Content stats and dictionary shards are current.");
+} else {
+  writeOutputs();
+  console.log(`Wrote ${groups.size} dictionary prefix files to ${path.relative(root, outputDir)}.`);
+}
