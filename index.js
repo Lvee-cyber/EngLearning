@@ -255,15 +255,7 @@ function findDictionaryEntry(query) {
   const normalized = normalizeText(query);
   if (!normalized) return null;
 
-  const exact = state.dictionary.find((entry) => getAliases(entry).includes(normalized));
-  if (exact) return exact;
-
-  return (
-    state.dictionary.find((entry) => {
-      const aliases = getAliases(entry);
-      return aliases.some((alias) => alias.startsWith(normalized));
-    }) || null
-  );
+  return state.dictionary.find((entry) => getAliases(entry).includes(normalized)) || null;
 }
 
 async function fetchDictionarySuggestions(query) {
@@ -307,7 +299,7 @@ function renderSuggestions() {
             <span class="dictionary-suggestion-term">${highlightedTerm}</span>
             <span class="dictionary-suggestion-translation">${escapeHtml(getTranslationText(entry))}</span>
           </span>
-          <span class="dictionary-suggestion-action" aria-hidden="true">查询</span>
+          <span class="dictionary-suggestion-action" aria-hidden="true">查看</span>
         </button>
       `;
     })
@@ -328,6 +320,18 @@ async function updateSuggestions() {
   state.suggestions = suggestions.slice(0, 8);
   state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
   renderSuggestions();
+}
+
+async function showPrefixSuggestions(query) {
+  const normalizedQuery = String(query || "").trim();
+  if (!normalizedQuery) return false;
+  const suggestions = state.suggestions.length ? state.suggestions : await fetchDictionarySuggestions(normalizedQuery).catch(() => []);
+  state.suggestions = suggestions.slice(0, 8);
+  state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
+  renderSuggestions();
+  if (!state.suggestions.length) return false;
+  renderLookupState(`找到 ${state.suggestions.length} 个以 ${normalizedQuery} 开头的候选词，点击候选词进入辞典页。`);
+  return true;
 }
 
 function scheduleSuggestions() {
@@ -358,9 +362,7 @@ function selectSuggestion(index) {
   if (!entry) return;
   elements.dictionaryInput.value = entry.term;
   hideSuggestions();
-  runLookup().catch((error) => {
-    renderLookupState(`查询失败：${error.message}`);
-  });
+  window.location.href = `./dictionary.html?q=${encodeURIComponent(entry.term)}`;
 }
 
 function renderLookupResult(entry, query) {
@@ -414,20 +416,20 @@ async function runLookup() {
     state.lookupTimer = null;
   }
   const query = String(elements.dictionaryInput.value || "").trim();
-  const requestId = ++state.lookupRequestId;
+  state.lookupRequestId += 1;
   if (!query) {
-    renderLookupState("输入单词后即可在主页快速查看简要释义。");
+    renderLookupState("输入单词后即可联想匹配候选词。");
     return;
   }
-  const localEntry = findDictionaryEntry(query);
-  if (localEntry) {
-    renderLookupResult(localEntry, query);
-    return;
-  }
-  renderLookupState("正在按需查询辞典。");
-  const remoteEntry = await findDictionaryEntryRemote(query);
-  if (requestId !== state.lookupRequestId) return;
-  renderLookupResult(remoteEntry, query);
+  renderLookupState("正在匹配候选词。");
+  if (await showPrefixSuggestions(query)) return;
+  elements.dictionaryResult.innerHTML = `
+    <div class="landing-result-card">
+      <strong>未找到候选词</strong>
+      <p class="status-text">没有找到以 <code>${escapeHtml(query)}</code> 开头的候选词，可前往完整辞典页继续查询。</p>
+      <a class="secondary-button link-button dictionary-detail-link" href="./dictionary.html?q=${encodeURIComponent(query)}">去辞典页搜索</a>
+    </div>
+  `;
 }
 
 function scheduleLookup() {
@@ -440,7 +442,7 @@ function scheduleLookup() {
     return;
   }
   state.lookupRequestId += 1;
-  renderLookupState("点击候选词、回车或查询按钮查看释义。");
+  renderLookupState("点击候选词进入辞典页，或继续输入缩小范围。");
 }
 
 function hydrateLandingCache() {
@@ -468,7 +470,7 @@ async function init() {
 
   renderContentStatus();
   renderProgressStatus();
-  renderLookupState("输入单词后即可在主页快速查看简要释义。");
+  renderLookupState("输入单词后即可联想匹配候选词。");
 }
 
 elements.dictionarySubmit?.addEventListener("click", () => {
