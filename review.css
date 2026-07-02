@@ -284,6 +284,7 @@ p {
 }
 
 .setup {
+  z-index: 30;
   background:
     linear-gradient(180deg, rgba(255, 250, 244, 0.9), rgba(253, 247, 238, 0.86)),
     rgba(255, 250, 242, 0.9);
@@ -588,7 +589,7 @@ a.history-word-chip:focus-visible {
 
 .suggest-panel {
   position: absolute;
-  z-index: 12;
+  z-index: 110;
   left: 0;
   right: 0;
   top: calc(100% + 8px);
@@ -1233,6 +1234,16 @@ code {
   padding-block: 24px;
 }
 
+.landing-query-panel {
+  overflow: visible;
+  z-index: 70;
+}
+
+.landing-status-panel,
+.landing-nav-panel {
+  z-index: 1;
+}
+
 .landing-title {
   max-width: 760px;
   margin-bottom: 12px;
@@ -1338,7 +1349,7 @@ code {
 .landing-search-wrap,
 .words-search-wrap {
   position: relative;
-  z-index: 45;
+  z-index: 80;
 }
 
 .landing-query-result {
@@ -1448,7 +1459,7 @@ code {
 }
 
 .words-controls {
-  z-index: 40;
+  z-index: 70;
 }
 
 .words-list-panel {
@@ -1648,7 +1659,11 @@ code {
 .dictionary-search-panel {
   position: sticky;
   top: 12px;
-  z-index: 15;
+  z-index: 70;
+}
+
+.dictionary-panel {
+  z-index: 1;
 }
 
 .dictionary-actions {
@@ -1672,7 +1687,7 @@ code {
   top: calc(100% + 8px);
   left: 0;
   right: 0;
-  z-index: 20;
+  z-index: 100;
   display: grid;
   gap: 6px;
   padding: 10px;
@@ -1688,7 +1703,7 @@ code {
 .landing-suggestions,
 .words-suggestions {
   top: calc(100% + 8px);
-  z-index: 90;
+  z-index: 120;
 }
 
 .dictionary-suggestions.hidden {
