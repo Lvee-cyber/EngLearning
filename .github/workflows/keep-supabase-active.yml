@@ -1,0 +1,61 @@
+name: Keep Supabase Active
+
+on:
+  schedule:
+    # 09:17 Asia/Shanghai, followed by a randomized delay below.
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: keep-supabase-active
+  cancel-in-progress: false
+
+jobs:
+  database-activity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Wait for a randomized start time
+        if: github.event_name == 'schedule'
+        shell: bash
+        run: |
+          delay=$((RANDOM % 721))
+          echo "Waiting ${delay} seconds before querying Supabase."
+          sleep "$delay"
+
+      - name: Run lightweight database reads
+        shell: bash
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${SUPABASE_URL:-}" || -z "${SUPABASE_SERVICE_ROLE_KEY:-}" ]]; then
+            echo "SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY secrets are required."
+            exit 1
+          fi
+
+          query_table() {
+            local table="$1"
+            curl --fail --silent --show-error \
+              --connect-timeout 15 \
+              --max-time 30 \
+              --get "${SUPABASE_URL}/rest/v1/${table}" \
+              --data-urlencode "select=term" \
+              --data-urlencode "limit=1" \
+              -H "apikey: ${SUPABASE_SERVICE_ROLE_KEY}" \
+              -H "Authorization: Bearer ${SUPABASE_SERVICE_ROLE_KEY}" \
+              -H "Accept: application/json" \
+              > /dev/null
+            echo "Supabase read succeeded for ${table}."
+          }
+
+          query_table "vocabulary_words"
+          gap=$((20 + RANDOM % 101))
+          echo "Waiting ${gap} seconds before the second read."
+          sleep "$gap"
+          query_table "dictionary_entries"
