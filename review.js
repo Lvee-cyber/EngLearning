@@ -261,6 +261,12 @@ function savePendingEvents(events) {
   } catch {}
 }
 
+function enqueuePendingEvent(event) {
+  const pending = readPendingEvents();
+  if (!pending.some((item) => item?.event_id === event?.event_id)) pending.push(event);
+  savePendingEvents(pending);
+}
+
 async function syncReviewEvent(event) {
   const rpcResponse = await state.supabase.rpc("record_review_event", {
     p_event_id: event.event_id,
@@ -1139,11 +1145,17 @@ function renderResult() {
   elements.resultTitle.className = correct ? "is-correct" : "is-wrong";
   elements.resultIcon.className = `result-icon ${correct ? "is-correct" : "is-wrong"}`;
   elements.userAnswerBlock.className = `result-block answer-block ${correct ? "answer-correct" : "answer-user"}`;
-  elements.resultMessage.textContent = movedToMastered
+  const resultSummary = movedToMastered
     ? `该词累计答对达到 ${MASTERED_THRESHOLD} 次，已进入熟词状态。`
     : correct
-      ? `${actionLabel}正确，结果已同步到在线进度。`
+      ? `${actionLabel}正确。`
       : `${actionLabel}不正确，先看一眼正确答案和用法。`;
+  const syncSummary = state.lastResult.syncState === "synced"
+    ? "结果已同步。"
+    : state.lastResult.syncState === "queued"
+      ? "结果已保存在本机，将在联网后同步。"
+      : "结果已保存，正在后台同步。";
+  elements.resultMessage.textContent = `${resultSummary}${syncSummary}`;
   elements.userAnswerText.textContent = userAnswer;
   const userAnswerTranslation = !correct && mode === "choice" ? getBriefTranslation(userAnswer) : "";
   if (elements.userAnswerTranslation) {
@@ -1167,7 +1179,7 @@ function renderResult() {
   elements.nextButton.focus();
 }
 
-async function persistResult(correct, userAnswer) {
+function applyResultLocally(correct, userAnswer) {
   const entry = state.words.find((item) => item.term === state.currentItem.term);
   const prev = getProgress(entry);
   const next = {
@@ -1194,38 +1206,62 @@ async function persistResult(correct, userAnswer) {
     term: entry.term,
     ...next.review_history.at(-1),
   };
-  cacheProgress(getProfileId(), { ...state.progressByTerm, [entry.term]: next });
-
-  let saved = null;
-  if (state.supabase) {
-    const response = await syncReviewEvent(latestEvent);
-    if (!response.error) saved = Array.isArray(response.data) ? response.data[0] : response.data;
-    else {
-      savePendingEvents([...readPendingEvents(), latestEvent]);
-      updateSyncStatus("本次作答已保存在本机，恢复网络后会自动同步。", "warn");
-    }
-  } else {
-    savePendingEvents([...readPendingEvents(), latestEvent]);
-    updateSyncStatus("本次作答已保存在本机，恢复网络后会自动同步。", "warn");
-  }
-
-  const savedProgress = saved
-    ? {
-        correct_count: Number(saved.correct_count || 0),
-        incorrect_count: Number(saved.incorrect_count || 0),
-        review_history: Array.isArray(saved.review_history) ? saved.review_history : next.review_history,
-      }
-    : next;
-  state.progressByTerm[entry.term] = savedProgress;
+  state.progressByTerm[entry.term] = next;
   cacheProgress(getProfileId(), state.progressByTerm);
   updateHomeStats();
   state.lastResult = {
     correct,
     entry,
-    movedToMastered: Number(prev.correct_count || 0) < MASTERED_THRESHOLD && savedProgress.correct_count >= MASTERED_THRESHOLD,
+    movedToMastered: Number(prev.correct_count || 0) < MASTERED_THRESHOLD && next.correct_count >= MASTERED_THRESHOLD,
     userAnswer: buildUserAnswer(entry, userAnswer),
     mode: state.reviewMode,
+    eventId: latestEvent.event_id,
+    syncState: state.supabase ? "syncing" : "queued",
   };
+  return { latestEvent, fallbackProgress: next };
+}
+
+function updateResultSyncState(eventId, syncState) {
+  if (state.lastResult?.eventId !== eventId) return;
+  state.lastResult.syncState = syncState;
+  const actionLabel = state.lastResult.mode === "choice" ? "选择" : "拼写";
+  const resultSummary = state.lastResult.movedToMastered
+    ? `该词累计答对达到 ${MASTERED_THRESHOLD} 次，已进入熟词状态。`
+    : state.lastResult.correct
+      ? `${actionLabel}正确。`
+      : `${actionLabel}不正确，先看一眼正确答案和用法。`;
+  const syncSummary = syncState === "synced" ? "结果已同步。" : "结果已保存在本机，将在联网后同步。";
+  elements.resultMessage.textContent = `${resultSummary}${syncSummary}`;
+}
+
+async function syncResultInBackground(latestEvent, fallbackProgress) {
+  if (!state.supabase) {
+    enqueuePendingEvent(latestEvent);
+    updateSyncStatus("本次作答已保存在本机，恢复网络后会自动同步。", "warn");
+    return;
+  }
+
+  try {
+    const response = await syncReviewEvent(latestEvent);
+    if (response.error) throw response.error;
+    const saved = Array.isArray(response.data) ? response.data[0] : response.data;
+    state.progressByTerm[latestEvent.term] = saved
+      ? {
+          correct_count: Number(saved.correct_count || 0),
+          incorrect_count: Number(saved.incorrect_count || 0),
+          review_history: Array.isArray(saved.review_history) ? saved.review_history : fallbackProgress.review_history,
+        }
+      : fallbackProgress;
+    cacheProgress(latestEvent.profile_id, state.progressByTerm);
+    updateHomeStats();
+    updateResultSyncState(latestEvent.event_id, "synced");
+    updateSyncStatus(`在线同步已连接：${latestEvent.profile_id}`, "ok");
+  } catch (error) {
+    enqueuePendingEvent(latestEvent);
+    updateResultSyncState(latestEvent.event_id, "queued");
+    updateSyncStatus("本次作答已保存在本机，恢复网络后会自动同步。", "warn");
+    console.warn("[review] 作答后台同步失败，已加入离线队列。", error?.message || error);
+  }
 }
 
 async function submitAnswer() {
@@ -1239,8 +1275,9 @@ async function submitAnswer() {
   elements.submitButton.disabled = true;
   try {
     const correct = isCorrect(state.currentItem, answer);
-    await persistResult(correct, answer);
+    const { latestEvent, fallbackProgress } = applyResultLocally(correct, answer);
     renderResult();
+    void syncResultInBackground(latestEvent, fallbackProgress);
   } finally {
     state.submitting = false;
     elements.submitButton.disabled = false;
