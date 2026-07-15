@@ -329,12 +329,98 @@
     };
   }
 
+  const PROFILE_ID_KEY = "englearning.profile_id";
+  const PROFILE_IDS_KEY = "englearning.profile_ids";
+
+  function normalizeProfileId(value) {
+    return String(value || "").trim();
+  }
+
+  function getRememberedProfileIds() {
+    let remembered = [];
+    try {
+      const parsed = JSON.parse(windowObject.localStorage.getItem(PROFILE_IDS_KEY) || "[]");
+      remembered = Array.isArray(parsed) ? parsed : [];
+    } catch {}
+    const current = normalizeProfileId(windowObject.localStorage.getItem(PROFILE_ID_KEY));
+    return [...new Set([current, ...remembered].map(normalizeProfileId).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  }
+
+  function rememberProfileId(value) {
+    const profileId = normalizeProfileId(value);
+    windowObject.localStorage.setItem(PROFILE_ID_KEY, profileId);
+    if (!profileId) return getRememberedProfileIds();
+    const profileIds = [...new Set([...getRememberedProfileIds(), profileId])].sort((a, b) => a.localeCompare(b));
+    windowObject.localStorage.setItem(PROFILE_IDS_KEY, JSON.stringify(profileIds));
+    return profileIds;
+  }
+
+  async function listProfileIds(supabase) {
+    const localIds = getRememberedProfileIds();
+    if (!supabase) return { profileIds: localIds, online: false, error: null };
+    const response = await supabase.rpc("list_profile_ids");
+    let remoteIds = [];
+    let mode = "rpc";
+    if (!response.error) {
+      remoteIds = (response.data || []).map((item) => normalizeProfileId(item?.profile_id)).filter(Boolean);
+    } else {
+      mode = "legacy";
+      const pageSize = 1000;
+      for (let offset = 0; ; offset += pageSize) {
+        const legacyResponse = await supabase
+          .from("review_progress")
+          .select("profile_id")
+          .order("profile_id")
+          .range(offset, offset + pageSize - 1);
+        if (legacyResponse.error) return { profileIds: localIds, online: false, error: response.error };
+        const rows = legacyResponse.data || [];
+        remoteIds.push(...rows.map((item) => normalizeProfileId(item?.profile_id)).filter(Boolean));
+        if (rows.length < pageSize) break;
+      }
+    }
+    const profileIds = [...new Set([...localIds, ...remoteIds])].sort((a, b) => a.localeCompare(b));
+    try {
+      windowObject.localStorage.setItem(PROFILE_IDS_KEY, JSON.stringify(profileIds));
+    } catch {}
+    return { profileIds, online: true, mode, error: null };
+  }
+
+  async function fetchReviewProgress(supabase, profileId) {
+    const normalizedProfileId = normalizeProfileId(profileId);
+    if (!supabase || !normalizedProfileId) return { data: [], error: null, mode: "local" };
+    const response = await supabase.rpc("get_review_progress", { p_profile_id: normalizedProfileId });
+    if (!response.error) return { data: response.data || [], error: null, mode: "rpc" };
+    const legacyResponse = await supabase
+      .from("review_progress")
+      .select("term, correct_count, incorrect_count, review_history, updated_at")
+      .eq("profile_id", normalizedProfileId)
+      .order("term");
+    if (!legacyResponse.error) return { data: legacyResponse.data || [], error: null, mode: "legacy" };
+    return { data: [], error: response.error, mode: "offline" };
+  }
+
+  function renderProfileOptions(datalist, profileIds) {
+    if (!datalist) return;
+    datalist.replaceChildren(
+      ...(profileIds || []).map((profileId) => {
+        const option = document.createElement("option");
+        option.value = profileId;
+        return option;
+      }),
+    );
+  }
+
   windowObject.ContentStore = {
     createSupabaseClient,
     fetchCollection,
     fetchTerm,
     fetchPrefix,
     peekCollectionCache,
+    getRememberedProfileIds,
+    rememberProfileId,
+    listProfileIds,
+    fetchReviewProgress,
+    renderProfileOptions,
   };
 })(window);
 

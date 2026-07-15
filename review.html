@@ -7,10 +7,10 @@
     <title>生词拼写复习</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260715-desk" />
+    <link rel="stylesheet" href="./review.css?v=20260715-profiles" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js?v=20260715-desk"></script>
-    <script src="./content-store.js?v=20260715-desk"></script>
+    <script src="./site-config.js?v=20260715-profiles"></script>
+    <script src="./content-store.js?v=20260715-profiles"></script>
   </head>
   <body>
     <main class="page">
@@ -56,7 +56,8 @@
             <form class="setup-main" autocomplete="off">
               <div class="setup-field">
                 <label class="label" for="profile-id">同步标识</label>
-                <input id="profile-id" class="control text-control" type="password" placeholder="输入你的私有同步标识" autocomplete="off" />
+                <input id="profile-id" class="control text-control" type="text" list="profile-id-options" placeholder="选择已有标识或输入新标识" autocomplete="off" />
+                <datalist id="profile-id-options"></datalist>
               </div>
               <div class="setup-field setup-field-compact">
                 <label class="label" for="review-count">复习数量</label>
@@ -161,7 +162,7 @@
       </section>
     </main>
 
-    <script src="./review-spelling.js?v=20260715-desk" defer></script>
-    <script src="./review.js?v=20260715-desk" defer></script>
+    <script src="./review-spelling.js?v=20260715-profiles" defer></script>
+    <script src="./review.js?v=20260715-profiles" defer></script>
   </body>
   </html>

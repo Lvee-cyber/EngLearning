@@ -47,6 +47,7 @@ const elements = {
   modeSpellingButton: document.querySelector("#mode-spelling-button"),
   modeChoiceButton: document.querySelector("#mode-choice-button"),
   profileIdInput: document.querySelector("#profile-id"),
+  profileOptions: document.querySelector("#profile-id-options"),
   setupStatus: document.querySelector("#setup-status"),
   syncStatus: document.querySelector("#sync-status"),
   historyToggleButton: document.querySelector("#history-toggle-button"),
@@ -210,13 +211,20 @@ function getProfileId() {
 
 function saveProfileId() {
   const profileId = getProfileId();
-  window.localStorage.setItem(STORAGE_KEYS.profileId, profileId);
+  const profileIds = window.ContentStore.rememberProfileId(profileId);
+  window.ContentStore.renderProfileOptions(elements.profileOptions, profileIds);
   return profileId;
 }
 
 function hydrateProfileId() {
   const fromStorage = window.localStorage.getItem(STORAGE_KEYS.profileId);
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
+  window.ContentStore.renderProfileOptions(elements.profileOptions, window.ContentStore.getRememberedProfileIds());
+}
+
+async function hydrateProfileOptions() {
+  const result = await window.ContentStore.listProfileIds(state.supabase);
+  window.ContentStore.renderProfileOptions(elements.profileOptions, result.profileIds);
 }
 
 function progressCacheKey(profileId) {
@@ -254,7 +262,7 @@ function savePendingEvents(events) {
 }
 
 async function syncReviewEvent(event) {
-  return state.supabase.rpc("record_review_event", {
+  const rpcResponse = await state.supabase.rpc("record_review_event", {
     p_event_id: event.event_id,
     p_profile_id: event.profile_id,
     p_term: event.term,
@@ -265,6 +273,50 @@ async function syncReviewEvent(event) {
     p_session_started_at: event.session_started_at,
     p_answered_at: event.answered_at,
   });
+  if (!rpcResponse.error) return rpcResponse;
+
+  const isMissingRpc = rpcResponse.error.code === "PGRST202" || /record_review_event/i.test(rpcResponse.error.message || "");
+  if (!isMissingRpc) return rpcResponse;
+
+  const existingResponse = await state.supabase
+    .from(REVIEW_PROGRESS_TABLE)
+    .select("profile_id, term, correct_count, incorrect_count, review_history, updated_at")
+    .eq("profile_id", event.profile_id)
+    .eq("term", event.term)
+    .maybeSingle();
+  if (existingResponse.error) return rpcResponse;
+
+  const existing = existingResponse.data || {};
+  const history = Array.isArray(existing.review_history) ? existing.review_history : [];
+  if (history.some((item) => item?.event_id === event.event_id)) return { data: existing, error: null, mode: "legacy" };
+  const nextHistory = [
+    ...history,
+    {
+      event_id: event.event_id,
+      answered_at: event.answered_at,
+      result: event.result,
+      user_answer: event.user_answer,
+      mode: event.mode,
+      session_id: event.session_id,
+      session_started_at: event.session_started_at,
+    },
+  ];
+  const upsertResponse = await state.supabase
+    .from(REVIEW_PROGRESS_TABLE)
+    .upsert(
+      {
+        profile_id: event.profile_id,
+        term: event.term,
+        correct_count: Number(existing.correct_count || 0) + (event.result === "correct" ? 1 : 0),
+        incorrect_count: Number(existing.incorrect_count || 0) + (event.result === "incorrect" ? 1 : 0),
+        review_history: nextHistory,
+        updated_at: new Date().toISOString(),
+      },
+      { onConflict: "profile_id,term" },
+    )
+    .select()
+    .single();
+  return { ...upsertResponse, mode: "legacy" };
 }
 
 async function flushPendingEvents() {
@@ -593,7 +645,7 @@ async function loadProgress() {
   if (!profileId) {
     state.syncReady = false;
     state.progressByTerm = {};
-    updateSyncStatus("请填写私有同步标识；进度会先保存在当前设备。", "warn");
+    updateSyncStatus("请选择或输入同步标识；进度会先保存在当前设备。", "warn");
     return;
   }
 
@@ -605,10 +657,12 @@ async function loadProgress() {
   }
 
   let data = [];
+  let progressMode = "rpc";
   try {
-    const response = await state.supabase.rpc("get_review_progress", { p_profile_id: profileId });
+    const response = await window.ContentStore.fetchReviewProgress(state.supabase, profileId);
     if (response.error) throw response.error;
     data = response.data || [];
+    progressMode = response.mode;
   } catch {
     updateSyncStatus("在线进度暂不可用，已切换到本机缓存；恢复网络后会自动补传。", "warn");
     return;
@@ -646,11 +700,12 @@ async function loadProgress() {
   cacheProgress(profileId, state.progressByTerm);
 
   state.syncReady = true;
-  updateSyncStatus(`在线同步已连接：${profileId}`, "ok");
+  updateSyncStatus(`${progressMode === "legacy" ? "旧版在线进度已连接" : "在线同步已连接"}：${profileId}`, "ok");
 }
 
 async function bootData() {
   state.supabase = window.ContentStore.createSupabaseClient();
+  await hydrateProfileOptions();
   await fetchWords();
   await fetchPersonalVocabulary().catch(() => {});
   await flushPendingEvents().catch(() => {});

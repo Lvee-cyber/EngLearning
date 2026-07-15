@@ -7,10 +7,10 @@
     <title>EngLearning</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260715-desk" />
+    <link rel="stylesheet" href="./review.css?v=20260715-profiles" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js?v=20260715-desk"></script>
-    <script src="./content-store.js?v=20260715-desk"></script>
+    <script src="./site-config.js?v=20260715-profiles"></script>
+    <script src="./content-store.js?v=20260715-profiles"></script>
   </head>
   <body>
     <main class="page landing-page">
@@ -35,6 +35,18 @@
           </div>
 
           <div class="landing-today" aria-label="今日学习概览">
+            <div class="landing-profile-switcher">
+              <label for="landing-profile-id">当前同步标识</label>
+              <input
+                id="landing-profile-id"
+                class="landing-profile-control"
+                type="text"
+                list="landing-profile-options"
+                placeholder="选择或输入标识"
+                autocomplete="off"
+              />
+              <datalist id="landing-profile-options"></datalist>
+            </div>
             <div id="landing-progress-ring" class="landing-progress-ring" style="--progress: 0%">
               <strong id="landing-due-count">—</strong>
               <span>待复习</span>
@@ -104,6 +116,6 @@
       </section>
     </main>
 
-    <script src="./index.js?v=20260715-desk" defer></script>
+    <script src="./index.js?v=20260715-profiles" defer></script>
   </body>
 </html>

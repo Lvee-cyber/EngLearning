@@ -13,7 +13,7 @@
 - `Supabase review_events`
   每次作答写入一条不可变事件，再由数据库原子更新汇总进度
 - `Supabase personal_vocabulary`
-  保存某个私有同步标识从辞典加入的个人词条，不再修改公共内容表
+  保存某个同步标识从辞典加入的个人词条，不再修改公共内容表
 - `Supabase vocabulary_words`
   由 GitHub Action 根据 `data/words.json` 自动同步，作为网页端词库主数据源
 - `Supabase dictionary_entries`
@@ -53,7 +53,7 @@
    - `SUPABASE_URL`
    - `SUPABASE_SERVICE_ROLE_KEY`
 
-每次更新 `supabase_schema.sql` 后需要在 Supabase SQL Editor 中重新执行。当前仍是个人部署模式：同步标识应使用难以猜测的私有长字符串，页面不会再枚举其他标识。若要开放给多人使用，应升级为 Supabase Auth 与基于 `auth.uid()` 的 RLS。
+每次更新 `supabase_schema.sql` 后需要在 Supabase SQL Editor 中重新执行。当前是小范围使用模式：页面会记住本机标识，并从 Supabase 列出已有标识供下拉选择。若要开放给不受信任的公众使用，应升级为 Supabase Auth 与基于 `auth.uid()` 的 RLS。
 
 ## 拉回线上复习进度
 

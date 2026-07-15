@@ -140,6 +140,48 @@
   gap: 24px;
 }
 
+.landing-profile-switcher {
+  width: min(100%, 260px);
+  display: grid;
+  gap: 7px;
+}
+
+.landing-profile-switcher label {
+  color: rgba(255, 248, 235, 0.58);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.landing-profile-control {
+  width: 100%;
+  min-height: 42px;
+  padding: 8px 34px 8px 13px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 12px;
+  outline: none;
+  color: #fffaf1;
+  background: rgba(255, 255, 255, 0.08);
+  background-image: linear-gradient(45deg, transparent 50%, rgba(255, 248, 235, 0.72) 50%), linear-gradient(135deg, rgba(255, 248, 235, 0.72) 50%, transparent 50%);
+  background-position: calc(100% - 16px) 18px, calc(100% - 11px) 18px;
+  background-repeat: no-repeat;
+  background-size: 5px 5px, 5px 5px;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  transition: border-color 160ms ease, background 160ms ease, box-shadow 160ms ease;
+}
+
+.landing-profile-control::placeholder {
+  color: rgba(255, 248, 235, 0.48);
+}
+
+.landing-profile-control:focus {
+  border-color: rgba(224, 160, 109, 0.7);
+  background-color: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 0 0 4px rgba(224, 160, 109, 0.14);
+}
+
 .landing-progress-ring {
   position: relative;
   width: 154px;
@@ -264,6 +306,11 @@
     grid-template-columns: auto 1fr;
     justify-items: stretch;
     align-items: center;
+  }
+
+  .landing-profile-switcher {
+    grid-column: 1 / -1;
+    width: 100%;
   }
 
   .landing-progress-ring {
@@ -828,6 +875,14 @@ a.history-word-chip:focus-visible {
     border-color 160ms ease,
     box-shadow 160ms ease,
     background 160ms ease;
+}
+
+.control[list] {
+  padding-right: 42px;
+  background-image: linear-gradient(45deg, transparent 50%, rgba(127, 57, 16, 0.7) 50%), linear-gradient(135deg, rgba(127, 57, 16, 0.7) 50%, transparent 50%);
+  background-position: calc(100% - 20px) 29px, calc(100% - 14px) 29px;
+  background-repeat: no-repeat;
+  background-size: 6px 6px, 6px 6px;
 }
 
 .text-control {
@@ -2693,6 +2748,10 @@ code {
     padding: 8px 12px;
     border-radius: 14px;
     font-size: 16px;
+  }
+
+  .control[list] {
+    background-position: calc(100% - 18px) 20px, calc(100% - 12px) 20px;
   }
 
   .control-compact {

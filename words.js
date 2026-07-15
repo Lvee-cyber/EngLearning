@@ -21,6 +21,7 @@ const state = {
 
 const elements = {
   profileIdInput: document.querySelector("#words-profile-id"),
+  profileOptions: document.querySelector("#words-profile-options"),
   filter: document.querySelector("#words-filter"),
   filterPills: [...document.querySelectorAll(".words-filter-pill")],
   sortButtons: [...document.querySelectorAll(".words-sort-button")],
@@ -387,14 +388,16 @@ async function loadProgress() {
   }
 
   let data = [];
+  let progressMode = "rpc";
   try {
     const response = await withTimeout(
-      state.supabase.rpc("get_review_progress", { p_profile_id: profileId }),
+      window.ContentStore.fetchReviewProgress(state.supabase, profileId),
       PROGRESS_TIMEOUT_MS,
       "在线进度读取",
     );
     if (response.error) throw response.error;
     data = response.data || [];
+    progressMode = response.mode;
   } catch (error) {
     const status = getStaticWordsStatus();
     elements.syncStatus.textContent = `${status ? `${status}` : ""}在线进度暂未返回，已先展示本地词库；稍后可重试同步。`;
@@ -414,7 +417,7 @@ async function loadProgress() {
   try {
     window.localStorage.setItem(`englearning.progress.${profileId}`, JSON.stringify(state.progressByTerm));
   } catch {}
-  elements.syncStatus.textContent = `已连接在线进度：${profileId}；词库来源：${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}`;
+  elements.syncStatus.textContent = `${progressMode === "legacy" ? "已读取旧版在线进度" : "已连接在线进度"}：${profileId}；词库来源：${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}`;
 }
 
 function updateStats() {
@@ -566,7 +569,8 @@ function renderWords() {
 }
 
 async function reload() {
-  window.localStorage.setItem(STORAGE_KEYS.profileId, getProfileId());
+  const profileIds = window.ContentStore.rememberProfileId(getProfileId());
+  window.ContentStore.renderProfileOptions(elements.profileOptions, profileIds);
   await fetchPersonalVocabulary();
   await loadProgress();
   updateStats();
@@ -576,6 +580,8 @@ async function reload() {
 async function init() {
   elements.profileIdInput.value = window.localStorage.getItem(STORAGE_KEYS.profileId) || APP_CONFIG.defaultProfileId || "";
   state.supabase = window.ContentStore.createSupabaseClient();
+  const profileResult = await window.ContentStore.listProfileIds(state.supabase);
+  window.ContentStore.renderProfileOptions(elements.profileOptions, profileResult.profileIds);
   renderStaticStats();
   await fetchWords();
   updateStats();

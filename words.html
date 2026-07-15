@@ -7,10 +7,10 @@
     <title>词库查看</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260715-desk" />
+    <link rel="stylesheet" href="./review.css?v=20260715-profiles" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js?v=20260715-desk"></script>
-    <script src="./content-store.js?v=20260715-desk"></script>
+    <script src="./site-config.js?v=20260715-profiles"></script>
+    <script src="./content-store.js?v=20260715-profiles"></script>
   </head>
   <body>
     <main class="page">
@@ -33,7 +33,8 @@
         <form class="words-toolbar" autocomplete="off">
           <div class="setup-field">
             <label class="label" for="words-profile-id">同步标识</label>
-            <input id="words-profile-id" class="control text-control" type="password" placeholder="输入你的私有同步标识" autocomplete="off" />
+            <input id="words-profile-id" class="control text-control" type="text" list="words-profile-options" placeholder="选择已有标识或输入新标识" autocomplete="off" />
+            <datalist id="words-profile-options"></datalist>
           </div>
           <div class="setup-field">
             <label class="label" for="words-filter">筛选状态</label>
@@ -89,6 +90,6 @@
       </section>
     </main>
 
-    <script src="./words.js?v=20260715-desk" defer></script>
+    <script src="./words.js?v=20260715-profiles" defer></script>
   </body>
 </html>

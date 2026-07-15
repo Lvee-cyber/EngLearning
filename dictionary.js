@@ -736,7 +736,7 @@ async function addToVocabulary(term) {
   }
   const profileId = getProfileId();
   if (!profileId) {
-    updateSummary("请先在复习页设置私有同步标识，再加入个人词库。");
+    updateSummary("请先在复习页选择或输入同步标识，再加入对应词库。");
     return;
   }
 

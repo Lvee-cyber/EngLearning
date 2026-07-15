@@ -61,9 +61,9 @@ drop policy if exists "public write personal vocabulary" on public.personal_voca
 drop policy if exists "public update personal vocabulary" on public.personal_vocabulary;
 drop policy if exists "public delete personal vocabulary" on public.personal_vocabulary;
 
--- Personal deployment mode: profile ids act as private sync keys. The frontend no
--- longer enumerates them, but Supabase Auth should replace these demo policies if
--- the project becomes multi-user or publicly promoted.
+-- Small-group deployment mode: profile ids are intentionally discoverable so the
+-- frontend can offer a convenient selector. Use Supabase Auth and auth.uid()-based
+-- RLS before expanding this project to untrusted public users.
 create policy "public read vocabulary words"
 on public.vocabulary_words for select to anon using (true);
 
@@ -164,6 +164,23 @@ as $$
   order by item.term;
 $$;
 
+create or replace function public.list_profile_ids()
+returns table (profile_id text)
+language sql
+stable
+security definer
+set search_path = public
+as $$
+  select distinct profiles.profile_id
+  from (
+    select item.profile_id from public.review_progress as item
+    union
+    select item.profile_id from public.personal_vocabulary as item
+  ) as profiles
+  where coalesce(trim(profiles.profile_id), '') <> ''
+  order by profiles.profile_id;
+$$;
+
 create or replace function public.get_personal_vocabulary(p_profile_id text)
 returns table (term text, payload jsonb, added_at timestamptz)
 language sql
@@ -204,6 +221,8 @@ $$;
 revoke all on function public.get_personal_vocabulary(text) from public;
 revoke all on function public.save_personal_vocabulary(text, text, jsonb) from public;
 revoke all on function public.get_review_progress(text) from public;
+revoke all on function public.list_profile_ids() from public;
 grant execute on function public.get_review_progress(text) to anon, authenticated;
+grant execute on function public.list_profile_ids() to anon, authenticated;
 grant execute on function public.get_personal_vocabulary(text) to anon, authenticated;
 grant execute on function public.save_personal_vocabulary(text, text, jsonb) to anon, authenticated;

@@ -13,6 +13,7 @@ const state = {
   suggestionRequestId: 0,
   activeSuggestionIndex: -1,
   progressByTerm: {},
+  progressMode: "local",
 };
 
 const elements = {
@@ -34,6 +35,8 @@ const elements = {
   streakCount: document.querySelector("#landing-streak-count"),
   progressRing: document.querySelector("#landing-progress-ring"),
   studyNote: document.querySelector("#landing-study-note"),
+  profileIdInput: document.querySelector("#landing-profile-id"),
+  profileOptions: document.querySelector("#landing-profile-options"),
 };
 
 const cacheHints = {
@@ -253,12 +256,29 @@ function formatContentTimestamp(value) {
 }
 
 function renderProgressStatus() {
-  const profileId = String(window.localStorage.getItem("englearning.profile_id") || "").trim();
-  elements.progressStatus.textContent = state.supabase
-    ? profileId
-      ? "已使用本机保存的私有同步标识读取学习进度。"
-      : "在线进度已配置；在复习页设置私有同步标识后即可启用个人学习统计。"
-    : "当前未检测到 Supabase 配置，复习页将只能读取本地基线内容。";
+  const profileId = String(elements.profileIdInput?.value || window.localStorage.getItem("englearning.profile_id") || "").trim();
+  if (!state.supabase) {
+    elements.progressStatus.textContent = "当前未检测到 Supabase 配置，复习页将只能读取本地进度。";
+    return;
+  }
+  if (!profileId) {
+    elements.progressStatus.textContent = "请选择或输入同步标识，即可显示对应学习进度。";
+    return;
+  }
+  if (state.progressMode === "rpc") {
+    elements.progressStatus.textContent = `当前标识：${profileId}；在线进度已连接。`;
+  } else if (state.progressMode === "legacy") {
+    elements.progressStatus.textContent = `当前标识：${profileId}；已通过旧版数据表读取进度。`;
+  } else {
+    elements.progressStatus.textContent = `当前标识：${profileId}；在线进度暂不可用，已显示本机缓存。`;
+  }
+}
+
+async function hydrateProfileOptions() {
+  const storedProfileId = String(window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
+  elements.profileIdInput.value = storedProfileId;
+  const result = await window.ContentStore.listProfileIds(state.supabase);
+  window.ContentStore.renderProfileOptions(elements.profileOptions, result.profileIds);
 }
 
 function dayKey(value) {
@@ -289,10 +309,12 @@ async function loadStudyDashboard() {
   state.words = Array.isArray(items) ? items : [];
   state.wordsSource = source;
 
-  const profileId = String(window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
+  const profileId = String(elements.profileIdInput?.value || window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
+  state.progressByTerm = {};
+  state.progressMode = profileId ? "offline" : "local";
   if (state.supabase && profileId) {
     const [progressResponse, personalResponse] = await Promise.all([
-      state.supabase.rpc("get_review_progress", { p_profile_id: profileId }),
+      window.ContentStore.fetchReviewProgress(state.supabase, profileId),
       state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId }),
     ]);
     if (progressResponse.error) {
@@ -302,7 +324,10 @@ async function loadStudyDashboard() {
         state.progressByTerm = {};
       }
       console.warn("[home] 在线进度暂不可用，已使用本机缓存。", progressResponse.error.message || progressResponse.error);
-    } else state.progressByTerm = Object.fromEntries((progressResponse.data || []).map((item) => [normalizeText(item.term), item]));
+    } else {
+      state.progressMode = progressResponse.mode;
+      state.progressByTerm = Object.fromEntries((progressResponse.data || []).map((item) => [normalizeText(item.term), item]));
+    }
     if (personalResponse.error) console.warn("[home] 个人词库暂不可用。", personalResponse.error.message || personalResponse.error);
     const merged = new Map(state.words.map((entry) => [normalizeText(entry.term), entry]));
     (personalResponse.data || []).forEach((row) => {
@@ -329,7 +354,8 @@ async function loadStudyDashboard() {
     ? todayCount
       ? `今天已经完成 ${todayCount} 次回忆，再来一小轮巩固记忆。`
       : `今天有 ${due} 个词可以继续巩固，先完成一轮 5 到 10 个。`
-    : `词库已有 ${state.words.length} 个词；设置私有同步标识后，这里会显示你的每日进度。`;
+    : `词库已有 ${state.words.length} 个词；选择同步标识后，这里会显示对应的每日进度。`;
+  renderProgressStatus();
 }
 
 function findDictionaryEntry(query) {
@@ -544,10 +570,20 @@ async function init() {
   }
 
   renderContentStatus();
-  renderProgressStatus();
   renderLookupState("输入单词后即可联想匹配候选词。");
+  await hydrateProfileOptions();
   await loadStudyDashboard();
 }
+
+elements.profileIdInput?.addEventListener("change", async () => {
+  const profileId = String(elements.profileIdInput.value || "").trim();
+  const profileIds = window.ContentStore.rememberProfileId(profileId);
+  window.ContentStore.renderProfileOptions(elements.profileOptions, profileIds);
+  elements.progressStatus.textContent = profileId ? `正在读取 ${profileId} 的学习进度。` : "请选择同步标识。";
+  await loadStudyDashboard();
+  const result = await window.ContentStore.listProfileIds(state.supabase);
+  window.ContentStore.renderProfileOptions(elements.profileOptions, result.profileIds);
+});
 
 elements.dictionarySubmit?.addEventListener("click", () => {
   runLookup().catch((error) => {
