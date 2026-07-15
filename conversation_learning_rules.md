@@ -97,9 +97,9 @@
 1. 从 `data/words.json` 中抽取词条进行复习
 2. 逐个提问，要求用户输入中文释义
 3. 根据答案判断正误
-4. 答对则累计 `correct_count`
-5. 答错则累计 `incorrect_count`
-6. 每次作答都写入 `review_history`
+4. 答对则在 Supabase `review_progress` 累计 `correct_count`
+5. 答错则在 Supabase `review_progress` 累计 `incorrect_count`
+6. 每次作答写入 `review_events`，断网时先保存在浏览器本地队列
 7. 当某词条累计答对达到 10 次时，将其视为熟词
 
 ## 三、词条字段建议
@@ -118,9 +118,8 @@
 - `pronunciation`
 - `accepted_answers`
 - `added_at`
-- `review.correct_count`
-- `review.incorrect_count`
-- `review.review_history`
+
+个人复习字段不写入 `data/words.json` 或 `data/dictionary.json`；内容文件只保存可公开的词条资料。
 
 其中：
 

@@ -20,11 +20,6 @@
       "字母开始"
     ],
     "added_at": "2026-04-01T16:52:49+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT",
     "pos": "N"
   },
@@ -48,11 +43,6 @@
       "帆船竞赛、俱乐部、（一组）选手"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -73,18 +63,13 @@
       "环游世界一周的帆船运动爱好者"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yack",
     "type": "word",
     "pos": "V",
-    "translation": ")(；俚)；)唠唠叨叨；闲扯（常为高声地）",
+    "translation": "俚)；)唠唠叨叨；闲扯（常为高声地）",
     "analysis": "v [I, Ipr, Ip] ~ (away/on) (about sb/sth) (sl 俚) talk continuously and often noisily (usu about sth unimportant) 唠唠叨叨, 闲扯（常为高声地）: Joy kept yacking (on) about the wedding. 乔伊唠唠叨叨地聊著婚礼的事.\nyack \nn (usu sing 通常作单数) (sl 俚) persistent or trivial conversation; chatter 絮絮叨叨的谈话; 聊天; 唠叨: having a good old yack with the neighbours 与邻居痛快地闲扯往事.",
     "phonetic": "/ jæk; jæk/",
     "origin": "待查",
@@ -94,17 +79,11 @@
     ],
     "pronunciation": "/ jæk; jæk/",
     "accepted_answers": [
-      ")(",
       "俚)",
-      ")唠唠叨叨",
+      "唠唠叨叨",
       "闲扯（常为高声地）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -125,11 +104,6 @@
       "唠叨"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -149,11 +123,6 @@
       "粗鲁的态度"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -172,18 +141,13 @@
       "牛（产於中亚、西藏）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yale",
     "type": "word",
     "pos": "N",
-    "translation": ")(；专利名)；耶鲁锁；撞锁（常用作门等的锁）",
+    "translation": "专利名)；耶鲁锁；撞锁（常用作门等的锁）",
     "analysis": "n (also `Yale lock) (propr 专利名) type of lock with revolving internal parts, commonly used for doors, etc 耶鲁锁, 撞锁（常用作门等的锁）: have a Yale (lock) fitted 安装耶鲁锁 * [attrib 作定语] a Yale key 耶鲁锁的钥匙.",
     "phonetic": "/ jeɪl; jel/",
     "origin": "待查",
@@ -193,17 +157,11 @@
     ],
     "pronunciation": "/ jeɪl; jel/",
     "accepted_answers": [
-      ")(",
       "专利名)",
       "耶鲁锁",
       "撞锁（常用作门等的锁）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -224,18 +182,13 @@
       "甘薯（通称白薯或红薯）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yammer",
     "type": "word",
     "pos": "V",
-    "translation": ")(；口；贬)；高声不停地说",
+    "translation": "口；贬)；高声不停地说",
     "analysis": "v [I, Ipr, Ip] ~ (on) (aboutsb/sth) (infml derog 口, 贬) talk noisily and continuously; complain or speak in a whining, grumbling manner 高声不停地说; 抱怨; 嘟嘟囔囔地说: I do wish they'd stop yammering on about the size of the bill. 我真希望他们别再嘟嘟囔囔地抱怨帐单的价钱了.",
     "phonetic": "/ ˈjæmə(r); ˈjæmə/",
     "origin": "待查",
@@ -244,17 +197,11 @@
     ],
     "pronunciation": "/ ˈjæmə(r); ˈjæmə/",
     "accepted_answers": [
-      ")(",
       "口",
       "贬)",
       "高声不停地说"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -274,11 +221,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -297,11 +239,6 @@
       "口)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -322,18 +259,13 @@
       "美洲人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yap",
     "type": "word",
     "pos": "V",
-    "translation": ")(；（尤指小狗）叫；吠；向邮递员狂吠",
+    "translation": "（尤指小狗）叫；吠；向邮递员狂吠",
     "analysis": "v (-pp-) [I, Ipr]  1 ~ (at sb/sth) (esp of small dogs) utter short sharp barks （尤指小狗）叫, 吠: yapping at the postman 向邮递员狂吠.  2 (sl 俚) talk noisily and foolishly 哇啦哇啦地瞎说: Stop yapping! 别瞎扯了!\nyap \nn sound of yapping （小狗的）叫声; 哇啦哇啦的说话声.",
     "phonetic": "/ jæp; jæp/",
     "origin": "待查",
@@ -342,17 +274,11 @@
     ],
     "pronunciation": "/ jæp; jæp/",
     "accepted_answers": [
-      ")(",
       "（尤指小狗）叫",
       "吠",
       "向邮递员狂吠"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -366,7 +292,7 @@
         "definition": "An enclosed area of land around a building, a working or storage area, or a unit of length equal to three feet."
       }
     ],
-    "translation": ")(；建筑物附近或周围（通常为无顶篷的）围起来的空地（常为经铺设者）；院子",
+    "translation": "建筑物附近或周围（通常为无顶篷的）围起来的空地（常为经铺设者）；院子",
     "analysis": "n  1 (a) (usu unroofed) enclosed or partly enclosed space near or round a building or group of buildings, often paved 建筑物附近或周围（通常为无顶篷的）围起来的空地（常为经铺设者）; 院子. (b) (US) = backyard (back2).  2 (usu in compounds 通常用以构成复合词) enclosure for a special purpose or business （为某目的或用途的）场地: a `railway yard/`marshalling yard, ie an area where trains are made up, and where coaches, wagons, etc are stored 铁路站场[调车场] * a `builder's yard 建筑场地.",
     "phonetic": "/ jɑː:d; jɑːrd/",
     "origin": "待查",
@@ -376,16 +302,10 @@
     ],
     "pronunciation": "/ jɑː:d; jɑːrd/",
     "accepted_answers": [
-      ")(",
       "建筑物附近或周围（通常为无顶篷的）围起来的空地（常为经铺设者）",
       "院子"
     ],
     "added_at": "2026-05-19T09:07:57.972Z",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -406,11 +326,6 @@
       "有相当大码数的帆布"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -432,11 +347,6 @@
       "耐久性是质量好坏的一个尺度"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -455,11 +365,6 @@
       "（犹太男子戴的）无檐小圆帽（尤指祈祷时所戴者）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -480,11 +385,6 @@
       "故事"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -504,11 +404,6 @@
       "有很多欧蓍草的灌木树篱"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -527,11 +422,6 @@
       "（某些国家的穆斯林妇女在公众场所戴的）面纱"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -553,11 +443,6 @@
       "偏航"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -578,11 +463,6 @@
       "小渔船"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -607,11 +487,6 @@
       "他们脚下的冰川有一道深深的裂缝"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -632,11 +507,6 @@
       "量度单位)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -657,11 +527,6 @@
       "的复数)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -681,11 +546,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -706,11 +566,6 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -735,11 +590,6 @@
       "後年"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -761,11 +611,6 @@
       "一两岁的小雌马"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -788,18 +633,13 @@
       "思念"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yeast",
     "type": "word",
     "pos": "N",
-    "translation": ")酵母；发酵物；啤酒用酵母",
+    "translation": "酵母；发酵物；啤酒用酵母",
     "analysis": "n [C, U] (type of) fungous substance used in the making of beer and wine, or to make bread rise2(10) 酵母; 发酵物: brewer's yeast 啤酒用酵母 * baker's yeast 发面用酵母.\nyeasty \nadj tasting or smelling strongly of yeast; frothy like yeast when it is developing 酵母味的; 发酵的; 起泡的. \nyeastiness \nn [U].",
     "phonetic": "/ jiːst; jist/",
     "origin": "待查",
@@ -809,23 +649,18 @@
     ],
     "pronunciation": "/ jiːst; jist/",
     "accepted_answers": [
-      ")酵母",
+      "酵母",
       "发酵物",
       "啤酒用酵母"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yell",
     "type": "word",
     "pos": "V",
-    "translation": ")(；号叫；喊叫",
+    "translation": "号叫；喊叫",
     "analysis": "v  1 [I, Ipr, Ip] ~ (out) (at sb/sth); ~ (out) (in/with sth) utter a loud sharp cry or cries as of pain, excitement, etc 号叫; 喊叫; 叫喊: Stop yelling, can't you! 别嚷了, 行吗? * She yelled (out) at her mischievous child. 她对她淘气的孩子大喊大叫. * yell out in anguish, terror, pain, etc 因苦恼、 惊恐、 疼痛等叫喊起来 * yell with fear, agony, laughter 害怕、 痛苦、 笑得喊叫起来.2 [I, Ipr, Tn, Tn.pr, Tn.p] ~ (at sb) (about/for sth); ~ (out) sth (at sb/sth) speak or say (sth) in a yelling voice 叫喊著说（某事）: She yelled at him about his constant drunkenness. 她大嚷大叫说他总是烂醉如泥. * The crowd yelled (out) encouragement at the players. 人们叫喊著为选手打气. =>Usage at shout 用法见 shout.\nyell \nn  1 loud sharp cry of pain, excitement, etc 叫声;喊声; 喊叫: a yell of terror 恐怖的叫喊声 * let out an ear-splitting yell 发出震耳欲聋的号叫声.  2 (US) particular type of shout or cheer used at a college to encourage a team, etc （学院中拉拉队助威的）喊叫声.",
     "phonetic": "/ jel; jel/",
     "origin": "待查",
@@ -838,16 +673,10 @@
     ],
     "pronunciation": "/ jel; jel/",
     "accepted_answers": [
-      ")(",
       "号叫",
       "喊叫"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -868,15 +697,9 @@
     "pronunciation": "/ ˈjeləʊ; ˈjelo/",
     "accepted_answers": [
       "黄（色）的",
-      "插图",
-      ")("
+      "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -896,18 +719,13 @@
       "亦称黄道眉）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yelp",
     "type": "word",
     "pos": "N",
-    "translation": ")（因痛苦、气愤、兴奋等的）短而尖的叫声；我踩了那狗的爪子；它汪汪叫了一声；发出短而尖的叫声",
+    "translation": "（因痛苦、气愤、兴奋等的）短而尖的叫声；我踩了那狗的爪子；它汪汪叫了一声；发出短而尖的叫声",
     "analysis": "n a short sharp cry (of pain, anger, excitement, etc) （因痛苦、 气愤、 兴奋等的）短而尖的叫声: The dog gave a yelp when I trod on its paw. 我踩了那狗的爪子, 它汪汪叫了一声.\nyelp \nv [I] utter such a cry 发出短而尖的叫声.",
     "phonetic": "/ jelp; jelp/",
     "origin": "待查",
@@ -916,17 +734,12 @@
     ],
     "pronunciation": "/ jelp; jelp/",
     "accepted_answers": [
-      ")（因痛苦、气愤、兴奋等的）短而尖的叫声",
+      "（因痛苦、气愤、兴奋等的）短而尖的叫声",
       "我踩了那狗的爪子",
       "它汪汪叫了一声",
       "发出短而尖的叫声"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -946,18 +759,13 @@
       "圆（日本的货币单位）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yeoman",
     "type": "word",
     "pos": "N",
-    "translation": ")(；尤为古义)；自耕农",
+    "translation": "尤为古义)；自耕农",
     "analysis": "n (pl -men / -mEn; -mEn/) (Brit)  1 (esp arch 尤为古义) farmer who owns and works his land 自耕农: [attrib 作定语] yeoman farmers 自耕农.  2 (formerly) servant in a royal or noble household （旧时）（皇室或贵族的）侍者, 仆人.",
     "phonetic": "/ ˈjəʊmən; ˈjomən/",
     "origin": "待查",
@@ -966,23 +774,17 @@
     ],
     "pronunciation": "/ ˈjəʊmən; ˈjomən/",
     "accepted_answers": [
-      ")(",
       "尤为古义)",
       "自耕农"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yeomanry",
     "type": "word",
     "pos": "N",
-    "translation": ")(；自耕农；（旧时）（由农民等组成的）义勇骑兵队",
+    "translation": "自耕农；（旧时）（由农民等组成的）义勇骑兵队",
     "analysis": "n [Gp] (Brit) (a) country landowners 自耕农. (b) (formerly) volunteer cavalry force raised from farmers, etc （旧时）（由农民等组成的）义勇骑兵队.\nYeoman of the Guard \nmember of the British sovereign's bodyguard （英国王室的）卫士.\nyeoman service \n(esp rhet 尤作修辞) long and useful service; help, esp at a time of need 长期而有用的服务; 援助（尤指急需时）: retiring after 40 years' yeoman service to the company 对公司勤勤恳恳工作40年後退休.",
     "phonetic": "/ -rɪ; -rɪ/",
     "origin": "待查",
@@ -991,23 +793,17 @@
     ],
     "pronunciation": "/ -rɪ; -rɪ/",
     "accepted_answers": [
-      ")(",
       "自耕农",
       "（旧时）（由农民等组成的）义勇骑兵队"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yes",
     "type": "word",
     "pos": "word",
-    "translation": ")(；用作肯定的答覆)；这是毕加索的画吗",
+    "translation": "用作肯定的答覆)；这是毕加索的画吗",
     "analysis": "interj  1 (a) (used to answer in theaffirmative 用作肯定的答覆): `Is this a painting by Picasso?'`Yes, it is.' ｀这是毕加索的画吗?＇｀是.＇ * (emphatic 强调) `Don't you want to come with us?' `Yes, of course I do.'｀你难道不愿意来跟我们在一起吗?＇｀我当然愿意.＇ (b) (used to show that a statement is correct or that the speaker agrees 用以表示一说法正确或说话人同意): `English is a difficult language.' `Yes, but not as difficult as Chinese.' ｀英语很难.＇｀是啊, 但没有汉语那麽难.＇ * `Isn't she sweet?' `Yes, she is.' ｀她很可爱吧?＇｀对, 她很可爱.＇ (c) (used to agree with a request 用以表示同意一要求): `Can I borrow this record?' `Yes, of course.' ｀我可以借这张唱片吗?＇｀当然可以.＇  2 (used to accept an invitation or offer 用以表示接受一邀请或提议): `Coffee?' `Yes, please.' ｀要咖啡吗?＇｀要, 谢谢.＇  3 (used to acknowledge one's presence in a group or to reply when one is called 用以应答呼唤): `Williams.' `Yes, sir.' ｀威廉.＇｀到.＇ * `Waiter!' `Yes, madam.' ｀服务员!＇｀　, 小姐.＇  4 (used to ask what sb wants 用以询问某人之所需): `Yes?' `I'd like 2 tickets, please.' ｀要什麽?＇｀请给我来两张票.＇ Cf 参看 no interj.\nyes \nn (pl yeses / 5jesIz; `jZsIz/) answer that affirms, agrees, accepts, etc 表示肯定、 同意、 接受等的答覆: Can't you give me a straight (ie direct) yes or no? 你能不能给我一个直截了当的答覆, 行还是不行?",
     "phonetic": "/ jes; jes/",
     "origin": "待查",
@@ -1020,16 +816,10 @@
     ],
     "pronunciation": "/ jes; jes/",
     "accepted_answers": [
-      ")(",
       "用作肯定的答覆)",
       "这是毕加索的画吗"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1048,11 +838,6 @@
       "唯唯诺诺的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1073,11 +858,6 @@
       "往昔"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1102,18 +882,13 @@
       "他昨天刚到"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yet",
     "type": "word",
     "pos": "V / Adv",
-    "translation": ")(；用於疑问句和否定句中及用於表示怀疑的动词之後；通常位於句末；在英式英语中通常用於现在或过去完成时态；在美式英语通常用於简单过去时态)",
+    "translation": "用於疑问句和否定句中及用於表示怀疑的动词之後；通常位於句末；在英式英语中通常用於现在或过去完成时态；在美式英语通常用於简单过去时态)",
     "analysis": "adv  1 (a) (used in questions and negative sentences and after vs expressing uncertainty, usu in final position; in British English usu with the present or past perfect tense, in US English usu with the simple past 用於疑问句和否定句中及用於表示怀疑的动词之後, 通常位於句末; 在英式英语中通常用於现在或过去完成时态, 在美式英语通常用於简单过去时态) by this or that time; until now/then 到这时; 到那时; 直至现在[当时]; 尚; 还; 仍然: I haven't received a letter from him yet. 我至今尚未收到他的信. (Cf 参看 (US) I didn't receive a letter from him yet.) * `Are you ready?' `No, not yet.' ｀你准备好了吗?＇｀还没准备好呢.＇ * She was not yet sure if she could trust him. 她还没有把握确定是否相信他. * I doubt if he has read it yet. 我怀疑他是否看过这篇东西. (b) now or in the immediate future 现在; 马上; 立刻: Don't go yet. 先不要走. * You don't need to start yet. 你不必立刻就走. =>Usage at already 用法见already already.  2 (used with a modal v; formal if placed immediately after the modal v 与情态动词连用; 若紧接情态动词之後则更文雅) at an indefinite time in the future 不久的将来; 迟早; 早晚: We may win yet. 我们迟早会获胜的. * She may surprise us all yet. 她总有一天会让我们大家感到惊奇. * (fml 文) We can yet reach our destination. 我们终究能达到目的.  3 (used after superlatives 用於最高级之後) made, produced, written, etc until and including now/then 直至现在[当时]（所制造、 生产、 书写等）: the most comprehensive study yet of his poetry 迄今为止对他的诗歌最全面的研究 * the highest building yet constructed 到现在为止最高的建筑物 * her best novel yet 她的最好的小说.  4 (used in front of comparatives 用於比较级之前) even 更: yet one more example of criminal negligence 另一个刑事疏忽之例 * yet another victim of government policy on national health funding 政府的国民保健拨款政策的另一个受害者 * a recent and yet more improbable theory 最新的而且也是更加不可信的理论 * advancing yet further 更进一步的发展.  5 (idm 习语) as `yet until now/then 到现在[当时]为止: an as yet unpublished document 现尚未发表的文件 * As yet little is known of the causes of the disease. 造成这种疾病的原因迄今几乎一无所知. yet a`gain (emphatic 强调) once more 再; 再一次: Yet again we can see the results of hasty decision-making. 我们可以再一次看到仓促作出决定的後果 > yet conj but at the same time; nevertheless 然而; 而; 但是: slow yet thorough 虽然慢但是彻底 * She trained hard all year yet still failed to reach her best form. 她全年艰苦训练, 然而仍未达到自己的最佳状态.",
     "phonetic": "/ jet; jet/",
     "origin": "待查",
@@ -1126,18 +901,12 @@
     ],
     "pronunciation": "/ jet; jet/",
     "accepted_answers": [
-      ")(",
       "用於疑问句和否定句中及用於表示怀疑的动词之後",
       "通常位於句末",
       "在英式英语中通常用於现在或过去完成时态",
       "在美式英语通常用於简单过去时态)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1156,18 +925,13 @@
       "雪人（据报道生存在喜马拉雅山高处似人或似熊的巨大长毛动物）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yew",
     "type": "word",
     "pos": "N",
-    "translation": ")(；紫杉；见附录",
+    "translation": "紫杉；见附录",
     "analysis": "n (a) (also `yew-tree) [C] small evergreen tree with dark-green needle-like leaves and small redberries, often planted for garden hedges and in churchyards紫杉. =>illus at App 1 见附录1插图, page i. (b) [U] wood of this tree 紫杉木.",
     "phonetic": "/ juː; ju/",
     "origin": "待查",
@@ -1176,16 +940,10 @@
     ],
     "pronunciation": "/ juː; ju/",
     "accepted_answers": [
-      ")(",
       "紫杉",
       "见附录"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1205,11 +963,6 @@
       "青年招待所协会"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1231,11 +984,6 @@
       "犹太人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1257,18 +1005,13 @@
       "说依地语"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yield",
     "type": "word",
     "pos": "V",
-    "translation": ")生出、产生或提供（自然产物、结果或利润）；不再结果实的树；得到新的认识的实验",
+    "translation": "生出、产生或提供（自然产物、结果或利润）；不再结果实的树；得到新的认识的实验",
     "analysis": "v  1 [Tn] bear, produce or provide (a natural product, a result or profit) 生出、 产生或提供（自然产物、 结果或利润）: trees that no longer yield fruit 不再结果实的树 * experiments yielding new insights 得到新的认识的实验 * Building societies' investment accountsyield high interest. 房屋建筑协会的投资利润获得很高的利息.  2 (a) [I, Ipr, Ip] ~ (to sb/sth) (fml 文) allow oneself to be overcome by pressure; cease opposition (to sb/sth) 屈服; 让步; （对某人[某事物]）不再反对: The town was forced to yield after a long siege. 该城受长期围困而被迫弃守. * The government has not yielded to public opinion. 政府并未向舆论让步. * She yielded to temptation and had another chocolate. 她禁不住诱惑, 又吃了一块巧克力. (b) [I] be forced out of the usual or natural shape; bend or break under pressure （受外力）变形; （受压力）弯曲或折断: Despite all our attempts to break it open, the lock would not yield. 尽管我们想方设法要把锁弄断, 它却仍纹丝不动. * The dam eventually yielded and collapsed under the weight of water. 水坝在水的压力下终於决口.  3 [Ipr] ~ to sth be replaced or superseded by sth 被某事物代替或替换: Increasingly, farm land is yielding to property development. 地产的发展逐渐占据了农田. * The cinema has largely yielded to the home video. 电影业在很大程度上已让位给家庭录像电影.  4 [Tn, Tn.pr, Tn.p] ~ sb/sth (up) (to sb) (fml 文) (a) reluctantly give control of sth (to sb); deliver sb/sth (to sb) 勉强地将某事物交出（予某人）; 将某人[某事物]送交（某人）: The terrorists have yielded two of their hostages (up) to the police. 恐怖分子已把其中两名人质交给警方. (b) reveal sth; disclose sth 泄露、 揭露、 透露、 暴露或露出某事物: The universe is slowly yielding up its secrets to scientists. 宇宙慢慢地向科学家展现了自己的秘密.  5 [I, Ipr] ~ (to sb/sth) (esp US) (of traffic) allow other traffic to have right of way （指道路上的来往车辆）让路给有先行权的车辆.  6 [I, Ipr] ~ (to sb/sth) (fml 文) admit that one is inferior (to sb/sth); concede 承认自己比不上（某人[某事物]）; 让步; 忍让: I yield to no one in my admiration for (ie am one of the greatest admirers of) her work. 我比任何人都佩服她的工作.\nyield \nn [U, C] (amount of) that which is yielded or produced 生产或出产（的量）: a good, high, poor, etc yield of wheat 小麦的好收成、 高产、 歉收等 * What is the yield per acre? 每英亩的产量是多少? * the annual milk yield 牛奶的年产量.\nyielding \nadj (a) that can bend and give2(1); pliable rather than stiff 易弯曲的; 有弹性的; 柔软的: a soft, yielding material 柔软的、 有弹性的材料. (b) likely to accept the wishes of others; not obstinate; compliant 顺从的; 不固执的; 依从的: a gentle, yielding personality 温柔、 和顺的性情 * She is rarely yielding on such an issue. 在这类问题上她是很少让步的. \nyieldingly \nadv.",
     "phonetic": "/ jiːld; jild/",
     "origin": "待查",
@@ -1281,16 +1024,11 @@
     ],
     "pronunciation": "/ jiːld; jild/",
     "accepted_answers": [
-      ")生出、产生或提供（自然产物、结果或利润）",
+      "生出、产生或提供（自然产物、结果或利润）",
       "不再结果实的树",
       "得到新的认识的实验"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1310,11 +1048,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1334,11 +1067,6 @@
       "用以表示愉快或兴奋)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1359,18 +1087,13 @@
       "基督教青年会"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yo-yo",
     "type": "word",
     "pos": "N",
-    "translation": ")(；专利名)；悠悠（玩具；为木制或塑料制两厚圆盘；中间有一深沟连接一绳；用手指抻绳可使之沿绳上下移动）",
+    "translation": "专利名)；悠悠（玩具；为木制或塑料制两厚圆盘；中间有一深沟连接一绳；用手指抻绳可使之沿绳上下移动）",
     "analysis": "n (pl ~s) (propr 专利名) toy consisting of two thick discs of wood or plastic with a deep groove between, which can be made to rise and fall on an attached string when this is jerked with a finger 悠悠（玩具, 为木制或塑料制两厚圆盘, 中间有一深沟连接一绳, 用手指抻绳可使之沿绳上下移动）: The price of petrol is going up and down like a Yo-Yo. 汽油的价格像悠悠一样忽上忽下.",
     "phonetic": "/ ˈjəʊjəʊ; ˈjoˌjo/",
     "origin": "待查",
@@ -1379,7 +1102,6 @@
     ],
     "pronunciation": "/ ˈjəʊjəʊ; ˈjoˌjo/",
     "accepted_answers": [
-      ")(",
       "专利名)",
       "悠悠（玩具",
       "为木制或塑料制两厚圆盘",
@@ -1387,18 +1109,13 @@
       "用手指抻绳可使之沿绳上下移动）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
     "term": "yob",
     "type": "word",
     "pos": "N",
-    "translation": ")(；旧；俚)；粗俗的青年",
+    "translation": "旧；俚)；粗俗的青年",
     "analysis": "(also yobbo / 5jCbEU; `jBbo/) n (pl ~s) (dated Brit sl 旧, 俚) aggressive, ill-tempered and ill-mannered young person; lout 粗俗的青年; 粗人.",
     "phonetic": "/ jɒb; jɑːb/",
     "origin": "待查",
@@ -1407,17 +1124,11 @@
     ],
     "pronunciation": "/ jɒb; jɑːb/",
     "accepted_answers": [
-      ")(",
       "旧",
       "俚)",
       "粗俗的青年"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1437,11 +1148,6 @@
       "岳得尔调或呼喊"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1462,11 +1168,6 @@
       "瑜伽修行法"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1489,11 +1190,6 @@
       "酸乳酪（常以水果等调味）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1514,15 +1210,9 @@
     "pronunciation": "/ jəʊk; jok/",
     "accepted_answers": [
       "（尤指）牛轭",
-      ")(",
       "复数不变)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1543,11 +1233,6 @@
       "土包子"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1568,11 +1253,6 @@
       "把三个蛋黄搅匀"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1592,11 +1272,6 @@
       "於此日禁食及作忏悔祈祷）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1617,11 +1292,6 @@
       "穿过荒郊野外负重行军"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1643,11 +1313,6 @@
       "你看见那边的一丛树林了吗"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1668,11 +1333,6 @@
       "往昔"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1693,11 +1353,6 @@
     ],
     "dict_source": "data/DICT/P/P-s,t,u,v,w,x,yz.txt",
     "added_at": "2026-03-31T10:39:59+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "pos": "word",
     "origin": "待查"
   },
@@ -1719,15 +1374,9 @@
     "pronunciation": "/ juː; ju/",
     "accepted_answers": [
       "人称代词",
-      "你们",
-      ")("
+      "你们"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1745,14 +1394,9 @@
     "accepted_answers": [
       "人称代词(",
       "尤用於美国南部)",
-      ")你们"
+      "你们"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1771,11 +1415,6 @@
       "缩约式"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1794,11 +1433,6 @@
       "缩约式"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1817,11 +1451,6 @@
       "缩约式"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1840,11 +1469,6 @@
       "缩约式"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1868,11 +1492,6 @@
       "新诞生的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1897,11 +1516,6 @@
       "青年"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1926,11 +1540,6 @@
       "你们的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1954,11 +1563,6 @@
       "你们的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -1981,11 +1585,6 @@
       "反身)("
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2010,11 +1609,6 @@
       "我小时候常到那里去"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2037,11 +1631,6 @@
       "有朝气的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2062,11 +1651,6 @@
       "住在青年招待所里"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2090,11 +1674,6 @@
       "号叫"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2115,11 +1694,6 @@
       "我们获得参加青年训练的一个姑娘的帮助"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2138,11 +1712,6 @@
       "丝兰（花）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2159,15 +1728,9 @@
     "pronunciation": "/ jʌk; jʌk/",
     "accepted_answers": [
       "俚)(",
-      "用以表示厌恶、反感等)",
-      ")("
+      "用以表示厌恶、反感等)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2188,11 +1751,6 @@
       "恭贺圣诞（如於圣诞贺卡上者）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2212,11 +1770,6 @@
       "用以表示吃好东西时或想到吃好东西时的快乐)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2237,11 +1790,6 @@
       "味道好的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2263,11 +1811,6 @@
       "尤指在城市工作的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   },
   {
@@ -2288,11 +1831,6 @@
       "基督教女青年会"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Y/Y.TXT"
   }
 ]

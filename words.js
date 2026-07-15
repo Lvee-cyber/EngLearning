@@ -8,6 +8,7 @@ const CONTENT_STATS = APP_CONFIG.contentStats || {};
 const PROGRESS_TIMEOUT_MS = Number(APP_CONFIG.progressTimeoutMs || 2500);
 
 const state = {
+  baseWords: [],
   words: [],
   wordsSource: "json",
   progressByTerm: {},
@@ -347,12 +348,38 @@ async function fetchWords() {
   });
   const words = items;
   if (!Array.isArray(words)) throw new Error("words.json 格式不正确");
-  state.words = words;
+  state.baseWords = words;
+  state.words = [...words];
   state.wordsSource = source;
+}
+
+async function fetchPersonalVocabulary() {
+  state.words = [...state.baseWords];
+  const profileId = getProfileId();
+  if (!state.supabase || !profileId) return;
+
+  const { data, error } = await state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId });
+  if (error) {
+    console.warn("[words] 个人词库暂不可用。", error.message || error);
+    return;
+  }
+
+  const merged = new Map(state.words.map((entry) => [String(entry.term || "").trim().toLowerCase(), entry]));
+  (data || []).forEach((row) => {
+    const payload = row?.payload;
+    const term = String(payload?.term || row?.term || "").trim().toLowerCase();
+    if (term && payload && !merged.has(term)) merged.set(term, payload);
+  });
+  state.words = [...merged.values()];
 }
 
 async function loadProgress() {
   const profileId = getProfileId();
+  try {
+    state.progressByTerm = profileId ? JSON.parse(window.localStorage.getItem(`englearning.progress.${profileId}`) || "{}") : {};
+  } catch {
+    state.progressByTerm = {};
+  }
   if (!state.supabase || !profileId) {
     const status = getStaticWordsStatus();
     elements.syncStatus.textContent = `${status ? `${status}` : ""}当前未连接在线进度，展示的是词库内容和已有本地基线数据。`;
@@ -362,10 +389,7 @@ async function loadProgress() {
   let data = [];
   try {
     const response = await withTimeout(
-      state.supabase
-        .from(REVIEW_PROGRESS_TABLE)
-        .select("term, correct_count, incorrect_count, review_history")
-        .eq("profile_id", profileId),
+      state.supabase.rpc("get_review_progress", { p_profile_id: profileId }),
       PROGRESS_TIMEOUT_MS,
       "在线进度读取",
     );
@@ -387,6 +411,9 @@ async function loadProgress() {
       },
     ]),
   );
+  try {
+    window.localStorage.setItem(`englearning.progress.${profileId}`, JSON.stringify(state.progressByTerm));
+  } catch {}
   elements.syncStatus.textContent = `已连接在线进度：${profileId}；词库来源：${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}`;
 }
 
@@ -540,6 +567,7 @@ function renderWords() {
 
 async function reload() {
   window.localStorage.setItem(STORAGE_KEYS.profileId, getProfileId());
+  await fetchPersonalVocabulary();
   await loadProgress();
   updateStats();
   renderWords();
@@ -556,6 +584,7 @@ async function init() {
 }
 
 elements.filter.addEventListener("change", renderWords);
+document.querySelector(".words-toolbar")?.addEventListener("submit", (event) => event.preventDefault());
 elements.filterPills.forEach((pill) => {
   pill.addEventListener("click", () => {
     const nextFilter = pill.dataset.filterValue || "all";

@@ -16,18 +16,13 @@
       "待查"
     ],
     "added_at": "2026-04-01T16:52:49+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
     "term": "zany",
     "type": "word",
     "pos": "Adj",
-    "translation": ")(；口)；滑稽可笑的",
+    "translation": "口)；滑稽可笑的",
     "analysis": "adj (-ier, -iest) (infml 口) amusingly ridiculous; eccentric 滑稽可笑的; 古怪的: a zany haircut, lifestyle, personality 滑稽古怪的发型、 生活方式、 性格.\nzanily \nadv.\nzaniness \nn.\nzany \nn comical or eccentric person 滑稽的或古怪的人.",
     "phonetic": "/ ˈzeɪnɪ; ˈzenɪ/",
     "origin": "待查",
@@ -36,23 +31,17 @@
     ],
     "pronunciation": "/ ˈzeɪnɪ; ˈzenɪ/",
     "accepted_answers": [
-      ")(",
       "口)",
       "滑稽可笑的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
     "term": "zap",
     "type": "word",
     "pos": "V",
-    "translation": ")(；口)；杀死某人（尤指用枪）",
+    "translation": "口)；杀死某人（尤指用枪）",
     "analysis": "v (-pp-) (infml 口)  1 [Tn, Tn.pr] ~ sb (with sth) (a) kill sb, esp with a gun 杀死某人（尤指用枪）. (b) make sb unconscious with a hit, blow, etc; attack sb 将某人打昏; 攻击某人.  2 [Ipr, Ip] move suddenly or quickly in the specified direction （沿某方向）突然或迅速移动: Have you seen him zapping around town on his new motor bike? 你看见没看见他骑著自己的新摩托车在市区飞驰?\nzap \nn [U] (infml 口) feeling of energy, liveliness, etc; vigour 精力; 活力; 元气: I really admire her  she's so full of zap! 我真佩服她--精力那麽充沛! Cf 参看 zip2.\nzappy \nadj (infml 口) lively and energetic; amusing 活泼的; 精力旺盛的; 好笑的.",
     "phonetic": "/ zæp; zæp/",
     "origin": "待查",
@@ -62,16 +51,10 @@
     ],
     "pronunciation": "/ zæp; zæp/",
     "accepted_answers": [
-      ")(",
       "口)",
       "杀死某人（尤指用枪）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -90,16 +73,10 @@
     "pronunciation": "/ ziːl; zil/",
     "accepted_answers": [
       "文)",
-      ")(",
       "（通常为高度的）热忱",
       "热情"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -121,11 +98,6 @@
       "狂热者"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -145,11 +117,6 @@
       "极热心的态度或行为"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -171,11 +138,6 @@
       "积极的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -197,11 +159,6 @@
       "行人欲通过时车辆必须停止）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -221,11 +178,6 @@
       "一字中有两个"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -245,11 +197,6 @@
       "时代精神"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -271,11 +218,6 @@
       "禅宗佛教"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -297,11 +239,6 @@
       "比喻)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -322,11 +259,6 @@
       "微风"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -345,11 +277,6 @@
       "齐柏林飞艇（第一次世界大战中德国使用的大型飞艇）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -374,11 +301,6 @@
       "归零"
     ],
     "added_at": "2026-03-30T16:07:00+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "pos": "Num / N / Adj / V",
     "senses": [
       {
@@ -418,11 +340,6 @@
       "兴趣"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -441,11 +358,6 @@
       "zestful"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -464,11 +376,6 @@
       "zestfully"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -491,11 +398,6 @@
       "弯弯曲曲的道路、路线、闪电"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -515,11 +417,6 @@
       "她比我聪明亿万倍"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -538,11 +435,6 @@
       "见附录"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -563,11 +455,6 @@
       "精力"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -588,11 +475,6 @@
       "天国"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -611,11 +493,6 @@
       "犹太复国运动"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -634,11 +511,6 @@
       "犹太复国运动的支持者或拥护者"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -662,11 +534,6 @@
       "我的皮猴上的拉链卡住了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -685,11 +552,6 @@
       "zip code"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/C/C-oa~m.txt"
   },
   {
@@ -709,11 +571,6 @@
       "锆英石"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -734,11 +591,6 @@
       "用拨子及手指拨奏）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -761,11 +613,6 @@
       "星群命名）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -790,11 +637,6 @@
       "宫）用於占星术及报刊中的天宫图（常称为"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -815,18 +657,13 @@
       "迟钝无生气的人（举动似不经思考或对周围事物麻木不仁者）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
     "term": "zonal",
     "type": "word",
     "pos": "Adj",
-    "translation": ")区域的；分成区的；划成范围的",
+    "translation": "区域的；分成区的；划成范围的",
     "analysis": "adj relating to or arranged in zones (zone 2) 区域的; 分成区的; 划成范围的.\nzone \nv [Tn]  1 divide or mark (sth or a place) into zones (zone 2) 将（某物或某处）分成或划成区域或范围.  2 assign (sth) to a particular area 将（某事物）划归某区域.\nzoning \nn [U].",
     "phonetic": "/ ˈzəʊnl; ˈzonl/",
     "origin": "待查",
@@ -835,16 +672,11 @@
     ],
     "pronunciation": "/ ˈzəʊnl; ˈzonl/",
     "accepted_answers": [
-      ")区域的",
+      "区域的",
       "分成区的",
       "划成范围的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -869,11 +701,6 @@
       "身体的性感带"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -890,22 +717,16 @@
     "pronunciation": "/ zɒŋkt; zɑːŋkt/",
     "accepted_answers": [
       "作表语",
-      ")(",
       "俚)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
     "term": "zoo",
     "type": "word",
     "pos": "N",
-    "translation": ")(；正规作；动物园",
+    "translation": "正规作；动物园",
     "analysis": "n (pl ~s) (also fml 正规作 zoological gardens) place (eg a garden, park, etc) where living (esp wild) animals are kept for exhibition, study and breeding 动物园: The children enjoy going to the zoo. 儿童喜欢到动物园去.\nzoo-keeper \nn person employed in a zoo to take care of the animals 动物园管理员.\nzoo-\ncomb form 构词成分 of or relating to animals or animal life 动物的; 动物生活的: zoology.",
     "phonetic": "/ zuː; zu/",
     "origin": "待查",
@@ -915,16 +736,10 @@
     ],
     "pronunciation": "/ zuː; zu/",
     "accepted_answers": [
-      ")(",
       "正规作",
       "动物园"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -943,11 +758,6 @@
       "动物学的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -966,11 +776,6 @@
       "文)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -991,11 +796,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -1014,11 +814,6 @@
       "动物学"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -1040,11 +835,6 @@
       "喷气式飞机在我们头顶上空轰的一声低飞而过"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -1063,11 +853,6 @@
       "似植物的海洋动物（如海葵、珊瑚虫等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -1083,15 +868,9 @@
     ],
     "pronunciation": "/ zUˈkiːnɪ; zJˈkinɪ/",
     "accepted_answers": [
-      "复数或不变或作",
-      ")("
+      "复数或不变或作"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -1112,11 +891,6 @@
       "祖鲁人的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/Z/Z.TXT"
   },
   {
@@ -1147,11 +921,6 @@
       "祖玛"
     ],
     "added_at": "2026-05-19T09:23:26.808Z",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "manual-thread-analysis"
   }
 ]

@@ -9,6 +9,7 @@ window.APP_CONFIG = {
   reviewProgressTable: "review_progress",
   wordsTable: "vocabulary_words",
   dictionaryTable: "dictionary_entries",
+  personalVocabularyTable: "personal_vocabulary",
   masteredThreshold: 10,
   contentCacheTtlMs: 1800000,
   localContentCacheTtlMs: 86400000,

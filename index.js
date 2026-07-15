@@ -12,6 +12,7 @@ const state = {
   suggestionTimer: null,
   suggestionRequestId: 0,
   activeSuggestionIndex: -1,
+  progressByTerm: {},
 };
 
 const elements = {
@@ -27,6 +28,12 @@ const elements = {
   calendarDateText: document.querySelector("#calendar-date-text"),
   calendarTimeText: document.querySelector("#calendar-time-text"),
   calendarLunarText: document.querySelector("#calendar-lunar-text"),
+  dueCount: document.querySelector("#landing-due-count"),
+  masteredCount: document.querySelector("#landing-mastered-count"),
+  todayCount: document.querySelector("#landing-today-count"),
+  streakCount: document.querySelector("#landing-streak-count"),
+  progressRing: document.querySelector("#landing-progress-ring"),
+  studyNote: document.querySelector("#landing-study-note"),
 };
 
 const cacheHints = {
@@ -246,9 +253,83 @@ function formatContentTimestamp(value) {
 }
 
 function renderProgressStatus() {
+  const profileId = String(window.localStorage.getItem("englearning.profile_id") || "").trim();
   elements.progressStatus.textContent = state.supabase
-    ? "在线进度已配置。进入复习页后填写相同同步标识即可在多端共享记录。"
+    ? profileId
+      ? "已使用本机保存的私有同步标识读取学习进度。"
+      : "在线进度已配置；在复习页设置私有同步标识后即可启用个人学习统计。"
     : "当前未检测到 Supabase 配置，复习页将只能读取本地基线内容。";
+}
+
+function dayKey(value) {
+  const date = value instanceof Date ? value : new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
+}
+
+function calculateStreak(history) {
+  const days = new Set(history.map((item) => dayKey(item?.answered_at)).filter(Boolean));
+  const cursor = new Date();
+  if (!days.has(dayKey(cursor))) cursor.setDate(cursor.getDate() - 1);
+  let streak = 0;
+  while (days.has(dayKey(cursor))) {
+    streak += 1;
+    cursor.setDate(cursor.getDate() - 1);
+  }
+  return streak;
+}
+
+async function loadStudyDashboard() {
+  const { items, source } = await window.ContentStore.fetchCollection({
+    supabase: state.supabase,
+    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
+    label: "词库",
+  });
+  state.words = Array.isArray(items) ? items : [];
+  state.wordsSource = source;
+
+  const profileId = String(window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
+  if (state.supabase && profileId) {
+    const [progressResponse, personalResponse] = await Promise.all([
+      state.supabase.rpc("get_review_progress", { p_profile_id: profileId }),
+      state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId }),
+    ]);
+    if (progressResponse.error) {
+      try {
+        state.progressByTerm = JSON.parse(window.localStorage.getItem(`englearning.progress.${profileId}`) || "{}");
+      } catch {
+        state.progressByTerm = {};
+      }
+      console.warn("[home] 在线进度暂不可用，已使用本机缓存。", progressResponse.error.message || progressResponse.error);
+    } else state.progressByTerm = Object.fromEntries((progressResponse.data || []).map((item) => [normalizeText(item.term), item]));
+    if (personalResponse.error) console.warn("[home] 个人词库暂不可用。", personalResponse.error.message || personalResponse.error);
+    const merged = new Map(state.words.map((entry) => [normalizeText(entry.term), entry]));
+    (personalResponse.data || []).forEach((row) => {
+      const term = normalizeText(row?.payload?.term || row?.term);
+      if (term && row?.payload && !merged.has(term)) merged.set(term, row.payload);
+    });
+    state.words = [...merged.values()];
+  }
+
+  const threshold = Number(APP_CONFIG.masteredThreshold || 10);
+  const mastered = state.words.filter((entry) => Number(state.progressByTerm[normalizeText(entry.term)]?.correct_count || 0) >= threshold).length;
+  const due = Math.max(0, state.words.length - mastered);
+  const history = Object.values(state.progressByTerm).flatMap((item) => (Array.isArray(item.review_history) ? item.review_history : []));
+  const today = dayKey(new Date());
+  const todayCount = history.filter((item) => dayKey(item?.answered_at) === today).length;
+  const progress = state.words.length ? Math.round((mastered / state.words.length) * 100) : 0;
+
+  elements.dueCount.textContent = String(due);
+  elements.masteredCount.textContent = String(mastered);
+  elements.todayCount.textContent = String(todayCount);
+  elements.streakCount.textContent = String(calculateStreak(history));
+  elements.progressRing?.style.setProperty("--progress", `${progress}%`);
+  elements.studyNote.textContent = profileId
+    ? todayCount
+      ? `今天已经完成 ${todayCount} 次回忆，再来一小轮巩固记忆。`
+      : `今天有 ${due} 个词可以继续巩固，先完成一轮 5 到 10 个。`
+    : `词库已有 ${state.words.length} 个词；设置私有同步标识后，这里会显示你的每日进度。`;
 }
 
 function findDictionaryEntry(query) {
@@ -330,7 +411,6 @@ async function showPrefixSuggestions(query) {
   state.activeSuggestionIndex = state.suggestions.length ? 0 : -1;
   renderSuggestions();
   if (!state.suggestions.length) return false;
-  renderLookupState(`找到 ${state.suggestions.length} 个以 ${normalizedQuery} 开头的候选词，点击候选词进入辞典页。`);
   return true;
 }
 
@@ -421,15 +501,10 @@ async function runLookup() {
     renderLookupState("输入单词后即可联想匹配候选词。");
     return;
   }
-  renderLookupState("正在匹配候选词。");
-  if (await showPrefixSuggestions(query)) return;
-  elements.dictionaryResult.innerHTML = `
-    <div class="landing-result-card">
-      <strong>未找到候选词</strong>
-      <p class="status-text">没有找到以 <code>${escapeHtml(query)}</code> 开头的候选词，可前往完整辞典页继续查询。</p>
-      <a class="secondary-button link-button dictionary-detail-link" href="./dictionary.html?q=${encodeURIComponent(query)}">去辞典页搜索</a>
-    </div>
-  `;
+  renderLookupState("正在查询完整词条。");
+  const entry = findDictionaryEntry(query) || (await findDictionaryEntryRemote(query));
+  renderLookupResult(entry, query);
+  showPrefixSuggestions(query).catch(() => {});
 }
 
 function scheduleLookup() {
@@ -471,6 +546,7 @@ async function init() {
   renderContentStatus();
   renderProgressStatus();
   renderLookupState("输入单词后即可联想匹配候选词。");
+  await loadStudyDashboard();
 }
 
 elements.dictionarySubmit?.addEventListener("click", () => {

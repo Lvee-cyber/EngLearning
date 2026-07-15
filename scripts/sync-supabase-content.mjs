@@ -47,9 +47,10 @@ function normalizeEntries(raw, label) {
     if (!term) {
       throw new Error(`${label} entry at index ${index} is missing term.`);
     }
+    const { review: _review, ...contentPayload } = entry;
     return {
       term,
-      payload: entry,
+      payload: contentPayload,
       updated_at: new Date().toISOString(),
     };
   });

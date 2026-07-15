@@ -80,6 +80,7 @@ def extract_translation(body: str):
     candidates = []
     for raw in CHINESE_SEGMENT_RE.findall(body):
         text = re.sub(r"\s+", " ", raw).strip(" ：:;；,.。* ")
+        text = re.sub(r"^\)+\(?[；;]?\s*", "", text)
         if len(text) < 2:
             continue
         if text in {"通常作定语", "语言", "口", "文", "作定语", "文体"}:

@@ -1,2 +1,5 @@
 .DS_Store
 __pycache__/
+.playwright-cli/
+data/private/
+data/review_session.json

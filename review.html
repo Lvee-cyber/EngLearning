@@ -3,11 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#344a42" />
     <title>生词拼写复习</title>
-    <link rel="stylesheet" href="./review.css?v=20260702-layer" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./review.css?v=20260715-desk" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js?v=20260702-layer"></script>
-    <script src="./content-store.js?v=20260702-layer"></script>
+    <script src="./site-config.js?v=20260715-desk"></script>
+    <script src="./content-store.js?v=20260715-desk"></script>
   </head>
   <body>
     <main class="page">
@@ -50,14 +53,10 @@
           </div>
 
           <div class="setup-grid">
-            <div class="setup-main">
+            <form class="setup-main" autocomplete="off">
               <div class="setup-field">
                 <label class="label" for="profile-id">同步标识</label>
-                <div class="suggest-input-wrap">
-                  <input id="profile-id" class="control text-control" type="text" placeholder="例如 levelee" autocomplete="off" />
-                  <button id="profile-id-toggle" class="suggest-toggle" type="button" aria-label="显示已有同步标识" aria-expanded="false" aria-controls="profile-id-suggestions"></button>
-                  <div id="profile-id-suggestions" class="suggest-panel hidden" role="listbox" aria-label="已有同步标识"></div>
-                </div>
+                <input id="profile-id" class="control text-control" type="password" placeholder="输入你的私有同步标识" autocomplete="off" />
               </div>
               <div class="setup-field setup-field-compact">
                 <label class="label" for="review-count">复习数量</label>
@@ -68,7 +67,7 @@
                   <option value="20">20</option>
                 </select>
               </div>
-            </div>
+            </form>
           </div>
           <div class="review-mode-group" role="radiogroup" aria-label="复习模式">
             <button id="mode-spelling-button" class="mode-chip is-active" type="button" role="radio" aria-checked="true" data-mode="spelling">拼写</button>
@@ -162,6 +161,7 @@
       </section>
     </main>
 
-    <script src="./review.js?v=20260702-layer" defer></script>
+    <script src="./review-spelling.js?v=20260715-desk" defer></script>
+    <script src="./review.js?v=20260715-desk" defer></script>
   </body>
   </html>

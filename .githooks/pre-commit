@@ -13,5 +13,5 @@ if [ -z "$changed_content_files" ]; then
   exit 0
 fi
 
-echo "Checking content stats and dictionary shards..."
-node scripts/build_dictionary_prefixes.js --check
+echo "Checking content privacy, structure, stats, and dictionary shards..."
+npm run check:content

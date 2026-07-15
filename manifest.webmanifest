@@ -1,0 +1,18 @@
+{
+  "name": "EngLearning 学习书桌",
+  "short_name": "EngLearning",
+  "description": "个人英语词库、辞典与复习工具",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5efe4",
+  "theme_color": "#344a42",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

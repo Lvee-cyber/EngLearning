@@ -16,11 +16,6 @@
       "待查"
     ],
     "added_at": "2026-04-01T16:52:49+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -46,11 +41,6 @@
       "射线机"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -69,11 +59,6 @@
       "见附录"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -93,11 +78,6 @@
       "爱国主义过了头即可导致仇视一切外国人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -116,11 +96,6 @@
       "xenophobic"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -143,11 +118,6 @@
       "（乾式）影印机"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -167,11 +137,6 @@
       "科萨语"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -191,11 +156,6 @@
       "（尤作衣物上的标记）特大号"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -217,11 +177,6 @@
       "谨向我们所有的读者敬祝圣诞快乐"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   },
   {
@@ -242,11 +197,6 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/X/X.TXT"
   }
 ]

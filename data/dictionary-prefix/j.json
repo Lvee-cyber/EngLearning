@@ -16,18 +16,13 @@
       "待查"
     ],
     "added_at": "2026-04-01T16:52:49+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jab",
     "type": "word",
     "pos": "V",
-    "translation": ")(；捅；刺；戳；猛击（某人；某物",
+    "translation": "捅；刺；戳；猛击（某人；某物",
     "analysis": "v (-bb-)  1 [I, Ipr, Ip, Tn, Tn.pr] ~ (at sb/sth) (with sth); ~ sb/sth (with sth) poke or push at sb/sth roughly, usu with sth sharp or pointed 捅, 刺, 戳, 猛击（某人[某物]）（通常指用利器或尖物）: He kept jabbing (away) at the paper cup with his pencil. 他用铅笔（不停地）戳著纸杯. * a blackbird jabbing at a worm, ie using its beak 啄食蠕虫的黑鹂 * He jabbed at his opponent, eg of a boxer aiming a quick blow. 他猛击对手（如拳击手以快拳出击）. * She jabbed me in the ribs with her elbow. 她用肘顶我的肋部.  2 (phr v) jab sth into sb/sth force sth into sb/sth 使某物捅或刺某人[某物]: He jabbed his elbow into my side. 他用肘猛顶我的腰. jab sth out force or push sth out by jabbing 戳出某物: Be careful with that umbrella  you nearly jabbed my eye out! 小心那把伞--你差一点把我的眼睛戳出来! =>Usage at nudge 用法见nudge.\njab \nn (a) sudden rough blow or thrust, usu with sth pointed 捅; 刺; 戳; 猛击: a jab in the arm 刺在手臂上的一下. (b) (infml 口) injection or inoculation 注射; 打针; 接种: Have you had your cholera jabs yet? 你打霍乱预防针了吗?",
     "phonetic": "/ dʒæb; dʒæb/",
     "origin": "待查",
@@ -40,7 +35,6 @@
     ],
     "pronunciation": "/ dʒæb; dʒæb/",
     "accepted_answers": [
-      ")(",
       "捅",
       "刺",
       "戳",
@@ -48,11 +42,6 @@
       "某物"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -74,11 +63,6 @@
       "急促而含混不清地说（话等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -97,11 +81,6 @@
       "（衬衫胸部的）装饰褶边"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -124,11 +103,6 @@
       "英国国旗"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -149,11 +123,6 @@
       "屈体跳水"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -173,11 +142,6 @@
       "豺（产於亚非）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -198,11 +162,6 @@
       "无礼的家伙"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -224,11 +183,6 @@
       "愚蠢的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -249,18 +203,13 @@
       "军事压迫"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jackdaw",
     "type": "word",
     "pos": "N",
-    "translation": ")寒鸦；穴鸟（以偷取明亮的小东西而闻名）",
+    "translation": "寒鸦；穴鸟（以偷取明亮的小东西而闻名）",
     "analysis": "n bird of the crow family (noted for stealing small bright objects) 寒鸦, 穴鸟（以偷取明亮的小东西而闻名）.",
     "phonetic": "/ ˈdʒækdɔː; ˈdʒækˌdɔː/",
     "origin": "待查",
@@ -269,15 +218,10 @@
     ],
     "pronunciation": "/ ˈdʒækdɔː; ˈdʒækˌdɔː/",
     "accepted_answers": [
-      ")寒鸦",
+      "寒鸦",
       "穴鸟（以偷取明亮的小东西而闻名）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -298,11 +242,6 @@
       "花呢上衣"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -323,18 +262,13 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jacobean",
     "type": "word",
     "pos": "Adj",
-    "translation": ")英王詹姆斯一世时期的（；年）；英王詹姆斯一世时期的文学、建筑、家具等",
+    "translation": "英王詹姆斯一世时期的（；年）；英王詹姆斯一世时期的文学、建筑、家具等",
     "analysis": "adj of the reign of the English king, James I (1603-25) 英王詹姆斯一世时期的（1603-1625年）: ,Jacobean `literature, `architecture, `furniture, etc 英王詹姆斯一世时期的文学、 建筑、 家具等.",
     "phonetic": "/ ˌdʒækəˈbɪən; ˌdʒækəˈbiən/",
     "origin": "待查",
@@ -343,16 +277,11 @@
     ],
     "pronunciation": "/ ˌdʒækəˈbɪən; ˌdʒækəˈbiən/",
     "accepted_answers": [
-      ")英王詹姆斯一世时期的（",
+      "英王詹姆斯一世时期的（",
       "年）",
       "英王詹姆斯一世时期的文学、建筑、家具等"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -373,11 +302,6 @@
       "英王詹姆斯二世追随者的第一次叛乱"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -397,11 +321,6 @@
       "按摩浴缸（水下喷水可起按摩作用）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -423,11 +342,6 @@
       "碧绿的眼睛"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -450,11 +364,6 @@
       "在通宵欢聚之後显得疲惫不堪"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -475,11 +384,6 @@
       "欢闹"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -501,11 +405,6 @@
       "犬牙交错的岩石"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -525,11 +424,6 @@
       "美洲虎"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -549,11 +443,6 @@
       "破旧的汽车"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -574,11 +463,6 @@
       "果酱和蜜饯的制作方法"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -599,11 +483,6 @@
       "挤满"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -622,11 +501,6 @@
       "（门、窗、壁炉等的）侧柱"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -647,18 +521,13 @@
       "童子军的大会"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jammy",
     "type": "word",
     "pos": "Adj",
-    "translation": ")(；口)；涂有果酱的",
+    "translation": "口)；涂有果酱的",
     "analysis": "adj (-ier, -iest) (infml 口)  1 covered with jam 涂有果酱的: Don't wipe your jammy fingers on the table-cloth. 你别在桌布上擦沾了果酱的手指.  2 (Brit infml 口) (a) lucky 幸运的: You jammy so-and-so! 你这个幸运的家伙! (b) easy 容易的: This is one of the jammiest jobs I've ever had. 这是我干过的最轻松的工作.",
     "phonetic": "/ ˈdʒæmɪ; ˈdʒæmɪ/",
     "origin": "待查",
@@ -667,16 +536,10 @@
     ],
     "pronunciation": "/ ˈdʒæmɪ; ˈdʒæmɪ/",
     "accepted_answers": [
-      ")(",
       "口)",
       "涂有果酱的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -695,11 +558,6 @@
       "缩写"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -720,11 +578,6 @@
       "发出噪声刺激（神经等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -743,11 +596,6 @@
       "janitor"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -768,11 +616,6 @@
       "关於"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -793,11 +636,6 @@
       "在（尤指木制品或金属制品）上涂黑色亮漆"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -819,11 +657,6 @@
       "嘲弄"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -843,11 +676,6 @@
       "开红花）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -869,11 +697,6 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -895,11 +718,6 @@
       "行话"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -918,11 +736,6 @@
       "茉莉"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -942,11 +755,6 @@
       "呈红色、黄色或褐色）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -969,11 +777,6 @@
       "忌妒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -993,11 +796,6 @@
       "她到城里游逛去了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1020,18 +818,13 @@
       "得意扬扬"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "javelin",
     "type": "word",
     "pos": "N",
-    "translation": ")标枪（通常指运动中用的）；标枪（田径运动项目）；她获得标枪比赛第二名",
+    "translation": "标枪（通常指运动中用的）；标枪（田径运动项目）；她获得标枪比赛第二名",
     "analysis": "n  1 [C] light spear for throwing (usu in sport) 标枪（通常指运动中用的）.  2 the javelin [sing] sporting contest in which competitors try to throw this the furthest 标枪（田径运动项目）: She came second in the javelin. 她获得标枪比赛第二名. =>illus 见插图.",
     "phonetic": "/ ˈdʒævlɪn; ˈdʒævlɪn/",
     "origin": "待查",
@@ -1040,16 +833,11 @@
     ],
     "pronunciation": "/ ˈdʒævlɪn; ˈdʒævlɪn/",
     "accepted_answers": [
-      ")标枪（通常指运动中用的）",
+      "标枪（通常指运动中用的）",
       "标枪（田径运动项目）",
       "她获得标枪比赛第二名"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1073,11 +861,6 @@
       "鱼的嘴啪的一声合上了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1098,11 +881,6 @@
       "喜鸣叫）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1121,11 +899,6 @@
       "无视交通规则任意行走"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1150,11 +923,6 @@
       "现代爵士乐"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1174,11 +942,6 @@
     ],
     "dict_source": "data/DICT/J/J.TXT",
     "added_at": "2026-03-30T16:04:57+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "pos": "word",
     "origin": "待查"
   },
@@ -1202,11 +965,6 @@
       "好忌妒的丈夫"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1227,11 +985,6 @@
       "情人的忌妒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1251,11 +1004,6 @@
       "她穿著蓝色紧身牛仔裤"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1275,18 +1023,13 @@
       "吉普车"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jeer",
     "type": "word",
     "pos": "V",
-    "translation": ")嘲笑；嘲弄（某人；某事物；起哄的人群",
+    "translation": "嘲笑；嘲弄（某人；某事物；起哄的人群",
     "analysis": "v [I, Ipr, Tn] ~ (at sb/sth) laugh at or mock (sb/sth) 嘲笑, 嘲弄（某人[某事物]）: a jeering crowd 起哄的人群 * jeer at a defeated opponent 嘲弄被击败的对手 * They jeered (at) the speaker. 他们讥笑发言的人.\njeer \nn jeering remark; taunt 揶揄的言语; 嘲讽: He ran off, their jeers ringing in his ears. 他一跑了之, 耳边仍回响著他们的冷嘲热讽.\njeering \nn [U]: He had to face the jeering of his classmates. 他只得面对同学们的奚落.",
     "phonetic": "/ dʒɪə(r); dʒɪr/",
     "origin": "待查",
@@ -1299,17 +1042,12 @@
     ],
     "pronunciation": "/ dʒɪə(r); dʒɪr/",
     "accepted_answers": [
-      ")嘲笑",
+      "嘲笑",
       "嘲弄（某人",
       "某事物",
       "起哄的人群"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1330,11 +1068,6 @@
       "圣经·旧约"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1356,22 +1089,17 @@
       "幼稚的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jekyll and hyde",
     "type": "word",
-    "translation": ")有善恶双重人格的人；我从来没有想到他会那样；他真是有善恶双重人格",
+    "translation": "有善恶双重人格的人；我从来没有想到他会那样；他真是有善恶双重人格",
     "analysis": "single person with two personalities, one good (Jekyll) and one bad (Hyde) 有善恶双重人格的人: I'd never have expected him to behave like that; he's a real Jekyll and Hyde. 我从来没有想到他会那样, 他真是有善恶双重人格.",
     "phonetic": "/ ˌdʒeklənˈhaɪd; ˌdʒeklənˈhaɪd/",
     "pronunciation": "/ ˌdʒeklənˈhaɪd; ˌdʒeklənˈhaɪd/",
     "accepted_answers": [
-      ")有善恶双重人格的人",
+      "有善恶双重人格的人",
       "我从来没有想到他会那样",
       "他真是有善恶双重人格"
     ],
@@ -1379,12 +1107,7 @@
       "I'd never have expected him to behave like that; he's a real Jekyll and Hyde. 我从来没有想到他会那样, 他真是有善恶双重人格."
     ],
     "dict_source": "data/DICT/A/A-n.txt",
-    "added_at": "2026-03-30T16:04:57+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    }
+    "added_at": "2026-03-30T16:04:57+08:00"
   },
   {
     "term": "jell",
@@ -1405,11 +1128,6 @@
       "凝结不起来"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1434,11 +1152,6 @@
       "草莓冻都吃光了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1458,11 +1171,6 @@
       "铁撬棍"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1483,11 +1191,6 @@
       "整个作业的安全让一个粗心大意的人给破坏了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1508,11 +1211,6 @@
       "整个作业的安全让一个粗心大意的人给破坏了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1533,11 +1231,6 @@
       "油轮需求量下降使造船业成千上万的工作职位受到威胁"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1558,11 +1251,6 @@
       "善跳）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1583,11 +1271,6 @@
       "血泪史"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1612,11 +1295,6 @@
       "公共汽车骤然停住了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1635,11 +1313,6 @@
       "jerkily"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1658,11 +1331,6 @@
       "（男用或女用的）坎肩"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1683,11 +1351,6 @@
       "偷工减料的营造商"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1706,11 +1369,6 @@
       "扁平金属罐（贮存或运送汽油、水等液体用的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1730,11 +1388,6 @@
       "乳中含脂率高）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1758,11 +1411,6 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1783,11 +1431,6 @@
       "弄虚作假的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1808,11 +1451,6 @@
       "虚伪的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1831,11 +1469,6 @@
       "jesus"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1860,11 +1493,6 @@
       "乘喷气式飞机"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1885,11 +1513,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1908,14 +1531,9 @@
       "从遇难船中或从飞机、宇宙飞船等上投弃（物品）",
       "第一级运载火箭是用来发射火箭的",
       "进入高层大气後即抛掉",
-      ")放弃或拒绝（不想要的事物）"
+      "放弃或拒绝（不想要的事物）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1936,11 +1554,6 @@
       "码头"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -1960,18 +1573,13 @@
       "犹太教徒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jewel",
     "type": "word",
     "pos": "N",
-    "translation": ")宝石（如钻石或红宝石）；镶有宝石的装饰品；珠宝",
+    "translation": "宝石（如钻石或红宝石）；镶有宝石的装饰品；珠宝",
     "analysis": "n  1 (a) precious stone (eg adiamond or a ruby) 宝石（如钻石或红宝石）. (b) ornament with such a stone or stones set in it 镶有宝石的装饰品; 珠宝: [attrib 作定语] a jewel thief 盗珠宝的窃贼.  2 small precious stone, or piece of special glass, used in the machinery of a watch or compass （手表或罗盘内的）宝石轴承: a watch with 17 jewels 17钻的手表.  3 person or thing that is greatly valued 受珍视的人或物: He's always saying his wife is a real jewel. 他总说他的妻子是至宝. * a painting by Goya, the brightest jewel in his collection of art treasures 戈雅的画, 他所收藏的艺术珍品中最光彩夺目的一颗明珠.\njewelled (US jeweled) \nadj decorated with or having jewels 饰以宝石; 镶宝石的: a jewelled ring, dagger, snuff-box, etc 镶宝石的戒指、 匕首、 鼻烟壶等.\njeweller (US jeweler) \nn person who sells, makes or repairs jewellery or watches 出售、 制造或修理珠宝饰物或钟表的人.",
     "phonetic": "/ ˈdʒuːəl; ˈdʒuəl/",
     "origin": "待查",
@@ -1982,16 +1590,11 @@
     ],
     "pronunciation": "/ ˈdʒuːəl; ˈdʒuəl/",
     "accepted_answers": [
-      ")宝石（如钻石或红宝石）",
+      "宝石（如钻石或红宝石）",
       "镶有宝石的装饰品",
       "珠宝"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2012,11 +1615,6 @@
       "珠宝盒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2036,11 +1634,6 @@
       "犹太女子"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2060,11 +1653,6 @@
       "当地的犹太人社区"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2085,11 +1673,6 @@
       "犹太人的宗教或文化"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2109,11 +1692,6 @@
       "无耻而诡计多端的女子"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2134,11 +1712,6 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2159,11 +1732,6 @@
       "我一会儿就来"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2185,11 +1753,6 @@
       "夹具"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2209,11 +1772,6 @@
       "（盛此量的）小玻璃杯"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2234,11 +1792,6 @@
       "旧)("
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2259,11 +1812,6 @@
       "他怀疑有人在暗中捣鬼"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2285,11 +1833,6 @@
       "随著音乐摇摆"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2312,11 +1855,6 @@
       "你拼好那个拼图了吗"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2335,11 +1873,6 @@
       "圣战（穆斯林对异教徒之战）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2359,11 +1892,6 @@
       "被抛弃的恋人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2384,12 +1912,7 @@
       "Jim Crow schools, buses, etc, ie for American Blacks only, and usu of poor quality 黑人学校、 公共汽车等（仅为美国黑人提供的, 通常质量低劣）."
     ],
     "dict_source": "data/DICT/C/C-p,q,r.txt",
-    "added_at": "2026-03-30T16:04:57+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    }
+    "added_at": "2026-03-30T16:04:57+08:00"
   },
   {
     "term": "jim-jams",
@@ -2410,11 +1933,6 @@
       "你弄得我神经紧张"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2438,11 +1956,6 @@
       "（吸引人又易记的）简短的韵文或歌曲（尤指广播或电视广告中的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2462,11 +1975,6 @@
       "极端爱国主义（主张对外实行战争政策）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2485,11 +1993,6 @@
       "极端爱国主义者"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2508,11 +2011,6 @@
       "极端爱国主义的言论"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2534,11 +2032,6 @@
       "避开"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2558,11 +2051,6 @@
       "能变成人形和动物）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2581,15 +2069,9 @@
     "pronunciation": "/ dʒɪŋks; dʒɪŋks/",
     "accepted_answers": [
       "通常作单数)",
-      ")(",
       "口)("
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2612,11 +2094,6 @@
       "举止不自然"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2637,11 +2114,6 @@
       "害怕的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2662,11 +2134,6 @@
       "摇摆舞"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2686,18 +2153,13 @@
       "给被安慰的人增加痛苦或烦恼的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jobber",
     "type": "word",
     "pos": "N",
-    "translation": ")(；（旧时）股票经纪人",
+    "translation": "（旧时）股票经纪人",
     "analysis": "n (Brit) (formerly) trader on the Stock Exchange who buys and sells shares without dealing directly with the public （旧时）股票经纪人.",
     "phonetic": "/ ˈdʒɒbə(r); ˈdʒɑːbə/",
     "origin": "待查",
@@ -2706,15 +2168,9 @@
     ],
     "pronunciation": "/ ˈdʒɒbə(r); ˈdʒɑːbə/",
     "accepted_answers": [
-      ")(",
       "（旧时）股票经纪人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2735,11 +2191,6 @@
       "假公济私"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2760,11 +2211,6 @@
       "承印零星印刷品的商人、打零工的花匠"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2784,11 +2230,6 @@
       "护裆"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2808,11 +2249,6 @@
       "（通常指）职业赛马骑师"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2834,11 +2270,6 @@
       "开玩笑的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2857,11 +2288,6 @@
       "jocosity"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2882,11 +2308,6 @@
       "诙谐的言语"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2907,11 +2328,6 @@
       "费力跑"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2932,11 +2348,6 @@
       "愉快的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2955,11 +2366,6 @@
       "jocundity"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -2979,11 +2385,6 @@
       "一条马裤"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3007,11 +2408,6 @@
       "不然我就把东西弄洒了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3030,11 +2426,6 @@
       "（为锻炼）慢跑的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3054,11 +2445,6 @@
       "缓行"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3080,11 +2466,6 @@
       "摇动"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3105,11 +2486,6 @@
       "去厕所"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3130,11 +2506,6 @@
       "典型的英国人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/B/B-s,t,u.txt"
   },
   {
@@ -3156,11 +2527,6 @@
       "家伙"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3179,12 +2545,7 @@
       "full of joie de vivre 充满生活乐趣."
     ],
     "dict_source": "data/DICT/D/D-b,c,d,e.txt",
-    "added_at": "2026-03-30T16:04:57+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    }
+    "added_at": "2026-03-30T16:04:57+08:00"
   },
   {
     "term": "join",
@@ -3208,11 +2569,6 @@
       "联合"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3232,11 +2588,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3255,11 +2606,6 @@
       "细木工的工作或制品"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3283,11 +2629,6 @@
       "患关节强直症"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3307,11 +2648,6 @@
       "托梁"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3336,11 +2672,6 @@
       "给（某人）讲笑话"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3361,11 +2692,6 @@
       "愚蠢而不负责任的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3386,11 +2712,6 @@
       "欢乐"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3413,11 +2734,6 @@
       "欢乐"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3438,11 +2754,6 @@
       "愉快的人、态度、笑声"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3461,11 +2772,6 @@
       "大船携带的小艇"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3487,11 +2793,6 @@
       "）颠簸著移动"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3510,11 +2811,6 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3534,11 +2830,6 @@
       "黄水仙"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3559,11 +2850,6 @@
       "说笑话儿"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3582,11 +2868,6 @@
       "（点燃用的）香"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3603,22 +2884,16 @@
     "pronunciation": "/ ˈdʒɒsl; ˈdʒɑːsl/",
     "accepted_answers": [
       "推、挤（某人）（通常於人群中）",
-      "那些青年人在人行道上推推搡搡挤著了一个老太太",
-      ")("
+      "那些青年人在人行道上推推搡搡挤著了一个老太太"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jot",
     "type": "word",
     "pos": "V",
-    "translation": ")(；匆匆记下（通常为简短的）笔记；我得把他们的电话号码赶快记下来；以免待一会儿忘记",
+    "translation": "匆匆记下（通常为简短的）笔记；我得把他们的电话号码赶快记下来；以免待一会儿忘记",
     "analysis": "v (-tt-) (phr v) jot sth down make a quick, usu short, written note of sth 匆匆记下（通常为简短的）笔记: I'll just jot down their phone number before I forget it. 我得把他们的电话号码赶快记下来, 以免待一会儿忘记.\njotter \nn notebook or pad for short written notes 记事本; 笔记本.\njottings \nn [pl] short written notes 简短的笔记; 便条.",
     "phonetic": "/ dʒɒt; dʒɑːt/",
     "origin": "待查",
@@ -3627,17 +2902,11 @@
     ],
     "pronunciation": "/ dʒɒt; dʒɑːt/",
     "accepted_answers": [
-      ")(",
       "匆匆记下（通常为简短的）笔记",
       "我得把他们的电话号码赶快记下来",
       "以免待一会儿忘记"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3654,15 +2923,9 @@
     "pronunciation": "/ dʒuːl; dʒul/",
     "accepted_answers": [
       "缩写",
-      ")(",
       "物)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3687,11 +2950,6 @@
       "医学、科学、教育等杂志"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3712,11 +2970,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3737,11 +2990,6 @@
       "新闻工作的职业"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3761,18 +3009,13 @@
       "新闻工作特有的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "journey",
     "type": "word",
     "pos": "N",
-    "translation": ")(；行走；行驶；旅行（通常指经陆路）；旅程",
+    "translation": "行走；行驶；旅行（通常指经陆路）；旅程",
     "analysis": "n (pl ~s) (a) (distance covered in) travelling, usu by land, from one place to another, often far away 行走, 行驶, 旅行（通常指经陆路）; 旅程; 路程: Did you have a good journey? 你一路上顺利吗? * go on a long train journey 乘火车出远门 * break one's journey, ie interrupt it by stopping briefly at a place 途中在某地作短暂停留 * the journey from Edinburgh to London 由爱丁堡到伦敦的路程 * (fig 比喻) our great journey through life 我们一生的漫长道路. (b) time taken in going from one place to another 从一地到另一地所用的时间: It's a day's journey by car. 乘汽车得用一天的时间.\njourney \nv [Ipr, Ip] go on a journey; travel 行走; 行驶; 旅行; 游历: journeying overland across North America 横越北美大陆.\njourney\nNOTE ON USAGE 用法: Journey may indicate a long distance or a short one travelled regularly *journey可指经常走过的或长或短的距离: `How long is your journey to work?' ｀你上班要走多长的路?＇ `Only about 15 minutes.' ｀也就走15分钟左右.＇ A voyage is a long journey by sea or in space. *voyage是经海路或空间的长途行程. The word travels [pl] suggests a fairly long period of travelling from place to place, especially abroad, for pleasure or interest. *travels（复数）一词指时间稍长的各处旅行, 尤指出国旅游. It is often used with a possessive adjective 这一词常与所有格的形容词连用: She's gone off on her travels again. 她又去旅游了. Travel is an uncountable noun indicating the action of travelling *travel是指行走、 行驶或旅行的不可数名词: Travel broadens the mind. 旅行能使人见多识广. A tour is a (short or long) journey for pleasure, spent visiting several places *tour是为游玩而到几个地方观光的（长途或短途）旅行: They're going on a world tour. 他们正在环球旅行. A trip and (more formal) an excursion are short journeys and visits from and returning to a particular place. *trip和（较文雅的）excursion是指短期的旅程和观光, 从某地出发再回到该地. Excursion suggests a group of people travelling together *excursion指一起出行的一群人: During our holiday in Venice we went on a few trips/excursions to places near by. 我们在威尼斯度假时曾到附近的几个地方观光过.",
     "phonetic": "/ ˈdʒɜːnɪ; ˈdʒɜːnɪ/",
     "origin": "待查",
@@ -3785,18 +3028,12 @@
     ],
     "pronunciation": "/ ˈdʒɜːnɪ; ˈdʒɜːnɪ/",
     "accepted_answers": [
-      ")(",
       "行走",
       "行驶",
       "旅行（通常指经陆路）",
       "旅程"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3817,11 +3054,6 @@
       "可靠能干但不出色的工人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3840,11 +3072,6 @@
       "（指中世纪的骑士）骑著马用长矛打斗"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3866,11 +3093,6 @@
       "用以表示惊奇或加强语气)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3892,11 +3114,6 @@
       "和蔼而快乐的人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3915,11 +3132,6 @@
       "joviality"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3938,11 +3150,6 @@
       "jovially"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3963,11 +3170,6 @@
       "脸的下部"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -3991,11 +3193,6 @@
       "喜悦"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4017,11 +3214,6 @@
       "令人高兴的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4042,11 +3234,6 @@
       "悲伤的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4068,11 +3255,6 @@
       "显示快乐的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4091,11 +3273,6 @@
       "（飞行器、计算机等的）操纵杆"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4116,11 +3293,6 @@
       "克莱夫·斯莫尔治安官"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4139,11 +3311,6 @@
       "柔术（柔道由此发展而来）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4164,11 +3331,6 @@
       "符咒或神物的魔力"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4190,11 +3352,6 @@
       "利物浦队夺得优胜杯後喜气洋洋"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4215,11 +3372,6 @@
       "表示极大的喜悦"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4239,11 +3391,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4264,11 +3411,6 @@
       "用法见"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4288,11 +3430,6 @@
       "犹太人的文化"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4313,11 +3450,6 @@
       "你这个叛徒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4339,11 +3471,6 @@
       "猛烈的震动"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4368,28 +3495,6 @@
       "评判"
     ],
     "added_at": "2026-03-30T16:04:57+08:00",
-    "review": {
-      "correct_count": 2,
-      "incorrect_count": 0,
-      "review_history": [
-        {
-          "mode": "spelling",
-          "result": "correct",
-          "session_id": "session-1775118562459-6do0ey",
-          "answered_at": "2026-04-02T16:29:30+0800",
-          "user_answer": "judge",
-          "session_started_at": "2026-04-02T16:29:22+0800"
-        },
-        {
-          "mode": "spelling",
-          "result": "correct",
-          "session_id": "session-1776058845401-zcbz6o",
-          "answered_at": "2026-04-13T13:42:01+0800",
-          "user_answer": "judge",
-          "session_started_at": "2026-04-13T13:40:45+0800"
-        }
-      ]
-    },
     "pos": "N / V",
     "senses": [
       {
@@ -4420,11 +3525,6 @@
       "法官（总称）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4447,11 +3547,6 @@
       "法官的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4472,11 +3567,6 @@
       "经裁定的夫妇分居（夫妻不得同居但不结束婚姻关系）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4495,11 +3585,6 @@
       "（一国的）法官（总称）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4520,11 +3605,6 @@
       "明智的选择、决定、言语"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4543,18 +3623,13 @@
       "柔道"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jug",
     "type": "word",
     "pos": "N",
-    "translation": ")(；（有柄有嘴盛液体用的）大罐；壶；将牛奶倒入罐中",
+    "translation": "（有柄有嘴盛液体用的）大罐；壶；将牛奶倒入罐中",
     "analysis": "n  1 [C] (Brit) (US pitcher) (a) deep vessel, with a handle and a lip, for holding and pouring liquids （有柄有嘴盛液体用的）大罐, 壶: pour milk into/from a jug 将牛奶倒入罐中[从罐中倒出] * a milk/coffee/water jug 牛奶罐[咖啡壶/水罐]. (b) amount of liquid contained in this 一罐或一壶液体（之量）: spill a whole jug of juice 洒了整整一罐汁液.  2 [U] (sl 俚) prison 监狱: three months in jug 坐三个月牢.",
     "phonetic": "/ dʒʌg; dʒʌg/",
     "origin": "待查",
@@ -4564,17 +3639,11 @@
     ],
     "pronunciation": "/ dʒʌg; dʒʌg/",
     "accepted_answers": [
-      ")(",
       "（有柄有嘴盛液体用的）大罐",
       "壶",
       "将牛奶倒入罐中"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4593,11 +3662,6 @@
       "一罐或一壶液体（之量）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4618,11 +3682,6 @@
       "隆隆驶过我们村庄的重型铰接卡车"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4645,18 +3704,13 @@
       "连续抛接（若干球等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "juggler",
     "type": "word",
     "pos": "N",
-    "translation": ")耍把戏的人；见插图",
+    "translation": "耍把戏的人；见插图",
     "analysis": "n person who juggles(1) 耍把戏的人. =>illus 见插图.",
     "phonetic": "/ ˈdʒʌglə(r); ˈdʒʌglə/",
     "origin": "待查",
@@ -4665,15 +3719,10 @@
     ],
     "pronunciation": "/ ˈdʒʌglə(r); ˈdʒʌglə/",
     "accepted_answers": [
-      ")耍把戏的人",
+      "耍把戏的人",
       "见插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4694,11 +3743,6 @@
       "颈静脉"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4721,11 +3765,6 @@
       "从柠檬中多榨些汁"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4747,11 +3786,6 @@
       "新鲜多汁的橙子"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4770,11 +3804,6 @@
       "软糖"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4794,11 +3823,6 @@
       "缩写"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4818,11 +3842,6 @@
       "薄荷酒清凉饮料"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4843,11 +3862,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/C/C-a.txt"
   },
   {
@@ -4868,11 +3882,6 @@
       "关於"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4896,11 +3905,6 @@
       "玩具、书、鞋、衣服都杂乱地堆在地上"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4921,11 +3925,6 @@
       "极大的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4948,11 +3947,6 @@
       "出色的跳跃"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -4973,11 +3967,6 @@
       "缩写"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5000,11 +3989,6 @@
       "靠近伦敦路与乔叟大街交叉口的酒馆"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5025,11 +4009,6 @@
       "在此时刻"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5050,11 +4029,6 @@
       "关於"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5079,11 +4053,6 @@
       "英里丛林较少"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5104,18 +4073,13 @@
       "丛林地带居民的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "junior",
     "type": "word",
     "pos": "Adj",
-    "translation": ")（较某人）地位或身分低的；办公室的下级职员；他比库珀太太小几岁",
+    "translation": "（较某人）地位或身分低的；办公室的下级职员；他比库珀太太小几岁",
     "analysis": "adj  1 ~ (to sb) lower in rank or standing (than sb) （较某人）地位或身分低的: a junior clerk in an office 办公室的下级职员 * He is several years junior to Mrs Cooper. 他比库珀太太小几岁.  2 Junior (abbrs 缩写 Jnr, Jr, Jun) (esp US) (used after a name to refer to a son who has the same name as his father or to the younger of two boys having the same name in a school, university, etc 父子同名时, 用於儿子姓名之後, 两学生同姓时, 用於年幼者之名後, 以示区别): Sammy Davies, Jnr 小萨米·戴维斯. Cf 参看 minor 2.  3 (Brit) of or intended for children from the ages of 7 to 11 （7至11岁）儿童的: junior school 小学. Cf 参看 senior.\njunior \nn  1 person who holds a low rank in a profession; person with an unimportant job （一职业中）地位较低者; 从事次要工作的人: the office junior 办公室的一般职员.  2 [sing] (used with his, her, your, etc 与his、 her、 your等连用) person who is a specified number of years younger than sb else 比某人小若干岁: He is three years her junior/her junior by three years. 他比她小三岁.  3 (Brit) child who goes to junior school 小学生: The juniors' Christmas party is on Tuesday. 小学生的圣诞节联欢会於星期二举行.  4 (US) student in his third year of a four-year course at college or high school （四年制的大学或中学的）三年级学生.  5 (US infml 口) way of addressing a son in a family 家庭中称呼儿子的用语: Come here, Junior! 到这儿来, 小儿子!",
     "phonetic": "/ ˈdʒuːnɪə(r); ˈdʒunjə/",
     "origin": "待查",
@@ -5126,16 +4090,11 @@
     ],
     "pronunciation": "/ ˈdʒuːnɪə(r); ˈdʒunjə/",
     "accepted_answers": [
-      ")（较某人）地位或身分低的",
+      "（较某人）地位或身分低的",
       "办公室的下级职员",
       "他比库珀太太小几岁"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5157,11 +4116,6 @@
       "生有紫红色浆果供药用及杜松子酒调味之用）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5184,11 +4138,6 @@
       "汽车行李箱中的所有废旧杂物"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5211,11 +4160,6 @@
       "政府官员用公费的旅游"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5236,18 +4180,13 @@
       "（尤指）有海洛因瘾者"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "junoesque",
     "type": "word",
     "pos": "Adj",
-    "translation": ")（指女子）有优雅高贵之美的（似罗马女神朱诺的）",
+    "translation": "（指女子）有优雅高贵之美的（似罗马女神朱诺的）",
     "analysis": "adj (of a woman) having a graceful dignified beauty (like the Roman goddess Juno) （指女子）有优雅高贵之美的（似罗马女神朱诺的）.",
     "phonetic": "/ ˌdʒuːnəʊˈesk; ˌdʒunoˈesk/",
     "origin": "待查",
@@ -5256,14 +4195,9 @@
     ],
     "pronunciation": "/ ˌdʒuːnəʊˈesk; ˌdʒunoˈesk/",
     "accepted_answers": [
-      ")（指女子）有优雅高贵之美的（似罗马女神朱诺的）"
+      "（指女子）有优雅高贵之美的（似罗马女神朱诺的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5283,11 +4217,6 @@
       "在革命中以武力夺取政权并统治国家的（尤指军官的）集团"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5307,11 +4236,6 @@
       "木星"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5331,11 +4255,6 @@
       "诉讼程序的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5356,11 +4275,6 @@
       "审判权"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5380,11 +4294,6 @@
       "法理学"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5404,11 +4313,6 @@
       "法理学家"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5429,11 +4333,6 @@
       "评判员"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5457,11 +4356,6 @@
       "陪审团做出被告无罪的裁决"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5481,11 +4375,6 @@
       "陪审员"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5510,11 +4399,6 @@
       "公平的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5538,11 +4422,6 @@
       "正义"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5564,11 +4443,6 @@
       "合理的解释、行为、用法"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5587,18 +4461,13 @@
       "有理由谨慎的、愤怒的、骄傲的等"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "justification",
     "type": "word",
     "pos": "N",
-    "translation": ")（做某事的）正当理由；我认为没有理由把公司划分成小单位；他生气了",
+    "translation": "（做某事的）正当理由；我认为没有理由把公司划分成小单位；他生气了",
     "analysis": "n  1 [U, C] ~ (for sth/doing sth) acceptable reason (for doing sth) （做某事的）正当理由: I can see no justification for dividing the company into smaller units. 我认为没有理由把公司划分成小单位. * He was getting angry  and with some justification. 他生气了--事出有因. =>Usage at reason1 用法见reason1.  2 [U] arrangement of lines of type so that the margins are even. 齐行, 整版（为使版面四周空白均匀而对铅字等位置的调整）.  3 (idm 习语) in justification (for/of sb/sth) as a defence (of sb/sth) 作为对（某人[某事]的）辩解: I suppose that, in justification, he could always claim he had a family to support. 我想他反正会以养家为理由来进行辩解.\njustified \nadj  1 ~ (in doing sth) having good reasons for doing sth （做某事）有正当理由的: As the goods were damaged, she felt fully justified in asking for her money back. 因商品损坏, 她认为有充分理由要求退款.  2 for which there is a good reason 事出有因的: justifiedcriticism, suspicion, anger 事出有因的批评、 怀疑、 愤怒.",
     "phonetic": "/ ˌdʒʌstɪfɪˈkeɪʃn; ˌdʒʌstəfəˈkeʃən/",
     "origin": "待查",
@@ -5609,16 +4478,11 @@
     ],
     "pronunciation": "/ ˌdʒʌstɪfɪˈkeɪʃn; ˌdʒʌstəfəˈkeʃən/",
     "accepted_answers": [
-      ")（做某事的）正当理由",
+      "（做某事的）正当理由",
       "我认为没有理由把公司划分成小单位",
       "他生气了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5643,18 +4507,13 @@
       "）是正当的、有理的或公正的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
     "term": "jut",
     "type": "word",
     "pos": "V",
-    "translation": ")(；突出；伸出",
+    "translation": "突出；伸出",
     "analysis": "v (-tt-) (phr v) jut out stand out (from sth); be out of line (with the surrounding surface); stick out 突出; 伸出: a balcony that juts out (over the garden) 突出（於花园之上）的阳台 * a headland that juts out into the sea 伸入海中的岬 * His chin juts out rather a lot. 他的下巴向外突出.",
     "phonetic": "/ dʒʌt; dʒʌt/",
     "origin": "待查",
@@ -5665,16 +4524,10 @@
     ],
     "pronunciation": "/ dʒʌt; dʒʌt/",
     "accepted_answers": [
-      ")(",
       "突出",
       "伸出"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5694,11 +4547,6 @@
       "孟加拉国的黄麻纤维工厂"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5723,11 +4571,6 @@
       "少年"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5748,11 +4591,6 @@
       "将古典的与现代的建筑风格并列对照"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   },
   {
@@ -5771,11 +4609,6 @@
       "（不同的）思想、文化、传统的对比"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/J/J.TXT"
   }
 ]

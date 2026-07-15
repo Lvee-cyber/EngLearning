@@ -10,6 +10,10 @@
   由本地维护并提交到 GitHub，作为本地辞典查询源
 - `Supabase review_progress`
   由网页端读写，用于多端同步复习进度
+- `Supabase review_events`
+  每次作答写入一条不可变事件，再由数据库原子更新汇总进度
+- `Supabase personal_vocabulary`
+  保存某个私有同步标识从辞典加入的个人词条，不再修改公共内容表
 - `Supabase vocabulary_words`
   由 GitHub Action 根据 `data/words.json` 自动同步，作为网页端词库主数据源
 - `Supabase dictionary_entries`
@@ -49,26 +53,22 @@
    - `SUPABASE_URL`
    - `SUPABASE_SERVICE_ROLE_KEY`
 
-当前 `supabase_schema.sql` 使用的是演示型匿名读写策略，适合你现在这个低安全要求的个人项目。
+每次更新 `supabase_schema.sql` 后需要在 Supabase SQL Editor 中重新执行。当前仍是个人部署模式：同步标识应使用难以猜测的私有长字符串，页面不会再枚举其他标识。若要开放给多人使用，应升级为 Supabase Auth 与基于 `auth.uid()` 的 RLS。
 
 ## 拉回线上复习进度
 
-如果你在线上网页完成复习，而本地 `data/words.json` 还没同步到最新进度，可以运行：
+如果需要把线上复习记录导出为私有备份，可以运行：
 
 ```bash
 node scripts/pull-supabase-review-progress.mjs --profile <你的profile_id>
 ```
 
-默认行为：
-
-- 从 Supabase 的 `review_progress` 拉取该 `profile_id` 的复习进度
-- 按 `term` 回写到 `data/words.json`
-- 同时把相同 `term` 的进度同步到 `data/dictionary.json`
+默认导出到被 Git 忽略的 `data/private/review-progress-<profile>.json`。个人进度不会再写回公开的词条内容文件。
 
 可选参数：
 
-- `--words-only`
-  只更新 `data/words.json`，不改 `data/dictionary.json`
+- `--output <path>`
+  指定私有备份文件路径
 
 脚本会优先读取：
 
@@ -96,6 +96,12 @@ node scripts/build_dictionary_prefixes.js
 node scripts/build_dictionary_prefixes.js --check
 ```
 
+完整项目校验：
+
+```bash
+npm run check
+```
+
 本仓库包含 `.githooks/pre-commit`，启用后会在提交涉及内容数据时自动运行上述校验：
 
 ```bash
@@ -106,9 +112,11 @@ GitHub Action 在同步 Supabase 前也会运行同样校验，防止统计或�
 
 ## 当前数据流
 
-- 词库查看页和复习页优先从 Supabase 表 `vocabulary_words` 读取词条内容，空表或异常时回退到 `data/words.json`。
+- `words.json` 与 `dictionary.json` 只保存公共词条内容，不再包含个人 `review` 字段。
+- 词库查看页和复习页会合并公共 `vocabulary_words` 与当前标识的 `personal_vocabulary`，异常时回退到 `data/words.json`。
 - 辞典查询页优先从 Supabase 表 `dictionary_entries` 读取辞典内容，未命中或异常时按首字母读取本地分片，避免移动端加载完整 `data/dictionary.json`。
-- 复习进度通过 Supabase 表 `review_progress` 读取和写入。
+- 作答通过 `record_review_event` 原子函数写入 `review_events` 并更新 `review_progress`，避免多设备整行覆盖。
+- 断网时作答先进入浏览器本地队列，恢复网络后自动补传。
 - 当 `data/words.json` 或 `data/dictionary.json` 推到 `main` 后，GitHub Action 会把对应内容同步到 Supabase。
 - GitHub Action 按 `term` 做同步查重；如果 Supabase 中已存在同名词条，则直接用本地 JSON 的最新 `payload` 覆盖更新。
 - 不同设备只要填写同一个“同步标识”，就会读取同一份复习进度。
@@ -117,7 +125,7 @@ GitHub Action 在同步 Supabase 前也会运行同样校验，防止统计或�
 ## 当前页面
 
 - [review.html](/Users/levelee/Documents/CodeX_co/EngLearning/review.html)
-  支持拼写复习、结果弹窗、键盘操作、多端同步。
+  支持拼写复习、单选、标点短语、结果弹窗、键盘操作、离线队列与多端同步。
 - [words.html](/Users/levelee/Documents/CodeX_co/EngLearning/words.html)
   支持查看词库、搜索、筛选待复习/熟词/高错词。
 - [dictionary.html](/Users/levelee/Documents/CodeX_co/EngLearning/dictionary.html)

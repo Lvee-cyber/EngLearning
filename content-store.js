@@ -337,3 +337,11 @@
     peekCollectionCache,
   };
 })(window);
+
+if ("serviceWorker" in navigator && /^https?:$/.test(window.location.protocol)) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").catch((error) => {
+      console.warn("[EngLearning] 离线服务注册失败。", error?.message || error);
+    });
+  });
+}

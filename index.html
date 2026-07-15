@@ -3,39 +3,58 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#344a42" />
     <title>EngLearning</title>
-    <link rel="stylesheet" href="./review.css?v=20260702-layer" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./review.css?v=20260715-desk" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./site-config.js?v=20260702-layer"></script>
-    <script src="./content-store.js?v=20260702-layer"></script>
+    <script src="./site-config.js?v=20260715-desk"></script>
+    <script src="./content-store.js?v=20260715-desk"></script>
   </head>
   <body>
-    <main class="page">
-      <section class="panel landing-hero">
-        <div class="landing-topbar">
-          <div class="calendar-card calendar-inline" aria-label="今日日期">
-            <span class="calendar-kicker">Today</span>
-            <strong id="calendar-day" class="calendar-day"></strong>
-            <span id="calendar-month" class="calendar-month"></span>
-            <span id="calendar-date-text" class="calendar-date-text"></span>
-            <span id="calendar-time-text" class="calendar-time-text"></span>
-            <span id="calendar-lunar-text" class="calendar-lunar-text"></span>
-            <span id="calendar-weekday" class="calendar-weekday"></span>
+    <main class="page landing-page">
+      <section class="landing-hero">
+        <div class="landing-masthead">
+          <a class="landing-brand" href="./index.html">EngLearning</a>
+          <nav class="landing-mini-nav" aria-label="主要导航">
+            <a href="./words.html">词库</a>
+            <a href="./dictionary.html">辞典</a>
+          </nav>
+        </div>
+
+        <div class="landing-hero-grid">
+          <div class="landing-hero-copy">
+            <p class="eyebrow">Today’s study desk</p>
+            <h1 class="landing-title">今天，记住一点就好。</h1>
+            <p id="landing-study-note" class="intro landing-intro">正在准备今天的学习计划。</p>
+            <div class="landing-hero-actions">
+              <a class="primary-button link-button" href="./review.html">开始今日复习</a>
+              <a class="landing-text-link" href="./words.html">看看我的词库 <span aria-hidden="true">→</span></a>
+            </div>
+          </div>
+
+          <div class="landing-today" aria-label="今日学习概览">
+            <div id="landing-progress-ring" class="landing-progress-ring" style="--progress: 0%">
+              <strong id="landing-due-count">—</strong>
+              <span>待复习</span>
+            </div>
+            <dl class="landing-today-metrics">
+              <div><dt>已掌握</dt><dd id="landing-mastered-count">—</dd></div>
+              <div><dt>今日完成</dt><dd id="landing-today-count">—</dd></div>
+              <div><dt>连续学习</dt><dd><span id="landing-streak-count">—</span> 天</dd></div>
+            </dl>
           </div>
         </div>
 
-        <p class="eyebrow">EngLearning</p>
-        <h1 class="landing-title">英语词库与复习站</h1>
-        <p class="intro landing-intro">
-          把本地维护的词库、在线同步的复习进度和快速辞典查询整合在一个站点里。主页只保留高频入口，进入后再分别做复习、查词和词库管理。
-        </p>
-      </section>
-
-      <section class="panel landing-nav-panel">
-        <div class="landing-nav-grid">
-          <a class="primary-button link-button landing-nav-button" href="./review.html">开始复习</a>
-          <a class="secondary-button link-button landing-nav-button" href="./words.html">查看词库</a>
-          <a class="secondary-button link-button landing-nav-button" href="./dictionary.html">查询辞典</a>
+        <div class="calendar-card calendar-inline landing-calendar" aria-label="今日日期">
+          <span class="calendar-kicker">Today</span>
+          <strong id="calendar-day" class="calendar-day"></strong>
+          <span id="calendar-month" class="calendar-month"></span>
+          <span id="calendar-date-text" class="calendar-date-text"></span>
+          <span id="calendar-time-text" class="calendar-time-text"></span>
+          <span id="calendar-lunar-text" class="calendar-lunar-text"></span>
+          <span id="calendar-weekday" class="calendar-weekday"></span>
         </div>
       </section>
 
@@ -85,6 +104,6 @@
       </section>
     </main>
 
-    <script src="./index.js?v=20260702-layer" defer></script>
+    <script src="./index.js?v=20260715-desk" defer></script>
   </body>
 </html>

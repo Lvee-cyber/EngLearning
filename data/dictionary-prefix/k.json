@@ -16,11 +16,6 @@
       "待查"
     ],
     "added_at": "2026-04-01T16:52:49+08:00",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -42,11 +37,6 @@
       "非洲黑人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -66,11 +56,6 @@
       "年前的德国皇帝)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -89,11 +74,6 @@
       "羽衣甘蓝"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -111,15 +91,9 @@
     "pronunciation": "/ kəˈlaɪdəskəʊp; kəˈlaɪdəˌskop/",
     "accepted_answers": [
       "万花筒",
-      ")(",
       "通常作单数)("
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -138,11 +112,6 @@
       "kaleidoscopic"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -161,18 +130,13 @@
       "kaleidoscopically"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "kamikaze",
     "type": "word",
     "pos": "N",
-    "translation": ")(；（第二次世界大战中日本的）神风飞机；神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）；神风飞机的攻击",
+    "translation": "（第二次世界大战中日本的）神风飞机；神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）；神风飞机的攻击",
     "analysis": "n (in World War II) (pilot of a) Japanese aircraft deliberately crashed on enemy ships, etc （第二次世界大战中日本的）神风飞机, 神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）: [attrib 作定语] a kamikaze attack 神风飞机的攻击 * (fig 比喻) kamikaze (ie suicidal) tactics 同归於尽的战术.",
     "phonetic": "/ ˌkæmɪˈkɑː:zɪ; ˌkɑːmɪˈkɑːzi/",
     "origin": "待查",
@@ -182,17 +146,11 @@
     ],
     "pronunciation": "/ ˌkæmɪˈkɑː:zɪ; ˌkɑːmɪˈkɑːzi/",
     "accepted_answers": [
-      ")(",
       "（第二次世界大战中日本的）神风飞机",
       "神风飞机飞行员（与敌舰等同归於尽的自杀飞机或驾驶员）",
       "神风飞机的攻击"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -213,11 +171,6 @@
       "私设的公堂（囚犯、罢工工人等为解决内部纠纷而设的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -237,11 +190,6 @@
       "瓷土"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -260,11 +208,6 @@
       "木棉"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -285,11 +228,6 @@
       "完蛋了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -309,18 +247,13 @@
       "空手道的掌侧劈"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "karma",
     "type": "word",
     "pos": "N",
-    "translation": ")(；（佛教和印度教的）业（音译；羯磨",
+    "translation": "（佛教和印度教的）业（音译；羯磨",
     "analysis": "n [U] (a) (in Buddhism and Hinduism) sum of a person's actions in one of his successive lives, believed to decide his fate in the next （佛教和印度教的）业（音译｀羯磨＇, 意为个人行为的总和可决定其来世的命运）. (b) (esp joc 尤作戏谑语) destiny; fate 命运; 宿缘: It's my karma always to fall in love with brunettes. 我爱上的总是深褐色头发、 浅黑色皮肤的白种女子, 这是我的缘分.",
     "phonetic": "/ ˈkɑː:mə; ˈkɑːrmə/",
     "origin": "待查",
@@ -329,16 +262,10 @@
     ],
     "pronunciation": "/ ˈkɑː:mə; ˈkɑːrmə/",
     "accepted_answers": [
-      ")(",
       "（佛教和印度教的）业（音译",
       "羯磨"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -357,11 +284,6 @@
       "kart"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -382,11 +304,6 @@
       "（类似海豹皮船的）小艇"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -405,11 +322,6 @@
       "一种玩具笛"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -430,11 +342,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -456,11 +363,6 @@
       "英帝国爵级司令勋章"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -481,11 +383,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -507,11 +404,6 @@
       "烤羊肉串"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -530,11 +422,6 @@
       "鱼蛋烩饭（有时伴有洋葱）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -557,11 +444,6 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -586,11 +468,6 @@
       "热心的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -615,11 +492,6 @@
       "保留"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -642,11 +514,6 @@
       "尤用以构成复合词)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -668,11 +535,6 @@
       "受某人监护"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -692,11 +554,6 @@
       "我的姑母把她的一只胸针送给我作纪念"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -717,11 +574,6 @@
       "美加仑）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -740,11 +592,6 @@
       "大型褐藻"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -761,17 +608,12 @@
     "pronunciation": "/ ˈkelvɪn; ˈkelvɪn/",
     "accepted_answers": [
       "缩写",
-      ")开（开尔文温标的计量单位",
+      "开（开尔文温标的计量单位",
       "其零度为绝对零度",
       "等於",
       "见附录"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -792,11 +634,6 @@
       "证券交易所的运作情况大多数人都不了解"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -818,11 +655,6 @@
       "小狗罗弗的窝在後花园"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -841,11 +673,6 @@
       "法国军帽"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -868,11 +695,6 @@
       "开车沿路边缓慢行驶（尤指为性关系勾引人）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -894,11 +716,6 @@
       "手绢"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -919,11 +736,6 @@
       "吵闹"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -945,11 +757,6 @@
       "子"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -968,11 +775,6 @@
       "煤油灯"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -991,11 +793,6 @@
       "煤油灯"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1016,11 +813,6 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1039,11 +831,6 @@
       "双桅小帆船"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1062,11 +849,6 @@
       "番茄酱"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1087,11 +869,6 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1112,18 +889,13 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "key",
     "type": "word",
     "pos": "N",
-    "translation": ")钥匙；转动锁孔中的钥匙；汽车钥匙",
+    "translation": "钥匙；转动锁孔中的钥匙；汽车钥匙",
     "analysis": "n  1 [C] metal instrument shaped so that it will move the bolt of a lock (and so lock or unlock sth) 钥匙: turn the key in the lock 转动锁孔中的钥匙 * the car keys 汽车钥匙 * the key to the front door 前门的钥匙 * have a duplicate key cut, ie made 配钥匙. =>illus 见插图.  2 [C] similar instrument for grasping and turning sth, eg for winding a clock 类似钥匙的器具（如上钟表发条用的）: Where's the key for turning off the radiator? 关散热器的开关在哪里?  3 [C] (a) (music 音) set of related notes, based on a particular note, and forming the basis of (part of) a piece of music 调: a sonata in the key of E flat major/A minor 一首降E大调[A小调]奏鸣曲 * This piece changes key many times. 这首曲子有多处变调. (b) (fig 比喻) general tone or style of sth （事 物的）基调, 调子, 调门儿: Her speech was all in the same key, ie monotonous. 她的演说自始至终是一个调子（单调乏味）.  4 [C] any of the set of levers that are pressed by the fingers to operate a typewriter, piano, etc （打字机、 钢琴等的）键. =>illus at App 1 见附录1插图, pages x, xi.  5 [C] (a) set of answers to exercises or problems 题解; 答案: a book of language tests, complete with key 附答案的语言测验试题集. (b) explanation of the symbols used in a coded message or on a map, diagram, etc （地图、 图表等上的）略语表, 符号表, 凡例, 图例.  6 [C usu sing 通常作单数] ~ (to sth) thing that provides access, control or understanding 关键; 要诀: Diet and exercise are the key (to good health). 吃固定食物、 做运动是（身体健康的）关键. * The key to the whole affair was his jealousy. 整个事情的症结是因为他忌妒.  7 [sing] roughness given to a surface so that plaster or paint will stick to it （助灰浆或颜料附著的）粗糙表面: Gently sand the plastic to provide a key for the paint. 用砂纸在塑料上轻轻打磨出粗糙面以便涂颜料.  8 [C] (botany 植) winged fruit of some trees, eg the ash and elm 翅果（如　、 榆等树的果实）. =>illus at App 1 见附录1插图, page i.  9 (idm 习语) under lock and key => lock2.\nkey \nadj [attrib 作定语] very important or essential 极重要的; 关键性的: a key figure in the dispute 争论中的关键人物 * a key industry, speech, position 重要的工业、 讲话、 位置.\nkeyboard \nn set of keys (key1 4) on a typewriter,piano, etc （打字机、 钢琴等的）键盘. =>illus at computer见computer插图.  v  1 [I] operate a keyboard (eg for setting printing type) 用键盘操纵（如排字）.  2 [Tn] enter (data) in a computer by means of a keyboard 用键盘将（数据）输入计算机. `keyboarder n person who operates a keyboard 操作键盘的人.\nkeyhole \nn hole through which a key is put into a lock 锁孔; 钥匙孔.\nkey money \npayment illegally demanded from a new tenant of a house or flat before he is allowed to move in 钥匙费（向新房客非法索取的费用）.\nkeynote \nn  1 central theme of a speech, book, etc （演说、 书等的）要旨, 主题: Unemployment has been the keynote of the conference. 会议的主题是失业问题. * [attrib 作定语] a keynote speech, ie one setting the tone for or introducing the theme of a meeting, etc 定基调的演说.  2 (music 音) note on which a musical key is based 主音.\nkey-pad \nn small keyboard of numbered buttons used instead of a dial on a telephone, for selecting a channel, etc on a television set, or for entering data in a computer 按钮式电话机键盘; 电视频道选择键盘; 计算机袖珍键盘.\nkey-ring \nn ring on which keys are kept 钥匙圈. =>illus 见插图.\nkey signature \n(music 音) sharps and flats shown on a piece of music indicating the key in which it is written 调号. =>illus at music 见music插图.\nkeystone \nn  1 (architecture 建) central stone at the top of an arch locking the others into position 拱顶石.  2 (usu sing 通常作单数) (fig 比喻) most important part of a plan, an argument, etc on which all the other parts depend （计划、 论据等的）基础, 主旨: Belief in a life after death is the keystone of her religious faith. 她的宗教信仰的基础是相信死後有来生. Cf 参看 corner-stone (corner1).",
     "phonetic": "/ kiː; ki/",
     "origin": "待查",
@@ -1136,16 +908,11 @@
     ],
     "pronunciation": "/ kiː; ki/",
     "accepted_answers": [
-      ")钥匙",
+      "钥匙",
       "转动锁孔中的钥匙",
       "汽车钥匙"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1168,11 +935,6 @@
       "英格兰最高爵级勋章"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1190,16 +952,11 @@
     "pronunciation": "/ ˌkeɪdʒiˈbiː; ˌkedʒiˈbi/",
     "accepted_answers": [
       "缩写",
-      ")克格勃（建於",
+      "克格勃（建於",
       "年",
       "前苏联国家安全委员会的略称）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1221,11 +978,6 @@
       "参看"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1244,11 +996,6 @@
       "基布兹（以色列的合作农场或居民点）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1267,11 +1014,6 @@
       "基布兹成员"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1297,11 +1039,6 @@
       "彼得踢我（腿）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1322,11 +1059,6 @@
       "酬金（常指不合法的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1350,11 +1082,6 @@
       "年轻人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1380,11 +1107,6 @@
       "绑架的企图、阴谋、事主"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1407,18 +1129,13 @@
       "两公斤羊腰子"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "kill",
     "type": "word",
     "pos": "V",
-    "translation": ")致死；杀死；扼杀（某人；某事物",
+    "translation": "致死；杀死；扼杀（某人；某事物",
     "analysis": "v  1 [I, Tn, Tn.pr] cause death or cause the death of (sb/sth) 致死; 杀死, 扼杀（某人[某事物]）: Careless driving kills! 开车大意危及生命! * Cancer kills thousands of people every year. 每年有数以千计的人死於癌症. * The guard was killed with a high-powered rifle. 那卫兵被杀伤力大的火枪击毙了. * (fig infml 比喻, 口) My mother will kill me (ie be very angry with me) when she finds out where I've been. 我母亲要是知道我到过那地方非把我宰了不可（一定大怒）.  2 [Tn] (infml 口) (usu in the continuous tenses 通常用於进行时态) cause pain to (sb) 使（某人）疼痛, 痛苦: My feet are killing me. 我的脚疼极了.  3 [Tn] (a) (esp in football) stop (a ball) suddenly and completely with one's foot （尤指足球）停（球）. (b) (esp in tennis) hit (a ball) so that it cannot be returned （尤指网球）扣（球）.  4 [Tn] bring (sth) to an end 终止, 结束, 了结（某事物）: kill sb's affection, interest, appetite 使某人失去好感、 兴趣、 胃口 * the goal that killed Brazil's chances of winning 决定巴西队败局的一分.  5 [Tn, Cn.a] (infml 口) cause (sth) to fail or be rejected 使（某事物）失败, 遭拒绝: kill a project, a proposal, an idea, etc (stone dead) 使一计划、 建议、 想法等不能实现 * The play was killed by bad reviews. 那出戏被贬斥的评论扼杀了.  6 [Tn] (infml 口) switch or turn off 关掉: kill a light, the radio, a car engine 关掉灯、 收音机、 汽车发动机.  7 [Tn] make (one colour) appear ineffective by contrast with another 抵销（某一色彩）的效果: The bright red of the curtains kills the brown of the carpet. 这些鲜红色窗帘显得棕色地毯黯然失色.  8 (idm 习语) be dressed to kill => dress2. curiositykilled the cat => curiosity. have time to kill => time1.,kill the fatted `calf (fml or joc saying 文或谑, 谚) joyfully celebrate sb's return or arrival 欢宴或欢庆某人的归来或到达. ,kill the ,goose that ,lays the ,golden `eggs (saying 谚) destroy (through greed or carelessness) sth that would have produced continuous profit in the future 杀鸡取卵; 自绝财源. kill oneself (doing sth/to do sth) (infml 口) try too hard 过分努力: The party's at eight, but don't kill yourself getting here/to get here on time. 八点钟聚会, 但是不必勉强赶时间来. ,kill or `cure [esp attrib 尤作定语] (likely to) be either completely successful or a total failure 不是全胜就是大败: a kill-or-cure approach to the problem 对问题采取非胜即败的态度 * The tough new measures on drug abuse are likely to be a case of kill or cure. 禁毒新措施很强硬, 大有成败取决於此之势. kill `time; kill two, a few, etc hours spend time as pleasantly as possible but unprofitably, esp while waiting for sth 消磨时间（尤指等待时）: My flight was delayed, so I killed time/killed two hours reading a book. 我那趟班机误点了, 我只好看书消磨时间[打发了两小时]. kill ,two ,birds with ,one `stone achieve two aims with a single action or simultaneously 一石二鸟; 一箭双　; 一举两得. ,kill sb with `kindness harm sb by being excessively or mistakenly kind 溺爱某人反而使其受损.  9 (phr v) kill sb/sth off destroy or get rid of sb/sth 杀死某人; 破坏某事物; 除掉某人[某事物]: kill off weeds, insects, rats 灭除杂草、 害虫、 老鼠 * He killed off all his political opponents. 他把政敌排除一空. * (fig 比喻) The author kills off her hero in Chapter 7. 作者把她的主人翁安排在第七章中死去.\nkill \nn  1 act of killing 杀死: The lion made only one kill that day. 那天狮子只捕杀了一个猎物.  2 (usu sing通常作单数) animal(s) killed 被杀死的动物: The huntersbrought their kill back to camp. 猎人把猎物带回营地.  3 (idm 习语) go/move in for the `kill prepare to finish off an opponent 准备干掉或打倒对手. (be) ,in at the `kill (be) present at the climax of a struggle, etc 斗争等最激烈时在场: She wants to be in at the kill when his business finally collapses. 她想在他的公司最终倒台时亲 临现场.\nkiller \nn person, animal or thing that kills 杀生的人、 动物或事物: Police are hunting her killer. 警方正在追捕杀害她的凶手. * Heroin is a killer. 海洛因是致命的毒品. * [attrib 作定语] a killer disease 致命的疾病 * Sharks have the killer instinct. 鲨鱼有嗜杀的本性.\nkilljoy \nn (derog 贬) person who spoils the enjoymentof others 使人扫兴的人.",
     "phonetic": "/ kɪl; kɪl/",
     "origin": "待查",
@@ -1431,17 +1148,12 @@
     ],
     "pronunciation": "/ kɪl; kɪl/",
     "accepted_answers": [
-      ")致死",
+      "致死",
       "杀死",
       "扼杀（某人",
       "某事物"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1463,11 +1175,6 @@
       "鸿运亨通"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1486,11 +1193,6 @@
       "kiln"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1511,11 +1213,6 @@
       "见附录"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1534,11 +1231,6 @@
       "旧)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1559,11 +1251,6 @@
       "公斤"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1580,15 +1267,9 @@
     "pronunciation": "/ ˈkɪləhɜːts; ˈkɪloˌhɜːts/",
     "accepted_answers": [
       "复数不变)(",
-      "缩写",
-      ")("
+      "缩写"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1611,11 +1292,6 @@
       "米）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1637,11 +1313,6 @@
       "瓦特）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1663,18 +1334,13 @@
       "（妇女或儿童穿的类似上述的）短褶裙"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "kimono",
     "type": "word",
     "pos": "N",
-    "translation": ")(；和服（日式长袍）；（和服式）晨服",
+    "translation": "和服（日式长袍）；（和服式）晨服",
     "analysis": "n (pl ~s) (a) long loose Japanese robe with wide sleeves, worn with a sash 和服（日式长袍）. (b) dressing-gown resembling this （和服式）晨服.",
     "phonetic": "/ kɪˈməʊnəʊ; -nə; kəˈmonə/",
     "origin": "待查",
@@ -1683,16 +1349,10 @@
     ],
     "pronunciation": "/ kɪˈməʊnəʊ; -nə; kəˈmonə/",
     "accepted_answers": [
-      ")(",
       "和服（日式长袍）",
       "（和服式）晨服"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1715,11 +1375,6 @@
       "他的家人和亲戚都参加了婚礼"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1744,11 +1399,6 @@
       "友好的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1767,11 +1417,6 @@
       "幼儿园"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1794,11 +1439,6 @@
       "有些火星把乾草给引著了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1817,11 +1457,6 @@
       "引火物（小块的乾柴等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1843,11 +1478,6 @@
       "友好的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1870,11 +1500,6 @@
       "声称与某人有亲属关系"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1895,11 +1520,6 @@
       "运动引起的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1920,11 +1540,6 @@
       "（尤指）动态雕塑（藉活动部件在气流等中的运动造成动感效果的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1949,11 +1564,6 @@
       "国王的称号"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -1973,11 +1583,6 @@
       "驴蹄草"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2000,11 +1605,6 @@
       "界（大自然的三大类别）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2026,11 +1626,6 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2053,11 +1648,6 @@
       "王权"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2081,11 +1671,6 @@
       "乖僻"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2106,18 +1691,13 @@
       "声称与某人有血缘关系"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "kinsman",
     "type": "word",
     "pos": "N",
-    "translation": ")(；文)；男亲属",
+    "translation": "文)；男亲属",
     "analysis": "n (pl -men/-mEn; -mEn/)(fml 文) male relative 男亲属.\nkinswoman \nn (pl -women) (fml 文) female relative 女亲属.",
     "phonetic": "/ ˈkɪnzmən; ˈkɪnzmən/",
     "origin": "待查",
@@ -2126,16 +1706,10 @@
     ],
     "pronunciation": "/ ˈkɪnzmən; ˈkɪnzmən/",
     "accepted_answers": [
-      ")(",
       "文)",
       "男亲属"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2156,11 +1730,6 @@
       "公用电话亭"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2186,11 +1755,6 @@
       "睡觉"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2209,11 +1773,6 @@
       "腌晒或熏制的鲱鱼"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2234,11 +1793,6 @@
       "上教堂去"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2257,11 +1811,6 @@
       "（无色的）樱桃酒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2282,11 +1831,6 @@
       "天命"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2312,11 +1856,6 @@
       "他们就热烈亲吻"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2341,11 +1880,6 @@
       "为某种活动（尤指运动）、场合或行业用的成套用品"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2367,11 +1901,6 @@
       "厨房设备（如厨柜等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2392,11 +1921,6 @@
       "家庭菜园"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2417,11 +1941,6 @@
       "放风筝（的运动）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2441,11 +1960,6 @@
       "形似风筝）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2465,11 +1979,6 @@
       "亲友"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2490,11 +1999,6 @@
       "他们新买的那盏灯真俗气"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2515,11 +2019,6 @@
       "口)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2540,11 +2039,6 @@
       "共同的资金（如俱乐部的储金）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2566,11 +2060,6 @@
       "新西兰人（尤指士兵或国家运动员）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2589,11 +2078,6 @@
       "缩写"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2613,11 +2097,6 @@
       "高音电喇叭或警报器"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2634,15 +2113,9 @@
     "pronunciation": "/ ˈkliːneks; ˈkliˌneks/",
     "accepted_answers": [
       "复数或不变或作",
-      ")(",
       "专利名)("
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2662,11 +2135,6 @@
       "盗窃癖"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2690,11 +2158,6 @@
       "患偷窃狂的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2718,11 +2181,6 @@
       "做起来就很容易了"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2743,11 +2201,6 @@
       "上述两种人做生意的场所"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2766,11 +2219,6 @@
       "旧)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2791,11 +2239,6 @@
       "古)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2816,11 +2259,6 @@
       "欺诈"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2840,11 +2278,6 @@
       "欺诈的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2862,16 +2295,11 @@
     "accepted_answers": [
       "揉",
       "捏（面团、湿黏土等）",
-      ")把面团揉成球形",
+      "把面团揉成球形",
       "按摩",
       "揉捏（肌肉等）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2896,11 +2324,6 @@
       "（人坐著时）大腿的朝上的面"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2918,15 +2341,10 @@
     "pronunciation": "/ niːl; nil/",
     "accepted_answers": [
       "用法见",
-      ")单膝或双膝跪下",
+      "单膝或双膝跪下",
       "屈膝"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2948,11 +2366,6 @@
       "修辞)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2973,11 +2386,6 @@
       "小饰物"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -2996,11 +2404,6 @@
       "（尤指旧时）灯笼裤"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3021,11 +2424,6 @@
       "习语)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3050,11 +2448,6 @@
       "裁纸刀"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3078,11 +2471,6 @@
       "带不带姓均可）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3104,11 +2492,6 @@
       "爵士或骑士的身分、品德或尊严"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3134,18 +2517,13 @@
       "你会织毛活儿吗"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "knob",
     "type": "word",
     "pos": "N",
-    "translation": ")（门、抽屉等的）圆形拉手；)（收音机、电视机等的）旋钮；结节；瘤；疙瘩（如树干上的）",
+    "translation": "（门、抽屉等的）圆形拉手；)（收音机、电视机等的）旋钮；结节；瘤；疙瘩（如树干上的）",
     "analysis": "n  1 (a) round handle (of a door, drawer, etc) （门、 抽屉等的）圆形拉手. (b) round control button (for adjusting a radio, TV, etc) （收音机、 电视机等的）旋钮.  2 round lump on the surface of sth, eg a tree trunk 结节, 瘤, 疙瘩（如树干上的）.  3 small lump (of butter, coal, etc) （黄油、 煤等的）小块.  4 (idm 习语) with knobs on (Brit sl 俚) (used to indicate the return of an insult, or emphatic agreement 用以表示反唇相讥或强调同意): `You're a selfish pig!' `And the same to you, with knobs on!' ｀自私鬼!＇｀你才是呢, 你是双料的!＇",
     "phonetic": "/ nɒb; nɑːb/",
     "origin": "待查",
@@ -3154,18 +2532,13 @@
     ],
     "pronunciation": "/ nɒb; nɑːb/",
     "accepted_answers": [
-      ")（门、抽屉等的）圆形拉手",
-      ")（收音机、电视机等的）旋钮",
+      "（门、抽屉等的）圆形拉手",
+      "（收音机、电视机等的）旋钮",
       "结节",
       "瘤",
       "疙瘩（如树干上的）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3186,11 +2559,6 @@
       "长著很多结节的膝盖"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3215,11 +2583,6 @@
       "我就来敲你的门"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3240,11 +2603,6 @@
       "插图"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3264,11 +2622,6 @@
       "小土墩"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3293,11 +2646,6 @@
       "打个结实的结把这两条绳系在一起"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3324,11 +2672,6 @@
       "我知道"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3351,11 +2694,6 @@
       "世故的"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3378,11 +2716,6 @@
       "小孩儿不解善恶"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3403,11 +2736,6 @@
       "她对艺术十分在行"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3426,11 +2754,6 @@
       "对这学科谈得头头是道"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3452,11 +2775,6 @@
       "擦破指关节"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3474,14 +2792,9 @@
     "accepted_answers": [
       "缩写",
       "口)",
-      ")击倒（尤为拳击用语）"
+      "击倒（尤为拳击用语）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3501,11 +2814,6 @@
       "毛密、色灰、耳大、无尾）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3526,11 +2834,6 @@
       "考包"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3549,11 +2852,6 @@
       "眼睑粉（东方妇女的化妆品）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3572,11 +2870,6 @@
       "球茎甘蓝（可供食用）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3598,11 +2891,6 @@
       "狂人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3621,11 +2909,6 @@
       "笑翠鸟（产於澳洲）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3644,11 +2927,6 @@
       "（南非的）小山"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3669,11 +2947,6 @@
       "（伊斯兰教经典）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3692,11 +2965,6 @@
       "koranic"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3718,18 +2986,13 @@
       "口)"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
     "term": "kowtow",
     "type": "word",
     "pos": "V",
-    "translation": ")（向某人；某事物；）叩头；磕头；臣服",
+    "translation": "（向某人；某事物；）叩头；磕头；臣服",
     "analysis": "v [I, Ipr] ~ (to sb/sth) be submissive, humble or respectful (to sb/sth) （向某人[某事物]）叩头, 磕头, 臣服: a refusal to kowtow (to the government's wishes on this issue) 拒绝屈从（於政府对这一问题的意旨）.",
     "phonetic": "/ ˌkaUˈtaU; kaJˈtaJ/",
     "origin": "待查",
@@ -3738,18 +3001,13 @@
     ],
     "pronunciation": "/ ˌkaUˈtaU; kaJˈtaJ/",
     "accepted_answers": [
-      ")（向某人",
+      "（向某人",
       "某事物",
       "）叩头",
       "磕头",
       "臣服"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3770,11 +3028,6 @@
       "小时"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3795,11 +3048,6 @@
       "家畜栏"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3820,11 +3068,6 @@
       "克里姆林宫"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3843,11 +3086,6 @@
       "（鲸鱼吞食的）磷虾群"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3866,11 +3104,6 @@
       "（马来亚或印度尼西亚的）波形刃短剑"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3890,11 +3123,6 @@
       "克朗（冰岛的货币单位）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3913,11 +3141,6 @@
       "克朗（丹麦和挪威的货币单位）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3936,11 +3159,6 @@
       "克鲁格金币（南非金币重一盎司）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3961,11 +3179,6 @@
       "詹姆斯·贝利爵士"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -3986,11 +3199,6 @@
       "尤指其南部的白人基督教徒的种族主义秘密组织）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4007,15 +3215,10 @@
     "pronunciation": "/ ˈkjuːdɒs; ˈkuː-; ˈkudɑːs/",
     "accepted_answers": [
       "口)",
-      ")荣誉",
+      "荣誉",
       "光荣"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4034,11 +3237,6 @@
       "（廓尔喀人用的）弯刀"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4057,11 +3255,6 @@
       "乳酒（中亚某些民族用马乳酿制的酒）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4080,11 +3273,6 @@
       "（用莳萝和葛缕子调味的）烈性甜酒"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4103,11 +3291,6 @@
       "金橘"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4126,11 +3309,6 @@
       "（中国武术中的）徒手功夫"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/F/F-s,t,u,v,w,x,y,z.txt"
   },
   {
@@ -4151,11 +3329,6 @@
       "功率"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4175,11 +3348,6 @@
       "蛋白质营养不良（热带严重儿科病）"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4198,11 +3366,6 @@
       "南非的一种爵士乐"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   },
   {
@@ -4223,11 +3386,6 @@
       "止住某人"
     ],
     "added_at": "",
-    "review": {
-      "correct_count": 0,
-      "incorrect_count": 0,
-      "review_history": []
-    },
     "dict_source": "data/DICT/K/K.TXT"
   }
 ]

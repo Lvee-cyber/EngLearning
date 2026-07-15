@@ -2,6 +2,7 @@ const APP_CONFIG = window.APP_CONFIG || {};
 const STORAGE_KEYS = {
   profileId: "englearning.profile_id",
   dictionaryChoiceSample: "englearning.dictionary_choice_sample",
+  offlineEvents: "englearning.review_events.pending",
 };
 const MASTERED_THRESHOLD = Number(APP_CONFIG.masteredThreshold || 10);
 const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supabaseTable || "review_progress";
@@ -10,13 +11,13 @@ const CHOICE_SAMPLE_TARGET = 240;
 const CHOICE_SAMPLE_TTL_MS = 3 * 60 * 1000;
 
 const state = {
+  baseWords: [],
   words: [],
   dictionaryEntries: [],
   wordsSource: "json",
   dictionarySource: "json",
   dictionaryEntriesPromise: null,
   progressByTerm: {},
-  profileSuggestions: [],
   queue: [],
   currentIndex: 0,
   currentItem: null,
@@ -46,8 +47,6 @@ const elements = {
   modeSpellingButton: document.querySelector("#mode-spelling-button"),
   modeChoiceButton: document.querySelector("#mode-choice-button"),
   profileIdInput: document.querySelector("#profile-id"),
-  profileIdToggle: document.querySelector("#profile-id-toggle"),
-  profileIdSuggestions: document.querySelector("#profile-id-suggestions"),
   setupStatus: document.querySelector("#setup-status"),
   syncStatus: document.querySelector("#sync-status"),
   historyToggleButton: document.querySelector("#history-toggle-button"),
@@ -220,56 +219,65 @@ function hydrateProfileId() {
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
 }
 
-function getFilteredProfileSuggestions(includeAllWhenEmpty = false) {
-  const keyword = normalizeWord(elements.profileIdInput?.value || "");
-  if (!keyword) return includeAllWhenEmpty ? state.profileSuggestions.slice(0, 8) : [];
-  return state.profileSuggestions.filter((profileId) => normalizeWord(profileId).includes(keyword)).slice(0, 8);
+function progressCacheKey(profileId) {
+  return `englearning.progress.${String(profileId || "").trim()}`;
 }
 
-function closeProfileSuggestions() {
-  if (!elements.profileIdSuggestions || !elements.profileIdToggle) return;
-  elements.profileIdSuggestions.classList.add("hidden");
-  elements.profileIdToggle.setAttribute("aria-expanded", "false");
-}
-
-function openProfileSuggestions(includeAllWhenEmpty = false) {
-  if (!elements.profileIdSuggestions || !elements.profileIdToggle) return;
-  renderProfileSuggestions(includeAllWhenEmpty);
-  const suggestions = getFilteredProfileSuggestions(includeAllWhenEmpty);
-  if (!suggestions.length) {
-    closeProfileSuggestions();
-    return;
+function readCachedProgress(profileId) {
+  try {
+    const parsed = JSON.parse(window.localStorage.getItem(progressCacheKey(profileId)) || "{}");
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
   }
-  elements.profileIdSuggestions.classList.remove("hidden");
-  elements.profileIdToggle.setAttribute("aria-expanded", "true");
 }
 
-function selectProfileSuggestion(profileId) {
-  elements.profileIdInput.value = profileId;
-  saveProfileId();
-  closeProfileSuggestions();
-  elements.profileIdInput.focus();
+function cacheProgress(profileId, progress) {
+  try {
+    window.localStorage.setItem(progressCacheKey(profileId), JSON.stringify(progress));
+  } catch {}
 }
 
-function renderProfileSuggestions(includeAllWhenEmpty = false) {
-  if (!elements.profileIdSuggestions) return;
-  const suggestions = getFilteredProfileSuggestions(includeAllWhenEmpty);
-  elements.profileIdSuggestions.innerHTML = suggestions
-    .map(
-      (profileId, index) =>
-        `<button class="suggest-option" type="button" role="option" data-profile-id="${escapeHtml(profileId)}" aria-selected="${index === 0 ? "true" : "false"}">${escapeHtml(profileId)}</button>`,
-    )
-    .join("");
-  if (!suggestions.length) {
-    closeProfileSuggestions();
-    return;
+function readPendingEvents() {
+  try {
+    const parsed = JSON.parse(window.localStorage.getItem(STORAGE_KEYS.offlineEvents) || "[]");
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
   }
-  elements.profileIdSuggestions.querySelectorAll(".suggest-option").forEach((button) => {
-    button.addEventListener("mousedown", (event) => {
-      event.preventDefault();
-      selectProfileSuggestion(button.dataset.profileId || "");
-    });
+}
+
+function savePendingEvents(events) {
+  try {
+    window.localStorage.setItem(STORAGE_KEYS.offlineEvents, JSON.stringify(events));
+  } catch {}
+}
+
+async function syncReviewEvent(event) {
+  return state.supabase.rpc("record_review_event", {
+    p_event_id: event.event_id,
+    p_profile_id: event.profile_id,
+    p_term: event.term,
+    p_result: event.result,
+    p_user_answer: event.user_answer,
+    p_mode: event.mode,
+    p_session_id: event.session_id,
+    p_session_started_at: event.session_started_at,
+    p_answered_at: event.answered_at,
   });
+}
+
+async function flushPendingEvents() {
+  if (!state.supabase) return;
+  const pending = readPendingEvents();
+  if (!pending.length) return;
+  const remaining = [];
+  for (const event of pending) {
+    const { error } = await syncReviewEvent(event);
+    if (error) remaining.push(event);
+  }
+  savePendingEvents(remaining);
+  if (!remaining.length) updateSyncStatus(`已补传 ${pending.length} 条离线作答记录。`, "ok");
 }
 
 function getEmbeddedReview(entry) {
@@ -449,8 +457,29 @@ async function fetchWords() {
   });
   const words = items;
   if (!Array.isArray(words)) throw new Error("words.json 格式不正确");
-  state.words = words;
+  state.baseWords = words;
+  state.words = [...words];
   state.wordsSource = source;
+}
+
+async function fetchPersonalVocabulary() {
+  state.words = [...state.baseWords];
+  const profileId = getProfileId();
+  if (!state.supabase || !profileId) return;
+
+  const { data, error } = await state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId });
+  if (error) {
+    console.warn("[review] 个人词库暂不可用。", error.message || error);
+    return;
+  }
+
+  const merged = new Map(state.words.map((entry) => [normalizeWord(entry.term), entry]));
+  (data || []).forEach((row) => {
+    const payload = row?.payload;
+    const term = normalizeWord(payload?.term || row?.term);
+    if (term && payload && !merged.has(term)) merged.set(term, payload);
+  });
+  state.words = [...merged.values()];
 }
 
 async function ensureDictionaryEntries() {
@@ -561,22 +590,32 @@ async function fetchDictionaryChoiceSample() {
 
 async function loadProgress() {
   const profileId = getProfileId();
-  if (!state.supabase || !profileId) {
+  if (!profileId) {
     state.syncReady = false;
     state.progressByTerm = {};
-    updateSyncStatus("未启用在线同步。请填写同步标识并配置 Supabase。", "warn");
+    updateSyncStatus("请填写私有同步标识；进度会先保存在当前设备。", "warn");
     return;
   }
 
-  const { data, error } = await state.supabase
-    .from(REVIEW_PROGRESS_TABLE)
-    .select("term, correct_count, incorrect_count, review_history, updated_at")
-    .eq("profile_id", profileId);
+  state.progressByTerm = readCachedProgress(profileId);
+  state.syncReady = true;
+  if (!state.supabase) {
+    updateSyncStatus("当前处于离线模式，作答会保存在本机并等待同步。", "warn");
+    return;
+  }
 
-  if (error) throw error;
+  let data = [];
+  try {
+    const response = await state.supabase.rpc("get_review_progress", { p_profile_id: profileId });
+    if (response.error) throw response.error;
+    data = response.data || [];
+  } catch {
+    updateSyncStatus("在线进度暂不可用，已切换到本机缓存；恢复网络后会自动补传。", "warn");
+    return;
+  }
 
   state.progressByTerm = Object.fromEntries(
-    (data || []).map((item) => [
+    data.map((item) => [
       item.term,
       {
         correct_count: Number(item.correct_count || 0),
@@ -586,52 +625,35 @@ async function loadProgress() {
       },
     ]),
   );
+  if (readPendingEvents().some((event) => event.profile_id === profileId)) {
+    const cached = readCachedProgress(profileId);
+    Object.entries(cached).forEach(([term, local]) => {
+      const remote = state.progressByTerm[term] || {};
+      const history = [...(remote.review_history || []), ...(local.review_history || [])];
+      const seen = new Set();
+      state.progressByTerm[term] = {
+        correct_count: Math.max(Number(remote.correct_count || 0), Number(local.correct_count || 0)),
+        incorrect_count: Math.max(Number(remote.incorrect_count || 0), Number(local.incorrect_count || 0)),
+        review_history: history.filter((item) => {
+          const key = item.event_id || `${item.answered_at}|${item.result}|${item.user_answer}`;
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        }),
+      };
+    });
+  }
+  cacheProgress(profileId, state.progressByTerm);
 
   state.syncReady = true;
   updateSyncStatus(`在线同步已连接：${profileId}`, "ok");
 }
 
-async function fetchProfileSuggestions() {
-  if (!state.supabase) {
-    state.profileSuggestions = [];
-    renderProfileSuggestions();
-    return;
-  }
-
-  const seen = new Set();
-  const suggestions = [];
-  let offset = 0;
-  const pageSize = 1000;
-
-  while (true) {
-    const { data, error } = await state.supabase
-      .from(REVIEW_PROGRESS_TABLE)
-      .select("profile_id, updated_at")
-      .order("updated_at", { ascending: false })
-      .range(offset, offset + pageSize - 1);
-
-    if (error) throw error;
-
-    const batch = Array.isArray(data) ? data : [];
-    batch.forEach((item) => {
-      const profileId = String(item.profile_id || "").trim();
-      if (!profileId || seen.has(profileId)) return;
-      seen.add(profileId);
-      suggestions.push(profileId);
-    });
-
-    if (batch.length < pageSize) break;
-    offset += pageSize;
-  }
-
-  state.profileSuggestions = suggestions;
-  renderProfileSuggestions();
-}
-
 async function bootData() {
   state.supabase = window.ContentStore.createSupabaseClient();
   await fetchWords();
-  await fetchProfileSuggestions();
+  await fetchPersonalVocabulary().catch(() => {});
+  await flushPendingEvents().catch(() => {});
   await loadProgress();
   updateHomeStats();
   updateSetupStatus(getDefaultSetupStatus());
@@ -874,6 +896,7 @@ async function startReview() {
     return;
   }
   try {
+    await fetchPersonalVocabulary();
     await loadProgress();
     updateHomeStats();
   } catch (error) {
@@ -944,16 +967,7 @@ function focusSlot(index) {
 
 function getTypedTailFromSlots() {
   const inputs = getSlotInputs();
-  let inputIndex = 0;
-  return state.currentSlotChars
-    .slice(1)
-    .map((char) => {
-      if (char === " ") return " ";
-      const input = inputs[inputIndex];
-      inputIndex += 1;
-      return input ? input.value.trim() : "";
-    })
-    .join("");
+  return window.ReviewSpelling.assembleTail(state.currentSlotChars.join(""), inputs.map((input) => input.value));
 }
 
 function handleSlotInput(event) {
@@ -1027,8 +1041,10 @@ function renderSpellingSlots(term) {
     `<span class="slot-fixed">${escapeHtml(chars[0] || "")}</span>`,
     ...chars.slice(1).map(
       (char, index) =>
-        char === " "
-          ? `<span class="slot-gap" aria-hidden="true"></span>`
+        !window.ReviewSpelling.isEditableChar(char)
+          ? char === " "
+            ? `<span class="slot-gap" aria-hidden="true"></span>`
+            : `<span class="slot-fixed slot-punctuation">${escapeHtml(char)}</span>`
           : (() => {
               editableIndex += 1;
               return `<input class="slot-input" data-index="${editableIndex}" maxlength="1" inputmode="text" autocapitalize="off" autocomplete="off" spellcheck="false" aria-label="第 ${index + 2} 个字符" />`;
@@ -1117,27 +1133,41 @@ async function persistResult(correct, userAnswer) {
     session_started_at: state.currentSessionStartedAt || nowIso(),
   });
 
-  const payload = {
+  const latestEvent = {
+    event_id: window.crypto.randomUUID(),
     profile_id: getProfileId(),
     term: entry.term,
-    correct_count: next.correct_count,
-    incorrect_count: next.incorrect_count,
-    review_history: next.review_history,
-    updated_at: new Date().toISOString(),
+    ...next.review_history.at(-1),
   };
+  cacheProgress(getProfileId(), { ...state.progressByTerm, [entry.term]: next });
 
-  const { error } = await state.supabase
-    .from(REVIEW_PROGRESS_TABLE)
-    .upsert(payload, { onConflict: "profile_id,term" });
+  let saved = null;
+  if (state.supabase) {
+    const response = await syncReviewEvent(latestEvent);
+    if (!response.error) saved = Array.isArray(response.data) ? response.data[0] : response.data;
+    else {
+      savePendingEvents([...readPendingEvents(), latestEvent]);
+      updateSyncStatus("本次作答已保存在本机，恢复网络后会自动同步。", "warn");
+    }
+  } else {
+    savePendingEvents([...readPendingEvents(), latestEvent]);
+    updateSyncStatus("本次作答已保存在本机，恢复网络后会自动同步。", "warn");
+  }
 
-  if (error) throw error;
-
-  state.progressByTerm[entry.term] = next;
+  const savedProgress = saved
+    ? {
+        correct_count: Number(saved.correct_count || 0),
+        incorrect_count: Number(saved.incorrect_count || 0),
+        review_history: Array.isArray(saved.review_history) ? saved.review_history : next.review_history,
+      }
+    : next;
+  state.progressByTerm[entry.term] = savedProgress;
+  cacheProgress(getProfileId(), state.progressByTerm);
   updateHomeStats();
   state.lastResult = {
     correct,
     entry,
-    movedToMastered: Number(prev.correct_count || 0) < MASTERED_THRESHOLD && next.correct_count >= MASTERED_THRESHOLD,
+    movedToMastered: Number(prev.correct_count || 0) < MASTERED_THRESHOLD && savedProgress.correct_count >= MASTERED_THRESHOLD,
     userAnswer: buildUserAnswer(entry, userAnswer),
     mode: state.reviewMode,
   };
@@ -1183,6 +1213,7 @@ function openDictionaryPage() {
 elements.startButton.addEventListener("click", () => {
   startReview().catch((error) => updateSetupStatus(`开始复习失败：${error.message}`));
 });
+document.querySelector(".setup-main")?.addEventListener("submit", (event) => event.preventDefault());
 elements.submitButton.addEventListener("click", () => {
   submitAnswer().catch((error) => updateSetupStatus(`提交失败：${error.message}`));
 });
@@ -1218,28 +1249,6 @@ elements.modeChoiceButton?.addEventListener("click", () => {
       });
   }
 });
-elements.profileIdToggle?.addEventListener("click", () => {
-  if (elements.profileIdSuggestions.classList.contains("hidden")) openProfileSuggestions(true);
-  else closeProfileSuggestions();
-});
-elements.profileIdInput?.addEventListener("focus", () => {
-  openProfileSuggestions(false);
-});
-elements.profileIdInput?.addEventListener("input", () => {
-  openProfileSuggestions(false);
-});
-elements.profileIdInput?.addEventListener("keydown", (event) => {
-  if (event.key === "Escape") closeProfileSuggestions();
-  if (event.key === "ArrowDown") {
-    event.preventDefault();
-    openProfileSuggestions(true);
-  }
-});
-elements.profileIdInput?.addEventListener("blur", () => {
-  window.setTimeout(() => {
-    closeProfileSuggestions();
-  }, 120);
-});
 elements.historyToggleButton?.addEventListener("click", () => {
   toggleHistoryOverview().catch((error) => {
     renderHistoryOverview(`历史记录读取失败：${error.message}`);
@@ -1248,6 +1257,7 @@ elements.historyToggleButton?.addEventListener("click", () => {
 elements.profileIdInput.addEventListener("change", async () => {
   saveProfileId();
   try {
+    await fetchPersonalVocabulary();
     await loadProgress();
     updateHomeStats();
     if (state.historyVisible) renderHistoryOverview();
@@ -1257,12 +1267,6 @@ elements.profileIdInput.addEventListener("change", async () => {
   }
 });
 elements.actionRows.forEach((row) => row.addEventListener("keydown", handleActionRowKeydown));
-document.addEventListener("pointerdown", (event) => {
-  const target = event.target;
-  if (!(target instanceof Element)) return;
-  if (target.closest(".suggest-input-wrap")) return;
-  closeProfileSuggestions();
-});
 
 hydrateProfileId();
 bootData().catch((error) => {

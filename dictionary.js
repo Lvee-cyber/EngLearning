@@ -381,7 +381,7 @@ function renderEntry(entry) {
           <p class="dictionary-pronunciation">${escapeHtml(pronunciation || "暂无发音信息")}</p>
           ${getTranslationHtml(entry)}
         </div>
-        <span class="word-state is-reviewable">已收录</span>
+        <span class="word-state ${isAdded ? "is-mastered" : "is-reviewable"}">${isAdded ? "已加入词库" : "辞典词条"}</span>
       </div>
 
       <div class="dictionary-card-actions">
@@ -706,18 +706,37 @@ function ensureWordsLoaded() {
 function buildWordPayload(entry) {
   return {
     ...entry,
-    review: entry.review || {
-      correct_count: 0,
-      incorrect_count: 0,
-      review_history: [],
-    },
     added_at: entry.added_at || new Date().toISOString(),
   };
+}
+
+function getProfileId() {
+  return String(window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
+}
+
+async function hydratePersonalVocabulary() {
+  const profileId = getProfileId();
+  state.addedTerms.clear();
+  if (!state.supabase || !profileId) return;
+  const { data, error } = await state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId });
+  if (error) {
+    console.warn("[dictionary] 个人词库暂不可用。", error.message || error);
+    return;
+  }
+  (data || []).forEach((row) => {
+    const term = normalizeText(row?.term);
+    if (term) state.addedTerms.add(term);
+  });
 }
 
 async function addToVocabulary(term) {
   if (!state.supabase) {
     updateSummary("当前未配置 Supabase，无法加入单词本。");
+    return;
+  }
+  const profileId = getProfileId();
+  if (!profileId) {
+    updateSummary("请先在复习页设置私有同步标识，再加入个人词库。");
     return;
   }
 
@@ -729,14 +748,11 @@ async function addToVocabulary(term) {
   updateStatus(`正在将 ${entry.term} 加入单词本...`);
 
   const payload = buildWordPayload(entry);
-  const { error } = await state.supabase.from(APP_CONFIG.wordsTable || "vocabulary_words").upsert(
-    {
-      term: payload.term,
-      payload,
-      updated_at: new Date().toISOString(),
-    },
-    { onConflict: "term" },
-  );
+  const { error } = await state.supabase.rpc("save_personal_vocabulary", {
+    p_profile_id: profileId,
+    p_term: payload.term,
+    p_payload: payload,
+  });
 
   state.addingTerms.delete(normalizedTerm);
 
@@ -748,7 +764,7 @@ async function addToVocabulary(term) {
 
   state.addedTerms.add(normalizedTerm);
   updateStatus(`${entry.term} 已同步加入单词本。`);
-  updateSummary(`已将 ${entry.term} 同步到 Supabase 单词本。`);
+  updateSummary(`已将 ${entry.term} 加入当前同步标识的个人词库。`);
   renderCurrentResults();
 }
 
@@ -767,6 +783,8 @@ async function init() {
   if (!state.supabase) {
     state.supabase = window.ContentStore.createSupabaseClient();
   }
+  await hydratePersonalVocabulary();
+  renderCurrentResults();
   if (!state.dictionaryLoaded) {
     updateStatus(`${getDictionaryStatsText()}输入单词后会按需读取对应首字母辞典。`);
     updateSummary("输入单词后点击查询。");
