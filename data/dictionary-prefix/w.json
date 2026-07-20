@@ -5241,6 +5241,37 @@
     "added_at": "2026-03-30T16:07:00+08:00"
   },
   {
+    "term": "whistleblower",
+    "type": "word",
+    "pos": "N",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "举报人；揭发者；吹哨人"
+      }
+    ],
+    "translation": "举报人；揭发者；吹哨人",
+    "analysis": "指组织内部或其他知情人士向管理部门、监管机构、媒体或公众揭露违法、腐败、欺诈、安全隐患等不当行为的人，通常强调公共利益以及举报人可能面临的报复风险。",
+    "phonetic": "BrE /ˈwɪsəlˌbləʊə(r)/; AmE /ˈwɪsəlˌbloʊər/",
+    "origin": "源自体育比赛中裁判吹哨制止犯规的形象；短语 blow the whistle on 后来引申为揭露错误或违法行为，由此形成 whistleblower。",
+    "expansions": [
+      "whistleblower protection 举报人保护",
+      "whistleblower complaint 举报投诉",
+      "whistleblower allegations 举报人的指控",
+      "anonymous whistleblower 匿名举报人",
+      "protect a whistleblower from retaliation 保护举报人免遭报复",
+      "blow the whistle on somebody/something 揭发某人或某事",
+      "whistleblowing 举报行为；揭弊行为"
+    ],
+    "pronunciation": "BrE /ˈwɪsəlˌbləʊə(r)/; AmE /ˈwɪsəlˌbloʊər/",
+    "accepted_answers": [
+      "举报人",
+      "揭发者",
+      "吹哨人"
+    ],
+    "added_at": "2026-07-20T01:26:34.365Z"
+  },
+  {
     "term": "whit",
     "type": "word",
     "translation": "通常用於否定句中)；极少的量；一点儿",

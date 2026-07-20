@@ -2,7 +2,7 @@
   "name": "englearning",
   "private": true,
   "scripts": {
-    "check:syntax": "node --check content-store.js && node --check index.js && node --check review.js && node --check words.js && node --check dictionary.js && node --check sw.js",
+    "check:syntax": "node --check content-store.js && node --check index.js && node --check review.js && node --check review-selection.js && node --check words.js && node --check dictionary.js && node --check sw.js",
     "check:content": "node scripts/separate-review-progress.mjs --check && node scripts/clean-dictionary-quality.mjs --check && node scripts/validate-content.mjs && node scripts/build_dictionary_prefixes.js --check",
     "test": "node --test scripts/*.test.cjs",
     "check": "npm run check:syntax && npm run check:content && npm test"

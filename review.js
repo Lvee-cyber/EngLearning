@@ -1,6 +1,7 @@
 const APP_CONFIG = window.APP_CONFIG || {};
 const STORAGE_KEYS = {
   profileId: "englearning.profile_id",
+  selectionStrategy: "englearning.selection_strategy",
   dictionaryChoiceSample: "englearning.dictionary_choice_sample",
   offlineEvents: "englearning.review_events.pending",
 };
@@ -22,6 +23,7 @@ const state = {
   currentIndex: 0,
   currentItem: null,
   reviewMode: "spelling",
+  selectionStrategy: "random",
   currentChoiceOptions: [],
   currentChoiceSelection: "",
   lastResult: null,
@@ -46,6 +48,7 @@ const elements = {
   reviewCount: document.querySelector("#review-count"),
   modeSpellingButton: document.querySelector("#mode-spelling-button"),
   modeChoiceButton: document.querySelector("#mode-choice-button"),
+  strategyButtons: [...document.querySelectorAll("[data-strategy]")],
   profileIdInput: document.querySelector("#profile-id"),
   profileOptions: document.querySelector("#profile-id-options"),
   setupStatus: document.querySelector("#setup-status"),
@@ -80,7 +83,16 @@ const elements = {
   analysisText: document.querySelector("#analysis-text"),
   expansionsList: document.querySelector("#expansions-list"),
   historyText: document.querySelector("#history-text"),
-  actionRows: Array.from(document.querySelectorAll(".setup-grid, .review-mode-group, .setup-actions, .quiz-topbar, .answer-row, .result-actions")),
+  actionRows: Array.from(
+    document.querySelectorAll(".setup-grid, .review-mode-group, .review-strategy-group, .setup-actions, .quiz-topbar, .answer-row, .result-actions"),
+  ),
+};
+
+const STRATEGY_LABELS = {
+  random: "默认随机",
+  newest: "新词优先",
+  incorrect: "错词优先",
+  consolidate: "巩固速成",
 };
 
 function shuffle(items) {
@@ -220,6 +232,21 @@ function hydrateProfileId() {
   const fromStorage = window.localStorage.getItem(STORAGE_KEYS.profileId);
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
   window.ContentStore.renderProfileOptions(elements.profileOptions, window.ContentStore.getRememberedProfileIds());
+}
+
+function setSelectionStrategy(strategy, options = {}) {
+  const nextStrategy = STRATEGY_LABELS[strategy] ? strategy : "random";
+  state.selectionStrategy = nextStrategy;
+  elements.strategyButtons.forEach((button) => {
+    const active = button.dataset.strategy === nextStrategy;
+    button.classList.toggle("is-active", active);
+    button.setAttribute("aria-checked", String(active));
+  });
+  if (options.persist !== false) window.localStorage.setItem(STORAGE_KEYS.selectionStrategy, nextStrategy);
+}
+
+function hydrateSelectionStrategy() {
+  setSelectionStrategy(window.localStorage.getItem(STORAGE_KEYS.selectionStrategy) || "random", { persist: false });
 }
 
 async function hydrateProfileOptions() {
@@ -826,7 +853,12 @@ async function toggleHistoryOverview() {
 function pickReviewItems() {
   const total = Number(elements.reviewCount.value);
   const reviewable = getReviewableWords();
-  const selected = shuffle(reviewable).slice(0, Math.min(total, reviewable.length));
+  const selected = window.ReviewSelection.selectReviewItems(reviewable, total, state.selectionStrategy, {
+    getKey: (entry) => normalizeWord(entry?.term),
+    getAddedAt: (entry) => entry?.added_at,
+    getCorrectCount,
+    getIncorrectCount,
+  });
   state.queue = selected.map((item) => item.term);
   state.currentIndex = 0;
 }
@@ -1341,6 +1373,12 @@ elements.modeChoiceButton?.addEventListener("click", () => {
       });
   }
 });
+elements.strategyButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    setSelectionStrategy(button.dataset.strategy || "random");
+    updateSetupStatus(`已选择“${STRATEGY_LABELS[state.selectionStrategy]}”策略。开始复习时会按该规则抽取待复习词。`);
+  });
+});
 elements.historyToggleButton?.addEventListener("click", () => {
   toggleHistoryOverview().catch((error) => {
     renderHistoryOverview(`历史记录读取失败：${error.message}`);
@@ -1361,6 +1399,7 @@ elements.profileIdInput.addEventListener("change", async () => {
 elements.actionRows.forEach((row) => row.addEventListener("keydown", handleActionRowKeydown));
 
 hydrateProfileId();
+hydrateSelectionStrategy();
 bootData().catch((error) => {
   updateSetupStatus(`初始化失败：${error.message}`);
   updateSyncStatus("请检查 words.json 地址或 Supabase 配置。", "bad");

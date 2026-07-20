@@ -74,6 +74,27 @@
             <button id="mode-spelling-button" class="mode-chip is-active" type="button" role="radio" aria-checked="true" data-mode="spelling">拼写</button>
             <button id="mode-choice-button" class="mode-chip" type="button" role="radio" aria-checked="false" data-mode="choice">单选</button>
           </div>
+          <div class="review-strategy-section">
+            <span class="label review-strategy-label">选词策略</span>
+            <div class="review-strategy-group" role="radiogroup" aria-label="选词策略">
+              <button class="strategy-chip is-active" type="button" role="radio" aria-checked="true" data-strategy="random">
+                <strong>默认随机</strong>
+                <small>全部待复习词</small>
+              </button>
+              <button class="strategy-chip" type="button" role="radio" aria-checked="false" data-strategy="newest">
+                <strong>新词优先</strong>
+                <small>最近加入词库</small>
+              </button>
+              <button class="strategy-chip" type="button" role="radio" aria-checked="false" data-strategy="incorrect">
+                <strong>错词优先</strong>
+                <small>历史易错词</small>
+              </button>
+              <button class="strategy-chip" type="button" role="radio" aria-checked="false" data-strategy="consolidate">
+                <strong>巩固速成</strong>
+                <small>接近熟练词</small>
+              </button>
+            </div>
+          </div>
           <div class="setup-actions">
             <button id="words-button" class="secondary-button" type="button">查看词库</button>
             <button id="history-toggle-button" class="secondary-button" type="button" aria-expanded="false" aria-controls="history-overview-panel">查看历史记录</button>
@@ -163,6 +184,7 @@
     </main>
 
     <script src="./review-spelling.js?v=20260715-profiles" defer></script>
-    <script src="./review.js?v=20260715-async-sync" defer></script>
+    <script src="./review-selection.js?v=20260720-strategies" defer></script>
+    <script src="./review.js?v=20260720-strategies" defer></script>
   </body>
   </html>
