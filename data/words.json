@@ -5365,5 +5365,45 @@
       "自主权"
     ],
     "added_at": "2026-07-20T02:17:21.060Z"
+  },
+  {
+    "term": "accumulate",
+    "type": "word",
+    "pos": "V",
+    "senses": [
+      {
+        "pos": "Vt",
+        "translation": "积累；收集；使逐渐增加"
+      },
+      {
+        "pos": "Vi",
+        "translation": "积聚；堆积；逐渐增加"
+      }
+    ],
+    "translation": "积累；积聚；逐渐增加",
+    "analysis": "强调某种事物经过一段时间一点点增加，最终形成较大的总量。可描述经验、财富和数据，也可描述债务、垃圾、压力或积水。既可作及物动词，也可作不及物动词。",
+    "phonetic": "BrE /əˈkjuːmjəleɪt/; AmE /əˈkjuːmjəleɪt/",
+    "origin": "来自拉丁语 accumulare，由 ad-（向、增加）和 cumulus（堆、积聚物）构成，字面意思是堆到一起、越积越多。",
+    "expansions": [
+      "accumulate wealth 积累财富",
+      "accumulate knowledge/experience 积累知识或经验",
+      "accumulate evidence/data 积累证据或数据",
+      "accumulate debt 累积债务",
+      "accumulate over time 随着时间积累",
+      "rapidly/gradually accumulate 迅速或逐渐积聚",
+      "accumulation 积累；堆积",
+      "accumulative 累积的",
+      "accumulator 累加器；蓄电池",
+      "cumulative 累计的"
+    ],
+    "pronunciation": "/əˈkjuːmjəleɪt/",
+    "accepted_answers": [
+      "积累",
+      "积聚",
+      "逐渐增加",
+      "堆积",
+      "累积"
+    ],
+    "added_at": "2026-07-20T02:56:00.494Z"
   }
 ]

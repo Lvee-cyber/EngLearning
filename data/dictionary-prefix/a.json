@@ -3890,7 +3890,8 @@
       "集成书库"
     ],
     "added_at": "2026-03-30T02:33:07.775Z",
-    "dict_source": "data/DICT/A/A-c.txt"
+    "dict_source": "data/DICT/A/A-c.txt",
+    "pos": "V"
   },
   {
     "term": "accumulation",

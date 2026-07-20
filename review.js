@@ -48,7 +48,8 @@ const elements = {
   reviewCount: document.querySelector("#review-count"),
   modeSpellingButton: document.querySelector("#mode-spelling-button"),
   modeChoiceButton: document.querySelector("#mode-choice-button"),
-  strategyButtons: [...document.querySelectorAll("[data-strategy]")],
+  selectionStrategy: document.querySelector("#selection-strategy"),
+  selectionStrategyHint: document.querySelector("#selection-strategy-hint"),
   profileIdInput: document.querySelector("#profile-id"),
   profileOptions: document.querySelector("#profile-id-options"),
   setupStatus: document.querySelector("#setup-status"),
@@ -93,6 +94,12 @@ const STRATEGY_LABELS = {
   newest: "新词优先",
   incorrect: "错词优先",
   consolidate: "巩固速成",
+};
+const STRATEGY_HINTS = {
+  random: "从全部待复习词中随机抽取。",
+  newest: "优先复习最近加入词库的单词。",
+  incorrect: "优先复习历史答错次数较多的单词。",
+  consolidate: "优先复习答对次数较多、接近熟练的单词。",
 };
 
 function shuffle(items) {
@@ -237,11 +244,8 @@ function hydrateProfileId() {
 function setSelectionStrategy(strategy, options = {}) {
   const nextStrategy = STRATEGY_LABELS[strategy] ? strategy : "random";
   state.selectionStrategy = nextStrategy;
-  elements.strategyButtons.forEach((button) => {
-    const active = button.dataset.strategy === nextStrategy;
-    button.classList.toggle("is-active", active);
-    button.setAttribute("aria-checked", String(active));
-  });
+  elements.selectionStrategy.value = nextStrategy;
+  elements.selectionStrategyHint.textContent = STRATEGY_HINTS[nextStrategy];
   if (options.persist !== false) window.localStorage.setItem(STORAGE_KEYS.selectionStrategy, nextStrategy);
 }
 
@@ -1373,11 +1377,9 @@ elements.modeChoiceButton?.addEventListener("click", () => {
       });
   }
 });
-elements.strategyButtons.forEach((button) => {
-  button.addEventListener("click", () => {
-    setSelectionStrategy(button.dataset.strategy || "random");
-    updateSetupStatus(`已选择“${STRATEGY_LABELS[state.selectionStrategy]}”策略。开始复习时会按该规则抽取待复习词。`);
-  });
+elements.selectionStrategy.addEventListener("change", () => {
+  setSelectionStrategy(elements.selectionStrategy.value);
+  updateSetupStatus(`已选择“${STRATEGY_LABELS[state.selectionStrategy]}”策略。开始复习时会按该规则抽取待复习词。`);
 });
 elements.historyToggleButton?.addEventListener("click", () => {
   toggleHistoryOverview().catch((error) => {

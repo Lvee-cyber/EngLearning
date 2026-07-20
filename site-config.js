@@ -15,11 +15,11 @@ window.APP_CONFIG = {
   localContentCacheTtlMs: 86400000,
   defaultProfileId: "",
   contentStats: {
-    wordsCount: 184,
+    wordsCount: 185,
     dictionaryCount: 29204,
-    wordsUpdatedAt: "2026-07-20T02:17:21.060Z",
+    wordsUpdatedAt: "2026-07-20T02:56:00.494Z",
     dictionaryUpdatedAt: "2026-07-20T01:26:34.365Z",
-    wordsLatestTerm: "sovereignty",
+    wordsLatestTerm: "accumulate",
     dictionaryLatestTerm: "whistleblower",
   },
 };

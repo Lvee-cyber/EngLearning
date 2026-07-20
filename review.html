@@ -75,25 +75,14 @@
             <button id="mode-choice-button" class="mode-chip" type="button" role="radio" aria-checked="false" data-mode="choice">单选</button>
           </div>
           <div class="review-strategy-section">
-            <span class="label review-strategy-label">选词策略</span>
-            <div class="review-strategy-group" role="radiogroup" aria-label="选词策略">
-              <button class="strategy-chip is-active" type="button" role="radio" aria-checked="true" data-strategy="random">
-                <strong>默认随机</strong>
-                <small>全部待复习词</small>
-              </button>
-              <button class="strategy-chip" type="button" role="radio" aria-checked="false" data-strategy="newest">
-                <strong>新词优先</strong>
-                <small>最近加入词库</small>
-              </button>
-              <button class="strategy-chip" type="button" role="radio" aria-checked="false" data-strategy="incorrect">
-                <strong>错词优先</strong>
-                <small>历史易错词</small>
-              </button>
-              <button class="strategy-chip" type="button" role="radio" aria-checked="false" data-strategy="consolidate">
-                <strong>巩固速成</strong>
-                <small>接近熟练词</small>
-              </button>
-            </div>
+            <label class="label review-strategy-label" for="selection-strategy">选词策略</label>
+            <select id="selection-strategy" class="control strategy-select" aria-describedby="selection-strategy-hint">
+              <option value="random">默认随机</option>
+              <option value="newest">新词优先</option>
+              <option value="incorrect">错词优先</option>
+              <option value="consolidate">巩固速成</option>
+            </select>
+            <p id="selection-strategy-hint" class="strategy-hint">从全部待复习词中随机抽取。</p>
           </div>
           <div class="setup-actions">
             <button id="words-button" class="secondary-button" type="button">查看词库</button>

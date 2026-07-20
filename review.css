@@ -998,61 +998,38 @@ a.history-word-chip:focus-visible {
 }
 
 .review-strategy-section {
+  width: min(100%, 420px);
   margin: 2px 0 18px;
 }
 
 .review-strategy-label {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
-.review-strategy-group {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 10px;
-}
-
-.strategy-chip {
-  min-height: 64px;
-  padding: 10px 12px;
-  display: grid;
-  align-content: center;
-  gap: 3px;
-  border: 1px solid rgba(127, 57, 16, 0.12);
-  border-radius: 16px;
-  background: rgba(255, 252, 247, 0.82);
-  color: var(--muted);
-  font: inherit;
-  text-align: left;
-  cursor: pointer;
-  transition:
-    background 180ms ease,
-    color 180ms ease,
-    transform 180ms ease,
-    box-shadow 180ms ease;
-}
-
-.strategy-chip strong {
-  color: inherit;
-  font-size: 14px;
-  line-height: 1.35;
-}
-
-.strategy-chip small {
-  color: var(--muted);
-  font-size: 11px;
-  line-height: 1.35;
-}
-
-.strategy-chip.is-active {
+.strategy-select {
+  min-height: 56px;
+  padding: 10px 48px 10px 16px;
+  appearance: none;
+  border-radius: 18px;
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--accent-strong) 50%),
+    linear-gradient(135deg, var(--accent-strong) 50%, transparent 50%);
+  background-position:
+    calc(100% - 22px) 24px,
+    calc(100% - 16px) 24px;
+  background-repeat: no-repeat;
+  background-size: 6px 6px, 6px 6px;
+  font-size: 17px;
   color: var(--accent-strong);
-  background: linear-gradient(135deg, rgba(167, 85, 33, 0.15), rgba(127, 57, 16, 0.1));
-  box-shadow: inset 0 0 0 1px rgba(167, 85, 33, 0.18);
+  cursor: pointer;
 }
 
-.strategy-chip:hover,
-.strategy-chip:focus-visible {
-  transform: translateY(-1px);
-  outline: none;
+.strategy-hint {
+  min-height: 22px;
+  margin: 7px 2px 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.65;
 }
 
 .mode-chip {
@@ -2736,14 +2713,24 @@ code {
     margin-bottom: 12px;
   }
 
-  .review-strategy-group {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 8px;
+  .review-strategy-section {
+    width: 100%;
+    margin-bottom: 14px;
   }
 
-  .strategy-chip {
-    min-height: 56px;
-    padding: 8px 10px;
+  .strategy-select {
+    min-height: 48px;
+    padding: 8px 42px 8px 12px;
+    background-position:
+      calc(100% - 20px) 20px,
+      calc(100% - 14px) 20px;
+    border-radius: 14px;
+    font-size: 15px;
+  }
+
+  .strategy-hint {
+    margin-top: 5px;
+    font-size: 12px;
   }
 
   .mode-chip {
