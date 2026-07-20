@@ -5197,5 +5197,36 @@
       "形貌"
     ],
     "added_at": "2026-07-02T03:31:48.589Z"
+  },
+  {
+    "term": "imminent",
+    "type": "word",
+    "pos": "Adj",
+    "senses": [
+      {
+        "pos": "Adj",
+        "translation": "即将发生的；迫近的；临近的"
+      }
+    ],
+    "translation": "即将发生的；迫近的；临近的",
+    "analysis": "表示某事很快就会发生，通常已有明显迹象，常修饰危险、威胁、变化、到来或重大事件，语气强调时间上的紧迫性。",
+    "phonetic": "BrE /ˈɪmɪnənt/; AmE /ˈɪmɪnənt/",
+    "origin": "来自拉丁语 imminere，意为悬在上方、逼近；由 in-（向、在……之上）与 minere（突出、悬出）构成。",
+    "expansions": [
+      "imminent danger 迫在眉睫的危险",
+      "imminent threat 迫近的威胁",
+      "imminent arrival 即将到来",
+      "imminent collapse 濒临崩溃",
+      "be imminent 即将发生",
+      "辨析：imminent 强调即将发生；impending 常带忧虑色彩；forthcoming 较中性"
+    ],
+    "pronunciation": "/ˈɪmɪnənt/",
+    "accepted_answers": [
+      "即将发生的",
+      "迫近的",
+      "临近的",
+      "迫在眉睫的"
+    ],
+    "added_at": "2026-07-20T01:21:31.879Z"
   }
 ]
