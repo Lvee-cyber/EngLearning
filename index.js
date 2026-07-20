@@ -35,9 +35,12 @@ const elements = {
   streakCount: document.querySelector("#landing-streak-count"),
   progressRing: document.querySelector("#landing-progress-ring"),
   studyNote: document.querySelector("#landing-study-note"),
+  profilePicker: document.querySelector("#landing-profile-picker"),
+  profilePickerToggle: document.querySelector("#landing-profile-picker-toggle"),
+  profilePickerPanel: document.querySelector("#landing-profile-picker-panel"),
   profileIdInput: document.querySelector("#landing-profile-id"),
-  profileOptions: document.querySelector("#landing-profile-options"),
 };
+let profilePicker = null;
 
 const cacheHints = {
   words: null,
@@ -274,11 +277,14 @@ function renderProgressStatus() {
   }
 }
 
-async function hydrateProfileOptions() {
+function hydrateProfileOptions() {
   const storedProfileId = String(window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
   elements.profileIdInput.value = storedProfileId;
-  const result = await window.ContentStore.listProfileIds(state.supabase);
-  window.ContentStore.renderProfileOptions(elements.profileOptions, result.profileIds);
+  profilePicker?.setOptions(window.ContentStore.getRememberedProfileIds());
+  window.ContentStore
+    .listProfileIds(state.supabase)
+    .then((result) => profilePicker?.setOptions(result.profileIds))
+    .catch((error) => console.warn("[home] 同步标识读取失败。", error.message || error));
 }
 
 function dayKey(value) {
@@ -571,19 +577,19 @@ async function init() {
 
   renderContentStatus();
   renderLookupState("输入单词后即可联想匹配候选词。");
-  await hydrateProfileOptions();
+  hydrateProfileOptions();
   await loadStudyDashboard();
 }
 
-elements.profileIdInput?.addEventListener("change", async () => {
+async function switchLandingProfile() {
   const profileId = String(elements.profileIdInput.value || "").trim();
   const profileIds = window.ContentStore.rememberProfileId(profileId);
-  window.ContentStore.renderProfileOptions(elements.profileOptions, profileIds);
+  profilePicker?.setOptions(profileIds);
   elements.progressStatus.textContent = profileId ? `正在读取 ${profileId} 的学习进度。` : "请选择同步标识。";
   await loadStudyDashboard();
   const result = await window.ContentStore.listProfileIds(state.supabase);
-  window.ContentStore.renderProfileOptions(elements.profileOptions, result.profileIds);
-});
+  profilePicker?.setOptions(result.profileIds);
+}
 
 elements.dictionarySubmit?.addEventListener("click", () => {
   runLookup().catch((error) => {
@@ -643,6 +649,17 @@ updateCalendarCard();
 window.setInterval(updateCalendarCard, 1000);
 
 hydrateLandingCache();
+profilePicker = window.ProfilePicker?.create({
+  root: elements.profilePicker,
+  input: elements.profileIdInput,
+  toggle: elements.profilePickerToggle,
+  panel: elements.profilePickerPanel,
+  onCommit: () => {
+    switchLandingProfile().catch((error) => {
+      elements.progressStatus.textContent = `进度读取失败：${error.message}`;
+    });
+  },
+});
 init().catch((error) => {
   elements.contentStatus.textContent = `主页初始化失败：${error.message}`;
   elements.progressStatus.textContent = "请检查内容源或 Supabase 配置。";
