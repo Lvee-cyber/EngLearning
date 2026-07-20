@@ -6,6 +6,7 @@ const MASTERED_THRESHOLD = Number(APP_CONFIG.masteredThreshold || 10);
 const REVIEW_PROGRESS_TABLE = APP_CONFIG.reviewProgressTable || APP_CONFIG.supabaseTable || "review_progress";
 const CONTENT_STATS = APP_CONFIG.contentStats || {};
 const PROGRESS_TIMEOUT_MS = Number(APP_CONFIG.progressTimeoutMs || 2500);
+const WORDS_PAGE_SIZE = window.matchMedia?.("(max-width: 640px)").matches ? 12 : 24;
 
 const state = {
   baseWords: [],
@@ -17,11 +18,14 @@ const state = {
   sortDirection: "desc",
   searchSuggestions: [],
   activeSearchSuggestionIndex: -1,
+  visibleCount: WORDS_PAGE_SIZE,
 };
 
 const elements = {
+  profilePicker: document.querySelector("#words-profile-picker"),
+  profilePickerToggle: document.querySelector("#words-profile-picker-toggle"),
+  profilePickerPanel: document.querySelector("#words-profile-picker-panel"),
   profileIdInput: document.querySelector("#words-profile-id"),
-  profileOptions: document.querySelector("#words-profile-options"),
   filter: document.querySelector("#words-filter"),
   filterPills: [...document.querySelectorAll(".words-filter-pill")],
   sortButtons: [...document.querySelectorAll(".words-sort-button")],
@@ -33,7 +37,11 @@ const elements = {
   totalCount: document.querySelector("#words-total-count"),
   reviewableCount: document.querySelector("#words-reviewable-count"),
   masteredCount: document.querySelector("#words-mastered-count"),
+  loadMoreRow: document.querySelector("#words-load-more-row"),
+  loadMoreButton: document.querySelector("#words-load-more"),
+  renderCount: document.querySelector("#words-render-count"),
 };
+let profilePicker = null;
 
 const COMMON_FIELDS = new Set([
   "term",
@@ -340,10 +348,11 @@ function isHard(entry) {
   return getIncorrectCount(entry) >= 3;
 }
 
-async function fetchWords() {
+async function fetchWords(options = {}) {
+  const useOnlineSource = options.online !== false;
   const { items, source } = await window.ContentStore.fetchCollection({
-    supabase: state.supabase,
-    tableName: APP_CONFIG.wordsTable || "vocabulary_words",
+    supabase: useOnlineSource ? state.supabase : null,
+    tableName: useOnlineSource ? APP_CONFIG.wordsTable || "vocabulary_words" : "",
     fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
     label: "词库",
   });
@@ -520,7 +529,8 @@ function applySearch(words) {
     .map((item) => item.entry);
 }
 
-function renderWords() {
+function renderWords(options = {}) {
+  if (options.reset !== false) state.visibleCount = WORDS_PAGE_SIZE;
   syncFilterPills();
   syncSortButtons();
   const filtered = applySearch(applyFilter([...state.words]));
@@ -529,11 +539,13 @@ function renderWords() {
   if (!filtered.length) {
     elements.list.innerHTML = "";
     elements.empty.classList.remove("hidden");
+    elements.loadMoreRow.classList.add("hidden");
     return;
   }
 
   elements.empty.classList.add("hidden");
-  elements.list.innerHTML = filtered
+  const visibleItems = filtered.slice(0, state.visibleCount);
+  elements.list.innerHTML = visibleItems
     .map((entry) => {
       const progress = getProgress(entry);
       const status = isMastered(entry) ? "熟词" : "待复习";
@@ -566,27 +578,47 @@ function renderWords() {
       `;
     })
     .join("");
+
+  const remaining = Math.max(0, filtered.length - visibleItems.length);
+  elements.renderCount.textContent = `已显示 ${visibleItems.length} / ${filtered.length} 个词条`;
+  elements.loadMoreButton.textContent = remaining ? `再显示 ${Math.min(WORDS_PAGE_SIZE, remaining)} 个` : "已显示全部";
+  elements.loadMoreButton.disabled = remaining === 0;
+  elements.loadMoreRow.classList.remove("hidden");
 }
 
 async function reload() {
   const profileIds = window.ContentStore.rememberProfileId(getProfileId());
-  window.ContentStore.renderProfileOptions(elements.profileOptions, profileIds);
+  profilePicker?.setOptions(profileIds);
   await fetchPersonalVocabulary();
   await loadProgress();
   updateStats();
   renderWords();
 }
 
+async function syncOnlineData() {
+  try {
+    await fetchWords({ online: true });
+  } catch (error) {
+    console.warn("[words] 在线词库刷新失败，继续使用本地词库。", error.message || error);
+  }
+  await reload();
+}
+
 async function init() {
   elements.profileIdInput.value = window.localStorage.getItem(STORAGE_KEYS.profileId) || APP_CONFIG.defaultProfileId || "";
   state.supabase = window.ContentStore.createSupabaseClient();
-  const profileResult = await window.ContentStore.listProfileIds(state.supabase);
-  window.ContentStore.renderProfileOptions(elements.profileOptions, profileResult.profileIds);
+  profilePicker?.setOptions(window.ContentStore.getRememberedProfileIds());
   renderStaticStats();
-  await fetchWords();
+  await fetchWords({ online: false });
   updateStats();
   renderWords();
-  await reload();
+  window.ContentStore
+    .listProfileIds(state.supabase)
+    .then((profileResult) => profilePicker?.setOptions(profileResult.profileIds))
+    .catch((error) => console.warn("[words] 同步标识读取失败。", error.message || error));
+  syncOnlineData().catch((error) => {
+    elements.syncStatus.textContent = `在线数据同步失败，当前已展示本地词库：${error.message}`;
+  });
 }
 
 elements.filter.addEventListener("change", renderWords);
@@ -634,12 +666,22 @@ elements.searchSuggestions?.addEventListener("mousedown", (event) => {
   event.preventDefault();
   selectSearchSuggestion(Number(button.dataset.index));
 });
-elements.profileIdInput.addEventListener("change", () => {
-  reload().catch((error) => {
-    elements.syncStatus.textContent = `同步读取失败：${error.message}`;
-  });
+elements.loadMoreButton?.addEventListener("click", () => {
+  state.visibleCount += WORDS_PAGE_SIZE;
+  renderWords({ reset: false });
 });
 
+profilePicker = window.ProfilePicker?.create({
+  root: elements.profilePicker,
+  input: elements.profileIdInput,
+  toggle: elements.profilePickerToggle,
+  panel: elements.profilePickerPanel,
+  onCommit: () => {
+    reload().catch((error) => {
+      elements.syncStatus.textContent = `同步读取失败：${error.message}`;
+    });
+  },
+});
 init().catch((error) => {
   elements.syncStatus.textContent = `初始化失败：${error.message}`;
 });

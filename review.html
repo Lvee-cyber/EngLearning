@@ -7,7 +7,7 @@
     <title>生词拼写复习</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260715-profiles" />
+    <link rel="stylesheet" href="./review.css?v=20260720-performance2" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./site-config.js?v=20260715-profiles"></script>
     <script src="./content-store.js?v=20260715-profiles"></script>
@@ -56,8 +56,28 @@
             <form class="setup-main" autocomplete="off">
               <div class="setup-field">
                 <label class="label" for="profile-id">同步标识</label>
-                <input id="profile-id" class="control text-control" type="text" list="profile-id-options" placeholder="选择已有标识或输入新标识" autocomplete="off" />
-                <datalist id="profile-id-options"></datalist>
+                <div id="profile-picker" class="profile-picker">
+                  <input
+                    id="profile-id"
+                    class="control text-control profile-picker-input"
+                    type="text"
+                    placeholder="选择已有标识或输入新标识"
+                    autocomplete="off"
+                    role="combobox"
+                    aria-autocomplete="list"
+                    aria-expanded="false"
+                    aria-controls="profile-picker-panel"
+                  />
+                  <button
+                    id="profile-picker-toggle"
+                    class="profile-picker-toggle"
+                    type="button"
+                    aria-label="展开全部同步标识"
+                    aria-expanded="false"
+                    aria-controls="profile-picker-panel"
+                  ></button>
+                  <div id="profile-picker-panel" class="profile-picker-panel hidden" role="listbox" aria-label="已有同步标识"></div>
+                </div>
               </div>
               <div class="setup-field setup-field-compact">
                 <label class="label" for="review-count">复习数量</label>
@@ -172,8 +192,9 @@
       </section>
     </main>
 
+    <script src="./profile-picker.js?v=20260720-picker" defer></script>
     <script src="./review-spelling.js?v=20260715-profiles" defer></script>
     <script src="./review-selection.js?v=20260720-strategies" defer></script>
-    <script src="./review.js?v=20260720-strategies" defer></script>
+    <script src="./review.js?v=20260720-picker" defer></script>
   </body>
   </html>

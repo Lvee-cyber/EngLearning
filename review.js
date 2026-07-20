@@ -50,8 +50,10 @@ const elements = {
   modeChoiceButton: document.querySelector("#mode-choice-button"),
   selectionStrategy: document.querySelector("#selection-strategy"),
   selectionStrategyHint: document.querySelector("#selection-strategy-hint"),
+  profilePicker: document.querySelector("#profile-picker"),
+  profilePickerToggle: document.querySelector("#profile-picker-toggle"),
+  profilePickerPanel: document.querySelector("#profile-picker-panel"),
   profileIdInput: document.querySelector("#profile-id"),
-  profileOptions: document.querySelector("#profile-id-options"),
   setupStatus: document.querySelector("#setup-status"),
   syncStatus: document.querySelector("#sync-status"),
   historyToggleButton: document.querySelector("#history-toggle-button"),
@@ -88,6 +90,7 @@ const elements = {
     document.querySelectorAll(".setup-grid, .review-mode-group, .review-strategy-group, .setup-actions, .quiz-topbar, .answer-row, .result-actions"),
   ),
 };
+let profilePicker = null;
 
 const STRATEGY_LABELS = {
   random: "默认随机",
@@ -231,14 +234,14 @@ function getProfileId() {
 function saveProfileId() {
   const profileId = getProfileId();
   const profileIds = window.ContentStore.rememberProfileId(profileId);
-  window.ContentStore.renderProfileOptions(elements.profileOptions, profileIds);
+  profilePicker?.setOptions(profileIds);
   return profileId;
 }
 
 function hydrateProfileId() {
   const fromStorage = window.localStorage.getItem(STORAGE_KEYS.profileId);
   elements.profileIdInput.value = fromStorage || APP_CONFIG.defaultProfileId || "";
-  window.ContentStore.renderProfileOptions(elements.profileOptions, window.ContentStore.getRememberedProfileIds());
+  profilePicker?.setOptions(window.ContentStore.getRememberedProfileIds());
 }
 
 function setSelectionStrategy(strategy, options = {}) {
@@ -255,7 +258,7 @@ function hydrateSelectionStrategy() {
 
 async function hydrateProfileOptions() {
   const result = await window.ContentStore.listProfileIds(state.supabase);
-  window.ContentStore.renderProfileOptions(elements.profileOptions, result.profileIds);
+  profilePicker?.setOptions(result.profileIds);
 }
 
 function progressCacheKey(profileId) {
@@ -1386,7 +1389,7 @@ elements.historyToggleButton?.addEventListener("click", () => {
     renderHistoryOverview(`历史记录读取失败：${error.message}`);
   });
 });
-elements.profileIdInput.addEventListener("change", async () => {
+async function switchProfile() {
   saveProfileId();
   try {
     await fetchPersonalVocabulary();
@@ -1397,9 +1400,18 @@ elements.profileIdInput.addEventListener("change", async () => {
   } catch (error) {
     updateSyncStatus(`同步读取失败：${error.message}`, "bad");
   }
-});
+}
 elements.actionRows.forEach((row) => row.addEventListener("keydown", handleActionRowKeydown));
 
+profilePicker = window.ProfilePicker?.create({
+  root: elements.profilePicker,
+  input: elements.profileIdInput,
+  toggle: elements.profilePickerToggle,
+  panel: elements.profilePickerPanel,
+  onCommit: () => {
+    switchProfile();
+  },
+});
 hydrateProfileId();
 hydrateSelectionStrategy();
 bootData().catch((error) => {

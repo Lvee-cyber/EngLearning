@@ -1,4 +1,4 @@
-const CACHE_NAME = "englearning-shell-v3";
+const CACHE_NAME = "englearning-shell-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -8,6 +8,7 @@ const APP_SHELL = [
   "./review.css",
   "./site-config.js",
   "./content-store.js",
+  "./profile-picker.js",
   "./index.js",
   "./review.js",
   "./review-spelling.js",

@@ -7,7 +7,7 @@
     <title>词库查看</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260715-profiles" />
+    <link rel="stylesheet" href="./review.css?v=20260720-performance2" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./site-config.js?v=20260715-profiles"></script>
     <script src="./content-store.js?v=20260715-profiles"></script>
@@ -33,8 +33,28 @@
         <form class="words-toolbar" autocomplete="off">
           <div class="setup-field">
             <label class="label" for="words-profile-id">同步标识</label>
-            <input id="words-profile-id" class="control text-control" type="text" list="words-profile-options" placeholder="选择已有标识或输入新标识" autocomplete="off" />
-            <datalist id="words-profile-options"></datalist>
+            <div id="words-profile-picker" class="profile-picker">
+              <input
+                id="words-profile-id"
+                class="control text-control profile-picker-input"
+                type="text"
+                placeholder="选择已有标识或输入新标识"
+                autocomplete="off"
+                role="combobox"
+                aria-autocomplete="list"
+                aria-expanded="false"
+                aria-controls="words-profile-picker-panel"
+              />
+              <button
+                id="words-profile-picker-toggle"
+                class="profile-picker-toggle"
+                type="button"
+                aria-label="展开全部同步标识"
+                aria-expanded="false"
+                aria-controls="words-profile-picker-panel"
+              ></button>
+              <div id="words-profile-picker-panel" class="profile-picker-panel hidden" role="listbox" aria-label="已有同步标识"></div>
+            </div>
           </div>
           <div class="setup-field">
             <label class="label" for="words-filter">筛选状态</label>
@@ -87,9 +107,14 @@
       <section class="panel words-list-panel">
         <div id="words-list" class="words-list"></div>
         <p id="words-empty" class="status-text hidden" aria-live="polite">当前没有符合条件的词条。</p>
+        <div id="words-load-more-row" class="words-load-more-row hidden">
+          <p id="words-render-count" class="words-render-count"></p>
+          <button id="words-load-more" class="secondary-button" type="button">显示更多词条</button>
+        </div>
       </section>
     </main>
 
-    <script src="./words.js?v=20260715-profiles" defer></script>
+    <script src="./profile-picker.js?v=20260720-picker" defer></script>
+    <script src="./words.js?v=20260720-performance2" defer></script>
   </body>
 </html>
