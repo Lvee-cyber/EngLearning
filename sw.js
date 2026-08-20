@@ -1,13 +1,18 @@
-const CACHE_NAME = "englearning-shell-v4";
+const CACHE_NAME = "englearning-shell-v5-users";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./review.html",
   "./words.html",
   "./dictionary.html",
+  "./login.html",
+  "./register.html",
+  "./account.html",
+  "./admin.html",
   "./review.css",
   "./site-config.js",
   "./content-store.js",
+  "./auth.js",
   "./profile-picker.js",
   "./index.js",
   "./review.js",
@@ -15,6 +20,10 @@ const APP_SHELL = [
   "./review-selection.js",
   "./words.js",
   "./dictionary.js",
+  "./login.js",
+  "./register.js",
+  "./account.js",
+  "./admin.js",
   "./favicon.svg",
   "./manifest.webmanifest"
 ];

@@ -302,9 +302,9 @@ function enqueuePendingEvent(event) {
 }
 
 async function syncReviewEvent(event) {
-  const rpcResponse = await state.supabase.rpc("record_review_event", {
+  return state.supabase.rpc("record_my_review_event", {
+    p_token: window.EngLearningAuth.getToken(),
     p_event_id: event.event_id,
-    p_profile_id: event.profile_id,
     p_term: event.term,
     p_result: event.result,
     p_user_answer: event.user_answer,
@@ -313,63 +313,23 @@ async function syncReviewEvent(event) {
     p_session_started_at: event.session_started_at,
     p_answered_at: event.answered_at,
   });
-  if (!rpcResponse.error) return rpcResponse;
-
-  const isMissingRpc = rpcResponse.error.code === "PGRST202" || /record_review_event/i.test(rpcResponse.error.message || "");
-  if (!isMissingRpc) return rpcResponse;
-
-  const existingResponse = await state.supabase
-    .from(REVIEW_PROGRESS_TABLE)
-    .select("profile_id, term, correct_count, incorrect_count, review_history, updated_at")
-    .eq("profile_id", event.profile_id)
-    .eq("term", event.term)
-    .maybeSingle();
-  if (existingResponse.error) return rpcResponse;
-
-  const existing = existingResponse.data || {};
-  const history = Array.isArray(existing.review_history) ? existing.review_history : [];
-  if (history.some((item) => item?.event_id === event.event_id)) return { data: existing, error: null, mode: "legacy" };
-  const nextHistory = [
-    ...history,
-    {
-      event_id: event.event_id,
-      answered_at: event.answered_at,
-      result: event.result,
-      user_answer: event.user_answer,
-      mode: event.mode,
-      session_id: event.session_id,
-      session_started_at: event.session_started_at,
-    },
-  ];
-  const upsertResponse = await state.supabase
-    .from(REVIEW_PROGRESS_TABLE)
-    .upsert(
-      {
-        profile_id: event.profile_id,
-        term: event.term,
-        correct_count: Number(existing.correct_count || 0) + (event.result === "correct" ? 1 : 0),
-        incorrect_count: Number(existing.incorrect_count || 0) + (event.result === "incorrect" ? 1 : 0),
-        review_history: nextHistory,
-        updated_at: new Date().toISOString(),
-      },
-      { onConflict: "profile_id,term" },
-    )
-    .select()
-    .single();
-  return { ...upsertResponse, mode: "legacy" };
 }
 
 async function flushPendingEvents() {
   if (!state.supabase) return;
   const pending = readPendingEvents();
   if (!pending.length) return;
-  const remaining = [];
-  for (const event of pending) {
+  const profileId = getProfileId();
+  const currentUserEvents = pending.filter((event) => event.profile_id === profileId);
+  const remaining = pending.filter((event) => event.profile_id !== profileId);
+  for (const event of currentUserEvents) {
     const { error } = await syncReviewEvent(event);
     if (error) remaining.push(event);
   }
   savePendingEvents(remaining);
-  if (!remaining.length) updateSyncStatus(`已补传 ${pending.length} 条离线作答记录。`, "ok");
+  if (currentUserEvents.length && !remaining.some((event) => event.profile_id === profileId)) {
+    updateSyncStatus(`已补传 ${currentUserEvents.length} 条离线作答记录。`, "ok");
+  }
 }
 
 function getEmbeddedReview(entry) {
@@ -555,11 +515,12 @@ async function fetchWords() {
 }
 
 async function fetchPersonalVocabulary() {
-  state.words = [...state.baseWords];
+  const user = window.EngLearningAuth.getCurrentUser();
+  state.words = user?.role === "admin" ? [...state.baseWords] : [];
   const profileId = getProfileId();
   if (!state.supabase || !profileId) return;
 
-  const { data, error } = await state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId });
+  const { data, error } = await window.ContentStore.fetchPersonalVocabulary(state.supabase);
   if (error) {
     console.warn("[review] 个人词库暂不可用。", error.message || error);
     return;
@@ -685,7 +646,7 @@ async function loadProgress() {
   if (!profileId) {
     state.syncReady = false;
     state.progressByTerm = {};
-    updateSyncStatus("请选择或输入同步标识；进度会先保存在当前设备。", "warn");
+    updateSyncStatus("请先登录；进度会先保存在当前设备。", "warn");
     return;
   }
 
@@ -740,12 +701,14 @@ async function loadProgress() {
   cacheProgress(profileId, state.progressByTerm);
 
   state.syncReady = true;
-  updateSyncStatus(`${progressMode === "legacy" ? "旧版在线进度已连接" : "在线同步已连接"}：${profileId}`, "ok");
+  updateSyncStatus(`在线同步已连接：${profileId}`, "ok");
 }
 
 async function bootData() {
+  const user = await window.EngLearningAuth.requireActive();
+  if (!user) return;
+  elements.profileIdInput.value = user.username;
   state.supabase = window.ContentStore.createSupabaseClient();
-  await hydrateProfileOptions();
   await fetchWords();
   await fetchPersonalVocabulary().catch(() => {});
   await flushPendingEvents().catch(() => {});
@@ -766,7 +729,7 @@ function renderHistoryOverview(message = "") {
 
   const entries = Object.entries(state.progressByTerm);
   if (!entries.length) {
-    elements.historyOverviewSummary.innerHTML = `<p class="status-text">当前同步标识还没有复习记录。</p>`;
+    elements.historyOverviewSummary.innerHTML = `<p class="status-text">当前用户还没有复习记录。</p>`;
     elements.historyOverviewRecords.innerHTML = "";
     return;
   }
@@ -789,7 +752,7 @@ function renderHistoryOverview(message = "") {
   `;
 
   if (!sessions.length) {
-    elements.historyOverviewRecords.innerHTML = `<p class="status-text">当前标识还没有可展示的详细作答记录。</p>`;
+    elements.historyOverviewRecords.innerHTML = `<p class="status-text">当前用户还没有可展示的详细作答记录。</p>`;
     return;
   }
 
@@ -844,7 +807,7 @@ async function toggleHistoryOverview() {
 
   const profileId = saveProfileId();
   if (!profileId) {
-    renderHistoryOverview("请先填写同步标识，再查看该标识下的历史复习记录。");
+    renderHistoryOverview("请先登录，再查看个人历史复习记录。");
     return;
   }
 
@@ -991,7 +954,7 @@ function renderQuestion() {
 async function startReview() {
   const profileId = saveProfileId();
   if (!profileId) {
-    updateSetupStatus("请先填写同步标识，用同一个标识可以在多端共享进度。");
+    updateSetupStatus("请先登录，再开始复习。");
     elements.profileIdInput.focus();
     return;
   }
@@ -1396,23 +1359,13 @@ async function switchProfile() {
     await loadProgress();
     updateHomeStats();
     if (state.historyVisible) renderHistoryOverview();
-    updateSetupStatus(`已切换同步标识。当前待复习 ${getReviewableWords().length} 个，熟词 ${getMasteredWords().length} 个。`);
+    updateSetupStatus(`已读取个人词库。当前待复习 ${getReviewableWords().length} 个，熟词 ${getMasteredWords().length} 个。`);
   } catch (error) {
     updateSyncStatus(`同步读取失败：${error.message}`, "bad");
   }
 }
 elements.actionRows.forEach((row) => row.addEventListener("keydown", handleActionRowKeydown));
 
-profilePicker = window.ProfilePicker?.create({
-  root: elements.profilePicker,
-  input: elements.profileIdInput,
-  toggle: elements.profilePickerToggle,
-  panel: elements.profilePickerPanel,
-  onCommit: () => {
-    switchProfile();
-  },
-});
-hydrateProfileId();
 hydrateSelectionStrategy();
 bootData().catch((error) => {
   updateSetupStatus(`初始化失败：${error.message}`);

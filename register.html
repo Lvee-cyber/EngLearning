@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#344a42" />
+    <title>申请账号 · EngLearning</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js?v=20260820-users"></script>
+    <script src="./content-store.js?v=20260820-users"></script>
+    <script src="./auth.js?v=20260820-users"></script>
+  </head>
+  <body class="auth-page">
+    <main class="auth-shell">
+      <section class="auth-intro" aria-labelledby="register-title">
+        <a class="auth-brand" href="./login.html">EngLearning</a>
+        <p class="eyebrow">New learner</p>
+        <h1 id="register-title">建立自己的生词本。</h1>
+        <p>提交申请后，等待 LvE 审批即可开始使用。</p>
+      </section>
+
+      <section class="auth-form-panel" aria-labelledby="register-heading">
+        <div>
+          <p class="section-kicker">Account request</p>
+          <h2 id="register-heading">新建用户</h2>
+        </div>
+        <form id="register-form" class="auth-form" autocomplete="off">
+          <label class="setup-field">
+            <span class="label">用户名</span>
+            <input id="register-username" class="control text-control" name="username" autocomplete="username" required minlength="2" maxlength="24" />
+            <small class="control-hint">2–24 个字符，不能包含空格。</small>
+          </label>
+          <label class="setup-field">
+            <span class="label">设置密码</span>
+            <input id="register-password" class="control text-control" name="password" type="password" autocomplete="new-password" required minlength="3" maxlength="32" inputmode="numeric" />
+          </label>
+          <label class="setup-field">
+            <span class="label">确认密码</span>
+            <input id="register-confirm" class="control text-control" name="confirm-password" type="password" autocomplete="new-password" required minlength="3" maxlength="32" inputmode="numeric" />
+          </label>
+          <button id="register-submit" class="primary-button" type="submit">提交申请</button>
+        </form>
+        <p id="register-status" class="status-text" aria-live="polite"></p>
+        <p class="auth-secondary">已有账号？<a href="./login.html">返回登录</a></p>
+      </section>
+    </main>
+    <script src="./register.js?v=20260820-users" defer></script>
+  </body>
+</html>

@@ -5405,5 +5405,49 @@
       "累积"
     ],
     "added_at": "2026-07-20T02:56:00.494Z"
+  },
+  {
+    "term": "elite",
+    "type": "word",
+    "pos": "N / Adj",
+    "senses": [
+      {
+        "pos": "N",
+        "translation": "精英；精英阶层；社会上层"
+      },
+      {
+        "pos": "Adj",
+        "translation": "精英的；顶尖的；一流的"
+      }
+    ],
+    "translation": "精英；精英阶层；精英的；顶尖的；一流的",
+    "analysis": "作名词时，指某个社会、行业或组织中因财富、权力、能力、教育或地位而居于上层的少数群体；作形容词时，表示属于精英群体或具有最高水平。描述卓越能力时多为褒义，描述权力结构时可能带批判色彩。",
+    "phonetic": "BrE /eɪˈliːt/; AmE /eɪˈliːt/ or /ɪˈliːt/",
+    "origin": "来自法语 élite，是 élire（挑选、选举）的过去分词名词化形式，最终源自拉丁语 eligere（选择、挑选），核心概念是被挑选出来的一小部分人。",
+    "expansions": [
+      "the political/business elite 政治或商业精英",
+      "a small ruling elite 少数统治精英",
+      "elite athletes/soldiers 顶尖运动员或精锐士兵",
+      "elite universities 顶尖大学",
+      "elite unit/force 精锐部队",
+      "elite status 精英地位",
+      "elitism 精英主义",
+      "elitist 精英主义者；精英主义的"
+    ],
+    "pronunciation": "BrE /eɪˈliːt/; AmE /eɪˈliːt/ or /ɪˈliːt/",
+    "accepted_answers": [
+      "精英",
+      "精英阶层",
+      "社会上层",
+      "精英的",
+      "顶尖的",
+      "一流的"
+    ],
+    "added_at": "2026-07-22T01:42:26.923Z",
+    "review": {
+      "correct_count": 0,
+      "incorrect_count": 0,
+      "review_history": []
+    }
   }
 ]

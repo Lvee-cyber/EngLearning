@@ -718,7 +718,7 @@ async function hydratePersonalVocabulary() {
   const profileId = getProfileId();
   state.addedTerms.clear();
   if (!state.supabase || !profileId) return;
-  const { data, error } = await state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId });
+  const { data, error } = await window.ContentStore.fetchPersonalVocabulary(state.supabase);
   if (error) {
     console.warn("[dictionary] 个人词库暂不可用。", error.message || error);
     return;
@@ -736,7 +736,7 @@ async function addToVocabulary(term) {
   }
   const profileId = getProfileId();
   if (!profileId) {
-    updateSummary("请先在复习页选择或输入同步标识，再加入对应词库。");
+    updateSummary("请先登录，再加入个人词库。");
     return;
   }
 
@@ -748,8 +748,8 @@ async function addToVocabulary(term) {
   updateStatus(`正在将 ${entry.term} 加入单词本...`);
 
   const payload = buildWordPayload(entry);
-  const { error } = await state.supabase.rpc("save_personal_vocabulary", {
-    p_profile_id: profileId,
+  const { error } = await state.supabase.rpc("save_my_personal_vocabulary", {
+    p_token: window.EngLearningAuth.getToken(),
     p_term: payload.term,
     p_payload: payload,
   });
@@ -764,7 +764,7 @@ async function addToVocabulary(term) {
 
   state.addedTerms.add(normalizedTerm);
   updateStatus(`${entry.term} 已同步加入单词本。`);
-  updateSummary(`已将 ${entry.term} 加入当前同步标识的个人词库。`);
+  updateSummary(`已将 ${entry.term} 加入 ${profileId} 的个人词库。`);
   renderCurrentResults();
 }
 
@@ -780,6 +780,8 @@ function renderCurrentResults() {
 }
 
 async function init() {
+  const user = await window.EngLearningAuth.requireActive();
+  if (!user) return;
   if (!state.supabase) {
     state.supabase = window.ContentStore.createSupabaseClient();
   }

@@ -364,11 +364,12 @@ async function fetchWords(options = {}) {
 }
 
 async function fetchPersonalVocabulary() {
-  state.words = [...state.baseWords];
+  const user = window.EngLearningAuth.getCurrentUser();
+  state.words = user?.role === "admin" ? [...state.baseWords] : [];
   const profileId = getProfileId();
   if (!state.supabase || !profileId) return;
 
-  const { data, error } = await state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId });
+  const { data, error } = await window.ContentStore.fetchPersonalVocabulary(state.supabase);
   if (error) {
     console.warn("[words] 个人词库暂不可用。", error.message || error);
     return;
@@ -426,7 +427,7 @@ async function loadProgress() {
   try {
     window.localStorage.setItem(`englearning.progress.${profileId}`, JSON.stringify(state.progressByTerm));
   } catch {}
-  elements.syncStatus.textContent = `${progressMode === "legacy" ? "已读取旧版在线进度" : "已连接在线进度"}：${profileId}；词库来源：${state.wordsSource === "supabase" ? "Supabase" : "本地 JSON"}`;
+  elements.syncStatus.textContent = `已连接 ${profileId} 的个人词库与复习进度。`;
 }
 
 function updateStats() {
@@ -587,8 +588,6 @@ function renderWords(options = {}) {
 }
 
 async function reload() {
-  const profileIds = window.ContentStore.rememberProfileId(getProfileId());
-  profilePicker?.setOptions(profileIds);
   await fetchPersonalVocabulary();
   await loadProgress();
   updateStats();
@@ -605,17 +604,15 @@ async function syncOnlineData() {
 }
 
 async function init() {
-  elements.profileIdInput.value = window.localStorage.getItem(STORAGE_KEYS.profileId) || APP_CONFIG.defaultProfileId || "";
+  const user = await window.EngLearningAuth.requireActive();
+  if (!user) return;
+  elements.profileIdInput.value = user.username;
   state.supabase = window.ContentStore.createSupabaseClient();
-  profilePicker?.setOptions(window.ContentStore.getRememberedProfileIds());
-  renderStaticStats();
+  if (user.role === "admin") renderStaticStats();
   await fetchWords({ online: false });
+  await fetchPersonalVocabulary();
   updateStats();
   renderWords();
-  window.ContentStore
-    .listProfileIds(state.supabase)
-    .then((profileResult) => profilePicker?.setOptions(profileResult.profileIds))
-    .catch((error) => console.warn("[words] 同步标识读取失败。", error.message || error));
   syncOnlineData().catch((error) => {
     elements.syncStatus.textContent = `在线数据同步失败，当前已展示本地词库：${error.message}`;
   });
@@ -671,17 +668,6 @@ elements.loadMoreButton?.addEventListener("click", () => {
   renderWords({ reset: false });
 });
 
-profilePicker = window.ProfilePicker?.create({
-  root: elements.profilePicker,
-  input: elements.profileIdInput,
-  toggle: elements.profilePickerToggle,
-  panel: elements.profilePickerPanel,
-  onCommit: () => {
-    reload().catch((error) => {
-      elements.syncStatus.textContent = `同步读取失败：${error.message}`;
-    });
-  },
-});
 init().catch((error) => {
   elements.syncStatus.textContent = `初始化失败：${error.message}`;
 });

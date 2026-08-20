@@ -8,13 +8,16 @@
   const memoryCache = new Map();
   const jsonMemoryCache = new Map();
   const jsonPromiseCache = new Map();
+  let sharedSupabaseClient = null;
 
   function createSupabaseClient() {
+    if (sharedSupabaseClient) return sharedSupabaseClient;
     if (!APP_CONFIG.supabaseUrl || !APP_CONFIG.supabaseAnonKey) return null;
     if (!windowObject.supabase?.createClient) return null;
-    return windowObject.supabase.createClient(APP_CONFIG.supabaseUrl, APP_CONFIG.supabaseAnonKey, {
+    sharedSupabaseClient = windowObject.supabase.createClient(APP_CONFIG.supabaseUrl, APP_CONFIG.supabaseAnonKey, {
       auth: { persistSession: false },
     });
+    return sharedSupabaseClient;
   }
 
   async function fetchJson(url, label, options = {}) {
@@ -388,15 +391,19 @@
   async function fetchReviewProgress(supabase, profileId) {
     const normalizedProfileId = normalizeProfileId(profileId);
     if (!supabase || !normalizedProfileId) return { data: [], error: null, mode: "local" };
-    const response = await supabase.rpc("get_review_progress", { p_profile_id: normalizedProfileId });
-    if (!response.error) return { data: response.data || [], error: null, mode: "rpc" };
-    const legacyResponse = await supabase
-      .from("review_progress")
-      .select("term, correct_count, incorrect_count, review_history, updated_at")
-      .eq("profile_id", normalizedProfileId)
-      .order("term");
-    if (!legacyResponse.error) return { data: legacyResponse.data || [], error: null, mode: "legacy" };
-    return { data: [], error: response.error, mode: "offline" };
+    const token = windowObject.EngLearningAuth?.getToken?.() || "";
+    if (!token) return { data: [], error: new Error("尚未登录"), mode: "offline" };
+    const response = await supabase.rpc("get_my_review_progress", { p_token: token });
+    return response.error
+      ? { data: [], error: response.error, mode: "offline" }
+      : { data: response.data || [], error: null, mode: "user" };
+  }
+
+  async function fetchPersonalVocabulary(supabase) {
+    const token = windowObject.EngLearningAuth?.getToken?.() || "";
+    if (!supabase || !token) return { data: [], error: null };
+    const response = await supabase.rpc("get_my_personal_vocabulary", { p_token: token });
+    return { data: response.data || [], error: response.error || null };
   }
 
   function renderProfileOptions(datalist, profileIds) {
@@ -420,6 +427,7 @@
     rememberProfileId,
     listProfileIds,
     fetchReviewProgress,
+    fetchPersonalVocabulary,
     renderProfileOptions,
   };
 })(window);

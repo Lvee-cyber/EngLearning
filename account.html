@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#344a42" />
+    <title>个人中心 · EngLearning</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js?v=20260820-users"></script>
+    <script src="./content-store.js?v=20260820-users"></script>
+    <script src="./auth.js?v=20260820-users"></script>
+  </head>
+  <body>
+    <main class="page account-page">
+      <header class="account-topbar">
+        <a class="account-brand" href="./index.html">EngLearning</a>
+        <nav class="account-nav" aria-label="账号导航">
+          <a id="account-home-link" href="./index.html">学习主页</a>
+          <a id="account-admin-link" class="hidden" href="./admin.html">用户管理</a>
+          <button id="account-logout" class="text-button" type="button">退出登录</button>
+        </nav>
+      </header>
+
+      <section class="account-heading">
+        <div>
+          <p class="section-kicker">Personal overview</p>
+          <h1><span id="account-username">—</span> 的学习概览</h1>
+          <p id="account-status-copy" class="intro">正在读取账号状态。</p>
+        </div>
+        <span id="account-status-badge" class="account-status-badge">读取中</span>
+      </section>
+
+      <section id="account-pending" class="account-notice hidden" aria-live="polite">
+        <p class="section-kicker">Approval pending</p>
+        <h2>申请已经收到</h2>
+        <p>LvE 审批后即可使用词库、辞典和复习功能。你可以稍后重新登录查看状态。</p>
+      </section>
+
+      <section id="account-dashboard" class="account-dashboard hidden" aria-live="polite">
+        <dl class="account-metrics">
+          <div><dt>生词总数</dt><dd id="account-vocabulary-count">—</dd></div>
+          <div><dt>熟词</dt><dd id="account-mastered-count">—</dd></div>
+          <div><dt>待复习</dt><dd id="account-reviewable-count">—</dd></div>
+          <div><dt>累计复习</dt><dd id="account-review-count">—</dd></div>
+        </dl>
+
+        <div class="account-detail-grid">
+          <section>
+            <p class="section-kicker">Review record</p>
+            <h2>复习情况</h2>
+            <dl class="account-detail-list">
+              <div><dt>答对</dt><dd id="account-correct-count">—</dd></div>
+              <div><dt>答错</dt><dd id="account-incorrect-count">—</dd></div>
+              <div><dt>正确率</dt><dd id="account-accuracy">—</dd></div>
+              <div><dt>最近复习</dt><dd id="account-last-review">—</dd></div>
+            </dl>
+          </section>
+          <section>
+            <p class="section-kicker">Account record</p>
+            <h2>账号信息</h2>
+            <dl class="account-detail-list">
+              <div><dt>注册时间</dt><dd id="account-created-at">—</dd></div>
+              <div><dt>上次登录</dt><dd id="account-last-login">—</dd></div>
+              <div><dt>账号角色</dt><dd id="account-role">—</dd></div>
+            </dl>
+          </section>
+        </div>
+      </section>
+      <p id="account-error" class="status-text" aria-live="polite"></p>
+    </main>
+    <script src="./account.js?v=20260820-users" defer></script>
+  </body>
+</html>

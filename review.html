@@ -7,10 +7,11 @@
     <title>生词拼写复习</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260720-performance2" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./site-config.js?v=20260715-profiles"></script>
     <script src="./content-store.js?v=20260715-profiles"></script>
+    <script src="./auth.js?v=20260820-users"></script>
   </head>
   <body>
     <main class="page">
@@ -20,6 +21,7 @@
             <div class="hero-topbar-actions">
               <a class="secondary-button link-button hero-home-button" href="./index.html">返回主页</a>
               <button id="dictionary-button" class="secondary-button hero-dictionary-button" type="button">查辞典</button>
+              <a class="secondary-button link-button" href="./account.html">个人中心</a>
             </div>
           </div>
 
@@ -55,28 +57,26 @@
           <div class="setup-grid">
             <form class="setup-main" autocomplete="off">
               <div class="setup-field">
-                <label class="label" for="profile-id">同步标识</label>
-                <div id="profile-picker" class="profile-picker">
+                <label class="label" for="profile-id">当前用户</label>
+                <div id="profile-picker" class="profile-picker is-locked">
                   <input
                     id="profile-id"
                     class="control text-control profile-picker-input"
                     type="text"
-                    placeholder="选择已有标识或输入新标识"
+                    placeholder="当前登录用户"
                     autocomplete="off"
-                    role="combobox"
-                    aria-autocomplete="list"
-                    aria-expanded="false"
-                    aria-controls="profile-picker-panel"
+                    readonly
                   />
                   <button
                     id="profile-picker-toggle"
                     class="profile-picker-toggle"
                     type="button"
-                    aria-label="展开全部同步标识"
+                    aria-label="用户由登录账号确定"
+                    hidden
                     aria-expanded="false"
                     aria-controls="profile-picker-panel"
                   ></button>
-                  <div id="profile-picker-panel" class="profile-picker-panel hidden" role="listbox" aria-label="已有同步标识"></div>
+                  <div id="profile-picker-panel" class="profile-picker-panel hidden" role="listbox" aria-label="当前用户"></div>
                 </div>
               </div>
               <div class="setup-field setup-field-compact">
@@ -109,7 +109,7 @@
             <button id="history-toggle-button" class="secondary-button" type="button" aria-expanded="false" aria-controls="history-overview-panel">查看历史记录</button>
             <button id="start-button" class="primary-button" type="button">开始复习</button>
           </div>
-          <p class="control-hint">建议每轮控制在 5 到 10 个，保持节奏更稳定。所有设备填写同一个同步标识即可共享复习进度。</p>
+          <p class="control-hint">建议每轮控制在 5 到 10 个，保持节奏更稳定。登录同一账号即可在多端延续进度。</p>
           <p id="sync-status" class="status-text">正在连接在线进度服务。</p>
           <p id="setup-status" class="status-text">正在读取 <code>words.json</code>。</p>
           <section id="history-overview-panel" class="setup-history hidden" aria-live="polite">
@@ -192,9 +192,8 @@
       </section>
     </main>
 
-    <script src="./profile-picker.js?v=20260720-picker" defer></script>
     <script src="./review-spelling.js?v=20260715-profiles" defer></script>
     <script src="./review-selection.js?v=20260720-strategies" defer></script>
-    <script src="./review.js?v=20260720-picker" defer></script>
+    <script src="./review.js?v=20260820-users" defer></script>
   </body>
   </html>

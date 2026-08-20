@@ -7,10 +7,11 @@
     <title>EngLearning</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260720-profile-picker" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./site-config.js?v=20260715-profiles"></script>
     <script src="./content-store.js?v=20260715-profiles"></script>
+    <script src="./auth.js?v=20260820-users"></script>
   </head>
   <body>
     <main class="page landing-page">
@@ -20,6 +21,7 @@
           <nav class="landing-mini-nav" aria-label="主要导航">
             <a href="./words.html">词库</a>
             <a href="./dictionary.html">辞典</a>
+            <a href="./account.html">个人中心</a>
           </nav>
         </div>
 
@@ -36,24 +38,22 @@
 
           <div class="landing-today" aria-label="今日学习概览">
             <div class="landing-profile-switcher">
-              <label for="landing-profile-id">当前同步标识</label>
-              <div id="landing-profile-picker" class="profile-picker">
+              <label for="landing-profile-id">当前用户</label>
+              <div id="landing-profile-picker" class="profile-picker is-locked">
                 <input
                   id="landing-profile-id"
                   class="control text-control profile-picker-input"
                   type="text"
-                  placeholder="选择或输入同步标识"
+                  placeholder="当前登录用户"
                   autocomplete="off"
-                  role="combobox"
-                  aria-autocomplete="list"
-                  aria-expanded="false"
-                  aria-controls="landing-profile-picker-panel"
+                  readonly
                 />
                 <button
                   id="landing-profile-picker-toggle"
                   class="profile-picker-toggle"
                   type="button"
-                  aria-label="展开全部同步标识"
+                  aria-label="用户由登录账号确定"
+                  hidden
                   aria-expanded="false"
                   aria-controls="landing-profile-picker-panel"
                 ></button>
@@ -61,7 +61,7 @@
                   id="landing-profile-picker-panel"
                   class="profile-picker-panel hidden"
                   role="listbox"
-                  aria-label="已有同步标识"
+                  aria-label="当前用户"
                 ></div>
               </div>
             </div>
@@ -134,7 +134,6 @@
       </section>
     </main>
 
-    <script src="./profile-picker.js?v=20260720-picker" defer></script>
-    <script src="./index.js?v=20260720-profile-picker" defer></script>
+    <script src="./index.js?v=20260820-users" defer></script>
   </body>
 </html>

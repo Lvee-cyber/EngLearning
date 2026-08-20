@@ -261,30 +261,23 @@ function formatContentTimestamp(value) {
 function renderProgressStatus() {
   const profileId = String(elements.profileIdInput?.value || window.localStorage.getItem("englearning.profile_id") || "").trim();
   if (!state.supabase) {
-    elements.progressStatus.textContent = "当前未检测到 Supabase 配置，复习页将只能读取本地进度。";
+    elements.progressStatus.textContent = "当前未检测到在线服务配置。";
     return;
   }
   if (!profileId) {
-    elements.progressStatus.textContent = "请选择或输入同步标识，即可显示对应学习进度。";
+    elements.progressStatus.textContent = "正在确认登录用户。";
     return;
   }
-  if (state.progressMode === "rpc") {
-    elements.progressStatus.textContent = `当前标识：${profileId}；在线进度已连接。`;
-  } else if (state.progressMode === "legacy") {
-    elements.progressStatus.textContent = `当前标识：${profileId}；已通过旧版数据表读取进度。`;
+  if (state.progressMode === "user") {
+    elements.progressStatus.textContent = `当前用户：${profileId}；在线进度已连接。`;
   } else {
-    elements.progressStatus.textContent = `当前标识：${profileId}；在线进度暂不可用，已显示本机缓存。`;
+    elements.progressStatus.textContent = `当前用户：${profileId}；在线进度暂不可用，已显示本机缓存。`;
   }
 }
 
 function hydrateProfileOptions() {
   const storedProfileId = String(window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
   elements.profileIdInput.value = storedProfileId;
-  profilePicker?.setOptions(window.ContentStore.getRememberedProfileIds());
-  window.ContentStore
-    .listProfileIds(state.supabase)
-    .then((result) => profilePicker?.setOptions(result.profileIds))
-    .catch((error) => console.warn("[home] 同步标识读取失败。", error.message || error));
 }
 
 function dayKey(value) {
@@ -312,7 +305,8 @@ async function loadStudyDashboard() {
     fallbackUrl: APP_CONFIG.wordsUrl || "./data/words.json",
     label: "词库",
   });
-  state.words = Array.isArray(items) ? items : [];
+  const user = window.EngLearningAuth.getCurrentUser();
+  state.words = user?.role === "admin" && Array.isArray(items) ? items : [];
   state.wordsSource = source;
 
   const profileId = String(elements.profileIdInput?.value || window.localStorage.getItem("englearning.profile_id") || APP_CONFIG.defaultProfileId || "").trim();
@@ -321,7 +315,7 @@ async function loadStudyDashboard() {
   if (state.supabase && profileId) {
     const [progressResponse, personalResponse] = await Promise.all([
       window.ContentStore.fetchReviewProgress(state.supabase, profileId),
-      state.supabase.rpc("get_personal_vocabulary", { p_profile_id: profileId }),
+      window.ContentStore.fetchPersonalVocabulary(state.supabase),
     ]);
     if (progressResponse.error) {
       try {
@@ -360,7 +354,7 @@ async function loadStudyDashboard() {
     ? todayCount
       ? `今天已经完成 ${todayCount} 次回忆，再来一小轮巩固记忆。`
       : `今天有 ${due} 个词可以继续巩固，先完成一轮 5 到 10 个。`
-    : `词库已有 ${state.words.length} 个词；选择同步标识后，这里会显示对应的每日进度。`;
+    : "你的词库目前为空，可以先去辞典加入一个单词。";
   renderProgressStatus();
 }
 
@@ -571,6 +565,8 @@ function hydrateLandingCache() {
 }
 
 async function init() {
+  const user = await window.EngLearningAuth.requireActive();
+  if (!user) return;
   if (!state.supabase) {
     state.supabase = window.ContentStore.createSupabaseClient();
   }
@@ -585,10 +581,8 @@ async function switchLandingProfile() {
   const profileId = String(elements.profileIdInput.value || "").trim();
   const profileIds = window.ContentStore.rememberProfileId(profileId);
   profilePicker?.setOptions(profileIds);
-  elements.progressStatus.textContent = profileId ? `正在读取 ${profileId} 的学习进度。` : "请选择同步标识。";
+  elements.progressStatus.textContent = profileId ? `正在读取 ${profileId} 的学习进度。` : "正在确认登录用户。";
   await loadStudyDashboard();
-  const result = await window.ContentStore.listProfileIds(state.supabase);
-  profilePicker?.setOptions(result.profileIds);
 }
 
 elements.dictionarySubmit?.addEventListener("click", () => {
@@ -649,17 +643,6 @@ updateCalendarCard();
 window.setInterval(updateCalendarCard, 1000);
 
 hydrateLandingCache();
-profilePicker = window.ProfilePicker?.create({
-  root: elements.profilePicker,
-  input: elements.profileIdInput,
-  toggle: elements.profilePickerToggle,
-  panel: elements.profilePickerPanel,
-  onCommit: () => {
-    switchLandingProfile().catch((error) => {
-      elements.progressStatus.textContent = `进度读取失败：${error.message}`;
-    });
-  },
-});
 init().catch((error) => {
   elements.contentStatus.textContent = `主页初始化失败：${error.message}`;
   elements.progressStatus.textContent = "请检查内容源或 Supabase 配置。";

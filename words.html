@@ -7,10 +7,11 @@
     <title>词库查看</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./review.css?v=20260720-performance2" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="./site-config.js?v=20260715-profiles"></script>
     <script src="./content-store.js?v=20260715-profiles"></script>
+    <script src="./auth.js?v=20260820-users"></script>
   </head>
   <body>
     <main class="page">
@@ -19,12 +20,13 @@
           <div>
             <p class="eyebrow">Vocabulary Library</p>
             <h1 class="words-title">查看词库</h1>
-            <p class="intro">词条内容来自 GitHub 的 <code>words.json</code>，复习状态来自 Supabase，同步标识相同即可查看同一份学习进度。</p>
+            <p class="intro">这里仅显示当前登录用户的生词与复习状态。</p>
           </div>
           <div class="words-nav">
             <a class="secondary-button link-button" href="./index.html">返回主页</a>
             <a class="secondary-button link-button" href="./dictionary.html">查辞典</a>
             <a class="secondary-button link-button" href="./review.html">返回复习</a>
+            <a class="secondary-button link-button" href="./account.html">个人中心</a>
           </div>
         </div>
       </section>
@@ -32,28 +34,26 @@
       <section class="panel words-controls">
         <form class="words-toolbar" autocomplete="off">
           <div class="setup-field">
-            <label class="label" for="words-profile-id">同步标识</label>
-            <div id="words-profile-picker" class="profile-picker">
+            <label class="label" for="words-profile-id">当前用户</label>
+            <div id="words-profile-picker" class="profile-picker is-locked">
               <input
                 id="words-profile-id"
                 class="control text-control profile-picker-input"
                 type="text"
-                placeholder="选择已有标识或输入新标识"
+                placeholder="当前登录用户"
                 autocomplete="off"
-                role="combobox"
-                aria-autocomplete="list"
-                aria-expanded="false"
-                aria-controls="words-profile-picker-panel"
+                readonly
               />
               <button
                 id="words-profile-picker-toggle"
                 class="profile-picker-toggle"
                 type="button"
-                aria-label="展开全部同步标识"
+                aria-label="用户由登录账号确定"
+                hidden
                 aria-expanded="false"
                 aria-controls="words-profile-picker-panel"
               ></button>
-              <div id="words-profile-picker-panel" class="profile-picker-panel hidden" role="listbox" aria-label="已有同步标识"></div>
+              <div id="words-profile-picker-panel" class="profile-picker-panel hidden" role="listbox" aria-label="当前用户"></div>
             </div>
           </div>
           <div class="setup-field">
@@ -114,7 +114,6 @@
       </section>
     </main>
 
-    <script src="./profile-picker.js?v=20260720-picker" defer></script>
-    <script src="./words.js?v=20260720-performance2" defer></script>
+    <script src="./words.js?v=20260820-users" defer></script>
   </body>
 </html>

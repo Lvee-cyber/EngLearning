@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#344a42" />
+    <title>用户管理 · EngLearning</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js?v=20260820-users"></script>
+    <script src="./content-store.js?v=20260820-users"></script>
+    <script src="./auth.js?v=20260820-users"></script>
+  </head>
+  <body>
+    <main class="page admin-page">
+      <header class="account-topbar">
+        <a class="account-brand" href="./index.html">EngLearning</a>
+        <nav class="account-nav" aria-label="管理员导航">
+          <a href="./index.html">学习主页</a>
+          <a href="./account.html">个人中心</a>
+          <button id="admin-logout" class="text-button" type="button">退出登录</button>
+        </nav>
+      </header>
+
+      <section class="admin-heading">
+        <div>
+          <p class="section-kicker">User administration</p>
+          <h1>用户管理</h1>
+          <p class="intro">审批新用户并维护现有账号。词库数量按当前数据实时统计。</p>
+        </div>
+        <button id="admin-refresh" class="secondary-button" type="button">刷新列表</button>
+      </section>
+
+      <div class="admin-filter-row" role="group" aria-label="筛选用户状态">
+        <button class="admin-filter is-active" type="button" data-filter="all">全部 <span id="admin-count-all">0</span></button>
+        <button class="admin-filter" type="button" data-filter="pending">待审批 <span id="admin-count-pending">0</span></button>
+        <button class="admin-filter" type="button" data-filter="active">正常 <span id="admin-count-active">0</span></button>
+        <button class="admin-filter" type="button" data-filter="disabled">已禁用 <span id="admin-count-disabled">0</span></button>
+      </div>
+
+      <section class="admin-table-wrap" aria-live="polite">
+        <table class="admin-table">
+          <thead><tr><th>用户</th><th>状态</th><th>注册时间</th><th>上次登录</th><th>词库数量</th><th><span class="sr-only">操作</span></th></tr></thead>
+          <tbody id="admin-users"></tbody>
+        </table>
+        <p id="admin-empty" class="status-text hidden">当前筛选下没有用户。</p>
+      </section>
+      <p id="admin-status" class="status-text" aria-live="polite">正在读取用户列表。</p>
+    </main>
+    <dialog id="admin-confirm" class="confirm-dialog">
+      <form method="dialog">
+        <p class="section-kicker">Confirm action</p>
+        <h2 id="admin-confirm-title">确认操作</h2>
+        <p id="admin-confirm-copy"></p>
+        <div class="confirm-actions">
+          <button class="secondary-button" value="cancel">取消</button>
+          <button id="admin-confirm-submit" class="danger-button" value="confirm">确认</button>
+        </div>
+      </form>
+    </dialog>
+    <script src="./admin.js?v=20260820-users" defer></script>
+  </body>
+</html>

@@ -97,8 +97,8 @@
 1. 从 `data/words.json` 中抽取词条进行复习
 2. 逐个提问，要求用户输入中文释义
 3. 根据答案判断正误
-4. 答对则在 Supabase `review_progress` 累计 `correct_count`
-5. 答错则在 Supabase `review_progress` 累计 `incorrect_count`
+4. 答对则在当前登录用户的 Supabase `review_progress` 累计 `correct_count`
+5. 答错则在当前登录用户的 Supabase `review_progress` 累计 `incorrect_count`
 6. 每次作答写入 `review_events`，断网时先保存在浏览器本地队列
 7. 当某词条累计答对达到 10 次时，将其视为熟词
 
@@ -119,7 +119,7 @@
 - `accepted_answers`
 - `added_at`
 
-个人复习字段不写入 `data/words.json` 或 `data/dictionary.json`；内容文件只保存可公开的词条资料。
+个人复习字段不写入 `data/words.json` 或 `data/dictionary.json`；内容文件只保存可公开的词条资料。`data/words.json` 同步后的基础词库固定归 `LvE` 管理员，其他用户只读取自己的个人生词。
 
 其中：
 

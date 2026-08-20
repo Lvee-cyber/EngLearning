@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#344a42" />
+    <title>登录 · EngLearning</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./review.css?v=20260820-users" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./site-config.js?v=20260820-users"></script>
+    <script src="./content-store.js?v=20260820-users"></script>
+    <script src="./auth.js?v=20260820-users"></script>
+  </head>
+  <body class="auth-page">
+    <main class="auth-shell">
+      <section class="auth-intro" aria-labelledby="auth-title">
+        <a class="auth-brand" href="./login.html">EngLearning</a>
+        <p class="eyebrow">A quiet place to remember</p>
+        <h1 id="auth-title">继续你的单词学习。</h1>
+        <p>登录后即可使用个人词库、辞典和复习记录。</p>
+      </section>
+
+      <section class="auth-form-panel" aria-labelledby="login-heading">
+        <div>
+          <p class="section-kicker">Welcome back</p>
+          <h2 id="login-heading">登录</h2>
+        </div>
+        <form id="login-form" class="auth-form" autocomplete="on">
+          <label class="setup-field">
+            <span class="label">用户名</span>
+            <input id="login-username" class="control text-control" name="username" autocomplete="username" required maxlength="24" />
+          </label>
+          <label class="setup-field">
+            <span class="label">密码</span>
+            <input id="login-password" class="control text-control" name="password" type="password" autocomplete="current-password" required maxlength="32" inputmode="numeric" />
+          </label>
+          <button id="login-submit" class="primary-button" type="submit">登录</button>
+        </form>
+        <p id="login-status" class="status-text" aria-live="polite"></p>
+        <p class="auth-secondary">还没有账号？<a href="./register.html">申请新用户</a></p>
+      </section>
+    </main>
+    <script src="./login.js?v=20260820-users" defer></script>
+  </body>
+</html>
