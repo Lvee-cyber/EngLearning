@@ -434,7 +434,7 @@
 
 if ("serviceWorker" in navigator && /^https?:$/.test(window.location.protocol)) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js").catch((error) => {
+    navigator.serviceWorker.register("./sw.js?v=20260820-users-v2").catch((error) => {
       console.warn("[EngLearning] 离线服务注册失败。", error?.message || error);
     });
   });
